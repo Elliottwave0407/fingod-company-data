@@ -1,0 +1,105 @@
+{
+ "isin": "INE065D01027",
+ "sym": "AEROENTER",
+ "name": "Aeroflex Enterprises Limited",
+ "scrip": "511076",
+ "mcap_cr": 1421.91,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 160.83,
+   "ebitda": 27.38,
+   "pat": 18.5,
+   "margin_pct": 17.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 134.48,
+   "ebitda": 18.26,
+   "pat": 14.42,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 172.35,
+   "ebitda": 29.31,
+   "pat": 20.44,
+   "margin_pct": 17.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 191.42,
+   "ebitda": 37.77,
+   "pat": 24.81,
+   "margin_pct": 19.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 199.58,
+   "ebitda": 35.24,
+   "pat": 25.67,
+   "margin_pct": 17.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 69,
+    "profit": 52,
+    "quality": 77
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 189.0,
+   "ebitda": 16.33,
+   "pat": 103.22,
+   "margin_pct": 8.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 7,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

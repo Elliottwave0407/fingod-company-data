@@ -1,0 +1,105 @@
+{
+ "isin": "INE752G01015",
+ "sym": "MSPL",
+ "name": "MSP Steel & Power Limited",
+ "scrip": "532650",
+ "mcap_cr": 1783.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 760.07,
+   "ebitda": 44.72,
+   "pat": -33.83,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 710.86,
+   "ebitda": 44.9,
+   "pat": 17.84,
+   "margin_pct": 6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 676.86,
+   "ebitda": -78.1,
+   "pat": -74.76,
+   "margin_pct": -11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 638.92,
+   "ebitda": 31.77,
+   "pat": 5.49,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 816.32,
+   "ebitda": 77.47,
+   "pat": 85.2,
+   "margin_pct": 9.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 69,
+    "profit": 75,
+    "quality": 100
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 826.52,
+   "ebitda": 52.55,
+   "pat": 21.98,
+   "margin_pct": 6.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 54,
+    "profit": 38,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

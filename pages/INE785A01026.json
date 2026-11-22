@@ -1,0 +1,105 @@
+{
+ "isin": "INE785A01026",
+ "sym": "JAYAGROGN",
+ "name": "Jayant Agro Organics Limited",
+ "scrip": "524330",
+ "mcap_cr": 675.0,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 634.0,
+   "ebitda": 22.69,
+   "pat": 11.01,
+   "margin_pct": 3.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 672.17,
+   "ebitda": 30.36,
+   "pat": 16.36,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 499.6,
+   "ebitda": 22.53,
+   "pat": 9.21,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 587.3,
+   "ebitda": 17.57,
+   "pat": 6.33,
+   "margin_pct": 3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 646.66,
+   "ebitda": 33.35,
+   "pat": 18.26,
+   "margin_pct": 5.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 59,
+    "profit": 52,
+    "quality": 71
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 796.61,
+   "ebitda": 39.0,
+   "pat": 20.63,
+   "margin_pct": 4.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 64,
+    "profit": 40,
+    "quality": 53
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE435G01025",
+ "sym": "DHANUKA",
+ "name": "Dhanuka Agritech Limited",
+ "scrip": "507717",
+ "mcap_cr": 4035.01,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 442.02,
+   "ebitda": 109.74,
+   "pat": 75.5,
+   "margin_pct": 24.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 528.29,
+   "ebitda": 83.2,
+   "pat": 55.5,
+   "margin_pct": 15.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 598.25,
+   "ebitda": 136.73,
+   "pat": 93.97,
+   "margin_pct": 22.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 409.92,
+   "ebitda": 58.67,
+   "pat": 40.0,
+   "margin_pct": 14.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 483.34,
+   "ebitda": 124.88,
+   "pat": 97.77,
+   "margin_pct": 25.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 45,
+    "profit": 62,
+    "quality": 77
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 461.93,
+   "ebitda": 55.01,
+   "pat": 36.3,
+   "margin_pct": 11.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 7,
+    "profit": 10,
+    "quality": 30
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 657.51,
+   "ebitda": 152.97,
+   "pat": 109.22,
+   "margin_pct": 23.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 44,
+    "profit": 55,
+    "quality": 61
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 12,
+  "concalls_read": 12,
+  "latest_concall": "2026-11-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

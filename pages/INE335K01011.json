@@ -1,0 +1,105 @@
+{
+ "isin": "INE335K01011",
+ "sym": "COFFEEDAY",
+ "name": "Coffee Day Enterprises Limited",
+ "scrip": "539436",
+ "mcap_cr": 605.87,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 268.03,
+   "ebitda": 75.97,
+   "pat": -114.16,
+   "margin_pct": 28.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 269.32,
+   "ebitda": 67.19,
+   "pat": 20.68,
+   "margin_pct": 24.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 279.53,
+   "ebitda": 31.72,
+   "pat": -15.7,
+   "margin_pct": 11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 286.39,
+   "ebitda": 97.44,
+   "pat": 70.49,
+   "margin_pct": 34.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 280.51,
+   "ebitda": 191.63,
+   "pat": 132.07,
+   "margin_pct": 68.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 66,
+    "profit": 100,
+    "quality": 65
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 289.9,
+   "ebitda": 47.4,
+   "pat": 4.52,
+   "margin_pct": 16.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 19,
+    "profit": 13,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

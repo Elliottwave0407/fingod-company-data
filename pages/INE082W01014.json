@@ -1,0 +1,105 @@
+{
+ "isin": "INE082W01014",
+ "sym": "WEWIN",
+ "name": "WE WIN LIMITED",
+ "scrip": "543535",
+ "mcap_cr": 43.7,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 20.29,
+   "ebitda": 2.81,
+   "pat": 1.08,
+   "margin_pct": 13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 20.34,
+   "ebitda": 1.58,
+   "pat": 0.59,
+   "margin_pct": 7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 20.76,
+   "ebitda": 0.87,
+   "pat": 1.79,
+   "margin_pct": 4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 21.78,
+   "ebitda": 1.92,
+   "pat": 1.17,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 30.77,
+   "ebitda": 1.45,
+   "pat": 0.91,
+   "margin_pct": 4.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 47,
+    "profit": 4,
+    "quality": 27
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 23.55,
+   "ebitda": 1.17,
+   "pat": 0.46,
+   "margin_pct": 5.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 28,
+    "profit": 6,
+    "quality": 11
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

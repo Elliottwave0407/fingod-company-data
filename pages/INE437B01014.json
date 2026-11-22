@@ -1,0 +1,97 @@
+{
+ "isin": "INE437B01014",
+ "sym": "KAKATCEM",
+ "name": "Kakatiya Cement Sugar & Industries Limited",
+ "scrip": "500234",
+ "mcap_cr": 73.05,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 19.85,
+   "ebitda": -10.66,
+   "pat": -7.87,
+   "margin_pct": -53.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 25.56,
+   "ebitda": -4.54,
+   "pat": -3.22,
+   "margin_pct": -17.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 25.41,
+   "ebitda": -12.47,
+   "pat": -11.49,
+   "margin_pct": -49.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 13.07,
+   "ebitda": -5.93,
+   "pat": -4.91,
+   "margin_pct": -45.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 14.83,
+   "ebitda": -5.84,
+   "pat": -4.44,
+   "margin_pct": -39.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 17.95,
+   "ebitda": -7.23,
+   "pat": -6.37,
+   "margin_pct": -40.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE992I01013",
+ "sym": "STARTECK",
+ "name": "Starteck Finance Limited",
+ "scrip": "512381",
+ "mcap_cr": 242.95,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 8.49,
+   "ebitda": 6.2,
+   "pat": 1.41,
+   "margin_pct": 73.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 7.82,
+   "ebitda": 7.18,
+   "pat": 3.54,
+   "margin_pct": 91.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 9.44,
+   "ebitda": 7.67,
+   "pat": 7.36,
+   "margin_pct": 81.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 10.18,
+   "ebitda": 9.51,
+   "pat": 7.48,
+   "margin_pct": 93.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 8.31,
+   "ebitda": 7.74,
+   "pat": 5.23,
+   "margin_pct": 93.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 45,
+    "profit": 100,
+    "quality": 65
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 10.91,
+   "ebitda": 10.16,
+   "pat": 4.32,
+   "margin_pct": 93.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 84,
+    "profit": 65,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

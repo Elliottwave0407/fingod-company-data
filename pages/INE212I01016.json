@@ -1,0 +1,105 @@
+{
+ "isin": "INE212I01016",
+ "sym": "SPAL",
+ "name": "S. P. Apparels Limited",
+ "scrip": "540048",
+ "mcap_cr": 2330.37,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 399.21,
+   "ebitda": 54.25,
+   "pat": 30.39,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 403.44,
+   "ebitda": 52.21,
+   "pat": 20.66,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 427.34,
+   "ebitda": 63.64,
+   "pat": 34.7,
+   "margin_pct": 14.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 382.95,
+   "ebitda": 53.6,
+   "pat": 27.0,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 364.91,
+   "ebitda": 44.64,
+   "pat": 18.59,
+   "margin_pct": 12.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 27,
+    "quality": 10
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 401.08,
+   "ebitda": 60.4,
+   "pat": 24.87,
+   "margin_pct": 15.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 38,
+    "profit": 65,
+    "quality": 40
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

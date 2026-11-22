@@ -1,0 +1,97 @@
+{
+ "isin": "INE054A01027",
+ "sym": "VIPIND",
+ "name": "VIP Industries Limited",
+ "scrip": "507880",
+ "mcap_cr": 3523.68,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 494.21,
+   "ebitda": 10.75,
+   "pat": -27.36,
+   "margin_pct": 2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 561.43,
+   "ebitda": 26.58,
+   "pat": -13.1,
+   "margin_pct": 4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 406.34,
+   "ebitda": -102.07,
+   "pat": -143.14,
+   "margin_pct": -25.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 454.13,
+   "ebitda": -5.59,
+   "pat": -52.87,
+   "margin_pct": -1.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 436.23,
+   "ebitda": -81.67,
+   "pat": -128.9,
+   "margin_pct": -18.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 578.36,
+   "ebitda": -11.12,
+   "pat": -53.56,
+   "margin_pct": -1.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2025-08-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

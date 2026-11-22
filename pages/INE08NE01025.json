@@ -1,0 +1,105 @@
+{
+ "isin": "INE08NE01025",
+ "sym": "SANSTAR",
+ "name": "Sanstar Limited",
+ "scrip": "544217",
+ "mcap_cr": 1940.0,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 226.32,
+   "ebitda": -0.49,
+   "pat": 5.52,
+   "margin_pct": -0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 168.85,
+   "ebitda": -1.74,
+   "pat": -0.33,
+   "margin_pct": -1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 196.43,
+   "ebitda": 1.35,
+   "pat": 0.63,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 201.76,
+   "ebitda": 17.89,
+   "pat": 13.67,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 216.78,
+   "ebitda": 19.35,
+   "pat": 20.49,
+   "margin_pct": 8.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 21,
+    "profit": 87,
+    "quality": 100
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 206.16,
+   "ebitda": 15.38,
+   "pat": 9.21,
+   "margin_pct": 7.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 63,
+    "profit": 86,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

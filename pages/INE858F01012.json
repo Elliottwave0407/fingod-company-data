@@ -1,0 +1,101 @@
+{
+ "isin": "INE858F01012",
+ "sym": "NITCO",
+ "name": "Nitco Limited",
+ "scrip": "532722",
+ "mcap_cr": 2026.92,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 93.53,
+   "ebitda": -6.15,
+   "pat": -2.9,
+   "margin_pct": -6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 150.22,
+   "ebitda": 49.62,
+   "pat": 47.45,
+   "margin_pct": 33.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 107.7,
+   "ebitda": -13.71,
+   "pat": 0.94,
+   "margin_pct": -12.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 131.76,
+   "ebitda": -10.02,
+   "pat": -11.96,
+   "margin_pct": -7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 152.32,
+   "ebitda": -4.93,
+   "pat": -7.79,
+   "margin_pct": -3.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 116.01,
+   "ebitda": -8.2,
+   "pat": -10.33,
+   "margin_pct": -7.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 3,
+    "profit": -6,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE196Y01018",
+ "sym": "WORTHPERI",
+ "name": "Worth Peripherals Limited",
+ "scrip": "544577",
+ "mcap_cr": 223.9,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 71.16,
+   "ebitda": 8.38,
+   "pat": 5.2,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 76.23,
+   "ebitda": 7.26,
+   "pat": 4.34,
+   "margin_pct": 9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 77.46,
+   "ebitda": 8.7,
+   "pat": 5.55,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 75.09,
+   "ebitda": 8.22,
+   "pat": 4.09,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 76.13,
+   "ebitda": 8.83,
+   "pat": 4.55,
+   "margin_pct": 11.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 36,
+    "profit": 39,
+    "quality": 25
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 82.0,
+   "ebitda": 9.67,
+   "pat": 5.26,
+   "margin_pct": 11.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 58,
+    "profit": 64,
+    "quality": 51
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 88.71,
+   "ebitda": 6.39,
+   "pat": 2.0,
+   "margin_pct": 7.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 27,
+    "profit": 6,
+    "quality": 1
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

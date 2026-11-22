@@ -1,0 +1,105 @@
+{
+ "isin": "INE568Z01015",
+ "sym": "URAVIDEF",
+ "name": "Uravi Defence and Technology Limited",
+ "scrip": "543930",
+ "mcap_cr": 114.23,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 11.4,
+   "ebitda": 1.74,
+   "pat": 0.92,
+   "margin_pct": 15.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 10.02,
+   "ebitda": 1.22,
+   "pat": 0.53,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 12.07,
+   "ebitda": 0.62,
+   "pat": -0.05,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 10.2,
+   "ebitda": 0.55,
+   "pat": 0.16,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 9.86,
+   "ebitda": 0.12,
+   "pat": 1.5,
+   "margin_pct": 1.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 7,
+    "profit": 1,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 10.33,
+   "ebitda": 0.7,
+   "pat": 0.7,
+   "margin_pct": 6.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 5,
+    "quality": 88
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2024-11-26"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,102 @@
+{
+ "isin": "INE581X01021",
+ "sym": "GLOBE",
+ "name": "GLOBE ENTERPRISES (INDIA) LIMITED",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 130.02,
+   "ebitda": 6.8,
+   "pat": 0.06,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 148.28,
+   "ebitda": 7.87,
+   "pat": 1.4,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 156.56,
+   "ebitda": 7.45,
+   "pat": 4.46,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 159.46,
+   "ebitda": 9.12,
+   "pat": 2.02,
+   "margin_pct": 5.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 178.1,
+   "ebitda": 5.67,
+   "pat": 1.27,
+   "margin_pct": 3.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 46,
+    "profit": 13,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 184.51,
+   "ebitda": 9.27,
+   "pat": 2.91,
+   "margin_pct": 5.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 61,
+    "profit": 33,
+    "quality": 51
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

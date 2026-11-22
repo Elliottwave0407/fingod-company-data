@@ -1,0 +1,105 @@
+{
+ "isin": "INE557B01019",
+ "sym": "LIBERTSHOE",
+ "name": "Liberty Shoes Limited",
+ "scrip": "526596",
+ "mcap_cr": 413.82,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 187.66,
+   "ebitda": 24.84,
+   "pat": 5.61,
+   "margin_pct": 13.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 172.79,
+   "ebitda": 16.01,
+   "pat": 3.33,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 174.23,
+   "ebitda": 15.15,
+   "pat": 1.97,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 180.92,
+   "ebitda": 13.19,
+   "pat": 0.59,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 212.05,
+   "ebitda": 20.11,
+   "pat": 5.3,
+   "margin_pct": 9.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 28,
+    "profit": 8,
+    "quality": 10
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 169.86,
+   "ebitda": 13.36,
+   "pat": 0.68,
+   "margin_pct": 7.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 17,
+    "profit": 23,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

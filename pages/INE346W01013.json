@@ -1,0 +1,105 @@
+{
+ "isin": "INE346W01013",
+ "sym": "APEX",
+ "name": "Apex Frozen Foods Limited",
+ "scrip": "540692",
+ "mcap_cr": 888.13,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 197.32,
+   "ebitda": 6.59,
+   "pat": 1.96,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 258.16,
+   "ebitda": 15.45,
+   "pat": 9.1,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 238.34,
+   "ebitda": 13.92,
+   "pat": 11.87,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 264.29,
+   "ebitda": 13.43,
+   "pat": 10.09,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 167.82,
+   "ebitda": 12.77,
+   "pat": 7.79,
+   "margin_pct": 7.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 56,
+    "profit": 79,
+    "quality": 76
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 256.53,
+   "ebitda": 30.25,
+   "pat": 21.67,
+   "margin_pct": 11.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 62,
+    "profit": 89,
+    "quality": 85
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

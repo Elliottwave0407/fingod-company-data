@@ -1,0 +1,98 @@
+{
+ "isin": "INE431F01018",
+ "sym": "PKTEA",
+ "name": "The Peria Karamalai Tea & Produce Company Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 9.97,
+   "ebitda": -1.96,
+   "pat": -3.37,
+   "margin_pct": -19.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 16.67,
+   "ebitda": 9.48,
+   "pat": 7.85,
+   "margin_pct": 56.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 10.57,
+   "ebitda": -3.64,
+   "pat": -5.12,
+   "margin_pct": -34.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 17.57,
+   "ebitda": 3.62,
+   "pat": 0.41,
+   "margin_pct": 20.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 12.1,
+   "ebitda": -8.76,
+   "pat": -9.81,
+   "margin_pct": -72.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 20.56,
+   "ebitda": 11.89,
+   "pat": 9.9,
+   "margin_pct": 57.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 66,
+    "profit": 62,
+    "quality": 78
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

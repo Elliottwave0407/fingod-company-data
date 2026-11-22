@@ -1,0 +1,105 @@
+{
+ "isin": "INE144Z01023",
+ "sym": "TARSONS",
+ "name": "Tarsons Products Limited",
+ "scrip": "543399",
+ "mcap_cr": 1610.82,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 112.69,
+   "ebitda": 37.02,
+   "pat": 10.2,
+   "margin_pct": 32.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 91.36,
+   "ebitda": 24.7,
+   "pat": 1.78,
+   "margin_pct": 27.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 102.33,
+   "ebitda": 27.44,
+   "pat": 3.32,
+   "margin_pct": 26.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 107.89,
+   "ebitda": 30.18,
+   "pat": 5.04,
+   "margin_pct": 28.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 120.93,
+   "ebitda": 34.49,
+   "pat": 4.18,
+   "margin_pct": 28.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 28,
+    "profit": 20,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 110.24,
+   "ebitda": 25.98,
+   "pat": -1.44,
+   "margin_pct": 23.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 47,
+    "profit": 19,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

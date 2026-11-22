@@ -1,0 +1,101 @@
+{
+ "isin": "INE1VXE01018",
+ "sym": "STLNETWORK",
+ "name": "STL Networks Limited",
+ "scrip": "544395",
+ "mcap_cr": 2001.91,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 189.95,
+   "ebitda": 4.18,
+   "pat": -22.42,
+   "margin_pct": 2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 230.79,
+   "ebitda": 6.44,
+   "pat": -19.29,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 335.14,
+   "ebitda": 17.86,
+   "pat": -10.51,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 203.08,
+   "ebitda": 4.9,
+   "pat": -46.89,
+   "margin_pct": 2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 176.15,
+   "ebitda": 8.28,
+   "pat": -21.88,
+   "margin_pct": 4.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 59,
+    "profit": 60,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 270.11,
+   "ebitda": 11.96,
+   "pat": -16.13,
+   "margin_pct": 4.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 77,
+    "profit": 52,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

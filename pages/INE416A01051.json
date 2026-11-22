@@ -1,0 +1,97 @@
+{
+ "isin": "INE416A01051",
+ "sym": "AQYLON",
+ "name": "Aqylon Nexus Limited",
+ "scrip": "530943",
+ "mcap_cr": 284.43,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1.39,
+   "ebitda": 0.32,
+   "pat": 0.33,
+   "margin_pct": 23.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.03,
+   "ebitda": -0.71,
+   "pat": -1.86,
+   "margin_pct": -2366.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 4.34,
+   "ebitda": 14.72,
+   "pat": 14.11,
+   "margin_pct": 339.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 4.95,
+   "ebitda": 1.83,
+   "pat": 1.48,
+   "margin_pct": 37.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 3.88,
+   "ebitda": -5.72,
+   "pat": -7.99,
+   "margin_pct": -147.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 8.46,
+   "ebitda": 4.92,
+   "pat": 4.26,
+   "margin_pct": 58.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

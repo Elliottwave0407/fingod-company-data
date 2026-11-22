@@ -1,0 +1,97 @@
+{
+ "isin": "INE701A01023",
+ "sym": "VHL",
+ "name": "Vardhman Holdings Limited",
+ "scrip": "500439",
+ "mcap_cr": 1137.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 2.2,
+   "ebitda": 1.22,
+   "pat": 69.73,
+   "margin_pct": 55.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 3.41,
+   "ebitda": 3.09,
+   "pat": 62.58,
+   "margin_pct": 90.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2.75,
+   "ebitda": 2.39,
+   "pat": 46.12,
+   "margin_pct": 86.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 5.76,
+   "ebitda": 5.25,
+   "pat": 53.71,
+   "margin_pct": 91.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.33,
+   "ebitda": -0.52,
+   "pat": 53.62,
+   "margin_pct": -157.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 10.83,
+   "ebitda": 10.08,
+   "pat": 98.08,
+   "margin_pct": 93.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

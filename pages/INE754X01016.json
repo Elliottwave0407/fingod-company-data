@@ -1,0 +1,105 @@
+{
+ "isin": "INE754X01016",
+ "sym": "AARVI",
+ "name": "Aarvi Encon Limited",
+ "scrip": "544850",
+ "mcap_cr": 182.43,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 144.45,
+   "ebitda": 4.46,
+   "pat": 2.95,
+   "margin_pct": 3.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 151.3,
+   "ebitda": 4.93,
+   "pat": 4.22,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 158.85,
+   "ebitda": 5.59,
+   "pat": 4.8,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 167.45,
+   "ebitda": 4.68,
+   "pat": 4.01,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 172.25,
+   "ebitda": 7.16,
+   "pat": 4.58,
+   "margin_pct": 4.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 79,
+    "profit": 46,
+    "quality": 76
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 172.68,
+   "ebitda": 4.49,
+   "pat": 5.99,
+   "margin_pct": 2.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 27,
+    "quality": 74
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

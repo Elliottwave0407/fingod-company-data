@@ -1,0 +1,105 @@
+{
+ "isin": "INE281A01026",
+ "sym": "CENTEXT",
+ "name": "Century Extrusions Limited",
+ "scrip": "500083",
+ "mcap_cr": 182.27,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 119.79,
+   "ebitda": 6.51,
+   "pat": 2.67,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 104.15,
+   "ebitda": 6.97,
+   "pat": 2.36,
+   "margin_pct": 6.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 109.66,
+   "ebitda": 7.67,
+   "pat": 2.76,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 122.53,
+   "ebitda": 8.16,
+   "pat": 2.9,
+   "margin_pct": 6.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 142.22,
+   "ebitda": 8.16,
+   "pat": 2.95,
+   "margin_pct": 5.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 62,
+    "profit": 40,
+    "quality": 27
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 138.36,
+   "ebitda": 10.65,
+   "pat": 3.77,
+   "margin_pct": 7.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 86,
+    "profit": 48,
+    "quality": 54
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

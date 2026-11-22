@@ -1,0 +1,98 @@
+{
+ "isin": "INE414B01021",
+ "sym": "ANTGRAPHIC",
+ "name": "Antarctica Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 6.79,
+   "ebitda": 1.74,
+   "pat": 0.65,
+   "margin_pct": 25.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 4.99,
+   "ebitda": 1.01,
+   "pat": 0.69,
+   "margin_pct": 20.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 5.0,
+   "ebitda": 0.98,
+   "pat": 0.4,
+   "margin_pct": 19.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 22.44,
+   "ebitda": 0.02,
+   "pat": 0.22,
+   "margin_pct": 0.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 30.47,
+   "ebitda": -0.34,
+   "pat": -0.08,
+   "margin_pct": -1.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 50,
+    "profit": -1,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 40.41,
+   "ebitda": 0.59,
+   "pat": 0.55,
+   "margin_pct": 1.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

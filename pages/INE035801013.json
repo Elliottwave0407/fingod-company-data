@@ -1,0 +1,111 @@
+{
+ "isin": "INE035801013",
+ "sym": "AERONEU",
+ "name": "Aeroflex Neu Limited",
+ "scrip": "543743",
+ "mcap_cr": 231.34,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 33.89,
+   "ebitda": 0.18,
+   "pat": -0.33,
+   "margin_pct": 0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 29.7,
+   "ebitda": 0.71,
+   "pat": 0.81,
+   "margin_pct": 2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 34.52,
+   "ebitda": 0.71,
+   "pat": 1.07,
+   "margin_pct": 2.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 30.88,
+   "ebitda": 2.0,
+   "pat": 0.74,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 34.06,
+   "ebitda": -0.02,
+   "pat": -0.87,
+   "margin_pct": -0.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 28.24,
+   "ebitda": 0.95,
+   "pat": 0.08,
+   "margin_pct": 3.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 44,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 35.75,
+   "ebitda": -3.06,
+   "pat": -3.92,
+   "margin_pct": -8.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 16,
+    "profit": -7,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

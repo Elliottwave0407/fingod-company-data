@@ -1,0 +1,101 @@
+{
+ "isin": "INE0MWH01014",
+ "sym": "TRUALT",
+ "name": "TruAlt Bioenergy Limited",
+ "scrip": "544545",
+ "mcap_cr": 2800.25,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 303.89,
+   "ebitda": 41.54,
+   "pat": 4.73,
+   "margin_pct": 13.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 114.86,
+   "ebitda": -4.56,
+   "pat": -37.94,
+   "margin_pct": -4.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 713.24,
+   "ebitda": 134.0,
+   "pat": 69.19,
+   "margin_pct": 18.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 595.52,
+   "ebitda": 118.76,
+   "pat": 60.95,
+   "margin_pct": 19.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 626.88,
+   "ebitda": 132.76,
+   "pat": 59.27,
+   "margin_pct": 21.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 97,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 811.1,
+   "ebitda": 101.16,
+   "pat": 34.99,
+   "margin_pct": 12.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 90,
+    "quality": 8
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-10-29"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

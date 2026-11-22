@@ -1,0 +1,105 @@
+{
+ "isin": "INE00OQ01016",
+ "sym": "DHARMAJ",
+ "name": "Dharmaj Crop Guard Limited",
+ "scrip": "543687",
+ "mcap_cr": 820.09,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 209.93,
+   "ebitda": 3.85,
+   "pat": -2.45,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 367.38,
+   "ebitda": 50.74,
+   "pat": 32.59,
+   "margin_pct": 13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 347.26,
+   "ebitda": 31.79,
+   "pat": 17.33,
+   "margin_pct": 9.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 189.54,
+   "ebitda": 7.32,
+   "pat": 0.76,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 233.78,
+   "ebitda": 10.62,
+   "pat": 3.97,
+   "margin_pct": 4.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 72,
+    "profit": 62,
+    "quality": 10
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 382.38,
+   "ebitda": 57.4,
+   "pat": 38.11,
+   "margin_pct": 15.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 40,
+    "profit": 56,
+    "quality": 58
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

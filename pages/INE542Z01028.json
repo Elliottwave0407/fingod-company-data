@@ -1,0 +1,112 @@
+{
+ "isin": "INE542Z01028",
+ "sym": "KAPSTON",
+ "name": "Kapston Services Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 185.27,
+   "ebitda": 9.39,
+   "pat": 6.05,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 190.7,
+   "ebitda": 9.13,
+   "pat": 6.13,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 210.65,
+   "ebitda": 9.95,
+   "pat": 7.06,
+   "margin_pct": 4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 212.66,
+   "ebitda": 11.22,
+   "pat": 7.43,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 216.19,
+   "ebitda": 13.47,
+   "pat": 7.52,
+   "margin_pct": 6.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 70,
+    "profit": 49,
+    "quality": 54
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 221.66,
+   "ebitda": 14.53,
+   "pat": 8.49,
+   "margin_pct": 6.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 76,
+    "profit": 55,
+    "quality": 65
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 225.37,
+   "ebitda": 14.58,
+   "pat": 8.41,
+   "margin_pct": 6.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 63,
+    "profit": 55,
+    "quality": 52
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

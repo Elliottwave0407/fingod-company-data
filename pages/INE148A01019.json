@@ -1,0 +1,105 @@
+{
+ "isin": "INE148A01019",
+ "sym": "TNPETRO",
+ "name": "Tamilnadu PetroProducts Limited",
+ "scrip": "500777",
+ "mcap_cr": 994.18,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 454.79,
+   "ebitda": 38.14,
+   "pat": 26.88,
+   "margin_pct": 8.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 463.01,
+   "ebitda": 47.02,
+   "pat": 35.25,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 457.34,
+   "ebitda": 40.98,
+   "pat": 34.24,
+   "margin_pct": 9.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 421.29,
+   "ebitda": 31.09,
+   "pat": 19.88,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 124.5,
+   "ebitda": 19.04,
+   "pat": 8.09,
+   "margin_pct": 15.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 92,
+    "quality": 10
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 780.15,
+   "ebitda": 120.55,
+   "pat": 80.11,
+   "margin_pct": 15.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 92,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

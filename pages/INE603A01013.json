@@ -1,0 +1,105 @@
+{
+ "isin": "INE603A01013",
+ "sym": "PRAKASH",
+ "name": "Prakash Industries Limited",
+ "scrip": "506022",
+ "mcap_cr": 1978.85,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 844.64,
+   "ebitda": 131.62,
+   "pat": 90.83,
+   "margin_pct": 15.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1037.08,
+   "ebitda": 137.98,
+   "pat": 91.4,
+   "margin_pct": 13.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 723.16,
+   "ebitda": 108.21,
+   "pat": 61.57,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 798.55,
+   "ebitda": 124.47,
+   "pat": 86.85,
+   "margin_pct": 15.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 919.87,
+   "ebitda": 142.63,
+   "pat": 93.32,
+   "margin_pct": 15.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 40,
+    "profit": 44,
+    "quality": 44
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1032.0,
+   "ebitda": 147.34,
+   "pat": 71.27,
+   "margin_pct": 14.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 31,
+    "profit": 53,
+    "quality": 19
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

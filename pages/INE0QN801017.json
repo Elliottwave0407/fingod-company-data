@@ -1,0 +1,105 @@
+{
+ "isin": "INE0QN801017",
+ "sym": "KRYSTAL",
+ "name": "Krystal Integrated Services Limited",
+ "scrip": "544149",
+ "mcap_cr": 813.17,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 413.1,
+   "ebitda": 26.75,
+   "pat": 16.93,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 323.08,
+   "ebitda": 21.35,
+   "pat": 16.44,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 283.4,
+   "ebitda": 17.91,
+   "pat": 13.17,
+   "margin_pct": 6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 305.86,
+   "ebitda": 20.49,
+   "pat": 15.9,
+   "margin_pct": 6.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 364.94,
+   "ebitda": 23.77,
+   "pat": 18.85,
+   "margin_pct": 6.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 16,
+    "profit": 38,
+    "quality": 63
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 360.71,
+   "ebitda": 22.8,
+   "pat": 17.41,
+   "margin_pct": 6.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 41,
+    "profit": 34,
+    "quality": 56
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

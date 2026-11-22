@@ -1,0 +1,115 @@
+{
+ "isin": "INE079J01017",
+ "sym": "GATEWAY",
+ "name": "Gateway Distriparks Limited",
+ "scrip": "543489",
+ "mcap_cr": 2347.83,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 534.94,
+   "ebitda": -151.09,
+   "pat": -190.97,
+   "margin_pct": -28.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 550.43,
+   "ebitda": 119.34,
+   "pat": 62.18,
+   "margin_pct": 21.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 567.32,
+   "ebitda": 120.34,
+   "pat": 66.3,
+   "margin_pct": 21.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 560.41,
+   "ebitda": 119.67,
+   "pat": 67.17,
+   "margin_pct": 21.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 533.65,
+   "ebitda": 117.75,
+   "pat": 63.7,
+   "margin_pct": 22.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 25,
+    "profit": 98,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 549.3,
+   "ebitda": 118.69,
+   "pat": 51.27,
+   "margin_pct": 21.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": 48,
+    "quality": 16
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 580.13,
+   "ebitda": 126.06,
+   "pat": 58.53,
+   "margin_pct": 21.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 31,
+    "profit": 55,
+    "quality": 21
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

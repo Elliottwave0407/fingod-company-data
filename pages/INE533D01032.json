@@ -1,0 +1,105 @@
+{
+ "isin": "INE533D01032",
+ "sym": "RAJRILTD",
+ "name": "Raj Rayon Industries Limited",
+ "scrip": "530699",
+ "mcap_cr": 1253.97,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 205.85,
+   "ebitda": 10.63,
+   "pat": 13.44,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 260.19,
+   "ebitda": 15.34,
+   "pat": 6.07,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 319.32,
+   "ebitda": 15.59,
+   "pat": 8.02,
+   "margin_pct": 4.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 305.39,
+   "ebitda": 16.63,
+   "pat": 5.87,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 294.82,
+   "ebitda": 16.15,
+   "pat": 14.03,
+   "margin_pct": 5.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 90,
+    "profit": 40,
+    "quality": 64
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 204.46,
+   "ebitda": 17.28,
+   "pat": 6.86,
+   "margin_pct": 8.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 27,
+    "profit": 64,
+    "quality": 32
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,107 @@
+{
+ "isin": "INE366A01041",
+ "sym": "DWARKESH",
+ "name": "Dwarikesh Sugar Industries Limited",
+ "scrip": "532610",
+ "mcap_cr": 794.2,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 458.85,
+   "ebitda": 106.98,
+   "pat": 46.33,
+   "margin_pct": 23.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 405.47,
+   "ebitda": 3.92,
+   "pat": -9.38,
+   "margin_pct": 1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 245.93,
+   "ebitda": -41.25,
+   "pat": -32.62,
+   "margin_pct": -16.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 325.12,
+   "ebitda": 37.63,
+   "pat": 15.44,
+   "margin_pct": 11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 425.43,
+   "ebitda": 86.57,
+   "pat": 57.41,
+   "margin_pct": 20.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 17,
+    "quality": 63
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 358.13,
+   "ebitda": -25.71,
+   "pat": -25.73,
+   "margin_pct": -7.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 256.59,
+   "ebitda": -14.57,
+   "pat": -13.12,
+   "margin_pct": -5.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 0,
+  "latest_concall": "2025-05-26"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

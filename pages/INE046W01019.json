@@ -1,0 +1,105 @@
+{
+ "isin": "INE046W01019",
+ "sym": "MUTHOOTMF",
+ "name": "Muthoot Microfin Limited",
+ "scrip": "544055",
+ "mcap_cr": 2819.94,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 555.03,
+   "ebitda": -290.01,
+   "pat": -401.15,
+   "margin_pct": -52.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 558.62,
+   "ebitda": 226.08,
+   "pat": 6.18,
+   "margin_pct": 40.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 576.33,
+   "ebitda": 258.38,
+   "pat": 30.52,
+   "margin_pct": 44.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 602.81,
+   "ebitda": 301.13,
+   "pat": 62.44,
+   "margin_pct": 50.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 631.81,
+   "ebitda": 332.11,
+   "pat": 71.12,
+   "margin_pct": 52.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 49,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 668.63,
+   "ebitda": 362.24,
+   "pat": 81.34,
+   "margin_pct": 54.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 100,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

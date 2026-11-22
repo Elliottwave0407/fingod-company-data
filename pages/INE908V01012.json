@@ -1,0 +1,102 @@
+{
+ "isin": "INE908V01012",
+ "sym": "LIBAS",
+ "name": "Libas Consumer Products Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 31.34,
+   "ebitda": 1.11,
+   "pat": 0.74,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 18.2,
+   "ebitda": -1.33,
+   "pat": -1.65,
+   "margin_pct": -7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 20.85,
+   "ebitda": 1.45,
+   "pat": 1.09,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 21.88,
+   "ebitda": 1.37,
+   "pat": 1.39,
+   "margin_pct": 6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 17.14,
+   "ebitda": -1.83,
+   "pat": -0.63,
+   "margin_pct": -10.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -9,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 12.7,
+   "ebitda": 0.7,
+   "pat": 0.05,
+   "margin_pct": 5.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 84,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

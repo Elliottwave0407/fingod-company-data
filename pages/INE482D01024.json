@@ -1,0 +1,105 @@
+{
+ "isin": "INE482D01024",
+ "sym": "CARYSIL",
+ "name": "CARYSIL LIMITED",
+ "scrip": "524091",
+ "mcap_cr": 2645.45,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 204.18,
+   "ebitda": 34.93,
+   "pat": 18.82,
+   "margin_pct": 17.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 226.99,
+   "ebitda": 43.85,
+   "pat": 22.91,
+   "margin_pct": 19.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 240.67,
+   "ebitda": 46.11,
+   "pat": 27.42,
+   "margin_pct": 19.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 222.57,
+   "ebitda": 41.05,
+   "pat": 21.26,
+   "margin_pct": 18.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 233.72,
+   "ebitda": 45.03,
+   "pat": 27.38,
+   "margin_pct": 19.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 61,
+    "profit": 69,
+    "quality": 70
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 262.14,
+   "ebitda": 53.4,
+   "pat": 32.05,
+   "margin_pct": 20.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 57,
+    "profit": 59,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-09"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

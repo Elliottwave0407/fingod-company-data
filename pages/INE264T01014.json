@@ -1,0 +1,105 @@
+{
+ "isin": "INE264T01014",
+ "sym": "CAPACITE",
+ "name": "Capacite Infraprojects Limited",
+ "scrip": "540710",
+ "mcap_cr": 1428.54,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 671.3,
+   "ebitda": 85.74,
+   "pat": 53.1,
+   "margin_pct": 12.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 589.36,
+   "ebitda": 101.6,
+   "pat": 46.99,
+   "margin_pct": 17.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 646.16,
+   "ebitda": 108.31,
+   "pat": 51.06,
+   "margin_pct": 16.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 675.42,
+   "ebitda": 108.23,
+   "pat": 50.49,
+   "margin_pct": 16.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 711.78,
+   "ebitda": 109.08,
+   "pat": 44.55,
+   "margin_pct": 15.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 52,
+    "profit": 69,
+    "quality": 15
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 628.93,
+   "ebitda": 98.7,
+   "pat": 39.84,
+   "margin_pct": 15.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 30,
+    "profit": 28,
+    "quality": 15
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

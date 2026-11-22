@@ -1,0 +1,115 @@
+{
+ "isin": "INE246B01019",
+ "sym": "RAMCOSYS",
+ "name": "Ramco Systems Limited",
+ "scrip": "532370",
+ "mcap_cr": 2012.95,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 155.25,
+   "ebitda": 41.51,
+   "pat": 5.08,
+   "margin_pct": 26.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 161.32,
+   "ebitda": 29.06,
+   "pat": 1.08,
+   "margin_pct": 18.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 175.78,
+   "ebitda": 39.4,
+   "pat": 12.6,
+   "margin_pct": 22.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 178.5,
+   "ebitda": 23.41,
+   "pat": 3.21,
+   "margin_pct": 13.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 185.36,
+   "ebitda": 45.1,
+   "pat": 25.17,
+   "margin_pct": 24.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 49,
+    "profit": 26,
+    "quality": 72
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 172.77,
+   "ebitda": 25.46,
+   "pat": 0.56,
+   "margin_pct": 14.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 26,
+    "profit": 12,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 181.97,
+   "ebitda": 25.81,
+   "pat": 0.45,
+   "margin_pct": 14.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 15,
+    "profit": 11,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-05-28"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE576O01020",
+ "sym": "LXCHEM",
+ "name": "Laxmi Organic Industries Limited",
+ "scrip": "543277",
+ "mcap_cr": 4196.51,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 709.69,
+   "ebitda": 58.99,
+   "pat": 21.76,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 692.93,
+   "ebitda": 30.75,
+   "pat": 21.39,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 699.75,
+   "ebitda": 37.09,
+   "pat": 11.02,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 718.68,
+   "ebitda": 49.93,
+   "pat": 25.41,
+   "margin_pct": 6.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 735.31,
+   "ebitda": 53.63,
+   "pat": 21.55,
+   "margin_pct": 7.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 24,
+    "profit": 27,
+    "quality": 21
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 968.34,
+   "ebitda": 114.33,
+   "pat": 67.72,
+   "margin_pct": 11.8,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 92,
+    "profit": 89,
+    "quality": 74
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-08-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

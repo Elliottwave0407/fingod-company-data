@@ -1,0 +1,115 @@
+{
+ "isin": "INE195J01029",
+ "sym": "PNCINFRA",
+ "name": "PNC Infratech Limited",
+ "scrip": "539150",
+ "mcap_cr": 3336.29,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1704.11,
+   "ebitda": 362.34,
+   "pat": 75.44,
+   "margin_pct": 21.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1422.8,
+   "ebitda": 689.13,
+   "pat": 431.32,
+   "margin_pct": 48.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1127.64,
+   "ebitda": 415.9,
+   "pat": 215.7,
+   "margin_pct": 36.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1200.68,
+   "ebitda": 238.41,
+   "pat": 76.73,
+   "margin_pct": 19.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1616.98,
+   "ebitda": 285.58,
+   "pat": 107.76,
+   "margin_pct": 17.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 14,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1688.46,
+   "ebitda": 523.52,
+   "pat": 331.93,
+   "margin_pct": 31.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 31,
+    "profit": 20,
+    "quality": 31
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1322.47,
+   "ebitda": 278.84,
+   "pat": 114.68,
+   "margin_pct": 21.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 28,
+    "profit": 17,
+    "quality": 9
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 14,
+  "concalls_read": 12,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

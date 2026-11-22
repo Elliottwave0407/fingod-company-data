@@ -1,0 +1,115 @@
+{
+ "isin": "INE08KP01019",
+ "sym": "DCMNVL",
+ "name": "DCM Nouvelle Limited",
+ "scrip": "542729",
+ "mcap_cr": 319.2,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 281.33,
+   "ebitda": 18.58,
+   "pat": 5.3,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 252.62,
+   "ebitda": 15.68,
+   "pat": 1.6,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 238.88,
+   "ebitda": 9.12,
+   "pat": -2.42,
+   "margin_pct": 3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 272.53,
+   "ebitda": 10.26,
+   "pat": -1.51,
+   "margin_pct": 3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 263.04,
+   "ebitda": 17.55,
+   "pat": 3.97,
+   "margin_pct": 6.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 38,
+    "quality": 2
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 287.43,
+   "ebitda": 48.87,
+   "pat": 27.53,
+   "margin_pct": 17.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 74,
+    "profit": 94,
+    "quality": 72
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 318.02,
+   "ebitda": 34.92,
+   "pat": 17.4,
+   "margin_pct": 11.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 89,
+    "profit": 89,
+    "quality": 33
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

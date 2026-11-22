@@ -1,0 +1,105 @@
+{
+ "isin": "INE0MB501011",
+ "sym": "JGCHEM",
+ "name": "J.G.Chemicals Limited",
+ "scrip": "544138",
+ "mcap_cr": 2111.74,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 224.25,
+   "ebitda": 19.48,
+   "pat": 15.91,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 218.01,
+   "ebitda": 19.79,
+   "pat": 16.36,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 220.28,
+   "ebitda": 17.96,
+   "pat": 15.03,
+   "margin_pct": 8.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 248.47,
+   "ebitda": 22.77,
+   "pat": 18.36,
+   "margin_pct": 9.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 286.17,
+   "ebitda": 21.48,
+   "pat": 18.9,
+   "margin_pct": 7.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 56,
+    "profit": 25,
+    "quality": 77
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 315.65,
+   "ebitda": 33.52,
+   "pat": 26.12,
+   "margin_pct": 10.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 94,
+    "profit": 56,
+    "quality": 90
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

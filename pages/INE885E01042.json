@@ -1,0 +1,105 @@
+{
+ "isin": "INE885E01042",
+ "sym": "MAZDA",
+ "name": "Mazda Limited",
+ "scrip": "523792",
+ "mcap_cr": 539.17,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 53.52,
+   "ebitda": 7.88,
+   "pat": 5.56,
+   "margin_pct": 14.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 49.63,
+   "ebitda": 3.23,
+   "pat": 4.91,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 50.84,
+   "ebitda": 10.47,
+   "pat": 7.58,
+   "margin_pct": 20.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 47.39,
+   "ebitda": 10.79,
+   "pat": 8.72,
+   "margin_pct": 22.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 64.19,
+   "ebitda": 10.02,
+   "pat": 6.29,
+   "margin_pct": 15.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 65,
+    "profit": 53,
+    "quality": 51
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 80.34,
+   "ebitda": 7.34,
+   "pat": 7.33,
+   "margin_pct": 9.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 65,
+    "quality": 96
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-09-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

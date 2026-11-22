@@ -1,0 +1,105 @@
+{
+ "isin": "INE689W01016",
+ "sym": "PRINCEPIPE",
+ "name": "Prince Pipes And Fittings Limited",
+ "scrip": "542907",
+ "mcap_cr": 3150.99,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 719.65,
+   "ebitda": 54.84,
+   "pat": 24.18,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 580.42,
+   "ebitda": 39.57,
+   "pat": 4.82,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 594.57,
+   "ebitda": 55.11,
+   "pat": 14.63,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 573.27,
+   "ebitda": 25.85,
+   "pat": -2.38,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 850.07,
+   "ebitda": 109.63,
+   "pat": 56.11,
+   "margin_pct": 12.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 78,
+    "profit": 90,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 609.42,
+   "ebitda": 77.16,
+   "pat": 33.75,
+   "margin_pct": 12.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 67,
+    "profit": 90,
+    "quality": 61
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

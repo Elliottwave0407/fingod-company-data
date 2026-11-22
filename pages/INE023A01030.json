@@ -1,0 +1,105 @@
+{
+ "isin": "INE023A01030",
+ "sym": "NSIL",
+ "name": "Nalwa Sons Investments Limited",
+ "scrip": "532256",
+ "mcap_cr": 2473.27,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 12.28,
+   "ebitda": -30.77,
+   "pat": -26.45,
+   "margin_pct": -250.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 37.09,
+   "ebitda": 32.77,
+   "pat": 25.79,
+   "margin_pct": 88.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 24.73,
+   "ebitda": 21.4,
+   "pat": 17.87,
+   "margin_pct": 86.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 11.94,
+   "ebitda": 11.53,
+   "pat": 7.53,
+   "margin_pct": 96.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 27.38,
+   "ebitda": 9.93,
+   "pat": 5.51,
+   "margin_pct": 36.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 42
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 34.38,
+   "ebitda": 33.79,
+   "pat": 26.69,
+   "margin_pct": 98.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 25,
+    "profit": 100,
+    "quality": 56
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

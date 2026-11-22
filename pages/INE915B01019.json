@@ -1,0 +1,115 @@
+{
+ "isin": "INE915B01019",
+ "sym": "INDSWFTLAB",
+ "name": "Ind-Swift Laboratories Limited",
+ "scrip": "532305",
+ "mcap_cr": 2756.25,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 138.24,
+   "ebitda": 206.68,
+   "pat": 222.27,
+   "margin_pct": 149.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 152.73,
+   "ebitda": 3.6,
+   "pat": 8.77,
+   "margin_pct": 2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 152.64,
+   "ebitda": 1.47,
+   "pat": 7.99,
+   "margin_pct": 1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 150.85,
+   "ebitda": -1.68,
+   "pat": 9.54,
+   "margin_pct": -1.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 169.79,
+   "ebitda": 15.43,
+   "pat": 15.11,
+   "margin_pct": 9.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 32,
+    "profit": 7,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 191.45,
+   "ebitda": 33.2,
+   "pat": 24.68,
+   "margin_pct": 17.3,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 84,
+    "profit": 94,
+    "quality": 87
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 240.46,
+   "ebitda": 44.88,
+   "pat": 34.22,
+   "margin_pct": 18.7,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 99,
+    "profit": 95,
+    "quality": 89
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

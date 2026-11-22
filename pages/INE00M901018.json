@@ -1,0 +1,105 @@
+{
+ "isin": "INE00M901018",
+ "sym": "INTERARCH",
+ "name": "Interarch Building Solutions Limited",
+ "scrip": "544232",
+ "mcap_cr": 2717.38,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 463.51,
+   "ebitda": 48.85,
+   "pat": 38.68,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 380.77,
+   "ebitda": 31.64,
+   "pat": 28.38,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 491.09,
+   "ebitda": 41.65,
+   "pat": 32.28,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 522.52,
+   "ebitda": 47.02,
+   "pat": 37.26,
+   "margin_pct": 9.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 503.62,
+   "ebitda": 52.78,
+   "pat": 36.6,
+   "margin_pct": 10.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 39,
+    "profit": 40,
+    "quality": 43
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 459.65,
+   "ebitda": 39.42,
+   "pat": 28.25,
+   "margin_pct": 8.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 64,
+    "profit": 42,
+    "quality": 47
+   },
+   "capped_by": "profit down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 8,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,111 @@
+{
+ "isin": "INE049I01012",
+ "sym": "NAHARCAP",
+ "name": "Nahar Capital and Financial Services Limited",
+ "scrip": "532952",
+ "mcap_cr": 396.88,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 4.93,
+   "ebitda": 2.8,
+   "pat": 21.21,
+   "margin_pct": 56.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 14.51,
+   "ebitda": 11.8,
+   "pat": 11.48,
+   "margin_pct": 81.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 14.97,
+   "ebitda": 11.71,
+   "pat": 20.38,
+   "margin_pct": 78.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 13.93,
+   "ebitda": 11.22,
+   "pat": 13.08,
+   "margin_pct": 80.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 4.86,
+   "ebitda": 0.54,
+   "pat": 18.19,
+   "margin_pct": 11.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 18.11,
+   "ebitda": 14.8,
+   "pat": 67.44,
+   "margin_pct": 81.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 67,
+    "profit": 56,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 11.63,
+   "ebitda": 8.75,
+   "pat": 27.22,
+   "margin_pct": 75.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 5,
+    "profit": 20,
+    "quality": 89
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

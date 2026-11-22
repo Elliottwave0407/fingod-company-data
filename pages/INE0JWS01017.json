@@ -1,0 +1,105 @@
+{
+ "isin": "INE0JWS01017",
+ "sym": "VALIANTLAB",
+ "name": "Valiant Laboratories Limited",
+ "scrip": "543998",
+ "mcap_cr": 538.78,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 57.79,
+   "ebitda": 3.82,
+   "pat": 0.7,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 46.82,
+   "ebitda": 2.39,
+   "pat": 1.82,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 46.2,
+   "ebitda": 0.08,
+   "pat": 0.2,
+   "margin_pct": 0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 52.46,
+   "ebitda": -0.89,
+   "pat": -7.06,
+   "margin_pct": -1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 91.98,
+   "ebitda": 4.82,
+   "pat": 1.76,
+   "margin_pct": 5.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 84,
+    "profit": 22,
+    "quality": 55
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 115.29,
+   "ebitda": 29.26,
+   "pat": 21.1,
+   "margin_pct": 25.4,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 85
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

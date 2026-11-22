@@ -1,0 +1,105 @@
+{
+ "isin": "INE0CT101020",
+ "sym": "MOL",
+ "name": "Meghmani Organics Limited",
+ "scrip": "543331",
+ "mcap_cr": 1346.09,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 553.46,
+   "ebitda": 65.48,
+   "pat": 19.82,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 613.62,
+   "ebitda": 66.89,
+   "pat": 12.68,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 577.26,
+   "ebitda": 52.09,
+   "pat": 11.55,
+   "margin_pct": 9.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 508.74,
+   "ebitda": 37.74,
+   "pat": -3.53,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 474.34,
+   "ebitda": 19.72,
+   "pat": 8.03,
+   "margin_pct": 4.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 7,
+    "profit": 3,
+    "quality": 7
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 542.83,
+   "ebitda": 97.9,
+   "pat": 48.19,
+   "margin_pct": 18.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 52,
+    "profit": 94,
+    "quality": 66
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

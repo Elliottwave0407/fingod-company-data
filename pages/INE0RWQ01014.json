@@ -1,0 +1,105 @@
+{
+ "isin": "INE0RWQ01014",
+ "sym": "TOLINS",
+ "name": "Tolins Tyres Limited",
+ "scrip": "544254",
+ "mcap_cr": 332.19,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 69.53,
+   "ebitda": 13.57,
+   "pat": 9.28,
+   "margin_pct": 19.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 89.74,
+   "ebitda": 13.45,
+   "pat": 9.3,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 66.1,
+   "ebitda": 8.94,
+   "pat": 6.95,
+   "margin_pct": 13.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 93.29,
+   "ebitda": 14.19,
+   "pat": 10.49,
+   "margin_pct": 15.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 77.99,
+   "ebitda": 11.22,
+   "pat": 8.94,
+   "margin_pct": 14.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 28,
+    "profit": 12,
+    "quality": 52
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 79.27,
+   "ebitda": 8.91,
+   "pat": 6.19,
+   "margin_pct": 11.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 8,
+    "profit": 9,
+    "quality": 33
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 4,
+  "concalls_read": 1,
+  "latest_concall": "2026-06-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

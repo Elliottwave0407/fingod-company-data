@@ -1,0 +1,97 @@
+{
+ "isin": "INE558D01021",
+ "sym": "CORALFINAC",
+ "name": "Coral India Finance & Housing Limited",
+ "scrip": "531556",
+ "mcap_cr": 115.99,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 3.05,
+   "ebitda": 2.29,
+   "pat": 2.35,
+   "margin_pct": 75.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 4.58,
+   "ebitda": 3.81,
+   "pat": 4.81,
+   "margin_pct": 83.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 3.84,
+   "ebitda": 3.06,
+   "pat": 3.53,
+   "margin_pct": 79.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 3.93,
+   "ebitda": 3.15,
+   "pat": 3.75,
+   "margin_pct": 80.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 3.05,
+   "ebitda": 2.2,
+   "pat": 2.69,
+   "margin_pct": 72.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 3.72,
+   "ebitda": 2.84,
+   "pat": 4.41,
+   "margin_pct": 76.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

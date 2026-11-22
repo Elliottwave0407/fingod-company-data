@@ -1,0 +1,98 @@
+{
+ "isin": "INE737W01013",
+ "sym": "AKASH",
+ "name": "Akash Infra Projects Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 20.23,
+   "ebitda": 4.41,
+   "pat": 2.39,
+   "margin_pct": 21.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 21.21,
+   "ebitda": 1.32,
+   "pat": 0.18,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 12.06,
+   "ebitda": 0.27,
+   "pat": -1.09,
+   "margin_pct": 2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 10.88,
+   "ebitda": 1.78,
+   "pat": 0.91,
+   "margin_pct": 16.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 37.6,
+   "ebitda": 3.09,
+   "pat": 0.65,
+   "margin_pct": 8.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 50,
+    "profit": 7,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 39.14,
+   "ebitda": 1.43,
+   "pat": 0.19,
+   "margin_pct": 3.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

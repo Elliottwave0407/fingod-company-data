@@ -1,0 +1,105 @@
+{
+ "isin": "INE01EE01011",
+ "sym": "BBTCL",
+ "name": "B&B Triplewall Containers Limited",
+ "scrip": "543668",
+ "mcap_cr": 439.15,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 141.57,
+   "ebitda": 15.81,
+   "pat": -1.99,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 152.25,
+   "ebitda": 18.25,
+   "pat": 1.74,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 146.33,
+   "ebitda": 21.5,
+   "pat": 4.36,
+   "margin_pct": 14.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 155.43,
+   "ebitda": 22.52,
+   "pat": 4.7,
+   "margin_pct": 14.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 162.34,
+   "ebitda": 28.29,
+   "pat": 8.9,
+   "margin_pct": 17.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 75,
+    "profit": 94,
+    "quality": 2
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 180.47,
+   "ebitda": 33.74,
+   "pat": 14.39,
+   "margin_pct": 18.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 79,
+    "profit": 95,
+    "quality": 61
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

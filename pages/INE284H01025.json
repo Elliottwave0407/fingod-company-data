@@ -1,0 +1,101 @@
+{
+ "isin": "INE284H01025",
+ "sym": "DAMCAPITAL",
+ "name": "Dam Capital Advisors Limited",
+ "scrip": "544316",
+ "mcap_cr": 1025.65,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 36.61,
+   "ebitda": 13.19,
+   "pat": 8.5,
+   "margin_pct": 36.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 30.85,
+   "ebitda": 6.03,
+   "pat": 0.23,
+   "margin_pct": 19.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 107.05,
+   "ebitda": 75.9,
+   "pat": 52.15,
+   "margin_pct": 70.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 69.94,
+   "ebitda": 32.81,
+   "pat": 20.06,
+   "margin_pct": 46.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 29.27,
+   "ebitda": 6.04,
+   "pat": 0.25,
+   "margin_pct": 20.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 4,
+    "profit": 17,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 29.86,
+   "ebitda": 5.95,
+   "pat": 0.15,
+   "margin_pct": 19.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

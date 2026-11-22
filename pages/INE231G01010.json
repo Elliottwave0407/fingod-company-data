@@ -1,0 +1,115 @@
+{
+ "isin": "INE231G01010",
+ "sym": "ORBTEXP",
+ "name": "Orbit Exports Limited",
+ "scrip": "512626",
+ "mcap_cr": 638.15,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 49.68,
+   "ebitda": 10.38,
+   "pat": 6.61,
+   "margin_pct": 20.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 65.88,
+   "ebitda": 17.78,
+   "pat": 15.01,
+   "margin_pct": 27.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 57.19,
+   "ebitda": 10.78,
+   "pat": 10.05,
+   "margin_pct": 18.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 55.26,
+   "ebitda": 10.68,
+   "pat": 6.56,
+   "margin_pct": 19.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 49.29,
+   "ebitda": 7.49,
+   "pat": 1.0,
+   "margin_pct": 15.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 13,
+    "profit": 12,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 77.1,
+   "ebitda": 25.02,
+   "pat": 24.63,
+   "margin_pct": 32.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 70,
+    "profit": 100,
+    "quality": 100
+   },
+   "capped_by": "revenue growth under 20%"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 82.97,
+   "ebitda": 20.7,
+   "pat": 17.35,
+   "margin_pct": 24.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 94,
+    "profit": 100,
+    "quality": 95
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

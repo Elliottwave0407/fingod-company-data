@@ -1,0 +1,115 @@
+{
+ "isin": "INE869I01013",
+ "sym": "GTPL",
+ "name": "GTPL Hathway Limited",
+ "scrip": "540602",
+ "mcap_cr": 598.87,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 890.99,
+   "ebitda": 106.6,
+   "pat": 11.08,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 903.7,
+   "ebitda": 106.87,
+   "pat": 7.32,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 959.05,
+   "ebitda": 104.24,
+   "pat": 7.4,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 932.62,
+   "ebitda": 113.37,
+   "pat": 11.56,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 923.84,
+   "ebitda": 79.97,
+   "pat": -13.93,
+   "margin_pct": 8.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 18,
+    "profit": 7,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1015.41,
+   "ebitda": 104.67,
+   "pat": 1.38,
+   "margin_pct": 10.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 35,
+    "profit": 24,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1143.06,
+   "ebitda": 106.91,
+   "pat": -3.55,
+   "margin_pct": 9.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 44,
+    "profit": 23,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

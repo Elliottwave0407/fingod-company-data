@@ -1,0 +1,105 @@
+{
+ "isin": "INE583R01029",
+ "sym": "PRITIKAUTO",
+ "name": "Pritika Auto Industries Limited",
+ "scrip": "539359",
+ "mcap_cr": 242.28,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 101.66,
+   "ebitda": 14.33,
+   "pat": 4.43,
+   "margin_pct": 14.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 114.61,
+   "ebitda": 17.43,
+   "pat": 6.09,
+   "margin_pct": 15.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 116.45,
+   "ebitda": 18.62,
+   "pat": 6.61,
+   "margin_pct": 16.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 113.43,
+   "ebitda": 18.33,
+   "pat": 5.73,
+   "margin_pct": 16.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 138.46,
+   "ebitda": 16.65,
+   "pat": 4.77,
+   "margin_pct": 12.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 67,
+    "profit": 20,
+    "quality": 19
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 144.97,
+   "ebitda": 19.5,
+   "pat": 7.11,
+   "margin_pct": 13.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 57,
+    "profit": 24,
+    "quality": 32
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-11-16"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,98 @@
+{
+ "isin": "INE439T01012",
+ "sym": "NITIRAJ",
+ "name": "Nitiraj Engineers Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 22.61,
+   "ebitda": 0.74,
+   "pat": -0.06,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 10.54,
+   "ebitda": 0.02,
+   "pat": -0.32,
+   "margin_pct": 0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 16.39,
+   "ebitda": 2.72,
+   "pat": 1.63,
+   "margin_pct": 16.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 11.31,
+   "ebitda": 1.11,
+   "pat": 0.39,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 8.18,
+   "ebitda": -0.3,
+   "pat": -0.64,
+   "margin_pct": -3.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 18.84,
+   "ebitda": 1.97,
+   "pat": 1.02,
+   "margin_pct": 10.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 88,
+    "quality": 36
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-12-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,102 @@
+{
+ "isin": "INE025A01027",
+ "sym": "CONSOFINVT",
+ "name": "Consolidated Finvest & Holdings Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 20.27,
+   "ebitda": 20.14,
+   "pat": 22.93,
+   "margin_pct": 99.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 14.83,
+   "ebitda": 14.7,
+   "pat": 12.66,
+   "margin_pct": 99.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 18.25,
+   "ebitda": 18.06,
+   "pat": 15.71,
+   "margin_pct": 99.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 13.27,
+   "ebitda": 13.12,
+   "pat": 11.96,
+   "margin_pct": 98.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 14.33,
+   "ebitda": 14.22,
+   "pat": 13.77,
+   "margin_pct": 99.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 1,
+    "profit": 51,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 15.38,
+   "ebitda": 15.22,
+   "pat": 13.0,
+   "margin_pct": 99.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 31,
+    "profit": 50,
+    "quality": 61
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

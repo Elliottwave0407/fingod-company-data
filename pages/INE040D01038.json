@@ -1,0 +1,105 @@
+{
+ "isin": "INE040D01038",
+ "sym": "MAYURUNIQ",
+ "name": "Mayur Uniquoters Ltd",
+ "scrip": "522249",
+ "mcap_cr": 3066.23,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 250.56,
+   "ebitda": 53.02,
+   "pat": 41.5,
+   "margin_pct": 21.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 215.88,
+   "ebitda": 42.98,
+   "pat": 40.73,
+   "margin_pct": 19.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 240.31,
+   "ebitda": 50.49,
+   "pat": 40.84,
+   "margin_pct": 21.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 237.48,
+   "ebitda": 55.5,
+   "pat": 50.73,
+   "margin_pct": 23.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 273.35,
+   "ebitda": 85.72,
+   "pat": 59.43,
+   "margin_pct": 31.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 70,
+    "profit": 100,
+    "quality": 76
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 269.23,
+   "ebitda": 58.95,
+   "pat": 56.12,
+   "margin_pct": 21.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 74,
+    "profit": 69,
+    "quality": 91
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

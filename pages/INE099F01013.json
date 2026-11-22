@@ -1,0 +1,105 @@
+{
+ "isin": "INE099F01013",
+ "sym": "SREEL",
+ "name": "Sreeleathers Limited",
+ "scrip": "535601",
+ "mcap_cr": 610.59,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 53.15,
+   "ebitda": 6.7,
+   "pat": 5.29,
+   "margin_pct": 12.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 49.8,
+   "ebitda": 3.98,
+   "pat": 2.93,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 74.71,
+   "ebitda": 11.68,
+   "pat": 8.61,
+   "margin_pct": 15.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 60.9,
+   "ebitda": 7.76,
+   "pat": 7.53,
+   "margin_pct": 12.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 62.69,
+   "ebitda": 9.96,
+   "pat": 9.67,
+   "margin_pct": 15.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 74,
+    "profit": 77,
+    "quality": 100
+   },
+   "capped_by": "revenue growth under 20%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 59.62,
+   "ebitda": 8.9,
+   "pat": 6.99,
+   "margin_pct": 14.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 92,
+    "quality": 90
+   },
+   "capped_by": "revenue growth under 20%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

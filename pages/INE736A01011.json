@@ -1,0 +1,112 @@
+{
+ "isin": "INE736A01011",
+ "sym": "CDSL",
+ "name": "Central Depository Services (India) Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 224.45,
+   "ebitda": 109.37,
+   "pat": 100.39,
+   "margin_pct": 48.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 258.81,
+   "ebitda": 130.45,
+   "pat": 102.4,
+   "margin_pct": 50.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 318.89,
+   "ebitda": 177.62,
+   "pat": 139.93,
+   "margin_pct": 55.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 304.36,
+   "ebitda": 161.02,
+   "pat": 132.95,
+   "margin_pct": 52.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 262.85,
+   "ebitda": 116.75,
+   "pat": 79.79,
+   "margin_pct": 44.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 46,
+    "profit": 20,
+    "quality": 36
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 292.76,
+   "ebitda": 137.9,
+   "pat": 117.67,
+   "margin_pct": 47.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 41,
+    "profit": 20,
+    "quality": 72
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 394.48,
+   "ebitda": 228.48,
+   "pat": 173.3,
+   "margin_pct": 57.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 68,
+    "profit": 74,
+    "quality": 71
+   },
+   "capped_by": "profit growth under 25%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-08-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

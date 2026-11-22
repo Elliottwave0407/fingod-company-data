@@ -1,0 +1,97 @@
+{
+ "isin": "INE018401013",
+ "sym": "SUVIDHAA",
+ "name": "Suvidhaa Infoserve Limited",
+ "scrip": "543281",
+ "mcap_cr": 55.39,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1.7,
+   "ebitda": -3.66,
+   "pat": -5.56,
+   "margin_pct": -215.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1.02,
+   "ebitda": -4.64,
+   "pat": -4.3,
+   "margin_pct": -454.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1.0,
+   "ebitda": -1.56,
+   "pat": -1.76,
+   "margin_pct": -156.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.81,
+   "ebitda": -1.94,
+   "pat": -2.17,
+   "margin_pct": -239.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.68,
+   "ebitda": -1.71,
+   "pat": -1.87,
+   "margin_pct": -251.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2.4,
+   "ebitda": -1.69,
+   "pat": -1.91,
+   "margin_pct": -70.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

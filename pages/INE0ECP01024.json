@@ -1,0 +1,105 @@
+{
+ "isin": "INE0ECP01024",
+ "sym": "HMAAGRO",
+ "name": "Hma Agro Industries Limited",
+ "scrip": "543929",
+ "mcap_cr": 1709.63,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1499.56,
+   "ebitda": 4.67,
+   "pat": 12.35,
+   "margin_pct": 0.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1122.61,
+   "ebitda": 5.3,
+   "pat": 0.6,
+   "margin_pct": 0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2155.34,
+   "ebitda": 95.46,
+   "pat": 89.79,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 2059.45,
+   "ebitda": 64.46,
+   "pat": 66.58,
+   "margin_pct": 3.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1579.1,
+   "ebitda": -6.18,
+   "pat": 8.22,
+   "margin_pct": -0.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 17,
+    "profit": 24,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2110.32,
+   "ebitda": 9.28,
+   "pat": 50.51,
+   "margin_pct": 0.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 32,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

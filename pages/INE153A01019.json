@@ -1,0 +1,101 @@
+{
+ "isin": "INE153A01019",
+ "sym": "MTNL",
+ "name": "Mahanagar Telephone Nigam Limited",
+ "scrip": "500108",
+ "mcap_cr": 1529.64,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 169.87,
+   "ebitda": -122.03,
+   "pat": -827.88,
+   "margin_pct": -71.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 65.74,
+   "ebitda": -185.52,
+   "pat": -943.15,
+   "margin_pct": -282.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 189.76,
+   "ebitda": -108.44,
+   "pat": -960.21,
+   "margin_pct": -57.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 197.52,
+   "ebitda": -40.67,
+   "pat": -896.94,
+   "margin_pct": -20.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 370.51,
+   "ebitda": 60.1,
+   "pat": -306.95,
+   "margin_pct": 16.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 100,
+    "profit": 93,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 216.89,
+   "ebitda": -32.99,
+   "pat": -842.35,
+   "margin_pct": -15.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

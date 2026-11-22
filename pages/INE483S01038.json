@@ -1,0 +1,105 @@
+{
+ "isin": "INE483S01038",
+ "sym": "CCAVENUE",
+ "name": "AvenuesAI Limited",
+ "scrip": "539807",
+ "mcap_cr": 4007.67,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1160.52,
+   "ebitda": 81.93,
+   "pat": 54.68,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1280.21,
+   "ebitda": 70.99,
+   "pat": 58.43,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1964.91,
+   "ebitda": 96.23,
+   "pat": 67.65,
+   "margin_pct": 4.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 2381.19,
+   "ebitda": 92.29,
+   "pat": 79.84,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 2489.54,
+   "ebitda": 92.29,
+   "pat": 88.96,
+   "margin_pct": 3.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 73,
+    "profit": 3,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2680.4,
+   "ebitda": 100.03,
+   "pat": 84.77,
+   "margin_pct": 3.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 92,
+    "profit": 16,
+    "quality": 90
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

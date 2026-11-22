@@ -1,0 +1,115 @@
+{
+ "isin": "INE916Y01027",
+ "sym": "AFIL",
+ "name": "Akme Fintrade (India) Limited",
+ "scrip": "544200",
+ "mcap_cr": 358.36,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 29.03,
+   "ebitda": 22.88,
+   "pat": 7.54,
+   "margin_pct": 78.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 31.92,
+   "ebitda": 23.61,
+   "pat": 9.61,
+   "margin_pct": 74.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 34.87,
+   "ebitda": 27.31,
+   "pat": 10.04,
+   "margin_pct": 78.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 39.69,
+   "ebitda": 30.47,
+   "pat": 10.39,
+   "margin_pct": 76.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 42.58,
+   "ebitda": 29.98,
+   "pat": 12.27,
+   "margin_pct": 70.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 82,
+    "profit": 20,
+    "quality": 59
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 41.67,
+   "ebitda": 31.81,
+   "pat": 11.57,
+   "margin_pct": 76.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 77,
+    "profit": 75,
+    "quality": 36
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 45.44,
+   "ebitda": 34.23,
+   "pat": 11.93,
+   "margin_pct": 75.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 70,
+    "profit": 20,
+    "quality": 33
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 4,
+  "concalls_read": 3,
+  "latest_concall": "2025-02-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

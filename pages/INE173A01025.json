@@ -1,0 +1,101 @@
+{
+ "isin": "INE173A01025",
+ "sym": "SIL",
+ "name": "Standard Industries Limited",
+ "scrip": "530017",
+ "mcap_cr": 95.72,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 8.84,
+   "ebitda": -3.46,
+   "pat": -4.45,
+   "margin_pct": -39.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 10.49,
+   "ebitda": -2.65,
+   "pat": -1.02,
+   "margin_pct": -25.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 6.38,
+   "ebitda": -2.84,
+   "pat": -6.65,
+   "margin_pct": -44.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 7.73,
+   "ebitda": -4.12,
+   "pat": -4.62,
+   "margin_pct": -53.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 9.72,
+   "ebitda": -3.95,
+   "pat": -7.21,
+   "margin_pct": -40.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 192.57,
+   "ebitda": 86.32,
+   "pat": 80.39,
+   "margin_pct": 44.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 100
+   },
+   "capped_by": "turnaround from a loss base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

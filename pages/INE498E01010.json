@@ -1,0 +1,105 @@
+{
+ "isin": "INE498E01010",
+ "sym": "SALONA",
+ "name": "Salona Cotspin Limited",
+ "scrip": "590056",
+ "mcap_cr": 138.57,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 147.79,
+   "ebitda": 5.98,
+   "pat": -2.92,
+   "margin_pct": 4.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 157.1,
+   "ebitda": 9.66,
+   "pat": 1.53,
+   "margin_pct": 6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 170.77,
+   "ebitda": 8.92,
+   "pat": 1.07,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 155.49,
+   "ebitda": 7.66,
+   "pat": 0.33,
+   "margin_pct": 4.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 110.46,
+   "ebitda": 8.08,
+   "pat": -1.37,
+   "margin_pct": 7.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 42,
+    "profit": 70,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 196.6,
+   "ebitda": 10.68,
+   "pat": 2.26,
+   "margin_pct": 5.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 55,
+    "profit": 29,
+    "quality": 45
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

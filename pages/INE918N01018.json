@@ -1,0 +1,105 @@
+{
+ "isin": "INE918N01018",
+ "sym": "VETO",
+ "name": "Veto Switchgears And Cables Limited",
+ "scrip": "539331",
+ "mcap_cr": 254.13,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 89.18,
+   "ebitda": 10.84,
+   "pat": 7.34,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 64.87,
+   "ebitda": 6.3,
+   "pat": 3.43,
+   "margin_pct": 9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 88.77,
+   "ebitda": 8.37,
+   "pat": 6.08,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 94.22,
+   "ebitda": 9.81,
+   "pat": 6.27,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 138.86,
+   "ebitda": 13.26,
+   "pat": 8.8,
+   "margin_pct": 9.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 80,
+    "profit": 12,
+    "quality": 60
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 89.36,
+   "ebitda": 9.44,
+   "pat": 5.85,
+   "margin_pct": 10.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 87,
+    "profit": 49,
+    "quality": 77
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

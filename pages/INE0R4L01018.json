@@ -1,0 +1,105 @@
+{
+ "isin": "INE0R4L01018",
+ "sym": "DENTA",
+ "name": "Denta Water and Infra Solutions Limited",
+ "scrip": "544345",
+ "mcap_cr": 601.55,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 54.15,
+   "ebitda": 16.51,
+   "pat": 13.72,
+   "margin_pct": 30.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 67.28,
+   "ebitda": 22.46,
+   "pat": 18.55,
+   "margin_pct": 33.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 74.27,
+   "ebitda": 23.68,
+   "pat": 18.93,
+   "margin_pct": 31.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 53.52,
+   "ebitda": 17.49,
+   "pat": 14.31,
+   "margin_pct": 32.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 55.31,
+   "ebitda": 10.68,
+   "pat": 9.11,
+   "margin_pct": 19.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 15,
+    "quality": 46
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 58.66,
+   "ebitda": 13.13,
+   "pat": 11.17,
+   "margin_pct": 22.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 7,
+    "profit": 18,
+    "quality": 46
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

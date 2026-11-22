@@ -1,0 +1,115 @@
+{
+ "isin": "INE015C01016",
+ "sym": "TINNARUBR",
+ "name": "Tinna Rubber and Infrastructure Limited",
+ "scrip": "530475",
+ "mcap_cr": 1700.42,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 129.03,
+   "ebitda": 16.33,
+   "pat": 11.68,
+   "margin_pct": 12.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 130.27,
+   "ebitda": 20.79,
+   "pat": 11.74,
+   "margin_pct": 16.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 119.52,
+   "ebitda": 21.56,
+   "pat": 11.77,
+   "margin_pct": 18.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 139.06,
+   "ebitda": 22.68,
+   "pat": 12.81,
+   "margin_pct": 16.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 156.95,
+   "ebitda": 28.51,
+   "pat": 16.53,
+   "margin_pct": 18.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 81,
+    "profit": 95,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 156.18,
+   "ebitda": 33.9,
+   "pat": 20.57,
+   "margin_pct": 21.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 97,
+    "quality": 76
+   },
+   "capped_by": "revenue growth under 20%"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 156.59,
+   "ebitda": 29.45,
+   "pat": 17.04,
+   "margin_pct": 18.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 78,
+    "profit": 55,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-10-29"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

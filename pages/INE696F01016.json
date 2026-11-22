@@ -1,0 +1,105 @@
+{
+ "isin": "INE696F01016",
+ "sym": "JUNIPER",
+ "name": "Juniper Hotels Limited",
+ "scrip": "544129",
+ "mcap_cr": 4338.8,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 277.56,
+   "ebitda": 116.72,
+   "pat": 54.95,
+   "margin_pct": 42.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 220.74,
+   "ebitda": 62.7,
+   "pat": 9.0,
+   "margin_pct": 28.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 230.32,
+   "ebitda": 78.83,
+   "pat": 16.81,
+   "margin_pct": 34.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 295.13,
+   "ebitda": 128.48,
+   "pat": 65.42,
+   "margin_pct": 43.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 301.48,
+   "ebitda": 109.3,
+   "pat": 50.38,
+   "margin_pct": 36.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 30,
+    "profit": 20,
+    "quality": 22
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 249.53,
+   "ebitda": 86.25,
+   "pat": 33.26,
+   "margin_pct": 34.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 65,
+    "profit": 100,
+    "quality": 57
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

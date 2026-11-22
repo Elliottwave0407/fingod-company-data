@@ -1,0 +1,105 @@
+{
+ "isin": "INE648Z01023",
+ "sym": "ACCURACY",
+ "name": "Accuracy Shipping Limited",
+ "scrip": "544598",
+ "mcap_cr": 59.47,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 236.5,
+   "ebitda": 7.13,
+   "pat": 0.77,
+   "margin_pct": 3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 161.69,
+   "ebitda": 5.22,
+   "pat": 0.41,
+   "margin_pct": 3.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 190.5,
+   "ebitda": 6.79,
+   "pat": 0.6,
+   "margin_pct": 3.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 157.54,
+   "ebitda": 6.51,
+   "pat": 0.69,
+   "margin_pct": 4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 160.85,
+   "ebitda": 10.89,
+   "pat": 2.08,
+   "margin_pct": 6.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 47,
+    "profit": 74,
+    "quality": 50
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 140.81,
+   "ebitda": 6.71,
+   "pat": 0.34,
+   "margin_pct": 4.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 43,
+    "profit": 51,
+    "quality": 4
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-06-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

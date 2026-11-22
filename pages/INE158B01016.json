@@ -1,0 +1,115 @@
+{
+ "isin": "INE158B01016",
+ "sym": "EIMCOELECO",
+ "name": "Eimco Elecon (India) Limited",
+ "scrip": "523708",
+ "mcap_cr": 1423.9,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 64.29,
+   "ebitda": 18.15,
+   "pat": 14.87,
+   "margin_pct": 28.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 67.57,
+   "ebitda": 12.31,
+   "pat": 14.48,
+   "margin_pct": 18.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 33.24,
+   "ebitda": 5.22,
+   "pat": 5.35,
+   "margin_pct": 15.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 63.06,
+   "ebitda": 12.51,
+   "pat": 12.52,
+   "margin_pct": 19.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 66.88,
+   "ebitda": 12.93,
+   "pat": 6.36,
+   "margin_pct": 19.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 16,
+    "profit": 15,
+    "quality": 16
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 77.52,
+   "ebitda": 14.25,
+   "pat": 15.38,
+   "margin_pct": 18.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 48,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 56.8,
+   "ebitda": 10.74,
+   "pat": 7.83,
+   "margin_pct": 18.9,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 78,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

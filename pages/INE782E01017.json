@@ -1,0 +1,105 @@
+{
+ "isin": "INE782E01017",
+ "sym": "HESTERBIO",
+ "name": "Hester Biosciences Limited",
+ "scrip": "524669",
+ "mcap_cr": 1984.48,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 81.92,
+   "ebitda": 19.19,
+   "pat": 1.54,
+   "margin_pct": 23.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 84.11,
+   "ebitda": 22.81,
+   "pat": 17.3,
+   "margin_pct": 27.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 70.97,
+   "ebitda": 11.71,
+   "pat": 14.33,
+   "margin_pct": 16.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 77.42,
+   "ebitda": 17.79,
+   "pat": 9.31,
+   "margin_pct": 23.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 100.11,
+   "ebitda": 37.26,
+   "pat": 16.55,
+   "margin_pct": 37.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 81,
+    "profit": 100,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 77.24,
+   "ebitda": 108.12,
+   "pat": 96.73,
+   "margin_pct": 140.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 59,
+    "profit": 100,
+    "quality": 100
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

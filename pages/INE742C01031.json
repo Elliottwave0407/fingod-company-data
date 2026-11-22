@@ -1,0 +1,105 @@
+{
+ "isin": "INE742C01031",
+ "sym": "JINDRILL",
+ "name": "Jindal Drilling And Industries Limited",
+ "scrip": "511034",
+ "mcap_cr": 1463.26,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 245.01,
+   "ebitda": 86.98,
+   "pat": 71.61,
+   "margin_pct": 35.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 254.09,
+   "ebitda": 106.81,
+   "pat": 66.11,
+   "margin_pct": 42.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 238.03,
+   "ebitda": 92.57,
+   "pat": 132.52,
+   "margin_pct": 38.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 241.58,
+   "ebitda": 71.7,
+   "pat": -33.39,
+   "margin_pct": 29.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 262.87,
+   "ebitda": 74.16,
+   "pat": 45.38,
+   "margin_pct": 28.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": 20,
+    "quality": 26
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 275.39,
+   "ebitda": 103.65,
+   "pat": 47.14,
+   "margin_pct": 37.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 31,
+    "profit": 20,
+    "quality": 13
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-08-14"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

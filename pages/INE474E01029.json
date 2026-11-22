@@ -1,0 +1,105 @@
+{
+ "isin": "INE474E01029",
+ "sym": "BHANDARI",
+ "name": "Bhandari Hosiery Exports Limited",
+ "scrip": "512608",
+ "mcap_cr": 86.9,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 89.23,
+   "ebitda": 7.43,
+   "pat": 2.65,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 62.91,
+   "ebitda": 6.41,
+   "pat": 1.62,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 68.33,
+   "ebitda": 6.96,
+   "pat": 2.07,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 59.05,
+   "ebitda": 7.3,
+   "pat": 2.19,
+   "margin_pct": 12.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 90.05,
+   "ebitda": 6.99,
+   "pat": 1.89,
+   "margin_pct": 7.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 23,
+    "profit": 32,
+    "quality": 1
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 50.85,
+   "ebitda": 5.96,
+   "pat": 1.3,
+   "margin_pct": 11.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 57,
+    "quality": 4
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

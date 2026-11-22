@@ -1,0 +1,115 @@
+{
+ "isin": "INE713C01016",
+ "sym": "SURAJLTD",
+ "name": "Suraj Limited",
+ "scrip": "531638",
+ "mcap_cr": 352.68,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 58.75,
+   "ebitda": -2.16,
+   "pat": -5.92,
+   "margin_pct": -3.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 50.34,
+   "ebitda": 4.85,
+   "pat": 2.74,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 50.19,
+   "ebitda": 3.67,
+   "pat": 0.83,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 61.88,
+   "ebitda": 5.18,
+   "pat": 1.38,
+   "margin_pct": 8.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 43.43,
+   "ebitda": 2.42,
+   "pat": 2.52,
+   "margin_pct": 5.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 3,
+    "profit": 84,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 39.03,
+   "ebitda": 6.43,
+   "pat": 3.59,
+   "margin_pct": 16.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 42,
+    "profit": 93,
+    "quality": 59
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 55.63,
+   "ebitda": 6.94,
+   "pat": 3.25,
+   "margin_pct": 12.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 72,
+    "profit": 90,
+    "quality": 64
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

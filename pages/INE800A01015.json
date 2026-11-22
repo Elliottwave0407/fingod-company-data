@@ -1,0 +1,105 @@
+{
+ "isin": "INE800A01015",
+ "sym": "BIRLACABLE",
+ "name": "Birla Cable Limited",
+ "scrip": "500060",
+ "mcap_cr": 885.75,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 156.23,
+   "ebitda": 7.93,
+   "pat": 1.48,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 176.44,
+   "ebitda": 7.84,
+   "pat": 1.36,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 176.07,
+   "ebitda": 7.22,
+   "pat": 0.71,
+   "margin_pct": 4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 204.51,
+   "ebitda": 10.91,
+   "pat": 4.02,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 214.1,
+   "ebitda": 20.25,
+   "pat": 10.8,
+   "margin_pct": 9.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 91,
+    "profit": 82,
+    "quality": 69
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 266.64,
+   "ebitda": 45.96,
+   "pat": 30.7,
+   "margin_pct": 17.2,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 96,
+    "profit": 94,
+    "quality": 81
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE07U701015",
+ "sym": "IRMENERGY",
+ "name": "IRM Energy Limited",
+ "scrip": "544004",
+ "mcap_cr": 1016.02,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 288.97,
+   "ebitda": 17.33,
+   "pat": 4.39,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 285.48,
+   "ebitda": 25.87,
+   "pat": 13.92,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 281.78,
+   "ebitda": 26.7,
+   "pat": 12.56,
+   "margin_pct": 9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 288.69,
+   "ebitda": 29.63,
+   "pat": 13.98,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 304.0,
+   "ebitda": 30.05,
+   "pat": 12.75,
+   "margin_pct": 9.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 67,
+    "profit": 78,
+    "quality": 60
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 354.75,
+   "ebitda": 61.77,
+   "pat": 33.81,
+   "margin_pct": 17.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 83,
+    "profit": 94,
+    "quality": 71
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 363.61,
+   "ebitda": 47.33,
+   "pat": 25.43,
+   "margin_pct": 13.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 86,
+    "profit": 77,
+    "quality": 70
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

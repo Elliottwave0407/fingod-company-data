@@ -1,0 +1,107 @@
+{
+ "isin": "INE797H01018",
+ "sym": "TGBHOTELS",
+ "name": "TGB Banquets And Hotels Limited",
+ "scrip": "532845",
+ "mcap_cr": 27.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 11.59,
+   "ebitda": 1.19,
+   "pat": 0.91,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 8.87,
+   "ebitda": 1.65,
+   "pat": 0.18,
+   "margin_pct": 18.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 8.61,
+   "ebitda": 1.53,
+   "pat": 0.21,
+   "margin_pct": 17.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 10.57,
+   "ebitda": 2.06,
+   "pat": 0.66,
+   "margin_pct": 19.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 10.43,
+   "ebitda": 1.69,
+   "pat": 0.38,
+   "margin_pct": 16.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 51,
+    "profit": 93,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 8.33,
+   "ebitda": 1.42,
+   "pat": 0.19,
+   "margin_pct": 17.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 5.42,
+   "ebitda": 1.31,
+   "pat": 0.1,
+   "margin_pct": 24.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

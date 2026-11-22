@@ -1,0 +1,105 @@
+{
+ "isin": "INE070I01018",
+ "sym": "INSECTICID",
+ "name": "Insecticides (India) Limited",
+ "scrip": "532851",
+ "mcap_cr": 1555.28,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 358.92,
+   "ebitda": 28.47,
+   "pat": 13.89,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 691.13,
+   "ebitda": 84.58,
+   "pat": 58.11,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 637.7,
+   "ebitda": 89.48,
+   "pat": 59.11,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 384.92,
+   "ebitda": 27.39,
+   "pat": 10.49,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 426.26,
+   "ebitda": 25.6,
+   "pat": 11.71,
+   "margin_pct": 6.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 37,
+    "profit": 16,
+    "quality": 19
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 611.52,
+   "ebitda": 67.61,
+   "pat": 43.87,
+   "margin_pct": 11.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 12,
+    "profit": 28,
+    "quality": 31
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

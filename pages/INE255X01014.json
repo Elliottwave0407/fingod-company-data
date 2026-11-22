@@ -1,0 +1,105 @@
+{
+ "isin": "INE255X01014",
+ "sym": "MSTCLTD",
+ "name": "Mstc Limited",
+ "scrip": "542597",
+ "mcap_cr": 4615.78,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 88.85,
+   "ebitda": 44.1,
+   "pat": 75.51,
+   "margin_pct": 49.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 77.43,
+   "ebitda": 45.65,
+   "pat": 42.34,
+   "margin_pct": 59.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 85.01,
+   "ebitda": 51.53,
+   "pat": 47.5,
+   "margin_pct": 60.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 88.43,
+   "ebitda": 50.97,
+   "pat": 51.37,
+   "margin_pct": 57.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 118.8,
+   "ebitda": 75.97,
+   "pat": 77.22,
+   "margin_pct": 63.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 89,
+    "profit": 100,
+    "quality": 64
+   },
+   "capped_by": "profit growth under 25%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 94.24,
+   "ebitda": 57.74,
+   "pat": 58.22,
+   "margin_pct": 61.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 65,
+    "profit": 75,
+    "quality": 91
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,107 @@
+{
+ "isin": "INE077F01035",
+ "sym": "GOCLCORP",
+ "name": "GOCL Corporation Limited",
+ "scrip": "506480",
+ "mcap_cr": 1661.93,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 140.01,
+   "ebitda": 3.14,
+   "pat": 23.12,
+   "margin_pct": 2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 3.39,
+   "ebitda": 6.2,
+   "pat": 1222.55,
+   "margin_pct": 182.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2.22,
+   "ebitda": -8.26,
+   "pat": 14.03,
+   "margin_pct": -372.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.82,
+   "ebitda": -6.09,
+   "pat": 210.27,
+   "margin_pct": -334.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 2.33,
+   "ebitda": -10.22,
+   "pat": 75.15,
+   "margin_pct": -438.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -351,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 4.29,
+   "ebitda": -1.74,
+   "pat": 40.4,
+   "margin_pct": -40.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 4.11,
+   "ebitda": -12.0,
+   "pat": 40.5,
+   "margin_pct": -292.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

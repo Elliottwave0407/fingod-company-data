@@ -1,0 +1,105 @@
+{
+ "isin": "INE403Y01018",
+ "sym": "INNOVANA",
+ "name": "Innovana Thinklabs Limited",
+ "scrip": "544302",
+ "mcap_cr": 579.31,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 26.59,
+   "ebitda": 14.94,
+   "pat": 11.5,
+   "margin_pct": 56.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 32.09,
+   "ebitda": 16.08,
+   "pat": 13.12,
+   "margin_pct": 50.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 32.72,
+   "ebitda": 14.23,
+   "pat": 12.67,
+   "margin_pct": 43.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 34.89,
+   "ebitda": 12.25,
+   "pat": 8.97,
+   "margin_pct": 35.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 32.6,
+   "ebitda": 3.16,
+   "pat": 1.82,
+   "margin_pct": 9.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 32,
+    "profit": 8,
+    "quality": 18
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 38.97,
+   "ebitda": 6.88,
+   "pat": 5.54,
+   "margin_pct": 17.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 31,
+    "profit": 14,
+    "quality": 34
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,101 @@
+{
+ "isin": "INE871H01011",
+ "sym": "GSS",
+ "name": "GSS Infotech Limited",
+ "scrip": "532951",
+ "mcap_cr": 26.16,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 40.81,
+   "ebitda": -0.39,
+   "pat": -0.69,
+   "margin_pct": -1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 24.09,
+   "ebitda": -0.41,
+   "pat": -1.52,
+   "margin_pct": -1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 19.14,
+   "ebitda": -0.45,
+   "pat": 0.26,
+   "margin_pct": -2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 16.74,
+   "ebitda": 0.9,
+   "pat": 0.2,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 28.16,
+   "ebitda": -48.12,
+   "pat": -49.14,
+   "margin_pct": -170.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 23.5,
+   "ebitda": 0.98,
+   "pat": 0.15,
+   "margin_pct": 4.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 23,
+    "profit": 83,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,97 @@
+{
+ "isin": "INE236A01020",
+ "sym": "HCL-INSYS",
+ "name": "HCL Infosystems Limited",
+ "scrip": "500179",
+ "mcap_cr": 312.75,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 4.65,
+   "ebitda": -8.28,
+   "pat": -3.9,
+   "margin_pct": -178.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 7.03,
+   "ebitda": -10.13,
+   "pat": -4.5,
+   "margin_pct": -144.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 5.07,
+   "ebitda": -17.41,
+   "pat": -5.5,
+   "margin_pct": -343.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 4.22,
+   "ebitda": -17.04,
+   "pat": -9.75,
+   "margin_pct": -403.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 5.28,
+   "ebitda": -16.26,
+   "pat": -13.17,
+   "margin_pct": -308.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 4.18,
+   "ebitda": -13.71,
+   "pat": -16.68,
+   "margin_pct": -328.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

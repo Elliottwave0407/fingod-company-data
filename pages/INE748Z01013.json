@@ -1,0 +1,102 @@
+{
+ "isin": "INE748Z01013",
+ "sym": "SUMIT",
+ "name": "Sumit Woods Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 32.92,
+   "ebitda": 8.91,
+   "pat": 4.65,
+   "margin_pct": 27.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 42.27,
+   "ebitda": 6.5,
+   "pat": 3.43,
+   "margin_pct": 15.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 12.82,
+   "ebitda": 1.61,
+   "pat": 0.2,
+   "margin_pct": 12.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 11.44,
+   "ebitda": 3.99,
+   "pat": 1.06,
+   "margin_pct": 34.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 28.35,
+   "ebitda": 4.37,
+   "pat": 1.31,
+   "margin_pct": 15.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 7,
+    "profit": 12,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 45.18,
+   "ebitda": 4.54,
+   "pat": 4.04,
+   "margin_pct": 10.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 18,
+    "profit": 8,
+    "quality": 77
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2025-02-14"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

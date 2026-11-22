@@ -1,0 +1,105 @@
+{
+ "isin": "INE0NN701020",
+ "sym": "ATL",
+ "name": "Allcargo Terminals Limited",
+ "scrip": "543954",
+ "mcap_cr": 650.82,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 185.93,
+   "ebitda": 31.03,
+   "pat": -2.42,
+   "margin_pct": 16.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 187.25,
+   "ebitda": 34.6,
+   "pat": 9.11,
+   "margin_pct": 18.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 207.16,
+   "ebitda": 40.33,
+   "pat": 11.3,
+   "margin_pct": 19.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 218.35,
+   "ebitda": 41.63,
+   "pat": 15.03,
+   "margin_pct": 19.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 208.04,
+   "ebitda": 44.02,
+   "pat": 8.77,
+   "margin_pct": 21.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 65,
+    "profit": 92,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 214.41,
+   "ebitda": 47.47,
+   "pat": 6.37,
+   "margin_pct": 22.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 66,
+    "profit": 85,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

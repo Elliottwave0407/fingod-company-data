@@ -1,0 +1,115 @@
+{
+ "isin": "INE578A01017",
+ "sym": "HEIDELBERG",
+ "name": "HeidelbergCement India Limited",
+ "scrip": "500292",
+ "mcap_cr": 2688.76,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 612.46,
+   "ebitda": 90.64,
+   "pat": 50.45,
+   "margin_pct": 14.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 597.54,
+   "ebitda": 88.52,
+   "pat": 48.23,
+   "margin_pct": 14.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 511.66,
+   "ebitda": 57.53,
+   "pat": 24.93,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 574.17,
+   "ebitda": 48.38,
+   "pat": 15.6,
+   "margin_pct": 8.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 646.22,
+   "ebitda": 84.43,
+   "pat": 45.21,
+   "margin_pct": 13.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 27,
+    "profit": 24,
+    "quality": 28
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 628.11,
+   "ebitda": 66.81,
+   "pat": 30.55,
+   "margin_pct": 10.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": 9,
+    "quality": 13
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 567.78,
+   "ebitda": 48.17,
+   "pat": 16.77,
+   "margin_pct": 8.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 28,
+    "profit": 9,
+    "quality": 4
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-06-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

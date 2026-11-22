@@ -1,0 +1,101 @@
+{
+ "isin": "INE584F01014",
+ "sym": "MANGALAM",
+ "name": "Mangalam Drugs And Organics Limited",
+ "scrip": "532637",
+ "mcap_cr": 43.59,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 73.04,
+   "ebitda": 10.15,
+   "pat": 0.06,
+   "margin_pct": 13.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 57.35,
+   "ebitda": -4.48,
+   "pat": -13.8,
+   "margin_pct": -7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 49.54,
+   "ebitda": -2.84,
+   "pat": -7.35,
+   "margin_pct": -5.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 58.49,
+   "ebitda": -1.44,
+   "pat": -9.84,
+   "margin_pct": -2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 67.29,
+   "ebitda": -5.62,
+   "pat": -13.42,
+   "margin_pct": -8.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 57.12,
+   "ebitda": 0.91,
+   "pat": -7.64,
+   "margin_pct": 1.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": 81,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

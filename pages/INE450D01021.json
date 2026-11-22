@@ -1,0 +1,115 @@
+{
+ "isin": "INE450D01021",
+ "sym": "PITTIENG",
+ "name": "Pitti Engineering Limited",
+ "scrip": "513519",
+ "mcap_cr": 3311.82,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 468.78,
+   "ebitda": 80.08,
+   "pat": 36.14,
+   "margin_pct": 17.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 456.56,
+   "ebitda": 75.35,
+   "pat": 22.88,
+   "margin_pct": 16.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 477.73,
+   "ebitda": 77.67,
+   "pat": 40.09,
+   "margin_pct": 16.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 477.42,
+   "ebitda": 80.91,
+   "pat": 28.22,
+   "margin_pct": 16.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 501.09,
+   "ebitda": 81.63,
+   "pat": 26.61,
+   "margin_pct": 16.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 33,
+    "profit": 37,
+    "quality": 4
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 529.09,
+   "ebitda": 86.38,
+   "pat": 29.5,
+   "margin_pct": 16.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 51,
+    "profit": 43,
+    "quality": 39
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 578.44,
+   "ebitda": 88.88,
+   "pat": 33.89,
+   "margin_pct": 15.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 56,
+    "profit": 35,
+    "quality": 13
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE488V01015",
+ "sym": "PSPPROJECT",
+ "name": "PSP Projects Limited",
+ "scrip": "540544",
+ "mcap_cr": 3113.47,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 672.89,
+   "ebitda": 32.35,
+   "pat": 6.46,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 517.76,
+   "ebitda": 24.79,
+   "pat": 0.42,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 702.87,
+   "ebitda": 49.93,
+   "pat": 16.17,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 812.79,
+   "ebitda": 54.54,
+   "pat": 17.83,
+   "margin_pct": 6.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1115.24,
+   "ebitda": 59.8,
+   "pat": 21.09,
+   "margin_pct": 5.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 42,
+    "quality": 54
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 853.47,
+   "ebitda": 54.8,
+   "pat": 18.34,
+   "margin_pct": 6.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 53,
+    "quality": 53
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 12,
+  "concalls_read": 12,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

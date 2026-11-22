@@ -1,0 +1,115 @@
+{
+ "isin": "INE547E01014",
+ "sym": "IMPAL",
+ "name": "India Motor Parts and Accessories Limited",
+ "scrip": "590065",
+ "mcap_cr": 1244.69,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 188.85,
+   "ebitda": 13.36,
+   "pat": 23.93,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 196.69,
+   "ebitda": 14.06,
+   "pat": 20.41,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 198.71,
+   "ebitda": 14.58,
+   "pat": 25.5,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 230.99,
+   "ebitda": 17.77,
+   "pat": 17.18,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 210.72,
+   "ebitda": 17.14,
+   "pat": 33.46,
+   "margin_pct": 8.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 58,
+    "profit": 49,
+    "quality": 74
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2.34,
+   "ebitda": 0.17,
+   "pat": 0.22,
+   "margin_pct": 7.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 39,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 221.7,
+   "ebitda": 16.73,
+   "pat": 27.67,
+   "margin_pct": 7.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 48,
+    "profit": 40,
+    "quality": 56
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE231F01020",
+ "sym": "SASKEN",
+ "name": "Sasken Technologies Limited",
+ "scrip": "532663",
+ "mcap_cr": 2800.78,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 148.01,
+   "ebitda": 7.08,
+   "pat": 11.51,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 273.53,
+   "ebitda": 14.65,
+   "pat": 10.01,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 255.49,
+   "ebitda": 15.0,
+   "pat": 10.5,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 250.13,
+   "ebitda": 17.32,
+   "pat": 9.14,
+   "margin_pct": 6.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 334.02,
+   "ebitda": 33.17,
+   "pat": 29.0,
+   "margin_pct": 9.9,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 88,
+    "quality": 78
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 339.24,
+   "ebitda": 32.12,
+   "pat": 23.52,
+   "margin_pct": 9.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 83,
+    "profit": 79,
+    "quality": 86
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 320.95,
+   "ebitda": 41.26,
+   "pat": 25.59,
+   "margin_pct": 12.9,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 84,
+    "profit": 90,
+    "quality": 77
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 3,
+  "concalls_read": 2,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

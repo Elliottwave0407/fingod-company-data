@@ -1,0 +1,105 @@
+{
+ "isin": "INE286H01012",
+ "sym": "VISACHROME",
+ "name": "VISA Chrome Limited",
+ "scrip": "532721",
+ "mcap_cr": 490.58,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 162.41,
+   "ebitda": -468.32,
+   "pat": -488.2,
+   "margin_pct": -288.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 170.98,
+   "ebitda": 17.77,
+   "pat": 4.32,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 75.85,
+   "ebitda": -8.59,
+   "pat": -20.22,
+   "margin_pct": -11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 144.97,
+   "ebitda": -0.91,
+   "pat": -16.53,
+   "margin_pct": -0.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 170.98,
+   "ebitda": 1095.65,
+   "pat": 1082.58,
+   "margin_pct": 640.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 34,
+    "profit": 100,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 120.44,
+   "ebitda": 5.07,
+   "pat": -9.56,
+   "margin_pct": 4.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 3,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

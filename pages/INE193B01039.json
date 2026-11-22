@@ -1,0 +1,115 @@
+{
+ "isin": "INE193B01039",
+ "sym": "AYMSYNTEX",
+ "name": "AYM Syntex Limited",
+ "scrip": "508933",
+ "mcap_cr": 1597.56,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 360.62,
+   "ebitda": 26.7,
+   "pat": 2.01,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 326.48,
+   "ebitda": 16.66,
+   "pat": -3.57,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 349.15,
+   "ebitda": 19.42,
+   "pat": -0.39,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 323.72,
+   "ebitda": 23.42,
+   "pat": 1.48,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 365.77,
+   "ebitda": 33.3,
+   "pat": 9.01,
+   "margin_pct": 9.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 47,
+    "profit": 56,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 351.02,
+   "ebitda": 31.44,
+   "pat": 8.67,
+   "margin_pct": 9.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 69,
+    "profit": 76,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 451.38,
+   "ebitda": 41.61,
+   "pat": 14.98,
+   "margin_pct": 9.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 86,
+    "profit": 75,
+    "quality": 10
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

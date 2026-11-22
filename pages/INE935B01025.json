@@ -1,0 +1,115 @@
+{
+ "isin": "INE935B01025",
+ "sym": "MOSCHIP",
+ "name": "Moschip Technologies Limited",
+ "scrip": "532407",
+ "mcap_cr": 3150.82,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 134.71,
+   "ebitda": 14.34,
+   "pat": 8.69,
+   "margin_pct": 10.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 135.59,
+   "ebitda": 16.58,
+   "pat": 10.9,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 146.94,
+   "ebitda": 16.82,
+   "pat": 12.15,
+   "margin_pct": 11.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 149.39,
+   "ebitda": 9.31,
+   "pat": 4.34,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 153.23,
+   "ebitda": 11.12,
+   "pat": 7.95,
+   "margin_pct": 7.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 28,
+    "profit": 6,
+    "quality": 44
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 116.21,
+   "ebitda": 9.56,
+   "pat": 2.45,
+   "margin_pct": 8.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 7,
+    "profit": 7,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 119.08,
+   "ebitda": -19.67,
+   "pat": -30.4,
+   "margin_pct": -16.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 5,
+    "profit": -13,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

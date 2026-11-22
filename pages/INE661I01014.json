@@ -1,0 +1,97 @@
+{
+ "isin": "INE661I01014",
+ "sym": "BGRENERGY",
+ "name": "BGR Energy Systems Limited",
+ "scrip": "532930",
+ "mcap_cr": 2141.39,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 130.07,
+   "ebitda": -302.16,
+   "pat": -332.36,
+   "margin_pct": -232.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 88.61,
+   "ebitda": -105.28,
+   "pat": -266.03,
+   "margin_pct": -118.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 83.25,
+   "ebitda": -56.47,
+   "pat": -62.54,
+   "margin_pct": -67.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 77.71,
+   "ebitda": -187.34,
+   "pat": -192.56,
+   "margin_pct": -241.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 50.12,
+   "ebitda": -234.05,
+   "pat": -770.59,
+   "margin_pct": -467.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 15.79,
+   "ebitda": -102.26,
+   "pat": -223.29,
+   "margin_pct": -647.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

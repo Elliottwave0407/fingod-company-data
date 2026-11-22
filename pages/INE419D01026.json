@@ -1,0 +1,105 @@
+{
+ "isin": "INE419D01026",
+ "sym": "CLSEL",
+ "name": "Chaman Lal Setia Exports Limited",
+ "scrip": "530307",
+ "mcap_cr": 1404.75,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 367.69,
+   "ebitda": 33.37,
+   "pat": 24.55,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 307.27,
+   "ebitda": 29.42,
+   "pat": 21.64,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 272.95,
+   "ebitda": 24.26,
+   "pat": 18.93,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 430.99,
+   "ebitda": 51.07,
+   "pat": 35.94,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 428.37,
+   "ebitda": 51.97,
+   "pat": 38.27,
+   "margin_pct": 12.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 75,
+    "profit": 72,
+    "quality": 85
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 345.92,
+   "ebitda": 43.56,
+   "pat": 31.99,
+   "margin_pct": 12.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 69,
+    "profit": 72,
+    "quality": 81
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,101 @@
+{
+ "isin": "INE807K01035",
+ "sym": "SCHAND",
+ "name": "S Chand And Company Limited",
+ "scrip": "540497",
+ "mcap_cr": 421.33,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 471.4,
+   "ebitda": 203.17,
+   "pat": 141.57,
+   "margin_pct": 43.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 102.62,
+   "ebitda": -9.11,
+   "pat": -14.07,
+   "margin_pct": -8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 49.35,
+   "ebitda": -60.15,
+   "pat": -53.59,
+   "margin_pct": -121.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 98.95,
+   "ebitda": -33.33,
+   "pat": -28.7,
+   "margin_pct": -33.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 547.82,
+   "ebitda": 244.25,
+   "pat": 169.49,
+   "margin_pct": 44.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 57,
+    "profit": 67,
+    "quality": 63
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 114.55,
+   "ebitda": -9.68,
+   "pat": -18.73,
+   "margin_pct": -8.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-08-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

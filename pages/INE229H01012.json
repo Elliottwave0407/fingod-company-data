@@ -1,0 +1,115 @@
+{
+ "isin": "INE229H01012",
+ "sym": "NITINSPIN",
+ "name": "Nitin Spinners Limited",
+ "scrip": "532698",
+ "mcap_cr": 3963.23,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 841.29,
+   "ebitda": 120.33,
+   "pat": 46.37,
+   "margin_pct": 14.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 793.31,
+   "ebitda": 111.25,
+   "pat": 40.99,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 760.08,
+   "ebitda": 99.56,
+   "pat": 34.79,
+   "margin_pct": 13.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 800.68,
+   "ebitda": 111.54,
+   "pat": 44.41,
+   "margin_pct": 13.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 859.79,
+   "ebitda": 130.4,
+   "pat": 57.36,
+   "margin_pct": 15.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 34,
+    "profit": 53,
+    "quality": 44
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 875.03,
+   "ebitda": 155.58,
+   "pat": 75.27,
+   "margin_pct": 17.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 63,
+    "profit": 83,
+    "quality": 65
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 985.15,
+   "ebitda": 175.47,
+   "pat": 88.66,
+   "margin_pct": 17.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 86,
+    "profit": 92,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

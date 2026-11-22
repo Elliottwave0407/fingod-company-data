@@ -1,0 +1,105 @@
+{
+ "isin": "INE942C01045",
+ "sym": "GUJTHEM",
+ "name": "Gujarat Themis Biosyn Limited",
+ "scrip": "506879",
+ "mcap_cr": 4578.09,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 37.74,
+   "ebitda": 16.04,
+   "pat": 12.0,
+   "margin_pct": 42.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 35.87,
+   "ebitda": 13.92,
+   "pat": 9.06,
+   "margin_pct": 38.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 42.35,
+   "ebitda": 20.94,
+   "pat": 14.27,
+   "margin_pct": 49.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 43.37,
+   "ebitda": 21.3,
+   "pat": 12.46,
+   "margin_pct": 49.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 44.23,
+   "ebitda": 19.37,
+   "pat": 10.89,
+   "margin_pct": 43.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 58,
+    "profit": 65,
+    "quality": 30
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 43.79,
+   "ebitda": 20.8,
+   "pat": 11.07,
+   "margin_pct": 47.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 77,
+    "profit": 100,
+    "quality": 51
+   },
+   "capped_by": "profit growth under 25%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-08-14"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

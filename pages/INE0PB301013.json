@@ -1,0 +1,111 @@
+{
+ "isin": "INE0PB301013",
+ "sym": "SCILAL",
+ "name": "Shipping Corporation Of India Land And Assets Limited",
+ "scrip": "544142",
+ "mcap_cr": 1673.15,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 4.88,
+   "ebitda": -3.18,
+   "pat": -224.37,
+   "margin_pct": -65.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 5.71,
+   "ebitda": -1.55,
+   "pat": 14.34,
+   "margin_pct": -27.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 6.13,
+   "ebitda": -14.87,
+   "pat": 4.19,
+   "margin_pct": -242.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 5.65,
+   "ebitda": -4.99,
+   "pat": 11.13,
+   "margin_pct": -88.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 5.81,
+   "ebitda": -20.31,
+   "pat": -0.84,
+   "margin_pct": -349.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 7.86,
+   "ebitda": -1.08,
+   "pat": 14.02,
+   "margin_pct": -13.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 82,
+    "profit": 69,
+    "quality": 19
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 7.67,
+   "ebitda": -4.05,
+   "pat": 11.75,
+   "margin_pct": -52.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 67,
+    "profit": 38,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE859Q01017",
+ "sym": "MANAKALUCO",
+ "name": "Manaksia Aluminium Company Limited",
+ "scrip": "539045",
+ "mcap_cr": 185.59,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 137.07,
+   "ebitda": 11.43,
+   "pat": 2.0,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 134.41,
+   "ebitda": 11.26,
+   "pat": 1.56,
+   "margin_pct": 8.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 131.21,
+   "ebitda": 10.81,
+   "pat": 1.11,
+   "margin_pct": 8.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 142.63,
+   "ebitda": 11.87,
+   "pat": 1.65,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 155.66,
+   "ebitda": 13.43,
+   "pat": 3.24,
+   "margin_pct": 8.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 52,
+    "profit": 42,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 139.59,
+   "ebitda": 13.39,
+   "pat": 2.85,
+   "margin_pct": 9.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 45,
+    "profit": 52,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE646B01010",
+ "sym": "MEDICAMEQ",
+ "name": "Medicamen Biotech Limited",
+ "scrip": "531146",
+ "mcap_cr": 388.91,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 29.61,
+   "ebitda": -1.61,
+   "pat": 1.86,
+   "margin_pct": -5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 43.04,
+   "ebitda": 4.61,
+   "pat": 1.6,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 47.17,
+   "ebitda": 5.16,
+   "pat": 2.11,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 46.91,
+   "ebitda": 4.38,
+   "pat": 1.63,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 60.65,
+   "ebitda": 5.43,
+   "pat": 4.45,
+   "margin_pct": 9.0,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 87,
+    "quality": 93
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 47.9,
+   "ebitda": 4.33,
+   "pat": 1.85,
+   "margin_pct": 9.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 32,
+    "profit": 21,
+    "quality": 37
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

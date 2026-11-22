@@ -1,0 +1,105 @@
+{
+ "isin": "INE324X01026",
+ "sym": "SARVESHWAR",
+ "name": "Sarveshwar Foods Limited",
+ "scrip": "543688",
+ "mcap_cr": 431.07,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 349.72,
+   "ebitda": 16.77,
+   "pat": 8.61,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 301.35,
+   "ebitda": 16.77,
+   "pat": 7.02,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 334.86,
+   "ebitda": 17.37,
+   "pat": 8.23,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 326.78,
+   "ebitda": 16.83,
+   "pat": 9.22,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 382.62,
+   "ebitda": 15.1,
+   "pat": 7.35,
+   "margin_pct": 3.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 29,
+    "profit": 26,
+    "quality": 22
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 358.03,
+   "ebitda": 15.35,
+   "pat": 8.22,
+   "margin_pct": 4.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 38,
+    "profit": 22,
+    "quality": 47
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2025-08-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

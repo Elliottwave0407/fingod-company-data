@@ -1,0 +1,101 @@
+{
+ "isin": "INE950M01013",
+ "sym": "MONTECARLO",
+ "name": "Monte Carlo Fashions Limited",
+ "scrip": "538836",
+ "mcap_cr": 1027.38,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 205.93,
+   "ebitda": 5.68,
+   "pat": -10.34,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 138.53,
+   "ebitda": -5.87,
+   "pat": -16.22,
+   "margin_pct": -4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 248.7,
+   "ebitda": 41.53,
+   "pat": 16.26,
+   "margin_pct": 16.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 608.38,
+   "ebitda": 165.74,
+   "pat": 106.99,
+   "margin_pct": 27.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 280.3,
+   "ebitda": 25.81,
+   "pat": 5.03,
+   "margin_pct": 9.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 90,
+    "profit": 87,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 149.04,
+   "ebitda": -12.93,
+   "pat": -23.42,
+   "margin_pct": -8.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

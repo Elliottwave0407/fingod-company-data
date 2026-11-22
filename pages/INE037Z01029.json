@@ -1,0 +1,105 @@
+{
+ "isin": "INE037Z01029",
+ "sym": "CEWATER",
+ "name": "Concord Enviro Systems Limited",
+ "scrip": "544315",
+ "mcap_cr": 441.76,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 206.99,
+   "ebitda": 58.9,
+   "pat": 47.13,
+   "margin_pct": 28.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 102.39,
+   "ebitda": -0.89,
+   "pat": 4.12,
+   "margin_pct": -0.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 124.84,
+   "ebitda": 7.66,
+   "pat": 4.49,
+   "margin_pct": 6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 124.58,
+   "ebitda": -0.88,
+   "pat": -8.18,
+   "margin_pct": -0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 206.04,
+   "ebitda": 23.67,
+   "pat": 14.15,
+   "margin_pct": 11.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 12,
+    "profit": 9,
+    "quality": 25
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 85.35,
+   "ebitda": -14.94,
+   "pat": -17.57,
+   "margin_pct": -17.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 11,
+    "profit": -14,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 8,
+  "concalls_read": 8,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

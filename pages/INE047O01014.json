@@ -1,0 +1,107 @@
+{
+ "isin": "INE047O01014",
+ "sym": "NIBL",
+ "name": "NRB Industrial Bearings Limited",
+ "scrip": "535458",
+ "mcap_cr": 79.72,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 16.11,
+   "ebitda": 43.49,
+   "pat": 39.51,
+   "margin_pct": 270.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 18.55,
+   "ebitda": -1.26,
+   "pat": -5.09,
+   "margin_pct": -6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 17.86,
+   "ebitda": -2.63,
+   "pat": -6.74,
+   "margin_pct": -14.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 18.63,
+   "ebitda": -6.13,
+   "pat": -10.89,
+   "margin_pct": -32.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 20.58,
+   "ebitda": -1.95,
+   "pat": -6.74,
+   "margin_pct": -9.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 35,
+    "profit": -8,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 18.9,
+   "ebitda": -1.61,
+   "pat": -6.59,
+   "margin_pct": -8.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 21.41,
+   "ebitda": -1.65,
+   "pat": -6.5,
+   "margin_pct": -7.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

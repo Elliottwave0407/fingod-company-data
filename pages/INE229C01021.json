@@ -1,0 +1,115 @@
+{
+ "isin": "INE229C01021",
+ "sym": "SAGCEM",
+ "name": "Sagar Cements Limited",
+ "scrip": "502090",
+ "mcap_cr": 1868.46,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 658.04,
+   "ebitda": 9.65,
+   "pat": -73.05,
+   "margin_pct": 1.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 670.66,
+   "ebitda": 121.45,
+   "pat": 7.49,
+   "margin_pct": 18.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 601.86,
+   "ebitda": 51.33,
+   "pat": -44.17,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 590.54,
+   "ebitda": 37.67,
+   "pat": -64.1,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 786.96,
+   "ebitda": 81.54,
+   "pat": 100.05,
+   "margin_pct": 10.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 88,
+    "quality": 100
+   },
+   "capped_by": "turnaround from a loss base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 706.07,
+   "ebitda": 72.42,
+   "pat": -28.1,
+   "margin_pct": 10.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 17,
+    "profit": 8,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 705.36,
+   "ebitda": 45.31,
+   "pat": -51.54,
+   "margin_pct": 6.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 35,
+    "profit": 15,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

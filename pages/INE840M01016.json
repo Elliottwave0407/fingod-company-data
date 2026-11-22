@@ -1,0 +1,105 @@
+{
+ "isin": "INE840M01016",
+ "sym": "ZUARI",
+ "name": "Zuari Agro Chemicals Limited",
+ "scrip": "534742",
+ "mcap_cr": 774.71,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 951.99,
+   "ebitda": 32.47,
+   "pat": 27.2,
+   "margin_pct": 3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1246.05,
+   "ebitda": 140.74,
+   "pat": 127.38,
+   "margin_pct": 11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1422.63,
+   "ebitda": 991.25,
+   "pat": 840.36,
+   "margin_pct": 69.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 343.7,
+   "ebitda": 6.37,
+   "pat": 39.7,
+   "margin_pct": 1.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 187.33,
+   "ebitda": -17.22,
+   "pat": -25.1,
+   "margin_pct": -9.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -7,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 615.21,
+   "ebitda": 59.15,
+   "pat": 118.7,
+   "margin_pct": 9.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 22,
+    "quality": 60
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

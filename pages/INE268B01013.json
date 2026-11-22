@@ -1,0 +1,107 @@
+{
+ "isin": "INE268B01013",
+ "sym": "KREBSBIO",
+ "name": "Krebs Biochemicals and Industries Limited",
+ "scrip": "524518",
+ "mcap_cr": 123.63,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 6.1,
+   "ebitda": -5.41,
+   "pat": -8.27,
+   "margin_pct": -88.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 5.48,
+   "ebitda": -2.08,
+   "pat": -5.32,
+   "margin_pct": -38.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 4.17,
+   "ebitda": -2.8,
+   "pat": -6.14,
+   "margin_pct": -67.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 7.27,
+   "ebitda": 0.29,
+   "pat": -3.13,
+   "margin_pct": 4.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 6.81,
+   "ebitda": -0.86,
+   "pat": -2.34,
+   "margin_pct": -12.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 6.98,
+   "ebitda": 0.83,
+   "pat": -2.48,
+   "margin_pct": 11.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 70,
+    "profit": 90,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 5.79,
+   "ebitda": -1.93,
+   "pat": -5.4,
+   "margin_pct": -33.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

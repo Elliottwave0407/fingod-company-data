@@ -1,0 +1,105 @@
+{
+ "isin": "INE843D01027",
+ "sym": "DCMSRIND",
+ "name": "Dcm Shriram Industries Limited",
+ "scrip": "523369",
+ "mcap_cr": 483.33,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 471.6,
+   "ebitda": 48.28,
+   "pat": 23.7,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 498.59,
+   "ebitda": 43.59,
+   "pat": 16.87,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 526.85,
+   "ebitda": 9.57,
+   "pat": -3.12,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 257.65,
+   "ebitda": 25.09,
+   "pat": 11.54,
+   "margin_pct": 9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 273.54,
+   "ebitda": 33.0,
+   "pat": 15.91,
+   "margin_pct": 12.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 60,
+    "quality": 15
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 293.63,
+   "ebitda": 7.18,
+   "pat": 1.55,
+   "margin_pct": 2.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 2,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

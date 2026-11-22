@@ -1,0 +1,105 @@
+{
+ "isin": "INE586V01016",
+ "sym": "TCIEXP",
+ "name": "TCI Express Limited",
+ "scrip": "540212",
+ "mcap_cr": 1823.79,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 307.28,
+   "ebitda": 26.27,
+   "pat": 19.36,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 286.75,
+   "ebitda": 28.05,
+   "pat": 19.47,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 308.53,
+   "ebitda": 33.51,
+   "pat": 23.91,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 314.05,
+   "ebitda": 32.47,
+   "pat": 22.03,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 328.08,
+   "ebitda": 29.25,
+   "pat": 16.03,
+   "margin_pct": 8.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 40,
+    "profit": 43,
+    "quality": 26
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 313.4,
+   "ebitda": 31.42,
+   "pat": 20.49,
+   "margin_pct": 10.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 43,
+    "profit": 42,
+    "quality": 46
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

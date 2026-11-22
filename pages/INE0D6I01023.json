@@ -1,0 +1,115 @@
+{
+ "isin": "INE0D6I01023",
+ "sym": "KSOLVES",
+ "name": "Ksolves India Limited",
+ "scrip": "543599",
+ "mcap_cr": 485.91,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 33.34,
+   "ebitda": 8.54,
+   "pat": 5.86,
+   "margin_pct": 25.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 37.66,
+   "ebitda": 9.94,
+   "pat": 6.43,
+   "margin_pct": 26.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 39.67,
+   "ebitda": 12.07,
+   "pat": 8.41,
+   "margin_pct": 30.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 42.3,
+   "ebitda": 13.71,
+   "pat": 9.8,
+   "margin_pct": 32.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 43.03,
+   "ebitda": 12.6,
+   "pat": 9.69,
+   "margin_pct": 29.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 81,
+    "profit": 88,
+    "quality": 89
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 41.44,
+   "ebitda": 12.57,
+   "pat": 9.21,
+   "margin_pct": 30.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 55,
+    "profit": 90,
+    "quality": 79
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 37.8,
+   "ebitda": 9.73,
+   "pat": 7.25,
+   "margin_pct": 25.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 20,
+    "quality": 44
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 13,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-30"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE0BJS01011",
+ "sym": "GOCOLORS",
+ "name": "Go Fashion (India) Limited",
+ "scrip": "543401",
+ "mcap_cr": 1445.6,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 204.81,
+   "ebitda": 62.42,
+   "pat": 19.89,
+   "margin_pct": 30.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 222.83,
+   "ebitda": 68.72,
+   "pat": 22.26,
+   "margin_pct": 30.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 224.17,
+   "ebitda": 66.65,
+   "pat": 21.8,
+   "margin_pct": 29.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 194.89,
+   "ebitda": 52.09,
+   "pat": 7.17,
+   "margin_pct": 26.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 196.12,
+   "ebitda": 49.64,
+   "pat": 7.95,
+   "margin_pct": 25.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 15,
+    "profit": 20,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 222.84,
+   "ebitda": 60.94,
+   "pat": 16.49,
+   "margin_pct": 27.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 20,
+    "profit": 20,
+    "quality": 2
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 217.59,
+   "ebitda": 52.61,
+   "pat": 8.97,
+   "margin_pct": 24.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 15,
+    "profit": 19,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE927C01020",
+ "sym": "DIGISPICE",
+ "name": "DiGiSPICE Technologies Limited",
+ "scrip": "517214",
+ "mcap_cr": 359.05,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 116.81,
+   "ebitda": -13.01,
+   "pat": -12.25,
+   "margin_pct": -11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 123.76,
+   "ebitda": 6.4,
+   "pat": 6.93,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 124.58,
+   "ebitda": 6.92,
+   "pat": 7.16,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 109.13,
+   "ebitda": 1.9,
+   "pat": 2.41,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 107.17,
+   "ebitda": 1.18,
+   "pat": 2.76,
+   "margin_pct": 1.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 18,
+    "profit": 81,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 107.75,
+   "ebitda": 6.49,
+   "pat": 6.6,
+   "margin_pct": 6.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 21,
+    "profit": 45,
+    "quality": 48
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

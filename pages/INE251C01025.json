@@ -1,0 +1,98 @@
+{
+ "isin": "INE251C01025",
+ "sym": "ABMINTLLTD",
+ "name": "ABM International Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 17.67,
+   "ebitda": -2.4,
+   "pat": -1.75,
+   "margin_pct": -13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 14.3,
+   "ebitda": -0.16,
+   "pat": -0.09,
+   "margin_pct": -1.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 10.46,
+   "ebitda": -0.46,
+   "pat": -0.41,
+   "margin_pct": -4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 15.33,
+   "ebitda": -3.36,
+   "pat": -3.34,
+   "margin_pct": -21.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 14.37,
+   "ebitda": 1.5,
+   "pat": 1.69,
+   "margin_pct": 10.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 9,
+    "profit": 88,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 10.45,
+   "ebitda": 0.63,
+   "pat": 0.68,
+   "margin_pct": 6.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

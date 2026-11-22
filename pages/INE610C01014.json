@@ -1,0 +1,97 @@
+{
+ "isin": "INE610C01014",
+ "sym": "ARENTERP",
+ "name": "Rajdarshan Industries Limited",
+ "scrip": "526662",
+ "mcap_cr": 10.16,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.07,
+   "ebitda": -0.17,
+   "pat": -0.29,
+   "margin_pct": -242.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.3,
+   "ebitda": -0.1,
+   "pat": 0.24,
+   "margin_pct": -33.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 0.09,
+   "ebitda": -0.03,
+   "pat": -0.07,
+   "margin_pct": -33.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.07,
+   "ebitda": -0.06,
+   "pat": 0.09,
+   "margin_pct": -85.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.11,
+   "ebitda": -0.1,
+   "pat": -0.44,
+   "margin_pct": -90.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.3,
+   "ebitda": -0.09,
+   "pat": 0.36,
+   "margin_pct": -30.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

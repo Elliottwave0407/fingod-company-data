@@ -1,0 +1,105 @@
+{
+ "isin": "INE0J1F01024",
+ "sym": "RPTECH",
+ "name": "Rashi Peripherals Limited",
+ "scrip": "544119",
+ "mcap_cr": 4316.37,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 2973.17,
+   "ebitda": 96.35,
+   "pat": 52.74,
+   "margin_pct": 3.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 3152.14,
+   "ebitda": 103.5,
+   "pat": 61.7,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 4155.41,
+   "ebitda": 103.64,
+   "pat": 59.22,
+   "margin_pct": 2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 4030.41,
+   "ebitda": 118.93,
+   "pat": 74.59,
+   "margin_pct": 3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 4489.38,
+   "ebitda": 132.64,
+   "pat": 86.84,
+   "margin_pct": 3.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 87,
+    "profit": 31,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 5101.85,
+   "ebitda": 155.28,
+   "pat": 104.56,
+   "margin_pct": 3.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 96,
+    "profit": 32,
+    "quality": 81
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

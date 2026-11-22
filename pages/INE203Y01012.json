@@ -1,0 +1,94 @@
+{
+ "isin": "INE203Y01012",
+ "sym": "CRESTO",
+ "name": "Silly Monks Entertainment Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 6.47,
+   "ebitda": 0.08,
+   "pat": -0.01,
+   "margin_pct": 1.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 5.88,
+   "ebitda": -0.24,
+   "pat": -0.38,
+   "margin_pct": -4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 6.48,
+   "ebitda": 0.29,
+   "pat": 0.18,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 5.64,
+   "ebitda": -0.56,
+   "pat": -0.67,
+   "margin_pct": -9.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 5.07,
+   "ebitda": -1.01,
+   "pat": -1.12,
+   "margin_pct": -19.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.06,
+   "ebitda": -1.02,
+   "pat": -0.51,
+   "margin_pct": -1700.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

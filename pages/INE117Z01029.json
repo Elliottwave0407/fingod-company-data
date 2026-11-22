@@ -1,0 +1,105 @@
+{
+ "isin": "INE117Z01029",
+ "sym": "NARMADA",
+ "name": "Narmada Agrobase Limited",
+ "scrip": "543643",
+ "mcap_cr": 85.05,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 29.3,
+   "ebitda": 0.59,
+   "pat": 0.78,
+   "margin_pct": 2.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 11.08,
+   "ebitda": 1.32,
+   "pat": 1.02,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 11.95,
+   "ebitda": 1.29,
+   "pat": 1.03,
+   "margin_pct": 10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 21.35,
+   "ebitda": 1.39,
+   "pat": 1.01,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 34.0,
+   "ebitda": 0.98,
+   "pat": 0.8,
+   "margin_pct": 2.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 76,
+    "profit": 43,
+    "quality": 58
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 22.26,
+   "ebitda": 0.95,
+   "pat": 0.75,
+   "margin_pct": 4.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 51,
+    "profit": 3,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2025-11-29"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

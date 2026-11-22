@@ -1,0 +1,105 @@
+{
+ "isin": "INE712K01011",
+ "sym": "SHREEPUSHK",
+ "name": "Shree Pushkar Chemicals & Fertilisers Limited",
+ "scrip": "539334",
+ "mcap_cr": 1644.86,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 219.4,
+   "ebitda": 24.7,
+   "pat": 16.54,
+   "margin_pct": 11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 254.51,
+   "ebitda": 29.11,
+   "pat": 20.96,
+   "margin_pct": 11.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 255.09,
+   "ebitda": 26.23,
+   "pat": 18.2,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 248.86,
+   "ebitda": 22.07,
+   "pat": 18.07,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 218.17,
+   "ebitda": 22.13,
+   "pat": 12.87,
+   "margin_pct": 10.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 28,
+    "quality": 27
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 280.07,
+   "ebitda": 31.93,
+   "pat": 22.93,
+   "margin_pct": 11.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 42,
+    "profit": 41,
+    "quality": 55
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

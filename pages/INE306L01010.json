@@ -1,0 +1,107 @@
+{
+ "isin": "INE306L01010",
+ "sym": "QUICKHEAL",
+ "name": "Quick Heal Technologies Limited",
+ "scrip": "539678",
+ "mcap_cr": 787.83,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 65.14,
+   "ebitda": -8.48,
+   "pat": -3.25,
+   "margin_pct": -13.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 57.23,
+   "ebitda": -9.73,
+   "pat": -5.51,
+   "margin_pct": -17.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 83.52,
+   "ebitda": 9.23,
+   "pat": 7.91,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 71.54,
+   "ebitda": 0.45,
+   "pat": 6.61,
+   "margin_pct": 0.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 48.73,
+   "ebitda": -29.32,
+   "pat": -19.94,
+   "margin_pct": -60.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 44.99,
+   "ebitda": -17.57,
+   "pat": -5.28,
+   "margin_pct": -39.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 64.93,
+   "ebitda": 2.3,
+   "pat": 5.8,
+   "margin_pct": 3.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 3,
+    "profit": 3,
+    "quality": 41
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 9,
+  "concalls_read": 1,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

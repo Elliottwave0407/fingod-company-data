@@ -1,0 +1,105 @@
+{
+ "isin": "INE109C01017",
+ "sym": "ARMANFIN",
+ "name": "Arman Financial Services Limited",
+ "scrip": "531179",
+ "mcap_cr": 1637.36,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 199.35,
+   "ebitda": 64.89,
+   "pat": 12.76,
+   "margin_pct": 32.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 151.0,
+   "ebitda": 41.49,
+   "pat": -14.58,
+   "margin_pct": 27.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 159.21,
+   "ebitda": 68.0,
+   "pat": 7.99,
+   "margin_pct": 42.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 160.07,
+   "ebitda": 79.73,
+   "pat": 22.18,
+   "margin_pct": 49.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 175.58,
+   "ebitda": 95.24,
+   "pat": 41.01,
+   "margin_pct": 54.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 52,
+    "profit": 100,
+    "quality": 61
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 201.78,
+   "ebitda": 121.88,
+   "pat": 45.17,
+   "margin_pct": 60.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 89,
+    "profit": 100,
+    "quality": 12
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

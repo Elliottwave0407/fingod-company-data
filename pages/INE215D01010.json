@@ -1,0 +1,115 @@
+{
+ "isin": "INE215D01010",
+ "sym": "MAHEPC",
+ "name": "Mahindra EPC Irrigation Limited",
+ "scrip": "523754",
+ "mcap_cr": 279.12,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 95.89,
+   "ebitda": 9.59,
+   "pat": 6.25,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 62.04,
+   "ebitda": 2.74,
+   "pat": 0.98,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 49.58,
+   "ebitda": 1.35,
+   "pat": 0.43,
+   "margin_pct": 2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 93.47,
+   "ebitda": 8.46,
+   "pat": 6.49,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 107.0,
+   "ebitda": 7.04,
+   "pat": 4.79,
+   "margin_pct": 6.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 24,
+    "profit": 5,
+    "quality": 34
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 54.16,
+   "ebitda": -1.36,
+   "pat": -2.14,
+   "margin_pct": -2.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 7,
+    "profit": -2,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 72.65,
+   "ebitda": 4.63,
+   "pat": 2.23,
+   "margin_pct": 6.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 95,
+    "profit": 72,
+    "quality": 65
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-04-29"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

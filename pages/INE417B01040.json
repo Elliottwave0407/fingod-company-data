@@ -1,0 +1,105 @@
+{
+ "isin": "INE417B01040",
+ "sym": "DSSL",
+ "name": "Dynacons Systems & Solutions Limited",
+ "scrip": "532365",
+ "mcap_cr": 1315.74,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 328.9,
+   "ebitda": 29.49,
+   "pat": 18.2,
+   "margin_pct": 9.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 328.85,
+   "ebitda": 31.78,
+   "pat": 19.65,
+   "margin_pct": 9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 352.39,
+   "ebitda": 37.23,
+   "pat": 22.68,
+   "margin_pct": 10.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 340.59,
+   "ebitda": 40.61,
+   "pat": 23.49,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 402.45,
+   "ebitda": 36.31,
+   "pat": 18.99,
+   "margin_pct": 9.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 64,
+    "profit": 40,
+    "quality": 35
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 313.69,
+   "ebitda": 40.18,
+   "pat": 19.8,
+   "margin_pct": 12.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 45,
+    "profit": 73,
+    "quality": 29
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-08-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

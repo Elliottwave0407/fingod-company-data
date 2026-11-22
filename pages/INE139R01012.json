@@ -1,0 +1,105 @@
+{
+ "isin": "INE139R01012",
+ "sym": "FUSION",
+ "name": "Fusion Finance Limited",
+ "scrip": "543652",
+ "mcap_cr": 2489.39,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 466.08,
+   "ebitda": 8.2,
+   "pat": -164.56,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 434.43,
+   "ebitda": 47.92,
+   "pat": -92.25,
+   "margin_pct": 11.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 415.79,
+   "ebitda": 97.72,
+   "pat": -22.14,
+   "margin_pct": 23.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 416.44,
+   "ebitda": 132.34,
+   "pat": 14.05,
+   "margin_pct": 31.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 424.02,
+   "ebitda": 165.59,
+   "pat": 114.19,
+   "margin_pct": 39.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 59,
+    "profit": 100,
+    "quality": 65
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 458.17,
+   "ebitda": 213.85,
+   "pat": 62.41,
+   "margin_pct": 46.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 67,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 1,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

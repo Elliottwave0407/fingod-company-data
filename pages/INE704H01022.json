@@ -1,0 +1,105 @@
+{
+ "isin": "INE704H01022",
+ "sym": "CINELINE",
+ "name": "Cineline India Limited",
+ "scrip": "532807",
+ "mcap_cr": 325.05,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 55.01,
+   "ebitda": -17.36,
+   "pat": -12.47,
+   "margin_pct": -31.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 45.29,
+   "ebitda": 5.68,
+   "pat": -2.06,
+   "margin_pct": 12.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 61.97,
+   "ebitda": 12.83,
+   "pat": 4.05,
+   "margin_pct": 20.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 67.21,
+   "ebitda": 16.58,
+   "pat": 6.21,
+   "margin_pct": 24.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 62.23,
+   "ebitda": 13.77,
+   "pat": 3.32,
+   "margin_pct": 22.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 48,
+    "profit": 98,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 59.27,
+   "ebitda": 10.05,
+   "pat": -1.21,
+   "margin_pct": 17.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 87,
+    "profit": 88,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

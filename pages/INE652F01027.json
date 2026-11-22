@@ -1,0 +1,101 @@
+{
+ "isin": "INE652F01027",
+ "sym": "CCHHL",
+ "name": "Country Club Hospitality & Holidays Limited",
+ "scrip": "526550",
+ "mcap_cr": 201.55,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 12.83,
+   "ebitda": -9.44,
+   "pat": 9.08,
+   "margin_pct": -73.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 24.03,
+   "ebitda": 2.37,
+   "pat": 0.26,
+   "margin_pct": 9.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 20.08,
+   "ebitda": 1.67,
+   "pat": 0.13,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 15.88,
+   "ebitda": 0.72,
+   "pat": -1.31,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 18.33,
+   "ebitda": -48.02,
+   "pat": -16.84,
+   "margin_pct": -262.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 86,
+    "profit": -210,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 15.36,
+   "ebitda": 2.84,
+   "pat": 0.42,
+   "margin_pct": 18.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

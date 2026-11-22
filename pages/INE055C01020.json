@@ -1,0 +1,97 @@
+{
+ "isin": "INE055C01020",
+ "sym": "KEEPLEARN",
+ "name": "DSJ Keep Learning Limited",
+ "scrip": "526677",
+ "mcap_cr": 23.98,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 3.31,
+   "ebitda": 0.13,
+   "pat": -0.04,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 2.71,
+   "ebitda": 0.43,
+   "pat": 0.3,
+   "margin_pct": 15.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2.23,
+   "ebitda": 0.18,
+   "pat": 0.03,
+   "margin_pct": 8.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.45,
+   "ebitda": -0.39,
+   "pat": -0.54,
+   "margin_pct": -26.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1.5,
+   "ebitda": -0.98,
+   "pat": -0.76,
+   "margin_pct": -65.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2.11,
+   "ebitda": 0.18,
+   "pat": 0.1,
+   "margin_pct": 8.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

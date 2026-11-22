@@ -1,0 +1,105 @@
+{
+ "isin": "INE835B01035",
+ "sym": "MOLDTECH",
+ "name": "Mold-Tek Technologies Limited",
+ "scrip": "526263",
+ "mcap_cr": 498.04,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 29.88,
+   "ebitda": -3.04,
+   "pat": -1.56,
+   "margin_pct": -10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 33.29,
+   "ebitda": 0.47,
+   "pat": 0.68,
+   "margin_pct": 1.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 40.23,
+   "ebitda": 4.44,
+   "pat": 3.24,
+   "margin_pct": 11.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 52.67,
+   "ebitda": 5.44,
+   "pat": 3.89,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 55.49,
+   "ebitda": 1.04,
+   "pat": 2.28,
+   "margin_pct": 1.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 81,
+    "quality": 80
+   },
+   "capped_by": "turnaround from a loss base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 59.54,
+   "ebitda": 11.86,
+   "pat": 9.0,
+   "margin_pct": 19.9,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 96,
+    "quality": 88
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 8,
+  "concalls_read": 8,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

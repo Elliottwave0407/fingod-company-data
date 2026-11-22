@@ -1,0 +1,115 @@
+{
+ "isin": "INE290A01027",
+ "sym": "NAHARSPING",
+ "name": "Nahar Spinning Mills Limited",
+ "scrip": "500296",
+ "mcap_cr": 900.37,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 875.6,
+   "ebitda": 64.91,
+   "pat": 22.41,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 819.28,
+   "ebitda": 57.72,
+   "pat": 15.96,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 779.27,
+   "ebitda": 25.57,
+   "pat": -4.64,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 702.56,
+   "ebitda": 14.56,
+   "pat": -12.92,
+   "margin_pct": 2.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 916.82,
+   "ebitda": 58.74,
+   "pat": 23.42,
+   "margin_pct": 6.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": 26,
+    "quality": 25
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 966.1,
+   "ebitda": 127.09,
+   "pat": 69.88,
+   "margin_pct": 13.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 78,
+    "profit": 91,
+    "quality": 71
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 894.44,
+   "ebitda": 117.82,
+   "pat": 71.05,
+   "margin_pct": 13.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 75,
+    "profit": 91,
+    "quality": 51
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

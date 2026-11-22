@@ -1,0 +1,103 @@
+{
+ "isin": "INE369C01017",
+ "sym": "NORBTEAEXP",
+ "name": "Norben Tea & Exports Limited",
+ "scrip": "519528",
+ "mcap_cr": 80.43,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1.08,
+   "ebitda": -0.53,
+   "pat": -1.03,
+   "margin_pct": -49.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1.23,
+   "ebitda": 0.65,
+   "pat": 0.28,
+   "margin_pct": 52.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2.39,
+   "ebitda": 0.51,
+   "pat": 0.11,
+   "margin_pct": 21.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 3.02,
+   "ebitda": 0.48,
+   "pat": 0.09,
+   "margin_pct": 15.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1.43,
+   "ebitda": -0.32,
+   "pat": -0.79,
+   "margin_pct": -22.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1.29,
+   "ebitda": 0.65,
+   "pat": 0.32,
+   "margin_pct": 50.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 2.73,
+   "ebitda": 1.16,
+   "pat": 0.74,
+   "margin_pct": 42.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

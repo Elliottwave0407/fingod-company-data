@@ -1,0 +1,102 @@
+{
+ "isin": "INE0JM501013",
+ "sym": "NRL",
+ "name": "Nupur Recyclers Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 37.22,
+   "ebitda": 2.0,
+   "pat": 2.31,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 50.98,
+   "ebitda": 4.03,
+   "pat": 4.04,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 48.76,
+   "ebitda": 3.42,
+   "pat": 4.33,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 58.88,
+   "ebitda": 5.97,
+   "pat": 4.76,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 57.32,
+   "ebitda": 3.68,
+   "pat": 3.35,
+   "margin_pct": 6.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 98,
+    "profit": 48,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 79.34,
+   "ebitda": 9.17,
+   "pat": 7.39,
+   "margin_pct": 11.6,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 98,
+    "profit": 77,
+    "quality": 92
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-08-29"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

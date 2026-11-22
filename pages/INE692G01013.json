@@ -1,0 +1,115 @@
+{
+ "isin": "INE692G01013",
+ "sym": "XCHANGING",
+ "name": "Xchanging Solutions Limited",
+ "scrip": "532616",
+ "mcap_cr": 624.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 50.74,
+   "ebitda": 17.35,
+   "pat": 14.65,
+   "margin_pct": 34.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 49.99,
+   "ebitda": 16.36,
+   "pat": 13.77,
+   "margin_pct": 32.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 52.81,
+   "ebitda": 17.01,
+   "pat": 16.26,
+   "margin_pct": 32.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 48.82,
+   "ebitda": 16.08,
+   "pat": 13.18,
+   "margin_pct": 32.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 51.3,
+   "ebitda": 19.07,
+   "pat": 16.24,
+   "margin_pct": 37.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 34,
+    "profit": 81,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 53.64,
+   "ebitda": 17.99,
+   "pat": 15.12,
+   "margin_pct": 33.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 40,
+    "profit": 60,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 53.21,
+   "ebitda": 18.43,
+   "pat": 15.19,
+   "margin_pct": 34.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 76,
+    "quality": 53
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

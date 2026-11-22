@@ -1,0 +1,105 @@
+{
+ "isin": "INE637C01025",
+ "sym": "POKARNA",
+ "name": "Pokarna Limited",
+ "scrip": "532486",
+ "mcap_cr": 2185.94,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 262.68,
+   "ebitda": 101.11,
+   "pat": 58.9,
+   "margin_pct": 38.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 170.96,
+   "ebitda": 54.92,
+   "pat": 28.29,
+   "margin_pct": 32.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 118.46,
+   "ebitda": 23.8,
+   "pat": 6.33,
+   "margin_pct": 20.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 134.96,
+   "ebitda": 40.72,
+   "pat": 20.37,
+   "margin_pct": 30.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 147.24,
+   "ebitda": 45.03,
+   "pat": 25.61,
+   "margin_pct": 30.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 20,
+    "quality": 22
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 189.41,
+   "ebitda": 67.99,
+   "pat": 42.6,
+   "margin_pct": 35.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 54,
+    "profit": 89,
+    "quality": 73
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2025-08-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

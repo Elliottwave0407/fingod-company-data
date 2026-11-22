@@ -1,0 +1,105 @@
+{
+ "isin": "INE937A01023",
+ "sym": "SPMLINFRA",
+ "name": "SPML Infra Limited",
+ "scrip": "500402",
+ "mcap_cr": 1163.21,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 189.03,
+   "ebitda": 10.29,
+   "pat": 12.01,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 155.91,
+   "ebitda": 7.22,
+   "pat": 12.12,
+   "margin_pct": 4.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 187.76,
+   "ebitda": 8.8,
+   "pat": 15.04,
+   "margin_pct": 4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 229.76,
+   "ebitda": 24.8,
+   "pat": 20.34,
+   "margin_pct": 10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 290.51,
+   "ebitda": 20.62,
+   "pat": 27.18,
+   "margin_pct": 7.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 97,
+    "profit": 54,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 284.28,
+   "ebitda": 26.87,
+   "pat": 22.68,
+   "margin_pct": 9.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 86,
+    "quality": 95
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 12,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,111 @@
+{
+ "isin": "INE773I01017",
+ "sym": "ALKALI",
+ "name": "Alkali Metals Limited",
+ "scrip": "533029",
+ "mcap_cr": 76.95,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 24.87,
+   "ebitda": 3.22,
+   "pat": 4.35,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 20.61,
+   "ebitda": 1.54,
+   "pat": -1.15,
+   "margin_pct": 7.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 18.77,
+   "ebitda": 0.18,
+   "pat": -0.91,
+   "margin_pct": 1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 24.91,
+   "ebitda": -0.26,
+   "pat": -1.39,
+   "margin_pct": -1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 28.73,
+   "ebitda": 6.08,
+   "pat": 4.02,
+   "margin_pct": 21.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 76,
+    "profit": 97,
+    "quality": 39
+   },
+   "capped_by": "profit down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 17.57,
+   "ebitda": -0.34,
+   "pat": -0.64,
+   "margin_pct": -1.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 27.27,
+   "ebitda": 1.29,
+   "pat": 0.58,
+   "margin_pct": 4.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 94,
+    "profit": 72,
+    "quality": 20
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

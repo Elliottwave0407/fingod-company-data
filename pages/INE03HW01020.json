@@ -1,0 +1,101 @@
+{
+ "isin": "INE03HW01020",
+ "sym": "VLEGOV",
+ "name": "VL E Governance & IT Solutions Limited",
+ "scrip": "543958",
+ "mcap_cr": 86.44,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 4.97,
+   "ebitda": -2520.04,
+   "pat": -2519.4,
+   "margin_pct": -50705.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 8.24,
+   "ebitda": 0.35,
+   "pat": 0.69,
+   "margin_pct": 4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 3.25,
+   "ebitda": -0.54,
+   "pat": -0.52,
+   "margin_pct": -16.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 4.48,
+   "ebitda": -0.71,
+   "pat": -0.71,
+   "margin_pct": -15.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1.19,
+   "ebitda": -0.6,
+   "pat": -0.59,
+   "margin_pct": -50.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.65,
+   "ebitda": -0.57,
+   "pat": -0.57,
+   "margin_pct": -87.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -70,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

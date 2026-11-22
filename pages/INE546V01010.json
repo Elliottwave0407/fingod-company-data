@@ -1,0 +1,102 @@
+{
+ "isin": "INE546V01010",
+ "sym": "EIFFL",
+ "name": "Euro India Fresh Foods Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 34.98,
+   "ebitda": 4.96,
+   "pat": 2.58,
+   "margin_pct": 14.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 31.17,
+   "ebitda": 2.22,
+   "pat": 0.33,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 32.47,
+   "ebitda": 0.81,
+   "pat": -1.17,
+   "margin_pct": 2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 28.38,
+   "ebitda": 2.92,
+   "pat": 0.9,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 60.02,
+   "ebitda": 9.39,
+   "pat": 4.65,
+   "margin_pct": 15.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 59,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 36.06,
+   "ebitda": 3.56,
+   "pat": 0.74,
+   "margin_pct": 9.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 76,
+    "profit": 67,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

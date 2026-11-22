@@ -1,0 +1,101 @@
+{
+ "isin": "INE335W01016",
+ "sym": "GANGESSECU",
+ "name": "Ganges Securities Limited",
+ "scrip": "540647",
+ "mcap_cr": 106.69,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 2.07,
+   "ebitda": -5.59,
+   "pat": -3.71,
+   "margin_pct": -270.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 6.42,
+   "ebitda": 0.95,
+   "pat": 1.03,
+   "margin_pct": 14.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 15.57,
+   "ebitda": 5.01,
+   "pat": 2.91,
+   "margin_pct": 32.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 11.3,
+   "ebitda": 2.29,
+   "pat": 1.46,
+   "margin_pct": 20.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 3.07,
+   "ebitda": -3.55,
+   "pat": -2.71,
+   "margin_pct": -115.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 7.77,
+   "ebitda": 0.85,
+   "pat": 1.22,
+   "margin_pct": 10.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 39,
+    "profit": 9,
+    "quality": 63
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

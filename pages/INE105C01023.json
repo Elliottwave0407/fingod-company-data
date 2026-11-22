@@ -1,0 +1,103 @@
+{
+ "isin": "INE105C01023",
+ "sym": "3PLAND",
+ "name": "3P Land Holdings Limited",
+ "scrip": "516092",
+ "mcap_cr": 55.94,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.91,
+   "ebitda": 0.45,
+   "pat": 0.37,
+   "margin_pct": 49.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.91,
+   "ebitda": 0.5,
+   "pat": 0.37,
+   "margin_pct": 54.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1.78,
+   "ebitda": 1.35,
+   "pat": 0.99,
+   "margin_pct": 75.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.97,
+   "ebitda": 0.55,
+   "pat": 0.4,
+   "margin_pct": 56.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1.01,
+   "ebitda": 0.58,
+   "pat": 0.42,
+   "margin_pct": 57.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1.05,
+   "ebitda": 0.64,
+   "pat": 0.46,
+   "margin_pct": 61.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1.87,
+   "ebitda": 1.41,
+   "pat": 1.06,
+   "margin_pct": 75.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

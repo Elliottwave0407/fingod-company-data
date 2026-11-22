@@ -1,0 +1,115 @@
+{
+ "isin": "INE982F01036",
+ "sym": "HATHWAY",
+ "name": "Hathway Cable & Datacom Limited",
+ "scrip": "533162",
+ "mcap_cr": 1621.42,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 513.15,
+   "ebitda": 90.3,
+   "pat": 34.8,
+   "margin_pct": 17.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 530.5,
+   "ebitda": 87.61,
+   "pat": 31.03,
+   "margin_pct": 16.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 536.67,
+   "ebitda": 80.88,
+   "pat": 18.25,
+   "margin_pct": 15.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 536.56,
+   "ebitda": 77.41,
+   "pat": 21.71,
+   "margin_pct": 14.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 545.85,
+   "ebitda": 76.0,
+   "pat": 11.25,
+   "margin_pct": 13.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 24,
+    "profit": 11,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 565.1,
+   "ebitda": 75.4,
+   "pat": 24.56,
+   "margin_pct": 13.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 25,
+    "profit": 11,
+    "quality": 5
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 567.51,
+   "ebitda": 58.74,
+   "pat": 10.16,
+   "margin_pct": 10.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 18,
+    "profit": 8,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

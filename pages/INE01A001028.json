@@ -1,0 +1,105 @@
+{
+ "isin": "INE01A001028",
+ "sym": "STANLEY",
+ "name": "Stanley Lifestyles Limited",
+ "scrip": "544202",
+ "mcap_cr": 700.36,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 112.8,
+   "ebitda": 22.7,
+   "pat": 10.8,
+   "margin_pct": 20.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 108.7,
+   "ebitda": 22.5,
+   "pat": 7.8,
+   "margin_pct": 20.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 105.4,
+   "ebitda": 24.8,
+   "pat": 6.0,
+   "margin_pct": 23.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 103.8,
+   "ebitda": 12.4,
+   "pat": -0.2,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 101.4,
+   "ebitda": 12.4,
+   "pat": -0.6,
+   "margin_pct": 12.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 8,
+    "profit": 10,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 99.35,
+   "ebitda": 16.55,
+   "pat": 0.65,
+   "margin_pct": 16.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 10,
+    "profit": 13,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

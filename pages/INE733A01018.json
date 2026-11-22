@@ -1,0 +1,105 @@
+{
+ "isin": "INE733A01018",
+ "sym": "STARPAPER",
+ "name": "Star Paper Mills Limited",
+ "scrip": "516022",
+ "mcap_cr": 237.25,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 114.09,
+   "ebitda": 10.2,
+   "pat": 5.01,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 101.16,
+   "ebitda": 6.27,
+   "pat": 12.81,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 104.37,
+   "ebitda": 7.14,
+   "pat": 13.02,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 91.82,
+   "ebitda": 0.62,
+   "pat": 8.22,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 112.59,
+   "ebitda": 4.44,
+   "pat": -1.29,
+   "margin_pct": 3.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 12,
+    "profit": 3,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 103.46,
+   "ebitda": 2.79,
+   "pat": 11.01,
+   "margin_pct": 2.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 2,
+    "quality": 45
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

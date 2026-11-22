@@ -1,0 +1,101 @@
+{
+ "isin": "INE471W01019",
+ "sym": "PALASHSECU",
+ "name": "Palash Securities Limited",
+ "scrip": "540648",
+ "mcap_cr": 79.82,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 13.89,
+   "ebitda": -9.23,
+   "pat": -8.74,
+   "margin_pct": -66.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 13.57,
+   "ebitda": -2.27,
+   "pat": -3.02,
+   "margin_pct": -16.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 25.43,
+   "ebitda": -0.26,
+   "pat": -2.74,
+   "margin_pct": -1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 10.15,
+   "ebitda": -1.18,
+   "pat": 21.62,
+   "margin_pct": -11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.12,
+   "ebitda": -0.37,
+   "pat": -4.14,
+   "margin_pct": -308.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.31,
+   "ebitda": 0.08,
+   "pat": -1.47,
+   "margin_pct": 25.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

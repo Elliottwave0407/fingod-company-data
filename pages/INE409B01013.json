@@ -1,0 +1,105 @@
+{
+ "isin": "INE409B01013",
+ "sym": "SWELECTES",
+ "name": "Swelect Energy Systems Limited",
+ "scrip": "532051",
+ "mcap_cr": 876.18,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 218.81,
+   "ebitda": 28.66,
+   "pat": 8.98,
+   "margin_pct": 13.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 177.22,
+   "ebitda": 41.72,
+   "pat": 21.14,
+   "margin_pct": 23.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 138.86,
+   "ebitda": 40.76,
+   "pat": 15.84,
+   "margin_pct": 29.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 138.63,
+   "ebitda": 31.61,
+   "pat": 9.52,
+   "margin_pct": 22.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 202.42,
+   "ebitda": 35.41,
+   "pat": 11.09,
+   "margin_pct": 17.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 42,
+    "profit": 88,
+    "quality": 27
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 130.77,
+   "ebitda": 28.42,
+   "pat": 7.65,
+   "margin_pct": 21.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 2,
+    "profit": 30,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

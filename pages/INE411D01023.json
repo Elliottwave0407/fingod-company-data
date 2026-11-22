@@ -1,0 +1,115 @@
+{
+ "isin": "INE411D01023",
+ "sym": "SKMEGGPROD",
+ "name": "SKM Egg Products Export (India) Limited",
+ "scrip": "532143",
+ "mcap_cr": 1129.29,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 117.44,
+   "ebitda": 12.35,
+   "pat": 6.38,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 175.7,
+   "ebitda": 24.78,
+   "pat": 16.27,
+   "margin_pct": 14.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 201.93,
+   "ebitda": 37.37,
+   "pat": 24.79,
+   "margin_pct": 18.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 203.71,
+   "ebitda": 42.75,
+   "pat": 30.01,
+   "margin_pct": 21.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 186.65,
+   "ebitda": 52.04,
+   "pat": 32.78,
+   "margin_pct": 27.9,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 77
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 184.26,
+   "ebitda": 31.21,
+   "pat": 23.83,
+   "margin_pct": 16.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 73,
+    "quality": 83
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 189.84,
+   "ebitda": 30.72,
+   "pat": 17.81,
+   "margin_pct": 16.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 20,
+    "quality": 24
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-10-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

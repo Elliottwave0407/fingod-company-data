@@ -1,0 +1,115 @@
+{
+ "isin": "INE841B01017",
+ "sym": "INDBANK",
+ "name": "Indbank Merchant Banking Services Limited",
+ "scrip": "511473",
+ "mcap_cr": 120.62,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 5.31,
+   "ebitda": 1.66,
+   "pat": 1.14,
+   "margin_pct": 31.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 6.69,
+   "ebitda": 2.91,
+   "pat": 2.14,
+   "margin_pct": 43.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 6.28,
+   "ebitda": 2.66,
+   "pat": 1.86,
+   "margin_pct": 42.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 6.25,
+   "ebitda": 2.66,
+   "pat": 1.92,
+   "margin_pct": 42.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 5.89,
+   "ebitda": 1.82,
+   "pat": 1.21,
+   "margin_pct": 30.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 43,
+    "profit": 48,
+    "quality": 48
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 6.9,
+   "ebitda": 3.16,
+   "pat": 2.38,
+   "margin_pct": 45.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 35,
+    "profit": 75,
+    "quality": 60
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 6.36,
+   "ebitda": 2.28,
+   "pat": 1.61,
+   "margin_pct": 35.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 20,
+    "quality": 41
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

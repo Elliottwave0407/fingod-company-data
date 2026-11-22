@@ -1,0 +1,105 @@
+{
+ "isin": "INE602G01020",
+ "sym": "KITEX",
+ "name": "Kitex Garments Limited",
+ "scrip": "521248",
+ "mcap_cr": 2626.42,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 300.17,
+   "ebitda": 51.14,
+   "pat": 31.82,
+   "margin_pct": 17.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 196.69,
+   "ebitda": 34.19,
+   "pat": 19.3,
+   "margin_pct": 17.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 122.1,
+   "ebitda": 1.53,
+   "pat": -6.22,
+   "margin_pct": 1.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 181.99,
+   "ebitda": 8.49,
+   "pat": -17.0,
+   "margin_pct": 4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 166.17,
+   "ebitda": 1.67,
+   "pat": -9.29,
+   "margin_pct": 1.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 1,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 158.43,
+   "ebitda": 10.2,
+   "pat": -17.12,
+   "margin_pct": 6.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 4,
+    "profit": 5,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

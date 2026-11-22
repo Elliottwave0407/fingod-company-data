@@ -1,0 +1,115 @@
+{
+ "isin": "INE105J01010",
+ "sym": "RPGLIFE",
+ "name": "RPG Life Sciences Limited",
+ "scrip": "532983",
+ "mcap_cr": 4196.36,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 143.09,
+   "ebitda": 135.39,
+   "pat": 117.35,
+   "margin_pct": 94.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 168.92,
+   "ebitda": 35.47,
+   "pat": 26.29,
+   "margin_pct": 21.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 181.68,
+   "ebitda": 50.25,
+   "pat": 36.85,
+   "margin_pct": 27.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 180.03,
+   "ebitda": 31.34,
+   "pat": 22.13,
+   "margin_pct": 17.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 176.89,
+   "ebitda": 33.93,
+   "pat": 29.9,
+   "margin_pct": 19.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 32,
+    "profit": 15,
+    "quality": 48
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 195.69,
+   "ebitda": 43.29,
+   "pat": 30.76,
+   "margin_pct": 22.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 58,
+    "profit": 61,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 211.64,
+   "ebitda": 40.42,
+   "pat": 28.22,
+   "margin_pct": 19.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 31,
+    "profit": 15,
+    "quality": 36
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 8,
+  "concalls_read": 0,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

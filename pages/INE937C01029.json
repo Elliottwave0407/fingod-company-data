@@ -1,0 +1,115 @@
+{
+ "isin": "INE937C01029",
+ "sym": "NILAINFRA",
+ "name": "Nila Infrastructures Limited",
+ "scrip": "530377",
+ "mcap_cr": 269.03,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 113.42,
+   "ebitda": 7.09,
+   "pat": 5.36,
+   "margin_pct": 6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 92.6,
+   "ebitda": 8.81,
+   "pat": 6.71,
+   "margin_pct": 9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 74.04,
+   "ebitda": 8.11,
+   "pat": 6.08,
+   "margin_pct": 11.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 75.03,
+   "ebitda": 6.97,
+   "pat": 4.65,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 81.04,
+   "ebitda": 8.48,
+   "pat": 5.85,
+   "margin_pct": 10.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 30,
+    "profit": 81,
+    "quality": 53
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 74.2,
+   "ebitda": 7.48,
+   "pat": 8.44,
+   "margin_pct": 10.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 10,
+    "profit": 46,
+    "quality": 84
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 118.51,
+   "ebitda": 15.18,
+   "pat": 10.85,
+   "margin_pct": 12.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 61,
+    "quality": 85
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

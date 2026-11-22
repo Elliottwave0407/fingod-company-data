@@ -1,0 +1,101 @@
+{
+ "isin": "INE615I01010",
+ "sym": "GLOBUSSPR",
+ "name": "Globus Spirits Limited",
+ "scrip": "533104",
+ "mcap_cr": 2470.03,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 951.55,
+   "ebitda": 57.4,
+   "pat": 17.69,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 871.78,
+   "ebitda": 59.45,
+   "pat": 21.81,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 938.36,
+   "ebitda": 75.01,
+   "pat": 30.44,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 851.08,
+   "ebitda": 66.62,
+   "pat": 21.11,
+   "margin_pct": 7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1151.88,
+   "ebitda": 77.54,
+   "pat": 26.48,
+   "margin_pct": 6.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 71,
+    "profit": 44,
+    "quality": 49
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1098.93,
+   "ebitda": 59.63,
+   "pat": 14.02,
+   "margin_pct": 5.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 47,
+    "profit": 21,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 13,
+  "concalls_read": 12,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

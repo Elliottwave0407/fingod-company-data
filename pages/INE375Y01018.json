@@ -1,0 +1,105 @@
+{
+ "isin": "INE375Y01018",
+ "sym": "RELIABLE",
+ "name": "Reliable Data Services Limited",
+ "scrip": "544207",
+ "mcap_cr": 124.56,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 53.01,
+   "ebitda": 3.39,
+   "pat": 3.87,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 39.45,
+   "ebitda": 4.27,
+   "pat": 1.68,
+   "margin_pct": 10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 69.13,
+   "ebitda": 5.76,
+   "pat": 2.27,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 23.46,
+   "ebitda": 6.72,
+   "pat": 3.98,
+   "margin_pct": 28.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 55.03,
+   "ebitda": 2.63,
+   "pat": 1.28,
+   "margin_pct": 4.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": 19,
+    "quality": 16
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 57.57,
+   "ebitda": 4.46,
+   "pat": 2.39,
+   "margin_pct": 7.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 61,
+    "profit": 6,
+    "quality": 63
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

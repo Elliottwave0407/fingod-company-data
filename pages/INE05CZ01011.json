@@ -1,0 +1,115 @@
+{
+ "isin": "INE05CZ01011",
+ "sym": "RATNAVEER",
+ "name": "Ratnaveer Precision Engineering Limited",
+ "scrip": "543978",
+ "mcap_cr": 3105.69,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 203.11,
+   "ebitda": 16.74,
+   "pat": 10.71,
+   "margin_pct": 8.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 264.62,
+   "ebitda": 27.03,
+   "pat": 14.95,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 285.87,
+   "ebitda": 28.31,
+   "pat": 15.43,
+   "margin_pct": 9.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 269.29,
+   "ebitda": 28.55,
+   "pat": 16.89,
+   "margin_pct": 10.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 248.96,
+   "ebitda": 28.33,
+   "pat": 17.03,
+   "margin_pct": 11.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 82,
+    "profit": 72,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 314.63,
+   "ebitda": 32.19,
+   "pat": 18.24,
+   "margin_pct": 10.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 58,
+    "profit": 40,
+    "quality": 54
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 387.24,
+   "ebitda": 36.54,
+   "pat": 24.07,
+   "margin_pct": 9.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 76,
+    "profit": 35,
+    "quality": 78
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-11-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

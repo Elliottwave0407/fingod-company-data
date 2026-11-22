@@ -1,0 +1,105 @@
+{
+ "isin": "INE09EO01013",
+ "sym": "AARTISURF",
+ "name": "Aarti Surfactants Limited",
+ "scrip": "543210",
+ "mcap_cr": 457.09,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 202.05,
+   "ebitda": 19.7,
+   "pat": 9.72,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 215.9,
+   "ebitda": 11.63,
+   "pat": 2.94,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 179.17,
+   "ebitda": 9.35,
+   "pat": 1.56,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 207.79,
+   "ebitda": 12.69,
+   "pat": 3.66,
+   "margin_pct": 6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 256.28,
+   "ebitda": 13.21,
+   "pat": 4.19,
+   "margin_pct": 5.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 35,
+    "profit": 4,
+    "quality": 1
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 272.87,
+   "ebitda": 20.29,
+   "pat": 9.0,
+   "margin_pct": 7.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 84,
+    "profit": 58,
+    "quality": 62
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

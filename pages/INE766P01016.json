@@ -1,0 +1,115 @@
+{
+ "isin": "INE766P01016",
+ "sym": "MAHLOG",
+ "name": "Mahindra Logistics Limited",
+ "scrip": "540768",
+ "mcap_cr": 3806.3,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1569.51,
+   "ebitda": 77.7,
+   "pat": -5.29,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1624.59,
+   "ebitda": 76.25,
+   "pat": -9.44,
+   "margin_pct": 4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1685.27,
+   "ebitda": 85.08,
+   "pat": -8.36,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1898.03,
+   "ebitda": 95.43,
+   "pat": 6.01,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1791.41,
+   "ebitda": 112.35,
+   "pat": 22.36,
+   "margin_pct": 6.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 69,
+    "profit": 50,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2002.88,
+   "ebitda": 115.42,
+   "pat": 27.83,
+   "margin_pct": 5.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 79,
+    "profit": 47,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 2095.43,
+   "ebitda": 123.96,
+   "pat": 28.87,
+   "margin_pct": 5.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 77,
+    "profit": 45,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

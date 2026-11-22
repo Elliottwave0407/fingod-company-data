@@ -1,0 +1,105 @@
+{
+ "isin": "INE127T01021",
+ "sym": "KPEL",
+ "name": "K.P. Energy Limited",
+ "scrip": "539686",
+ "mcap_cr": 1162.74,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 401.2,
+   "ebitda": 70.44,
+   "pat": 45.79,
+   "margin_pct": 17.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 219.47,
+   "ebitda": 48.5,
+   "pat": 25.42,
+   "margin_pct": 22.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 300.69,
+   "ebitda": 65.8,
+   "pat": 35.94,
+   "margin_pct": 21.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 344.96,
+   "ebitda": 74.63,
+   "pat": 41.35,
+   "margin_pct": 21.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 631.81,
+   "ebitda": 130.93,
+   "pat": 78.69,
+   "margin_pct": 20.7,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 99,
+    "profit": 79,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 519.46,
+   "ebitda": 60.54,
+   "pat": 26.08,
+   "margin_pct": 11.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 83,
+    "profit": 9,
+    "quality": 26
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

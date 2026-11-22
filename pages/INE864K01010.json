@@ -1,0 +1,101 @@
+{
+ "isin": "INE864K01010",
+ "sym": "IRIS",
+ "name": "IRIS RegTech Solutions Limited",
+ "scrip": "540735",
+ "mcap_cr": 415.38,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 34.64,
+   "ebitda": 5.02,
+   "pat": 2.88,
+   "margin_pct": 14.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 29.86,
+   "ebitda": 0.01,
+   "pat": 0.22,
+   "margin_pct": 0.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 28.56,
+   "ebitda": 0.15,
+   "pat": 116.85,
+   "margin_pct": 0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 35.59,
+   "ebitda": 5.07,
+   "pat": 5.31,
+   "margin_pct": 14.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 39.15,
+   "ebitda": 5.36,
+   "pat": 4.15,
+   "margin_pct": 13.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 42,
+    "profit": 34,
+    "quality": 83
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 32.75,
+   "ebitda": -1.66,
+   "pat": -0.97,
+   "margin_pct": -5.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 8,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

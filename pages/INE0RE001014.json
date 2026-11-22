@@ -1,0 +1,105 @@
+{
+ "isin": "INE0RE001014",
+ "sym": "GALAPREC",
+ "name": "Gala Precision Engineering Limited",
+ "scrip": "544244",
+ "mcap_cr": 1499.56,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 75.31,
+   "ebitda": 12.76,
+   "pat": 10.0,
+   "margin_pct": 16.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 63.08,
+   "ebitda": 9.57,
+   "pat": 6.53,
+   "margin_pct": 15.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 71.41,
+   "ebitda": 11.04,
+   "pat": 8.39,
+   "margin_pct": 15.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 85.25,
+   "ebitda": 13.52,
+   "pat": 8.31,
+   "margin_pct": 15.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 94.56,
+   "ebitda": 16.65,
+   "pat": 12.24,
+   "margin_pct": 17.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 71,
+    "profit": 53,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 75.38,
+   "ebitda": 12.1,
+   "pat": 8.19,
+   "margin_pct": 16.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 64,
+    "profit": 54,
+    "quality": 65
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 8,
+  "concalls_read": 8,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

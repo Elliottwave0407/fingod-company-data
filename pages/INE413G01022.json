@@ -1,0 +1,105 @@
+{
+ "isin": "INE413G01022",
+ "sym": "TPLPLASTEH",
+ "name": "TPL Plastech Limited",
+ "scrip": "526582",
+ "mcap_cr": 572.15,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 92.18,
+   "ebitda": 11.32,
+   "pat": 6.83,
+   "margin_pct": 12.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 90.4,
+   "ebitda": 10.02,
+   "pat": 5.47,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 106.87,
+   "ebitda": 11.87,
+   "pat": 6.85,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 111.22,
+   "ebitda": 13.52,
+   "pat": 8.69,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 114.07,
+   "ebitda": 12.87,
+   "pat": 8.05,
+   "margin_pct": 11.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 57,
+    "profit": 30,
+    "quality": 55
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 124.38,
+   "ebitda": 11.29,
+   "pat": 6.52,
+   "margin_pct": 9.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 64,
+    "profit": 18,
+    "quality": 52
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

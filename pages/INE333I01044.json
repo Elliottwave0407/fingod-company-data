@@ -1,0 +1,103 @@
+{
+ "isin": "INE333I01044",
+ "sym": "NEUEON",
+ "name": "Neueon Corporation Limited",
+ "scrip": "532887",
+ "mcap_cr": 558.09,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 5.35,
+   "ebitda": -1.39,
+   "pat": -43.05,
+   "margin_pct": -26.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 4.46,
+   "ebitda": -0.48,
+   "pat": -22.08,
+   "margin_pct": -10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 4.12,
+   "ebitda": -67.33,
+   "pat": -88.91,
+   "margin_pct": -1634.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.22,
+   "ebitda": 8.15,
+   "pat": -8.8,
+   "margin_pct": 668.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 6.17,
+   "ebitda": -206.46,
+   "pat": -206.39,
+   "margin_pct": -3346.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.06,
+   "ebitda": -0.63,
+   "pat": -0.91,
+   "margin_pct": -1050.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 7.25,
+   "ebitda": -166.06,
+   "pat": -166.27,
+   "margin_pct": -2290.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

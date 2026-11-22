@@ -1,0 +1,115 @@
+{
+ "isin": "INE586G01017",
+ "sym": "GULFPETRO",
+ "name": "GP Petroleums Limited",
+ "scrip": "532543",
+ "mcap_cr": 314.73,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 182.36,
+   "ebitda": 12.54,
+   "pat": 8.62,
+   "margin_pct": 6.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 158.19,
+   "ebitda": 9.49,
+   "pat": 6.44,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 152.16,
+   "ebitda": 8.0,
+   "pat": 5.47,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 169.23,
+   "ebitda": 6.65,
+   "pat": 5.24,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 162.66,
+   "ebitda": 11.21,
+   "pat": 9.33,
+   "margin_pct": 6.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 16,
+    "profit": 38,
+    "quality": 64
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 230.33,
+   "ebitda": 28.39,
+   "pat": 20.58,
+   "margin_pct": 12.3,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 94,
+    "profit": 90,
+    "quality": 85
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 340.75,
+   "ebitda": 21.04,
+   "pat": 14.65,
+   "margin_pct": 6.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 46,
+    "quality": 83
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

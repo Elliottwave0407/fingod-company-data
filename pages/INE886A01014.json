@@ -1,0 +1,107 @@
+{
+ "isin": "INE886A01014",
+ "sym": "IITL",
+ "name": "Industrial Investment Trust Limited",
+ "scrip": "501295",
+ "mcap_cr": 235.73,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": -5.37,
+   "ebitda": -7.71,
+   "pat": -6.19,
+   "margin_pct": 143.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 15.53,
+   "ebitda": 13.44,
+   "pat": 10.33,
+   "margin_pct": 86.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": -0.82,
+   "ebitda": -3.42,
+   "pat": -3.22,
+   "margin_pct": 417.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 11.1,
+   "ebitda": 8.57,
+   "pat": 6.28,
+   "margin_pct": 77.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": -41.18,
+   "ebitda": -31.73,
+   "pat": -25.47,
+   "margin_pct": 77.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 26.85,
+   "ebitda": 20.79,
+   "pat": 14.24,
+   "margin_pct": 77.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 98,
+    "profit": 20,
+    "quality": 73
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 11.2,
+   "ebitda": 9.06,
+   "pat": 6.66,
+   "margin_pct": 80.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

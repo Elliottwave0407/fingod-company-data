@@ -1,0 +1,101 @@
+{
+ "isin": "INE123B01028",
+ "sym": "NAGREEKEXP",
+ "name": "Nagreeka Exports Limited",
+ "scrip": "521109",
+ "mcap_cr": 66.25,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 115.53,
+   "ebitda": 6.25,
+   "pat": -0.21,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 90.31,
+   "ebitda": 6.18,
+   "pat": 0.92,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 123.0,
+   "ebitda": 5.77,
+   "pat": 1.09,
+   "margin_pct": 4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 127.78,
+   "ebitda": 5.51,
+   "pat": 0.62,
+   "margin_pct": 4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 170.1,
+   "ebitda": 2.41,
+   "pat": 0.43,
+   "margin_pct": 1.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 173.82,
+   "ebitda": 5.37,
+   "pat": 1.04,
+   "margin_pct": 3.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 57,
+    "profit": 2,
+    "quality": 24
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE650L01011",
+ "sym": "BROOKS",
+ "name": "Brooks Laboratories Limited",
+ "scrip": "533543",
+ "mcap_cr": 198.22,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 23.32,
+   "ebitda": 1.54,
+   "pat": -1.46,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 25.51,
+   "ebitda": 3.12,
+   "pat": 9.58,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 23.45,
+   "ebitda": 2.52,
+   "pat": 7.98,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 16.57,
+   "ebitda": 0.73,
+   "pat": 5.5,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 20.21,
+   "ebitda": 0.67,
+   "pat": 1.52,
+   "margin_pct": 3.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 7,
+    "profit": 3,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 22.96,
+   "ebitda": 1.87,
+   "pat": -1.79,
+   "margin_pct": 8.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 8,
+    "profit": 7,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE495A01022",
+ "sym": "DALMIASUG",
+ "name": "Dalmia Bharat Sugar and Industries Limited",
+ "scrip": "500097",
+ "mcap_cr": 3624.06,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1017.87,
+   "ebitda": 194.45,
+   "pat": 206.32,
+   "margin_pct": 19.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 942.87,
+   "ebitda": 85.59,
+   "pat": 38.37,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 988.72,
+   "ebitda": 56.23,
+   "pat": 23.32,
+   "margin_pct": 5.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 697.75,
+   "ebitda": 109.39,
+   "pat": 69.56,
+   "margin_pct": 15.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 990.73,
+   "ebitda": 170.15,
+   "pat": 103.52,
+   "margin_pct": 17.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": 25,
+    "quality": 26
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 848.19,
+   "ebitda": 43.29,
+   "pat": 6.91,
+   "margin_pct": 5.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 8,
+    "profit": 4,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

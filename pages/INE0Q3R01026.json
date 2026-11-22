@@ -1,0 +1,105 @@
+{
+ "isin": "INE0Q3R01026",
+ "sym": "SUNCLAY",
+ "name": "Sundaram Clayton Limited",
+ "scrip": "544066",
+ "mcap_cr": 2349.46,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 586.92,
+   "ebitda": 239.35,
+   "pat": 143.55,
+   "margin_pct": 40.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 511.64,
+   "ebitda": 16.19,
+   "pat": -57.76,
+   "margin_pct": 3.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 494.75,
+   "ebitda": 14.83,
+   "pat": -64.35,
+   "margin_pct": 3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 501.11,
+   "ebitda": 28.1,
+   "pat": -51.92,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 518.11,
+   "ebitda": 560.24,
+   "pat": 426.41,
+   "margin_pct": 108.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 58,
+    "profit": 100,
+    "quality": 88
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 591.65,
+   "ebitda": 11.91,
+   "pat": -59.33,
+   "margin_pct": 2.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 28,
+    "profit": 21,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

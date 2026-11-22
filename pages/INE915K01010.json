@@ -1,0 +1,105 @@
+{
+ "isin": "INE915K01010",
+ "sym": "AHLWEST",
+ "name": "Asian Hotels (West) Limited",
+ "scrip": "533221",
+ "mcap_cr": 585.3,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 114.77,
+   "ebitda": 37.62,
+   "pat": -0.95,
+   "margin_pct": 32.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 89.28,
+   "ebitda": 33.95,
+   "pat": 8.08,
+   "margin_pct": 38.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 113.78,
+   "ebitda": 55.22,
+   "pat": 24.4,
+   "margin_pct": 48.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 110.82,
+   "ebitda": 48.72,
+   "pat": 21.65,
+   "margin_pct": 44.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 121.5,
+   "ebitda": 33.38,
+   "pat": 10.84,
+   "margin_pct": 27.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": 20,
+    "quality": 4
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 97.71,
+   "ebitda": 39.4,
+   "pat": 14.28,
+   "margin_pct": 40.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 47,
+    "profit": 75,
+    "quality": 55
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

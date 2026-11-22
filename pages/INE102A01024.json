@@ -1,0 +1,97 @@
+{
+ "isin": "INE102A01024",
+ "sym": "HLVLTD",
+ "name": "HLV LIMITED",
+ "scrip": "500193",
+ "mcap_cr": 397.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 40.74,
+   "ebitda": -1.71,
+   "pat": -3.47,
+   "margin_pct": -4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 35.83,
+   "ebitda": -7.33,
+   "pat": -9.92,
+   "margin_pct": -20.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 60.9,
+   "ebitda": 9.65,
+   "pat": 6.87,
+   "margin_pct": 15.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 63.45,
+   "ebitda": 10.65,
+   "pat": 8.6,
+   "margin_pct": 16.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 46.68,
+   "ebitda": 1.16,
+   "pat": -0.78,
+   "margin_pct": 2.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 82,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 45.78,
+   "ebitda": -3.62,
+   "pat": -6.99,
+   "margin_pct": -7.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

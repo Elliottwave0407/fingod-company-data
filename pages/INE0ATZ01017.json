@@ -1,0 +1,105 @@
+{
+ "isin": "INE0ATZ01017",
+ "sym": "KRONOX",
+ "name": "Kronox Lab Sciences Limited",
+ "scrip": "544187",
+ "mcap_cr": 657.11,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 26.13,
+   "ebitda": 7.75,
+   "pat": 6.32,
+   "margin_pct": 29.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 24.29,
+   "ebitda": 7.97,
+   "pat": 6.28,
+   "margin_pct": 32.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 25.53,
+   "ebitda": 8.65,
+   "pat": 6.68,
+   "margin_pct": 33.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 25.27,
+   "ebitda": 8.03,
+   "pat": 6.59,
+   "margin_pct": 31.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 26.13,
+   "ebitda": 9.52,
+   "pat": 8.0,
+   "margin_pct": 36.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 44,
+    "profit": 100,
+    "quality": 79
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 28.39,
+   "ebitda": 8.99,
+   "pat": 7.3,
+   "margin_pct": 31.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 40,
+    "quality": 69
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

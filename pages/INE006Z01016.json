@@ -1,0 +1,98 @@
+{
+ "isin": "INE006Z01016",
+ "sym": "ARVEE",
+ "name": "Arvee Laboratories (India) Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 6.45,
+   "ebitda": 0.22,
+   "pat": 0.07,
+   "margin_pct": 3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 7.48,
+   "ebitda": 0.33,
+   "pat": 0.17,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 3.45,
+   "ebitda": 0.12,
+   "pat": 0.01,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 9.78,
+   "ebitda": 1.62,
+   "pat": 1.83,
+   "margin_pct": 16.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 10.8,
+   "ebitda": 1.09,
+   "pat": 0.52,
+   "margin_pct": 10.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 17.23,
+   "ebitda": 2.49,
+   "pat": 1.69,
+   "margin_pct": 14.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 92,
+    "quality": 82
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE412U01025",
+ "sym": "BIGBLOC",
+ "name": "Bigbloc Construction Limited",
+ "scrip": "540061",
+ "mcap_cr": 493.67,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 64.59,
+   "ebitda": 5.75,
+   "pat": -0.31,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 56.36,
+   "ebitda": 1.29,
+   "pat": -4.96,
+   "margin_pct": 2.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 67.32,
+   "ebitda": 1.89,
+   "pat": -3.15,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 72.81,
+   "ebitda": 8.05,
+   "pat": 0.45,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 86.93,
+   "ebitda": 6.35,
+   "pat": -0.82,
+   "margin_pct": 7.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 61,
+    "profit": 21,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 79.15,
+   "ebitda": 6.28,
+   "pat": -0.72,
+   "margin_pct": 7.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 92,
+    "profit": 86,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 12,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

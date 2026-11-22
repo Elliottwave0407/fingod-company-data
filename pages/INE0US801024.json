@@ -1,0 +1,105 @@
+{
+ "isin": "INE0US801024",
+ "sym": "MFML",
+ "name": "Mahalaxmi Fabric Mills Limited",
+ "scrip": "544233",
+ "mcap_cr": 19.97,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 26.36,
+   "ebitda": 11.14,
+   "pat": 7.23,
+   "margin_pct": 42.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 33.52,
+   "ebitda": 2.78,
+   "pat": 2.59,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 31.62,
+   "ebitda": -2.23,
+   "pat": -3.4,
+   "margin_pct": -7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 31.53,
+   "ebitda": -0.29,
+   "pat": -0.76,
+   "margin_pct": -0.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 38.43,
+   "ebitda": 1.65,
+   "pat": 1.55,
+   "margin_pct": 4.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 44,
+    "profit": 3,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 30.81,
+   "ebitda": 2.7,
+   "pat": 0.04,
+   "margin_pct": 8.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 44,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

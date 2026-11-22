@@ -1,0 +1,115 @@
+{
+ "isin": "INE207E01023",
+ "sym": "RAMRAT",
+ "name": "Ram Ratna Wires Limited",
+ "scrip": "522281",
+ "mcap_cr": 4809.34,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 956.75,
+   "ebitda": 45.34,
+   "pat": 18.66,
+   "margin_pct": 4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 982.47,
+   "ebitda": 42.88,
+   "pat": 15.92,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1163.39,
+   "ebitda": 55.5,
+   "pat": 21.81,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1277.94,
+   "ebitda": 68.46,
+   "pat": 31.63,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1752.85,
+   "ebitda": 93.21,
+   "pat": 39.23,
+   "margin_pct": 5.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 42,
+    "quality": 60
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1853.28,
+   "ebitda": 89.59,
+   "pat": 35.16,
+   "margin_pct": 4.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 41,
+    "quality": 58
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1961.95,
+   "ebitda": 89.53,
+   "pat": 35.7,
+   "margin_pct": 4.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 33,
+    "quality": 58
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,97 @@
+{
+ "isin": "INE546Y01022",
+ "sym": "PRAXIS",
+ "name": "Praxis Home Retail Limited",
+ "scrip": "540901",
+ "mcap_cr": 129.49,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 27.2,
+   "ebitda": -4.43,
+   "pat": -14.39,
+   "margin_pct": -16.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 23.5,
+   "ebitda": -7.87,
+   "pat": -16.47,
+   "margin_pct": -33.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 21.22,
+   "ebitda": 89.85,
+   "pat": 81.04,
+   "margin_pct": 423.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 26.2,
+   "ebitda": -8.95,
+   "pat": -15.89,
+   "margin_pct": -34.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 24.74,
+   "ebitda": -109.69,
+   "pat": -115.3,
+   "margin_pct": -443.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 26.6,
+   "ebitda": -2.0,
+   "pat": -11.06,
+   "margin_pct": -7.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

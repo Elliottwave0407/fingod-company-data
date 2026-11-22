@@ -1,0 +1,115 @@
+{
+ "isin": "INE071D01033",
+ "sym": "MENONBE",
+ "name": "Menon Bearings Limited",
+ "scrip": "523828",
+ "mcap_cr": 1724.07,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 63.82,
+   "ebitda": 10.01,
+   "pat": 6.61,
+   "margin_pct": 15.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 67.21,
+   "ebitda": 12.91,
+   "pat": 8.43,
+   "margin_pct": 19.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 62.51,
+   "ebitda": 9.79,
+   "pat": 6.79,
+   "margin_pct": 15.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 76.91,
+   "ebitda": 14.46,
+   "pat": 9.25,
+   "margin_pct": 18.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 87.18,
+   "ebitda": 21.6,
+   "pat": 13.78,
+   "margin_pct": 24.8,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 91,
+    "profit": 100,
+    "quality": 78
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 91.79,
+   "ebitda": 20.12,
+   "pat": 14.11,
+   "margin_pct": 21.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 89,
+    "profit": 76,
+    "quality": 83
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 98.33,
+   "ebitda": 19.65,
+   "pat": 14.74,
+   "margin_pct": 20.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 99,
+    "profit": 90,
+    "quality": 88
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

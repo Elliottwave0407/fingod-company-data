@@ -1,0 +1,105 @@
+{
+ "isin": "INE552D01024",
+ "sym": "CONFIPET",
+ "name": "Confidence Petroleum India Limited",
+ "scrip": "526829",
+ "mcap_cr": 2226.01,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 924.81,
+   "ebitda": 90.51,
+   "pat": 27.32,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1111.99,
+   "ebitda": 82.8,
+   "pat": 20.45,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 983.01,
+   "ebitda": 82.44,
+   "pat": 20.41,
+   "margin_pct": 8.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1393.88,
+   "ebitda": 86.07,
+   "pat": 21.28,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1215.69,
+   "ebitda": 95.31,
+   "pat": 34.39,
+   "margin_pct": 7.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 55,
+    "profit": 18,
+    "quality": 39
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2408.53,
+   "ebitda": 143.64,
+   "pat": 62.55,
+   "margin_pct": 6.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 21,
+    "quality": 61
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-08-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

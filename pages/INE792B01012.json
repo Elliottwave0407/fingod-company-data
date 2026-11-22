@@ -1,0 +1,105 @@
+{
+ "isin": "INE792B01012",
+ "sym": "AMBICAAGAR",
+ "name": "Ambica Agarbathies & Aroma industries Limited",
+ "scrip": "532335",
+ "mcap_cr": 41.57,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 31.05,
+   "ebitda": 1.27,
+   "pat": -1.94,
+   "margin_pct": 4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 30.14,
+   "ebitda": 3.09,
+   "pat": 1.14,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 34.63,
+   "ebitda": 1.84,
+   "pat": 0.93,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 54.04,
+   "ebitda": 3.28,
+   "pat": 0.56,
+   "margin_pct": 6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 22.27,
+   "ebitda": 1.97,
+   "pat": 0.82,
+   "margin_pct": 8.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 49,
+    "profit": 85,
+    "quality": 15
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 24.65,
+   "ebitda": 3.17,
+   "pat": 1.11,
+   "margin_pct": 12.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 68,
+    "quality": 12
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

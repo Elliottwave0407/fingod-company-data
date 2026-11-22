@@ -1,0 +1,115 @@
+{
+ "isin": "INE553C01016",
+ "sym": "NECCLTD",
+ "name": "North Eastern Carrying Corporation Limited",
+ "scrip": "534615",
+ "mcap_cr": 242.02,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 88.1,
+   "ebitda": 2.49,
+   "pat": 1.76,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 69.1,
+   "ebitda": 5.31,
+   "pat": 1.78,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 70.75,
+   "ebitda": 2.84,
+   "pat": 1.82,
+   "margin_pct": 4.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 71.97,
+   "ebitda": 6.62,
+   "pat": 3.45,
+   "margin_pct": 9.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 96.23,
+   "ebitda": 2.15,
+   "pat": 0.7,
+   "margin_pct": 2.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 27,
+    "profit": 27,
+    "quality": 2
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 75.58,
+   "ebitda": 4.48,
+   "pat": 2.01,
+   "margin_pct": 5.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 26,
+    "profit": 18,
+    "quality": 29
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 76.27,
+   "ebitda": 5.26,
+   "pat": 2.15,
+   "margin_pct": 6.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 69,
+    "profit": 66,
+    "quality": 37
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

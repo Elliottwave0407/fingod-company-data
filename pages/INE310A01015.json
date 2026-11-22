@@ -1,0 +1,115 @@
+{
+ "isin": "INE310A01015",
+ "sym": "NILKAMAL",
+ "name": "Nilkamal Limited",
+ "scrip": "523385",
+ "mcap_cr": 3133.06,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 894.01,
+   "ebitda": 85.2,
+   "pat": 34.22,
+   "margin_pct": 9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 883.14,
+   "ebitda": 58.01,
+   "pat": 15.33,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 967.71,
+   "ebitda": 85.28,
+   "pat": 33.66,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 962.03,
+   "ebitda": 74.18,
+   "pat": 25.4,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 965.18,
+   "ebitda": 95.95,
+   "pat": 41.69,
+   "margin_pct": 9.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 43,
+    "profit": 44,
+    "quality": 42
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 819.73,
+   "ebitda": 74.63,
+   "pat": 24.4,
+   "margin_pct": 9.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 45,
+    "profit": 64,
+    "quality": 52
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1125.85,
+   "ebitda": 134.71,
+   "pat": 67.83,
+   "margin_pct": 12.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 76,
+    "profit": 72,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

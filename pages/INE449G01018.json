@@ -1,0 +1,93 @@
+{
+ "isin": "INE449G01018",
+ "sym": "AGRITECH",
+ "name": "Agri-Tech (India) Limited",
+ "scrip": "537292",
+ "mcap_cr": 49.56,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 0.12,
+   "ebitda": -0.08,
+   "pat": -0.1,
+   "margin_pct": -66.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 0.03,
+   "ebitda": -0.15,
+   "pat": 0.02,
+   "margin_pct": -500.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.05,
+   "ebitda": -0.57,
+   "pat": -0.59,
+   "margin_pct": -1140.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.08,
+   "ebitda": -0.23,
+   "pat": -0.27,
+   "margin_pct": -287.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.2,
+   "ebitda": -0.01,
+   "pat": -0.03,
+   "margin_pct": -5.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 0.05,
+   "ebitda": -0.26,
+   "pat": -0.3,
+   "margin_pct": -520.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

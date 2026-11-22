@@ -1,0 +1,105 @@
+{
+ "isin": "INE083B01024",
+ "sym": "THEMISMED",
+ "name": "Themis Medicare Limited",
+ "scrip": "530199",
+ "mcap_cr": 876.61,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 71.7,
+   "ebitda": -5.78,
+   "pat": -9.66,
+   "margin_pct": -8.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 97.58,
+   "ebitda": -10.09,
+   "pat": -14.22,
+   "margin_pct": -10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 77.99,
+   "ebitda": -3.1,
+   "pat": -3.62,
+   "margin_pct": -4.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 90.13,
+   "ebitda": 8.93,
+   "pat": 10.09,
+   "margin_pct": 9.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 76.53,
+   "ebitda": 3.76,
+   "pat": 8.89,
+   "margin_pct": 4.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 36,
+    "profit": 84,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 86.96,
+   "ebitda": 40.54,
+   "pat": 24.61,
+   "margin_pct": 46.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 16,
+    "profit": 100,
+    "quality": 51
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

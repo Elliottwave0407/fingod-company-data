@@ -1,0 +1,102 @@
+{
+ "isin": "INE00IK01029",
+ "sym": "OSWALSEEDS",
+ "name": "ShreeOswal Seeds And Chemicals Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 25.85,
+   "ebitda": 1.94,
+   "pat": 0.55,
+   "margin_pct": 7.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 97.95,
+   "ebitda": 11.23,
+   "pat": 7.28,
+   "margin_pct": 11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 39.44,
+   "ebitda": -3.5,
+   "pat": -3.2,
+   "margin_pct": -8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 54.75,
+   "ebitda": 2.77,
+   "pat": 1.03,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 56.08,
+   "ebitda": 4.04,
+   "pat": 2.11,
+   "margin_pct": 7.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 35,
+    "quality": 69
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 117.08,
+   "ebitda": 18.33,
+   "pat": 12.27,
+   "margin_pct": 15.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 85,
+    "quality": 81
+   },
+   "capped_by": "revenue growth under 20%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

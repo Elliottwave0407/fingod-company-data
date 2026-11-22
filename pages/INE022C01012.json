@@ -1,0 +1,97 @@
+{
+ "isin": "INE022C01012",
+ "sym": "EUROTEXIND",
+ "name": "Eurotex Industries and Exports Limited",
+ "scrip": "521014",
+ "mcap_cr": 11.02,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.5,
+   "ebitda": -0.75,
+   "pat": 1.67,
+   "margin_pct": -150.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.04,
+   "ebitda": -0.99,
+   "pat": -0.87,
+   "margin_pct": -2475.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 0.04,
+   "ebitda": -1.03,
+   "pat": 2.04,
+   "margin_pct": -2575.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.02,
+   "ebitda": -1.11,
+   "pat": -1.03,
+   "margin_pct": -5550.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.01,
+   "ebitda": -1.31,
+   "pat": -0.93,
+   "margin_pct": -13100.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.02,
+   "ebitda": -1.15,
+   "pat": -1.31,
+   "margin_pct": -5750.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

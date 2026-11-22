@@ -1,0 +1,112 @@
+{
+ "isin": "INE00LM01029",
+ "sym": "SONAMLTD",
+ "name": "SONAM LIMITED",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 31.71,
+   "ebitda": 2.8,
+   "pat": 1.7,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 37.9,
+   "ebitda": 2.56,
+   "pat": 1.32,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 31.32,
+   "ebitda": 2.24,
+   "pat": 0.9,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 38.12,
+   "ebitda": 3.92,
+   "pat": 2.2,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 63.65,
+   "ebitda": 5.66,
+   "pat": 2.9,
+   "margin_pct": 8.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 40,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 66.57,
+   "ebitda": 5.12,
+   "pat": 3.0,
+   "margin_pct": 7.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 48,
+    "quality": 74
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 129.39,
+   "ebitda": 5.83,
+   "pat": 3.76,
+   "margin_pct": 4.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 7,
+    "quality": 79
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-10-30"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

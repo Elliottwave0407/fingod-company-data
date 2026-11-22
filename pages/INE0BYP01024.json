@@ -1,0 +1,105 @@
+{
+ "isin": "INE0BYP01024",
+ "sym": "OSWALPUMPS",
+ "name": "Oswal Pumps Limited",
+ "scrip": "544418",
+ "mcap_cr": 2492.72,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 364.64,
+   "ebitda": 98.84,
+   "pat": 63.9,
+   "margin_pct": 27.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 513.95,
+   "ebitda": 140.79,
+   "pat": 94.68,
+   "margin_pct": 27.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 539.64,
+   "ebitda": 127.98,
+   "pat": 97.5,
+   "margin_pct": 23.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 501.07,
+   "ebitda": 125.17,
+   "pat": 91.56,
+   "margin_pct": 25.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 509.74,
+   "ebitda": 118.82,
+   "pat": 92.53,
+   "margin_pct": 23.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 72,
+    "profit": 19,
+    "quality": 84
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 473.56,
+   "ebitda": 74.34,
+   "pat": 54.14,
+   "margin_pct": 15.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 9,
+    "profit": 13,
+    "quality": 36
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

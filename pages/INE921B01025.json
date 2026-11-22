@@ -1,0 +1,115 @@
+{
+ "isin": "INE921B01025",
+ "sym": "DBSTOCKBRO",
+ "name": "DB (International) Stock Brokers Limited",
+ "scrip": "530393",
+ "mcap_cr": 114.59,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 7.78,
+   "ebitda": 2.4,
+   "pat": 1.34,
+   "margin_pct": 30.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 6.96,
+   "ebitda": 1.91,
+   "pat": 1.01,
+   "margin_pct": 27.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 8.01,
+   "ebitda": 1.87,
+   "pat": 0.98,
+   "margin_pct": 23.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 6.61,
+   "ebitda": 1.8,
+   "pat": 0.89,
+   "margin_pct": 27.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 6.08,
+   "ebitda": 1.17,
+   "pat": 0.23,
+   "margin_pct": 19.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 3,
+    "profit": 15,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 10.33,
+   "ebitda": 1.62,
+   "pat": 0.86,
+   "margin_pct": 15.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 52,
+    "profit": 13,
+    "quality": 26
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 9.67,
+   "ebitda": 1.17,
+   "pat": 0.46,
+   "margin_pct": 12.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 30,
+    "profit": 10,
+    "quality": 8
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

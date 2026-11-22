@@ -1,0 +1,101 @@
+{
+ "isin": "INE0HF201011",
+ "sym": "FABTECH",
+ "name": "Fabtech Technologies Limited",
+ "scrip": "544558",
+ "mcap_cr": 629.42,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 68.01,
+   "ebitda": -4.45,
+   "pat": -6.13,
+   "margin_pct": -6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 121.48,
+   "ebitda": 30.46,
+   "pat": 28.11,
+   "margin_pct": 25.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 62.76,
+   "ebitda": -11.46,
+   "pat": -5.68,
+   "margin_pct": -18.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 158.52,
+   "ebitda": 22.22,
+   "pat": 22.06,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 74.98,
+   "ebitda": 4.25,
+   "pat": 4.21,
+   "margin_pct": 5.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 42,
+    "profit": 85,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 92.09,
+   "ebitda": 18.47,
+   "pat": 15.02,
+   "margin_pct": 20.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 2,
+    "profit": 16,
+    "quality": 43
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE539B01017",
+ "sym": "VIRINCHI",
+ "name": "Virinchi Limited",
+ "scrip": "532372",
+ "mcap_cr": 148.89,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 68.94,
+   "ebitda": 16.8,
+   "pat": -4.38,
+   "margin_pct": 24.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 79.74,
+   "ebitda": 26.08,
+   "pat": 0.43,
+   "margin_pct": 32.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 61.77,
+   "ebitda": 10.57,
+   "pat": -13.6,
+   "margin_pct": 17.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 76.89,
+   "ebitda": 25.64,
+   "pat": 1.66,
+   "margin_pct": 33.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 65.97,
+   "ebitda": 2.13,
+   "pat": -16.76,
+   "margin_pct": 3.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 11,
+    "profit": 3,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 70.13,
+   "ebitda": 14.88,
+   "pat": 0.48,
+   "margin_pct": 21.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 7,
+    "profit": 17,
+    "quality": 22
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

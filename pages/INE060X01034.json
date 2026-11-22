@@ -1,0 +1,105 @@
+{
+ "isin": "INE060X01034",
+ "sym": "DEVIT",
+ "name": "Dev Information Technology Limited",
+ "scrip": "543462",
+ "mcap_cr": 110.21,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 51.55,
+   "ebitda": 2.76,
+   "pat": 1.13,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 42.99,
+   "ebitda": 3.56,
+   "pat": 2.18,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 48.51,
+   "ebitda": 96.69,
+   "pat": 71.88,
+   "margin_pct": 199.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 44.14,
+   "ebitda": -6.37,
+   "pat": -7.42,
+   "margin_pct": -14.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 53.87,
+   "ebitda": 2.9,
+   "pat": 8.96,
+   "margin_pct": 5.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 37,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 44.13,
+   "ebitda": 3.47,
+   "pat": 2.11,
+   "margin_pct": 7.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 26,
+    "profit": 34,
+    "quality": 37
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 7,
+  "concalls_read": 6,
+  "latest_concall": "2026-06-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

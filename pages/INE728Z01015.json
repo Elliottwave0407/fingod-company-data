@@ -1,0 +1,105 @@
+{
+ "isin": "INE728Z01015",
+ "sym": "SOFTTECH",
+ "name": "Softtech Engineers Limited",
+ "scrip": "543470",
+ "mcap_cr": 595.21,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 31.0,
+   "ebitda": 4.72,
+   "pat": 0.06,
+   "margin_pct": 15.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 27.01,
+   "ebitda": 7.38,
+   "pat": 1.1,
+   "margin_pct": 27.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 26.81,
+   "ebitda": 6.97,
+   "pat": 0.33,
+   "margin_pct": 26.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 32.49,
+   "ebitda": 7.84,
+   "pat": 1.17,
+   "margin_pct": 24.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 46.59,
+   "ebitda": 9.98,
+   "pat": 2.72,
+   "margin_pct": 21.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 96,
+    "profit": 97,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 33.28,
+   "ebitda": 9.06,
+   "pat": 1.16,
+   "margin_pct": 27.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 64,
+    "profit": 51,
+    "quality": 17
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

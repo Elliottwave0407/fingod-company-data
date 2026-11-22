@@ -1,0 +1,102 @@
+{
+ "isin": "INE593W01028",
+ "sym": "FOCUS",
+ "name": "Focus Lighting and Fixtures Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 41.5,
+   "ebitda": 3.86,
+   "pat": 1.22,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 41.45,
+   "ebitda": 4.28,
+   "pat": 2.16,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 48.77,
+   "ebitda": 4.29,
+   "pat": 1.71,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 37.65,
+   "ebitda": 1.08,
+   "pat": -1.4,
+   "margin_pct": 2.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 59.91,
+   "ebitda": 6.12,
+   "pat": 2.6,
+   "margin_pct": 10.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 93,
+    "profit": 49,
+    "quality": 60
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 48.86,
+   "ebitda": 6.2,
+   "pat": 2.87,
+   "margin_pct": 12.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 72,
+    "profit": 66,
+    "quality": 52
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

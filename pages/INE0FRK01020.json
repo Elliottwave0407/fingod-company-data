@@ -1,0 +1,105 @@
+{
+ "isin": "INE0FRK01020",
+ "sym": "MOTISONS",
+ "name": "Motisons Jewellers Limited",
+ "scrip": "544053",
+ "mcap_cr": 1476.48,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 118.75,
+   "ebitda": 17.38,
+   "pat": 11.14,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 87.05,
+   "ebitda": 12.75,
+   "pat": 8.03,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 90.47,
+   "ebitda": 30.53,
+   "pat": 21.43,
+   "margin_pct": 33.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 174.56,
+   "ebitda": 35.3,
+   "pat": 25.94,
+   "margin_pct": 20.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 137.47,
+   "ebitda": 8.1,
+   "pat": 8.3,
+   "margin_pct": 5.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 26,
+    "profit": 5,
+    "quality": 42
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 107.33,
+   "ebitda": 16.34,
+   "pat": 11.05,
+   "margin_pct": 15.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 68,
+    "profit": 50,
+    "quality": 72
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-06-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

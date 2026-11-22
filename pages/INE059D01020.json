@@ -1,0 +1,105 @@
+{
+ "isin": "INE059D01020",
+ "sym": "LAOPALA",
+ "name": "La Opala RG Limited",
+ "scrip": "526947",
+ "mcap_cr": 1742.7,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 77.1,
+   "ebitda": 26.7,
+   "pat": 25.69,
+   "margin_pct": 34.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 65.27,
+   "ebitda": 24.13,
+   "pat": 25.35,
+   "margin_pct": 37.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 90.9,
+   "ebitda": 35.18,
+   "pat": 26.78,
+   "margin_pct": 38.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 84.5,
+   "ebitda": 29.82,
+   "pat": 24.0,
+   "margin_pct": 35.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 68.39,
+   "ebitda": 24.81,
+   "pat": 16.17,
+   "margin_pct": 36.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 17,
+    "profit": 68,
+    "quality": 29
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 71.36,
+   "ebitda": 25.93,
+   "pat": 26.2,
+   "margin_pct": 36.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 39,
+    "profit": 45,
+    "quality": 52
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

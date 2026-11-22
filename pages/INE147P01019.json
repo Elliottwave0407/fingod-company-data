@@ -1,0 +1,105 @@
+{
+ "isin": "INE147P01019",
+ "sym": "JPOLYINVST",
+ "name": "Jindal Poly Investment and Finance Company Limited",
+ "scrip": "536773",
+ "mcap_cr": 942.08,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 7.83,
+   "ebitda": 7.72,
+   "pat": 66.65,
+   "margin_pct": 98.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 8.35,
+   "ebitda": 8.27,
+   "pat": 62.76,
+   "margin_pct": 99.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 19.11,
+   "ebitda": 19.01,
+   "pat": 57.54,
+   "margin_pct": 99.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 961.8,
+   "ebitda": 961.7,
+   "pat": 702.05,
+   "margin_pct": 100.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 47.28,
+   "ebitda": 47.15,
+   "pat": 35.16,
+   "margin_pct": 99.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 63,
+    "quality": 37
+   },
+   "capped_by": "profit down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 8.83,
+   "ebitda": 8.73,
+   "pat": 13.89,
+   "margin_pct": 98.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 35,
+    "profit": 50,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

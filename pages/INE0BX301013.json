@@ -1,0 +1,105 @@
+{
+ "isin": "INE0BX301013",
+ "sym": "PROSTARM",
+ "name": "Prostarm Info Systems Limited",
+ "scrip": "544410",
+ "mcap_cr": 738.88,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 82.02,
+   "ebitda": 11.27,
+   "pat": 6.78,
+   "margin_pct": 13.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 54.91,
+   "ebitda": 3.9,
+   "pat": 1.83,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 65.92,
+   "ebitda": 11.2,
+   "pat": 8.27,
+   "margin_pct": 17.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 160.49,
+   "ebitda": 20.24,
+   "pat": 14.91,
+   "margin_pct": 12.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 104.45,
+   "ebitda": 10.95,
+   "pat": 7.95,
+   "margin_pct": 10.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 46,
+    "profit": 8,
+    "quality": 63
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 76.05,
+   "ebitda": 6.49,
+   "pat": 4.58,
+   "margin_pct": 8.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 91,
+    "profit": 53,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

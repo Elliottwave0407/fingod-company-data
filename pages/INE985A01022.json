@@ -1,0 +1,105 @@
+{
+ "isin": "INE985A01022",
+ "sym": "SINCLAIR",
+ "name": "Sinclairs Hotels Limited",
+ "scrip": "523023",
+ "mcap_cr": 371.89,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 14.37,
+   "ebitda": 4.93,
+   "pat": 3.78,
+   "margin_pct": 34.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 15.69,
+   "ebitda": 5.95,
+   "pat": 6.18,
+   "margin_pct": 37.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 8.98,
+   "ebitda": -0.3,
+   "pat": -2.04,
+   "margin_pct": -3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 17.8,
+   "ebitda": 7.23,
+   "pat": 5.77,
+   "margin_pct": 40.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 16.76,
+   "ebitda": 5.33,
+   "pat": -0.86,
+   "margin_pct": 31.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 46,
+    "profit": 25,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 20.15,
+   "ebitda": 8.39,
+   "pat": 7.91,
+   "margin_pct": 41.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 78,
+    "profit": 88,
+    "quality": 68
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

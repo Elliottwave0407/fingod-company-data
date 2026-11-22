@@ -1,0 +1,97 @@
+{
+ "isin": "INE363M01019",
+ "sym": "SHEMAROO",
+ "name": "Shemaroo Entertainment Limited",
+ "scrip": "538685",
+ "mcap_cr": 259.87,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 204.27,
+   "ebitda": 2.35,
+   "pat": -4.95,
+   "margin_pct": 1.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 139.52,
+   "ebitda": -55.49,
+   "pat": -45.75,
+   "margin_pct": -39.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 143.38,
+   "ebitda": -54.76,
+   "pat": -45.53,
+   "margin_pct": -38.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 160.68,
+   "ebitda": -67.37,
+   "pat": -54.89,
+   "margin_pct": -41.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 139.48,
+   "ebitda": -87.2,
+   "pat": -71.97,
+   "margin_pct": -62.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 131.68,
+   "ebitda": -1.82,
+   "pat": -8.07,
+   "margin_pct": -1.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 20,
+  "concalls_read": 8,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

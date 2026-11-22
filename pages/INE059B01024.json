@@ -1,0 +1,105 @@
+{
+ "isin": "INE059B01024",
+ "sym": "SIMPLEXINF",
+ "name": "Simplex Infrastructures Limited",
+ "scrip": "523838",
+ "mcap_cr": 2365.74,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 281.94,
+   "ebitda": 29.41,
+   "pat": 43.4,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 242.59,
+   "ebitda": 7.65,
+   "pat": 4.93,
+   "margin_pct": 3.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 247.99,
+   "ebitda": 16.3,
+   "pat": 8.62,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 247.71,
+   "ebitda": 10.06,
+   "pat": 8.09,
+   "margin_pct": 4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 282.9,
+   "ebitda": 22.0,
+   "pat": 18.8,
+   "margin_pct": 7.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 10,
+    "quality": 46
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 290.55,
+   "ebitda": 20.97,
+   "pat": 10.67,
+   "margin_pct": 7.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 77,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

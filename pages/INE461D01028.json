@@ -1,0 +1,105 @@
+{
+ "isin": "INE461D01028",
+ "sym": "HLEGLAS",
+ "name": "HLE Glascoat Limited",
+ "scrip": "522215",
+ "mcap_cr": 2840.35,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 333.71,
+   "ebitda": 52.0,
+   "pat": 31.64,
+   "margin_pct": 15.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 283.95,
+   "ebitda": 37.6,
+   "pat": 17.86,
+   "margin_pct": 13.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 350.78,
+   "ebitda": 35.16,
+   "pat": 13.96,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 326.57,
+   "ebitda": 17.92,
+   "pat": 4.6,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 391.69,
+   "ebitda": 42.4,
+   "pat": 20.14,
+   "margin_pct": 10.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 32,
+    "profit": 9,
+    "quality": 15
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 300.75,
+   "ebitda": 20.93,
+   "pat": 2.05,
+   "margin_pct": 7.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 18,
+    "profit": 6,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 7,
+  "concalls_read": 7,
+  "latest_concall": "2026-11-09"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

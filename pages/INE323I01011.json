@@ -1,0 +1,105 @@
+{
+ "isin": "INE323I01011",
+ "sym": "PURVA",
+ "name": "Puravankara Limited",
+ "scrip": "532891",
+ "mcap_cr": 4710.98,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 541.57,
+   "ebitda": 30.45,
+   "pat": -88.0,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 524.4,
+   "ebitda": 66.69,
+   "pat": -68.55,
+   "margin_pct": 12.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 644.2,
+   "ebitda": 104.05,
+   "pat": -42.99,
+   "margin_pct": 16.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1069.31,
+   "ebitda": 219.26,
+   "pat": 58.34,
+   "margin_pct": 20.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1501.92,
+   "ebitda": 301.5,
+   "pat": 109.95,
+   "margin_pct": 20.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 96,
+    "quality": 11
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 848.72,
+   "ebitda": 188.64,
+   "pat": 25.23,
+   "margin_pct": 22.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 98,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE02PY01013",
+ "sym": "BOROLTD",
+ "name": "Borosil Limited",
+ "scrip": "543212",
+ "mcap_cr": 3920.08,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 270.18,
+   "ebitda": 37.16,
+   "pat": 11.14,
+   "margin_pct": 13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 232.69,
+   "ebitda": 37.34,
+   "pat": 17.41,
+   "margin_pct": 16.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 340.36,
+   "ebitda": 48.3,
+   "pat": 22.71,
+   "margin_pct": 14.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 338.75,
+   "ebitda": 48.83,
+   "pat": 23.95,
+   "margin_pct": 14.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 284.12,
+   "ebitda": 30.2,
+   "pat": 10.59,
+   "margin_pct": 10.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 22,
+    "profit": 9,
+    "quality": 12
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 253.59,
+   "ebitda": 34.46,
+   "pat": 12.8,
+   "margin_pct": 13.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 29,
+    "profit": 17,
+    "quality": 7
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 369.8,
+   "ebitda": 69.25,
+   "pat": 31.91,
+   "margin_pct": 18.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 63,
+    "profit": 91,
+    "quality": 56
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 12,
+  "concalls_read": 12,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

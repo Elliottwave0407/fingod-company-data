@@ -1,0 +1,105 @@
+{
+ "isin": "INE560A01023",
+ "sym": "INDIAGLYCO",
+ "name": "India Glycols Limited",
+ "scrip": "500201",
+ "mcap_cr": 1773.86,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 2188.65,
+   "ebitda": 145.94,
+   "pat": 64.02,
+   "margin_pct": 6.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 2503.12,
+   "ebitda": 149.64,
+   "pat": 73.25,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2412.4,
+   "ebitda": 157.64,
+   "pat": 65.06,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 2551.1,
+   "ebitda": 174.64,
+   "pat": 67.57,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 2360.01,
+   "ebitda": 166.5,
+   "pat": 86.88,
+   "margin_pct": 7.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 44,
+    "profit": 42,
+    "quality": 59
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2988.44,
+   "ebitda": 169.56,
+   "pat": 96.83,
+   "margin_pct": 5.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 53,
+    "profit": 33,
+    "quality": 61
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-08-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

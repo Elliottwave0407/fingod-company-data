@@ -1,0 +1,115 @@
+{
+ "isin": "INE978A01027",
+ "sym": "HERITGFOOD",
+ "name": "Heritage Foods Limited",
+ "scrip": "519552",
+ "mcap_cr": 3485.88,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1048.47,
+   "ebitda": 69.64,
+   "pat": 38.17,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1136.76,
+   "ebitda": 73.89,
+   "pat": 40.55,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1112.52,
+   "ebitda": 86.54,
+   "pat": 50.99,
+   "margin_pct": 7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1119.16,
+   "ebitda": 63.04,
+   "pat": 34.6,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1157.56,
+   "ebitda": 53.01,
+   "pat": 23.94,
+   "margin_pct": 4.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 24,
+    "profit": 14,
+    "quality": 13
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1338.09,
+   "ebitda": 61.86,
+   "pat": 24.97,
+   "margin_pct": 4.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 34,
+    "profit": 16,
+    "quality": 9
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1319.58,
+   "ebitda": 73.96,
+   "pat": 30.86,
+   "margin_pct": 5.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 35,
+    "profit": 13,
+    "quality": 10
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 12,
+  "concalls_read": 12,
+  "latest_concall": "2026-10-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

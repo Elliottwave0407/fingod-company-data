@@ -1,0 +1,105 @@
+{
+ "isin": "INE02H701025",
+ "sym": "NOVAAGRI",
+ "name": "Nova Agritech Limited",
+ "scrip": "544100",
+ "mcap_cr": 203.91,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 81.34,
+   "ebitda": 9.57,
+   "pat": 5.81,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 46.75,
+   "ebitda": 5.36,
+   "pat": 3.25,
+   "margin_pct": 11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 92.39,
+   "ebitda": 11.99,
+   "pat": 6.76,
+   "margin_pct": 13.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 66.55,
+   "ebitda": 6.41,
+   "pat": 2.61,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 55.91,
+   "ebitda": 3.56,
+   "pat": 0.22,
+   "margin_pct": 6.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 5,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 60.01,
+   "ebitda": 6.26,
+   "pat": 3.25,
+   "margin_pct": 10.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 63,
+    "profit": 29,
+    "quality": 31
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

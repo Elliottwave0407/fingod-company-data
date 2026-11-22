@@ -1,0 +1,115 @@
+{
+ "isin": "INE256Z01025",
+ "sym": "AKSHAR",
+ "name": "Akshar Spintex Limited",
+ "scrip": "541303",
+ "mcap_cr": 35.44,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 30.58,
+   "ebitda": -0.83,
+   "pat": -1.14,
+   "margin_pct": -2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 26.19,
+   "ebitda": -0.52,
+   "pat": -1.24,
+   "margin_pct": -2.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 22.34,
+   "ebitda": -0.27,
+   "pat": -1.97,
+   "margin_pct": -1.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 34.35,
+   "ebitda": -5.07,
+   "pat": -3.79,
+   "margin_pct": -14.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 34.4,
+   "ebitda": 1.21,
+   "pat": -0.39,
+   "margin_pct": 3.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 46,
+    "profit": 83,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 29.93,
+   "ebitda": 2.19,
+   "pat": 0.6,
+   "margin_pct": 7.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 86,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 35.69,
+   "ebitda": 1.93,
+   "pat": 0.3,
+   "margin_pct": 5.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 84,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE914E01040",
+ "sym": "ALANKIT",
+ "name": "Alankit Limited",
+ "scrip": "531082",
+ "mcap_cr": 212.59,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 102.01,
+   "ebitda": 6.56,
+   "pat": 5.27,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 90.78,
+   "ebitda": -4.54,
+   "pat": 5.96,
+   "margin_pct": -5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 80.09,
+   "ebitda": 3.42,
+   "pat": 4.49,
+   "margin_pct": 4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 71.7,
+   "ebitda": 5.77,
+   "pat": 8.03,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 100.92,
+   "ebitda": 4.54,
+   "pat": 2.39,
+   "margin_pct": 4.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 12,
+    "profit": 15,
+    "quality": 15
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 77.66,
+   "ebitda": 6.35,
+   "pat": 5.32,
+   "margin_pct": 8.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 13,
+    "profit": 87,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE116D01028",
+ "sym": "BAGFILMS",
+ "name": "B.A.G Films and Media Limited",
+ "scrip": "532507",
+ "mcap_cr": 86.73,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 41.89,
+   "ebitda": 10.1,
+   "pat": 6.5,
+   "margin_pct": 24.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 31.47,
+   "ebitda": 5.36,
+   "pat": 2.25,
+   "margin_pct": 17.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 35.75,
+   "ebitda": 3.38,
+   "pat": 0.34,
+   "margin_pct": 9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 39.93,
+   "ebitda": 2.86,
+   "pat": 0.11,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 42.93,
+   "ebitda": 6.2,
+   "pat": 2.35,
+   "margin_pct": 14.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 15,
+    "profit": 12,
+    "quality": 7
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 38.59,
+   "ebitda": 7.17,
+   "pat": 3.57,
+   "margin_pct": 18.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 71,
+    "profit": 62,
+    "quality": 66
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

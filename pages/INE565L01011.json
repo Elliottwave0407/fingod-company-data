@@ -1,0 +1,115 @@
+{
+ "isin": "INE565L01011",
+ "sym": "ZEELEARN",
+ "name": "Zee Learn Limited",
+ "scrip": "533287",
+ "mcap_cr": 189.3,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 158.68,
+   "ebitda": 48.54,
+   "pat": 16.87,
+   "margin_pct": 30.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 73.71,
+   "ebitda": 24.01,
+   "pat": 13.06,
+   "margin_pct": 32.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 74.25,
+   "ebitda": 12.17,
+   "pat": -6.14,
+   "margin_pct": 16.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 79.67,
+   "ebitda": 8.75,
+   "pat": -2.65,
+   "margin_pct": 11.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 176.77,
+   "ebitda": 84.24,
+   "pat": 45.42,
+   "margin_pct": 47.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 72,
+    "profit": 100,
+    "quality": 70
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 93.32,
+   "ebitda": 32.58,
+   "pat": 8.42,
+   "margin_pct": 34.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 75,
+    "profit": 75,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 54.62,
+   "ebitda": 18.07,
+   "pat": -1.72,
+   "margin_pct": 33.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 47,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

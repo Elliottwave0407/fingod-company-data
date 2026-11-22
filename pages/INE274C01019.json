@@ -1,0 +1,115 @@
+{
+ "isin": "INE274C01019",
+ "sym": "WENDT",
+ "name": "Wendt (India) Limited",
+ "scrip": "505412",
+ "mcap_cr": 1409.18,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 75.6,
+   "ebitda": 18.35,
+   "pat": 12.89,
+   "margin_pct": 24.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 52.17,
+   "ebitda": 7.28,
+   "pat": 3.78,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 56.58,
+   "ebitda": 6.68,
+   "pat": 2.7,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 60.79,
+   "ebitda": 7.32,
+   "pat": 2.98,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 66.78,
+   "ebitda": 10.76,
+   "pat": 5.09,
+   "margin_pct": 16.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 8,
+    "profit": 13,
+    "quality": 14
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 71.28,
+   "ebitda": 11.0,
+   "pat": 6.18,
+   "margin_pct": 15.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 87,
+    "profit": 59,
+    "quality": 72
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 72.51,
+   "ebitda": 10.59,
+   "pat": 5.49,
+   "margin_pct": 14.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 85,
+    "profit": 71,
+    "quality": 68
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

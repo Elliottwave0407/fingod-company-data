@@ -1,0 +1,115 @@
+{
+ "isin": "INE760L01018",
+ "sym": "TBZ",
+ "name": "Tribhovandas Bhimji Zaveri Limited",
+ "scrip": "534369",
+ "mcap_cr": 3708.22,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 529.34,
+   "ebitda": 36.23,
+   "pat": 9.49,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 624.01,
+   "ebitda": 53.15,
+   "pat": 22.5,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 687.83,
+   "ebitda": 64.17,
+   "pat": 31.53,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1061.42,
+   "ebitda": 131.16,
+   "pat": 80.63,
+   "margin_pct": 12.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 829.7,
+   "ebitda": 112.38,
+   "pat": 67.64,
+   "margin_pct": 13.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 99,
+    "profit": 91,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 840.97,
+   "ebitda": 72.31,
+   "pat": 33.92,
+   "margin_pct": 8.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 80,
+    "profit": 40,
+    "quality": 60
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 705.35,
+   "ebitda": 46.12,
+   "pat": 14.27,
+   "margin_pct": 6.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 15,
+    "profit": 7,
+    "quality": 1
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

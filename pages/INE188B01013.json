@@ -1,0 +1,105 @@
+{
+ "isin": "INE188B01013",
+ "sym": "IGARASHI",
+ "name": "Igarashi Motors India Limited",
+ "scrip": "517380",
+ "mcap_cr": 1122.4,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 189.47,
+   "ebitda": 19.71,
+   "pat": 3.06,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 204.71,
+   "ebitda": 19.6,
+   "pat": 2.51,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 219.14,
+   "ebitda": 23.48,
+   "pat": 4.54,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 216.09,
+   "ebitda": 20.4,
+   "pat": 3.5,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 225.97,
+   "ebitda": 19.26,
+   "pat": 1.59,
+   "margin_pct": 8.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 41,
+    "profit": 19,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 250.87,
+   "ebitda": 24.52,
+   "pat": 6.77,
+   "margin_pct": 9.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 65,
+    "profit": 42,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

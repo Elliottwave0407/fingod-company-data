@@ -1,0 +1,115 @@
+{
+ "isin": "INE02A801020",
+ "sym": "ROSSARI",
+ "name": "Rossari Biotech Limited",
+ "scrip": "543213",
+ "mcap_cr": 2329.6,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 579.56,
+   "ebitda": 69.49,
+   "pat": 34.44,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 543.72,
+   "ebitda": 67.86,
+   "pat": 33.6,
+   "margin_pct": 12.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 586.11,
+   "ebitda": 71.92,
+   "pat": 36.88,
+   "margin_pct": 12.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 581.68,
+   "ebitda": 68.87,
+   "pat": 32.77,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 684.86,
+   "ebitda": 77.25,
+   "pat": 45.97,
+   "margin_pct": 11.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 50,
+    "profit": 33,
+    "quality": 64
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 697.2,
+   "ebitda": 80.62,
+   "pat": 35.09,
+   "margin_pct": 11.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 64,
+    "profit": 31,
+    "quality": 28
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 697.56,
+   "ebitda": 86.98,
+   "pat": 38.91,
+   "margin_pct": 12.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 60,
+    "profit": 44,
+    "quality": 29
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-22"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

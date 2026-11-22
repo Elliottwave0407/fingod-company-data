@@ -1,0 +1,101 @@
+{
+ "isin": "INE426D01013",
+ "sym": "GOACARBON",
+ "name": "Goa Carbon Limited",
+ "scrip": "509567",
+ "mcap_cr": 338.86,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 132.19,
+   "ebitda": -4.78,
+   "pat": -6.54,
+   "margin_pct": -3.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 199.25,
+   "ebitda": -7.79,
+   "pat": -7.95,
+   "margin_pct": -3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 102.47,
+   "ebitda": -9.9,
+   "pat": -21.41,
+   "margin_pct": -9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 193.58,
+   "ebitda": -19.66,
+   "pat": -23.37,
+   "margin_pct": -10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 201.12,
+   "ebitda": 9.4,
+   "pat": 4.49,
+   "margin_pct": 4.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 94,
+    "profit": 84,
+    "quality": 30
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 65.7,
+   "ebitda": -4.4,
+   "pat": -6.58,
+   "margin_pct": -6.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,101 @@
+{
+ "isin": "INE0FHS01024",
+ "sym": "DEEPINDS",
+ "name": "Deep Industries Limited",
+ "scrip": "543288",
+ "mcap_cr": 4071.04,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 167.23,
+   "ebitda": -194.4,
+   "pat": -206.67,
+   "margin_pct": -116.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 199.5,
+   "ebitda": 81.59,
+   "pat": 61.7,
+   "margin_pct": 40.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 221.01,
+   "ebitda": 91.6,
+   "pat": 71.23,
+   "margin_pct": 41.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 221.5,
+   "ebitda": 100.17,
+   "pat": 71.35,
+   "margin_pct": 45.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 248.71,
+   "ebitda": -126.38,
+   "pat": -7.22,
+   "margin_pct": -50.8,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 278.92,
+   "ebitda": 108.15,
+   "pat": 89.14,
+   "margin_pct": 38.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 80,
+    "profit": 29,
+    "quality": 87
+   },
+   "capped_by": "margin down over 2 pts YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 12,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

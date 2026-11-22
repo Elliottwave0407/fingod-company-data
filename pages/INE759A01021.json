@@ -1,0 +1,115 @@
+{
+ "isin": "INE759A01021",
+ "sym": "MASTEK",
+ "name": "Mastek Limited",
+ "scrip": "523704",
+ "mcap_cr": 4466.18,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 905.42,
+   "ebitda": 130.62,
+   "pat": 81.07,
+   "margin_pct": 14.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 914.7,
+   "ebitda": 137.32,
+   "pat": 92.05,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 940.37,
+   "ebitda": 145.51,
+   "pat": 97.45,
+   "margin_pct": 15.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 905.68,
+   "ebitda": 145.59,
+   "pat": 108.35,
+   "margin_pct": 16.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 938.0,
+   "ebitda": 127.02,
+   "pat": 106.15,
+   "margin_pct": 13.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 27,
+    "profit": 33,
+    "quality": 82
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 985.25,
+   "ebitda": 151.36,
+   "pat": 105.88,
+   "margin_pct": 15.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 40,
+    "profit": 48,
+    "quality": 59
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1018.68,
+   "ebitda": 156.9,
+   "pat": 105.67,
+   "margin_pct": 15.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 39,
+    "profit": 44,
+    "quality": 51
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-28"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

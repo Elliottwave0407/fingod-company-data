@@ -1,0 +1,101 @@
+{
+ "isin": "INE826C01016",
+ "sym": "GUJAPOLLO",
+ "name": "Gujarat Apollo Industries Limited",
+ "scrip": "522217",
+ "mcap_cr": 435.08,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 16.95,
+   "ebitda": -8.56,
+   "pat": -8.76,
+   "margin_pct": -50.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 11.08,
+   "ebitda": -2.33,
+   "pat": 1.15,
+   "margin_pct": -21.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 12.89,
+   "ebitda": -2.33,
+   "pat": 2.34,
+   "margin_pct": -18.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 16.17,
+   "ebitda": -3.93,
+   "pat": 0.63,
+   "margin_pct": -24.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 12.84,
+   "ebitda": -2.16,
+   "pat": 1.83,
+   "margin_pct": -16.8,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 9.98,
+   "ebitda": -3.44,
+   "pat": 0.81,
+   "margin_pct": -34.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 17,
+    "profit": -28,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

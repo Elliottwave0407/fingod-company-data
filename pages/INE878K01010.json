@@ -1,0 +1,105 @@
+{
+ "isin": "INE878K01010",
+ "sym": "BFINVEST",
+ "name": "BF Investment Limited",
+ "scrip": "533303",
+ "mcap_cr": 1681.29,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 26.47,
+   "ebitda": 21.52,
+   "pat": -3.33,
+   "margin_pct": 81.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 9.43,
+   "ebitda": 8.03,
+   "pat": 38.44,
+   "margin_pct": 85.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 19.35,
+   "ebitda": 16.64,
+   "pat": 39.95,
+   "margin_pct": 86.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 10.11,
+   "ebitda": 8.99,
+   "pat": 89.38,
+   "margin_pct": 88.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 37.44,
+   "ebitda": 30.35,
+   "pat": 114.23,
+   "margin_pct": 81.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 85,
+    "profit": 49,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 11.28,
+   "ebitda": 10.2,
+   "pat": 145.99,
+   "margin_pct": 90.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 64,
+    "profit": 100,
+    "quality": 100
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

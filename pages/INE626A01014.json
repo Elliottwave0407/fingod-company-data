@@ -1,0 +1,105 @@
+{
+ "isin": "INE626A01014",
+ "sym": "SAURASHCEM",
+ "name": "Saurashtra Cement Limited",
+ "scrip": "502175",
+ "mcap_cr": 525.16,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 478.05,
+   "ebitda": 61.7,
+   "pat": 32.91,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 423.57,
+   "ebitda": 34.8,
+   "pat": 16.85,
+   "margin_pct": 8.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 385.64,
+   "ebitda": -9.73,
+   "pat": -10.98,
+   "margin_pct": -2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 410.19,
+   "ebitda": -5.62,
+   "pat": -10.29,
+   "margin_pct": -1.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 446.65,
+   "ebitda": 22.9,
+   "pat": 18.83,
+   "margin_pct": 5.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 10,
+    "profit": 4,
+    "quality": 44
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 456.75,
+   "ebitda": 20.72,
+   "pat": 9.13,
+   "margin_pct": 4.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 19,
+    "profit": 4,
+    "quality": 9
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,102 @@
+{
+ "isin": "INE976T01013",
+ "sym": "SAGARDEEP",
+ "name": "Sagardeep Alloys Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 32.26,
+   "ebitda": 0.24,
+   "pat": 1.07,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 35.35,
+   "ebitda": 0.51,
+   "pat": 0.34,
+   "margin_pct": 1.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 33.58,
+   "ebitda": 0.14,
+   "pat": 0.4,
+   "margin_pct": 0.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 39.2,
+   "ebitda": 0.8,
+   "pat": 0.32,
+   "margin_pct": 2.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 70.45,
+   "ebitda": 3.01,
+   "pat": 1.62,
+   "margin_pct": 4.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 70,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 57.08,
+   "ebitda": 1.43,
+   "pat": 0.74,
+   "margin_pct": 2.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 45,
+    "quality": 68
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

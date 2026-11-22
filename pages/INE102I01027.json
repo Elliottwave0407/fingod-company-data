@@ -1,0 +1,101 @@
+{
+ "isin": "INE102I01027",
+ "sym": "ADSL",
+ "name": "Allied Digital Services Limited",
+ "scrip": "532875",
+ "mcap_cr": 583.22,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 204.35,
+   "ebitda": -9.3,
+   "pat": -7.61,
+   "margin_pct": -4.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 219.02,
+   "ebitda": 18.83,
+   "pat": 14.44,
+   "margin_pct": 8.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 233.7,
+   "ebitda": 21.32,
+   "pat": 15.41,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 247.42,
+   "ebitda": 24.86,
+   "pat": 13.9,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 267.77,
+   "ebitda": -10.12,
+   "pat": -3.4,
+   "margin_pct": -3.8,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 260.49,
+   "ebitda": 22.74,
+   "pat": 12.39,
+   "margin_pct": 8.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 60,
+    "profit": 40,
+    "quality": 27
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

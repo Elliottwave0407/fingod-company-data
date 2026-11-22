@@ -1,0 +1,102 @@
+{
+ "isin": "INE00KV01022",
+ "sym": "RAJMET",
+ "name": "Rajnandini Metal Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 208.53,
+   "ebitda": -0.97,
+   "pat": 0.38,
+   "margin_pct": -0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 73.88,
+   "ebitda": -1.4,
+   "pat": -1.99,
+   "margin_pct": -1.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 71.16,
+   "ebitda": 0.7,
+   "pat": 0.03,
+   "margin_pct": 1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 61.84,
+   "ebitda": 1.36,
+   "pat": 0.51,
+   "margin_pct": 2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 56.45,
+   "ebitda": 2.35,
+   "pat": 1.13,
+   "margin_pct": 4.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 80,
+    "quality": 65
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 51.95,
+   "ebitda": 1.04,
+   "pat": 0.39,
+   "margin_pct": 2.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 71,
+    "quality": 10
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

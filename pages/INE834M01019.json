@@ -1,0 +1,101 @@
+{
+ "isin": "INE834M01019",
+ "sym": "RTNINDIA",
+ "name": "RattanIndia Enterprises Limited",
+ "scrip": "534597",
+ "mcap_cr": 3360.3,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1504.56,
+   "ebitda": -376.97,
+   "pat": -358.51,
+   "margin_pct": -25.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 2313.18,
+   "ebitda": 608.82,
+   "pat": 502.32,
+   "margin_pct": 26.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2123.92,
+   "ebitda": -436.31,
+   "pat": -396.56,
+   "margin_pct": -20.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 2006.44,
+   "ebitda": -155.32,
+   "pat": -162.01,
+   "margin_pct": -7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1696.63,
+   "ebitda": -100.84,
+   "pat": -110.1,
+   "margin_pct": -5.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1870.48,
+   "ebitda": 40.06,
+   "pat": 14.73,
+   "margin_pct": 2.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 5,
+    "profit": 2,
+    "quality": 6
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

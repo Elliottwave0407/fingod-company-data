@@ -1,0 +1,101 @@
+{
+ "isin": "INE224E01028",
+ "sym": "GATECH",
+ "name": "GACM Technologies Limited",
+ "scrip": "531723",
+ "mcap_cr": 83.08,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 4.84,
+   "ebitda": 2.74,
+   "pat": 1.75,
+   "margin_pct": 56.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 6.7,
+   "ebitda": 3.85,
+   "pat": 3.24,
+   "margin_pct": 57.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 5.13,
+   "ebitda": 3.41,
+   "pat": 2.51,
+   "margin_pct": 66.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 4.05,
+   "ebitda": 2.47,
+   "pat": 1.18,
+   "margin_pct": 61.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 6.0,
+   "ebitda": 3.08,
+   "pat": 1.66,
+   "margin_pct": 51.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 4.5,
+   "ebitda": 3.05,
+   "pat": 1.52,
+   "margin_pct": 67.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 4,
+    "profit": 100,
+    "quality": 17
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

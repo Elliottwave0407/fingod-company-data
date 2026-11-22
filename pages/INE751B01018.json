@@ -1,0 +1,105 @@
+{
+ "isin": "INE751B01018",
+ "sym": "PIXTRANS",
+ "name": "Pix Transmissions Limited",
+ "scrip": "500333",
+ "mcap_cr": 2310.63,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 161.92,
+   "ebitda": 32.53,
+   "pat": 22.65,
+   "margin_pct": 20.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 121.54,
+   "ebitda": 27.58,
+   "pat": 27.86,
+   "margin_pct": 22.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 138.79,
+   "ebitda": 34.36,
+   "pat": 23.54,
+   "margin_pct": 24.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 151.22,
+   "ebitda": 43.5,
+   "pat": 35.26,
+   "margin_pct": 28.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 170.77,
+   "ebitda": 30.83,
+   "pat": 20.22,
+   "margin_pct": 18.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 27,
+    "profit": 25,
+    "quality": 38
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 149.25,
+   "ebitda": 45.66,
+   "pat": 52.75,
+   "margin_pct": 30.6,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 82,
+    "profit": 100,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

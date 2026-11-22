@@ -1,0 +1,105 @@
+{
+ "isin": "INE108V01019",
+ "sym": "AWFIS",
+ "name": "Awfis Space Solutions Limited",
+ "scrip": "544181",
+ "mcap_cr": 1979.08,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 339.69,
+   "ebitda": 116.09,
+   "pat": 11.23,
+   "margin_pct": 34.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 334.7,
+   "ebitda": 126.53,
+   "pat": 9.98,
+   "margin_pct": 37.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 366.86,
+   "ebitda": 132.31,
+   "pat": 15.97,
+   "margin_pct": 36.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 381.78,
+   "ebitda": 139.22,
+   "pat": 21.66,
+   "margin_pct": 36.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 410.14,
+   "ebitda": 151.71,
+   "pat": 23.25,
+   "margin_pct": 37.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 68,
+    "profit": 80,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 424.92,
+   "ebitda": 162.28,
+   "pat": 23.96,
+   "margin_pct": 38.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 70,
+    "profit": 56,
+    "quality": 40
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

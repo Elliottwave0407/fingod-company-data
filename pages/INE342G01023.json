@@ -1,0 +1,115 @@
+{
+ "isin": "INE342G01023",
+ "sym": "NIITMTS",
+ "name": "Niit Learning Systems Limited",
+ "scrip": "543952",
+ "mcap_cr": 2322.49,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 129.96,
+   "ebitda": 17.68,
+   "pat": 22.62,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 451.35,
+   "ebitda": 84.13,
+   "pat": 49.3,
+   "margin_pct": 18.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 475.72,
+   "ebitda": 86.68,
+   "pat": 46.96,
+   "margin_pct": 18.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 499.69,
+   "ebitda": 107.39,
+   "pat": 74.34,
+   "margin_pct": 21.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 525.22,
+   "ebitda": 116.21,
+   "pat": 77.11,
+   "margin_pct": 22.1,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 98,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 565.08,
+   "ebitda": 91.84,
+   "pat": 57.41,
+   "margin_pct": 16.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 54,
+    "profit": 20,
+    "quality": 54
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 528.58,
+   "ebitda": 76.18,
+   "pat": 37.31,
+   "margin_pct": 14.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 29,
+    "profit": 12,
+    "quality": 20
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

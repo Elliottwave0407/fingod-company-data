@@ -1,0 +1,101 @@
+{
+ "isin": "INE05X901010",
+ "sym": "HPIL",
+ "name": "Hindprakash Industries Limited",
+ "scrip": "543645",
+ "mcap_cr": 129.09,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 38.58,
+   "ebitda": 0.81,
+   "pat": 0.42,
+   "margin_pct": 2.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 30.15,
+   "ebitda": 0.52,
+   "pat": 0.1,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 31.33,
+   "ebitda": 0.44,
+   "pat": 0.14,
+   "margin_pct": 1.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 22.77,
+   "ebitda": 0.73,
+   "pat": 0.43,
+   "margin_pct": 3.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 30.8,
+   "ebitda": -0.72,
+   "pat": 2.07,
+   "margin_pct": -2.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 4,
+    "profit": -2,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 26.57,
+   "ebitda": -2.75,
+   "pat": 0.86,
+   "margin_pct": -10.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

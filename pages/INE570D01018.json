@@ -1,0 +1,105 @@
+{
+ "isin": "INE570D01018",
+ "sym": "ARROWGREEN",
+ "name": "Arrow Greentech Limited",
+ "scrip": "516064",
+ "mcap_cr": 976.34,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 57.29,
+   "ebitda": 16.03,
+   "pat": 11.38,
+   "margin_pct": 28.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 41.6,
+   "ebitda": 14.25,
+   "pat": 10.92,
+   "margin_pct": 34.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 61.07,
+   "ebitda": 20.75,
+   "pat": 15.74,
+   "margin_pct": 34.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 56.06,
+   "ebitda": 19.21,
+   "pat": 13.29,
+   "margin_pct": 34.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 41.78,
+   "ebitda": 10.37,
+   "pat": 7.44,
+   "margin_pct": 24.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 1,
+    "profit": 20,
+    "quality": 35
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 87.84,
+   "ebitda": 35.93,
+   "pat": 27.43,
+   "margin_pct": 40.9,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 89
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

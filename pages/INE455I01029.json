@@ -1,0 +1,111 @@
+{
+ "isin": "INE455I01029",
+ "sym": "KSCL",
+ "name": "Kaveri Seed Company Limited",
+ "scrip": "532899",
+ "mcap_cr": 3644.46,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 90.25,
+   "ebitda": -16.54,
+   "pat": -22.86,
+   "margin_pct": -18.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 858.53,
+   "ebitda": 338.17,
+   "pat": 327.16,
+   "margin_pct": 39.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 218.9,
+   "ebitda": -6.33,
+   "pat": -16.2,
+   "margin_pct": -2.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 210.21,
+   "ebitda": 21.21,
+   "pat": 12.68,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 107.11,
+   "ebitda": -16.23,
+   "pat": -27.81,
+   "margin_pct": -15.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 742.5,
+   "ebitda": 293.85,
+   "pat": 279.84,
+   "margin_pct": 39.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 54,
+    "quality": 56
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 244.14,
+   "ebitda": 0.62,
+   "pat": -8.78,
+   "margin_pct": 0.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 45,
+    "profit": 63,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 8,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

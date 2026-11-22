@@ -1,0 +1,115 @@
+{
+ "isin": "INE0O6601022",
+ "sym": "KROSS",
+ "name": "Kross Limited",
+ "scrip": "544253",
+ "mcap_cr": 1791.43,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 184.96,
+   "ebitda": 26.79,
+   "pat": 17.15,
+   "margin_pct": 14.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 139.35,
+   "ebitda": 16.17,
+   "pat": 10.7,
+   "margin_pct": 11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 130.92,
+   "ebitda": 14.75,
+   "pat": 8.09,
+   "margin_pct": 11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 177.48,
+   "ebitda": 23.46,
+   "pat": 13.98,
+   "margin_pct": 13.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 225.45,
+   "ebitda": 33.59,
+   "pat": 22.45,
+   "margin_pct": 14.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 65,
+    "profit": 48,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 184.34,
+   "ebitda": 22.56,
+   "pat": 13.31,
+   "margin_pct": 12.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 80,
+    "profit": 48,
+    "quality": 57
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 235.09,
+   "ebitda": 30.6,
+   "pat": 19.69,
+   "margin_pct": 13.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 60,
+    "quality": 79
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-10-22"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

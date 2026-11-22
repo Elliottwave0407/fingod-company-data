@@ -1,0 +1,105 @@
+{
+ "isin": "INE411H01032",
+ "sym": "RSYSTEMS",
+ "name": "R Systems International Limited",
+ "scrip": "532735",
+ "mcap_cr": 2853.38,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 442.46,
+   "ebitda": 70.54,
+   "pat": 38.59,
+   "margin_pct": 15.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 462.01,
+   "ebitda": 70.19,
+   "pat": 75.85,
+   "margin_pct": 15.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 498.62,
+   "ebitda": 72.07,
+   "pat": 35.34,
+   "margin_pct": 14.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 555.11,
+   "ebitda": 68.95,
+   "pat": 36.41,
+   "margin_pct": 12.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 574.77,
+   "ebitda": 100.58,
+   "pat": 65.41,
+   "margin_pct": 17.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 62,
+    "quality": 79
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 601.7,
+   "ebitda": 110.66,
+   "pat": 55.57,
+   "margin_pct": 18.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 86,
+    "profit": 78,
+    "quality": 18
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

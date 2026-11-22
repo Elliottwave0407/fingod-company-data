@@ -1,0 +1,105 @@
+{
+ "isin": "INE152C01025",
+ "sym": "UYFINCORP",
+ "name": "U. Y. Fincorp Limited",
+ "scrip": "530579",
+ "mcap_cr": 580.42,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 15.33,
+   "ebitda": 2.32,
+   "pat": 1.09,
+   "margin_pct": 15.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 21.95,
+   "ebitda": 8.35,
+   "pat": 5.97,
+   "margin_pct": 38.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 27.24,
+   "ebitda": 11.32,
+   "pat": 8.09,
+   "margin_pct": 41.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 42.17,
+   "ebitda": 22.5,
+   "pat": 16.78,
+   "margin_pct": 53.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 70.4,
+   "ebitda": 24.77,
+   "pat": 17.44,
+   "margin_pct": 35.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 84
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 72.54,
+   "ebitda": 26.08,
+   "pat": 19.62,
+   "margin_pct": 36.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 30,
+    "quality": 88
+   },
+   "capped_by": "margin down over 2 pts YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

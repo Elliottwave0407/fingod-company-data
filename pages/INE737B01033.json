@@ -1,0 +1,101 @@
+{
+ "isin": "INE737B01033",
+ "sym": "ADROITINFO",
+ "name": "Adroit Infotech Limited",
+ "scrip": "532172",
+ "mcap_cr": 87.08,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 10.4,
+   "ebitda": -0.49,
+   "pat": -0.93,
+   "margin_pct": -4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 9.83,
+   "ebitda": 1.34,
+   "pat": 0.84,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 11.44,
+   "ebitda": 1.25,
+   "pat": 0.77,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 14.33,
+   "ebitda": 2.07,
+   "pat": 1.52,
+   "margin_pct": 14.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 13.07,
+   "ebitda": -0.05,
+   "pat": 0.18,
+   "margin_pct": -0.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 15.01,
+   "ebitda": 1.11,
+   "pat": 0.63,
+   "margin_pct": 7.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 52,
+    "profit": 6,
+    "quality": 20
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE02ID01020",
+ "sym": "RAYMONDLSL",
+ "name": "Raymond Lifestyle Limited",
+ "scrip": "544240",
+ "mcap_cr": 3373.04,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1494.15,
+   "ebitda": 11.57,
+   "pat": -44.95,
+   "margin_pct": 0.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1430.43,
+   "ebitda": 77.0,
+   "pat": -19.82,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1832.4,
+   "ebitda": 221.29,
+   "pat": 75.19,
+   "margin_pct": 12.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1848.72,
+   "ebitda": 180.12,
+   "pat": 42.86,
+   "margin_pct": 9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1776.45,
+   "ebitda": 51.48,
+   "pat": -52.06,
+   "margin_pct": 2.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 79,
+    "profit": 55,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1515.51,
+   "ebitda": 89.8,
+   "pat": -22.59,
+   "margin_pct": 5.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 45,
+    "profit": 42,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 2075.1,
+   "ebitda": 220.09,
+   "pat": 67.53,
+   "margin_pct": 10.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 36,
+    "profit": 25,
+    "quality": 7
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

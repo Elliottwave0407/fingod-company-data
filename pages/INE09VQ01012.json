@@ -1,0 +1,115 @@
+{
+ "isin": "INE09VQ01012",
+ "sym": "INDIGOPNTS",
+ "name": "Indigo Paints Limited",
+ "scrip": "543258",
+ "mcap_cr": 4731.5,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 387.56,
+   "ebitda": 87.41,
+   "pat": 57.4,
+   "margin_pct": 22.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 308.86,
+   "ebitda": 44.3,
+   "pat": 26.06,
+   "margin_pct": 14.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 312.06,
+   "ebitda": 46.55,
+   "pat": 25.25,
+   "margin_pct": 14.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 358.78,
+   "ebitda": 62.21,
+   "pat": 37.14,
+   "margin_pct": 17.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 425.32,
+   "ebitda": 95.59,
+   "pat": 59.16,
+   "margin_pct": 22.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 41,
+    "profit": 49,
+    "quality": 42
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 369.67,
+   "ebitda": 62.02,
+   "pat": 41.7,
+   "margin_pct": 16.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 72,
+    "profit": 69,
+    "quality": 81
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 358.75,
+   "ebitda": 30.97,
+   "pat": 13.39,
+   "margin_pct": 8.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": 7,
+    "quality": 11
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

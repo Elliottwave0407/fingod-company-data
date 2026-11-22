@@ -1,0 +1,115 @@
+{
+ "isin": "INE632C01026",
+ "sym": "VIDHIING",
+ "name": "Vidhi Specialty Food Ingredients Limited",
+ "scrip": "531717",
+ "mcap_cr": 1536.31,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 109.53,
+   "ebitda": 19.97,
+   "pat": 11.9,
+   "margin_pct": 18.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 87.9,
+   "ebitda": 20.53,
+   "pat": 12.7,
+   "margin_pct": 23.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 74.99,
+   "ebitda": 17.67,
+   "pat": 10.56,
+   "margin_pct": 23.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 94.45,
+   "ebitda": 19.15,
+   "pat": 12.42,
+   "margin_pct": 20.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 122.68,
+   "ebitda": 20.6,
+   "pat": 13.12,
+   "margin_pct": 16.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 38,
+    "profit": 30,
+    "quality": 49
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 146.28,
+   "ebitda": 26.01,
+   "pat": 17.12,
+   "margin_pct": 17.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 84,
+    "profit": 14,
+    "quality": 70
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 136.51,
+   "ebitda": 26.37,
+   "pat": 17.62,
+   "margin_pct": 19.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 96,
+    "profit": 15,
+    "quality": 81
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-10-30"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE764L01010",
+ "sym": "SADBHIN",
+ "name": "Sadbhav Infrastructure Project Limited",
+ "scrip": "539346",
+ "mcap_cr": 103.2,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 199.74,
+   "ebitda": 26.72,
+   "pat": -71.77,
+   "margin_pct": 13.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 186.28,
+   "ebitda": 129.36,
+   "pat": 25.86,
+   "margin_pct": 69.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 181.06,
+   "ebitda": 131.36,
+   "pat": 25.31,
+   "margin_pct": 72.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 205.54,
+   "ebitda": 8.66,
+   "pat": -92.01,
+   "margin_pct": 4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 201.68,
+   "ebitda": 139.23,
+   "pat": 85.9,
+   "margin_pct": 69.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 63,
+    "profit": 100,
+    "quality": 53
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 200.26,
+   "ebitda": 136.84,
+   "pat": 52.95,
+   "margin_pct": 68.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 36,
+    "profit": 40,
+    "quality": 57
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

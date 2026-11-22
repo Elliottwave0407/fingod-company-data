@@ -1,0 +1,115 @@
+{
+ "isin": "INE050M01012",
+ "sym": "VSSL",
+ "name": "Vardhman Special Steels Limited",
+ "scrip": "534392",
+ "mcap_cr": 3674.68,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 428.04,
+   "ebitda": 31.43,
+   "pat": 19.73,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 433.7,
+   "ebitda": 31.83,
+   "pat": 19.9,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 432.27,
+   "ebitda": 45.26,
+   "pat": 34.56,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 430.54,
+   "ebitda": 43.3,
+   "pat": 33.59,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 457.92,
+   "ebitda": 46.09,
+   "pat": 33.98,
+   "margin_pct": 10.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 63,
+    "profit": 67,
+    "quality": 86
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 486.01,
+   "ebitda": 58.42,
+   "pat": 41.19,
+   "margin_pct": 12.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 73,
+    "profit": 87,
+    "quality": 84
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 600.05,
+   "ebitda": 69.12,
+   "pat": 52.49,
+   "margin_pct": 11.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 89,
+    "profit": 52,
+    "quality": 85
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

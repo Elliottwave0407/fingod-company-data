@@ -1,0 +1,115 @@
+{
+ "isin": "INE561C01019",
+ "sym": "BHARATGEAR",
+ "name": "Bharat Gears Limited",
+ "scrip": "505688",
+ "mcap_cr": 150.16,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 174.86,
+   "ebitda": 12.6,
+   "pat": 1.71,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 179.8,
+   "ebitda": 9.83,
+   "pat": 1.65,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 204.74,
+   "ebitda": 17.04,
+   "pat": 7.22,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 189.35,
+   "ebitda": 11.99,
+   "pat": 2.57,
+   "margin_pct": 6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 210.29,
+   "ebitda": 13.4,
+   "pat": 5.07,
+   "margin_pct": 6.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 48,
+    "profit": 28,
+    "quality": 57
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 215.65,
+   "ebitda": 8.12,
+   "pat": 0.15,
+   "margin_pct": 3.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 35,
+    "profit": 17,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 238.17,
+   "ebitda": 12.82,
+   "pat": 4.1,
+   "margin_pct": 5.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 29,
+    "profit": 5,
+    "quality": 2
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

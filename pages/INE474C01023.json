@@ -1,0 +1,105 @@
+{
+ "isin": "INE474C01023",
+ "sym": "REMSONSIND",
+ "name": "Remsons Industries Limited",
+ "scrip": "530919",
+ "mcap_cr": 297.59,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 106.18,
+   "ebitda": 10.69,
+   "pat": 4.55,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 99.63,
+   "ebitda": 10.59,
+   "pat": 3.64,
+   "margin_pct": 10.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 115.58,
+   "ebitda": 13.32,
+   "pat": 4.06,
+   "margin_pct": 11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 123.1,
+   "ebitda": 13.81,
+   "pat": 5.12,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 130.4,
+   "ebitda": 10.98,
+   "pat": 5.22,
+   "margin_pct": 8.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 47,
+    "profit": 21,
+    "quality": 32
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 119.72,
+   "ebitda": 10.44,
+   "pat": 3.22,
+   "margin_pct": 8.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 42,
+    "profit": 19,
+    "quality": 8
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 4,
+  "concalls_read": 2,
+  "latest_concall": "2026-02-16"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

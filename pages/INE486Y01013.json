@@ -1,0 +1,102 @@
+{
+ "isin": "INE486Y01013",
+ "sym": "TOUCHWOOD",
+ "name": "Touchwood Entertainment Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 24.94,
+   "ebitda": 1.8,
+   "pat": 1.36,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 16.9,
+   "ebitda": 1.74,
+   "pat": 1.25,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 5.63,
+   "ebitda": 0.78,
+   "pat": 0.37,
+   "margin_pct": 13.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 24.1,
+   "ebitda": 2.58,
+   "pat": 1.77,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 27.94,
+   "ebitda": 1.4,
+   "pat": 0.64,
+   "margin_pct": 5.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 26,
+    "profit": 12,
+    "quality": 13
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 3.96,
+   "ebitda": 0.73,
+   "pat": 0.37,
+   "margin_pct": 18.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 95,
+    "quality": 17
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

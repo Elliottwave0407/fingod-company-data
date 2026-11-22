@@ -1,0 +1,105 @@
+{
+ "isin": "INE0BV301023",
+ "sym": "MAPMYINDIA",
+ "name": "C.E. Info Systems Limited",
+ "scrip": "543425",
+ "mcap_cr": 4567.12,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 143.55,
+   "ebitda": 58.04,
+   "pat": 49.02,
+   "margin_pct": 40.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 121.61,
+   "ebitda": 55.87,
+   "pat": 45.81,
+   "margin_pct": 45.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 113.77,
+   "ebitda": 28.12,
+   "pat": 18.52,
+   "margin_pct": 24.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 93.68,
+   "ebitda": 26.76,
+   "pat": 18.76,
+   "margin_pct": 28.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 145.04,
+   "ebitda": 64.76,
+   "pat": 50.93,
+   "margin_pct": 44.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 36,
+    "profit": 93,
+    "quality": 56
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 139.72,
+   "ebitda": 56.12,
+   "pat": 49.74,
+   "margin_pct": 40.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 38,
+    "profit": 20,
+    "quality": 69
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 12,
+  "concalls_read": 12,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

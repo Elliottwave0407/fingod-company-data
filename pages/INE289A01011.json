@@ -1,0 +1,105 @@
+{
+ "isin": "INE289A01011",
+ "sym": "NAHARINDUS",
+ "name": "Nahar Industrial Enterprises Limited",
+ "scrip": "519136",
+ "mcap_cr": 554.54,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 390.14,
+   "ebitda": 32.03,
+   "pat": 16.18,
+   "margin_pct": 8.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 388.53,
+   "ebitda": 15.2,
+   "pat": 4.09,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 340.24,
+   "ebitda": -4.09,
+   "pat": 16.49,
+   "margin_pct": -1.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 340.21,
+   "ebitda": 15.25,
+   "pat": 5.79,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 339.47,
+   "ebitda": 33.43,
+   "pat": 24.97,
+   "margin_pct": 9.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 23,
+    "profit": 56,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 316.53,
+   "ebitda": 28.48,
+   "pat": 24.98,
+   "margin_pct": 9.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 55,
+    "profit": 87,
+    "quality": 78
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE039O01029",
+ "sym": "JASH",
+ "name": "Jash Engineering Limited",
+ "scrip": "544402",
+ "mcap_cr": 3386.55,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 300.38,
+   "ebitda": 58.77,
+   "pat": 35.75,
+   "margin_pct": 19.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 127.61,
+   "ebitda": -3.93,
+   "pat": -5.17,
+   "margin_pct": -3.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 157.54,
+   "ebitda": 20.3,
+   "pat": 10.97,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 160.5,
+   "ebitda": 16.96,
+   "pat": 13.07,
+   "margin_pct": 10.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 290.54,
+   "ebitda": 68.94,
+   "pat": 56.65,
+   "margin_pct": 23.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 39,
+    "profit": 91,
+    "quality": 93
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 149.88,
+   "ebitda": 8.09,
+   "pat": 5.09,
+   "margin_pct": 5.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 55,
+    "profit": 84,
+    "quality": 44
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

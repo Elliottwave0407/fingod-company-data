@@ -1,0 +1,105 @@
+{
+ "isin": "INE266Y01019",
+ "sym": "DPABHUSHAN",
+ "name": "D. P. Abhushan Limited",
+ "scrip": "544161",
+ "mcap_cr": 4193.83,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 717.24,
+   "ebitda": 41.98,
+   "pat": 25.15,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 540.37,
+   "ebitda": 54.3,
+   "pat": 36.42,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 967.65,
+   "ebitda": 75.72,
+   "pat": 51.46,
+   "margin_pct": 7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1222.38,
+   "ebitda": 105.63,
+   "pat": 73.35,
+   "margin_pct": 8.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1334.73,
+   "ebitda": 68.84,
+   "pat": 50.6,
+   "margin_pct": 5.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 29,
+    "quality": 86
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 852.4,
+   "ebitda": 92.76,
+   "pat": 64.45,
+   "margin_pct": 10.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 99,
+    "profit": 49,
+    "quality": 83
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

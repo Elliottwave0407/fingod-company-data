@@ -1,0 +1,105 @@
+{
+ "isin": "INE275D01022",
+ "sym": "AMNPLST",
+ "name": "Amines & Plasticizers Limited",
+ "scrip": "506248",
+ "mcap_cr": 843.18,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 165.81,
+   "ebitda": 20.97,
+   "pat": 12.81,
+   "margin_pct": 12.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 140.29,
+   "ebitda": 12.99,
+   "pat": 7.43,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 133.14,
+   "ebitda": 10.79,
+   "pat": 6.17,
+   "margin_pct": 8.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 142.46,
+   "ebitda": 12.54,
+   "pat": 7.58,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 155.14,
+   "ebitda": 23.45,
+   "pat": 15.35,
+   "margin_pct": 15.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 32,
+    "profit": 68,
+    "quality": 59
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 150.53,
+   "ebitda": 14.94,
+   "pat": 9.47,
+   "margin_pct": 9.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 44,
+    "profit": 47,
+    "quality": 63
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

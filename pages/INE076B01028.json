@@ -1,0 +1,115 @@
+{
+ "isin": "INE076B01028",
+ "sym": "SIYSIL",
+ "name": "Siyaram Silk Mills Limited",
+ "scrip": "503811",
+ "mcap_cr": 2309.56,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 736.19,
+   "ebitda": 111.28,
+   "pat": 72.05,
+   "margin_pct": 15.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 389.48,
+   "ebitda": 20.78,
+   "pat": 4.64,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 705.64,
+   "ebitda": 107.29,
+   "pat": 86.7,
+   "margin_pct": 15.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 624.08,
+   "ebitda": 67.86,
+   "pat": 41.77,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 853.29,
+   "ebitda": 136.91,
+   "pat": 97.78,
+   "margin_pct": 16.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 58,
+    "profit": 54,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 445.66,
+   "ebitda": 18.07,
+   "pat": 11.01,
+   "margin_pct": 4.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 32,
+    "profit": 22,
+    "quality": 61
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 813.58,
+   "ebitda": 116.1,
+   "pat": 74.5,
+   "margin_pct": 14.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 45,
+    "profit": 33,
+    "quality": 35
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

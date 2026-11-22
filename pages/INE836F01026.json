@@ -1,0 +1,97 @@
+{
+ "isin": "INE836F01026",
+ "sym": "DISHTV",
+ "name": "Dish TV India Limited",
+ "scrip": "532839",
+ "mcap_cr": 368.25,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 343.66,
+   "ebitda": -238.06,
+   "pat": -402.19,
+   "margin_pct": -69.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 329.36,
+   "ebitda": 72.84,
+   "pat": -94.53,
+   "margin_pct": 22.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 291.12,
+   "ebitda": 31.85,
+   "pat": -132.66,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 299.05,
+   "ebitda": -111.54,
+   "pat": -276.23,
+   "margin_pct": -37.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 243.07,
+   "ebitda": -143.52,
+   "pat": -303.95,
+   "margin_pct": -59.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 265.83,
+   "ebitda": -108.72,
+   "pat": -286.31,
+   "margin_pct": -40.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

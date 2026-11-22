@@ -1,0 +1,115 @@
+{
+ "isin": "INE415D01024",
+ "sym": "BHARATSE",
+ "name": "Bharat Seats Limited",
+ "scrip": "523229",
+ "mcap_cr": 1286.77,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 392.91,
+   "ebitda": 22.71,
+   "pat": 11.39,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 427.06,
+   "ebitda": 21.71,
+   "pat": 9.18,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 458.6,
+   "ebitda": 22.65,
+   "pat": 9.9,
+   "margin_pct": 4.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 491.01,
+   "ebitda": 23.75,
+   "pat": 9.9,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 574.28,
+   "ebitda": 29.67,
+   "pat": 13.25,
+   "margin_pct": 5.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 82,
+    "profit": 30,
+    "quality": 39
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 577.83,
+   "ebitda": 28.19,
+   "pat": 13.21,
+   "margin_pct": 4.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 77,
+    "profit": 34,
+    "quality": 58
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 709.22,
+   "ebitda": 31.86,
+   "pat": 15.2,
+   "margin_pct": 4.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 90,
+    "profit": 31,
+    "quality": 62
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

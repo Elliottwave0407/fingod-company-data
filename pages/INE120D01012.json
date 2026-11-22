@@ -1,0 +1,105 @@
+{
+ "isin": "INE120D01012",
+ "sym": "HITECHCORP",
+ "name": "Hitech Corporation Limited",
+ "scrip": "526217",
+ "mcap_cr": 706.09,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 149.29,
+   "ebitda": 14.22,
+   "pat": 1.01,
+   "margin_pct": 9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 164.9,
+   "ebitda": 20.48,
+   "pat": 4.75,
+   "margin_pct": 12.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 164.38,
+   "ebitda": 19.93,
+   "pat": 4.17,
+   "margin_pct": 12.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 145.12,
+   "ebitda": 10.79,
+   "pat": -2.62,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 166.0,
+   "ebitda": 22.01,
+   "pat": 8.89,
+   "margin_pct": 13.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 70,
+    "profit": 79,
+    "quality": 59
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 225.67,
+   "ebitda": 23.01,
+   "pat": 7.11,
+   "margin_pct": 10.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 64,
+    "profit": 16,
+    "quality": 47
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

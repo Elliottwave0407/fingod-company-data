@@ -1,0 +1,102 @@
+{
+ "isin": "INE336X01012",
+ "sym": "TOTAL",
+ "name": "Total Transport Systems Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 156.25,
+   "ebitda": 5.46,
+   "pat": 5.81,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 147.44,
+   "ebitda": 4.36,
+   "pat": 2.94,
+   "margin_pct": 3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 163.46,
+   "ebitda": 4.81,
+   "pat": 2.36,
+   "margin_pct": 2.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 155.99,
+   "ebitda": 4.53,
+   "pat": 2.29,
+   "margin_pct": 2.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 154.69,
+   "ebitda": 1.25,
+   "pat": 0.29,
+   "margin_pct": 0.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 12,
+    "profit": 4,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 193.58,
+   "ebitda": 6.45,
+   "pat": 4.13,
+   "margin_pct": 3.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 83,
+    "profit": 38,
+    "quality": 71
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2025-08-14"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

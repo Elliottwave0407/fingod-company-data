@@ -1,0 +1,105 @@
+{
+ "isin": "INE711A01022",
+ "sym": "WALCHANNAG",
+ "name": "Walchandnagar Industries Limited",
+ "scrip": "507410",
+ "mcap_cr": 1242.48,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 53.08,
+   "ebitda": -47.1,
+   "pat": -56.12,
+   "margin_pct": -88.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 49.43,
+   "ebitda": -2.37,
+   "pat": -10.39,
+   "margin_pct": -4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 51.78,
+   "ebitda": -3.03,
+   "pat": -11.9,
+   "margin_pct": -5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 80.95,
+   "ebitda": 13.94,
+   "pat": 4.66,
+   "margin_pct": 17.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 93.02,
+   "ebitda": 4.83,
+   "pat": 2.94,
+   "margin_pct": 5.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 84,
+    "quality": 41
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 90.83,
+   "ebitda": 7.34,
+   "pat": 1.18,
+   "margin_pct": 8.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 86,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

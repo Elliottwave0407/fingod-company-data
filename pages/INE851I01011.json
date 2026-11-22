@@ -1,0 +1,105 @@
+{
+ "isin": "INE851I01011",
+ "sym": "UDS",
+ "name": "Updater Services Limited",
+ "scrip": "543996",
+ "mcap_cr": 1434.81,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 709.02,
+   "ebitda": 35.7,
+   "pat": 34.19,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 700.24,
+   "ebitda": 39.3,
+   "pat": 28.99,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 767.1,
+   "ebitda": 15.33,
+   "pat": 6.61,
+   "margin_pct": 2.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 742.82,
+   "ebitda": 42.6,
+   "pat": 27.37,
+   "margin_pct": 5.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 46,
+    "profit": 44,
+    "quality": 33
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 764.29,
+   "ebitda": 42.33,
+   "pat": 30.28,
+   "margin_pct": 5.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 39,
+    "profit": 36,
+    "quality": 51
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 812.24,
+   "ebitda": 43.14,
+   "pat": 32.13,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-25",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

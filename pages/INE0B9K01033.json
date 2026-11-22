@@ -1,0 +1,115 @@
+{
+ "isin": "INE0B9K01033",
+ "sym": "BANSALWIRE",
+ "name": "Bansal Wire Industries Limited",
+ "scrip": "544209",
+ "mcap_cr": 4308.42,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 940.2,
+   "ebitda": 71.94,
+   "pat": 33.12,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 939.01,
+   "ebitda": 71.86,
+   "pat": 39.28,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1055.4,
+   "ebitda": 76.78,
+   "pat": 38.32,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1029.02,
+   "ebitda": 83.56,
+   "pat": 43.27,
+   "margin_pct": 8.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1136.36,
+   "ebitda": 75.0,
+   "pat": 40.07,
+   "margin_pct": 6.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 47,
+    "profit": 26,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1167.89,
+   "ebitda": 56.36,
+   "pat": 20.46,
+   "margin_pct": 4.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 36,
+    "profit": 6,
+    "quality": 5
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1308.14,
+   "ebitda": 104.62,
+   "pat": 52.9,
+   "margin_pct": 8.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 73,
+    "profit": 46,
+    "quality": 58
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-10-28"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

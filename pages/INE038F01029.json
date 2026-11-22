@@ -1,0 +1,105 @@
+{
+ "isin": "INE038F01029",
+ "sym": "TVTODAY",
+ "name": "TV Today Network Limited",
+ "scrip": "532515",
+ "mcap_cr": 614.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 249.17,
+   "ebitda": 4.26,
+   "pat": 6.15,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 197.19,
+   "ebitda": 7.53,
+   "pat": 7.35,
+   "margin_pct": 3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 187.55,
+   "ebitda": -4.12,
+   "pat": -1.98,
+   "margin_pct": -2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 212.36,
+   "ebitda": 0.52,
+   "pat": -0.14,
+   "margin_pct": 0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 213.47,
+   "ebitda": 7.28,
+   "pat": 9.02,
+   "margin_pct": 3.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 57,
+    "profit": 52,
+    "quality": 76
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 206.22,
+   "ebitda": 15.79,
+   "pat": 10.26,
+   "margin_pct": 7.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 66,
+    "profit": 75,
+    "quality": 57
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE748C01038",
+ "sym": "3IINFOLTD",
+ "name": "3i Infotech Limited",
+ "scrip": "532628",
+ "mcap_cr": 384.71,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 187.0,
+   "ebitda": 8.35,
+   "pat": 26.9,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 170.55,
+   "ebitda": -3.46,
+   "pat": 7.55,
+   "margin_pct": -2.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 174.89,
+   "ebitda": -5.29,
+   "pat": 18.2,
+   "margin_pct": -3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 172.14,
+   "ebitda": -3.03,
+   "pat": 2.09,
+   "margin_pct": -1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 175.78,
+   "ebitda": -9.63,
+   "pat": 7.27,
+   "margin_pct": -5.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 10,
+    "profit": -4,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 177.94,
+   "ebitda": 5.07,
+   "pat": 6.52,
+   "margin_pct": 2.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 32,
+    "profit": 81,
+    "quality": 45
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 182.01,
+   "ebitda": 3.29,
+   "pat": 6.72,
+   "margin_pct": 1.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 32,
+    "profit": 80,
+    "quality": 40
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 7,
+  "concalls_read": 0,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

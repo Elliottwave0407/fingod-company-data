@@ -1,0 +1,98 @@
+{
+ "isin": "INE691Z01023",
+ "sym": "GANGAFORGE",
+ "name": "Ganga Forging Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 11.53,
+   "ebitda": 1.0,
+   "pat": -0.15,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 7.75,
+   "ebitda": 0.29,
+   "pat": -0.29,
+   "margin_pct": 3.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 8.27,
+   "ebitda": -2.34,
+   "pat": -2.94,
+   "margin_pct": -28.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 8.88,
+   "ebitda": 0.4,
+   "pat": 0.04,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 10.73,
+   "ebitda": -0.09,
+   "pat": -0.46,
+   "margin_pct": -0.8,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 7.18,
+   "ebitda": 1.32,
+   "pat": 1.06,
+   "margin_pct": 18.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 59,
+    "profit": 95,
+    "quality": 84
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

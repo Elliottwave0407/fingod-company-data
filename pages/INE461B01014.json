@@ -1,0 +1,115 @@
+{
+ "isin": "INE461B01014",
+ "sym": "REPRO",
+ "name": "Repro India Limited",
+ "scrip": "532687",
+ "mcap_cr": 431.01,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 123.06,
+   "ebitda": 8.41,
+   "pat": 1.13,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 116.47,
+   "ebitda": 6.91,
+   "pat": -2.73,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 107.78,
+   "ebitda": -10.51,
+   "pat": -20.06,
+   "margin_pct": -9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 130.26,
+   "ebitda": 10.44,
+   "pat": 0.75,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 139.47,
+   "ebitda": 10.83,
+   "pat": -11.27,
+   "margin_pct": 7.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 60,
+    "profit": 48,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 139.91,
+   "ebitda": 171.11,
+   "pat": 128.56,
+   "margin_pct": 122.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 100,
+    "quality": 75
+   },
+   "capped_by": "turnaround from a loss base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 178.62,
+   "ebitda": 4.66,
+   "pat": -4.75,
+   "margin_pct": 2.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 100,
+    "profit": 82,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,97 @@
+{
+ "isin": "INE01P501012",
+ "sym": "XELPMOC",
+ "name": "Xelpmoc Design And Tech Limited",
+ "scrip": "542367",
+ "mcap_cr": 127.78,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.71,
+   "ebitda": -1.69,
+   "pat": -1.86,
+   "margin_pct": -238.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.79,
+   "ebitda": -1.73,
+   "pat": -1.88,
+   "margin_pct": -219.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 0.76,
+   "ebitda": -1.85,
+   "pat": -1.93,
+   "margin_pct": -243.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.12,
+   "ebitda": -2.02,
+   "pat": -2.0,
+   "margin_pct": -180.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1.08,
+   "ebitda": -1.8,
+   "pat": -1.78,
+   "margin_pct": -166.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.96,
+   "ebitda": -1.71,
+   "pat": -2.2,
+   "margin_pct": -178.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-06-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

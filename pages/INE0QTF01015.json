@@ -1,0 +1,105 @@
+{
+ "isin": "INE0QTF01015",
+ "sym": "VSTL",
+ "name": "Vibhor Steel Tubes Limited",
+ "scrip": "544124",
+ "mcap_cr": 192.66,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 288.3,
+   "ebitda": 11.11,
+   "pat": 4.44,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 230.96,
+   "ebitda": 10.17,
+   "pat": 3.14,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 281.76,
+   "ebitda": 9.04,
+   "pat": 1.42,
+   "margin_pct": 3.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 301.5,
+   "ebitda": 8.9,
+   "pat": 1.66,
+   "margin_pct": 3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 335.13,
+   "ebitda": 14.06,
+   "pat": 2.57,
+   "margin_pct": 4.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 61,
+    "profit": 39,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 293.69,
+   "ebitda": 12.07,
+   "pat": 1.93,
+   "margin_pct": 4.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 64,
+    "profit": 32,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 8,
+  "concalls_read": 8,
+  "latest_concall": "2026-08-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE492A01029",
+ "sym": "SUDARCOLOR",
+ "name": "Sudarshan Colorants India Limited",
+ "scrip": "506390",
+ "mcap_cr": 848.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 220.28,
+   "ebitda": 9.0,
+   "pat": 10.65,
+   "margin_pct": 4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 210.72,
+   "ebitda": 24.42,
+   "pat": 17.09,
+   "margin_pct": 11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 183.14,
+   "ebitda": 17.29,
+   "pat": 16.28,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 175.66,
+   "ebitda": -1.49,
+   "pat": -1.98,
+   "margin_pct": -0.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 211.1,
+   "ebitda": 12.74,
+   "pat": 13.15,
+   "margin_pct": 6.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 53,
+    "profit": 56,
+    "quality": 66
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 222.39,
+   "ebitda": 25.59,
+   "pat": 20.36,
+   "margin_pct": 11.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 34,
+    "profit": 40,
+    "quality": 71
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 269.76,
+   "ebitda": 34.48,
+   "pat": 24.13,
+   "margin_pct": 12.8,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 95,
+    "profit": 75,
+    "quality": 79
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE0U4701011",
+ "sym": "DIGITIDE",
+ "name": "Digitide Solutions Limited",
+ "scrip": "544413",
+ "mcap_cr": 881.52,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 732.52,
+   "ebitda": 52.43,
+   "pat": -1.39,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 735.74,
+   "ebitda": 73.71,
+   "pat": 9.69,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 764.19,
+   "ebitda": 71.22,
+   "pat": 2.91,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 780.3,
+   "ebitda": 61.68,
+   "pat": -2.05,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 799.95,
+   "ebitda": 71.78,
+   "pat": -5.0,
+   "margin_pct": 9.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 61,
+    "profit": 57,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 775.07,
+   "ebitda": 76.89,
+   "pat": 2.93,
+   "margin_pct": 9.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 33,
+    "profit": 39,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 7,
+  "concalls_read": 7,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

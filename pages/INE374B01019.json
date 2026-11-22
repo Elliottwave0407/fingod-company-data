@@ -1,0 +1,105 @@
+{
+ "isin": "INE374B01019",
+ "sym": "MUKTAARTS",
+ "name": "Mukta Arts Limited",
+ "scrip": "532357",
+ "mcap_cr": 119.7,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 38.11,
+   "ebitda": -1.13,
+   "pat": -4.2,
+   "margin_pct": -3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 36.73,
+   "ebitda": -1.04,
+   "pat": -6.09,
+   "margin_pct": -2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 45.33,
+   "ebitda": 4.02,
+   "pat": -3.56,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 46.46,
+   "ebitda": 5.26,
+   "pat": -1.46,
+   "margin_pct": 11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 45.39,
+   "ebitda": 1.57,
+   "pat": -0.7,
+   "margin_pct": 3.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 58,
+    "profit": 83,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 40.59,
+   "ebitda": 0.89,
+   "pat": -2.15,
+   "margin_pct": 2.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 43,
+    "profit": 82,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE0D0K01022",
+ "sym": "SIGACHI",
+ "name": "Sigachi Industries Limited",
+ "scrip": "543389",
+ "mcap_cr": 1162.02,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 128.2,
+   "ebitda": 28.55,
+   "pat": 16.17,
+   "margin_pct": 22.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 128.25,
+   "ebitda": -96.9,
+   "pat": -100.97,
+   "margin_pct": -75.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 110.48,
+   "ebitda": 12.19,
+   "pat": 10.53,
+   "margin_pct": 11.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 117.21,
+   "ebitda": 4.99,
+   "pat": -0.02,
+   "margin_pct": 4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 121.9,
+   "ebitda": 15.26,
+   "pat": 7.65,
+   "margin_pct": 12.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 10,
+    "profit": 10,
+    "quality": 17
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 121.27,
+   "ebitda": 16.51,
+   "pat": 8.14,
+   "margin_pct": 13.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 20,
+    "profit": 91,
+    "quality": 32
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 130.46,
+   "ebitda": 19.12,
+   "pat": 8.78,
+   "margin_pct": 14.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 77,
+    "profit": 79,
+    "quality": 19
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

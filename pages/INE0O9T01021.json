@@ -1,0 +1,105 @@
+{
+ "isin": "INE0O9T01021",
+ "sym": "BAJAJINDEF",
+ "name": "Indef Manufacturing Limited",
+ "scrip": "544364",
+ "mcap_cr": 637.92,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 52.98,
+   "ebitda": 10.68,
+   "pat": 10.13,
+   "margin_pct": 20.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 39.71,
+   "ebitda": 3.71,
+   "pat": 5.65,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 49.31,
+   "ebitda": 6.28,
+   "pat": 6.22,
+   "margin_pct": 12.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 50.64,
+   "ebitda": 3.71,
+   "pat": 4.82,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 68.04,
+   "ebitda": 8.93,
+   "pat": 6.7,
+   "margin_pct": 13.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 41,
+    "profit": 10,
+    "quality": 38
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 34.46,
+   "ebitda": -0.98,
+   "pat": 5.48,
+   "margin_pct": -2.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 7,
+    "profit": -2,
+    "quality": 18
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

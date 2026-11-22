@@ -1,0 +1,107 @@
+{
+ "isin": "INE0LQS01015",
+ "sym": "TIPSFILMS",
+ "name": "Tips Films Limited",
+ "scrip": "543614",
+ "mcap_cr": 173.5,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 60.37,
+   "ebitda": -32.08,
+   "pat": -32.71,
+   "margin_pct": -53.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 95.37,
+   "ebitda": 7.08,
+   "pat": 4.74,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 56.49,
+   "ebitda": -15.87,
+   "pat": -14.25,
+   "margin_pct": -28.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 4.06,
+   "ebitda": -3.16,
+   "pat": -2.87,
+   "margin_pct": -77.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 2.36,
+   "ebitda": -3.68,
+   "pat": -3.47,
+   "margin_pct": -155.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 47.96,
+   "ebitda": -29.49,
+   "pat": -29.41,
+   "margin_pct": -61.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -49,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 62.07,
+   "ebitda": -0.58,
+   "pat": -0.54,
+   "margin_pct": -0.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-05-14"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

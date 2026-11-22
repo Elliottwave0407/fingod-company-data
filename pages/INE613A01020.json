@@ -1,0 +1,115 @@
+{
+ "isin": "INE613A01020",
+ "sym": "RALLIS",
+ "name": "Rallis India Limited",
+ "scrip": "500355",
+ "mcap_cr": 3634.62,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 430.0,
+   "ebitda": -19.0,
+   "pat": -32.0,
+   "margin_pct": -4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 957.0,
+   "ebitda": 150.0,
+   "pat": 95.0,
+   "margin_pct": 15.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 861.0,
+   "ebitda": 160.0,
+   "pat": 102.0,
+   "margin_pct": 18.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 623.0,
+   "ebitda": 23.0,
+   "pat": 2.0,
+   "margin_pct": 3.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 456.0,
+   "ebitda": 2.0,
+   "pat": -15.0,
+   "margin_pct": 0.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 35,
+    "profit": 79,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1022.0,
+   "ebitda": 187.0,
+   "pat": 125.0,
+   "margin_pct": 18.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 72,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 858.0,
+   "ebitda": 140.0,
+   "pat": 85.0,
+   "margin_pct": 16.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 21,
+    "quality": 31
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-28"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

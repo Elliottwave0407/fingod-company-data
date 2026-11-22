@@ -1,0 +1,105 @@
+{
+ "isin": "INE863T01013",
+ "sym": "JITFINFRA",
+ "name": "JITF Infralogistics Limited",
+ "scrip": "540311",
+ "mcap_cr": 613.55,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 787.52,
+   "ebitda": 129.42,
+   "pat": 3.98,
+   "margin_pct": 16.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 550.16,
+   "ebitda": 129.99,
+   "pat": -4.71,
+   "margin_pct": 23.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 537.53,
+   "ebitda": 115.7,
+   "pat": -15.99,
+   "margin_pct": 21.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 822.0,
+   "ebitda": 143.22,
+   "pat": 18.6,
+   "margin_pct": 17.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 898.33,
+   "ebitda": 123.63,
+   "pat": -7.84,
+   "margin_pct": 13.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 35,
+    "profit": 15,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 664.03,
+   "ebitda": 117.12,
+   "pat": -2.08,
+   "margin_pct": 17.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 39,
+    "profit": 14,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

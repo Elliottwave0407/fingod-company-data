@@ -1,0 +1,115 @@
+{
+ "isin": "INE270A01029",
+ "sym": "ALOKINDS",
+ "name": "Alok Industries Limited",
+ "scrip": "521070",
+ "mcap_cr": 3927.51,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 952.96,
+   "ebitda": 71.12,
+   "pat": -74.47,
+   "margin_pct": 7.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 932.49,
+   "ebitda": 45.75,
+   "pat": -171.56,
+   "margin_pct": 4.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 941.09,
+   "ebitda": 9.84,
+   "pat": -162.38,
+   "margin_pct": 1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 858.24,
+   "ebitda": 0.21,
+   "pat": -217.63,
+   "margin_pct": 0.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 982.97,
+   "ebitda": 3.78,
+   "pat": -192.54,
+   "margin_pct": 0.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 15,
+    "profit": 0,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 993.11,
+   "ebitda": 74.55,
+   "pat": -138.25,
+   "margin_pct": 7.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 68,
+    "profit": 64,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1077.76,
+   "ebitda": 5.56,
+   "pat": -208.42,
+   "margin_pct": 0.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 25,
+    "profit": 27,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

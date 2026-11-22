@@ -1,0 +1,101 @@
+{
+ "isin": "INE636A01039",
+ "sym": "MAWANASUG",
+ "name": "Mawana Sugars Limited",
+ "scrip": "523371",
+ "mcap_cr": 550.77,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 342.86,
+   "ebitda": 88.83,
+   "pat": 61.67,
+   "margin_pct": 25.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 400.53,
+   "ebitda": -0.59,
+   "pat": -13.54,
+   "margin_pct": -0.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 428.97,
+   "ebitda": -10.13,
+   "pat": -16.13,
+   "margin_pct": -2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 367.03,
+   "ebitda": 12.83,
+   "pat": 3.93,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 374.41,
+   "ebitda": 97.15,
+   "pat": 62.83,
+   "margin_pct": 25.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 41,
+    "profit": 52,
+    "quality": 43
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 415.66,
+   "ebitda": -16.6,
+   "pat": -23.09,
+   "margin_pct": -4.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE836B01017",
+ "sym": "SATIN",
+ "name": "Satin Creditcare Network Limited",
+ "scrip": "539404",
+ "mcap_cr": 2824.19,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 621.06,
+   "ebitda": 288.05,
+   "pat": 21.89,
+   "margin_pct": 46.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 708.58,
+   "ebitda": 356.7,
+   "pat": 45.1,
+   "margin_pct": 50.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 787.89,
+   "ebitda": 414.93,
+   "pat": 53.16,
+   "margin_pct": 52.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 747.47,
+   "ebitda": 385.26,
+   "pat": 71.91,
+   "margin_pct": 51.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 919.5,
+   "ebitda": 599.03,
+   "pat": 162.05,
+   "margin_pct": 65.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 95,
+    "profit": 100,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 762.14,
+   "ebitda": 417.45,
+   "pat": 122.65,
+   "margin_pct": 54.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 46,
+    "profit": 95,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 925.84,
+   "ebitda": 575.26,
+   "pat": 175.9,
+   "margin_pct": 62.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 69,
+    "profit": 100,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

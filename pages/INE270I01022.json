@@ -1,0 +1,115 @@
+{
+ "isin": "INE270I01022",
+ "sym": "VISHNU",
+ "name": "Vishnu Chemicals Limited",
+ "scrip": "516072",
+ "mcap_cr": 3439.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 392.63,
+   "ebitda": 64.06,
+   "pat": 38.94,
+   "margin_pct": 16.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 346.92,
+   "ebitda": 55.72,
+   "pat": 32.22,
+   "margin_pct": 16.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 401.15,
+   "ebitda": 58.2,
+   "pat": 32.88,
+   "margin_pct": 14.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 411.33,
+   "ebitda": 61.74,
+   "pat": 33.76,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 450.31,
+   "ebitda": 76.7,
+   "pat": 43.4,
+   "margin_pct": 17.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 55,
+    "profit": 53,
+    "quality": 44
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 433.41,
+   "ebitda": 65.47,
+   "pat": 39.64,
+   "margin_pct": 15.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 61,
+    "profit": 34,
+    "quality": 57
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 429.53,
+   "ebitda": 64.01,
+   "pat": 35.57,
+   "margin_pct": 14.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 39,
+    "profit": 48,
+    "quality": 41
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

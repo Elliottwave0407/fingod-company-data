@@ -1,0 +1,115 @@
+{
+ "isin": "INE910C01018",
+ "sym": "TTKHLTCARE",
+ "name": "TTK Healthcare Limited",
+ "scrip": "507747",
+ "mcap_cr": 1564.93,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 190.36,
+   "ebitda": 6.14,
+   "pat": 16.15,
+   "margin_pct": 3.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 226.43,
+   "ebitda": 2.67,
+   "pat": 13.0,
+   "margin_pct": 1.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 203.57,
+   "ebitda": 5.34,
+   "pat": 20.39,
+   "margin_pct": 2.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 209.3,
+   "ebitda": -0.44,
+   "pat": 10.53,
+   "margin_pct": -0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 217.98,
+   "ebitda": 14.54,
+   "pat": 21.76,
+   "margin_pct": 6.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 75,
+    "profit": 71,
+    "quality": 72
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 257.56,
+   "ebitda": 14.74,
+   "pat": 21.28,
+   "margin_pct": 5.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 74,
+    "profit": 80,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 233.38,
+   "ebitda": 251.95,
+   "pat": 222.97,
+   "margin_pct": 108.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 75,
+    "profit": 100,
+    "quality": 99
+   },
+   "capped_by": "revenue growth under 20%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

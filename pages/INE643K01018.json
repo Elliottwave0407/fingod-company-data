@@ -1,0 +1,105 @@
+{
+ "isin": "INE643K01018",
+ "sym": "ARIHANTSUP",
+ "name": "Arihant Superstructures Limited",
+ "scrip": "506194",
+ "mcap_cr": 908.9,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 152.57,
+   "ebitda": 22.25,
+   "pat": 11.27,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 120.96,
+   "ebitda": 36.9,
+   "pat": 15.91,
+   "margin_pct": 30.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 122.65,
+   "ebitda": 29.96,
+   "pat": 9.96,
+   "margin_pct": 24.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 126.03,
+   "ebitda": 28.93,
+   "pat": 8.27,
+   "margin_pct": 23.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 180.8,
+   "ebitda": 30.23,
+   "pat": 11.91,
+   "margin_pct": 16.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 69,
+    "profit": 67,
+    "quality": 25
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 131.59,
+   "ebitda": 27.56,
+   "pat": 9.78,
+   "margin_pct": 20.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 22,
+    "profit": 17,
+    "quality": 5
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 8,
+  "concalls_read": 7,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

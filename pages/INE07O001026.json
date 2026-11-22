@@ -1,0 +1,105 @@
+{
+ "isin": "INE07O001026",
+ "sym": "EASEMYTRIP",
+ "name": "Easy Trip Planners Limited",
+ "scrip": "543272",
+ "mcap_cr": 2454.55,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 139.48,
+   "ebitda": 13.52,
+   "pat": 13.9,
+   "margin_pct": 9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 113.79,
+   "ebitda": 0.95,
+   "pat": 0.44,
+   "margin_pct": 0.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 118.34,
+   "ebitda": -46.99,
+   "pat": -36.04,
+   "margin_pct": -39.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 151.66,
+   "ebitda": 4.27,
+   "pat": 3.41,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 151.91,
+   "ebitda": -24.07,
+   "pat": -15.41,
+   "margin_pct": -15.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 20,
+    "profit": -13,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 134.71,
+   "ebitda": -12.89,
+   "pat": -11.69,
+   "margin_pct": -9.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 29,
+    "profit": -8,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2025-02-18"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

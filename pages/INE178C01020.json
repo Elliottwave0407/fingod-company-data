@@ -1,0 +1,115 @@
+{
+ "isin": "INE178C01020",
+ "sym": "SMARTLINK",
+ "name": "Smartlink Holdings Limited",
+ "scrip": "532419",
+ "mcap_cr": 201.4,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 65.43,
+   "ebitda": 0.58,
+   "pat": 3.84,
+   "margin_pct": 0.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 37.02,
+   "ebitda": 0.58,
+   "pat": 2.18,
+   "margin_pct": 1.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 70.27,
+   "ebitda": 1.56,
+   "pat": 1.86,
+   "margin_pct": 2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 62.7,
+   "ebitda": 1.11,
+   "pat": 2.24,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 99.35,
+   "ebitda": 8.68,
+   "pat": 6.87,
+   "margin_pct": 8.7,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 97,
+    "profit": 87,
+    "quality": 91
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 65.27,
+   "ebitda": 4.61,
+   "pat": 5.61,
+   "margin_pct": 7.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 86,
+    "quality": 80
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 80.37,
+   "ebitda": 4.23,
+   "pat": 4.05,
+   "margin_pct": 5.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 75,
+    "profit": 66,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

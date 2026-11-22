@@ -1,0 +1,105 @@
+{
+ "isin": "INE591A01010",
+ "sym": "OILCOUNTUB",
+ "name": "Oil Country Tubular Limited",
+ "scrip": "500313",
+ "mcap_cr": 320.41,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 34.33,
+   "ebitda": 12.33,
+   "pat": -10.54,
+   "margin_pct": 35.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 24.57,
+   "ebitda": 8.79,
+   "pat": -8.81,
+   "margin_pct": 35.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 10.05,
+   "ebitda": -2.31,
+   "pat": -21.57,
+   "margin_pct": -23.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 5.62,
+   "ebitda": -3.93,
+   "pat": -14.73,
+   "margin_pct": -69.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 29.86,
+   "ebitda": 2.04,
+   "pat": -13.64,
+   "margin_pct": 6.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 7,
+    "profit": 5,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 17.44,
+   "ebitda": 1.11,
+   "pat": -15.11,
+   "margin_pct": 6.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 5,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

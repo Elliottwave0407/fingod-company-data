@@ -1,0 +1,105 @@
+{
+ "isin": "INE0S2V01010",
+ "sym": "VRAJ",
+ "name": "Vraj Iron and Steel Limited",
+ "scrip": "544204",
+ "mcap_cr": 428.28,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 153.01,
+   "ebitda": 16.37,
+   "pat": 10.01,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 138.31,
+   "ebitda": 13.22,
+   "pat": 7.59,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 132.98,
+   "ebitda": 13.41,
+   "pat": 7.75,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 146.43,
+   "ebitda": 5.17,
+   "pat": 1.1,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 170.21,
+   "ebitda": 24.91,
+   "pat": 15.57,
+   "margin_pct": 14.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 69,
+    "profit": 82,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 193.83,
+   "ebitda": 19.87,
+   "pat": 11.51,
+   "margin_pct": 10.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 88,
+    "profit": 47,
+    "quality": 70
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

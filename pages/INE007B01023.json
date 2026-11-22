@@ -1,0 +1,115 @@
+{
+ "isin": "INE007B01023",
+ "sym": "GEOJITFSL",
+ "name": "Geojit Financial Services Limited",
+ "scrip": "532285",
+ "mcap_cr": 1980.93,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 176.7,
+   "ebitda": 51.99,
+   "pat": 32.21,
+   "margin_pct": 29.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 153.15,
+   "ebitda": 47.55,
+   "pat": 28.67,
+   "margin_pct": 31.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 169.8,
+   "ebitda": 38.95,
+   "pat": 23.47,
+   "margin_pct": 22.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 160.11,
+   "ebitda": 28.87,
+   "pat": 13.97,
+   "margin_pct": 18.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 188.01,
+   "ebitda": 36.66,
+   "pat": 17.47,
+   "margin_pct": 19.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 18,
+    "profit": 16,
+    "quality": 15
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 160.4,
+   "ebitda": 31.75,
+   "pat": 19.83,
+   "margin_pct": 19.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 17,
+    "profit": 16,
+    "quality": 27
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 165.82,
+   "ebitda": 30.34,
+   "pat": 16.28,
+   "margin_pct": 18.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 15,
+    "quality": 20
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

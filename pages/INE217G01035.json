@@ -1,0 +1,101 @@
+{
+ "isin": "INE217G01035",
+ "sym": "EQUIPPP",
+ "name": "Equippp Social Impact Technologies Limited",
+ "scrip": "590057",
+ "mcap_cr": 220.83,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 5.71,
+   "ebitda": 2.32,
+   "pat": 1.57,
+   "margin_pct": 40.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 9.51,
+   "ebitda": 0.4,
+   "pat": 0.26,
+   "margin_pct": 4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 10.86,
+   "ebitda": 0.45,
+   "pat": 0.22,
+   "margin_pct": 4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 12.05,
+   "ebitda": 0.78,
+   "pat": 0.36,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 12.37,
+   "ebitda": 1.49,
+   "pat": 0.97,
+   "margin_pct": 12.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 10,
+    "quality": 29
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 12.72,
+   "ebitda": 0.56,
+   "pat": 0.3,
+   "margin_pct": 4.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE506A01018",
+ "sym": "DREDGECORP",
+ "name": "Dredging Corporation of India Limited",
+ "scrip": "523618",
+ "mcap_cr": 2290.12,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 462.41,
+   "ebitda": 74.01,
+   "pat": 21.4,
+   "margin_pct": 16.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 242.24,
+   "ebitda": 46.91,
+   "pat": -23.33,
+   "margin_pct": 19.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 211.79,
+   "ebitda": 24.94,
+   "pat": -34.18,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 276.08,
+   "ebitda": 32.88,
+   "pat": -24.63,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 478.23,
+   "ebitda": 142.95,
+   "pat": 86.91,
+   "margin_pct": 29.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 65,
+    "profit": 100,
+    "quality": 76
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 355.43,
+   "ebitda": 61.88,
+   "pat": 11.24,
+   "margin_pct": 17.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 83,
+    "profit": 25,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE192H01020",
+ "sym": "GRMOVER",
+ "name": "GRM Overseas Limited",
+ "scrip": "531449",
+ "mcap_cr": 1706.79,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 291.39,
+   "ebitda": 32.64,
+   "pat": 20.48,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 326.78,
+   "ebitda": 23.96,
+   "pat": 19.09,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 362.43,
+   "ebitda": 14.81,
+   "pat": 14.76,
+   "margin_pct": 4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 482.79,
+   "ebitda": 21.43,
+   "pat": 19.14,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 597.2,
+   "ebitda": 30.1,
+   "pat": 21.61,
+   "margin_pct": 5.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 59,
+    "profit": 4,
+    "quality": 52
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 426.51,
+   "ebitda": 35.53,
+   "pat": 21.04,
+   "margin_pct": 8.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 82,
+    "profit": 49,
+    "quality": 46
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

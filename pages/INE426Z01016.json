@@ -1,0 +1,111 @@
+{
+ "isin": "INE426Z01016",
+ "sym": "OBCL",
+ "name": "OBCL Limited",
+ "scrip": "541206",
+ "mcap_cr": 125.36,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 91.15,
+   "ebitda": 2.44,
+   "pat": -0.67,
+   "margin_pct": 2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 85.22,
+   "ebitda": 2.01,
+   "pat": 1.87,
+   "margin_pct": 2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 86.25,
+   "ebitda": 0.14,
+   "pat": -2.15,
+   "margin_pct": 0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 77.55,
+   "ebitda": 0.73,
+   "pat": -2.39,
+   "margin_pct": 0.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 98.19,
+   "ebitda": -1.83,
+   "pat": -5.16,
+   "margin_pct": -1.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 82.37,
+   "ebitda": 2.45,
+   "pat": 1.21,
+   "margin_pct": 3.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 42,
+    "profit": 41,
+    "quality": 13
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 91.95,
+   "ebitda": 3.4,
+   "pat": 4.25,
+   "margin_pct": 3.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 68,
+    "profit": 69,
+    "quality": 80
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

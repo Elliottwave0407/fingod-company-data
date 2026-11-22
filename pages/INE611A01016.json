@@ -1,0 +1,105 @@
+{
+ "isin": "INE611A01016",
+ "sym": "RSWM",
+ "name": "RSWM Limited",
+ "scrip": "500350",
+ "mcap_cr": 921.31,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1256.22,
+   "ebitda": 71.28,
+   "pat": 1.49,
+   "margin_pct": 5.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1170.31,
+   "ebitda": 72.78,
+   "pat": 8.37,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1151.05,
+   "ebitda": 72.42,
+   "pat": 7.43,
+   "margin_pct": 6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1090.81,
+   "ebitda": 57.98,
+   "pat": 2.38,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1141.96,
+   "ebitda": 69.42,
+   "pat": 33.84,
+   "margin_pct": 6.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 20,
+    "profit": 41,
+    "quality": 52
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1161.24,
+   "ebitda": 90.14,
+   "pat": 19.65,
+   "margin_pct": 7.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 45,
+    "profit": 54,
+    "quality": 50
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

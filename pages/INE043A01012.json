@@ -1,0 +1,105 @@
+{
+ "isin": "INE043A01012",
+ "sym": "GTL",
+ "name": "GTL Limited",
+ "scrip": "500160",
+ "mcap_cr": 107.75,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 69.9,
+   "ebitda": 36.44,
+   "pat": 11.21,
+   "margin_pct": 52.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 55.73,
+   "ebitda": 27.07,
+   "pat": 15.6,
+   "margin_pct": 48.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 55.4,
+   "ebitda": -33.24,
+   "pat": -39.47,
+   "margin_pct": -60.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 55.0,
+   "ebitda": 8.22,
+   "pat": -2.63,
+   "margin_pct": 14.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 58.25,
+   "ebitda": 584.03,
+   "pat": 609.05,
+   "margin_pct": 1002.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 56,
+    "profit": 100,
+    "quality": 100
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 60.02,
+   "ebitda": 332.36,
+   "pat": 322.18,
+   "margin_pct": 553.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 69,
+    "profit": 100,
+    "quality": 100
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

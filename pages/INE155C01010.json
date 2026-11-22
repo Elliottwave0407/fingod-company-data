@@ -1,0 +1,105 @@
+{
+ "isin": "INE155C01010",
+ "sym": "ALBERTDAVD",
+ "name": "Albert David Limited",
+ "scrip": "524075",
+ "mcap_cr": 434.34,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 74.89,
+   "ebitda": -4.75,
+   "pat": -10.33,
+   "margin_pct": -6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 70.57,
+   "ebitda": -10.66,
+   "pat": 7.94,
+   "margin_pct": -15.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 87.24,
+   "ebitda": 2.54,
+   "pat": -3.3,
+   "margin_pct": 2.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 89.93,
+   "ebitda": 10.82,
+   "pat": 15.3,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 85.86,
+   "ebitda": 2.76,
+   "pat": -21.43,
+   "margin_pct": 3.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 50,
+    "profit": 83,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 101.34,
+   "ebitda": 10.64,
+   "pat": 32.0,
+   "margin_pct": 10.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 87,
+    "profit": 88,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE830C01026",
+ "sym": "EMAMIPAP",
+ "name": "Emami Paper Mills Limited",
+ "scrip": "533208",
+ "mcap_cr": 673.35,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 474.95,
+   "ebitda": 31.11,
+   "pat": 3.92,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 459.76,
+   "ebitda": 37.68,
+   "pat": 6.31,
+   "margin_pct": 8.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 450.61,
+   "ebitda": 36.26,
+   "pat": 6.58,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 500.45,
+   "ebitda": 57.47,
+   "pat": 16.99,
+   "margin_pct": 11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 496.41,
+   "ebitda": 63.43,
+   "pat": 31.5,
+   "margin_pct": 12.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 66,
+    "profit": 90,
+    "quality": 66
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 560.16,
+   "ebitda": 82.94,
+   "pat": 38.61,
+   "margin_pct": 14.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 81,
+    "profit": 92,
+    "quality": 64
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 589.78,
+   "ebitda": 92.97,
+   "pat": 44.43,
+   "margin_pct": 15.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 87,
+    "profit": 93,
+    "quality": 65
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

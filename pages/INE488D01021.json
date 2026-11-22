@@ -1,0 +1,105 @@
+{
+ "isin": "INE488D01021",
+ "sym": "AVTNPL",
+ "name": "AVT Natural Products Limited",
+ "scrip": "519105",
+ "mcap_cr": 1554.21,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 156.82,
+   "ebitda": 24.57,
+   "pat": 14.36,
+   "margin_pct": 15.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 132.42,
+   "ebitda": 15.9,
+   "pat": 12.12,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 160.31,
+   "ebitda": 14.86,
+   "pat": 13.29,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 194.01,
+   "ebitda": 23.09,
+   "pat": 17.37,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 226.49,
+   "ebitda": 35.69,
+   "pat": 22.02,
+   "margin_pct": 15.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 88,
+    "profit": 46,
+    "quality": 74
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 241.21,
+   "ebitda": 39.96,
+   "pat": 31.1,
+   "margin_pct": 16.6,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 89,
+    "quality": 90
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

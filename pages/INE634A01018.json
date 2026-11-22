@@ -1,0 +1,105 @@
+{
+ "isin": "INE634A01018",
+ "sym": "HONDAPOWER",
+ "name": "Honda India Power Products Limited",
+ "scrip": "522064",
+ "mcap_cr": 1944.5,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 268.68,
+   "ebitda": 43.4,
+   "pat": 36.16,
+   "margin_pct": 16.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 154.91,
+   "ebitda": 8.44,
+   "pat": 9.48,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 175.61,
+   "ebitda": 11.33,
+   "pat": 11.17,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 270.4,
+   "ebitda": 20.15,
+   "pat": 16.67,
+   "margin_pct": 7.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 264.53,
+   "ebitda": 31.81,
+   "pat": 26.92,
+   "margin_pct": 12.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 13,
+    "profit": 10,
+    "quality": 47
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 189.25,
+   "ebitda": 14.43,
+   "pat": 11.1,
+   "margin_pct": 7.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 81,
+    "profit": 60,
+    "quality": 53
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE275B01026",
+ "sym": "HUHTAMAKI",
+ "name": "Huhtamaki India Limited",
+ "scrip": "509820",
+ "mcap_cr": 1610.13,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 609.93,
+   "ebitda": 39.4,
+   "pat": 26.15,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 612.23,
+   "ebitda": 42.87,
+   "pat": 24.94,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 624.73,
+   "ebitda": 55.48,
+   "pat": 36.77,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 622.52,
+   "ebitda": 54.02,
+   "pat": 30.3,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 613.1,
+   "ebitda": 39.96,
+   "pat": 25.6,
+   "margin_pct": 6.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 27,
+    "profit": 38,
+    "quality": 32
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 750.02,
+   "ebitda": 75.14,
+   "pat": 43.73,
+   "margin_pct": 10.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 82,
+    "profit": 69,
+    "quality": 73
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 768.84,
+   "ebitda": 50.11,
+   "pat": 29.73,
+   "margin_pct": 6.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 41,
+    "profit": 12,
+    "quality": 29
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

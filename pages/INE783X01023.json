@@ -1,0 +1,115 @@
+{
+ "isin": "INE783X01023",
+ "sym": "CHEMFAB",
+ "name": "Chemfab Alkalis Limited",
+ "scrip": "541269",
+ "mcap_cr": 467.36,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 92.32,
+   "ebitda": 3.45,
+   "pat": -9.19,
+   "margin_pct": 3.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 91.54,
+   "ebitda": 11.3,
+   "pat": 2.55,
+   "margin_pct": 12.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 76.56,
+   "ebitda": 5.46,
+   "pat": -2.01,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 68.14,
+   "ebitda": 1.94,
+   "pat": -4.45,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 74.78,
+   "ebitda": 8.52,
+   "pat": 0.48,
+   "margin_pct": 11.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 55,
+    "profit": 89,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 73.16,
+   "ebitda": 10.13,
+   "pat": 5.73,
+   "margin_pct": 13.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 12,
+    "profit": 58,
+    "quality": 58
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 75.61,
+   "ebitda": 7.04,
+   "pat": -2.11,
+   "margin_pct": 9.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 48,
+    "profit": 61,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

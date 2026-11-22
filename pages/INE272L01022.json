@@ -1,0 +1,103 @@
+{
+ "isin": "INE272L01022",
+ "sym": "SURANASOL",
+ "name": "Surana Solar Limited",
+ "scrip": "533298",
+ "mcap_cr": 105.7,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 2.52,
+   "ebitda": -0.99,
+   "pat": -0.71,
+   "margin_pct": -39.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 2.09,
+   "ebitda": -1.81,
+   "pat": 0.12,
+   "margin_pct": -86.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2.58,
+   "ebitda": -2.33,
+   "pat": 0.54,
+   "margin_pct": -90.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 2.56,
+   "ebitda": 0.76,
+   "pat": 0.22,
+   "margin_pct": 29.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 13.61,
+   "ebitda": 0.08,
+   "pat": 0.2,
+   "margin_pct": 0.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 17.15,
+   "ebitda": 0.57,
+   "pat": 5.44,
+   "margin_pct": 3.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 10.23,
+   "ebitda": 1.03,
+   "pat": 0.75,
+   "margin_pct": 10.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE841L01016",
+ "sym": "DEEDEV",
+ "name": "DEE Development Engineers Limited",
+ "scrip": "544198",
+ "mcap_cr": 3863.17,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 286.37,
+   "ebitda": 63.52,
+   "pat": 31.51,
+   "margin_pct": 22.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 223.76,
+   "ebitda": 35.87,
+   "pat": 13.14,
+   "margin_pct": 16.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 270.0,
+   "ebitda": 44.06,
+   "pat": 17.8,
+   "margin_pct": 16.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 286.67,
+   "ebitda": 43.42,
+   "pat": 18.55,
+   "margin_pct": 15.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 361.57,
+   "ebitda": 65.91,
+   "pat": 27.68,
+   "margin_pct": 18.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 15,
+    "quality": 17
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 294.46,
+   "ebitda": 49.74,
+   "pat": 16.08,
+   "margin_pct": 16.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 79,
+    "profit": 54,
+    "quality": 34
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE03CC01015",
+ "sym": "JUBLCPL",
+ "name": "Jubilant Agri and Consumer Products Limited",
+ "scrip": "544355",
+ "mcap_cr": 2698.13,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 398.29,
+   "ebitda": 27.16,
+   "pat": 16.01,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 441.95,
+   "ebitda": 62.08,
+   "pat": 44.13,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 512.95,
+   "ebitda": 63.91,
+   "pat": 42.28,
+   "margin_pct": 12.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 450.99,
+   "ebitda": 35.42,
+   "pat": 21.52,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 485.2,
+   "ebitda": 31.34,
+   "pat": 19.93,
+   "margin_pct": 6.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 57,
+    "profit": 33,
+    "quality": 61
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 523.18,
+   "ebitda": 67.96,
+   "pat": 46.11,
+   "margin_pct": 13.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 49,
+    "profit": 31,
+    "quality": 48
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

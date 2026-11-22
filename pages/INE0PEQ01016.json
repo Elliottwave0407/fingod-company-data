@@ -1,0 +1,105 @@
+{
+ "isin": "INE0PEQ01016",
+ "sym": "RBZJEWEL",
+ "name": "Rbz Jewellers Limited",
+ "scrip": "544060",
+ "mcap_cr": 626.2,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 137.29,
+   "ebitda": 14.6,
+   "pat": 8.57,
+   "margin_pct": 10.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 75.58,
+   "ebitda": 12.98,
+   "pat": 7.12,
+   "margin_pct": 17.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 145.08,
+   "ebitda": 28.2,
+   "pat": 18.56,
+   "margin_pct": 19.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 226.33,
+   "ebitda": 29.52,
+   "pat": 17.43,
+   "margin_pct": 13.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 189.48,
+   "ebitda": 21.15,
+   "pat": 11.68,
+   "margin_pct": 11.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 85,
+    "profit": 46,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 120.8,
+   "ebitda": 17.92,
+   "pat": 9.09,
+   "margin_pct": 14.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 91,
+    "profit": 19,
+    "quality": 52
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 12,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

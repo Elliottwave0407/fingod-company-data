@@ -1,0 +1,98 @@
+{
+ "isin": "INE819L01012",
+ "sym": "ELGIRUBCO",
+ "name": "Elgi Rubber Company Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 97.22,
+   "ebitda": -12.81,
+   "pat": -17.02,
+   "margin_pct": -13.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 85.58,
+   "ebitda": 1.58,
+   "pat": -1.51,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 94.49,
+   "ebitda": 2.27,
+   "pat": -6.01,
+   "margin_pct": 2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 100.09,
+   "ebitda": -23.75,
+   "pat": -28.67,
+   "margin_pct": -23.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 86.34,
+   "ebitda": -196.77,
+   "pat": -204.05,
+   "margin_pct": -227.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 70.09,
+   "ebitda": 45.87,
+   "pat": 40.85,
+   "margin_pct": 65.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 55,
+    "profit": 100,
+    "quality": 98
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

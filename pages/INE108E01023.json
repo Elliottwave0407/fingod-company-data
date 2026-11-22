@@ -1,0 +1,105 @@
+{
+ "isin": "INE108E01023",
+ "sym": "SUNDARAM",
+ "name": "Sundaram Multi Pap Limited",
+ "scrip": "533166",
+ "mcap_cr": 48.81,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 39.65,
+   "ebitda": -1.06,
+   "pat": -0.85,
+   "margin_pct": -2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 40.66,
+   "ebitda": 1.24,
+   "pat": -0.44,
+   "margin_pct": 3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 26.03,
+   "ebitda": 1.79,
+   "pat": 0.83,
+   "margin_pct": 6.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 26.07,
+   "ebitda": 2.27,
+   "pat": 1.62,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 44.35,
+   "ebitda": 0.98,
+   "pat": 1.17,
+   "margin_pct": 2.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 45,
+    "profit": 81,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 49.6,
+   "ebitda": 1.27,
+   "pat": 0.32,
+   "margin_pct": 2.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 46,
+    "profit": 29,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

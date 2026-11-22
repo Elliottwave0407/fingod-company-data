@@ -1,0 +1,105 @@
+{
+ "isin": "INE07RO01027",
+ "sym": "SUPRIYA",
+ "name": "Supriya Lifescience Limited",
+ "scrip": "543434",
+ "mcap_cr": 4991.95,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 184.11,
+   "ebitda": 67.58,
+   "pat": 50.38,
+   "margin_pct": 36.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 145.07,
+   "ebitda": 51.7,
+   "pat": 34.79,
+   "margin_pct": 35.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 199.83,
+   "ebitda": 72.64,
+   "pat": 50.43,
+   "margin_pct": 36.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 206.44,
+   "ebitda": 71.62,
+   "pat": 49.67,
+   "margin_pct": 34.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 276.53,
+   "ebitda": 97.62,
+   "pat": 74.23,
+   "margin_pct": 35.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 90,
+    "profit": 37,
+    "quality": 83
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 189.75,
+   "ebitda": 47.45,
+   "pat": 24.04,
+   "margin_pct": 25.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 46,
+    "profit": 20,
+    "quality": 17
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

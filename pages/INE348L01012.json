@@ -1,0 +1,115 @@
+{
+ "isin": "INE348L01012",
+ "sym": "MASFIN",
+ "name": "MAS Financial Services Limited",
+ "scrip": "540749",
+ "mcap_cr": 4636.13,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 437.63,
+   "ebitda": 313.81,
+   "pat": 83.41,
+   "margin_pct": 71.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 465.98,
+   "ebitda": 333.91,
+   "pat": 86.59,
+   "margin_pct": 71.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 480.23,
+   "ebitda": 346.37,
+   "pat": 91.43,
+   "margin_pct": 72.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 506.75,
+   "ebitda": 358.91,
+   "pat": 93.32,
+   "margin_pct": 70.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 542.47,
+   "ebitda": 372.89,
+   "pat": 104.48,
+   "margin_pct": 68.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 62,
+    "profit": 20,
+    "quality": 34
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 562.46,
+   "ebitda": 386.55,
+   "pat": 110.15,
+   "margin_pct": 68.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 57,
+    "profit": 21,
+    "quality": 35
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 589.43,
+   "ebitda": 406.53,
+   "pat": 115.12,
+   "margin_pct": 69.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 59,
+    "profit": 20,
+    "quality": 34
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

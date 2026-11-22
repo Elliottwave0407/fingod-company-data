@@ -1,0 +1,105 @@
+{
+ "isin": "INE0OAF01028",
+ "sym": "JNKINDIA",
+ "name": "JNK India Limited",
+ "scrip": "544167",
+ "mcap_cr": 1847.04,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 190.94,
+   "ebitda": 18.54,
+   "pat": 13.24,
+   "margin_pct": 9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 99.17,
+   "ebitda": 3.36,
+   "pat": 1.13,
+   "margin_pct": 3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 178.38,
+   "ebitda": 16.51,
+   "pat": 13.02,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 202.63,
+   "ebitda": 25.92,
+   "pat": 18.02,
+   "margin_pct": 12.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 338.44,
+   "ebitda": 46.17,
+   "pat": 33.04,
+   "margin_pct": 13.6,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 81,
+    "quality": 85
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 179.96,
+   "ebitda": 15.89,
+   "pat": 9.62,
+   "margin_pct": 8.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 87,
+    "quality": 60
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

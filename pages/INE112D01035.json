@@ -1,0 +1,115 @@
+{
+ "isin": "INE112D01035",
+ "sym": "MHLXMIRU",
+ "name": "Mahalaxmi Rubtech Limited",
+ "scrip": "514450",
+ "mcap_cr": 189.04,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 22.88,
+   "ebitda": 6.27,
+   "pat": 4.61,
+   "margin_pct": 27.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 25.05,
+   "ebitda": 6.63,
+   "pat": 4.44,
+   "margin_pct": 26.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 29.96,
+   "ebitda": 7.62,
+   "pat": 5.88,
+   "margin_pct": 25.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 27.39,
+   "ebitda": 8.04,
+   "pat": 6.04,
+   "margin_pct": 29.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 29.56,
+   "ebitda": 7.44,
+   "pat": 5.43,
+   "margin_pct": 25.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 65,
+    "profit": 28,
+    "quality": 64
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 31.54,
+   "ebitda": 7.39,
+   "pat": 5.77,
+   "margin_pct": 23.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 56,
+    "profit": 19,
+    "quality": 77
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 33.44,
+   "ebitda": 7.51,
+   "pat": 5.55,
+   "margin_pct": 22.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 34,
+    "profit": 18,
+    "quality": 47
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

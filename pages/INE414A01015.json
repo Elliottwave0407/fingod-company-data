@@ -1,0 +1,105 @@
+{
+ "isin": "INE414A01015",
+ "sym": "MADRASFERT",
+ "name": "Madras Fertilizers Limited",
+ "scrip": "590134",
+ "mcap_cr": 945.99,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 554.76,
+   "ebitda": -61.11,
+   "pat": -52.44,
+   "margin_pct": -11.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 672.37,
+   "ebitda": 64.97,
+   "pat": 44.06,
+   "margin_pct": 9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 510.37,
+   "ebitda": 12.25,
+   "pat": 12.95,
+   "margin_pct": 2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 418.69,
+   "ebitda": -2.87,
+   "pat": 2.52,
+   "margin_pct": -0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 699.21,
+   "ebitda": 27.44,
+   "pat": 20.89,
+   "margin_pct": 3.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 68,
+    "profit": 83,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 814.01,
+   "ebitda": 52.6,
+   "pat": 34.59,
+   "margin_pct": 6.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 35,
+    "profit": 5,
+    "quality": 33
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,101 @@
+{
+ "isin": "INE681C01015",
+ "sym": "KEYFINSERV",
+ "name": "Keynote Financial Services Limited",
+ "scrip": "512597",
+ "mcap_cr": 115.51,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": -1.8,
+   "ebitda": -9.07,
+   "pat": -7.69,
+   "margin_pct": 503.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 15.67,
+   "ebitda": 11.85,
+   "pat": 12.56,
+   "margin_pct": 75.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": -1.59,
+   "ebitda": -5.8,
+   "pat": -0.91,
+   "margin_pct": 364.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 12.46,
+   "ebitda": 7.59,
+   "pat": 4.49,
+   "margin_pct": 60.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.07,
+   "ebitda": -5.81,
+   "pat": -9.48,
+   "margin_pct": -8300.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 19.38,
+   "ebitda": 15.44,
+   "pat": 11.58,
+   "margin_pct": 79.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 69,
+    "profit": 91,
+    "quality": 47
+   },
+   "capped_by": "profit down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

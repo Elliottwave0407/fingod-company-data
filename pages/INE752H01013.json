@@ -1,0 +1,115 @@
+{
+ "isin": "INE752H01013",
+ "sym": "CARERATING",
+ "name": "CARE Ratings Limited",
+ "scrip": "534804",
+ "mcap_cr": 4729.61,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 109.65,
+   "ebitda": 47.38,
+   "pat": 43.37,
+   "margin_pct": 43.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 93.91,
+   "ebitda": 27.74,
+   "pat": 26.5,
+   "margin_pct": 29.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 136.37,
+   "ebitda": 68.4,
+   "pat": 57.21,
+   "margin_pct": 50.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 112.12,
+   "ebitda": 40.34,
+   "pat": 36.54,
+   "margin_pct": 36.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 130.67,
+   "ebitda": 60.76,
+   "pat": 53.45,
+   "margin_pct": 46.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 65,
+    "profit": 84,
+    "quality": 80
+   },
+   "capped_by": "profit growth under 25%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 111.68,
+   "ebitda": 34.63,
+   "pat": 32.99,
+   "margin_pct": 31.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 62,
+    "profit": 67,
+    "quality": 83
+   },
+   "capped_by": "profit growth under 25%"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 164.13,
+   "ebitda": 84.61,
+   "pat": 72.37,
+   "margin_pct": 51.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 63,
+    "profit": 66,
+    "quality": 81
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 3,
+  "concalls_read": 0,
+  "latest_concall": "2026-05-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

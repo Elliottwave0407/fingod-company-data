@@ -1,0 +1,105 @@
+{
+ "isin": "INE425B01027",
+ "sym": "BCG",
+ "name": "Brightcom Group Limited",
+ "scrip": "532368",
+ "mcap_cr": 1781.83,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 987.49,
+   "ebitda": 256.31,
+   "pat": 120.68,
+   "margin_pct": 26.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1455.49,
+   "ebitda": 379.89,
+   "pat": 210.87,
+   "margin_pct": 26.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1643.98,
+   "ebitda": 421.75,
+   "pat": 233.03,
+   "margin_pct": 25.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 2231.94,
+   "ebitda": 527.46,
+   "pat": 310.6,
+   "margin_pct": 23.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1596.64,
+   "ebitda": 423.12,
+   "pat": 207.83,
+   "margin_pct": 26.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 57,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1752.18,
+   "ebitda": 469.42,
+   "pat": 261.58,
+   "margin_pct": 26.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 63,
+    "profit": 59,
+    "quality": 54
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

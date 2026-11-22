@@ -1,0 +1,105 @@
+{
+ "isin": "INE925R01014",
+ "sym": "CMSINFO",
+ "name": "CMS Info Systems Limited",
+ "scrip": "543441",
+ "mcap_cr": 3263.69,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 619.07,
+   "ebitda": 162.08,
+   "pat": 97.56,
+   "margin_pct": 26.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 627.4,
+   "ebitda": 157.87,
+   "pat": 93.58,
+   "margin_pct": 25.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 608.62,
+   "ebitda": 137.42,
+   "pat": 73.35,
+   "margin_pct": 22.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 618.22,
+   "ebitda": 128.51,
+   "pat": 57.4,
+   "margin_pct": 20.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 632.93,
+   "ebitda": 163.05,
+   "pat": 79.06,
+   "margin_pct": 25.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 27,
+    "profit": 48,
+    "quality": 20
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 634.7,
+   "ebitda": 168.85,
+   "pat": 83.68,
+   "margin_pct": 26.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 32,
+    "profit": 66,
+    "quality": 24
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-18"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

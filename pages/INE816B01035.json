@@ -1,0 +1,105 @@
+{
+ "isin": "INE816B01035",
+ "sym": "FILATEX",
+ "name": "Filatex India Limited",
+ "scrip": "526227",
+ "mcap_cr": 4909.95,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1080.02,
+   "ebitda": 75.69,
+   "pat": 41.09,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1049.4,
+   "ebitda": 77.73,
+   "pat": 40.66,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1075.93,
+   "ebitda": 88.93,
+   "pat": 47.55,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1049.7,
+   "ebitda": 93.39,
+   "pat": 54.96,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 985.49,
+   "ebitda": 86.18,
+   "pat": 40.08,
+   "margin_pct": 8.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 56,
+    "quality": 25
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1145.3,
+   "ebitda": 77.47,
+   "pat": 48.52,
+   "margin_pct": 6.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 31,
+    "quality": 57
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,98 @@
+{
+ "isin": "INE112X01025",
+ "sym": "SIKKO",
+ "name": "Sikko Industries Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 18.85,
+   "ebitda": -1.23,
+   "pat": -0.88,
+   "margin_pct": -6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 18.1,
+   "ebitda": 3.18,
+   "pat": 2.18,
+   "margin_pct": 17.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 19.2,
+   "ebitda": 3.89,
+   "pat": 2.85,
+   "margin_pct": 20.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 16.72,
+   "ebitda": 2.73,
+   "pat": 2.08,
+   "margin_pct": 16.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 10.99,
+   "ebitda": -3.44,
+   "pat": -2.01,
+   "margin_pct": -31.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 17.69,
+   "ebitda": 4.57,
+   "pat": 3.13,
+   "margin_pct": 25.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 55,
+    "profit": 100,
+    "quality": 76
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

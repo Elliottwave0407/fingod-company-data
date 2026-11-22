@@ -1,0 +1,105 @@
+{
+ "isin": "INE255D01024",
+ "sym": "GULPOLY",
+ "name": "Gulshan Polyols Limited",
+ "scrip": "532457",
+ "mcap_cr": 962.38,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 514.88,
+   "ebitda": 28.88,
+   "pat": 7.01,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 593.23,
+   "ebitda": 36.58,
+   "pat": 13.14,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 541.72,
+   "ebitda": 41.85,
+   "pat": 15.75,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 626.65,
+   "ebitda": 85.14,
+   "pat": 40.9,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 550.82,
+   "ebitda": 66.1,
+   "pat": 37.54,
+   "margin_pct": 12.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 68,
+    "profit": 90,
+    "quality": 72
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 639.87,
+   "ebitda": 84.93,
+   "pat": 53.51,
+   "margin_pct": 13.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 69,
+    "profit": 91,
+    "quality": 78
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 7,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

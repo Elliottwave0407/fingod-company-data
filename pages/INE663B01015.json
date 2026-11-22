@@ -1,0 +1,115 @@
+{
+ "isin": "INE663B01015",
+ "sym": "CONTROLPR",
+ "name": "Control Print Limited",
+ "scrip": "522295",
+ "mcap_cr": 975.89,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 122.07,
+   "ebitda": 22.11,
+   "pat": 66.64,
+   "margin_pct": 18.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 111.28,
+   "ebitda": 22.57,
+   "pat": 8.56,
+   "margin_pct": 20.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 111.96,
+   "ebitda": 26.0,
+   "pat": 18.59,
+   "margin_pct": 23.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 118.84,
+   "ebitda": 17.83,
+   "pat": 5.26,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 139.87,
+   "ebitda": 26.27,
+   "pat": 11.19,
+   "margin_pct": 18.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 54,
+    "profit": 54,
+    "quality": 10
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 115.56,
+   "ebitda": 15.3,
+   "pat": 3.92,
+   "margin_pct": 13.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 16,
+    "profit": 11,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 144.22,
+   "ebitda": 28.7,
+   "pat": 13.13,
+   "margin_pct": 19.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 57,
+    "profit": 16,
+    "quality": 13
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

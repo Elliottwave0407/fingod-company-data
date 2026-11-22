@@ -1,0 +1,115 @@
+{
+ "isin": "INE903D01011",
+ "sym": "MONARCH",
+ "name": "Monarch Networth Capital Limited",
+ "scrip": "511551",
+ "mcap_cr": 2696.88,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 60.97,
+   "ebitda": 38.17,
+   "pat": 24.71,
+   "margin_pct": 62.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 97.98,
+   "ebitda": 62.59,
+   "pat": 45.25,
+   "margin_pct": 63.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 83.12,
+   "ebitda": 63.77,
+   "pat": 44.97,
+   "margin_pct": 76.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 91.2,
+   "ebitda": 63.59,
+   "pat": 45.41,
+   "margin_pct": 69.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 99.87,
+   "ebitda": 67.86,
+   "pat": 45.56,
+   "margin_pct": 67.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 81
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 90.89,
+   "ebitda": 59.99,
+   "pat": 45.18,
+   "margin_pct": 66.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 20,
+    "profit": 73,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 123.14,
+   "ebitda": 76.92,
+   "pat": 56.56,
+   "margin_pct": 62.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 76,
+    "profit": 20,
+    "quality": 70
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

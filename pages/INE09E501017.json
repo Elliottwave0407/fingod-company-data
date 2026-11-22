@@ -1,0 +1,97 @@
+{
+ "isin": "INE09E501017",
+ "sym": "RVHL",
+ "name": "Ravinder Heights Limited",
+ "scrip": "543251",
+ "mcap_cr": 248.06,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.14,
+   "ebitda": -1.95,
+   "pat": -0.91,
+   "margin_pct": -1392.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.13,
+   "ebitda": -1.94,
+   "pat": -0.52,
+   "margin_pct": -1492.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 55.01,
+   "ebitda": 52.35,
+   "pat": 39.87,
+   "margin_pct": 95.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 20.01,
+   "ebitda": 16.24,
+   "pat": 12.48,
+   "margin_pct": 81.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.01,
+   "ebitda": -4.23,
+   "pat": -2.94,
+   "margin_pct": -42300.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.01,
+   "ebitda": -2.99,
+   "pat": -1.69,
+   "margin_pct": -29900.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

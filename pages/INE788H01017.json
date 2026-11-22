@@ -1,0 +1,105 @@
+{
+ "isin": "INE788H01017",
+ "sym": "HILTON",
+ "name": "Hilton Metal Forging Limited",
+ "scrip": "532847",
+ "mcap_cr": 77.15,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 44.97,
+   "ebitda": 2.3,
+   "pat": 4.53,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 22.05,
+   "ebitda": 1.87,
+   "pat": 0.15,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 87.64,
+   "ebitda": 3.4,
+   "pat": 1.74,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 69.84,
+   "ebitda": 3.46,
+   "pat": 1.42,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 50.84,
+   "ebitda": 2.55,
+   "pat": 0.14,
+   "margin_pct": 5.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 46,
+    "profit": 35,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 58.96,
+   "ebitda": 4.08,
+   "pat": 1.81,
+   "margin_pct": 6.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 21,
+    "quality": 62
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE760F01028",
+ "sym": "INDOAMIN",
+ "name": "Indo Amines Limited",
+ "scrip": "524648",
+ "mcap_cr": 812.98,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 285.41,
+   "ebitda": 24.82,
+   "pat": 11.85,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 287.59,
+   "ebitda": 31.31,
+   "pat": 28.84,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 277.05,
+   "ebitda": 31.97,
+   "pat": 18.11,
+   "margin_pct": 11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 277.42,
+   "ebitda": 25.27,
+   "pat": 11.87,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 317.61,
+   "ebitda": 34.22,
+   "pat": 20.51,
+   "margin_pct": 10.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 63,
+    "profit": 61,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 374.64,
+   "ebitda": 52.81,
+   "pat": 30.76,
+   "margin_pct": 14.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 87,
+    "profit": 75,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE351A01035",
+ "sym": "UNICHEMLAB",
+ "name": "Unichem Laboratories Limited",
+ "scrip": "506690",
+ "mcap_cr": 3305.9,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 587.18,
+   "ebitda": 83.7,
+   "pat": 52.97,
+   "margin_pct": 14.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 526.6,
+   "ebitda": 22.49,
+   "pat": -10.47,
+   "margin_pct": 4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 578.96,
+   "ebitda": 7.92,
+   "pat": -11.89,
+   "margin_pct": 1.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 521.17,
+   "ebitda": 320.3,
+   "pat": 264.29,
+   "margin_pct": 61.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 575.12,
+   "ebitda": 35.32,
+   "pat": 10.91,
+   "margin_pct": 6.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 12,
+    "profit": 5,
+    "quality": 1
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 632.62,
+   "ebitda": 69.94,
+   "pat": 41.47,
+   "margin_pct": 11.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 89,
+    "quality": 49
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

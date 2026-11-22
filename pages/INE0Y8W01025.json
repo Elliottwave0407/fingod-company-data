@@ -1,0 +1,101 @@
+{
+ "isin": "INE0Y8W01025",
+ "sym": "AHCL",
+ "name": "Anlon Healthcare Limited",
+ "scrip": "544497",
+ "mcap_cr": 1336.23,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 33.3,
+   "ebitda": 6.24,
+   "pat": 3.55,
+   "margin_pct": 18.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 52.2,
+   "ebitda": 13.74,
+   "pat": 9.32,
+   "margin_pct": 26.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 35.58,
+   "ebitda": 12.34,
+   "pat": 5.15,
+   "margin_pct": 34.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 50.89,
+   "ebitda": 15.29,
+   "pat": 11.07,
+   "margin_pct": 30.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 87.56,
+   "ebitda": 15.59,
+   "pat": 8.28,
+   "margin_pct": 17.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 36,
+    "quality": 69
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 105.61,
+   "ebitda": 25.23,
+   "pat": 17.18,
+   "margin_pct": 23.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 25,
+    "quality": 82
+   },
+   "capped_by": "margin down over 2 pts YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

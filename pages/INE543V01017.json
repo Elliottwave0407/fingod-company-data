@@ -1,0 +1,94 @@
+{
+ "isin": "INE543V01017",
+ "sym": "ACEINTEG",
+ "name": "Ace Integrated Solutions Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1.44,
+   "ebitda": -2.1,
+   "pat": -1.38,
+   "margin_pct": -145.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.44,
+   "ebitda": -0.45,
+   "pat": -0.3,
+   "margin_pct": -102.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 0.17,
+   "ebitda": -0.35,
+   "pat": -0.04,
+   "margin_pct": -205.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.11,
+   "ebitda": -0.39,
+   "pat": -0.27,
+   "margin_pct": -354.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.09,
+   "ebitda": -0.41,
+   "pat": -0.34,
+   "margin_pct": -455.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.13,
+   "ebitda": -0.28,
+   "pat": -0.2,
+   "margin_pct": -215.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

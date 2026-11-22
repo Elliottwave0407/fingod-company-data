@@ -1,0 +1,115 @@
+{
+ "isin": "INE411U01027",
+ "sym": "BAJAJHCARE",
+ "name": "Bajaj Healthcare Limited",
+ "scrip": "539872",
+ "mcap_cr": 1077.45,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 154.47,
+   "ebitda": 11.76,
+   "pat": 11.18,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 148.84,
+   "ebitda": 24.52,
+   "pat": 11.83,
+   "margin_pct": 16.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 147.91,
+   "ebitda": 26.95,
+   "pat": 11.11,
+   "margin_pct": 18.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 161.22,
+   "ebitda": 30.67,
+   "pat": 15.67,
+   "margin_pct": 19.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 153.06,
+   "ebitda": -10.57,
+   "pat": -22.85,
+   "margin_pct": -6.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 12,
+    "profit": -6,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 165.63,
+   "ebitda": 28.75,
+   "pat": 13.7,
+   "margin_pct": 17.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 50,
+    "profit": 55,
+    "quality": 41
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 175.9,
+   "ebitda": 31.22,
+   "pat": 14.09,
+   "margin_pct": 17.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 55,
+    "profit": 41,
+    "quality": 47
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2026-10-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE083C01022",
+ "sym": "PLASTIBLEN",
+ "name": "Plastiblends India Limited",
+ "scrip": "523648",
+ "mcap_cr": 444.42,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 199.16,
+   "ebitda": 14.44,
+   "pat": 9.57,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 199.63,
+   "ebitda": 13.48,
+   "pat": 8.92,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 192.61,
+   "ebitda": 10.86,
+   "pat": 7.44,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 185.8,
+   "ebitda": 9.68,
+   "pat": 6.47,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 210.62,
+   "ebitda": 19.0,
+   "pat": 13.86,
+   "margin_pct": 9.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 55,
+    "profit": 57,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 221.61,
+   "ebitda": 21.98,
+   "pat": 14.95,
+   "margin_pct": 9.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 72,
+    "profit": 71,
+    "quality": 82
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 228.84,
+   "ebitda": 16.14,
+   "pat": 10.65,
+   "margin_pct": 7.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 74,
+    "profit": 52,
+    "quality": 73
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

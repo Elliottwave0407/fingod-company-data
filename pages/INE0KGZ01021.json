@@ -1,0 +1,105 @@
+{
+ "isin": "INE0KGZ01021",
+ "sym": "SIGNPOST",
+ "name": "Signpost India Limited",
+ "scrip": "544117",
+ "mcap_cr": 1198.62,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 110.84,
+   "ebitda": 12.38,
+   "pat": 0.96,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 137.65,
+   "ebitda": 31.76,
+   "pat": 15.27,
+   "margin_pct": 23.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 134.02,
+   "ebitda": 34.44,
+   "pat": 15.7,
+   "margin_pct": 25.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 142.34,
+   "ebitda": 37.88,
+   "pat": 18.14,
+   "margin_pct": 26.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 161.92,
+   "ebitda": 42.54,
+   "pat": 21.1,
+   "margin_pct": 26.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 94,
+    "profit": 100,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 152.26,
+   "ebitda": 34.31,
+   "pat": 18.66,
+   "margin_pct": 22.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 41,
+    "profit": 44,
+    "quality": 52
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

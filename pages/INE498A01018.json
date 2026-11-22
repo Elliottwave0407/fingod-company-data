@@ -1,0 +1,105 @@
+{
+ "isin": "INE498A01018",
+ "sym": "DCM",
+ "name": "DCM  Limited",
+ "scrip": "502820",
+ "mcap_cr": 131.02,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 16.63,
+   "ebitda": -0.29,
+   "pat": 7.73,
+   "margin_pct": -1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 17.61,
+   "ebitda": 1.27,
+   "pat": 3.24,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 17.62,
+   "ebitda": -0.2,
+   "pat": 1.45,
+   "margin_pct": -1.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 17.68,
+   "ebitda": -0.53,
+   "pat": -0.3,
+   "margin_pct": -3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 18.87,
+   "ebitda": -0.94,
+   "pat": -3.09,
+   "margin_pct": -5.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 48,
+    "profit": -4,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 20.21,
+   "ebitda": 1.73,
+   "pat": 1.58,
+   "margin_pct": 8.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 66,
+    "profit": 52,
+    "quality": 40
+   },
+   "capped_by": "profit down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE818B01023",
+ "sym": "PASUPTAC",
+ "name": "Pasupati Acrylon Limited",
+ "scrip": "500456",
+ "mcap_cr": 620.9,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 168.32,
+   "ebitda": 13.98,
+   "pat": 11.27,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 216.05,
+   "ebitda": 6.02,
+   "pat": 1.75,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 280.25,
+   "ebitda": 27.15,
+   "pat": 16.2,
+   "margin_pct": 9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 269.23,
+   "ebitda": 38.63,
+   "pat": 25.69,
+   "margin_pct": 14.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 244.63,
+   "ebitda": 38.75,
+   "pat": 26.28,
+   "margin_pct": 15.8,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 94,
+    "profit": 93,
+    "quality": 82
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 238.26,
+   "ebitda": 39.03,
+   "pat": 27.39,
+   "margin_pct": 16.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 71,
+    "profit": 93,
+    "quality": 83
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

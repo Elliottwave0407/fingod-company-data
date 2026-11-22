@@ -1,0 +1,105 @@
+{
+ "isin": "INE058B01018",
+ "sym": "ZENITHEXPO",
+ "name": "Zenith Exports Limited",
+ "scrip": "512553",
+ "mcap_cr": 96.59,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 20.89,
+   "ebitda": 3.24,
+   "pat": 3.0,
+   "margin_pct": 15.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 17.9,
+   "ebitda": 1.29,
+   "pat": 1.4,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 19.51,
+   "ebitda": 0.2,
+   "pat": 0.84,
+   "margin_pct": 1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 14.17,
+   "ebitda": -0.22,
+   "pat": 0.17,
+   "margin_pct": -1.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 13.1,
+   "ebitda": -1.14,
+   "pat": -0.12,
+   "margin_pct": -8.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -7,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 13.49,
+   "ebitda": -1.34,
+   "pat": -0.6,
+   "margin_pct": -9.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 2,
+    "profit": -8,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

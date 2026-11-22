@@ -1,0 +1,115 @@
+{
+ "isin": "INE276G01015",
+ "sym": "ASIANENE",
+ "name": "Asian Energy Services Limited",
+ "scrip": "530355",
+ "mcap_cr": 1775.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 215.44,
+   "ebitda": 31.48,
+   "pat": 22.55,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 115.37,
+   "ebitda": 11.46,
+   "pat": 5.63,
+   "margin_pct": 9.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 102.0,
+   "ebitda": 2.5,
+   "pat": -3.03,
+   "margin_pct": 2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 235.45,
+   "ebitda": 27.96,
+   "pat": 17.53,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 338.23,
+   "ebitda": 44.96,
+   "pat": 32.65,
+   "margin_pct": 13.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 92,
+    "profit": 29,
+    "quality": 79
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 271.19,
+   "ebitda": 21.14,
+   "pat": 12.76,
+   "margin_pct": 7.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 15,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 266.67,
+   "ebitda": 31.34,
+   "pat": 17.07,
+   "margin_pct": 11.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 89,
+    "quality": 41
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 6,
+  "concalls_read": 5,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

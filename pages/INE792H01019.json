@@ -1,0 +1,105 @@
+{
+ "isin": "INE792H01019",
+ "sym": "GLOBALVECT",
+ "name": "Global Vectra Helicorp Limited",
+ "scrip": "532773",
+ "mcap_cr": 172.9,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 134.94,
+   "ebitda": 7.91,
+   "pat": 12.63,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 129.35,
+   "ebitda": 9.33,
+   "pat": -9.43,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 117.62,
+   "ebitda": 5.96,
+   "pat": -6.16,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 146.93,
+   "ebitda": 13.53,
+   "pat": -11.11,
+   "margin_pct": 9.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 127.51,
+   "ebitda": -6.69,
+   "pat": -5.59,
+   "margin_pct": -5.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 10,
+    "profit": -4,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 130.71,
+   "ebitda": 11.58,
+   "pat": -11.85,
+   "margin_pct": 8.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 46,
+    "profit": 56,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

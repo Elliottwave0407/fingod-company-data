@@ -1,0 +1,105 @@
+{
+ "isin": "INE607D01018",
+ "sym": "ORIENTBELL",
+ "name": "Orient Bell Limited",
+ "scrip": "530365",
+ "mcap_cr": 533.01,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 198.22,
+   "ebitda": 9.17,
+   "pat": 2.75,
+   "margin_pct": 4.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 142.9,
+   "ebitda": 4.98,
+   "pat": -0.37,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 165.09,
+   "ebitda": 9.27,
+   "pat": 3.19,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 168.81,
+   "ebitda": 10.25,
+   "pat": 3.39,
+   "margin_pct": 6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 214.64,
+   "ebitda": 13.73,
+   "pat": 6.22,
+   "margin_pct": 6.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 65,
+    "profit": 55,
+    "quality": 63
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 203.82,
+   "ebitda": 16.59,
+   "pat": 8.32,
+   "margin_pct": 8.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 93,
+    "profit": 83,
+    "quality": 34
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

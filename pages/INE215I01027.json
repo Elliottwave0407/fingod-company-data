@@ -1,0 +1,105 @@
+{
+ "isin": "INE215I01027",
+ "sym": "MAANALU",
+ "name": "Maan Aluminium Limited",
+ "scrip": "532906",
+ "mcap_cr": 574.95,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 245.86,
+   "ebitda": 7.7,
+   "pat": 3.94,
+   "margin_pct": 3.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 211.19,
+   "ebitda": 4.94,
+   "pat": 2.73,
+   "margin_pct": 2.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 191.08,
+   "ebitda": 7.96,
+   "pat": 5.77,
+   "margin_pct": 4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 151.87,
+   "ebitda": 5.55,
+   "pat": 2.83,
+   "margin_pct": 3.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 254.57,
+   "ebitda": 1.64,
+   "pat": 1.7,
+   "margin_pct": 0.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 16,
+    "profit": 6,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 231.86,
+   "ebitda": 5.37,
+   "pat": 3.73,
+   "margin_pct": 2.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 41,
+    "profit": 34,
+    "quality": 74
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-08-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

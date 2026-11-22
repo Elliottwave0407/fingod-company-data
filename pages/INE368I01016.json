@@ -1,0 +1,105 @@
+{
+ "isin": "INE368I01016",
+ "sym": "NIRAJ",
+ "name": "Niraj Cement Structurals Limited",
+ "scrip": "532986",
+ "mcap_cr": 161.12,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 167.03,
+   "ebitda": 9.14,
+   "pat": 8.47,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 94.54,
+   "ebitda": -0.97,
+   "pat": 1.0,
+   "margin_pct": -1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 171.74,
+   "ebitda": 9.64,
+   "pat": 8.81,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 139.88,
+   "ebitda": 6.33,
+   "pat": 5.67,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 135.86,
+   "ebitda": 4.4,
+   "pat": 5.65,
+   "margin_pct": 3.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 5,
+    "profit": 11,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 104.54,
+   "ebitda": 1.17,
+   "pat": 3.57,
+   "margin_pct": 1.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 43,
+    "profit": 54,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

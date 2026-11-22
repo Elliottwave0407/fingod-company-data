@@ -1,0 +1,105 @@
+{
+ "isin": "INE043C01018",
+ "sym": "IVP",
+ "name": "IVP Limited",
+ "scrip": "507580",
+ "mcap_cr": 178.39,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 149.36,
+   "ebitda": 7.77,
+   "pat": 3.83,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 138.19,
+   "ebitda": 4.25,
+   "pat": 1.19,
+   "margin_pct": 3.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 146.95,
+   "ebitda": 8.1,
+   "pat": 4.0,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 144.97,
+   "ebitda": 8.19,
+   "pat": 4.63,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 164.44,
+   "ebitda": 13.7,
+   "pat": 8.86,
+   "margin_pct": 8.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 71,
+    "profit": 69,
+    "quality": 79
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 154.73,
+   "ebitda": 20.59,
+   "pat": 14.02,
+   "margin_pct": 13.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 73,
+    "profit": 91,
+    "quality": 82
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

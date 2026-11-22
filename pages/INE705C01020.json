@@ -1,0 +1,105 @@
+{
+ "isin": "INE705C01020",
+ "sym": "SHIVATEX",
+ "name": "Shiva Texyarn Limited",
+ "scrip": "511108",
+ "mcap_cr": 198.59,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 91.58,
+   "ebitda": 8.97,
+   "pat": 6.17,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 76.18,
+   "ebitda": 9.02,
+   "pat": 2.46,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 105.05,
+   "ebitda": 13.36,
+   "pat": 5.82,
+   "margin_pct": 12.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 76.42,
+   "ebitda": 9.23,
+   "pat": 1.63,
+   "margin_pct": 12.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 82.87,
+   "ebitda": 2.46,
+   "pat": 0.31,
+   "margin_pct": 3.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 9,
+    "profit": 2,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 73.81,
+   "ebitda": 7.24,
+   "pat": 1.86,
+   "margin_pct": 9.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 15,
+    "profit": 18,
+    "quality": 2
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE287B01021",
+ "sym": "SUBROS",
+ "name": "Subros Limited",
+ "scrip": "517168",
+ "mcap_cr": 4180.96,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 908.46,
+   "ebitda": 92.76,
+   "pat": 46.2,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 878.25,
+   "ebitda": 82.01,
+   "pat": 40.83,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 879.83,
+   "ebitda": 68.47,
+   "pat": 40.74,
+   "margin_pct": 7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 947.68,
+   "ebitda": 73.35,
+   "pat": 34.75,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1049.76,
+   "ebitda": 92.37,
+   "pat": 49.33,
+   "margin_pct": 8.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 38,
+    "profit": 24,
+    "quality": 38
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1032.11,
+   "ebitda": 80.8,
+   "pat": 41.52,
+   "margin_pct": 7.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 40,
+    "profit": 22,
+    "quality": 32
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 0,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

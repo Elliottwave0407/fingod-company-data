@@ -1,0 +1,101 @@
+{
+ "isin": "INE871L01013",
+ "sym": "TVVISION",
+ "name": "TV Vision Limited",
+ "scrip": "540083",
+ "mcap_cr": 8.95,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 9.08,
+   "ebitda": -4.32,
+   "pat": -7.86,
+   "margin_pct": -47.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 7.57,
+   "ebitda": -1.35,
+   "pat": -5.19,
+   "margin_pct": -17.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 5.94,
+   "ebitda": -6.26,
+   "pat": -9.99,
+   "margin_pct": -105.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.48,
+   "ebitda": -2.29,
+   "pat": -6.01,
+   "margin_pct": -477.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.15,
+   "ebitda": -9.59,
+   "pat": -13.29,
+   "margin_pct": -6393.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.24,
+   "ebitda": 0.02,
+   "pat": -3.64,
+   "margin_pct": 8.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 87,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

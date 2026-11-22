@@ -1,0 +1,105 @@
+{
+ "isin": "INE073V01015",
+ "sym": "COMSYN",
+ "name": "Commercial Syn Bags Limited",
+ "scrip": "539986",
+ "mcap_cr": 1079.64,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 97.79,
+   "ebitda": 11.38,
+   "pat": 8.07,
+   "margin_pct": 11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 90.51,
+   "ebitda": 11.02,
+   "pat": 5.55,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 98.45,
+   "ebitda": 13.0,
+   "pat": 8.42,
+   "margin_pct": 13.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 97.48,
+   "ebitda": 12.09,
+   "pat": 6.0,
+   "margin_pct": 12.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 100.56,
+   "ebitda": 11.9,
+   "pat": 6.34,
+   "margin_pct": 11.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 31,
+    "profit": 43,
+    "quality": 23
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 109.13,
+   "ebitda": 15.68,
+   "pat": 8.93,
+   "margin_pct": 14.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 73,
+    "profit": 65,
+    "quality": 72
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

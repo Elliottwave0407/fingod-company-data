@@ -1,0 +1,105 @@
+{
+ "isin": "INE977Y01011",
+ "sym": "BCONCEPTS",
+ "name": "Brand Concepts Limited",
+ "scrip": "543442",
+ "mcap_cr": 161.02,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 65.91,
+   "ebitda": 6.85,
+   "pat": 1.31,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 71.69,
+   "ebitda": 3.0,
+   "pat": -2.72,
+   "margin_pct": 4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 97.62,
+   "ebitda": 10.99,
+   "pat": 2.34,
+   "margin_pct": 11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 88.33,
+   "ebitda": 5.74,
+   "pat": 0.64,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 90.42,
+   "ebitda": 8.18,
+   "pat": 0.88,
+   "margin_pct": 9.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 70,
+    "profit": 25,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 79.57,
+   "ebitda": 4.26,
+   "pat": -2.83,
+   "margin_pct": 5.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 65,
+    "profit": 48,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-08-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

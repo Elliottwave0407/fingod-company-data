@@ -1,0 +1,97 @@
+{
+ "isin": "INE538A01037",
+ "sym": "GFLLIMITED",
+ "name": "GFL Limited",
+ "scrip": "500173",
+ "mcap_cr": 659.32,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.84,
+   "ebitda": 0.37,
+   "pat": -18.29,
+   "margin_pct": 44.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.92,
+   "ebitda": 0.51,
+   "pat": -8.16,
+   "margin_pct": 55.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 0.92,
+   "ebitda": 0.53,
+   "pat": 14.62,
+   "margin_pct": 57.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.94,
+   "ebitda": 0.53,
+   "pat": 13.0,
+   "margin_pct": 56.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.9,
+   "ebitda": 0.17,
+   "pat": 25.55,
+   "margin_pct": 18.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1.03,
+   "ebitda": 0.3,
+   "pat": 7.43,
+   "margin_pct": 29.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

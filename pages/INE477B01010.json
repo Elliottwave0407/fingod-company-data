@@ -1,0 +1,101 @@
+{
+ "isin": "INE477B01010",
+ "sym": "DVL",
+ "name": "Dhunseri Ventures Limited",
+ "scrip": "523736",
+ "mcap_cr": 1079.81,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 68.44,
+   "ebitda": -49.28,
+   "pat": -42.12,
+   "margin_pct": -72.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 173.48,
+   "ebitda": 83.47,
+   "pat": 70.81,
+   "margin_pct": 48.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 81.9,
+   "ebitda": -44.36,
+   "pat": -13.27,
+   "margin_pct": -54.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 71.68,
+   "ebitda": -42.3,
+   "pat": 6.04,
+   "margin_pct": -59.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 70.96,
+   "ebitda": -60.65,
+   "pat": 24.36,
+   "margin_pct": -85.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 231.59,
+   "ebitda": 91.04,
+   "pat": 174.29,
+   "margin_pct": 39.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 59,
+    "profit": 20,
+    "quality": 100
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

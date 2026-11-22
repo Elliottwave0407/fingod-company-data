@@ -1,0 +1,115 @@
+{
+ "isin": "INE128A01029",
+ "sym": "EVEREADY",
+ "name": "Eveready Industries India Limited",
+ "scrip": "531508",
+ "mcap_cr": 2353.61,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 299.04,
+   "ebitda": 25.61,
+   "pat": 10.42,
+   "margin_pct": 8.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 374.14,
+   "ebitda": 46.61,
+   "pat": 30.23,
+   "margin_pct": 12.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 386.78,
+   "ebitda": 11.42,
+   "pat": -7.91,
+   "margin_pct": 3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 367.24,
+   "ebitda": 23.61,
+   "pat": 7.45,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 327.23,
+   "ebitda": 130.71,
+   "pat": 141.76,
+   "margin_pct": 39.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 71,
+    "profit": 100,
+    "quality": 100
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 407.71,
+   "ebitda": 61.21,
+   "pat": 36.97,
+   "margin_pct": 15.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 58,
+    "profit": 69,
+    "quality": 57
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 428.24,
+   "ebitda": 50.49,
+   "pat": 31.92,
+   "margin_pct": 11.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 72,
+    "profit": 89,
+    "quality": 55
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

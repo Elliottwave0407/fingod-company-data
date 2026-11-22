@@ -1,0 +1,115 @@
+{
+ "isin": "INE142Z01019",
+ "sym": "ORIENTELEC",
+ "name": "Orient Electric Limited",
+ "scrip": "541301",
+ "mcap_cr": 4292.92,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 861.85,
+   "ebitda": 66.82,
+   "pat": 31.26,
+   "margin_pct": 7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 769.08,
+   "ebitda": 46.08,
+   "pat": 17.52,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 702.61,
+   "ebitda": 37.93,
+   "pat": 12.06,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 906.45,
+   "ebitda": 59.02,
+   "pat": 25.98,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 948.25,
+   "ebitda": 75.87,
+   "pat": 40.28,
+   "margin_pct": 8.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 45,
+    "profit": 41,
+    "quality": 55
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 949.76,
+   "ebitda": 62.64,
+   "pat": 31.49,
+   "margin_pct": 6.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 73,
+    "profit": 43,
+    "quality": 67
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 879.34,
+   "ebitda": 56.79,
+   "pat": 27.06,
+   "margin_pct": 6.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 79,
+    "profit": 48,
+    "quality": 65
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-22"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

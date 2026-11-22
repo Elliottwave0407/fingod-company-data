@@ -1,0 +1,105 @@
+{
+ "isin": "INE335A01020",
+ "sym": "SURYAROSNI",
+ "name": "Surya Roshni Limited",
+ "scrip": "500336",
+ "mcap_cr": 4628.03,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 2145.83,
+   "ebitda": 202.41,
+   "pat": 130.09,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1604.52,
+   "ebitda": 69.78,
+   "pat": 33.63,
+   "margin_pct": 4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1845.16,
+   "ebitda": 118.26,
+   "pat": 74.19,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1927.49,
+   "ebitda": 144.97,
+   "pat": 79.69,
+   "margin_pct": 7.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 2163.25,
+   "ebitda": 154.41,
+   "pat": 98.3,
+   "margin_pct": 7.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 16,
+    "profit": 13,
+    "quality": 30
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2046.48,
+   "ebitda": 112.3,
+   "pat": 59.6,
+   "margin_pct": 5.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 85,
+    "profit": 48,
+    "quality": 69
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,93 @@
+{
+ "isin": "INE0URU01010",
+ "sym": "GLOBALE",
+ "name": "Globale Tessile Limited",
+ "scrip": "544234",
+ "mcap_cr": 10.04,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 1.04,
+   "ebitda": -0.33,
+   "pat": -0.36,
+   "margin_pct": -31.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2.75,
+   "ebitda": -0.2,
+   "pat": -0.26,
+   "margin_pct": -7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 2.59,
+   "ebitda": -0.31,
+   "pat": -0.37,
+   "margin_pct": -12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 8.06,
+   "ebitda": -0.63,
+   "pat": -0.41,
+   "margin_pct": -7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 11.22,
+   "ebitda": -0.06,
+   "pat": -0.12,
+   "margin_pct": -0.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 14.39,
+   "ebitda": 0.5,
+   "pat": 0.34,
+   "margin_pct": 3.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

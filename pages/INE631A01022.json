@@ -1,0 +1,115 @@
+{
+ "isin": "INE631A01022",
+ "sym": "SHANTIGEAR",
+ "name": "Shanthi Gears Limited",
+ "scrip": "522034",
+ "mcap_cr": 3821.98,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 153.21,
+   "ebitda": 30.97,
+   "pat": 22.46,
+   "margin_pct": 20.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 134.89,
+   "ebitda": 30.51,
+   "pat": 22.69,
+   "margin_pct": 22.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 131.91,
+   "ebitda": 26.52,
+   "pat": 21.51,
+   "margin_pct": 20.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 116.82,
+   "ebitda": 21.43,
+   "pat": 16.19,
+   "margin_pct": 18.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 135.1,
+   "ebitda": 20.67,
+   "pat": 16.27,
+   "margin_pct": 15.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 8,
+    "profit": 12,
+    "quality": 42
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 115.49,
+   "ebitda": 15.18,
+   "pat": 9.85,
+   "margin_pct": 13.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 7,
+    "profit": 11,
+    "quality": 29
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 127.99,
+   "ebitda": 22.7,
+   "pat": 15.71,
+   "margin_pct": 17.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 18,
+    "profit": 21,
+    "quality": 34
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

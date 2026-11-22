@@ -1,0 +1,107 @@
+{
+ "isin": "INE236Y01012",
+ "sym": "NGIL",
+ "name": "Nakoda Group of Industries Limited",
+ "scrip": "541418",
+ "mcap_cr": 72.08,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 13.98,
+   "ebitda": -2.44,
+   "pat": -2.44,
+   "margin_pct": -17.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 6.92,
+   "ebitda": 0.84,
+   "pat": 0.16,
+   "margin_pct": 12.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 14.79,
+   "ebitda": 1.04,
+   "pat": 0.25,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 10.65,
+   "ebitda": 1.07,
+   "pat": 0.35,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 11.1,
+   "ebitda": 1.84,
+   "pat": 0.74,
+   "margin_pct": 16.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 8,
+    "profit": 93,
+    "quality": 17
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 8.31,
+   "ebitda": 1.01,
+   "pat": 0.29,
+   "margin_pct": 12.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 10.59,
+   "ebitda": 1.2,
+   "pat": 0.43,
+   "margin_pct": 11.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2025-11-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE00U401027",
+ "sym": "UNIECOM",
+ "name": "Unicommerce Esolutions Limited",
+ "scrip": "544227",
+ "mcap_cr": 912.63,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 45.27,
+   "ebitda": 8.25,
+   "pat": 3.35,
+   "margin_pct": 18.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 44.93,
+   "ebitda": 8.4,
+   "pat": 3.89,
+   "margin_pct": 18.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 51.38,
+   "ebitda": 9.14,
+   "pat": 5.78,
+   "margin_pct": 17.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 56.39,
+   "ebitda": 10.95,
+   "pat": 7.79,
+   "margin_pct": 19.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 51.63,
+   "ebitda": 6.94,
+   "pat": 3.4,
+   "margin_pct": 13.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 31,
+    "profit": 11,
+    "quality": 30
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 51.37,
+   "ebitda": 5.46,
+   "pat": 4.67,
+   "margin_pct": 10.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": 9,
+    "quality": 76
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 59.08,
+   "ebitda": 8.59,
+   "pat": 6.39,
+   "margin_pct": 14.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 35,
+    "profit": 12,
+    "quality": 58
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

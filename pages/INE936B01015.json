@@ -1,0 +1,105 @@
+{
+ "isin": "INE936B01015",
+ "sym": "NATCAPSUQ",
+ "name": "Natural Capsules Limited",
+ "scrip": "524654",
+ "mcap_cr": 130.61,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 44.97,
+   "ebitda": 4.39,
+   "pat": 0.52,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 45.2,
+   "ebitda": 0.32,
+   "pat": -5.58,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 45.8,
+   "ebitda": -0.88,
+   "pat": -6.99,
+   "margin_pct": -1.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 37.75,
+   "ebitda": -2.32,
+   "pat": -7.12,
+   "margin_pct": -6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 58.45,
+   "ebitda": 1.33,
+   "pat": -4.98,
+   "margin_pct": 2.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 37,
+    "profit": 2,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 48.71,
+   "ebitda": 1.12,
+   "pat": -5.74,
+   "margin_pct": 2.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 69,
+    "profit": 50,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-06-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

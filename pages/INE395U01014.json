@@ -1,0 +1,115 @@
+{
+ "isin": "INE395U01014",
+ "sym": "NINSYS",
+ "name": "Nintec Systems Limited",
+ "scrip": "539843",
+ "mcap_cr": 1763.23,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 37.85,
+   "ebitda": 8.33,
+   "pat": 7.35,
+   "margin_pct": 22.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 38.83,
+   "ebitda": 8.43,
+   "pat": 7.65,
+   "margin_pct": 21.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 41.69,
+   "ebitda": 10.24,
+   "pat": 7.87,
+   "margin_pct": 24.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 43.28,
+   "ebitda": 11.05,
+   "pat": 7.75,
+   "margin_pct": 25.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 46.37,
+   "ebitda": 13.95,
+   "pat": 8.74,
+   "margin_pct": 30.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 82,
+    "profit": 100,
+    "quality": 56
+   },
+   "capped_by": "profit growth under 25%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 45.86,
+   "ebitda": 11.88,
+   "pat": 9.2,
+   "margin_pct": 25.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 71,
+    "profit": 92,
+    "quality": 70
+   },
+   "capped_by": "profit growth under 25%"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 48.2,
+   "ebitda": 13.15,
+   "pat": 10.57,
+   "margin_pct": 27.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 62,
+    "profit": 79,
+    "quality": 82
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-06-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

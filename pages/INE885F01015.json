@@ -1,0 +1,100 @@
+{
+ "isin": "INE885F01015",
+ "sym": "MASKINVEST",
+ "name": "Mask Investments Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": -0.02,
+   "ebitda": 0.01,
+   "pat": 0.0,
+   "margin_pct": -50.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.03,
+   "ebitda": -0.04,
+   "pat": -0.04,
+   "margin_pct": -133.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 0.03,
+   "ebitda": 0.0,
+   "pat": -0.0,
+   "margin_pct": 0.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.13,
+   "ebitda": 0.05,
+   "pat": 0.05,
+   "margin_pct": 38.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.02,
+   "ebitda": -0.04,
+   "pat": 0.06,
+   "margin_pct": -200.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.02,
+   "ebitda": -0.02,
+   "pat": -0.02,
+   "margin_pct": -100.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 0.03,
+   "ebitda": 0.01,
+   "pat": 0.01,
+   "margin_pct": 33.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

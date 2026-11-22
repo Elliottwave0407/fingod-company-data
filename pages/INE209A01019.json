@@ -1,0 +1,105 @@
+{
+ "isin": "INE209A01019",
+ "sym": "SUNDROP",
+ "name": "Sundrop Brands Limited",
+ "scrip": "500215",
+ "mcap_cr": 2284.43,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 303.87,
+   "ebitda": -143.33,
+   "pat": -114.05,
+   "margin_pct": -47.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 372.12,
+   "ebitda": 13.66,
+   "pat": 4.31,
+   "margin_pct": 3.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 383.3,
+   "ebitda": 3.92,
+   "pat": -2.09,
+   "margin_pct": 1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 407.47,
+   "ebitda": 20.34,
+   "pat": 8.06,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 386.55,
+   "ebitda": 21.18,
+   "pat": 9.85,
+   "margin_pct": 5.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 70,
+    "profit": 84,
+    "quality": 28
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 428.08,
+   "ebitda": 25.02,
+   "pat": 12.13,
+   "margin_pct": 5.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 76,
+    "profit": 58,
+    "quality": 65
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 8,
+  "concalls_read": 8,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

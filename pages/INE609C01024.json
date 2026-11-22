@@ -1,0 +1,101 @@
+{
+ "isin": "INE609C01024",
+ "sym": "ORIENTLTD",
+ "name": "Orient Press Limited",
+ "scrip": "526325",
+ "mcap_cr": 69.1,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 34.89,
+   "ebitda": 0.02,
+   "pat": -0.52,
+   "margin_pct": 0.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 26.25,
+   "ebitda": 0.71,
+   "pat": -0.79,
+   "margin_pct": 2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 37.61,
+   "ebitda": -0.21,
+   "pat": -0.76,
+   "margin_pct": -0.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 31.99,
+   "ebitda": 1.53,
+   "pat": 0.08,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 32.3,
+   "ebitda": 2.01,
+   "pat": 0.3,
+   "margin_pct": 6.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 59,
+    "profit": 85,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 21.53,
+   "ebitda": -0.19,
+   "pat": -1.25,
+   "margin_pct": -0.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

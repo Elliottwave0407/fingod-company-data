@@ -1,0 +1,105 @@
+{
+ "isin": "INE08KJ01020",
+ "sym": "MUFIN",
+ "name": "Mufin Green Finance Limited",
+ "scrip": "542774",
+ "mcap_cr": 2719.33,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 49.62,
+   "ebitda": 28.06,
+   "pat": 3.45,
+   "margin_pct": 56.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 48.93,
+   "ebitda": 30.45,
+   "pat": 3.14,
+   "margin_pct": 62.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 53.48,
+   "ebitda": 34.53,
+   "pat": 5.59,
+   "margin_pct": 64.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 55.93,
+   "ebitda": 41.2,
+   "pat": 7.01,
+   "margin_pct": 73.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 64.67,
+   "ebitda": 52.97,
+   "pat": 11.09,
+   "margin_pct": 81.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 87,
+    "profit": 100,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 76.86,
+   "ebitda": 60.43,
+   "pat": 14.01,
+   "margin_pct": 78.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 99,
+    "profit": 100,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

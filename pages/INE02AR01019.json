@@ -1,0 +1,105 @@
+{
+ "isin": "INE02AR01019",
+ "sym": "ANMOL",
+ "name": "Anmol India Limited",
+ "scrip": "542437",
+ "mcap_cr": 62.04,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 314.23,
+   "ebitda": 4.45,
+   "pat": 1.6,
+   "margin_pct": 1.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 577.36,
+   "ebitda": 10.15,
+   "pat": 5.72,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 228.29,
+   "ebitda": 0.97,
+   "pat": 0.07,
+   "margin_pct": 0.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 303.16,
+   "ebitda": 5.14,
+   "pat": 2.94,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 308.51,
+   "ebitda": 2.8,
+   "pat": 2.51,
+   "margin_pct": 0.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 12,
+    "profit": 27,
+    "quality": 79
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 455.72,
+   "ebitda": 9.88,
+   "pat": 6.0,
+   "margin_pct": 2.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 38,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

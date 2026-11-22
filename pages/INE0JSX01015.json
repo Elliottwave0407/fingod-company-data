@@ -1,0 +1,101 @@
+{
+ "isin": "INE0JSX01015",
+ "sym": "GSLSU",
+ "name": "Global Surfaces Limited",
+ "scrip": "543829",
+ "mcap_cr": 95.36,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 57.47,
+   "ebitda": -1.92,
+   "pat": -11.02,
+   "margin_pct": -3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 74.5,
+   "ebitda": 7.95,
+   "pat": -0.57,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 54.08,
+   "ebitda": -3.56,
+   "pat": -4.55,
+   "margin_pct": -6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 59.27,
+   "ebitda": 3.24,
+   "pat": -3.33,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 45.39,
+   "ebitda": -18.97,
+   "pat": -23.38,
+   "margin_pct": -41.8,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 65.42,
+   "ebitda": 8.33,
+   "pat": 0.06,
+   "margin_pct": 12.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 24,
+    "profit": 63,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

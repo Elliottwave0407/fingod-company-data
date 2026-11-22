@@ -1,0 +1,115 @@
+{
+ "isin": "INE229A01017",
+ "sym": "ONWARDTEC",
+ "name": "Onward Technologies Limited",
+ "scrip": "517536",
+ "mcap_cr": 734.01,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 127.29,
+   "ebitda": 13.85,
+   "pat": 10.41,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 133.15,
+   "ebitda": 17.13,
+   "pat": 12.73,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 138.97,
+   "ebitda": 19.87,
+   "pat": 11.94,
+   "margin_pct": 14.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 134.62,
+   "ebitda": 16.37,
+   "pat": 10.1,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 137.12,
+   "ebitda": 15.3,
+   "pat": 9.55,
+   "margin_pct": 11.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 40,
+    "profit": 44,
+    "quality": 36
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 149.43,
+   "ebitda": 18.37,
+   "pat": 11.17,
+   "margin_pct": 12.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 42,
+    "profit": 36,
+    "quality": 33
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 170.18,
+   "ebitda": 26.53,
+   "pat": 16.77,
+   "margin_pct": 15.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 71,
+    "profit": 57,
+    "quality": 70
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-26"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

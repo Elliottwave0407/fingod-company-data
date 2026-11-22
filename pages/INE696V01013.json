@@ -1,0 +1,102 @@
+{
+ "isin": "INE696V01013",
+ "sym": "JAIPURKURT",
+ "name": "Nandani Creation Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 19.78,
+   "ebitda": 1.77,
+   "pat": 0.68,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 27.16,
+   "ebitda": 2.12,
+   "pat": 0.72,
+   "margin_pct": 7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 28.35,
+   "ebitda": 1.95,
+   "pat": 0.28,
+   "margin_pct": 6.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 26.87,
+   "ebitda": 1.8,
+   "pat": 0.23,
+   "margin_pct": 6.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 30.27,
+   "ebitda": 2.82,
+   "pat": 0.75,
+   "margin_pct": 9.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 97,
+    "profit": 43,
+    "quality": 21
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 33.91,
+   "ebitda": 2.51,
+   "pat": 0.68,
+   "margin_pct": 7.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 62,
+    "profit": 34,
+    "quality": 10
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

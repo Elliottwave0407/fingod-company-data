@@ -1,0 +1,105 @@
+{
+ "isin": "INE186A01019",
+ "sym": "GUJALKALI",
+ "name": "Gujarat Alkalies and Chemicals Limited",
+ "scrip": "530001",
+ "mcap_cr": 4349.3,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1075.47,
+   "ebitda": 113.75,
+   "pat": 8.82,
+   "margin_pct": 10.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1105.12,
+   "ebitda": 116.62,
+   "pat": -13.78,
+   "margin_pct": 10.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1083.19,
+   "ebitda": 73.9,
+   "pat": 16.34,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1044.46,
+   "ebitda": 104.8,
+   "pat": -19.95,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1125.31,
+   "ebitda": 109.89,
+   "pat": 14.98,
+   "margin_pct": 9.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 28,
+    "profit": 31,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1244.91,
+   "ebitda": 221.68,
+   "pat": 54.98,
+   "margin_pct": 17.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 73,
+    "profit": 94,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

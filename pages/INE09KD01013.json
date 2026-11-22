@@ -1,0 +1,105 @@
+{
+ "isin": "INE09KD01013",
+ "sym": "ATAM",
+ "name": "Atam Valves Limited",
+ "scrip": "543236",
+ "mcap_cr": 57.21,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 14.71,
+   "ebitda": 3.31,
+   "pat": 2.13,
+   "margin_pct": 22.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 12.37,
+   "ebitda": 2.08,
+   "pat": 1.24,
+   "margin_pct": 16.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 11.41,
+   "ebitda": 1.6,
+   "pat": 0.9,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 10.41,
+   "ebitda": -0.35,
+   "pat": -0.58,
+   "margin_pct": -3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 13.1,
+   "ebitda": 1.6,
+   "pat": 0.86,
+   "margin_pct": 12.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 8,
+    "profit": 10,
+    "quality": 20
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 12.29,
+   "ebitda": 1.08,
+   "pat": 0.64,
+   "margin_pct": 8.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 12,
+    "profit": 7,
+    "quality": 24
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 3,
+  "concalls_read": 2,
+  "latest_concall": "2024-07-22"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

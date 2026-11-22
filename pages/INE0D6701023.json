@@ -1,0 +1,105 @@
+{
+ "isin": "INE0D6701023",
+ "sym": "IPL",
+ "name": "India Pesticides Limited",
+ "scrip": "543311",
+ "mcap_cr": 1382.54,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 207.24,
+   "ebitda": 31.74,
+   "pat": 21.77,
+   "margin_pct": 15.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 275.18,
+   "ebitda": 45.2,
+   "pat": 34.91,
+   "margin_pct": 16.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 290.36,
+   "ebitda": 48.79,
+   "pat": 31.61,
+   "margin_pct": 16.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 225.39,
+   "ebitda": 37.7,
+   "pat": 22.69,
+   "margin_pct": 16.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 266.49,
+   "ebitda": 41.83,
+   "pat": 30.61,
+   "margin_pct": 15.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 74,
+    "profit": 48,
+    "quality": 78
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 251.76,
+   "ebitda": 35.47,
+   "pat": 22.77,
+   "margin_pct": 14.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 12,
+    "profit": 18,
+    "quality": 28
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

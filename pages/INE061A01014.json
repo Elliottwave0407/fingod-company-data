@@ -1,0 +1,105 @@
+{
+ "isin": "INE061A01014",
+ "sym": "INDIANCARD",
+ "name": "Indian Card Clothing Company Limited",
+ "scrip": "509692",
+ "mcap_cr": 107.09,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 10.22,
+   "ebitda": 7.23,
+   "pat": 17.48,
+   "margin_pct": 70.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 9.65,
+   "ebitda": -2.86,
+   "pat": 2.29,
+   "margin_pct": -29.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 10.73,
+   "ebitda": -3.35,
+   "pat": 5.41,
+   "margin_pct": -31.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 10.41,
+   "ebitda": -3.34,
+   "pat": -0.61,
+   "margin_pct": -32.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 11.24,
+   "ebitda": -4.8,
+   "pat": -3.38,
+   "margin_pct": -42.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 21,
+    "profit": -34,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 9.78,
+   "ebitda": -3.04,
+   "pat": 4.56,
+   "margin_pct": -31.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 27,
+    "profit": -8,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

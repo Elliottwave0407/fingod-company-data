@@ -1,0 +1,105 @@
+{
+ "isin": "INE966A01022",
+ "sym": "DOLATALGO",
+ "name": "Dolat Algotech Limited",
+ "scrip": "505526",
+ "mcap_cr": 1129.39,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 113.91,
+   "ebitda": 68.6,
+   "pat": 39.79,
+   "margin_pct": 60.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 110.6,
+   "ebitda": 64.98,
+   "pat": 38.93,
+   "margin_pct": 58.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 58.92,
+   "ebitda": 20.09,
+   "pat": 4.59,
+   "margin_pct": 34.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 108.17,
+   "ebitda": 65.49,
+   "pat": 38.99,
+   "margin_pct": 60.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 125.89,
+   "ebitda": 76.38,
+   "pat": 46.81,
+   "margin_pct": 60.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 44,
+    "profit": 56,
+    "quality": 54
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 140.4,
+   "ebitda": 84.25,
+   "pat": 53.87,
+   "margin_pct": 60.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 71,
+    "profit": 65,
+    "quality": 70
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

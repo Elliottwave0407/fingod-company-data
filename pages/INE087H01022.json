@@ -1,0 +1,111 @@
+{
+ "isin": "INE087H01022",
+ "sym": "RENUKA",
+ "name": "Shree Renuka Sugars Limited",
+ "scrip": "532670",
+ "mcap_cr": 3767.43,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 2691.3,
+   "ebitda": 291.8,
+   "pat": 93.1,
+   "margin_pct": 10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 2010.2,
+   "ebitda": -86.1,
+   "pat": -263.6,
+   "margin_pct": -4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2422.8,
+   "ebitda": -182.2,
+   "pat": -369.3,
+   "margin_pct": -7.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 2273.4,
+   "ebitda": 248.9,
+   "pat": -38.1,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 2548.5,
+   "ebitda": 38.7,
+   "pat": -121.4,
+   "margin_pct": 1.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 10,
+    "profit": 1,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2120.2,
+   "ebitda": -76.3,
+   "pat": -251.5,
+   "margin_pct": -3.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1905.0,
+   "ebitda": 29.6,
+   "pat": -193.9,
+   "margin_pct": 1.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 7,
+    "profit": 81,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

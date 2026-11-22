@@ -1,0 +1,105 @@
+{
+ "isin": "INE500L01026",
+ "sym": "SHK",
+ "name": "S H Kelkar and Company Limited",
+ "scrip": "539450",
+ "mcap_cr": 1757.25,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 567.38,
+   "ebitda": 132.75,
+   "pat": 102.51,
+   "margin_pct": 23.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 580.63,
+   "ebitda": 75.12,
+   "pat": 25.55,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 553.89,
+   "ebitda": 53.41,
+   "pat": 9.17,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 583.8,
+   "ebitda": 89.16,
+   "pat": 32.63,
+   "margin_pct": 15.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 649.94,
+   "ebitda": 60.03,
+   "pat": 1.8,
+   "margin_pct": 9.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 25,
+    "profit": 7,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 662.42,
+   "ebitda": 118.61,
+   "pat": 45.43,
+   "margin_pct": 17.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 74,
+    "profit": 94,
+    "quality": 57
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

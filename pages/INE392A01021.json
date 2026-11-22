@@ -1,0 +1,105 @@
+{
+ "isin": "INE392A01021",
+ "sym": "VISAKAIND",
+ "name": "Visaka Industries Limited",
+ "scrip": "509055",
+ "mcap_cr": 734.87,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 425.85,
+   "ebitda": 44.5,
+   "pat": 14.57,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 505.53,
+   "ebitda": 87.87,
+   "pat": 52.14,
+   "margin_pct": 17.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 325.03,
+   "ebitda": 11.75,
+   "pat": -8.72,
+   "margin_pct": 3.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 367.55,
+   "ebitda": 25.63,
+   "pat": 1.92,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 479.75,
+   "ebitda": 73.84,
+   "pat": 40.02,
+   "margin_pct": 15.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 73,
+    "profit": 92,
+    "quality": 70
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 590.07,
+   "ebitda": 91.37,
+   "pat": 52.68,
+   "margin_pct": 15.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 43,
+    "profit": 24,
+    "quality": 36
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

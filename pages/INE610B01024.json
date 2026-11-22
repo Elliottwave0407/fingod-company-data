@@ -1,0 +1,101 @@
+{
+ "isin": "INE610B01024",
+ "sym": "GUJRAFFIA",
+ "name": "Gujarat Raffia Industries Limited",
+ "scrip": "523836",
+ "mcap_cr": 21.46,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 7.96,
+   "ebitda": 0.13,
+   "pat": 0.1,
+   "margin_pct": 1.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 11.52,
+   "ebitda": 1.16,
+   "pat": 0.34,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 26.11,
+   "ebitda": 0.71,
+   "pat": 0.19,
+   "margin_pct": 2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 23.9,
+   "ebitda": 0.33,
+   "pat": 0.11,
+   "margin_pct": 1.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 26.99,
+   "ebitda": 0.77,
+   "pat": 0.41,
+   "margin_pct": 2.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 9.39,
+   "ebitda": 0.93,
+   "pat": 0.47,
+   "margin_pct": 9.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 9,
+    "profit": 38,
+    "quality": 58
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

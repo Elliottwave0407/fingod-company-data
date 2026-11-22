@@ -1,0 +1,105 @@
+{
+ "isin": "INE570A01022",
+ "sym": "IONEXCHANG",
+ "name": "ION Exchange (India) Limited",
+ "scrip": "500214",
+ "mcap_cr": 4317.13,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 834.56,
+   "ebitda": 85.84,
+   "pat": 63.24,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 583.19,
+   "ebitda": 62.54,
+   "pat": 48.44,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 733.94,
+   "ebitda": 68.49,
+   "pat": 49.92,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 734.44,
+   "ebitda": 42.28,
+   "pat": 20.56,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 863.27,
+   "ebitda": 19.95,
+   "pat": 24.29,
+   "margin_pct": 2.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 2,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 700.46,
+   "ebitda": 31.74,
+   "pat": 3.06,
+   "margin_pct": 4.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 30,
+    "profit": 4,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

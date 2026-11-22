@@ -1,0 +1,105 @@
+{
+ "isin": "INE722H01024",
+ "sym": "RGL",
+ "name": "Renaissance Global Limited",
+ "scrip": "532923",
+ "mcap_cr": 1520.63,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 514.4,
+   "ebitda": 38.17,
+   "pat": 22.73,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 530.32,
+   "ebitda": 24.24,
+   "pat": 6.6,
+   "margin_pct": 4.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 546.36,
+   "ebitda": 40.63,
+   "pat": 20.23,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 962.94,
+   "ebitda": 60.71,
+   "pat": 33.21,
+   "margin_pct": 6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 773.41,
+   "ebitda": 57.82,
+   "pat": 30.22,
+   "margin_pct": 7.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 93,
+    "profit": 39,
+    "quality": 57
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 780.45,
+   "ebitda": 40.92,
+   "pat": 25.64,
+   "margin_pct": 5.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 95,
+    "profit": 43,
+    "quality": 77
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

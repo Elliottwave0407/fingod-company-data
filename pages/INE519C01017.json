@@ -1,0 +1,101 @@
+{
+ "isin": "INE519C01017",
+ "sym": "SUMMITSEC",
+ "name": "Summit Securities Limited",
+ "scrip": "533306",
+ "mcap_cr": 1486.73,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 9.81,
+   "ebitda": -4.85,
+   "pat": -4.64,
+   "margin_pct": -49.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 27.54,
+   "ebitda": 26.58,
+   "pat": 20.19,
+   "margin_pct": 96.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 119.68,
+   "ebitda": 118.5,
+   "pat": 90.66,
+   "margin_pct": 99.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 21.64,
+   "ebitda": 20.33,
+   "pat": 17.02,
+   "margin_pct": 93.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 11.43,
+   "ebitda": -25.84,
+   "pat": -23.24,
+   "margin_pct": -226.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 40.89,
+   "ebitda": 39.63,
+   "pat": 35.29,
+   "margin_pct": 96.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 91,
+    "profit": 56,
+    "quality": 99
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

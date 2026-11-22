@@ -1,0 +1,105 @@
+{
+ "isin": "INE503B01021",
+ "sym": "STEELXIND",
+ "name": "STEEL EXCHANGE INDIA LIMITED",
+ "scrip": "534748",
+ "mcap_cr": 1307.41,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 291.42,
+   "ebitda": 32.79,
+   "pat": 4.76,
+   "margin_pct": 11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 300.0,
+   "ebitda": 31.4,
+   "pat": 10.23,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 231.76,
+   "ebitda": 27.47,
+   "pat": 2.11,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 240.35,
+   "ebitda": 22.46,
+   "pat": 2.28,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 287.33,
+   "ebitda": 49.73,
+   "pat": 12.37,
+   "margin_pct": 17.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 59,
+    "profit": 94,
+    "quality": 50
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 269.71,
+   "ebitda": 34.24,
+   "pat": 15.03,
+   "margin_pct": 12.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 28,
+    "profit": 64,
+    "quality": 56
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2026-06-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

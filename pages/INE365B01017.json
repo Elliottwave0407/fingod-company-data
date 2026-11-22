@@ -1,0 +1,105 @@
+{
+ "isin": "INE365B01017",
+ "sym": "DATAMATICS",
+ "name": "Datamatics Global Services Limited",
+ "scrip": "532528",
+ "mcap_cr": 4096.66,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 497.15,
+   "ebitda": 74.39,
+   "pat": 44.88,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 467.56,
+   "ebitda": 75.93,
+   "pat": 50.35,
+   "margin_pct": 16.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 490.23,
+   "ebitda": 88.83,
+   "pat": 63.39,
+   "margin_pct": 18.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 510.1,
+   "ebitda": 55.99,
+   "pat": 36.34,
+   "margin_pct": 11.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 519.26,
+   "ebitda": 85.98,
+   "pat": 44.87,
+   "margin_pct": 16.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 42,
+    "profit": 61,
+    "quality": 31
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 513.91,
+   "ebitda": 101.06,
+   "pat": 72.36,
+   "margin_pct": 19.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 60,
+    "profit": 81,
+    "quality": 78
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 13,
+  "concalls_read": 7,
+  "latest_concall": "2026-11-09"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

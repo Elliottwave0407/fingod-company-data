@@ -1,0 +1,97 @@
+{
+ "isin": "INE662A01027",
+ "sym": "SUPERSPIN",
+ "name": "Super Spinning Mills Limited",
+ "scrip": "521180",
+ "mcap_cr": 37.84,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1.9,
+   "ebitda": 1.49,
+   "pat": -16.05,
+   "margin_pct": 78.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1.5,
+   "ebitda": 1.07,
+   "pat": -0.05,
+   "margin_pct": 71.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1.59,
+   "ebitda": 1.12,
+   "pat": 0.26,
+   "margin_pct": 70.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.58,
+   "ebitda": 1.91,
+   "pat": 1.13,
+   "margin_pct": 120.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1.64,
+   "ebitda": 0.84,
+   "pat": -7.13,
+   "margin_pct": 51.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1.5,
+   "ebitda": 1.05,
+   "pat": 0.56,
+   "margin_pct": 70.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE864X01013",
+ "sym": "DPWIRES",
+ "name": "D P Wires Limited",
+ "scrip": "543962",
+ "mcap_cr": 251.57,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 137.66,
+   "ebitda": 4.82,
+   "pat": 4.04,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 125.93,
+   "ebitda": 3.62,
+   "pat": 3.6,
+   "margin_pct": 2.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 129.94,
+   "ebitda": 0.02,
+   "pat": 1.2,
+   "margin_pct": 0.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 95.22,
+   "ebitda": 3.47,
+   "pat": 3.39,
+   "margin_pct": 3.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 129.02,
+   "ebitda": 9.53,
+   "pat": 9.39,
+   "margin_pct": 7.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 60,
+    "profit": 76,
+    "quality": 100
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 130.57,
+   "ebitda": 3.84,
+   "pat": 4.74,
+   "margin_pct": 2.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 35,
+    "quality": 70
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

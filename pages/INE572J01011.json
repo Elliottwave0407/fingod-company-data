@@ -1,0 +1,115 @@
+{
+ "isin": "INE572J01011",
+ "sym": "SPANDANA",
+ "name": "Spandana Sphoorty Financial Limited",
+ "scrip": "542759",
+ "mcap_cr": 1574.09,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 414.79,
+   "ebitda": -389.1,
+   "pat": -434.3,
+   "margin_pct": -93.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 300.46,
+   "ebitda": -326.56,
+   "pat": -360.23,
+   "margin_pct": -108.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 229.55,
+   "ebitda": -213.24,
+   "pat": -249.16,
+   "margin_pct": -92.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 234.27,
+   "ebitda": -24.05,
+   "pat": -95.0,
+   "margin_pct": -10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 259.69,
+   "ebitda": 120.61,
+   "pat": 5.27,
+   "margin_pct": 46.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 283.91,
+   "ebitda": 132.89,
+   "pat": 11.88,
+   "margin_pct": 46.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 324.9,
+   "ebitda": 164.4,
+   "pat": 18.24,
+   "margin_pct": 50.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 85,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 12,
+  "concalls_read": 12,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

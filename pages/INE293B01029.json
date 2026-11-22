@@ -1,0 +1,97 @@
+{
+ "isin": "INE293B01029",
+ "sym": "HAVISHA",
+ "name": "Sri Havisha Hospitality and Infrastructure Limited",
+ "scrip": "531322",
+ "mcap_cr": 19.81,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 3.42,
+   "ebitda": -0.85,
+   "pat": -1.9,
+   "margin_pct": -24.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 2.79,
+   "ebitda": -0.27,
+   "pat": -1.78,
+   "margin_pct": -9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 3.12,
+   "ebitda": 0.02,
+   "pat": -1.51,
+   "margin_pct": 0.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 4.3,
+   "ebitda": 0.85,
+   "pat": -0.68,
+   "margin_pct": 19.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 3.3,
+   "ebitda": -0.45,
+   "pat": -1.06,
+   "margin_pct": -13.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2.88,
+   "ebitda": -0.32,
+   "pat": -1.82,
+   "margin_pct": -11.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE362A01016",
+ "sym": "PVP",
+ "name": "PVP Ventures Limited",
+ "scrip": "517556",
+ "mcap_cr": 1165.05,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 19.03,
+   "ebitda": -1.49,
+   "pat": -2.57,
+   "margin_pct": -7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 17.21,
+   "ebitda": 5.04,
+   "pat": -0.11,
+   "margin_pct": 29.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 17.09,
+   "ebitda": 2.4,
+   "pat": -2.6,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 13.96,
+   "ebitda": 5.0,
+   "pat": -4.06,
+   "margin_pct": 35.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 41.44,
+   "ebitda": 4.15,
+   "pat": -3.19,
+   "margin_pct": 10.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 100,
+    "profit": 88,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 45.64,
+   "ebitda": 2.45,
+   "pat": 11.06,
+   "margin_pct": 5.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 4,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

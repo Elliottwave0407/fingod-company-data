@@ -1,0 +1,105 @@
+{
+ "isin": "INE677D01037",
+ "sym": "MASTERTR",
+ "name": "Master Trust Limited",
+ "scrip": "511768",
+ "mcap_cr": 1065.56,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 121.98,
+   "ebitda": 52.84,
+   "pat": 24.55,
+   "margin_pct": 43.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 131.66,
+   "ebitda": 51.81,
+   "pat": 27.11,
+   "margin_pct": 39.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 126.83,
+   "ebitda": 59.27,
+   "pat": 31.4,
+   "margin_pct": 46.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 136.72,
+   "ebitda": 61.05,
+   "pat": 31.52,
+   "margin_pct": 44.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 180.61,
+   "ebitda": 64.01,
+   "pat": 36.06,
+   "margin_pct": 35.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 76,
+    "profit": 20,
+    "quality": 67
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 149.79,
+   "ebitda": 61.83,
+   "pat": 34.65,
+   "margin_pct": 41.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 54,
+    "profit": 71,
+    "quality": 57
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

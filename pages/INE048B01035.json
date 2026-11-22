@@ -1,0 +1,115 @@
+{
+ "isin": "INE048B01035",
+ "sym": "JAGSNPHARM",
+ "name": "Jagsonpal Pharmaceuticals Limited",
+ "scrip": "507789",
+ "mcap_cr": 1371.06,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 58.56,
+   "ebitda": 8.51,
+   "pat": 6.58,
+   "margin_pct": 14.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 75.61,
+   "ebitda": 14.2,
+   "pat": 10.79,
+   "margin_pct": 18.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 74.47,
+   "ebitda": 16.44,
+   "pat": 12.57,
+   "margin_pct": 22.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 72.94,
+   "ebitda": 14.19,
+   "pat": 10.95,
+   "margin_pct": 19.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 64.2,
+   "ebitda": 11.16,
+   "pat": 8.76,
+   "margin_pct": 17.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 58,
+    "profit": 74,
+    "quality": 79
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 82.23,
+   "ebitda": 17.24,
+   "pat": 13.19,
+   "margin_pct": 21.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 70,
+    "quality": 70
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 96.37,
+   "ebitda": 16.67,
+   "pat": 12.29,
+   "margin_pct": 17.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 14,
+    "quality": 48
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

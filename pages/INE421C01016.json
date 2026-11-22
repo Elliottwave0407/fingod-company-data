@@ -1,0 +1,105 @@
+{
+ "isin": "INE421C01016",
+ "sym": "TVSSRICHAK",
+ "name": "TVS Srichakra Limited",
+ "scrip": "509243",
+ "mcap_cr": 3753.29,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 818.38,
+   "ebitda": 61.88,
+   "pat": 9.65,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 819.41,
+   "ebitda": 65.83,
+   "pat": 12.83,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 926.49,
+   "ebitda": 63.27,
+   "pat": 10.96,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 916.51,
+   "ebitda": 64.4,
+   "pat": 11.18,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 980.94,
+   "ebitda": 87.48,
+   "pat": 36.09,
+   "margin_pct": 8.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 72,
+    "profit": 53,
+    "quality": 59
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1067.61,
+   "ebitda": 79.81,
+   "pat": 34.02,
+   "margin_pct": 7.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 68,
+    "profit": 32,
+    "quality": 61
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

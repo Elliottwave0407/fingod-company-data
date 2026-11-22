@@ -1,0 +1,105 @@
+{
+ "isin": "INE778B01029",
+ "sym": "ESTER",
+ "name": "Ester Industries Limited",
+ "scrip": "500136",
+ "mcap_cr": 906.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 319.26,
+   "ebitda": 36.46,
+   "pat": 1.96,
+   "margin_pct": 11.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 338.2,
+   "ebitda": 20.31,
+   "pat": -7.16,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 354.19,
+   "ebitda": 14.29,
+   "pat": -15.78,
+   "margin_pct": 4.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 338.98,
+   "ebitda": 16.42,
+   "pat": -12.41,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 343.82,
+   "ebitda": 42.0,
+   "pat": 7.87,
+   "margin_pct": 12.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 45,
+    "profit": 50,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 432.16,
+   "ebitda": 49.12,
+   "pat": 18.62,
+   "margin_pct": 11.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 85,
+    "profit": 89,
+    "quality": 11
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE644Y01017",
+ "sym": "SHIVAMILLS",
+ "name": "Shiva Mills Limited",
+ "scrip": "540961",
+ "mcap_cr": 56.6,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 41.04,
+   "ebitda": 0.67,
+   "pat": -0.77,
+   "margin_pct": 1.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 37.56,
+   "ebitda": 1.07,
+   "pat": -0.62,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 30.44,
+   "ebitda": 1.37,
+   "pat": -0.16,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 34.26,
+   "ebitda": 0.63,
+   "pat": -0.71,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 36.87,
+   "ebitda": 2.61,
+   "pat": 1.41,
+   "margin_pct": 7.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 58,
+    "profit": 86,
+    "quality": 40
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 38.1,
+   "ebitda": 4.53,
+   "pat": 2.83,
+   "margin_pct": 11.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 64,
+    "profit": 90,
+    "quality": 54
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

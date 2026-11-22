@@ -1,0 +1,97 @@
+{
+ "isin": "INE642Z01026",
+ "sym": "AKI",
+ "name": "Aki India Limited",
+ "scrip": "542020",
+ "mcap_cr": 53.67,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 24.02,
+   "ebitda": -1.65,
+   "pat": 0.13,
+   "margin_pct": -6.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 17.66,
+   "ebitda": -0.67,
+   "pat": 0.23,
+   "margin_pct": -3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 27.52,
+   "ebitda": 0.46,
+   "pat": 0.62,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 25.56,
+   "ebitda": -1.69,
+   "pat": 1.09,
+   "margin_pct": -6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 36.58,
+   "ebitda": -1.41,
+   "pat": 0.76,
+   "margin_pct": -3.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 29.04,
+   "ebitda": -0.11,
+   "pat": 0.51,
+   "margin_pct": -0.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

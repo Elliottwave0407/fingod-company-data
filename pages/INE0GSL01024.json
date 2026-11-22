@@ -1,0 +1,105 @@
+{
+ "isin": "INE0GSL01024",
+ "sym": "HPAL",
+ "name": "HP Adhesives Limited",
+ "scrip": "543433",
+ "mcap_cr": 277.55,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 66.83,
+   "ebitda": 5.76,
+   "pat": 4.25,
+   "margin_pct": 8.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 66.1,
+   "ebitda": 6.52,
+   "pat": 4.19,
+   "margin_pct": 9.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 65.06,
+   "ebitda": 6.04,
+   "pat": 3.53,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 65.37,
+   "ebitda": 3.46,
+   "pat": 1.62,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 57.82,
+   "ebitda": -3.76,
+   "pat": -2.37,
+   "margin_pct": -6.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 7,
+    "profit": -5,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 63.42,
+   "ebitda": -0.33,
+   "pat": -0.91,
+   "margin_pct": -0.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 11,
+    "profit": 0,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

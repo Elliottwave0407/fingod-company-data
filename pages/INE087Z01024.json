@@ -1,0 +1,102 @@
+{
+ "isin": "INE087Z01024",
+ "sym": "AAKASH",
+ "name": "Aakash Exploration Services Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 25.77,
+   "ebitda": 2.55,
+   "pat": 0.28,
+   "margin_pct": 9.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 23.86,
+   "ebitda": 2.89,
+   "pat": 0.54,
+   "margin_pct": 12.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 24.81,
+   "ebitda": 2.92,
+   "pat": 0.28,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 31.15,
+   "ebitda": 3.96,
+   "pat": 0.8,
+   "margin_pct": 12.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 32.65,
+   "ebitda": 5.32,
+   "pat": 1.88,
+   "margin_pct": 16.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 84,
+    "profit": 93,
+    "quality": 54
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 27.89,
+   "ebitda": 2.24,
+   "pat": 0.52,
+   "margin_pct": 8.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 30,
+    "profit": 6,
+    "quality": 9
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

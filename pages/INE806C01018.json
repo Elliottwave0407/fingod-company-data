@@ -1,0 +1,105 @@
+{
+ "isin": "INE806C01018",
+ "sym": "TIL",
+ "name": "TIL Limited",
+ "scrip": "505196",
+ "mcap_cr": 1696.59,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 101.52,
+   "ebitda": 12.12,
+   "pat": 9.76,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 62.91,
+   "ebitda": -6.75,
+   "pat": -6.22,
+   "margin_pct": -10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 78.27,
+   "ebitda": 0.08,
+   "pat": -7.73,
+   "margin_pct": 0.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 73.23,
+   "ebitda": 1.22,
+   "pat": -6.85,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 108.84,
+   "ebitda": 4.31,
+   "pat": -9.97,
+   "margin_pct": 4.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 19,
+    "profit": 3,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 117.13,
+   "ebitda": 6.58,
+   "pat": -5.45,
+   "margin_pct": 5.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 100,
+    "profit": 84,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2026-08-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,107 @@
+{
+ "isin": "INE879E01037",
+ "sym": "KANANIIND",
+ "name": "Kanani Industries Limited",
+ "scrip": "506184",
+ "mcap_cr": 30.08,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 33.71,
+   "ebitda": -0.25,
+   "pat": -0.24,
+   "margin_pct": -0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 83.69,
+   "ebitda": 0.3,
+   "pat": 0.28,
+   "margin_pct": 0.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 48.72,
+   "ebitda": 0.51,
+   "pat": 1.36,
+   "margin_pct": 1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 28.47,
+   "ebitda": 0.08,
+   "pat": 0.39,
+   "margin_pct": 0.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 12.91,
+   "ebitda": 0.45,
+   "pat": 0.55,
+   "margin_pct": 3.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 64.29,
+   "ebitda": -0.03,
+   "pat": -0.04,
+   "margin_pct": -0.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 75.35,
+   "ebitda": 0.16,
+   "pat": 1.71,
+   "margin_pct": 0.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 48,
+    "profit": 23,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

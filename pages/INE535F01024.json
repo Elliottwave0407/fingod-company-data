@@ -1,0 +1,101 @@
+{
+ "isin": "INE535F01024",
+ "sym": "RAJOOENG",
+ "name": "Rajoo Engineers Limited",
+ "scrip": "522257",
+ "mcap_cr": 986.82,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 85.07,
+   "ebitda": 18.57,
+   "pat": 15.02,
+   "margin_pct": 21.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 92.25,
+   "ebitda": 18.31,
+   "pat": 14.1,
+   "margin_pct": 19.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 87.6,
+   "ebitda": 22.27,
+   "pat": 17.48,
+   "margin_pct": 25.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 79.4,
+   "ebitda": 1.55,
+   "pat": 1.83,
+   "margin_pct": 2.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 123.07,
+   "ebitda": 21.71,
+   "pat": 17.35,
+   "margin_pct": 17.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 71,
+    "profit": 14,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 101.91,
+   "ebitda": 9.94,
+   "pat": 8.26,
+   "margin_pct": 9.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 21,
+    "profit": 8,
+    "quality": 44
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE557A01011",
+ "sym": "BIRLANU",
+ "name": "BirlaNu Limited",
+ "scrip": "509675",
+ "mcap_cr": 918.26,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 928.91,
+   "ebitda": 22.42,
+   "pat": -24.71,
+   "margin_pct": 2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1052.28,
+   "ebitda": 39.69,
+   "pat": -1.32,
+   "margin_pct": 3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 810.15,
+   "ebitda": -9.7,
+   "pat": -42.86,
+   "margin_pct": -1.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 857.84,
+   "ebitda": -12.78,
+   "pat": -53.03,
+   "margin_pct": -1.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1010.13,
+   "ebitda": 31.76,
+   "pat": -22.35,
+   "margin_pct": 3.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 63,
+    "profit": 42,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1174.02,
+   "ebitda": 72.95,
+   "pat": 9.4,
+   "margin_pct": 6.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 72,
+    "profit": 61,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-09"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

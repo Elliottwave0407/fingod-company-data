@@ -1,0 +1,105 @@
+{
+ "isin": "INE943D01017",
+ "sym": "MPSLTD",
+ "name": "MPS Limited",
+ "scrip": "532440",
+ "mcap_cr": 3667.32,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 182.11,
+   "ebitda": 61.92,
+   "pat": 47.07,
+   "margin_pct": 34.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 186.28,
+   "ebitda": 49.66,
+   "pat": 35.24,
+   "margin_pct": 26.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 194.44,
+   "ebitda": 73.28,
+   "pat": 55.44,
+   "margin_pct": 37.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 182.49,
+   "ebitda": 50.2,
+   "pat": 35.5,
+   "margin_pct": 27.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 205.16,
+   "ebitda": 67.87,
+   "pat": 47.04,
+   "margin_pct": 33.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 44,
+    "profit": 42,
+    "quality": 45
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 224.24,
+   "ebitda": 76.96,
+   "pat": 50.39,
+   "margin_pct": 34.3,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 78,
+    "profit": 100,
+    "quality": 73
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

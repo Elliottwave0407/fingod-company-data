@@ -1,0 +1,115 @@
+{
+ "isin": "INE625X01026",
+ "sym": "SILVERTUC",
+ "name": "Silver Touch Technologies Limited",
+ "scrip": "543525",
+ "mcap_cr": 1606.05,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 84.56,
+   "ebitda": 14.29,
+   "pat": 9.21,
+   "margin_pct": 16.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 62.75,
+   "ebitda": 8.59,
+   "pat": 4.04,
+   "margin_pct": 13.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 83.99,
+   "ebitda": 12.27,
+   "pat": 7.46,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 95.73,
+   "ebitda": 18.49,
+   "pat": 11.02,
+   "margin_pct": 19.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 99.52,
+   "ebitda": 20.58,
+   "pat": 13.22,
+   "margin_pct": 20.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 72,
+    "profit": 85,
+    "quality": 72
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 76.72,
+   "ebitda": 15.75,
+   "pat": 10.01,
+   "margin_pct": 20.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 82,
+    "profit": 96,
+    "quality": 78
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 100.28,
+   "ebitda": 19.72,
+   "pat": 13.03,
+   "margin_pct": 19.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 79,
+    "profit": 96,
+    "quality": 80
+   },
+   "capped_by": "revenue growth under 20%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-01-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

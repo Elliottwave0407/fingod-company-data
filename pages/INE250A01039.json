@@ -1,0 +1,105 @@
+{
+ "isin": "INE250A01039",
+ "sym": "KIRLOSIND",
+ "name": "Kirloskar Industries Limited",
+ "scrip": "500243",
+ "mcap_cr": 3453.18,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1747.82,
+   "ebitda": 218.12,
+   "pat": 97.09,
+   "margin_pct": 12.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1705.48,
+   "ebitda": 221.11,
+   "pat": 95.48,
+   "margin_pct": 13.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1781.92,
+   "ebitda": 237.16,
+   "pat": 98.49,
+   "margin_pct": 13.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1623.93,
+   "ebitda": 164.56,
+   "pat": 49.45,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1827.41,
+   "ebitda": 216.34,
+   "pat": 110.35,
+   "margin_pct": 11.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 29,
+    "profit": 35,
+    "quality": 42
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1779.15,
+   "ebitda": 185.5,
+   "pat": 78.75,
+   "margin_pct": 10.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 22,
+    "profit": 13,
+    "quality": 16
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

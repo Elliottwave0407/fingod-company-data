@@ -1,0 +1,105 @@
+{
+ "isin": "INE0DAB01012",
+ "sym": "RVTH",
+ "name": "Revathi Equipment India Limited",
+ "scrip": "544246",
+ "mcap_cr": 203.95,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 64.49,
+   "ebitda": 14.36,
+   "pat": 9.32,
+   "margin_pct": 22.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 22.26,
+   "ebitda": 0.06,
+   "pat": 0.57,
+   "margin_pct": 0.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 22.83,
+   "ebitda": -0.94,
+   "pat": 0.42,
+   "margin_pct": -4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 32.23,
+   "ebitda": 0.04,
+   "pat": -1.4,
+   "margin_pct": 0.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 65.61,
+   "ebitda": 18.65,
+   "pat": 14.25,
+   "margin_pct": 28.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 100,
+    "quality": 86
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 30.02,
+   "ebitda": 3.82,
+   "pat": 2.04,
+   "margin_pct": 12.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 90,
+    "profit": 90,
+    "quality": 56
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

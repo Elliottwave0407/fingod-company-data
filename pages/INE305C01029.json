@@ -1,0 +1,105 @@
+{
+ "isin": "INE305C01029",
+ "sym": "PANAMAPET",
+ "name": "Panama Petrochem Limited",
+ "scrip": "524820",
+ "mcap_cr": 2468.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 695.23,
+   "ebitda": 59.45,
+   "pat": 44.27,
+   "margin_pct": 8.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 693.22,
+   "ebitda": 54.86,
+   "pat": 42.62,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 773.22,
+   "ebitda": 68.68,
+   "pat": 52.99,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 775.05,
+   "ebitda": 60.61,
+   "pat": 45.81,
+   "margin_pct": 7.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 822.77,
+   "ebitda": 91.4,
+   "pat": 71.08,
+   "margin_pct": 11.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 76,
+    "profit": 66,
+    "quality": 90
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1735.15,
+   "ebitda": 387.88,
+   "pat": 308.91,
+   "margin_pct": 22.4,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 98,
+    "quality": 91
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

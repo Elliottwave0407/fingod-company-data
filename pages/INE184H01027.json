@@ -1,0 +1,105 @@
+{
+ "isin": "INE184H01027",
+ "sym": "EKC",
+ "name": "Everest Kanto Cylinder Limited",
+ "scrip": "532684",
+ "mcap_cr": 1128.02,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 422.11,
+   "ebitda": 31.44,
+   "pat": 13.27,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 386.88,
+   "ebitda": 73.94,
+   "pat": 51.58,
+   "margin_pct": 19.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 360.38,
+   "ebitda": 31.6,
+   "pat": 13.66,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 365.11,
+   "ebitda": 56.06,
+   "pat": 35.73,
+   "margin_pct": 15.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 358.2,
+   "ebitda": 41.17,
+   "pat": 45.7,
+   "margin_pct": 11.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 43,
+    "profit": 80,
+    "quality": 100
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 346.31,
+   "ebitda": 47.38,
+   "pat": 30.16,
+   "margin_pct": 13.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 8,
+    "profit": 11,
+    "quality": 28
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-06-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

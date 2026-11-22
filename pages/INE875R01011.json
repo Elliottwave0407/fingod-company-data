@@ -1,0 +1,103 @@
+{
+ "isin": "INE875R01011",
+ "sym": "BALKRISHNA",
+ "name": "Balkrishna Paper Mills Limited",
+ "scrip": "539251",
+ "mcap_cr": 48.39,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1.67,
+   "ebitda": -0.16,
+   "pat": 6.96,
+   "margin_pct": -9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1.12,
+   "ebitda": -0.15,
+   "pat": -1.76,
+   "margin_pct": -13.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1.02,
+   "ebitda": -0.18,
+   "pat": -1.78,
+   "margin_pct": -17.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.71,
+   "ebitda": -0.29,
+   "pat": -0.21,
+   "margin_pct": -17.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.89,
+   "ebitda": -0.27,
+   "pat": -2.76,
+   "margin_pct": -30.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1.76,
+   "ebitda": -0.16,
+   "pat": -1.8,
+   "margin_pct": -9.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1.51,
+   "ebitda": -0.19,
+   "pat": 1.86,
+   "margin_pct": -12.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

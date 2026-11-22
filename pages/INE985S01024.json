@@ -1,0 +1,105 @@
+{
+ "isin": "INE985S01024",
+ "sym": "TEAMLEASE",
+ "name": "Teamlease Services Limited",
+ "scrip": "539658",
+ "mcap_cr": 1555.04,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 2857.92,
+   "ebitda": 47.48,
+   "pat": 37.88,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 2891.4,
+   "ebitda": 30.65,
+   "pat": 25.01,
+   "margin_pct": 1.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 3032.07,
+   "ebitda": 38.3,
+   "pat": 27.84,
+   "margin_pct": 1.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 3012.95,
+   "ebitda": 36.63,
+   "pat": 42.48,
+   "margin_pct": 1.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 2924.87,
+   "ebitda": 45.65,
+   "pat": 46.05,
+   "margin_pct": 1.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 25,
+    "profit": 32,
+    "quality": 65
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 3034.69,
+   "ebitda": 31.47,
+   "pat": 34.45,
+   "margin_pct": 1.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 31,
+    "profit": 33,
+    "quality": 73
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

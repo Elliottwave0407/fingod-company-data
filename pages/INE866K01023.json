@@ -1,0 +1,101 @@
+{
+ "isin": "INE866K01023",
+ "sym": "WAAREEINDO",
+ "name": "Indosolar Limited",
+ "scrip": "533257",
+ "mcap_cr": 859.12,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 194.68,
+   "ebitda": 63.56,
+   "pat": 116.79,
+   "margin_pct": 32.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 202.55,
+   "ebitda": 70.73,
+   "pat": 46.34,
+   "margin_pct": 34.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 199.53,
+   "ebitda": 71.01,
+   "pat": 41.47,
+   "margin_pct": 35.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 83.1,
+   "ebitda": 64.33,
+   "pat": 42.0,
+   "margin_pct": 77.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 68.36,
+   "ebitda": 48.46,
+   "pat": 36.62,
+   "margin_pct": 70.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 3,
+    "profit": 100,
+    "quality": 38
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 155.59,
+   "ebitda": 14.82,
+   "pat": 5.02,
+   "margin_pct": 9.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 3,
+    "profit": 8,
+    "quality": 3
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

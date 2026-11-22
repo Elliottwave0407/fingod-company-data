@@ -1,0 +1,105 @@
+{
+ "isin": "INE660C01027",
+ "sym": "CENTRUM",
+ "name": "Centrum Capital Limited",
+ "scrip": "501150",
+ "mcap_cr": 998.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1116.25,
+   "ebitda": 442.95,
+   "pat": 24.21,
+   "margin_pct": 39.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 846.27,
+   "ebitda": 205.04,
+   "pat": -106.96,
+   "margin_pct": 24.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 822.94,
+   "ebitda": 175.65,
+   "pat": -8.5,
+   "margin_pct": 21.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 878.36,
+   "ebitda": 247.23,
+   "pat": -134.6,
+   "margin_pct": 28.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1029.69,
+   "ebitda": 484.24,
+   "pat": -31.27,
+   "margin_pct": 47.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 30,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 911.98,
+   "ebitda": 241.55,
+   "pat": -148.8,
+   "margin_pct": 26.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 47,
+    "profit": 74,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

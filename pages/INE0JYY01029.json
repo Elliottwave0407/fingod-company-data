@@ -1,0 +1,115 @@
+{
+ "isin": "INE0JYY01029",
+ "sym": "MWL",
+ "name": "Mangalam Worldwide Limited",
+ "scrip": "544764",
+ "mcap_cr": 1298.51,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 324.04,
+   "ebitda": 16.99,
+   "pat": 8.48,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 275.73,
+   "ebitda": 16.04,
+   "pat": 10.13,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 317.11,
+   "ebitda": 20.82,
+   "pat": 10.55,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 350.19,
+   "ebitda": 26.23,
+   "pat": 14.09,
+   "margin_pct": 7.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 264.95,
+   "ebitda": 27.73,
+   "pat": 15.37,
+   "margin_pct": 10.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 55,
+    "profit": 88,
+    "quality": 71
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 316.22,
+   "ebitda": 29.08,
+   "pat": 12.02,
+   "margin_pct": 9.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 75,
+    "profit": 72,
+    "quality": 38
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 360.4,
+   "ebitda": 39.27,
+   "pat": 13.83,
+   "margin_pct": 10.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 74,
+    "profit": 82,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

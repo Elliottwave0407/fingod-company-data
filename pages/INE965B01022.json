@@ -1,0 +1,97 @@
+{
+ "isin": "INE965B01022",
+ "sym": "HYBRIDFIN",
+ "name": "Hybrid Financial Services Limited",
+ "scrip": "500262",
+ "mcap_cr": 41.21,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1.15,
+   "ebitda": 0.28,
+   "pat": 1.07,
+   "margin_pct": 24.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1.36,
+   "ebitda": 0.63,
+   "pat": 0.74,
+   "margin_pct": 46.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1.52,
+   "ebitda": 0.78,
+   "pat": 1.09,
+   "margin_pct": 51.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.23,
+   "ebitda": 0.47,
+   "pat": 0.44,
+   "margin_pct": 38.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1.16,
+   "ebitda": -0.56,
+   "pat": 0.44,
+   "margin_pct": -48.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1.07,
+   "ebitda": 0.17,
+   "pat": 0.58,
+   "margin_pct": 15.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

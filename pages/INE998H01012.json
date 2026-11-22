@@ -1,0 +1,101 @@
+{
+ "isin": "INE998H01012",
+ "sym": "ORIENTALTL",
+ "name": "Oriental Trimex Limited",
+ "scrip": "532817",
+ "mcap_cr": 36.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 16.66,
+   "ebitda": 7.84,
+   "pat": 5.94,
+   "margin_pct": 47.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1.7,
+   "ebitda": -0.73,
+   "pat": 0.6,
+   "margin_pct": -42.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2.23,
+   "ebitda": -1.25,
+   "pat": -0.23,
+   "margin_pct": -56.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 3.31,
+   "ebitda": 0.7,
+   "pat": 0.11,
+   "margin_pct": 21.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 13.94,
+   "ebitda": 2.06,
+   "pat": 1.32,
+   "margin_pct": 14.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 6,
+    "profit": 12,
+    "quality": 28
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 7.88,
+   "ebitda": 1.39,
+   "pat": 0.82,
+   "margin_pct": 17.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

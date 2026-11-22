@@ -1,0 +1,101 @@
+{
+ "isin": "INE709A01018",
+ "sym": "VLSFINANCE",
+ "name": "VLS Finance Limited",
+ "scrip": "511333",
+ "mcap_cr": 654.05,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": -48.67,
+   "ebitda": -54.38,
+   "pat": -39.83,
+   "margin_pct": 111.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 98.57,
+   "ebitda": 93.49,
+   "pat": 71.14,
+   "margin_pct": 94.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 10.53,
+   "ebitda": 4.95,
+   "pat": 7.1,
+   "margin_pct": 47.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 29.19,
+   "ebitda": 22.94,
+   "pat": 18.05,
+   "margin_pct": 78.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": -98.86,
+   "ebitda": -104.46,
+   "pat": -74.54,
+   "margin_pct": 105.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 123.59,
+   "ebitda": 118.15,
+   "pat": 95.99,
+   "margin_pct": 95.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 68,
+    "profit": 60,
+    "quality": 83
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

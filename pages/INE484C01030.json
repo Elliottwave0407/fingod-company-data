@@ -1,0 +1,105 @@
+{
+ "isin": "INE484C01030",
+ "sym": "VEEDOL",
+ "name": "Veedol Corporation Limited",
+ "scrip": "590005",
+ "mcap_cr": 2320.79,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 531.91,
+   "ebitda": 67.66,
+   "pat": 59.7,
+   "margin_pct": 12.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 513.62,
+   "ebitda": 58.77,
+   "pat": 49.67,
+   "margin_pct": 11.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 509.23,
+   "ebitda": 53.07,
+   "pat": 40.94,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 537.73,
+   "ebitda": 51.59,
+   "pat": 43.55,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 606.98,
+   "ebitda": 62.54,
+   "pat": 57.46,
+   "margin_pct": 10.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 34,
+    "profit": 14,
+    "quality": 61
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 608.57,
+   "ebitda": 98.13,
+   "pat": 77.92,
+   "margin_pct": 16.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 79,
+    "profit": 90,
+    "quality": 90
+   },
+   "capped_by": "revenue growth under 20%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

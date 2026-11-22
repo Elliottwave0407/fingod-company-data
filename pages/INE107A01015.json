@@ -1,0 +1,105 @@
+{
+ "isin": "INE107A01015",
+ "sym": "TNPL",
+ "name": "Tamil Nadu Newsprint & Papers Limited",
+ "scrip": "531426",
+ "mcap_cr": 915.31,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1336.77,
+   "ebitda": 103.1,
+   "pat": 22.12,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1142.1,
+   "ebitda": 101.47,
+   "pat": -7.41,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1110.15,
+   "ebitda": 123.13,
+   "pat": 8.1,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1121.1,
+   "ebitda": 115.61,
+   "pat": 6.77,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1271.54,
+   "ebitda": 140.58,
+   "pat": 240.3,
+   "margin_pct": 11.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 51,
+    "profit": 73,
+    "quality": 80
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1146.64,
+   "ebitda": 114.87,
+   "pat": 5.74,
+   "margin_pct": 10.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 37,
+    "profit": 51,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

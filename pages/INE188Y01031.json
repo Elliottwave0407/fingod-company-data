@@ -1,0 +1,102 @@
+{
+ "isin": "INE188Y01031",
+ "sym": "VERTOZ",
+ "name": "Vertoz Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 65.18,
+   "ebitda": 12.39,
+   "pat": 6.01,
+   "margin_pct": 19.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 70.49,
+   "ebitda": 9.99,
+   "pat": 6.47,
+   "margin_pct": 14.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 72.26,
+   "ebitda": 10.44,
+   "pat": 7.24,
+   "margin_pct": 14.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 75.42,
+   "ebitda": 13.46,
+   "pat": 6.16,
+   "margin_pct": 17.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 73.69,
+   "ebitda": 14.88,
+   "pat": 6.25,
+   "margin_pct": 20.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 54,
+    "profit": 60,
+    "quality": 26
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 81.64,
+   "ebitda": 15.09,
+   "pat": 7.36,
+   "margin_pct": 18.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 73,
+    "profit": 88,
+    "quality": 40
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 8,
+  "concalls_read": 8,
+  "latest_concall": "2026-02-16"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

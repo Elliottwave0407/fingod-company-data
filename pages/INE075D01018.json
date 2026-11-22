@@ -1,0 +1,101 @@
+{
+ "isin": "INE075D01018",
+ "sym": "GMBREW",
+ "name": "GM Breweries Limited",
+ "scrip": "507488",
+ "mcap_cr": 1956.27,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 638.01,
+   "ebitda": 30.9,
+   "pat": 25.86,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 717.85,
+   "ebitda": 44.81,
+   "pat": 34.89,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 808.62,
+   "ebitda": 52.58,
+   "pat": 42.01,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 812.09,
+   "ebitda": 52.42,
+   "pat": 54.07,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 802.9,
+   "ebitda": 46.45,
+   "pat": 37.74,
+   "margin_pct": 5.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 80,
+    "profit": 46,
+    "quality": 87
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 860.62,
+   "ebitda": 49.91,
+   "pat": 39.29,
+   "margin_pct": 5.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 52,
+    "profit": 32,
+    "quality": 64
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

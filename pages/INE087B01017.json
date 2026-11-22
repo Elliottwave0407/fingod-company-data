@@ -1,0 +1,101 @@
+{
+ "isin": "INE087B01017",
+ "sym": "ANIKINDS",
+ "name": "Anik Industries Limited",
+ "scrip": "519383",
+ "mcap_cr": 107.68,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 48.74,
+   "ebitda": 0.92,
+   "pat": 0.43,
+   "margin_pct": 1.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 47.76,
+   "ebitda": 0.25,
+   "pat": 0.23,
+   "margin_pct": 0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 71.68,
+   "ebitda": 0.51,
+   "pat": 0.28,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 16.57,
+   "ebitda": 0.51,
+   "pat": 0.74,
+   "margin_pct": 3.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 8.04,
+   "ebitda": -2.68,
+   "pat": -2.19,
+   "margin_pct": -33.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -27,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 13.53,
+   "ebitda": 0.32,
+   "pat": 0.23,
+   "margin_pct": 2.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

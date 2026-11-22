@@ -1,0 +1,101 @@
+{
+ "isin": "INE347W01011",
+ "sym": "MAGADSUGAR",
+ "name": "Magadh Sugar & Energy Limited",
+ "scrip": "540650",
+ "mcap_cr": 746.22,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 355.21,
+   "ebitda": 115.4,
+   "pat": 71.51,
+   "margin_pct": 32.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 333.04,
+   "ebitda": 19.08,
+   "pat": 0.22,
+   "margin_pct": 5.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 324.41,
+   "ebitda": 1.8,
+   "pat": -10.35,
+   "margin_pct": 0.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 296.42,
+   "ebitda": 46.7,
+   "pat": 25.09,
+   "margin_pct": 15.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 290.67,
+   "ebitda": 78.68,
+   "pat": 48.55,
+   "margin_pct": 27.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 5,
+    "profit": 20,
+    "quality": 26
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 310.54,
+   "ebitda": 0.72,
+   "pat": -12.22,
+   "margin_pct": 0.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-05-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

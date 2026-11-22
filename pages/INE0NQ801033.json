@@ -1,0 +1,105 @@
+{
+ "isin": "INE0NQ801033",
+ "sym": "RKSWAMY",
+ "name": "R K Swamy Limited",
+ "scrip": "544136",
+ "mcap_cr": 399.17,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 83.51,
+   "ebitda": 16.12,
+   "pat": 12.33,
+   "margin_pct": 19.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 77.57,
+   "ebitda": 6.11,
+   "pat": 2.87,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 73.65,
+   "ebitda": 5.95,
+   "pat": 0.54,
+   "margin_pct": 8.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 88.66,
+   "ebitda": 6.59,
+   "pat": 2.75,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 100.88,
+   "ebitda": 21.81,
+   "pat": 15.94,
+   "margin_pct": 21.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 71,
+    "profit": 72,
+    "quality": 72
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 83.62,
+   "ebitda": 8.74,
+   "pat": 3.47,
+   "margin_pct": 10.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 62,
+    "profit": 66,
+    "quality": 31
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-05-26"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

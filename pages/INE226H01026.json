@@ -1,0 +1,105 @@
+{
+ "isin": "INE226H01026",
+ "sym": "SADBHAV",
+ "name": "Sadbhav Engineering Limited",
+ "scrip": "532710",
+ "mcap_cr": 120.44,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 289.78,
+   "ebitda": -6.16,
+   "pat": -165.33,
+   "margin_pct": -2.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 221.98,
+   "ebitda": 147.51,
+   "pat": 31.19,
+   "margin_pct": 66.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 249.89,
+   "ebitda": 152.26,
+   "pat": 26.86,
+   "margin_pct": 60.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 229.92,
+   "ebitda": 37.4,
+   "pat": -85.65,
+   "margin_pct": 16.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 270.94,
+   "ebitda": 301.03,
+   "pat": 121.33,
+   "margin_pct": 111.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 20,
+    "profit": 100,
+    "quality": 17
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 204.04,
+   "ebitda": 142.02,
+   "pat": 46.1,
+   "margin_pct": 69.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 20,
+    "profit": 83,
+    "quality": 47
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

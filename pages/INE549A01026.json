@@ -1,0 +1,105 @@
+{
+ "isin": "INE549A01026",
+ "sym": "HCC",
+ "name": "Hindustan Construction Company Limited",
+ "scrip": "500185",
+ "mcap_cr": 4309.02,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1373.7,
+   "ebitda": 429.49,
+   "pat": 90.08,
+   "margin_pct": 31.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1091.33,
+   "ebitda": 179.47,
+   "pat": 50.73,
+   "margin_pct": 16.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 960.74,
+   "ebitda": 147.75,
+   "pat": 47.78,
+   "margin_pct": 15.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 925.32,
+   "ebitda": 105.0,
+   "pat": 8.07,
+   "margin_pct": 11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 992.2,
+   "ebitda": 170.75,
+   "pat": 58.94,
+   "margin_pct": 17.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 1,
+    "profit": 14,
+    "quality": 4
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 993.42,
+   "ebitda": 104.64,
+   "pat": 51.08,
+   "margin_pct": 10.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 9,
+    "profit": 8,
+    "quality": 23
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 0,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

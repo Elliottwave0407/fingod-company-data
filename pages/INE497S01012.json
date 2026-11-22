@@ -1,0 +1,105 @@
+{
+ "isin": "INE497S01012",
+ "sym": "GODAVARIB",
+ "name": "Godavari Biorefineries Limited",
+ "scrip": "544279",
+ "mcap_cr": 1013.28,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 579.5,
+   "ebitda": 112.4,
+   "pat": 71.93,
+   "margin_pct": 19.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 533.24,
+   "ebitda": 5.76,
+   "pat": -16.02,
+   "margin_pct": 1.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 430.75,
+   "ebitda": -34.58,
+   "pat": -41.59,
+   "margin_pct": -8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 459.85,
+   "ebitda": 35.19,
+   "pat": 8.25,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 564.1,
+   "ebitda": 89.6,
+   "pat": 52.88,
+   "margin_pct": 15.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 13,
+    "quality": 26
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 557.88,
+   "ebitda": 0.52,
+   "pat": -19.32,
+   "margin_pct": 0.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 16,
+    "profit": 22,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE147A01011",
+ "sym": "SPIC",
+ "name": "Southern Petrochemicals Industries Corporation  Limited",
+ "scrip": "590030",
+ "mcap_cr": 1202.09,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 754.37,
+   "ebitda": 36.8,
+   "pat": 19.47,
+   "margin_pct": 4.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 780.63,
+   "ebitda": 93.29,
+   "pat": 66.71,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 817.29,
+   "ebitda": 76.87,
+   "pat": 61.22,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 773.89,
+   "ebitda": 84.42,
+   "pat": 54.07,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 584.15,
+   "ebitda": 44.94,
+   "pat": 29.49,
+   "margin_pct": 7.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 35,
+    "profit": 66,
+    "quality": 76
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 848.81,
+   "ebitda": 58.79,
+   "pat": 60.18,
+   "margin_pct": 6.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 6,
+    "quality": 58
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

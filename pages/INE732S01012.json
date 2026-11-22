@@ -1,0 +1,112 @@
+{
+ "isin": "INE732S01012",
+ "sym": "SAKAR",
+ "name": "Sakar Healthcare Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 50.24,
+   "ebitda": 15.73,
+   "pat": 5.76,
+   "margin_pct": 31.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 52.74,
+   "ebitda": 12.7,
+   "pat": 4.67,
+   "margin_pct": 24.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 57.56,
+   "ebitda": 11.36,
+   "pat": 4.54,
+   "margin_pct": 19.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 70.34,
+   "ebitda": 18.59,
+   "pat": 10.25,
+   "margin_pct": 26.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 71.1,
+   "ebitda": 26.24,
+   "pat": 11.02,
+   "margin_pct": 36.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 93,
+    "profit": 100,
+    "quality": 60
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 72.97,
+   "ebitda": 21.25,
+   "pat": 10.28,
+   "margin_pct": 29.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 91,
+    "profit": 100,
+    "quality": 65
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 87.42,
+   "ebitda": 24.34,
+   "pat": 11.31,
+   "margin_pct": 27.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 97,
+    "profit": 100,
+    "quality": 64
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 5,
+  "concalls_read": 4,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

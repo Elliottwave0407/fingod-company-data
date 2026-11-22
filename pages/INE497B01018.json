@@ -1,0 +1,105 @@
+{
+ "isin": "INE497B01018",
+ "sym": "SEAMECLTD",
+ "name": "Seamec Limited",
+ "scrip": "526807",
+ "mcap_cr": 3918.88,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 199.62,
+   "ebitda": 81.22,
+   "pat": 41.02,
+   "margin_pct": 40.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 210.92,
+   "ebitda": 96.88,
+   "pat": 75.79,
+   "margin_pct": 45.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 97.42,
+   "ebitda": 7.84,
+   "pat": -25.73,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 317.05,
+   "ebitda": 135.81,
+   "pat": 99.76,
+   "margin_pct": 42.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 327.07,
+   "ebitda": 159.14,
+   "pat": 103.7,
+   "margin_pct": 48.7,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 79
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 296.92,
+   "ebitda": 123.93,
+   "pat": 81.34,
+   "margin_pct": 41.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 78,
+    "profit": 20,
+    "quality": 48
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

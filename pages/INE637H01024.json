@@ -1,0 +1,105 @@
+{
+ "isin": "INE637H01024",
+ "sym": "SHIVAMAUTO",
+ "name": "Shivam Autotech Limited",
+ "scrip": "532776",
+ "mcap_cr": 312.66,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 107.84,
+   "ebitda": 8.21,
+   "pat": -14.76,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 90.73,
+   "ebitda": 5.32,
+   "pat": -17.66,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 113.23,
+   "ebitda": 10.27,
+   "pat": -12.42,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 96.18,
+   "ebitda": 3.93,
+   "pat": -24.53,
+   "margin_pct": 4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 109.43,
+   "ebitda": 9.39,
+   "pat": -26.72,
+   "margin_pct": 8.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 39,
+    "profit": 49,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 109.58,
+   "ebitda": 7.93,
+   "pat": -20.99,
+   "margin_pct": 7.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 76,
+    "profit": 52,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

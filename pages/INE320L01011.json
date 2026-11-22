@@ -1,0 +1,101 @@
+{
+ "isin": "INE320L01011",
+ "sym": "DHUNINV",
+ "name": "Dhunseri Investments Limited",
+ "scrip": "533336",
+ "mcap_cr": 571.31,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 41.26,
+   "ebitda": -112.59,
+   "pat": -109.17,
+   "margin_pct": -272.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 185.2,
+   "ebitda": 94.56,
+   "pat": 77.31,
+   "margin_pct": 51.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 78.91,
+   "ebitda": -48.28,
+   "pat": -33.05,
+   "margin_pct": -61.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 69.58,
+   "ebitda": -45.44,
+   "pat": -1.18,
+   "margin_pct": -65.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 53.21,
+   "ebitda": -79.76,
+   "pat": 3.5,
+   "margin_pct": -149.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 258.95,
+   "ebitda": 117.55,
+   "pat": 193.79,
+   "margin_pct": 45.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 75,
+    "profit": 20,
+    "quality": 100
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

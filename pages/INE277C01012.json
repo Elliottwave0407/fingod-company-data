@@ -1,0 +1,101 @@
+{
+ "isin": "INE277C01012",
+ "sym": "REGENCERAM",
+ "name": "Regency Ceramics Limited",
+ "scrip": "515018",
+ "mcap_cr": 75.57,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 7.02,
+   "ebitda": -6.08,
+   "pat": 11.46,
+   "margin_pct": -86.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 6.72,
+   "ebitda": -4.15,
+   "pat": -1.96,
+   "margin_pct": -61.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 8.76,
+   "ebitda": -3.24,
+   "pat": -4.23,
+   "margin_pct": -37.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 11.52,
+   "ebitda": -4.22,
+   "pat": -5.16,
+   "margin_pct": -36.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 11.26,
+   "ebitda": -11.76,
+   "pat": -12.49,
+   "margin_pct": -104.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 100,
+    "profit": -84,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 18.33,
+   "ebitda": -15.26,
+   "pat": -2.57,
+   "margin_pct": -83.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

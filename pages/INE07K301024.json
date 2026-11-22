@@ -1,0 +1,105 @@
+{
+ "isin": "INE07K301024",
+ "sym": "ZAGGLE",
+ "name": "Zaggle Prepaid Ocean Services Limited",
+ "scrip": "543985",
+ "mcap_cr": 2058.56,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 412.11,
+   "ebitda": 35.91,
+   "pat": 31.13,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 331.96,
+   "ebitda": 30.49,
+   "pat": 26.11,
+   "margin_pct": 9.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 432.22,
+   "ebitda": 43.96,
+   "pat": 34.98,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 525.55,
+   "ebitda": 52.17,
+   "pat": 37.06,
+   "margin_pct": 9.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 617.92,
+   "ebitda": 58.33,
+   "pat": 40.6,
+   "margin_pct": 9.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 96,
+    "profit": 47,
+    "quality": 70
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 423.26,
+   "ebitda": 30.91,
+   "pat": 17.53,
+   "margin_pct": 7.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 49,
+    "profit": 18,
+    "quality": 22
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

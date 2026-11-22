@@ -1,0 +1,115 @@
+{
+ "isin": "INE529I01021",
+ "sym": "KUANTUM",
+ "name": "Kuantum Papers Limited",
+ "scrip": "532937",
+ "mcap_cr": 575.85,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 277.35,
+   "ebitda": 59.88,
+   "pat": 26.12,
+   "margin_pct": 21.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 222.92,
+   "ebitda": 40.4,
+   "pat": 12.06,
+   "margin_pct": 18.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 279.7,
+   "ebitda": 34.34,
+   "pat": 5.77,
+   "margin_pct": 12.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 289.59,
+   "ebitda": 39.25,
+   "pat": 9.78,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 300.94,
+   "ebitda": 47.84,
+   "pat": 14.34,
+   "margin_pct": 15.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 24,
+    "profit": 13,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 303.75,
+   "ebitda": 40.1,
+   "pat": 6.23,
+   "margin_pct": 13.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 53,
+    "profit": 11,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 279.1,
+   "ebitda": 34.46,
+   "pat": 2.24,
+   "margin_pct": 12.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": 43,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

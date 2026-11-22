@@ -1,0 +1,105 @@
+{
+ "isin": "INE304A01026",
+ "sym": "MUKANDLTD",
+ "name": "Mukand Limited",
+ "scrip": "500460",
+ "mcap_cr": 1947.8,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1106.89,
+   "ebitda": 65.13,
+   "pat": 10.9,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1128.71,
+   "ebitda": 47.25,
+   "pat": 29.03,
+   "margin_pct": 4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1160.62,
+   "ebitda": 69.14,
+   "pat": 9.88,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1331.41,
+   "ebitda": 72.13,
+   "pat": 10.26,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1269.09,
+   "ebitda": -17.49,
+   "pat": 554.98,
+   "margin_pct": -1.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": -1,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1362.21,
+   "ebitda": 7.18,
+   "pat": 57.36,
+   "margin_pct": 0.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 30,
+    "profit": 0,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

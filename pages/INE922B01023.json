@@ -1,0 +1,105 @@
+{
+ "isin": "INE922B01023",
+ "sym": "PANACEABIO",
+ "name": "Panacea Biotec Limited",
+ "scrip": "531349",
+ "mcap_cr": 2059.56,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 132.53,
+   "ebitda": 0.83,
+   "pat": -1.99,
+   "margin_pct": 0.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 166.7,
+   "ebitda": 10.14,
+   "pat": 3.96,
+   "margin_pct": 6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 141.13,
+   "ebitda": -15.09,
+   "pat": -14.01,
+   "margin_pct": -10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 165.19,
+   "ebitda": 14.51,
+   "pat": 3.89,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 166.75,
+   "ebitda": 5.28,
+   "pat": -1.0,
+   "margin_pct": 3.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 84,
+    "profit": 60,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 199.57,
+   "ebitda": 8.41,
+   "pat": 2.2,
+   "margin_pct": 4.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 35,
+    "profit": 15,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

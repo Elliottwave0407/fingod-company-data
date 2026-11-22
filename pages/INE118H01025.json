@@ -1,0 +1,102 @@
+{
+ "isin": "INE118H01025",
+ "sym": "BSE",
+ "name": "BSE Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 846.64,
+   "ebitda": 593.57,
+   "pat": 493.67,
+   "margin_pct": 70.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 958.39,
+   "ebitda": 625.93,
+   "pat": 538.17,
+   "margin_pct": 65.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1068.39,
+   "ebitda": 680.26,
+   "pat": 557.02,
+   "margin_pct": 63.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1244.1,
+   "ebitda": 732.14,
+   "pat": 596.59,
+   "margin_pct": 58.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1563.51,
+   "ebitda": 1040.64,
+   "pat": 795.47,
+   "margin_pct": 66.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 20,
+    "quality": 89
+   },
+   "capped_by": "margin down over 2 pts YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1566.02,
+   "ebitda": 1046.02,
+   "pat": 872.66,
+   "margin_pct": 66.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 67,
+    "quality": 95
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-08-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

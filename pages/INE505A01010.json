@@ -1,0 +1,115 @@
+{
+ "isin": "INE505A01010",
+ "sym": "DMCC",
+ "name": "DMCC SPECIALITY CHEMICALS LIMITED",
+ "scrip": "506405",
+ "mcap_cr": 619.51,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 125.22,
+   "ebitda": 15.13,
+   "pat": 6.47,
+   "margin_pct": 12.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 127.04,
+   "ebitda": 16.89,
+   "pat": 7.76,
+   "margin_pct": 13.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 126.03,
+   "ebitda": 14.01,
+   "pat": 5.75,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 150.87,
+   "ebitda": 14.72,
+   "pat": 6.17,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 177.64,
+   "ebitda": 17.7,
+   "pat": 7.65,
+   "margin_pct": 10.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 70,
+    "profit": 17,
+    "quality": 39
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 253.01,
+   "ebitda": 34.13,
+   "pat": 20.4,
+   "margin_pct": 13.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 45,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 272.88,
+   "ebitda": 11.41,
+   "pat": 3.23,
+   "margin_pct": 4.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 55,
+    "profit": 3,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

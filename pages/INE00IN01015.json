@@ -1,0 +1,105 @@
+{
+ "isin": "INE00IN01015",
+ "sym": "STOVEKRAFT",
+ "name": "Stove Kraft Limited",
+ "scrip": "543260",
+ "mcap_cr": 2510.36,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 312.99,
+   "ebitda": 29.47,
+   "pat": 1.45,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 340.11,
+   "ebitda": 35.61,
+   "pat": 10.43,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 474.42,
+   "ebitda": 56.77,
+   "pat": 21.36,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 378.37,
+   "ebitda": 34.28,
+   "pat": 4.15,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 414.52,
+   "ebitda": 39.46,
+   "pat": 6.05,
+   "margin_pct": 9.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 78,
+    "profit": 41,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 480.58,
+   "ebitda": 53.76,
+   "pat": 17.06,
+   "margin_pct": 11.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 89,
+    "profit": 48,
+    "quality": 51
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

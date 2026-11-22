@@ -1,0 +1,105 @@
+{
+ "isin": "INE390G01014",
+ "sym": "GPTINFRA",
+ "name": "GPT Infraprojects Limited",
+ "scrip": "533761",
+ "mcap_cr": 1440.56,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 380.74,
+   "ebitda": 38.59,
+   "pat": 22.23,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 312.63,
+   "ebitda": 37.03,
+   "pat": 24.97,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 278.67,
+   "ebitda": 39.55,
+   "pat": 21.48,
+   "margin_pct": 14.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 283.93,
+   "ebitda": 38.36,
+   "pat": 20.41,
+   "margin_pct": 13.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 414.68,
+   "ebitda": 59.24,
+   "pat": 29.78,
+   "margin_pct": 14.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 67,
+    "profit": 83,
+    "quality": 56
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 302.07,
+   "ebitda": 47.53,
+   "pat": 24.34,
+   "margin_pct": 15.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 47,
+    "profit": 82,
+    "quality": 29
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

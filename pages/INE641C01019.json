@@ -1,0 +1,101 @@
+{
+ "isin": "INE641C01019",
+ "sym": "KAVDEFENCE",
+ "name": "Kavveri Defence & Wireless Technologies Limited",
+ "scrip": "590041",
+ "mcap_cr": 427.06,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 8.2,
+   "ebitda": -0.59,
+   "pat": 3.69,
+   "margin_pct": -7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 3.91,
+   "ebitda": 1.04,
+   "pat": 1.08,
+   "margin_pct": 26.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 2.1,
+   "ebitda": -0.02,
+   "pat": 0.47,
+   "margin_pct": -1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.49,
+   "ebitda": -0.63,
+   "pat": -0.6,
+   "margin_pct": -42.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.92,
+   "ebitda": -1.76,
+   "pat": 0.28,
+   "margin_pct": -191.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -153,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1.44,
+   "ebitda": -1.48,
+   "pat": -1.21,
+   "margin_pct": -102.8,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

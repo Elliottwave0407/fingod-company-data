@@ -1,0 +1,115 @@
+{
+ "isin": "INE12NJ01018",
+ "sym": "SAMBHV",
+ "name": "Sambhv Steel Tubes Limited",
+ "scrip": "544430",
+ "mcap_cr": 4661.7,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 495.26,
+   "ebitda": 48.12,
+   "pat": 16.58,
+   "margin_pct": 9.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 558.63,
+   "ebitda": 72.68,
+   "pat": 33.87,
+   "margin_pct": 13.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 580.17,
+   "ebitda": 60.24,
+   "pat": 30.6,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 589.13,
+   "ebitda": 51.03,
+   "pat": 24.37,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 685.31,
+   "ebitda": 88.75,
+   "pat": 53.31,
+   "margin_pct": 13.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 91,
+    "profit": 74,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 732.17,
+   "ebitda": 95.15,
+   "pat": 56.52,
+   "margin_pct": 13.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 75,
+    "profit": 42,
+    "quality": 75
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 835.99,
+   "ebitda": 100.98,
+   "pat": 60.95,
+   "margin_pct": 12.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 94,
+    "profit": 59,
+    "quality": 75
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

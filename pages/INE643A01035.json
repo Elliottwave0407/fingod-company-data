@@ -1,0 +1,105 @@
+{
+ "isin": "INE643A01035",
+ "sym": "JTEKTINDIA",
+ "name": "Jtekt India Limited",
+ "scrip": "520057",
+ "mcap_cr": 3423.47,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 649.19,
+   "ebitda": 56.61,
+   "pat": 24.65,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 566.02,
+   "ebitda": 30.86,
+   "pat": 10.82,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 639.11,
+   "ebitda": 46.27,
+   "pat": 18.23,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 680.12,
+   "ebitda": 48.74,
+   "pat": 20.36,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 780.33,
+   "ebitda": 68.64,
+   "pat": 27.49,
+   "margin_pct": 8.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 61,
+    "profit": 40,
+    "quality": 31
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 717.98,
+   "ebitda": 38.2,
+   "pat": 6.22,
+   "margin_pct": 5.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 67,
+    "profit": 35,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-05-25"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

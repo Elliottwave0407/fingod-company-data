@@ -1,0 +1,97 @@
+{
+ "isin": "INE844A01013",
+ "sym": "PEARLPOLY",
+ "name": "Pearl Polymers Limited",
+ "scrip": "523260",
+ "mcap_cr": 25.27,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 6.23,
+   "ebitda": -2.94,
+   "pat": -4.43,
+   "margin_pct": -47.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 4.92,
+   "ebitda": -1.44,
+   "pat": 2.89,
+   "margin_pct": -29.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 4.5,
+   "ebitda": -1.46,
+   "pat": -1.94,
+   "margin_pct": -32.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 4.7,
+   "ebitda": -1.47,
+   "pat": -1.64,
+   "margin_pct": -31.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 5.59,
+   "ebitda": -2.98,
+   "pat": -4.08,
+   "margin_pct": -53.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 5.04,
+   "ebitda": -1.37,
+   "pat": 2.35,
+   "margin_pct": -27.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

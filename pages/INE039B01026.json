@@ -1,0 +1,93 @@
+{
+ "isin": "INE039B01026",
+ "sym": "CINEVISTA",
+ "name": "Cinevista Limited",
+ "scrip": "532324",
+ "mcap_cr": 80.41,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 4.63,
+   "ebitda": 1.94,
+   "pat": 0.99,
+   "margin_pct": 41.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 3.79,
+   "ebitda": 1.56,
+   "pat": 0.77,
+   "margin_pct": 41.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 8.25,
+   "ebitda": 4.19,
+   "pat": 3.52,
+   "margin_pct": 50.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 7.3,
+   "ebitda": 3.11,
+   "pat": 0.82,
+   "margin_pct": 42.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 7.49,
+   "ebitda": 2.33,
+   "pat": 1.0,
+   "margin_pct": 31.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 5.1,
+   "ebitda": 1.38,
+   "pat": 0.59,
+   "margin_pct": 27.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

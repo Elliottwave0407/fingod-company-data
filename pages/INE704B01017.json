@@ -1,0 +1,105 @@
+{
+ "isin": "INE704B01017",
+ "sym": "RACLGEAR",
+ "name": "RACL Geartech Limited",
+ "scrip": "520073",
+ "mcap_cr": 1808.06,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 87.29,
+   "ebitda": 19.12,
+   "pat": 6.5,
+   "margin_pct": 21.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 100.65,
+   "ebitda": 18.82,
+   "pat": 8.26,
+   "margin_pct": 18.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 120.31,
+   "ebitda": 24.4,
+   "pat": 12.05,
+   "margin_pct": 20.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 137.32,
+   "ebitda": 31.3,
+   "pat": 16.29,
+   "margin_pct": 22.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 131.66,
+   "ebitda": 29.05,
+   "pat": 12.35,
+   "margin_pct": 22.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 93,
+    "profit": 51,
+    "quality": 60
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 132.35,
+   "ebitda": 31.94,
+   "pat": 8.9,
+   "margin_pct": 24.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 88,
+    "profit": 99,
+    "quality": 19
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-09-01"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

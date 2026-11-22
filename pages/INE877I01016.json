@@ -1,0 +1,105 @@
+{
+ "isin": "INE877I01016",
+ "sym": "ARCHIDPLY",
+ "name": "Archidply Industries Limited",
+ "scrip": "532994",
+ "mcap_cr": 155.68,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 161.81,
+   "ebitda": 8.84,
+   "pat": -0.1,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 147.85,
+   "ebitda": 8.61,
+   "pat": 0.57,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 175.72,
+   "ebitda": 10.65,
+   "pat": 2.65,
+   "margin_pct": 6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 168.0,
+   "ebitda": 9.79,
+   "pat": 1.61,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 179.13,
+   "ebitda": 11.87,
+   "pat": 3.15,
+   "margin_pct": 6.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 61,
+    "profit": 49,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 189.01,
+   "ebitda": 13.92,
+   "pat": 5.62,
+   "margin_pct": 7.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 85,
+    "profit": 53,
+    "quality": 59
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

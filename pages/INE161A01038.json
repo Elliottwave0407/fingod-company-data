@@ -1,0 +1,115 @@
+{
+ "isin": "INE161A01038",
+ "sym": "NIITLTD",
+ "name": "NIIT Limited",
+ "scrip": "500304",
+ "mcap_cr": 951.7,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 86.28,
+   "ebitda": -1.74,
+   "pat": 13.7,
+   "margin_pct": -2.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 84.12,
+   "ebitda": -11.78,
+   "pat": 4.19,
+   "margin_pct": -14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 104.94,
+   "ebitda": -3.72,
+   "pat": 0.65,
+   "margin_pct": -3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 101.37,
+   "ebitda": -6.34,
+   "pat": 4.57,
+   "margin_pct": -6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 99.74,
+   "ebitda": -2.49,
+   "pat": -3.48,
+   "margin_pct": -2.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 52,
+    "profit": 25,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 95.65,
+   "ebitda": -5.19,
+   "pat": 7.52,
+   "margin_pct": -5.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 49,
+    "profit": 76,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 98.22,
+   "ebitda": 0.95,
+   "pat": -1.84,
+   "margin_pct": 1.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 20,
+    "profit": 76,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

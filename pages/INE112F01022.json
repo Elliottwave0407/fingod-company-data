@@ -1,0 +1,105 @@
+{
+ "isin": "INE112F01022",
+ "sym": "LAMBODHARA",
+ "name": "Lambodhara Textiles Limited",
+ "scrip": "590075",
+ "mcap_cr": 117.12,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 54.37,
+   "ebitda": 4.75,
+   "pat": 0.22,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 59.1,
+   "ebitda": 5.91,
+   "pat": 2.16,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 62.54,
+   "ebitda": 9.0,
+   "pat": 3.32,
+   "margin_pct": 14.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 59.08,
+   "ebitda": 5.55,
+   "pat": 2.4,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 57.23,
+   "ebitda": 5.67,
+   "pat": 3.13,
+   "margin_pct": 9.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 46,
+    "profit": 52,
+    "quality": 57
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 53.88,
+   "ebitda": 6.41,
+   "pat": 3.57,
+   "margin_pct": 11.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 29,
+    "profit": 60,
+    "quality": 71
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

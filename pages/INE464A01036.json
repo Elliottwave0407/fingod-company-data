@@ -1,0 +1,101 @@
+{
+ "isin": "INE464A01036",
+ "sym": "BBL",
+ "name": "Bharat Bijlee Limited",
+ "scrip": "503960",
+ "mcap_cr": 2849.06,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 464.9,
+   "ebitda": 33.64,
+   "pat": 27.88,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 473.44,
+   "ebitda": 34.81,
+   "pat": 28.23,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 568.37,
+   "ebitda": 34.32,
+   "pat": 24.68,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 767.09,
+   "ebitda": 55.21,
+   "pat": 39.3,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 547.17,
+   "ebitda": 28.82,
+   "pat": 19.63,
+   "margin_pct": 5.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 34,
+    "profit": 15,
+    "quality": 26
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 736.16,
+   "ebitda": 58.74,
+   "pat": 46.04,
+   "margin_pct": 8.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 98,
+    "profit": 45,
+    "quality": 90
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

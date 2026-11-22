@@ -1,0 +1,105 @@
+{
+ "isin": "INE757A01017",
+ "sym": "COSMOFIRST",
+ "name": "COSMO FIRST LIMITED",
+ "scrip": "508814",
+ "mcap_cr": 2128.46,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 745.86,
+   "ebitda": 70.3,
+   "pat": 27.1,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 800.03,
+   "ebitda": 91.88,
+   "pat": 42.87,
+   "margin_pct": 11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 919.03,
+   "ebitda": 103.07,
+   "pat": 46.69,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 898.98,
+   "ebitda": 68.02,
+   "pat": 29.5,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1020.68,
+   "ebitda": 113.37,
+   "pat": 36.91,
+   "margin_pct": 11.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 91,
+    "profit": 58,
+    "quality": 43
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1165.54,
+   "ebitda": 135.93,
+   "pat": 53.75,
+   "margin_pct": 11.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 89,
+    "profit": 43,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

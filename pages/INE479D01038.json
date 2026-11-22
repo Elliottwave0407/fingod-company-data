@@ -1,0 +1,105 @@
+{
+ "isin": "INE479D01038",
+ "sym": "KRITI",
+ "name": "Kriti Industries (India) Limited",
+ "scrip": "526423",
+ "mcap_cr": 268.38,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 137.51,
+   "ebitda": 0.23,
+   "pat": -3.66,
+   "margin_pct": 0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 224.06,
+   "ebitda": 15.1,
+   "pat": 7.26,
+   "margin_pct": 6.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 85.73,
+   "ebitda": -4.07,
+   "pat": -9.68,
+   "margin_pct": -4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 135.79,
+   "ebitda": 4.78,
+   "pat": -0.47,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 141.78,
+   "ebitda": 14.54,
+   "pat": 4.01,
+   "margin_pct": 10.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 65,
+    "profit": 88,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 173.11,
+   "ebitda": 5.32,
+   "pat": -2.21,
+   "margin_pct": 3.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 3,
+    "profit": 2,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-05-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

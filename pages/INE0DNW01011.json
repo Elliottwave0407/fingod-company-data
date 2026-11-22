@@ -1,0 +1,115 @@
+{
+ "isin": "INE0DNW01011",
+ "sym": "FAIRCHEMOR",
+ "name": "Fairchem Organics Limited",
+ "scrip": "543252",
+ "mcap_cr": 824.65,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 120.78,
+   "ebitda": 4.42,
+   "pat": 0.59,
+   "margin_pct": 3.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 131.06,
+   "ebitda": 5.24,
+   "pat": 1.17,
+   "margin_pct": 4.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 111.52,
+   "ebitda": 4.19,
+   "pat": 0.77,
+   "margin_pct": 3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 100.13,
+   "ebitda": 3.29,
+   "pat": -0.1,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 116.93,
+   "ebitda": 8.03,
+   "pat": 3.69,
+   "margin_pct": 6.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 61,
+    "profit": 69,
+    "quality": 63
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 176.15,
+   "ebitda": 17.87,
+   "pat": 10.01,
+   "margin_pct": 10.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 90,
+    "profit": 88,
+    "quality": 72
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 166.92,
+   "ebitda": 17.53,
+   "pat": 10.17,
+   "margin_pct": 10.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 96,
+    "profit": 88,
+    "quality": 73
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

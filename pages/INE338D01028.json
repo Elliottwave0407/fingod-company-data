@@ -1,0 +1,105 @@
+{
+ "isin": "INE338D01028",
+ "sym": "BODALCHEM",
+ "name": "Bodal Chemicals Limited",
+ "scrip": "524370",
+ "mcap_cr": 1858.93,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 450.87,
+   "ebitda": 47.26,
+   "pat": 14.5,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 454.2,
+   "ebitda": 47.6,
+   "pat": 9.53,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 480.45,
+   "ebitda": 22.94,
+   "pat": 5.99,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 489.57,
+   "ebitda": 22.03,
+   "pat": 0.24,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 588.02,
+   "ebitda": 68.57,
+   "pat": 32.06,
+   "margin_pct": 11.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 81,
+    "profit": 53,
+    "quality": 64
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 709.04,
+   "ebitda": 68.94,
+   "pat": 30.38,
+   "margin_pct": 9.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 92,
+    "profit": 32,
+    "quality": 62
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2025-08-14"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

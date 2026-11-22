@@ -1,0 +1,105 @@
+{
+ "isin": "INE642C01025",
+ "sym": "RUBFILA",
+ "name": "Rubfila International Limited",
+ "scrip": "500367",
+ "mcap_cr": 330.27,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 147.47,
+   "ebitda": 12.58,
+   "pat": 8.31,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 144.93,
+   "ebitda": 9.87,
+   "pat": 6.69,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 150.24,
+   "ebitda": 10.91,
+   "pat": 8.0,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 146.73,
+   "ebitda": 8.64,
+   "pat": 5.5,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 160.6,
+   "ebitda": 11.03,
+   "pat": 6.42,
+   "margin_pct": 6.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 27,
+    "profit": 20,
+    "quality": 27
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 133.49,
+   "ebitda": 9.33,
+   "pat": 5.8,
+   "margin_pct": 7.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": 39,
+    "quality": 34
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

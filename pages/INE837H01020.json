@@ -1,0 +1,115 @@
+{
+ "isin": "INE837H01020",
+ "sym": "ADVENZYMES",
+ "name": "Advanced Enzyme Technologies Limited",
+ "scrip": "540025",
+ "mcap_cr": 3261.87,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 167.18,
+   "ebitda": 45.61,
+   "pat": 26.73,
+   "margin_pct": 27.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 185.91,
+   "ebitda": 56.43,
+   "pat": 40.44,
+   "margin_pct": 30.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 184.53,
+   "ebitda": 60.06,
+   "pat": 44.73,
+   "margin_pct": 32.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 171.95,
+   "ebitda": 60.6,
+   "pat": 43.18,
+   "margin_pct": 35.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 203.37,
+   "ebitda": 63.33,
+   "pat": 45.25,
+   "margin_pct": 31.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 73,
+    "profit": 89,
+    "quality": 85
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 189.79,
+   "ebitda": 50.97,
+   "pat": 38.59,
+   "margin_pct": 26.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 23,
+    "profit": 20,
+    "quality": 49
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 214.51,
+   "ebitda": 72.12,
+   "pat": 51.15,
+   "margin_pct": 33.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 57,
+    "profit": 63,
+    "quality": 59
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

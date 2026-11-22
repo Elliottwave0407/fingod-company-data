@@ -1,0 +1,94 @@
+{
+ "isin": "INE753W01010",
+ "sym": "AGASTYAEN",
+ "name": "Sanginita Chemicals Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 49.85,
+   "ebitda": 0.98,
+   "pat": -0.05,
+   "margin_pct": 2.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 45.91,
+   "ebitda": 0.8,
+   "pat": 0.11,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 44.1,
+   "ebitda": 0.33,
+   "pat": -0.68,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 43.47,
+   "ebitda": -1.75,
+   "pat": -2.78,
+   "margin_pct": -4.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 42.97,
+   "ebitda": -5.37,
+   "pat": -6.33,
+   "margin_pct": -12.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 25.31,
+   "ebitda": -11.28,
+   "pat": -11.44,
+   "margin_pct": -44.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

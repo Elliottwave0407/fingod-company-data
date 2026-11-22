@@ -1,0 +1,111 @@
+{
+ "isin": "INE919I01024",
+ "sym": "RADIOCITY",
+ "name": "Music Broadcast Limited",
+ "scrip": "540366",
+ "mcap_cr": 194.28,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 54.67,
+   "ebitda": -45.4,
+   "pat": -38.03,
+   "margin_pct": -83.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 49.32,
+   "ebitda": 0.94,
+   "pat": -2.17,
+   "margin_pct": 1.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 37.84,
+   "ebitda": -5.48,
+   "pat": -6.88,
+   "margin_pct": -14.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 46.48,
+   "ebitda": 7.61,
+   "pat": 3.68,
+   "margin_pct": 16.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 40.79,
+   "ebitda": -47.48,
+   "pat": -47.96,
+   "margin_pct": -116.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 44.54,
+   "ebitda": 8.92,
+   "pat": 9.22,
+   "margin_pct": 20.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 58,
+    "profit": 96,
+    "quality": 80
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 40.96,
+   "ebitda": 6.15,
+   "pat": 6.68,
+   "margin_pct": 15.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 39,
+    "profit": 92,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-30"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

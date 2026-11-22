@@ -1,0 +1,115 @@
+{
+ "isin": "INE561M01018",
+ "sym": "ISHANCH",
+ "name": "Ishan Dyes and Chemicals Limited",
+ "scrip": "531109",
+ "mcap_cr": 107.17,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 16.73,
+   "ebitda": 0.3,
+   "pat": -1.16,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 16.29,
+   "ebitda": 1.83,
+   "pat": 0.3,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 6.74,
+   "ebitda": -1.69,
+   "pat": -3.62,
+   "margin_pct": -25.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 18.69,
+   "ebitda": -1.99,
+   "pat": -5.25,
+   "margin_pct": -10.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 31.76,
+   "ebitda": 5.58,
+   "pat": 1.47,
+   "margin_pct": 17.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 94,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 41.48,
+   "ebitda": 3.37,
+   "pat": 0.15,
+   "margin_pct": 8.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 100,
+    "profit": 6,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 20.37,
+   "ebitda": 10.49,
+   "pat": 6.22,
+   "margin_pct": 51.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 49
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

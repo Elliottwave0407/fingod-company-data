@@ -1,0 +1,98 @@
+{
+ "isin": "INE360C01024",
+ "sym": "DPSCLTD",
+ "name": "DPSC Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 150.21,
+   "ebitda": -78.17,
+   "pat": -1.87,
+   "margin_pct": -52.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 163.67,
+   "ebitda": 5.77,
+   "pat": 3.81,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 197.94,
+   "ebitda": 6.77,
+   "pat": 3.78,
+   "margin_pct": 3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 155.32,
+   "ebitda": -6.31,
+   "pat": 1.85,
+   "margin_pct": -4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 166.08,
+   "ebitda": -2.82,
+   "pat": 4.14,
+   "margin_pct": -1.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 186.93,
+   "ebitda": 10.23,
+   "pat": 4.22,
+   "margin_pct": 5.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 75,
+    "profit": 56,
+    "quality": 31
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

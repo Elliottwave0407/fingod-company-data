@@ -1,0 +1,105 @@
+{
+ "isin": "INE840Y01029",
+ "sym": "ONEPOINT",
+ "name": "One Point One Solutions Limited",
+ "scrip": "544748",
+ "mcap_cr": 1852.92,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 67.05,
+   "ebitda": 12.27,
+   "pat": 8.74,
+   "margin_pct": 18.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 69.01,
+   "ebitda": 15.08,
+   "pat": 9.44,
+   "margin_pct": 21.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 70.87,
+   "ebitda": 17.03,
+   "pat": 9.85,
+   "margin_pct": 24.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 77.3,
+   "ebitda": 17.38,
+   "pat": 8.64,
+   "margin_pct": 22.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 96.2,
+   "ebitda": 21.72,
+   "pat": 10.28,
+   "margin_pct": 22.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 93,
+    "profit": 91,
+    "quality": 42
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 158.32,
+   "ebitda": 35.79,
+   "pat": 16.31,
+   "margin_pct": 22.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 58,
+    "quality": 63
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

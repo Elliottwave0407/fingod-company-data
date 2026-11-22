@@ -1,0 +1,103 @@
+{
+ "isin": "INE389K01018",
+ "sym": "WELINV",
+ "name": "Welspun Investments and Commercials Limited",
+ "scrip": "533252",
+ "mcap_cr": 836.88,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.06,
+   "ebitda": -0.03,
+   "pat": 0.0,
+   "margin_pct": -50.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.04,
+   "ebitda": -0.2,
+   "pat": -0.2,
+   "margin_pct": -500.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 4.9,
+   "ebitda": 4.57,
+   "pat": 3.49,
+   "margin_pct": 93.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.13,
+   "ebitda": -0.16,
+   "pat": -0.13,
+   "margin_pct": -123.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.13,
+   "ebitda": -0.18,
+   "pat": -0.13,
+   "margin_pct": -138.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.13,
+   "ebitda": -0.15,
+   "pat": -0.15,
+   "margin_pct": -115.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 14.11,
+   "ebitda": 11.69,
+   "pat": 8.76,
+   "margin_pct": 82.8,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

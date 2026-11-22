@@ -1,0 +1,115 @@
+{
+ "isin": "INE694E01014",
+ "sym": "KANPRPLA",
+ "name": "Kanpur Plastipack Limited",
+ "scrip": "507779",
+ "mcap_cr": 588.26,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 183.96,
+   "ebitda": 6.31,
+   "pat": 3.0,
+   "margin_pct": 3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 179.5,
+   "ebitda": 12.8,
+   "pat": 6.05,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 165.25,
+   "ebitda": 15.49,
+   "pat": 7.73,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 192.19,
+   "ebitda": 14.52,
+   "pat": 10.74,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 179.63,
+   "ebitda": 20.18,
+   "pat": 14.98,
+   "margin_pct": 11.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 62,
+    "profit": 89,
+    "quality": 87
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 203.61,
+   "ebitda": 16.42,
+   "pat": 11.68,
+   "margin_pct": 8.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 60,
+    "profit": 48,
+    "quality": 84
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 236.34,
+   "ebitda": 22.71,
+   "pat": 16.06,
+   "margin_pct": 9.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 88,
+    "profit": 42,
+    "quality": 84
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 6,
+  "concalls_read": 5,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

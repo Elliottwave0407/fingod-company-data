@@ -1,0 +1,105 @@
+{
+ "isin": "INE106T01025",
+ "sym": "HITECH",
+ "name": "Hi-Tech Pipes Limited",
+ "scrip": "543411",
+ "mcap_cr": 1530.82,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 733.74,
+   "ebitda": 34.92,
+   "pat": 17.63,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 791.36,
+   "ebitda": 41.03,
+   "pat": 20.92,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 858.77,
+   "ebitda": 44.33,
+   "pat": 20.26,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1069.59,
+   "ebitda": 41.88,
+   "pat": 17.39,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1480.36,
+   "ebitda": 46.31,
+   "pat": 17.6,
+   "margin_pct": 3.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 88,
+    "profit": 17,
+    "quality": 19
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1412.8,
+   "ebitda": 49.38,
+   "pat": 20.04,
+   "margin_pct": 3.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 80,
+    "profit": 17,
+    "quality": 20
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-16"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

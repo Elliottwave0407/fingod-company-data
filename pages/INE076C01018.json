@@ -1,0 +1,105 @@
+{
+ "isin": "INE076C01018",
+ "sym": "IFBAGRO",
+ "name": "IFB Agro Industries Limited",
+ "scrip": "507438",
+ "mcap_cr": 854.98,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 354.57,
+   "ebitda": 8.8,
+   "pat": 0.63,
+   "margin_pct": 2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 415.73,
+   "ebitda": 21.82,
+   "pat": 17.18,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 532.88,
+   "ebitda": 37.31,
+   "pat": 22.7,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 470.86,
+   "ebitda": 18.21,
+   "pat": 7.3,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 492.1,
+   "ebitda": 22.8,
+   "pat": 9.3,
+   "margin_pct": 4.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 92,
+    "profit": 57,
+    "quality": 59
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 520.77,
+   "ebitda": 31.45,
+   "pat": 20.35,
+   "margin_pct": 6.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 77,
+    "profit": 45,
+    "quality": 58
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

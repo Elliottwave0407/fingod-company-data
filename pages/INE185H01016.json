@@ -1,0 +1,101 @@
+{
+ "isin": "INE185H01016",
+ "sym": "CELEBRITY",
+ "name": "Celebrity Fashions Limited",
+ "scrip": "532695",
+ "mcap_cr": 37.44,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 51.51,
+   "ebitda": 1.04,
+   "pat": -2.15,
+   "margin_pct": 2.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 40.67,
+   "ebitda": -4.19,
+   "pat": -6.73,
+   "margin_pct": -10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 42.52,
+   "ebitda": -1.62,
+   "pat": -3.95,
+   "margin_pct": -3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 45.38,
+   "ebitda": -0.76,
+   "pat": -3.42,
+   "margin_pct": -1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 43.49,
+   "ebitda": 0.65,
+   "pat": -1.62,
+   "margin_pct": 1.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 6,
+    "profit": 28,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 26.42,
+   "ebitda": -0.84,
+   "pat": -2.37,
+   "margin_pct": -3.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

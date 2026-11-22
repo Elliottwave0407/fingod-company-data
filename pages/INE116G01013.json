@@ -1,0 +1,112 @@
+{
+ "isin": "INE116G01013",
+ "sym": "VARDHACRLC",
+ "name": "Vardhman Acrylics Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 72.11,
+   "ebitda": -0.01,
+   "pat": 1.96,
+   "margin_pct": -0.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 69.39,
+   "ebitda": -0.63,
+   "pat": 1.75,
+   "margin_pct": -0.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 89.4,
+   "ebitda": 0.17,
+   "pat": 2.5,
+   "margin_pct": 0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 76.28,
+   "ebitda": 7.09,
+   "pat": 7.41,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 83.5,
+   "ebitda": 10.06,
+   "pat": 15.59,
+   "margin_pct": 12.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 52,
+    "profit": 90,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 78.25,
+   "ebitda": 17.73,
+   "pat": 16.22,
+   "margin_pct": 22.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 47,
+    "profit": 98,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 113.38,
+   "ebitda": 5.83,
+   "pat": 5.92,
+   "margin_pct": 5.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 85,
+    "profit": 84,
+    "quality": 100
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

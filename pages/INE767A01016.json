@@ -1,0 +1,105 @@
+{
+ "isin": "INE767A01016",
+ "sym": "AARTIDRUGS",
+ "name": "Aarti Drugs Limited",
+ "scrip": "524348",
+ "mcap_cr": 4422.49,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 676.76,
+   "ebitda": 93.32,
+   "pat": 62.77,
+   "margin_pct": 13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 590.51,
+   "ebitda": 74.08,
+   "pat": 53.97,
+   "margin_pct": 12.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 652.79,
+   "ebitda": 84.28,
+   "pat": 45.16,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 601.71,
+   "ebitda": 55.03,
+   "pat": 40.55,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 720.3,
+   "ebitda": 95.8,
+   "pat": 55.26,
+   "margin_pct": 13.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 37,
+    "quality": 31
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 702.78,
+   "ebitda": 96.11,
+   "pat": 50.13,
+   "margin_pct": 13.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 66,
+    "profit": 54,
+    "quality": 28
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE488B01017",
+ "sym": "TASTYBITE",
+ "name": "Tasty Bite Eatables Limited",
+ "scrip": "519091",
+ "mcap_cr": 2664.39,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 133.74,
+   "ebitda": 10.92,
+   "pat": 6.19,
+   "margin_pct": 8.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 121.11,
+   "ebitda": 15.68,
+   "pat": 8.19,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 132.87,
+   "ebitda": 8.74,
+   "pat": 3.62,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 176.98,
+   "ebitda": 25.79,
+   "pat": 17.48,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 117.69,
+   "ebitda": 11.17,
+   "pat": 6.01,
+   "margin_pct": 9.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 22,
+    "profit": 53,
+    "quality": 25
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 155.75,
+   "ebitda": 14.78,
+   "pat": 8.84,
+   "margin_pct": 9.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 46,
+    "profit": 8,
+    "quality": 35
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE547B01028",
+ "sym": "XTGLOBAL",
+ "name": "Xtglobal Infotech Limited",
+ "scrip": "531225",
+ "mcap_cr": 373.13,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 87.05,
+   "ebitda": 4.34,
+   "pat": 1.36,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 92.31,
+   "ebitda": 6.55,
+   "pat": 3.74,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 94.41,
+   "ebitda": 6.9,
+   "pat": 3.44,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 92.49,
+   "ebitda": 8.74,
+   "pat": 3.7,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 89.52,
+   "ebitda": 4.3,
+   "pat": 3.74,
+   "margin_pct": 4.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 27,
+    "profit": 34,
+    "quality": 97
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 93.3,
+   "ebitda": 7.07,
+   "pat": 3.89,
+   "margin_pct": 7.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 43,
+    "quality": 37
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-08-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

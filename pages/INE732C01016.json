@@ -1,0 +1,105 @@
+{
+ "isin": "INE732C01016",
+ "sym": "NCLIND",
+ "name": "NCL Industries Limited",
+ "scrip": "502168",
+ "mcap_cr": 767.83,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 382.86,
+   "ebitda": 20.25,
+   "pat": 6.93,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 338.47,
+   "ebitda": 50.68,
+   "pat": 20.27,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 345.05,
+   "ebitda": 39.38,
+   "pat": 19.9,
+   "margin_pct": 11.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 342.99,
+   "ebitda": 36.16,
+   "pat": 13.24,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 399.63,
+   "ebitda": 51.04,
+   "pat": 41.98,
+   "margin_pct": 12.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 66,
+    "profit": 90,
+    "quality": 94
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 343.67,
+   "ebitda": 39.61,
+   "pat": 17.38,
+   "margin_pct": 11.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 17,
+    "profit": 9,
+    "quality": 18
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-11-18"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

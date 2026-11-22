@@ -1,0 +1,105 @@
+{
+ "isin": "INE170V01027",
+ "sym": "SALASAR",
+ "name": "Salasar Techno Engineering Limited",
+ "scrip": "540642",
+ "mcap_cr": 933.41,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 483.31,
+   "ebitda": 20.9,
+   "pat": -5.23,
+   "margin_pct": 4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 300.17,
+   "ebitda": 29.93,
+   "pat": 8.8,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 427.17,
+   "ebitda": 41.89,
+   "pat": 15.99,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 330.78,
+   "ebitda": 26.5,
+   "pat": 6.51,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 444.65,
+   "ebitda": 14.0,
+   "pat": -13.67,
+   "margin_pct": 3.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 9,
+    "profit": 22,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 295.54,
+   "ebitda": 21.94,
+   "pat": 5.14,
+   "margin_pct": 7.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 13,
+    "profit": 11,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE948A01012",
+ "sym": "TRIGYN",
+ "name": "Trigyn Technologies Limited",
+ "scrip": "517562",
+ "mcap_cr": 180.59,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 240.53,
+   "ebitda": 5.22,
+   "pat": 2.56,
+   "margin_pct": 2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 224.5,
+   "ebitda": -2.4,
+   "pat": -4.61,
+   "margin_pct": -1.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 241.95,
+   "ebitda": 2.19,
+   "pat": 5.27,
+   "margin_pct": 0.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 258.03,
+   "ebitda": -1.64,
+   "pat": 0.69,
+   "margin_pct": -0.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 251.95,
+   "ebitda": 3.44,
+   "pat": 0.63,
+   "margin_pct": 1.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 17,
+    "profit": 25,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 252.76,
+   "ebitda": 3.46,
+   "pat": 3.49,
+   "margin_pct": 1.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 47,
+    "profit": 57,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

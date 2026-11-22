@@ -1,0 +1,105 @@
+{
+ "isin": "INE565V01010",
+ "sym": "VALIANTORG",
+ "name": "Valiant Organics Limited",
+ "scrip": "540145",
+ "mcap_cr": 902.29,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 203.81,
+   "ebitda": 20.27,
+   "pat": 4.2,
+   "margin_pct": 9.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 204.41,
+   "ebitda": 24.82,
+   "pat": 8.2,
+   "margin_pct": 12.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 157.31,
+   "ebitda": 21.15,
+   "pat": 5.66,
+   "margin_pct": 13.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 159.27,
+   "ebitda": 21.3,
+   "pat": 3.64,
+   "margin_pct": 13.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 217.78,
+   "ebitda": 26.49,
+   "pat": 15.72,
+   "margin_pct": 12.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 55,
+    "profit": 64,
+    "quality": 74
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 231.54,
+   "ebitda": 41.62,
+   "pat": 29.26,
+   "margin_pct": 18.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 74,
+    "profit": 94,
+    "quality": 84
+   },
+   "capped_by": "revenue growth under 20%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

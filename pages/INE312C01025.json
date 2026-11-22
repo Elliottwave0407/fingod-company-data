@@ -1,0 +1,105 @@
+{
+ "isin": "INE312C01025",
+ "sym": "SYNCOMF",
+ "name": "Syncom Formulations (India) Limited",
+ "scrip": "524470",
+ "mcap_cr": 2064.24,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 148.88,
+   "ebitda": 17.77,
+   "pat": 17.69,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 116.9,
+   "ebitda": 15.85,
+   "pat": 15.75,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 121.72,
+   "ebitda": 18.4,
+   "pat": 16.6,
+   "margin_pct": 15.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 115.14,
+   "ebitda": 21.21,
+   "pat": 18.91,
+   "margin_pct": 18.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 135.41,
+   "ebitda": 22.01,
+   "pat": 25.17,
+   "margin_pct": 16.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 41,
+    "profit": 87,
+    "quality": 74
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 125.53,
+   "ebitda": 26.2,
+   "pat": 24.85,
+   "margin_pct": 20.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 69,
+    "profit": 97,
+    "quality": 99
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

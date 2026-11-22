@@ -1,0 +1,105 @@
+{
+ "isin": "INE073D01013",
+ "sym": "SUNDRMBRAK",
+ "name": "Sundaram Brake Linings Limited",
+ "scrip": "590072",
+ "mcap_cr": 230.0,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 96.96,
+   "ebitda": 3.38,
+   "pat": 1.32,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 92.01,
+   "ebitda": 1.59,
+   "pat": -0.53,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 78.03,
+   "ebitda": -2.14,
+   "pat": -3.12,
+   "margin_pct": -2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 84.19,
+   "ebitda": 0.59,
+   "pat": -1.24,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 90.43,
+   "ebitda": 8.48,
+   "pat": 7.47,
+   "margin_pct": 9.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 60,
+    "profit": 88,
+    "quality": 98
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 90.98,
+   "ebitda": 2.09,
+   "pat": 0.48,
+   "margin_pct": 2.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 40,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

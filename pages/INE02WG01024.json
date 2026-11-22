@@ -1,0 +1,105 @@
+{
+ "isin": "INE02WG01024",
+ "sym": "WEL",
+ "name": "Wonder Electricals Limited",
+ "scrip": "543449",
+ "mcap_cr": 1110.79,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 312.03,
+   "ebitda": 17.49,
+   "pat": 9.19,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 154.74,
+   "ebitda": 5.1,
+   "pat": 1.11,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 95.23,
+   "ebitda": 4.31,
+   "pat": 0.26,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 152.56,
+   "ebitda": 5.03,
+   "pat": 0.57,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 252.22,
+   "ebitda": 13.96,
+   "pat": 7.18,
+   "margin_pct": 5.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 9,
+    "profit": 36,
+    "quality": 21
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 233.56,
+   "ebitda": 9.08,
+   "pat": 3.97,
+   "margin_pct": 3.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 96,
+    "profit": 41,
+    "quality": 61
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-11-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

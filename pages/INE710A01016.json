@@ -1,0 +1,115 @@
+{
+ "isin": "INE710A01016",
+ "sym": "VSTIND",
+ "name": "VST Industries Limited",
+ "scrip": "509966",
+ "mcap_cr": 3292.76,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 453.98,
+   "ebitda": 69.54,
+   "pat": 53.0,
+   "margin_pct": 15.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 414.12,
+   "ebitda": 76.93,
+   "pat": 56.13,
+   "margin_pct": 18.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 450.37,
+   "ebitda": 78.62,
+   "pat": 59.21,
+   "margin_pct": 17.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 491.85,
+   "ebitda": 85.92,
+   "pat": 60.23,
+   "margin_pct": 17.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 689.4,
+   "ebitda": 208.42,
+   "pat": 116.69,
+   "margin_pct": 30.2,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 97,
+    "profit": 100,
+    "quality": 72
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 861.71,
+   "ebitda": 49.67,
+   "pat": 42.42,
+   "margin_pct": 5.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 5,
+    "quality": 48
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 844.06,
+   "ebitda": 43.24,
+   "pat": 41.04,
+   "margin_pct": 5.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 4,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE036A01016",
+ "sym": "RELINFRA",
+ "name": "Reliance Infrastructure Limited",
+ "scrip": "500390",
+ "mcap_cr": 2308.77,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 4108.01,
+   "ebitda": 528.64,
+   "pat": 8261.89,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 5907.82,
+   "ebitda": 222.79,
+   "pat": 305.45,
+   "margin_pct": 3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 6234.91,
+   "ebitda": 3283.87,
+   "pat": 2575.3,
+   "margin_pct": 52.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 4296.52,
+   "ebitda": 1056.07,
+   "pat": 317.42,
+   "margin_pct": 24.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 4001.28,
+   "ebitda": -1217.08,
+   "pat": 1640.15,
+   "margin_pct": -30.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 11,
+    "profit": -24,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 6344.27,
+   "ebitda": -12.88,
+   "pat": 767.79,
+   "margin_pct": -0.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": 0,
+    "quality": 100
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

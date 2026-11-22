@@ -1,0 +1,115 @@
+{
+ "isin": "INE411B01019",
+ "sym": "VENUSREM",
+ "name": "Venus Remedies Limited",
+ "scrip": "526953",
+ "mcap_cr": 1989.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 194.97,
+   "ebitda": 29.0,
+   "pat": 21.0,
+   "margin_pct": 14.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 131.9,
+   "ebitda": 10.11,
+   "pat": 9.6,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 192.75,
+   "ebitda": 30.96,
+   "pat": 20.13,
+   "margin_pct": 16.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 180.26,
+   "ebitda": 37.52,
+   "pat": 25.58,
+   "margin_pct": 20.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 259.4,
+   "ebitda": 63.42,
+   "pat": 47.49,
+   "margin_pct": 24.4,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 89,
+    "profit": 100,
+    "quality": 87
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 178.86,
+   "ebitda": 34.19,
+   "pat": 22.97,
+   "margin_pct": 19.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 90,
+    "profit": 95,
+    "quality": 81
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 218.76,
+   "ebitda": 42.5,
+   "pat": 25.65,
+   "margin_pct": 19.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 65,
+    "profit": 80,
+    "quality": 60
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

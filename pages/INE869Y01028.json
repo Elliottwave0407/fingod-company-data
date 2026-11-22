@@ -1,0 +1,105 @@
+{
+ "isin": "INE869Y01028",
+ "sym": "TEMBO",
+ "name": "Tembo Global Industries Limited",
+ "scrip": "544987",
+ "mcap_cr": 964.47,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 273.99,
+   "ebitda": 28.85,
+   "pat": 15.62,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 248.12,
+   "ebitda": 28.18,
+   "pat": 19.35,
+   "margin_pct": 11.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 245.41,
+   "ebitda": 34.29,
+   "pat": 21.94,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 250.7,
+   "ebitda": 43.87,
+   "pat": 26.13,
+   "margin_pct": 17.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 345.96,
+   "ebitda": 40.53,
+   "pat": 30.07,
+   "margin_pct": 11.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 76,
+    "profit": 53,
+    "quality": 87
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 302.35,
+   "ebitda": 49.24,
+   "pat": 31.2,
+   "margin_pct": 16.3,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 81,
+    "profit": 92,
+    "quality": 78
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-08-25"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

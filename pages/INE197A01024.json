@@ -1,0 +1,105 @@
+{
+ "isin": "INE197A01024",
+ "sym": "JYOTISTRUC",
+ "name": "Jyoti Structures Limited",
+ "scrip": "513250",
+ "mcap_cr": 1430.0,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 164.69,
+   "ebitda": 12.65,
+   "pat": 11.93,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 156.16,
+   "ebitda": 6.9,
+   "pat": 11.16,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 150.6,
+   "ebitda": 8.79,
+   "pat": 9.72,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 208.96,
+   "ebitda": 14.61,
+   "pat": 17.01,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 234.36,
+   "ebitda": 17.3,
+   "pat": 18.14,
+   "margin_pct": 7.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 84,
+    "profit": 35,
+    "quality": 97
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 251.46,
+   "ebitda": 21.25,
+   "pat": 19.46,
+   "margin_pct": 8.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 78,
+    "quality": 100
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

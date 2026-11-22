@@ -1,0 +1,115 @@
+{
+ "isin": "INE805D01034",
+ "sym": "SUNTECK",
+ "name": "Sunteck Realty Limited",
+ "scrip": "512179",
+ "mcap_cr": 4647.55,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 198.46,
+   "ebitda": 80.93,
+   "pat": 54.58,
+   "margin_pct": 40.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 188.32,
+   "ebitda": 47.75,
+   "pat": 33.43,
+   "margin_pct": 25.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 252.37,
+   "ebitda": 77.83,
+   "pat": 48.97,
+   "margin_pct": 30.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 344.12,
+   "ebitda": 81.51,
+   "pat": 56.84,
+   "margin_pct": 23.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 339.04,
+   "ebitda": 96.67,
+   "pat": 62.83,
+   "margin_pct": 28.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 80,
+    "profit": 20,
+    "quality": 55
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 191.56,
+   "ebitda": 66.99,
+   "pat": 41.96,
+   "margin_pct": 35.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 56,
+    "profit": 100,
+    "quality": 61
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 320.81,
+   "ebitda": 88.62,
+   "pat": 57.11,
+   "margin_pct": 27.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 59,
+    "profit": 20,
+    "quality": 56
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-30"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

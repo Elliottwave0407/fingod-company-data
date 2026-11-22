@@ -1,0 +1,102 @@
+{
+ "isin": "INE669X01032",
+ "sym": "GEEKAYWIRE",
+ "name": "Geekay Wires Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 124.03,
+   "ebitda": 6.74,
+   "pat": 7.37,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 91.74,
+   "ebitda": 6.2,
+   "pat": 7.19,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 124.21,
+   "ebitda": 14.82,
+   "pat": 8.35,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 115.27,
+   "ebitda": 9.76,
+   "pat": 7.82,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 109.41,
+   "ebitda": 8.9,
+   "pat": 6.75,
+   "margin_pct": 8.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 46,
+    "profit": 65,
+    "quality": 38
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 94.94,
+   "ebitda": 5.59,
+   "pat": 5.77,
+   "margin_pct": 5.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 24,
+    "profit": 27,
+    "quality": 43
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

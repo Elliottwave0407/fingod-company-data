@@ -1,0 +1,105 @@
+{
+ "isin": "INE683C01011",
+ "sym": "MAITHANALL",
+ "name": "Maithan Alloys Limited",
+ "scrip": "590078",
+ "mcap_cr": 2369.97,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 435.23,
+   "ebitda": 76.47,
+   "pat": -58.16,
+   "margin_pct": 17.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 632.31,
+   "ebitda": 65.39,
+   "pat": 537.9,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 490.82,
+   "ebitda": 32.12,
+   "pat": -119.02,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 490.28,
+   "ebitda": 55.41,
+   "pat": 92.74,
+   "margin_pct": 11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 559.18,
+   "ebitda": 106.31,
+   "pat": -70.68,
+   "margin_pct": 19.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 77,
+    "profit": 62,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 539.53,
+   "ebitda": 90.83,
+   "pat": 395.72,
+   "margin_pct": 16.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 48,
+    "profit": 93,
+    "quality": 41
+   },
+   "capped_by": "profit down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

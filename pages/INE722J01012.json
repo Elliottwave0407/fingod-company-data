@@ -1,0 +1,97 @@
+{
+ "isin": "INE722J01012",
+ "sym": "RKDL",
+ "name": "Ravi Kumar Distilleries Limited",
+ "scrip": "533294",
+ "mcap_cr": 41.06,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 20.57,
+   "ebitda": -1.43,
+   "pat": 0.03,
+   "margin_pct": -7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 8.11,
+   "ebitda": -0.72,
+   "pat": 0.03,
+   "margin_pct": -8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 17.5,
+   "ebitda": -0.71,
+   "pat": 0.04,
+   "margin_pct": -4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 15.08,
+   "ebitda": -0.36,
+   "pat": 0.02,
+   "margin_pct": -2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 13.53,
+   "ebitda": -0.35,
+   "pat": 0.05,
+   "margin_pct": -2.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 12.47,
+   "ebitda": -0.93,
+   "pat": 0.07,
+   "margin_pct": -7.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

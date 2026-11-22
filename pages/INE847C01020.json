@@ -1,0 +1,101 @@
+{
+ "isin": "INE847C01020",
+ "sym": "ROSSELLIND",
+ "name": "Rossell India Limited",
+ "scrip": "533168",
+ "mcap_cr": 185.58,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 8.77,
+   "ebitda": -24.43,
+   "pat": -22.05,
+   "margin_pct": -278.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 43.58,
+   "ebitda": 10.71,
+   "pat": 8.01,
+   "margin_pct": 24.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 80.85,
+   "ebitda": 32.81,
+   "pat": 27.36,
+   "margin_pct": 40.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 85.19,
+   "ebitda": 5.9,
+   "pat": 4.28,
+   "margin_pct": 6.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 16.58,
+   "ebitda": -24.74,
+   "pat": -23.79,
+   "margin_pct": -149.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 36.78,
+   "ebitda": 6.57,
+   "pat": 3.81,
+   "margin_pct": 17.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 6,
+    "profit": 14,
+    "quality": 23
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

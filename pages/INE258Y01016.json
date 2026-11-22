@@ -1,0 +1,102 @@
+{
+ "isin": "INE258Y01016",
+ "sym": "LGHL",
+ "name": "Laxmi Goldorna House Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 27.72,
+   "ebitda": 5.65,
+   "pat": 0.68,
+   "margin_pct": 20.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 28.67,
+   "ebitda": 5.19,
+   "pat": 2.22,
+   "margin_pct": 18.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 24.85,
+   "ebitda": 7.59,
+   "pat": 3.76,
+   "margin_pct": 30.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 24.18,
+   "ebitda": 5.89,
+   "pat": 3.1,
+   "margin_pct": 24.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 26.64,
+   "ebitda": -1.75,
+   "pat": -6.16,
+   "margin_pct": -6.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 11,
+    "profit": -5,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 37.44,
+   "ebitda": 4.35,
+   "pat": 1.17,
+   "margin_pct": 11.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 43,
+    "profit": 9,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

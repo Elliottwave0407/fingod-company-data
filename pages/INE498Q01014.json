@@ -1,0 +1,105 @@
+{
+ "isin": "INE498Q01014",
+ "sym": "VINCOFE",
+ "name": "Vintage Coffee And Beverages Limited",
+ "scrip": "538920",
+ "mcap_cr": 2198.79,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 105.14,
+   "ebitda": 19.35,
+   "pat": 15.64,
+   "margin_pct": 18.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 101.61,
+   "ebitda": 18.04,
+   "pat": 14.23,
+   "margin_pct": 17.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 135.61,
+   "ebitda": 22.34,
+   "pat": 17.83,
+   "margin_pct": 16.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 150.52,
+   "ebitda": 28.7,
+   "pat": 19.11,
+   "margin_pct": 19.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 165.31,
+   "ebitda": 30.57,
+   "pat": 21.01,
+   "margin_pct": 18.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 98,
+    "profit": 48,
+    "quality": 72
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 161.0,
+   "ebitda": 31.59,
+   "pat": 20.79,
+   "margin_pct": 19.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 99,
+    "profit": 66,
+    "quality": 74
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE560K01014",
+ "sym": "PFS",
+ "name": "PTC India Financial Services Limited",
+ "scrip": "533344",
+ "mcap_cr": 1574.24,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 150.68,
+   "ebitda": 144.04,
+   "pat": 58.17,
+   "margin_pct": 95.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 141.91,
+   "ebitda": 213.15,
+   "pat": 136.63,
+   "margin_pct": 150.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 131.84,
+   "ebitda": 177.06,
+   "pat": 88.14,
+   "margin_pct": 134.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 121.74,
+   "ebitda": 120.39,
+   "pat": 49.09,
+   "margin_pct": 98.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 119.08,
+   "ebitda": 107.34,
+   "pat": 45.5,
+   "margin_pct": 90.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 6,
+    "profit": 20,
+    "quality": 14
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 103.31,
+   "ebitda": 94.45,
+   "pat": 40.24,
+   "margin_pct": 91.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 1,
+    "profit": 20,
+    "quality": 11
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 110.19,
+   "ebitda": 49.35,
+   "pat": 44.04,
+   "margin_pct": 44.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 6,
+    "profit": 20,
+    "quality": 49
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-30"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

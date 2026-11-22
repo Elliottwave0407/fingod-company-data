@@ -1,0 +1,105 @@
+{
+ "isin": "INE0EEJ01023",
+ "sym": "BTML",
+ "name": "Bodhi Tree Multimedia Limited",
+ "scrip": "543767",
+ "mcap_cr": 110.11,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 40.21,
+   "ebitda": 4.74,
+   "pat": 1.87,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 18.22,
+   "ebitda": 1.73,
+   "pat": 1.07,
+   "margin_pct": 9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 23.4,
+   "ebitda": 3.91,
+   "pat": 3.05,
+   "margin_pct": 16.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 39.02,
+   "ebitda": 4.07,
+   "pat": 2.35,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 34.96,
+   "ebitda": 4.96,
+   "pat": 2.09,
+   "margin_pct": 14.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 24,
+    "profit": 67,
+    "quality": 33
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 30.1,
+   "ebitda": 2.59,
+   "pat": 0.78,
+   "margin_pct": 8.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 96,
+    "profit": 29,
+    "quality": 1
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2026-06-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

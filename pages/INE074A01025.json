@@ -1,0 +1,115 @@
+{
+ "isin": "INE074A01025",
+ "sym": "PRAJIND",
+ "name": "Praj Industries Limited",
+ "scrip": "522205",
+ "mcap_cr": 4296.63,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 859.68,
+   "ebitda": 73.93,
+   "pat": 39.82,
+   "margin_pct": 8.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 640.2,
+   "ebitda": 31.43,
+   "pat": 5.34,
+   "margin_pct": 4.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 841.63,
+   "ebitda": 55.85,
+   "pat": 19.28,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 841.49,
+   "ebitda": 12.86,
+   "pat": -12.39,
+   "margin_pct": 1.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 844.56,
+   "ebitda": 31.35,
+   "pat": 11.61,
+   "margin_pct": 3.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 12,
+    "profit": 3,
+    "quality": 5
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 715.82,
+   "ebitda": 30.05,
+   "pat": 11.61,
+   "margin_pct": 4.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 28,
+    "quality": 46
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 848.99,
+   "ebitda": 52.37,
+   "pat": 23.17,
+   "margin_pct": 6.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 23,
+    "profit": 32,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-08-18"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

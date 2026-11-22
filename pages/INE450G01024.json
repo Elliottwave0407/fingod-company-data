@@ -1,0 +1,105 @@
+{
+ "isin": "INE450G01024",
+ "sym": "VIPCLOTHNG",
+ "name": "VIP Clothing Limited",
+ "scrip": "532613",
+ "mcap_cr": 163.95,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 64.91,
+   "ebitda": 5.75,
+   "pat": 2.42,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 65.45,
+   "ebitda": 6.25,
+   "pat": 2.22,
+   "margin_pct": 9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 66.07,
+   "ebitda": 6.15,
+   "pat": 2.24,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 50.78,
+   "ebitda": 3.67,
+   "pat": 0.93,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 71.54,
+   "ebitda": 6.82,
+   "pat": 4.42,
+   "margin_pct": 9.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 50,
+    "profit": 46,
+    "quality": 79
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 64.69,
+   "ebitda": 5.07,
+   "pat": 1.91,
+   "margin_pct": 7.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 17,
+    "profit": 20,
+    "quality": 13
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

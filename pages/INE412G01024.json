@@ -1,0 +1,105 @@
+{
+ "isin": "INE412G01024",
+ "sym": "BCLIND",
+ "name": "Bcl Industries Limited",
+ "scrip": "524332",
+ "mcap_cr": 824.69,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 743.43,
+   "ebitda": 49.3,
+   "pat": 27.56,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 820.3,
+   "ebitda": 53.49,
+   "pat": 33.48,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 719.42,
+   "ebitda": 67.12,
+   "pat": 31.55,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 756.12,
+   "ebitda": 66.63,
+   "pat": 35.37,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 607.96,
+   "ebitda": 54.74,
+   "pat": 26.04,
+   "margin_pct": 9.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 27,
+    "profit": 63,
+    "quality": 25
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 623.42,
+   "ebitda": 61.09,
+   "pat": 35.52,
+   "margin_pct": 9.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 27,
+    "profit": 72,
+    "quality": 41
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

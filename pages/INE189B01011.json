@@ -1,0 +1,115 @@
+{
+ "isin": "INE189B01011",
+ "sym": "STYRENIX",
+ "name": "Styrenix Performance Materials Limited",
+ "scrip": "506222",
+ "mcap_cr": 3222.92,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 939.71,
+   "ebitda": 87.23,
+   "pat": 56.16,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 943.5,
+   "ebitda": 96.46,
+   "pat": 51.92,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 798.93,
+   "ebitda": 85.47,
+   "pat": 44.72,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 869.49,
+   "ebitda": 38.65,
+   "pat": 16.34,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 826.1,
+   "ebitda": 116.32,
+   "pat": 73.48,
+   "margin_pct": 14.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 46,
+    "profit": 89,
+    "quality": 65
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1010.86,
+   "ebitda": 220.26,
+   "pat": 138.3,
+   "margin_pct": 21.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 69,
+    "profit": 97,
+    "quality": 77
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 993.51,
+   "ebitda": 71.81,
+   "pat": 23.17,
+   "margin_pct": 7.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 39,
+    "profit": 6,
+    "quality": 2
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 14,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

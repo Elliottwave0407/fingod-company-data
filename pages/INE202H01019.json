@@ -1,0 +1,105 @@
+{
+ "isin": "INE202H01019",
+ "sym": "KERNEX",
+ "name": "Kernex Microsystems (India) Limited",
+ "scrip": "532686",
+ "mcap_cr": 2762.01,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 83.07,
+   "ebitda": 17.12,
+   "pat": 32.53,
+   "margin_pct": 20.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 55.93,
+   "ebitda": 12.58,
+   "pat": 7.41,
+   "margin_pct": 22.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 47.12,
+   "ebitda": 14.27,
+   "pat": 6.52,
+   "margin_pct": 30.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 72.6,
+   "ebitda": 16.79,
+   "pat": 6.06,
+   "margin_pct": 23.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 254.58,
+   "ebitda": 105.12,
+   "pat": 68.25,
+   "margin_pct": 41.3,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 79
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 503.58,
+   "ebitda": 162.82,
+   "pat": 109.85,
+   "margin_pct": 32.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 81
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

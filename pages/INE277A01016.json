@@ -1,0 +1,115 @@
+{
+ "isin": "INE277A01016",
+ "sym": "SWARAJENG",
+ "name": "Swaraj Engines Limited",
+ "scrip": "500407",
+ "mcap_cr": 4187.63,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 454.16,
+   "ebitda": 61.94,
+   "pat": 45.42,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 484.1,
+   "ebitda": 67.1,
+   "pat": 49.97,
+   "margin_pct": 13.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 504.04,
+   "ebitda": 68.03,
+   "pat": 49.68,
+   "margin_pct": 13.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 473.2,
+   "ebitda": 58.58,
+   "pat": 42.1,
+   "margin_pct": 12.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 545.79,
+   "ebitda": 75.01,
+   "pat": 54.56,
+   "margin_pct": 13.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 61,
+    "profit": 44,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 588.39,
+   "ebitda": 76.76,
+   "pat": 55.53,
+   "margin_pct": 13.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 56,
+    "profit": 34,
+    "quality": 57
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 635.19,
+   "ebitda": 86.45,
+   "pat": 60.57,
+   "margin_pct": 13.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 69,
+    "profit": 44,
+    "quality": 65
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

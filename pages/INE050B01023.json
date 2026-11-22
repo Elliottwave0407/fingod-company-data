@@ -1,0 +1,105 @@
+{
+ "isin": "INE050B01023",
+ "sym": "IVC",
+ "name": "IL&FS Investment Managers Limited",
+ "scrip": "511208",
+ "mcap_cr": 250.91,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 7.58,
+   "ebitda": 1.24,
+   "pat": 12.68,
+   "margin_pct": 16.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 5.8,
+   "ebitda": -2.61,
+   "pat": 0.23,
+   "margin_pct": -45.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 7.17,
+   "ebitda": 1.08,
+   "pat": 3.53,
+   "margin_pct": 15.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 6.73,
+   "ebitda": -4.64,
+   "pat": -2.93,
+   "margin_pct": -68.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 35.21,
+   "ebitda": 3.78,
+   "pat": 3.96,
+   "margin_pct": 10.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 9,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 8.17,
+   "ebitda": 0.97,
+   "pat": 1.21,
+   "margin_pct": 11.9,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 85,
+    "profit": 89,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

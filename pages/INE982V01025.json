@@ -1,0 +1,115 @@
+{
+ "isin": "INE982V01025",
+ "sym": "JETFREIGHT",
+ "name": "Jet Freight Logistics Limited",
+ "scrip": "543420",
+ "mcap_cr": 79.91,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 114.53,
+   "ebitda": 3.48,
+   "pat": 0.34,
+   "margin_pct": 3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 119.72,
+   "ebitda": 3.05,
+   "pat": 1.78,
+   "margin_pct": 2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 83.78,
+   "ebitda": 2.79,
+   "pat": 0.87,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 113.2,
+   "ebitda": 4.01,
+   "pat": 1.08,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 127.6,
+   "ebitda": 6.87,
+   "pat": 3.08,
+   "margin_pct": 5.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 72,
+    "profit": 60,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 178.99,
+   "ebitda": 6.52,
+   "pat": 2.53,
+   "margin_pct": 3.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 96,
+    "profit": 46,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 118.11,
+   "ebitda": 5.84,
+   "pat": 2.08,
+   "margin_pct": 4.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 92,
+    "profit": 52,
+    "quality": 55
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

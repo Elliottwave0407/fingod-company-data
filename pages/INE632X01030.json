@@ -1,0 +1,94 @@
+{
+ "isin": "INE632X01030",
+ "sym": "SHRENIK",
+ "name": "Shrenik Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 4.75,
+   "ebitda": -0.05,
+   "pat": 0.08,
+   "margin_pct": -1.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 5.83,
+   "ebitda": -0.46,
+   "pat": -0.07,
+   "margin_pct": -7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 8.51,
+   "ebitda": -0.33,
+   "pat": 0.22,
+   "margin_pct": -3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 9.19,
+   "ebitda": 1.07,
+   "pat": 1.07,
+   "margin_pct": 11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 11.65,
+   "ebitda": -1.1,
+   "pat": -1.03,
+   "margin_pct": -9.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 6.26,
+   "ebitda": -0.63,
+   "pat": -0.2,
+   "margin_pct": -10.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

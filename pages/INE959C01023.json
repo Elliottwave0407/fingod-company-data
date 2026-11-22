@@ -1,0 +1,105 @@
+{
+ "isin": "INE959C01023",
+ "sym": "OAL",
+ "name": "Oriental Aromatics Limited",
+ "scrip": "500078",
+ "mcap_cr": 1749.31,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 253.16,
+   "ebitda": 19.27,
+   "pat": 1.42,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 225.52,
+   "ebitda": 18.06,
+   "pat": 0.5,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 271.33,
+   "ebitda": 17.25,
+   "pat": 0.74,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 251.56,
+   "ebitda": 13.22,
+   "pat": -1.92,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 282.37,
+   "ebitda": 19.46,
+   "pat": 3.99,
+   "margin_pct": 6.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 36,
+    "profit": 30,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 259.81,
+   "ebitda": 19.8,
+   "pat": 2.51,
+   "margin_pct": 7.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 46,
+    "profit": 34,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE989A01032",
+ "sym": "SANGHVIMOV",
+ "name": "Sanghvi Movers Limited",
+ "scrip": "530073",
+ "mcap_cr": 3216.3,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 267.42,
+   "ebitda": 106.9,
+   "pat": 53.83,
+   "margin_pct": 40.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 273.36,
+   "ebitda": 99.55,
+   "pat": 50.26,
+   "margin_pct": 36.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 209.9,
+   "ebitda": 80.8,
+   "pat": 36.27,
+   "margin_pct": 38.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 235.78,
+   "ebitda": 76.97,
+   "pat": 28.97,
+   "margin_pct": 32.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 351.41,
+   "ebitda": 134.68,
+   "pat": 68.79,
+   "margin_pct": 38.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 72,
+    "profit": 34,
+    "quality": 53
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 379.67,
+   "ebitda": 125.47,
+   "pat": 65.25,
+   "margin_pct": 33.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 76,
+    "profit": 20,
+    "quality": 55
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-09"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

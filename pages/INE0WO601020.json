@@ -1,0 +1,105 @@
+{
+ "isin": "INE0WO601020",
+ "sym": "LAXMIDENTL",
+ "name": "Laxmi Dental Limited",
+ "scrip": "544339",
+ "mcap_cr": 1031.8,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 60.67,
+   "ebitda": 9.94,
+   "pat": 4.28,
+   "margin_pct": 16.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 65.6,
+   "ebitda": 11.92,
+   "pat": 8.33,
+   "margin_pct": 18.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 72.27,
+   "ebitda": 11.02,
+   "pat": 8.53,
+   "margin_pct": 15.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 66.04,
+   "ebitda": 1.18,
+   "pat": 1.96,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 73.95,
+   "ebitda": 13.5,
+   "pat": 10.1,
+   "margin_pct": 18.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 72,
+    "profit": 65,
+    "quality": 87
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 74.7,
+   "ebitda": 14.36,
+   "pat": 10.31,
+   "margin_pct": 19.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 55,
+    "profit": 58,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 8,
+  "concalls_read": 8,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

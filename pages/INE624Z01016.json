@@ -1,0 +1,115 @@
+{
+ "isin": "INE624Z01016",
+ "sym": "SOLARA",
+ "name": "Solara Active Pharma Sciences Limited",
+ "scrip": "541540",
+ "mcap_cr": 3021.26,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 273.01,
+   "ebitda": 45.37,
+   "pat": -2.1,
+   "margin_pct": 16.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 319.15,
+   "ebitda": 57.02,
+   "pat": 10.52,
+   "margin_pct": 17.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 313.54,
+   "ebitda": 34.73,
+   "pat": -10.1,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 349.0,
+   "ebitda": 30.59,
+   "pat": -17.43,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 387.29,
+   "ebitda": 58.52,
+   "pat": 9.6,
+   "margin_pct": 15.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 79,
+    "profit": 28,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 381.6,
+   "ebitda": 61.97,
+   "pat": 16.31,
+   "margin_pct": 16.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 49,
+    "profit": 28,
+    "quality": 48
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 417.34,
+   "ebitda": 72.34,
+   "pat": 28.46,
+   "margin_pct": 17.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 89,
+    "profit": 94,
+    "quality": 16
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-23"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE900C01027",
+ "sym": "ASAL",
+ "name": "Automotive Stampings and Assemblies Limited",
+ "scrip": "520119",
+ "mcap_cr": 701.52,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 188.07,
+   "ebitda": 13.18,
+   "pat": 4.93,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 173.07,
+   "ebitda": 10.75,
+   "pat": 2.54,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 211.78,
+   "ebitda": 12.58,
+   "pat": 4.39,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 250.13,
+   "ebitda": 15.87,
+   "pat": 7.47,
+   "margin_pct": 6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 255.55,
+   "ebitda": 18.2,
+   "pat": 13.28,
+   "margin_pct": 7.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 82,
+    "profit": 39,
+    "quality": 86
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 253.32,
+   "ebitda": 14.11,
+   "pat": 4.69,
+   "margin_pct": 5.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 82,
+    "profit": 30,
+    "quality": 53
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 336.7,
+   "ebitda": 21.85,
+   "pat": 10.07,
+   "margin_pct": 6.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 43,
+    "quality": 63
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

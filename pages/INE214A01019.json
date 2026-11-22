@@ -1,0 +1,115 @@
+{
+ "isin": "INE214A01019",
+ "sym": "CYBERTECH",
+ "name": "Cybertech Systems And Software Limited",
+ "scrip": "532173",
+ "mcap_cr": 370.49,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 61.49,
+   "ebitda": 7.82,
+   "pat": 9.6,
+   "margin_pct": 12.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 58.19,
+   "ebitda": 4.93,
+   "pat": 8.17,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 58.78,
+   "ebitda": 4.62,
+   "pat": 8.66,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 57.84,
+   "ebitda": 3.49,
+   "pat": 6.53,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 62.33,
+   "ebitda": 5.72,
+   "pat": 7.07,
+   "margin_pct": 9.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 7,
+    "quality": 41
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 68.45,
+   "ebitda": 5.72,
+   "pat": 9.48,
+   "margin_pct": 8.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 54,
+    "profit": 37,
+    "quality": 61
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 73.3,
+   "ebitda": 8.08,
+   "pat": 8.68,
+   "margin_pct": 11.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 83,
+    "profit": 72,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

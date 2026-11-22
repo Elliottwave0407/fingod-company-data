@@ -1,0 +1,105 @@
+{
+ "isin": "INE964W01021",
+ "sym": "MKPL",
+ "name": "M K Proteins Limited",
+ "scrip": "543919",
+ "mcap_cr": 146.77,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 137.2,
+   "ebitda": 4.66,
+   "pat": 2.8,
+   "margin_pct": 3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 114.95,
+   "ebitda": 5.51,
+   "pat": 3.51,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 32.43,
+   "ebitda": 1.04,
+   "pat": 0.75,
+   "margin_pct": 3.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 89.56,
+   "ebitda": 2.37,
+   "pat": 1.43,
+   "margin_pct": 2.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 145.94,
+   "ebitda": 2.5,
+   "pat": 1.14,
+   "margin_pct": 1.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 18,
+    "profit": 15,
+    "quality": 13
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 115.16,
+   "ebitda": 2.52,
+   "pat": 1.38,
+   "margin_pct": 2.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 13,
+    "profit": 6,
+    "quality": 21
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

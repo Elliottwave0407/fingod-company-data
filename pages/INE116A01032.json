@@ -1,0 +1,115 @@
+{
+ "isin": "INE116A01032",
+ "sym": "APCOTEXIND",
+ "name": "Apcotex Industries Limited",
+ "scrip": "523694",
+ "mcap_cr": 2484.41,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 349.4,
+   "ebitda": 38.46,
+   "pat": 16.75,
+   "margin_pct": 11.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 375.76,
+   "ebitda": 38.6,
+   "pat": 19.16,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 336.69,
+   "ebitda": 46.36,
+   "pat": 25.3,
+   "margin_pct": 13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 331.46,
+   "ebitda": 38.75,
+   "pat": 22.22,
+   "margin_pct": 11.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 397.58,
+   "ebitda": 54.67,
+   "pat": 34.74,
+   "margin_pct": 13.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 67,
+    "profit": 70,
+    "quality": 78
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 525.63,
+   "ebitda": 117.1,
+   "pat": 78.94,
+   "margin_pct": 22.3,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 92,
+    "profit": 98,
+    "quality": 81
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 498.92,
+   "ebitda": 58.33,
+   "pat": 34.84,
+   "margin_pct": 11.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 79,
+    "profit": 19,
+    "quality": 66
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 12,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

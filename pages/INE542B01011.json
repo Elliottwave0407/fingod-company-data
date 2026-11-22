@@ -1,0 +1,115 @@
+{
+ "isin": "INE542B01011",
+ "sym": "AKSHARCHEM",
+ "name": "AksharChem India Limited",
+ "scrip": "524598",
+ "mcap_cr": 282.56,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 90.74,
+   "ebitda": 6.27,
+   "pat": 1.39,
+   "margin_pct": 6.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 96.96,
+   "ebitda": 6.41,
+   "pat": 0.71,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 89.3,
+   "ebitda": 4.06,
+   "pat": -1.37,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 80.38,
+   "ebitda": 2.93,
+   "pat": -4.62,
+   "margin_pct": 3.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 105.79,
+   "ebitda": 5.3,
+   "pat": 4.83,
+   "margin_pct": 5.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 16,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 140.87,
+   "ebitda": 22.62,
+   "pat": 15.21,
+   "margin_pct": 16.1,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 94,
+    "profit": 93,
+    "quality": 81
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 160.48,
+   "ebitda": 20.98,
+   "pat": 13.32,
+   "margin_pct": 13.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 90,
+    "quality": 56
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

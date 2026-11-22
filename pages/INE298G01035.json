@@ -1,0 +1,105 @@
+{
+ "isin": "INE298G01035",
+ "sym": "AJMERA",
+ "name": "Ajmera Realty & Infra India Limited",
+ "scrip": "513349",
+ "mcap_cr": 2942.09,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 151.39,
+   "ebitda": 43.36,
+   "pat": 25.28,
+   "margin_pct": 28.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 258.51,
+   "ebitda": 78.23,
+   "pat": 38.28,
+   "margin_pct": 30.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 219.04,
+   "ebitda": 57.97,
+   "pat": 31.24,
+   "margin_pct": 26.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 181.75,
+   "ebitda": 55.19,
+   "pat": 27.87,
+   "margin_pct": 30.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 431.13,
+   "ebitda": 107.09,
+   "pat": 58.53,
+   "margin_pct": 24.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 20,
+    "quality": 71
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 316.97,
+   "ebitda": 91.26,
+   "pat": 44.94,
+   "margin_pct": 28.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 59,
+    "profit": 36,
+    "quality": 44
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

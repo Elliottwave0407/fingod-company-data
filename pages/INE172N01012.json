@@ -1,0 +1,105 @@
+{
+ "isin": "INE172N01012",
+ "sym": "IMAGICAA",
+ "name": "Imagicaaworld Entertainment Limited",
+ "scrip": "539056",
+ "mcap_cr": 2371.52,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 94.4,
+   "ebitda": 41.06,
+   "pat": 15.73,
+   "margin_pct": 43.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 148.1,
+   "ebitda": 71.61,
+   "pat": 44.31,
+   "margin_pct": 48.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 41.81,
+   "ebitda": -8.7,
+   "pat": -38.91,
+   "margin_pct": -20.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 92.08,
+   "ebitda": 22.59,
+   "pat": -5.17,
+   "margin_pct": 24.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 91.86,
+   "ebitda": 30.68,
+   "pat": 0.4,
+   "margin_pct": 33.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 13,
+    "profit": 20,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 177.6,
+   "ebitda": 90.55,
+   "pat": 57.57,
+   "margin_pct": 51.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 64,
+    "profit": 78,
+    "quality": 65
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-08-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

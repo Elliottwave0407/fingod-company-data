@@ -1,0 +1,105 @@
+{
+ "isin": "INE426A01027",
+ "sym": "ALEMBICLTD",
+ "name": "Alembic Limited",
+ "scrip": "506235",
+ "mcap_cr": 2794.04,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 60.27,
+   "ebitda": 27.33,
+   "pat": 68.45,
+   "margin_pct": 45.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 49.75,
+   "ebitda": 19.57,
+   "pat": 61.64,
+   "margin_pct": 39.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 55.86,
+   "ebitda": 23.24,
+   "pat": 128.49,
+   "margin_pct": 41.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 74.34,
+   "ebitda": 27.44,
+   "pat": 60.13,
+   "margin_pct": 36.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 60.04,
+   "ebitda": 20.21,
+   "pat": 67.13,
+   "margin_pct": 33.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 20,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 48.74,
+   "ebitda": 15.46,
+   "pat": 64.89,
+   "margin_pct": 31.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 20,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

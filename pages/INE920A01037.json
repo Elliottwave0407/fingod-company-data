@@ -1,0 +1,115 @@
+{
+ "isin": "INE920A01037",
+ "sym": "DOLPHIN",
+ "name": "Dolphin Offshore Enterprises (India) Limited",
+ "scrip": "522261",
+ "mcap_cr": 2494.49,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 20.44,
+   "ebitda": 11.34,
+   "pat": 10.45,
+   "margin_pct": 55.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 16.44,
+   "ebitda": 15.62,
+   "pat": 11.33,
+   "margin_pct": 95.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 24.62,
+   "ebitda": 22.01,
+   "pat": 15.61,
+   "margin_pct": 89.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 30.0,
+   "ebitda": 22.46,
+   "pat": 13.27,
+   "margin_pct": 74.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 45.36,
+   "ebitda": 12.29,
+   "pat": 28.33,
+   "margin_pct": 27.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 70,
+    "profit": 20,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 42.85,
+   "ebitda": 25.31,
+   "pat": 14.81,
+   "margin_pct": 59.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 20,
+    "quality": 61
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 43.73,
+   "ebitda": 27.41,
+   "pat": 18.76,
+   "margin_pct": 62.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 83,
+    "profit": 20,
+    "quality": 62
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

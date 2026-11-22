@@ -1,0 +1,105 @@
+{
+ "isin": "INE164B01030",
+ "sym": "KELLTONTEC",
+ "name": "Kellton Tech Solutions Limited",
+ "scrip": "519602",
+ "mcap_cr": 612.87,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 286.33,
+   "ebitda": 29.25,
+   "pat": 19.2,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 295.47,
+   "ebitda": 35.13,
+   "pat": 22.65,
+   "margin_pct": 11.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 299.69,
+   "ebitda": 36.61,
+   "pat": 24.08,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 307.89,
+   "ebitda": 38.81,
+   "pat": 25.41,
+   "margin_pct": 12.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 313.89,
+   "ebitda": 25.0,
+   "pat": 19.52,
+   "margin_pct": 8.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 27,
+    "profit": 14,
+    "quality": 54
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 315.62,
+   "ebitda": 34.42,
+   "pat": 22.32,
+   "margin_pct": 10.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 30,
+    "profit": 30,
+    "quality": 41
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

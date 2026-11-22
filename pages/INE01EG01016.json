@@ -1,0 +1,105 @@
+{
+ "isin": "INE01EG01016",
+ "sym": "RITCO",
+ "name": "Ritco Logistics Limited",
+ "scrip": "542383",
+ "mcap_cr": 751.78,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 345.41,
+   "ebitda": 25.67,
+   "pat": 11.5,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 354.33,
+   "ebitda": 25.18,
+   "pat": 8.95,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 360.38,
+   "ebitda": 25.85,
+   "pat": 9.33,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 392.64,
+   "ebitda": 27.46,
+   "pat": 9.64,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 391.83,
+   "ebitda": 19.89,
+   "pat": 4.01,
+   "margin_pct": 5.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 27,
+    "profit": 11,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 365.12,
+   "ebitda": 21.91,
+   "pat": 3.47,
+   "margin_pct": 6.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 22,
+    "profit": 25,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2025-08-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

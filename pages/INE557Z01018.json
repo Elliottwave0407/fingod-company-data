@@ -1,0 +1,105 @@
+{
+ "isin": "INE557Z01018",
+ "sym": "PIGL",
+ "name": "Power & Instrumentation (Gujarat) Limited",
+ "scrip": "543912",
+ "mcap_cr": 187.11,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 55.09,
+   "ebitda": 5.14,
+   "pat": 2.81,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 41.3,
+   "ebitda": 4.03,
+   "pat": 2.62,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 70.27,
+   "ebitda": 6.61,
+   "pat": 4.71,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 48.66,
+   "ebitda": 5.86,
+   "pat": 3.57,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 58.53,
+   "ebitda": 6.39,
+   "pat": 3.93,
+   "margin_pct": 10.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 57,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 48.9,
+   "ebitda": 5.01,
+   "pat": 3.05,
+   "margin_pct": 10.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 61,
+    "profit": 45,
+    "quality": 53
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-02-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

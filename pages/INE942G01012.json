@@ -1,0 +1,101 @@
+{
+ "isin": "INE942G01012",
+ "sym": "MCLEODRUSS",
+ "name": "Mcleod Russel India Limited",
+ "scrip": "532654",
+ "mcap_cr": 450.0,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 127.89,
+   "ebitda": -122.32,
+   "pat": -169.44,
+   "margin_pct": -95.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 215.76,
+   "ebitda": 7.17,
+   "pat": -43.48,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 362.83,
+   "ebitda": 98.47,
+   "pat": 29.06,
+   "margin_pct": 27.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 445.45,
+   "ebitda": 7.74,
+   "pat": -36.41,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 130.35,
+   "ebitda": -286.23,
+   "pat": -72.67,
+   "margin_pct": -219.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 261.11,
+   "ebitda": 29.13,
+   "pat": -13.38,
+   "margin_pct": 11.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 81,
+    "profit": 89,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

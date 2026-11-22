@@ -1,0 +1,115 @@
+{
+ "isin": "INE998I01010",
+ "sym": "MHRIL",
+ "name": "Mahindra Holidays & Resorts India Limited",
+ "scrip": "533088",
+ "mcap_cr": 3977.01,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 778.83,
+   "ebitda": 204.38,
+   "pat": 72.95,
+   "margin_pct": 26.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 701.4,
+   "ebitda": 122.45,
+   "pat": 7.17,
+   "margin_pct": 17.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 717.34,
+   "ebitda": 152.75,
+   "pat": 16.94,
+   "margin_pct": 21.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 752.7,
+   "ebitda": 133.12,
+   "pat": 1.41,
+   "margin_pct": 17.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 820.29,
+   "ebitda": 197.21,
+   "pat": 41.49,
+   "margin_pct": 24.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 28,
+    "profit": 28,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 732.81,
+   "ebitda": 112.8,
+   "pat": -8.56,
+   "margin_pct": 15.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 26,
+    "profit": 22,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 784.13,
+   "ebitda": 159.4,
+   "pat": 19.72,
+   "margin_pct": 20.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 37,
+    "profit": 38,
+    "quality": 21
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 13,
+  "concalls_read": 12,
+  "latest_concall": "2026-10-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

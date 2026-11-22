@@ -1,0 +1,115 @@
+{
+ "isin": "INE618L01018",
+ "sym": "5PAISA",
+ "name": "5Paisa Capital Limited",
+ "scrip": "540776",
+ "mcap_cr": 1588.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 71.27,
+   "ebitda": 21.17,
+   "pat": 10.07,
+   "margin_pct": 29.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 77.69,
+   "ebitda": 25.2,
+   "pat": 11.55,
+   "margin_pct": 32.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 77.3,
+   "ebitda": 23.09,
+   "pat": 9.48,
+   "margin_pct": 29.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 79.34,
+   "ebitda": 26.9,
+   "pat": 12.3,
+   "margin_pct": 33.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 85.42,
+   "ebitda": 25.7,
+   "pat": 10.86,
+   "margin_pct": 30.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 61,
+    "profit": 56,
+    "quality": 29
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 88.33,
+   "ebitda": 26.06,
+   "pat": 11.57,
+   "margin_pct": 29.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 40,
+    "profit": 21,
+    "quality": 25
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 86.42,
+   "ebitda": 21.78,
+   "pat": 7.06,
+   "margin_pct": 25.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 33,
+    "profit": 20,
+    "quality": 4
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-23"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

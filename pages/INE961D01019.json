@@ -1,0 +1,105 @@
+{
+ "isin": "INE961D01019",
+ "sym": "UNIDT",
+ "name": "United Drilling Tools Limited",
+ "scrip": "522014",
+ "mcap_cr": 321.3,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 31.12,
+   "ebitda": 5.06,
+   "pat": 3.89,
+   "margin_pct": 16.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 31.67,
+   "ebitda": 6.07,
+   "pat": 2.96,
+   "margin_pct": 19.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 55.6,
+   "ebitda": 9.12,
+   "pat": 5.75,
+   "margin_pct": 16.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 50.53,
+   "ebitda": 9.01,
+   "pat": 5.47,
+   "margin_pct": 17.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 43.32,
+   "ebitda": 7.45,
+   "pat": 4.79,
+   "margin_pct": 17.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 87,
+    "profit": 55,
+    "quality": 61
+   },
+   "capped_by": "profit growth under 25%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 34.49,
+   "ebitda": 7.33,
+   "pat": 4.3,
+   "margin_pct": 21.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 70,
+    "quality": 68
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE124E01038",
+ "sym": "STEELCAS",
+ "name": "Steelcast Limited",
+ "scrip": "513517",
+ "mcap_cr": 3744.4,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 120.79,
+   "ebitda": 38.25,
+   "pat": 26.77,
+   "margin_pct": 31.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 106.69,
+   "ebitda": 27.3,
+   "pat": 19.88,
+   "margin_pct": 25.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 106.65,
+   "ebitda": 30.22,
+   "pat": 23.21,
+   "margin_pct": 28.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 97.4,
+   "ebitda": 27.52,
+   "pat": 20.59,
+   "margin_pct": 28.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 112.43,
+   "ebitda": 29.17,
+   "pat": 23.18,
+   "margin_pct": 25.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 12,
+    "profit": 20,
+    "quality": 48
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 124.82,
+   "ebitda": 32.0,
+   "pat": 23.71,
+   "margin_pct": 25.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 55,
+    "profit": 52,
+    "quality": 66
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

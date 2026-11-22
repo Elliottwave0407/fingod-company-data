@@ -1,0 +1,105 @@
+{
+ "isin": "INE694A01020",
+ "sym": "UNITECH",
+ "name": "Unitech Limited",
+ "scrip": "507878",
+ "mcap_cr": 996.18,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 100.81,
+   "ebitda": 774.68,
+   "pat": -488.69,
+   "margin_pct": 768.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 105.0,
+   "ebitda": -9.66,
+   "pat": -738.66,
+   "margin_pct": -9.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 136.05,
+   "ebitda": 3.07,
+   "pat": -738.72,
+   "margin_pct": 2.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 140.96,
+   "ebitda": -556.61,
+   "pat": -975.1,
+   "margin_pct": -394.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 130.22,
+   "ebitda": 239.59,
+   "pat": -565.67,
+   "margin_pct": 184.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 36,
+    "profit": 20,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 106.01,
+   "ebitda": 6.14,
+   "pat": -702.84,
+   "margin_pct": 5.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 27,
+    "profit": 85,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,102 @@
+{
+ "isin": "INE801L01010",
+ "sym": "AIROLAM",
+ "name": "Airo Lam limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 56.17,
+   "ebitda": 5.99,
+   "pat": 2.78,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 53.68,
+   "ebitda": 4.76,
+   "pat": 1.23,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 61.85,
+   "ebitda": 6.12,
+   "pat": 2.37,
+   "margin_pct": 9.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 69.76,
+   "ebitda": 5.2,
+   "pat": 1.4,
+   "margin_pct": 7.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 57.92,
+   "ebitda": 3.28,
+   "pat": 0.25,
+   "margin_pct": 5.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 15,
+    "profit": 5,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 65.93,
+   "ebitda": 4.72,
+   "pat": 1.28,
+   "margin_pct": 7.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 44,
+    "profit": 20,
+    "quality": 16
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

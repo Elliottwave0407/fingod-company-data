@@ -1,0 +1,101 @@
+{
+ "isin": "INE338A01024",
+ "sym": "TIRUMALCHM",
+ "name": "Thirumalai Chemicals Limited",
+ "scrip": "500412",
+ "mcap_cr": 1447.84,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 523.06,
+   "ebitda": 14.83,
+   "pat": -14.06,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 450.05,
+   "ebitda": -26.74,
+   "pat": -59.96,
+   "margin_pct": -5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 445.37,
+   "ebitda": -3.65,
+   "pat": -33.38,
+   "margin_pct": -0.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 415.85,
+   "ebitda": -15.09,
+   "pat": -46.57,
+   "margin_pct": -3.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 424.25,
+   "ebitda": -1.81,
+   "pat": -28.0,
+   "margin_pct": -0.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 546.67,
+   "ebitda": 32.57,
+   "pat": -43.67,
+   "margin_pct": 6.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 62,
+    "profit": 85,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

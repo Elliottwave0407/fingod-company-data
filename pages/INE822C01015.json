@@ -1,0 +1,105 @@
+{
+ "isin": "INE822C01015",
+ "sym": "TCPLPACK",
+ "name": "TCPL Packaging Limited",
+ "scrip": "523301",
+ "mcap_cr": 3993.31,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 422.37,
+   "ebitda": 72.07,
+   "pat": 38.02,
+   "margin_pct": 17.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 418.27,
+   "ebitda": 66.2,
+   "pat": 22.32,
+   "margin_pct": 15.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 460.48,
+   "ebitda": 69.43,
+   "pat": 28.72,
+   "margin_pct": 15.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 464.95,
+   "ebitda": 63.12,
+   "pat": 25.04,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 453.83,
+   "ebitda": 67.12,
+   "pat": 21.72,
+   "margin_pct": 14.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 28,
+    "profit": 20,
+    "quality": 2
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 492.98,
+   "ebitda": 85.95,
+   "pat": 40.01,
+   "margin_pct": 17.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 65,
+    "profit": 62,
+    "quality": 64
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,97 @@
+{
+ "isin": "INE03V001013",
+ "sym": "UNIVPHOTO",
+ "name": "Universus Photo Imagings Limited",
+ "scrip": "542933",
+ "mcap_cr": 545.14,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 4.47,
+   "ebitda": -1.25,
+   "pat": -21.04,
+   "margin_pct": -28.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 4.97,
+   "ebitda": -0.54,
+   "pat": -17.02,
+   "margin_pct": -10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 5.33,
+   "ebitda": -0.04,
+   "pat": -25.96,
+   "margin_pct": -0.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 3.84,
+   "ebitda": 0.11,
+   "pat": -23.89,
+   "margin_pct": 2.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 4.64,
+   "ebitda": 0.18,
+   "pat": -13.07,
+   "margin_pct": 3.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 5.48,
+   "ebitda": 0.8,
+   "pat": 45.33,
+   "margin_pct": 14.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

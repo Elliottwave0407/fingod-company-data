@@ -1,0 +1,8752 @@
+[
+ {
+  "isin": "INE004A01022",
+  "sym": "PROTEAN",
+  "name": "Protean eGov Technologies Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE005B01027",
+  "sym": "AVANTEL",
+  "name": "Avantel Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE005I01014",
+  "sym": "AMDIND",
+  "name": "AMD Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE006Z01016",
+  "sym": "ARVEE",
+  "name": "Arvee Laboratories (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE007B01023",
+  "sym": "GEOJITFSL",
+  "name": "Geojit Financial Services Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE00CA01015",
+  "sym": "TREJHARA",
+  "name": "TREJHARA SOLUTIONS LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE00CE01017",
+  "sym": "SVLL",
+  "name": "Shree Vasu Logistics Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE00EV01017",
+  "sym": "HARIOMPIPE",
+  "name": "Hariom Pipe Industries Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE00IK01029",
+  "sym": "OSWALSEEDS",
+  "name": "ShreeOswal Seeds And Chemicals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE00IN01015",
+  "sym": "STOVEKRAFT",
+  "name": "Stove Kraft Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE00KV01022",
+  "sym": "RAJMET",
+  "name": "Rajnandini Metal Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE00LM01029",
+  "sym": "SONAMLTD",
+  "name": "SONAM LIMITED",
+  "held": 6,
+  "concalls": 4
+ },
+ {
+  "isin": "INE00M201021",
+  "sym": "SWSOLAR",
+  "name": "Sterling and Wilson Renewable Energy Limited",
+  "held": 6,
+  "concalls": 12
+ },
+ {
+  "isin": "INE00M901018",
+  "sym": "INTERARCH",
+  "name": "Interarch Building Solutions Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE00OQ01016",
+  "sym": "DHARMAJ",
+  "name": "Dharmaj Crop Guard Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE00PV01013",
+  "sym": "AHLADA",
+  "name": "Ahlada Engineers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE00QT01015",
+  "sym": "SGIL",
+  "name": "Synergy Green Industries Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE00S901012",
+  "sym": "NILASPACES",
+  "name": "Nila Spaces Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE00U401027",
+  "sym": "UNIECOM",
+  "name": "Unicommerce Esolutions Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE00Y201027",
+  "sym": "FLAIR",
+  "name": "Flair Writing Industries Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE00Y801016",
+  "sym": "AKG",
+  "name": "Akg Exim Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE00Z501029",
+  "sym": "KRITIKA",
+  "name": "Kritika Wires Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE00ZE01026",
+  "sym": "AFSL",
+  "name": "Abans Financial Services Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE013801027",
+  "sym": "KSHITIJPOL",
+  "name": "Kshitij Polyline Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE015C01016",
+  "sym": "TINNARUBR",
+  "name": "Tinna Rubber and Infrastructure Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE015D01022",
+  "sym": "MANAKSIA",
+  "name": "Manaksia Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE016M01021",
+  "sym": "DNAMEDIA",
+  "name": "Diligent Media Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE017W01010",
+  "sym": "SMLT",
+  "name": "Sarthak Metals Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE018401013",
+  "sym": "SUVIDHAA",
+  "name": "Suvidhaa Infoserve Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE019J01013",
+  "sym": "HEALTHX",
+  "name": "Health X Platform Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE01A001028",
+  "sym": "STANLEY",
+  "name": "Stanley Lifestyles Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE01C001026",
+  "sym": "AARTECH",
+  "name": "Aartech Solonics Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE01EE01011",
+  "sym": "BBTCL",
+  "name": "B&B Triplewall Containers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE01EG01016",
+  "sym": "RITCO",
+  "name": "Ritco Logistics Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE01FR01028",
+  "sym": "STYLEBAAZA",
+  "name": "Baazar Style Retail Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE01GN01025",
+  "sym": "IRISDOREME",
+  "name": "Iris Clothings Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE01II01013",
+  "sym": "SILGO",
+  "name": "Silgo Retail Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE01JE01028",
+  "sym": "MARINE",
+  "name": "Marine Electricals (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE01KI01027",
+  "sym": "VINNY",
+  "name": "Vinny Overseas Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE01NE01012",
+  "sym": "SRD",
+  "name": "Shankar Lal Rampal Dye-Chem Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE01P501012",
+  "sym": "XELPMOC",
+  "name": "Xelpmoc Design And Tech Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE01QM01018",
+  "sym": "EMUDHRA",
+  "name": "eMudhra Limited",
+  "held": 5,
+  "concalls": 13
+ },
+ {
+  "isin": "INE020801028",
+  "sym": "SPENCERS",
+  "name": "Spencer's Retail Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE020D01022",
+  "sym": "BAIDFIN",
+  "name": "Baid Finserv Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE020G01017",
+  "sym": "INSPIRISYS",
+  "name": "Inspirisys Solutions Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE020J01029",
+  "sym": "GOKUL",
+  "name": "Gokul Refoils and Solvent Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE022C01012",
+  "sym": "EUROTEXIND",
+  "name": "Eurotex Industries and Exports Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE023A01030",
+  "sym": "NSIL",
+  "name": "Nalwa Sons Investments Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE024D01016",
+  "sym": "PRUDMOULI",
+  "name": "Prudential Sugar Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE025A01027",
+  "sym": "CONSOFINVT",
+  "name": "Consolidated Finvest & Holdings Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE025B01025",
+  "sym": "GOLDIAM",
+  "name": "Goldiam International Limited",
+  "held": 5,
+  "concalls": 13
+ },
+ {
+  "isin": "INE029L01018",
+  "sym": "KICL",
+  "name": "Kalyani Investment Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE02A801020",
+  "sym": "ROSSARI",
+  "name": "Rossari Biotech Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE02AR01019",
+  "sym": "ANMOL",
+  "name": "Anmol India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE02EZ01022",
+  "sym": "AXITA",
+  "name": "Axita Cotton Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE02H701025",
+  "sym": "NOVAAGRI",
+  "name": "Nova Agritech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE02ID01020",
+  "sym": "RAYMONDLSL",
+  "name": "Raymond Lifestyle Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
+  "isin": "INE02L001032",
+  "sym": "BOROSCI",
+  "name": "Borosil Scientific Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE02PY01013",
+  "sym": "BOROLTD",
+  "name": "Borosil Limited",
+  "held": 6,
+  "concalls": 12
+ },
+ {
+  "isin": "INE02WG01024",
+  "sym": "WEL",
+  "name": "Wonder Electricals Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE032A01023",
+  "sym": "BOMDYEING",
+  "name": "Bombay Dyeing & Mfg Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE032B01021",
+  "sym": "PRIMESECU",
+  "name": "Prime Securities Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE032Z01020",
+  "sym": "BSHSL",
+  "name": "Bombay Super Hybrid Seeds Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE034D01049",
+  "sym": "PTL",
+  "name": "PTL Enterprises Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE034S01021",
+  "sym": "ARVSMART",
+  "name": "Arvind SmartSpaces Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE035801013",
+  "sym": "AERONEU",
+  "name": "Aeroflex Neu Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE035D01020",
+  "sym": "SOTL",
+  "name": "Savita Oil Technologies Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE036A01016",
+  "sym": "RELINFRA",
+  "name": "Reliance Infrastructure Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE037Z01029",
+  "sym": "CEWATER",
+  "name": "Concord Enviro Systems Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE038F01029",
+  "sym": "TVTODAY",
+  "name": "TV Today Network Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE039B01026",
+  "sym": "CINEVISTA",
+  "name": "Cinevista Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE039O01029",
+  "sym": "JASH",
+  "name": "Jash Engineering Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE03CC01015",
+  "sym": "JUBLCPL",
+  "name": "Jubilant Agri and Consumer Products Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE03DD01011",
+  "sym": "RETAIL",
+  "name": "JHS Svendgaard Retail Ventures Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE03HW01020",
+  "sym": "VLEGOV",
+  "name": "VL E Governance & IT Solutions Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE03JI01017",
+  "sym": "DGCONTENT",
+  "name": "Digicontent Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE03NU01014",
+  "sym": "BRIGHOTEL",
+  "name": "Brigade Hotel Ventures Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE03RS01027",
+  "sym": "DRCSYSTEMS",
+  "name": "DRC Systems India Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE03V001013",
+  "sym": "UNIVPHOTO",
+  "name": "Universus Photo Imagings Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE03YM01018",
+  "sym": "CHEMCON",
+  "name": "Chemcon Speciality Chemicals Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE040D01038",
+  "sym": "MAYURUNIQ",
+  "name": "Mayur Uniquoters Ltd",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE040M01013",
+  "sym": "TREEHOUSE",
+  "name": "Tree House Education & Accessories Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE041A01016",
+  "sym": "DHAMPURSUG",
+  "name": "Dhampur Sugar Mills Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE043A01012",
+  "sym": "GTL",
+  "name": "GTL Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE043C01018",
+  "sym": "IVP",
+  "name": "IVP Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE045A01017",
+  "sym": "ADOR",
+  "name": "Ador Welding Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE045B01015",
+  "sym": "NELCO",
+  "name": "NELCO Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE046A01015",
+  "sym": "RIIL",
+  "name": "Reliance Industrial Infrastructure Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE046W01019",
+  "sym": "MUTHOOTMF",
+  "name": "Muthoot Microfin Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE047B01011",
+  "sym": "GILLANDERS",
+  "name": "Gillanders Arbuthnot & Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE047O01014",
+  "sym": "NIBL",
+  "name": "NRB Industrial Bearings Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE048B01035",
+  "sym": "JAGSNPHARM",
+  "name": "Jagsonpal Pharmaceuticals Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
+  "isin": "INE048C01025",
+  "sym": "VHLTD",
+  "name": "Viceroy Hotels Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE049A01027",
+  "sym": "HIMATSEIDE",
+  "name": "Himatsingka Seide Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE049I01012",
+  "sym": "NAHARCAP",
+  "name": "Nahar Capital and Financial Services Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE04AK01028",
+  "sym": "SBC",
+  "name": "SBC Exports Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE04LG01015",
+  "sym": "PAR",
+  "name": "Par Drugs And Chemicals Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE04VU01023",
+  "sym": "STYL",
+  "name": "Seshaasai Technologies Limited",
+  "held": 6,
+  "concalls": 5
+ },
+ {
+  "isin": "INE050001010",
+  "sym": "PPL",
+  "name": "Prakash Pipes Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE050401020",
+  "sym": "ELIN",
+  "name": "Elin Electronics Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE050B01023",
+  "sym": "IVC",
+  "name": "IL&FS Investment Managers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE050H01012",
+  "sym": "RML",
+  "name": "Rane (Madras) Limited",
+  "held": 5,
+  "concalls": 14
+ },
+ {
+  "isin": "INE050M01012",
+  "sym": "VSSL",
+  "name": "Vardhman Special Steels Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE051B01021",
+  "sym": "VAKRANGEE",
+  "name": "Vakrangee Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE052A01021",
+  "sym": "WINDMACHIN",
+  "name": "Windsor Machines Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE052I01032",
+  "sym": "CAMLINFINE",
+  "name": "Camlin Fine Sciences Limited",
+  "held": 5,
+  "concalls": 14
+ },
+ {
+  "isin": "INE052T01021",
+  "sym": "BESTAGRO",
+  "name": "Best Agrolife Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE054301028",
+  "sym": "ODIGMA",
+  "name": "Odigma Consultancy Solutions Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE054A01027",
+  "sym": "VIPIND",
+  "name": "VIP Industries Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE055C01020",
+  "sym": "KEEPLEARN",
+  "name": "DSJ Keep Learning Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE056I01025",
+  "sym": "REFEX",
+  "name": "Refex Industries Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE058B01018",
+  "sym": "ZENITHEXPO",
+  "name": "Zenith Exports Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE059B01024",
+  "sym": "SIMPLEXINF",
+  "name": "Simplex Infrastructures Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE059D01020",
+  "sym": "LAOPALA",
+  "name": "La Opala RG Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE05AN01011",
+  "sym": "HINDWAREAP",
+  "name": "Hindware Home Innovation Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE05CZ01011",
+  "sym": "RATNAVEER",
+  "name": "Ratnaveer Precision Engineering Limited",
+  "held": 6,
+  "concalls": 3
+ },
+ {
+  "isin": "INE05J901018",
+  "sym": "IGCL",
+  "name": "Indogulf Cropsciences Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE05ST01028",
+  "sym": "SBGLP",
+  "name": "Suratwwala Business Group Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE05X901010",
+  "sym": "HPIL",
+  "name": "Hindprakash Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE060901027",
+  "sym": "LIKHITHA",
+  "name": "Likhitha Infrastructure Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE060A01024",
+  "sym": "NAVNETEDUL",
+  "name": "Navneet Education Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE060B01014",
+  "sym": "KHANDSE",
+  "name": "Khandwala Securities Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE060X01034",
+  "sym": "DEVIT",
+  "name": "Dev Information Technology Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE061A01014",
+  "sym": "INDIANCARD",
+  "name": "Indian Card Clothing Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE062D01024",
+  "sym": "ALICON",
+  "name": "Alicon Castalloy Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE063E01061",
+  "sym": "POCL",
+  "name": "Pondy Oxides & Chemicals Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE065D01027",
+  "sym": "AEROENTER",
+  "name": "Aeroflex Enterprises Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE065J01024",
+  "sym": "TPHQ",
+  "name": "Teamo Productions HQ Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE066O01014",
+  "sym": "WONDERLA",
+  "name": "Wonderla Holidays Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE068L01024",
+  "sym": "CANTABIL",
+  "name": "Cantabil Retail India Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE06HJ01020",
+  "sym": "ECOSMOBLTY",
+  "name": "Ecos (India) Mobility & Hospitality Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE06XZ01023",
+  "sym": "GEMAROMA",
+  "name": "Gem Aromatics Limited",
+  "held": 6,
+  "concalls": 4
+ },
+ {
+  "isin": "INE070I01018",
+  "sym": "INSECTICID",
+  "name": "Insecticides (India) Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE071D01033",
+  "sym": "MENONBE",
+  "name": "Menon Bearings Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
+  "isin": "INE071E01023",
+  "sym": "UGARSUGAR",
+  "name": "The Ugar Sugar Works Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE071F01012",
+  "sym": "APCL",
+  "name": "Anjani Portland Cement Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE071N01016",
+  "sym": "EPIGRAL",
+  "name": "Epigral Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE073D01013",
+  "sym": "SUNDRMBRAK",
+  "name": "Sundaram Brake Linings Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE073G01016",
+  "sym": "ASALCBR",
+  "name": "Associated Alcohols & Breweries Ltd.",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE073V01015",
+  "sym": "COMSYN",
+  "name": "Commercial Syn Bags Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE074A01025",
+  "sym": "PRAJIND",
+  "name": "Praj Industries Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE074B01023",
+  "sym": "PARACABLES",
+  "name": "Paramount Communications Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE075B01020",
+  "sym": "SICALLOG",
+  "name": "Sical Logistics Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE075D01018",
+  "sym": "GMBREW",
+  "name": "GM Breweries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE076B01028",
+  "sym": "SIYSIL",
+  "name": "Siyaram Silk Mills Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE076C01018",
+  "sym": "IFBAGRO",
+  "name": "IFB Agro Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE077F01035",
+  "sym": "GOCLCORP",
+  "name": "GOCL Corporation Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE079J01017",
+  "sym": "GATEWAY",
+  "name": "Gateway Distriparks Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE07K301024",
+  "sym": "ZAGGLE",
+  "name": "Zaggle Prepaid Ocean Services Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE07O001026",
+  "sym": "EASEMYTRIP",
+  "name": "Easy Trip Planners Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE07OG01012",
+  "sym": "NDRAUTO",
+  "name": "Ndr Auto Components Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE07RO01027",
+  "sym": "SUPRIYA",
+  "name": "Supriya Lifescience Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE07S101038",
+  "sym": "PAVNAIND",
+  "name": "Pavna Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE07U701015",
+  "sym": "IRMENERGY",
+  "name": "IRM Energy Limited",
+  "held": 6,
+  "concalls": 4
+ },
+ {
+  "isin": "INE080A01014",
+  "sym": "WEIZMANIND",
+  "name": "Weizmann Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE080B01012",
+  "sym": "KOHINOOR",
+  "name": "Kohinoor Foods Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE082A01010",
+  "sym": "KOPRAN",
+  "name": "Kopran Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE082W01014",
+  "sym": "WEWIN",
+  "name": "WE WIN LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE083A01026",
+  "sym": "MOREPENLAB",
+  "name": "Morepen Laboratories Limited",
+  "held": 6,
+  "concalls": 5
+ },
+ {
+  "isin": "INE083B01024",
+  "sym": "THEMISMED",
+  "name": "Themis Medicare Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE083C01022",
+  "sym": "PLASTIBLEN",
+  "name": "Plastiblends India Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE083D01012",
+  "sym": "BALPHARMA",
+  "name": "Bal Pharma Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE084Q01012",
+  "sym": "RACE",
+  "name": "Race Eco Chain Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE086A01029",
+  "sym": "ELECTCAST",
+  "name": "Electrosteel Castings Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE087A01019",
+  "sym": "KESORAMIND",
+  "name": "Kesoram Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE087B01017",
+  "sym": "ANIKINDS",
+  "name": "Anik Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE087H01022",
+  "sym": "RENUKA",
+  "name": "Shree Renuka Sugars Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE087Z01024",
+  "sym": "AAKASH",
+  "name": "Aakash Exploration Services Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE08KJ01020",
+  "sym": "MUFIN",
+  "name": "Mufin Green Finance Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE08KP01019",
+  "sym": "DCMNVL",
+  "name": "DCM Nouvelle Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE08LI01020",
+  "sym": "KRSNAA",
+  "name": "Krsnaa Diagnostics Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE08NE01025",
+  "sym": "SANSTAR",
+  "name": "Sanstar Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE08PH01015",
+  "sym": "ABCOTS",
+  "name": "A B Cotspin India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE08U801020",
+  "sym": "SAMHI",
+  "name": "Samhi Hotels Limited",
+  "held": 5,
+  "concalls": 14
+ },
+ {
+  "isin": "INE08ZM01014",
+  "sym": "GREENPANEL",
+  "name": "Greenpanel Industries Limited",
+  "held": 5,
+  "concalls": 17
+ },
+ {
+  "isin": "INE090501011",
+  "sym": "SCODATUBES",
+  "name": "Scoda Tubes Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE090B01011",
+  "sym": "OMAXAUTO",
+  "name": "Omax Autos Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE092B01025",
+  "sym": "INDNIPPON",
+  "name": "India Nippon Electricals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE094I01018",
+  "sym": "KOLTEPATIL",
+  "name": "Kolte - Patil Developers Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE095I01015",
+  "sym": "PPAP",
+  "name": "PPAP Automotive Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE096B01018",
+  "sym": "NUCLEUS",
+  "name": "Nucleus Software Exports Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE099F01013",
+  "sym": "SREEL",
+  "name": "Sreeleathers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE09E501017",
+  "sym": "RVHL",
+  "name": "Ravinder Heights Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE09EO01013",
+  "sym": "AARTISURF",
+  "name": "Aarti Surfactants Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE09KD01013",
+  "sym": "ATAM",
+  "name": "Atam Valves Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE09VQ01012",
+  "sym": "INDIGOPNTS",
+  "name": "Indigo Paints Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0A1101019",
+  "sym": "DCI",
+  "name": "Dc Infotech And Communication Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE0AE001013",
+  "sym": "VPRPL",
+  "name": "Vishnu Prakash R Punglia Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE0ALR01029",
+  "sym": "ATALREAL",
+  "name": "Atal Realtech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0APB01032",
+  "sym": "MGEL",
+  "name": "Mangalam Global Enterprise Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0ATZ01017",
+  "sym": "KRONOX",
+  "name": "Kronox Lab Sciences Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0B1K01014",
+  "sym": "DJML",
+  "name": "Dj Mediaprint & Logistics Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0B9K01033",
+  "sym": "BANSALWIRE",
+  "name": "Bansal Wire Industries Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE0BJS01011",
+  "sym": "GOCOLORS",
+  "name": "Go Fashion (India) Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0BTI01037",
+  "sym": "KAMOPAINTS",
+  "name": "Kamdhenu Ventures Limited",
+  "held": 6,
+  "concalls": 3
+ },
+ {
+  "isin": "INE0BTM01013",
+  "sym": "SECMARK",
+  "name": "Secmark Consultancy Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0BV301023",
+  "sym": "MAPMYINDIA",
+  "name": "C.E. Info Systems Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE0BX301013",
+  "sym": "PROSTARM",
+  "name": "Prostarm Info Systems Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE0BYP01024",
+  "sym": "OSWALPUMPS",
+  "name": "Oswal Pumps Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE0CG401037",
+  "sym": "MUKKA",
+  "name": "Mukka Proteins Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0CG601016",
+  "sym": "MAXIND",
+  "name": "Max India Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE0CHO01012",
+  "sym": "ADL",
+  "name": "Archidply Decor Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0CJD01029",
+  "sym": "KMEW",
+  "name": "Knowledge Marine & Engineering Works Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0CJF01024",
+  "sym": "WCIL",
+  "name": "Western Carriers (India) Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE0CT101020",
+  "sym": "MOL",
+  "name": "Meghmani Organics Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0D0K01022",
+  "sym": "SIGACHI",
+  "name": "Sigachi Industries Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0D0U01013",
+  "sym": "AAATECH",
+  "name": "Aaa Technologies Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0D6701023",
+  "sym": "IPL",
+  "name": "India Pesticides Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0D6I01023",
+  "sym": "KSOLVES",
+  "name": "Ksolves India Limited",
+  "held": 6,
+  "concalls": 13
+ },
+ {
+  "isin": "INE0DAB01012",
+  "sym": "RVTH",
+  "name": "Revathi Equipment India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0DNW01011",
+  "sym": "FAIRCHEMOR",
+  "name": "Fairchem Organics Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0DSF01015",
+  "sym": "NURECA",
+  "name": "Nureca Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0ECP01024",
+  "sym": "HMAAGRO",
+  "name": "Hma Agro Industries Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE0EEJ01023",
+  "sym": "BTML",
+  "name": "Bodhi Tree Multimedia Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE0EK901012",
+  "sym": "TARC",
+  "name": "TARC Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE0FFK01017",
+  "sym": "NPST",
+  "name": "Network People Services Technologies Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0FHS01024",
+  "sym": "DEEPINDS",
+  "name": "Deep Industries Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE0FRK01020",
+  "sym": "MOTISONS",
+  "name": "Motisons Jewellers Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE0G5901015",
+  "sym": "EPACK",
+  "name": "EPACK Durable Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0GFE01026",
+  "sym": "EXXARO",
+  "name": "Exxaro Tiles Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0GIU01018",
+  "sym": "UMAEXPORTS",
+  "name": "Uma Exports Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE0GK401011",
+  "sym": "TATVA",
+  "name": "Tatva Chintan Pharma Chem Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE0GSL01024",
+  "sym": "HPAL",
+  "name": "HP Adhesives Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0H5O01029",
+  "sym": "WINDLAS",
+  "name": "Windlas Biotech Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0H9P01028",
+  "sym": "ARIS",
+  "name": "Arisinfra Solutions Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE0HF201011",
+  "sym": "FABTECH",
+  "name": "Fabtech Technologies Limited",
+  "held": 6,
+  "concalls": 5
+ },
+ {
+  "isin": "INE0HLU01028",
+  "sym": "MOBIKWIK",
+  "name": "One Mobikwik Systems Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE0HMF01019",
+  "sym": "TRACXN",
+  "name": "Tracxn Technologies Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0HR601026",
+  "sym": "DDEVPLSTIK",
+  "name": "Ddev Plastiks Industries Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE0I0M01023",
+  "sym": "PRABHA",
+  "name": "Prabha Energy Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE0I3401014",
+  "sym": "DBOL",
+  "name": "Dhampur Bio Organics Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE0I7C01011",
+  "sym": "LATENTVIEW",
+  "name": "Latent View Analytics Limited",
+  "held": 6,
+  "concalls": 12
+ },
+ {
+  "isin": "INE0INJ01017",
+  "sym": "PLAZACABLE",
+  "name": "Plaza Wires Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0IQ001011",
+  "sym": "VERANDA",
+  "name": "Veranda Learning Solutions Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE0J1F01024",
+  "sym": "RPTECH",
+  "name": "Rashi Peripherals Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0JA001018",
+  "sym": "VENUSPIPES",
+  "name": "Venus Pipes & Tubes Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0JM501013",
+  "sym": "NRL",
+  "name": "Nupur Recyclers Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE0JR601024",
+  "sym": "YATRA",
+  "name": "Yatra Online Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0JS101016",
+  "sym": "DREAMFOLKS",
+  "name": "Dreamfolks Services Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0JSX01015",
+  "sym": "GSLSU",
+  "name": "Global Surfaces Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE0JVO01026",
+  "sym": "GARUDA",
+  "name": "Garuda Construction and Engineering Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0JWS01017",
+  "sym": "VALIANTLAB",
+  "name": "Valiant Laboratories Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0JYY01029",
+  "sym": "MWL",
+  "name": "Mangalam Worldwide Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0KGZ01021",
+  "sym": "SIGNPOST",
+  "name": "Signpost India Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE0KL801015",
+  "sym": "DCXINDIA",
+  "name": "Dcx Systems Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE0KNT01012",
+  "sym": "MVGJL",
+  "name": "Manoj Vaibhav Gems N Jewellers Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE0KQN01018",
+  "sym": "BAJEL",
+  "name": "Bajel Projects Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE0L9R01028",
+  "sym": "GOPAL",
+  "name": "Gopal Snacks Limited",
+  "held": 5,
+  "concalls": 19
+ },
+ {
+  "isin": "INE0LLY01014",
+  "sym": "EIEL",
+  "name": "Enviro Infra Engineers Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE0LOJ01019",
+  "sym": "IKIO",
+  "name": "IKIO Technologies Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0LQS01015",
+  "sym": "TIPSFILMS",
+  "name": "Tips Films Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE0LRY01011",
+  "sym": "QUADFUTURE",
+  "name": "Quadrant Future Tek Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE0MB501011",
+  "sym": "JGCHEM",
+  "name": "J.G.Chemicals Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE0MIS01010",
+  "sym": "PYRAMID",
+  "name": "Pyramid Technoplast Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0MWH01014",
+  "sym": "TRUALT",
+  "name": "TruAlt Bioenergy Limited",
+  "held": 6,
+  "concalls": 5
+ },
+ {
+  "isin": "INE0N0Y01013",
+  "sym": "USK",
+  "name": "Udayshivakumar Infra Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0NLT01028",
+  "sym": "BLSE",
+  "name": "BLS E-Services Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE0NN701020",
+  "sym": "ATL",
+  "name": "Allcargo Terminals Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0NQ801033",
+  "sym": "RKSWAMY",
+  "name": "R K Swamy Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE0O3901029",
+  "sym": "TREL",
+  "name": "Transindia Real Estate Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE0O6601022",
+  "sym": "KROSS",
+  "name": "Kross Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
+  "isin": "INE0O9T01021",
+  "sym": "BAJAJINDEF",
+  "name": "Indef Manufacturing Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0OAF01028",
+  "sym": "JNKINDIA",
+  "name": "JNK India Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE0OPA01027",
+  "sym": "DBEIL",
+  "name": "Deepak Builders & Engineers India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0OV601013",
+  "sym": "EMSLIMITED",
+  "name": "Ems Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE0PA801013",
+  "sym": "GHCLTEXTIL",
+  "name": "Ghcl Textiles Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE0PB301013",
+  "sym": "SCILAL",
+  "name": "Shipping Corporation Of India Land And Assets Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0PEQ01016",
+  "sym": "RBZJEWEL",
+  "name": "Rbz Jewellers Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE0PK601023",
+  "sym": "OCCLLTD",
+  "name": "OCCL Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE0PPK01015",
+  "sym": "ORIENTTECH",
+  "name": "Orient Technologies Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE0PQ101010",
+  "sym": "SSDL",
+  "name": "Saraswati Saree Depot Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0PSC01024",
+  "sym": "DIGIDRIVE",
+  "name": "Digidrive Distributors Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0PT501018",
+  "sym": "PLATIND",
+  "name": "Platinum Industries Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE0Q3R01026",
+  "sym": "SUNCLAY",
+  "name": "Sundaram Clayton Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0QN801017",
+  "sym": "KRYSTAL",
+  "name": "Krystal Integrated Services Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE0QRL01017",
+  "sym": "ARKADE",
+  "name": "Arkade Developers Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
+  "isin": "INE0QTF01015",
+  "sym": "VSTL",
+  "name": "Vibhor Steel Tubes Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE0R4L01018",
+  "sym": "DENTA",
+  "name": "Denta Water and Infra Solutions Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE0R6Z01013",
+  "sym": "SRM",
+  "name": "SRM Contractors Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE0RE001014",
+  "sym": "GALAPREC",
+  "name": "Gala Precision Engineering Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE0RWQ01014",
+  "sym": "TOLINS",
+  "name": "Tolins Tyres Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE0RYC01010",
+  "sym": "STALLION",
+  "name": "Stallion India Fluorochemicals Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE0S2G01011",
+  "sym": "BALAJEE",
+  "name": "Shree Tirupati Balajee Agro Trading Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0S2V01010",
+  "sym": "VRAJ",
+  "name": "Vraj Iron and Steel Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0S3G01027",
+  "sym": "PACEDIGITK",
+  "name": "Pace Digitek Limited",
+  "held": 6,
+  "concalls": 5
+ },
+ {
+  "isin": "INE0S4R01014",
+  "sym": "CRIZAC",
+  "name": "Crizac Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE0TGX01019",
+  "sym": "CHEMBONDCH",
+  "name": "Chembond Chemicals Limited",
+  "held": 6,
+  "concalls": 3
+ },
+ {
+  "isin": "INE0TO701015",
+  "sym": "MAMATA",
+  "name": "Mamata Machinery Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE0U4101014",
+  "sym": "BLUSPRING",
+  "name": "Bluspring Enterprises Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE0U4701011",
+  "sym": "DIGITIDE",
+  "name": "Digitide Solutions Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE0URU01010",
+  "sym": "GLOBALE",
+  "name": "Globale Tessile Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0US801024",
+  "sym": "MFML",
+  "name": "Mahalaxmi Fabric Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE0V3U01015",
+  "sym": "GLOBECIVIL",
+  "name": "Globe Civil Projects Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE0V7W01012",
+  "sym": "CARRARO",
+  "name": "Carraro India Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE0WO601020",
+  "sym": "LAXMIDENTL",
+  "name": "Laxmi Dental Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE0Y8W01025",
+  "sym": "AHCL",
+  "name": "Anlon Healthcare Limited",
+  "held": 6,
+  "concalls": 5
+ },
+ {
+  "isin": "INE100D01014",
+  "sym": "WSI",
+  "name": "W S Industries (I) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE102A01024",
+  "sym": "HLVLTD",
+  "name": "HLV LIMITED",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE102I01027",
+  "sym": "ADSL",
+  "name": "Allied Digital Services Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE103C01036",
+  "sym": "SMCGLOBAL",
+  "name": "Smc Global Securities Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE105C01023",
+  "sym": "3PLAND",
+  "name": "3P Land Holdings Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE105J01010",
+  "sym": "RPGLIFE",
+  "name": "RPG Life Sciences Limited",
+  "held": 6,
+  "concalls": 8
+ },
+ {
+  "isin": "INE106T01025",
+  "sym": "HITECH",
+  "name": "Hi-Tech Pipes Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE107A01015",
+  "sym": "TNPL",
+  "name": "Tamil Nadu Newsprint & Papers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE107F01022",
+  "sym": "WANBURY",
+  "name": "Wanbury Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE108E01023",
+  "sym": "SUNDARAM",
+  "name": "Sundaram Multi Pap Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE108V01019",
+  "sym": "AWFIS",
+  "name": "Awfis Space Solutions Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE109C01017",
+  "sym": "ARMANFIN",
+  "name": "Arman Financial Services Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE110A01019",
+  "sym": "BPL",
+  "name": "Bpl Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE110B01017",
+  "sym": "MINDTECK",
+  "name": "Mindteck (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE111B01023",
+  "sym": "63MOONS",
+  "name": "63 moons technologies limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE112D01035",
+  "sym": "MHLXMIRU",
+  "name": "Mahalaxmi Rubtech Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE112F01022",
+  "sym": "LAMBODHARA",
+  "name": "Lambodhara Textiles Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE112X01025",
+  "sym": "SIKKO",
+  "name": "Sikko Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE116A01032",
+  "sym": "APCOTEXIND",
+  "name": "Apcotex Industries Limited",
+  "held": 6,
+  "concalls": 12
+ },
+ {
+  "isin": "INE116D01028",
+  "sym": "BAGFILMS",
+  "name": "B.A.G Films and Media Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE116G01013",
+  "sym": "VARDHACRLC",
+  "name": "Vardhman Acrylics Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE117Z01029",
+  "sym": "NARMADA",
+  "name": "Narmada Agrobase Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE118H01025",
+  "sym": "BSE",
+  "name": "BSE Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE120D01012",
+  "sym": "HITECHCORP",
+  "name": "Hitech Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE121N01019",
+  "sym": "THEJO",
+  "name": "Thejo Engineering Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE123B01028",
+  "sym": "NAGREEKEXP",
+  "name": "Nagreeka Exports Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE123C01018",
+  "sym": "TAINWALCHM",
+  "name": "Tainwala Chemical and Plastic (I) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE124E01038",
+  "sym": "STEELCAS",
+  "name": "Steelcast Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE124G01033",
+  "sym": "DELTACORP",
+  "name": "Delta Corp Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE126J01016",
+  "sym": "APOLLOPIPE",
+  "name": "Apollo Pipes Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE127B01011",
+  "sym": "HITECHGEAR",
+  "name": "The Hi-Tech Gears Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE127T01021",
+  "sym": "KPEL",
+  "name": "K.P. Energy Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE128A01029",
+  "sym": "EVEREADY",
+  "name": "Eveready Industries India Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE129Z01016",
+  "sym": "SINTERCOM",
+  "name": "Sintercom India Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE12NJ01018",
+  "sym": "SAMBHV",
+  "name": "Sambhv Steel Tubes Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE132H01018",
+  "sym": "AURIONPRO",
+  "name": "Aurionpro Solutions Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE133Y01011",
+  "sym": "IFGLEXPOR",
+  "name": "IFGL Refractories Limited",
+  "held": 5,
+  "concalls": 17
+ },
+ {
+  "isin": "INE134B01017",
+  "sym": "KECL",
+  "name": "Kirloskar Electric Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE137C01018",
+  "sym": "ALPHAGEO",
+  "name": "Alphageo (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE137I01015",
+  "sym": "GRPLTD",
+  "name": "GRP Limited",
+  "held": 6,
+  "concalls": 14
+ },
+ {
+  "isin": "INE138A01028",
+  "sym": "PENINLAND",
+  "name": "Peninsula Land Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE138C01024",
+  "sym": "KANORICHEM",
+  "name": "Kanoria Chemicals & Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE139B01016",
+  "sym": "UCAL",
+  "name": "UCAL LIMITED",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE139I01011",
+  "sym": "BVCL",
+  "name": "Barak Valley Cements Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE139R01012",
+  "sym": "FUSION",
+  "name": "Fusion Finance Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE141K01013",
+  "sym": "TEXMOPIPES",
+  "name": "Texmo Pipes and Products Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE142K01011",
+  "sym": "AURUS",
+  "name": "AURUS GEM CORPORATION LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE142Q01026",
+  "sym": "SULA",
+  "name": "Sula Vineyards Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE142Z01019",
+  "sym": "ORIENTELEC",
+  "name": "Orient Electric Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE143A01010",
+  "sym": "OSWALGREEN",
+  "name": "Oswal Greentech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE144D01012",
+  "sym": "CUBEXTUB",
+  "name": "Cubex Tubings Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE144J01027",
+  "sym": "20MICRONS",
+  "name": "20 Microns Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE144Z01023",
+  "sym": "TARSONS",
+  "name": "Tarsons Products Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE147A01011",
+  "sym": "SPIC",
+  "name": "Southern Petrochemicals Industries Corporation  Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE147P01019",
+  "sym": "JPOLYINVST",
+  "name": "Jindal Poly Investment and Finance Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE148A01019",
+  "sym": "TNPETRO",
+  "name": "Tamilnadu PetroProducts Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE149O01018",
+  "sym": "NIBE",
+  "name": "NIBE Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE150G01020",
+  "sym": "LUXIND",
+  "name": "Lux Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE152C01025",
+  "sym": "UYFINCORP",
+  "name": "U. Y. Fincorp Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE153A01019",
+  "sym": "MTNL",
+  "name": "Mahanagar Telephone Nigam Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE155C01010",
+  "sym": "ALBERTDAVD",
+  "name": "Albert David Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE155G01029",
+  "sym": "NDTV",
+  "name": "New Delhi Television Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE155Z01011",
+  "sym": "MACPOWER",
+  "name": "Macpower CNC Machines Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE156A01020",
+  "sym": "INDORAMA",
+  "name": "Indo Rama Synthetics (India) Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE156C01018",
+  "sym": "PIONEEREMB",
+  "name": "Pioneer Embroideries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE157H01023",
+  "sym": "KMSUGAR",
+  "name": "K.M.Sugar Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE158B01016",
+  "sym": "EIMCOELECO",
+  "name": "Eimco Elecon (India) Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE159N01027",
+  "sym": "VIJIFIN",
+  "name": "Viji Finance Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE161A01038",
+  "sym": "NIITLTD",
+  "name": "NIIT Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE162A01010",
+  "sym": "GIPCL",
+  "name": "Gujarat Industries Power Company Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE163A01018",
+  "sym": "NOCIL",
+  "name": "NOCIL Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE164A01016",
+  "sym": "BALMLAWRIE",
+  "name": "Balmer Lawrie & Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE164B01030",
+  "sym": "KELLTONTEC",
+  "name": "Kellton Tech Solutions Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE165B01029",
+  "sym": "RSSOFTWARE",
+  "name": "R. S. Software (India) Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE16SF01016",
+  "sym": "BORANA",
+  "name": "Borana Weaves Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE170E01023",
+  "sym": "SATIA",
+  "name": "Satia Industries Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE170I01016",
+  "sym": "HGS",
+  "name": "Hinduja Global Solutions Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE170V01027",
+  "sym": "SALASAR",
+  "name": "Salasar Techno Engineering Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE172N01012",
+  "sym": "IMAGICAA",
+  "name": "Imagicaaworld Entertainment Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE173A01025",
+  "sym": "SIL",
+  "name": "Standard Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE175A01038",
+  "sym": "JISLJALEQS",
+  "name": "Jain Irrigation Systems Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE178C01020",
+  "sym": "SMARTLINK",
+  "name": "Smartlink Holdings Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE179G01029",
+  "sym": "DAVANGERE",
+  "name": "Davangere Sugar Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE182D01020",
+  "sym": "MARATHON",
+  "name": "Marathon Nextgen Realty Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE184H01027",
+  "sym": "EKC",
+  "name": "Everest Kanto Cylinder Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE184O01015",
+  "sym": "DIFFNKG",
+  "name": "Diffusion Engineers Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE185E01021",
+  "sym": "FILATFASH",
+  "name": "Filatex Fashions Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE185H01016",
+  "sym": "CELEBRITY",
+  "name": "Celebrity Fashions Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE186A01019",
+  "sym": "GUJALKALI",
+  "name": "Gujarat Alkalies and Chemicals Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE187D01029",
+  "sym": "TALBROAUTO",
+  "name": "Talbros Automotive Components Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE188B01013",
+  "sym": "IGARASHI",
+  "name": "Igarashi Motors India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE188Y01031",
+  "sym": "VERTOZ",
+  "name": "Vertoz Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE189B01011",
+  "sym": "STYRENIX",
+  "name": "Styrenix Performance Materials Limited",
+  "held": 6,
+  "concalls": 14
+ },
+ {
+  "isin": "INE189I01024",
+  "sym": "NELCAST",
+  "name": "Nelcast Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE190H01024",
+  "sym": "SAKUMA",
+  "name": "Sakuma Exports Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE192H01020",
+  "sym": "GRMOVER",
+  "name": "GRM Overseas Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE193B01039",
+  "sym": "AYMSYNTEX",
+  "name": "AYM Syntex Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE193E01025",
+  "sym": "BAJAJELEC",
+  "name": "Bajaj Electricals Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE195J01029",
+  "sym": "PNCINFRA",
+  "name": "PNC Infratech Limited",
+  "held": 6,
+  "concalls": 14
+ },
+ {
+  "isin": "INE195N01013",
+  "sym": "PROZONER",
+  "name": "Prozone Realty Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE196Y01018",
+  "sym": "WORTHPERI",
+  "name": "Worth Peripherals Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE197A01024",
+  "sym": "JYOTISTRUC",
+  "name": "Jyoti Structures Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE197D01010",
+  "sym": "JINDALPOLY",
+  "name": "Jindal Poly Films Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE198H01019",
+  "sym": "AAREYDRUGS",
+  "name": "Aarey Drugs & Pharmaceuticals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE199C01026",
+  "sym": "ADVANIHOTR",
+  "name": "Advani Hotels & Resorts (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE199G01027",
+  "sym": "JAGRAN",
+  "name": "Jagran Prakashan Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE1AG301022",
+  "sym": "GKENERGY",
+  "name": "GK Energy Limited",
+  "held": 6,
+  "concalls": 4
+ },
+ {
+  "isin": "INE1SY401010",
+  "sym": "RAYMONDREL",
+  "name": "Raymond Realty Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE1VXE01018",
+  "sym": "STLNETWORK",
+  "name": "STL Networks Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE201A01024",
+  "sym": "MANALIPETC",
+  "name": "Manali Petrochemicals Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE201K01015",
+  "sym": "EXPLEOSOL",
+  "name": "Expleo Solutions Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE201M01029",
+  "sym": "CLEDUCATE",
+  "name": "CL Educate Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE202H01019",
+  "sym": "KERNEX",
+  "name": "Kernex Microsystems (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE202Z01029",
+  "sym": "TSFINV",
+  "name": "TSF INVESTMENTS LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE203Y01012",
+  "sym": "CRESTO",
+  "name": "Silly Monks Entertainment Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE204A01010",
+  "sym": "IGPL",
+  "name": "IG Petrochemicals Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE204E01012",
+  "sym": "AGARIND",
+  "name": "Agarwal Industrial Corporation Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE206B01013",
+  "sym": "ZODIACLOTH",
+  "name": "Zodiac Clothing Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE206N01018",
+  "sym": "RELTD",
+  "name": "Ravindra Energy Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE207E01023",
+  "sym": "RAMRAT",
+  "name": "Ram Ratna Wires Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE209A01019",
+  "sym": "SUNDROP",
+  "name": "Sundrop Brands Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE210C01013",
+  "sym": "AROGRANITE",
+  "name": "Aro Granite Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE212I01016",
+  "sym": "SPAL",
+  "name": "S. P. Apparels Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE214A01019",
+  "sym": "CYBERTECH",
+  "name": "Cybertech Systems And Software Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE215B01022",
+  "sym": "ORCHASP",
+  "name": "Orchasp Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE215D01010",
+  "sym": "MAHEPC",
+  "name": "Mahindra EPC Irrigation Limited",
+  "held": 6,
+  "concalls": 3
+ },
+ {
+  "isin": "INE215F01023",
+  "sym": "WIPL",
+  "name": "The Western India Plywoods Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE215I01027",
+  "sym": "MAANALU",
+  "name": "Maan Aluminium Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE217A01012",
+  "sym": "ZUARIIND",
+  "name": "ZUARI INDUSTRIES LIMITED",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE217G01035",
+  "sym": "EQUIPPP",
+  "name": "Equippp Social Impact Technologies Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE217L01019",
+  "sym": "SHRIRAMPPS",
+  "name": "Shriram Properties Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE218C01016",
+  "sym": "AUSOMENT",
+  "name": "Ausom Enterprise Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE218G01033",
+  "sym": "PALREDTEC",
+  "name": "Palred Technologies Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE220Q01020",
+  "sym": "MUFTI",
+  "name": "Credo Brands Marketing Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE221H01019",
+  "sym": "GTLINFRA",
+  "name": "GTL Infrastructure Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE224E01028",
+  "sym": "GATECH",
+  "name": "GACM Technologies Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE225D01027",
+  "sym": "SYMPHONY",
+  "name": "Symphony Limited",
+  "held": 6,
+  "concalls": 12
+ },
+ {
+  "isin": "INE226H01026",
+  "sym": "SADBHAV",
+  "name": "Sadbhav Engineering Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE227C01017",
+  "sym": "MMFL",
+  "name": "MM Forgings Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE227G01018",
+  "sym": "INDOWIND",
+  "name": "Indowind Energy Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE228I01012",
+  "sym": "ASAHISONG",
+  "name": "Asahi Songwon Colors Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE229A01017",
+  "sym": "ONWARDTEC",
+  "name": "Onward Technologies Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE229C01021",
+  "sym": "SAGCEM",
+  "name": "Sagar Cements Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE229H01012",
+  "sym": "NITINSPIN",
+  "name": "Nitin Spinners Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE230R01035",
+  "sym": "RAMASTEEL",
+  "name": "Rama Steel Tubes Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE231C01019",
+  "sym": "SHREYANIND",
+  "name": "Shreyans Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE231F01020",
+  "sym": "SASKEN",
+  "name": "Sasken Technologies Limited",
+  "held": 6,
+  "concalls": 3
+ },
+ {
+  "isin": "INE231G01010",
+  "sym": "ORBTEXP",
+  "name": "Orbit Exports Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE232A01011",
+  "sym": "SHREDIGCEM",
+  "name": "Shree Digvijay Cement Co.Ltd",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE234I01028",
+  "sym": "KAUSHALYA",
+  "name": "Kaushalya Infrastructure Development Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE235C01036",
+  "sym": "SUMEETINDS",
+  "name": "Sumeet Industries Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE236A01020",
+  "sym": "HCL-INSYS",
+  "name": "HCL Infosystems Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE236G01019",
+  "sym": "TVSELECT",
+  "name": "TVS Electronics Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE236Y01012",
+  "sym": "NGIL",
+  "name": "Nakoda Group of Industries Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE239D01028",
+  "sym": "OMINFRAL",
+  "name": "OM INFRA LIMITED",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE243D01012",
+  "sym": "BFUTILITIE",
+  "name": "BF Utilities Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE244A01016",
+  "sym": "DENORA",
+  "name": "De Nora India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE244O01017",
+  "sym": "UNIPARTS",
+  "name": "Uniparts India Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE245I01016",
+  "sym": "NAGREEKCAP",
+  "name": "Nagreeka Capital & Infrastructure Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE246B01019",
+  "sym": "RAMCOSYS",
+  "name": "Ramco Systems Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE247D01039",
+  "sym": "JINDWORLD",
+  "name": "Jindal Worldwide Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE247M01014",
+  "sym": "SPECIALITY",
+  "name": "Speciality Restaurants Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE250A01039",
+  "sym": "KIRLOSIND",
+  "name": "Kirloskar Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE250B01029",
+  "sym": "VINYLINDIA",
+  "name": "Vinyl Chemicals (India) Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE250K01012",
+  "sym": "DLINKINDIA",
+  "name": "D-Link (India) Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE250Z01010",
+  "sym": "INDOUS",
+  "name": "Indo Us Biotech Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE251C01025",
+  "sym": "ABMINTLLTD",
+  "name": "ABM International Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE253B01015",
+  "sym": "21STCENMGM",
+  "name": "21st Century Management Services Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE255D01024",
+  "sym": "GULPOLY",
+  "name": "Gulshan Polyols Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE255X01014",
+  "sym": "MSTCLTD",
+  "name": "Mstc Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE256H01015",
+  "sym": "DYNPRO",
+  "name": "Dynemic Products Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE256Z01025",
+  "sym": "AKSHAR",
+  "name": "Akshar Spintex Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE258Y01016",
+  "sym": "LGHL",
+  "name": "Laxmi Goldorna House Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE262Z01023",
+  "sym": "LATTEYS",
+  "name": "Latteys Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE263M01029",
+  "sym": "RUSTOMJEE",
+  "name": "Keystone Realtors Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE263W01010",
+  "sym": "MAHESHWARI",
+  "name": "Maheshwari Logistics Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE264T01014",
+  "sym": "CAPACITE",
+  "name": "Capacite Infraprojects Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE265F01028",
+  "sym": "ENIL",
+  "name": "Entertainment Network (India) Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE266F01018",
+  "sym": "APTECHT",
+  "name": "Aptech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE266Y01019",
+  "sym": "DPABHUSHAN",
+  "name": "D. P. Abhushan Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE268B01013",
+  "sym": "KREBSBIO",
+  "name": "Krebs Biochemicals and Industries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE268H01044",
+  "sym": "NAVKARURB",
+  "name": "Navkar Urbanstructure Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE268L01046",
+  "sym": "SHEKHAWATI",
+  "name": "Shekhawati Industries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE270A01029",
+  "sym": "ALOKINDS",
+  "name": "Alok Industries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE270I01022",
+  "sym": "VISHNU",
+  "name": "Vishnu Chemicals Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
+  "isin": "INE272L01022",
+  "sym": "SURANASOL",
+  "name": "Surana Solar Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE273D01027",
+  "sym": "VGL",
+  "name": "VARVEE GLOBAL LIMITED",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE274C01019",
+  "sym": "WENDT",
+  "name": "Wendt (India) Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE274V01019",
+  "sym": "SHANKARA",
+  "name": "Shankara Building Products Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE275B01026",
+  "sym": "HUHTAMAKI",
+  "name": "Huhtamaki India Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE275D01022",
+  "sym": "AMNPLST",
+  "name": "Amines & Plasticizers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE276C01014",
+  "sym": "EIHAHOTELS",
+  "name": "EIH Associated Hotels Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE276G01015",
+  "sym": "ASIANENE",
+  "name": "Asian Energy Services Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE277A01016",
+  "sym": "SWARAJENG",
+  "name": "Swaraj Engines Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE277B01014",
+  "sym": "PUNJABCHEM",
+  "name": "Punjab Chemicals & Crop Protection Limited",
+  "held": 5,
+  "concalls": 20
+ },
+ {
+  "isin": "INE277C01012",
+  "sym": "REGENCERAM",
+  "name": "Regency Ceramics Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE278B01020",
+  "sym": "RAMANEWS",
+  "name": "Shree Rama Newsprint Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE278G01037",
+  "sym": "CYBERMEDIA",
+  "name": "Cyber Media (India) Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE278H01035",
+  "sym": "SANDHAR",
+  "name": "Sandhar Technologies Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE278M01019",
+  "sym": "NAVKARCORP",
+  "name": "Navkar Corporation Limited",
+  "held": 6,
+  "concalls": 7
+ },
+ {
+  "isin": "INE279A01012",
+  "sym": "UNIVCABLES",
+  "name": "Universal Cables Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE280H01015",
+  "sym": "SAHYADRI",
+  "name": "Sahyadri Industries Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE281A01026",
+  "sym": "CENTEXT",
+  "name": "Century Extrusions Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE283A01014",
+  "sym": "PRECOT",
+  "name": "Precot Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE283H01019",
+  "sym": "ROHLTD",
+  "name": "Royal Orchid Hotels Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE284H01025",
+  "sym": "DAMCAPITAL",
+  "name": "Dam Capital Advisors Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE286H01012",
+  "sym": "VISACHROME",
+  "name": "VISA Chrome Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE287B01021",
+  "sym": "SUBROS",
+  "name": "Subros Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE289A01011",
+  "sym": "NAHARINDUS",
+  "name": "Nahar Industrial Enterprises Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE289B01019",
+  "sym": "GICHSGFIN",
+  "name": "GIC Housing Finance Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE289C01025",
+  "sym": "TEAMGTY",
+  "name": "Team India Guaranty Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE290A01027",
+  "sym": "NAHARSPING",
+  "name": "Nahar Spinning Mills Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE291W01037",
+  "sym": "GLOBAL",
+  "name": "Global Education Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE293B01029",
+  "sym": "HAVISHA",
+  "name": "Sri Havisha Hospitality and Infrastructure Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE294G01026",
+  "sym": "ROML",
+  "name": "Raj Oil Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE294Z01018",
+  "sym": "ANUP",
+  "name": "The Anup Engineering Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE295A01018",
+  "sym": "EVERESTIND",
+  "name": "Everest Industries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE295D01020",
+  "sym": "NACLIND",
+  "name": "NACL Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE295F01017",
+  "sym": "BUTTERFLY",
+  "name": "Butterfly Gandhimathi Appliances Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE296C01020",
+  "sym": "FIBERWEB",
+  "name": "Fiberweb (India) Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE296G01013",
+  "sym": "MUTHOOTCAP",
+  "name": "Muthoot Capital Services Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE296H01011",
+  "sym": "EMKAY",
+  "name": "Emkay Global Financial Services Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE298G01035",
+  "sym": "AJMERA",
+  "name": "Ajmera Realty & Infra India Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE298I01015",
+  "sym": "ARIES",
+  "name": "Aries Agro Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE301D01026",
+  "sym": "RUBYMILLS",
+  "name": "The Ruby Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE303A01010",
+  "sym": "DICIND",
+  "name": "DIC India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE304A01026",
+  "sym": "MUKANDLTD",
+  "name": "Mukand Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE305C01029",
+  "sym": "PANAMAPET",
+  "name": "Panama Petrochem Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE306A01021",
+  "sym": "BAJAJHIND",
+  "name": "Bajaj Hindusthan Sugar Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE306C01019",
+  "sym": "ENERGYDEV",
+  "name": "Energy Development Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE306L01010",
+  "sym": "QUICKHEAL",
+  "name": "Quick Heal Technologies Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
+  "isin": "INE308A01027",
+  "sym": "NAHARPOLY",
+  "name": "Nahar Poly Films Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE309M01020",
+  "sym": "PREMIERPOL",
+  "name": "Premier Polyfilm Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE310A01015",
+  "sym": "NILKAMAL",
+  "name": "Nilkamal Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE310C01029",
+  "sym": "HINDCOMPOS",
+  "name": "Hindustan Composites Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE312C01025",
+  "sym": "SYNCOMF",
+  "name": "Syncom Formulations (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE314G01014",
+  "sym": "KALYANIFRG",
+  "name": "Kalyani Forge Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE316L01019",
+  "sym": "BHARATWIRE",
+  "name": "Bharat Wire Ropes Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE318D01020",
+  "sym": "ZENITHSTL",
+  "name": "Zenith Steel Pipes & Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE319B01014",
+  "sym": "BYKE",
+  "name": "The Byke Hospitality Ltd",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE319Y01024",
+  "sym": "TIRUPATIFL",
+  "name": "Tirupati Forge Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE320L01011",
+  "sym": "DHUNINV",
+  "name": "Dhunseri Investments Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE320X01016",
+  "sym": "HALEOSLABS",
+  "name": "HALEOS LABS LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE323B01024",
+  "sym": "AVONMORE",
+  "name": "Avonmore Capital & Management Services  Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE323C01030",
+  "sym": "INDIANHUME",
+  "name": "Indian Hume Pipe Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE323I01011",
+  "sym": "PURVA",
+  "name": "Puravankara Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE323J01019",
+  "sym": "SOMICONVEY",
+  "name": "Somi Conveyor Beltings Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE324L01013",
+  "sym": "RPPINFRA",
+  "name": "R.P.P. Infra Projects Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE324X01026",
+  "sym": "SARVESHWAR",
+  "name": "Sarveshwar Foods Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE325C01035",
+  "sym": "DOLLAR",
+  "name": "Dollar Industries Limited",
+  "held": 5,
+  "concalls": 21
+ },
+ {
+  "isin": "INE325D01025",
+  "sym": "SINDHUTRAD",
+  "name": "Sindhu Trade Links Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE326B01035",
+  "sym": "ALMONDZ",
+  "name": "Almondz Global Securities Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE326T01011",
+  "sym": "NIRAJISPAT",
+  "name": "Niraj Ispat Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE330H01018",
+  "sym": "RCOM",
+  "name": "Reliance Communications Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE332H01014",
+  "sym": "INDOTECH",
+  "name": "Indo Tech Transformers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE333I01044",
+  "sym": "NEUEON",
+  "name": "Neueon Corporation Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE334A01023",
+  "sym": "STERTOOLS",
+  "name": "Sterling Tools Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE335A01020",
+  "sym": "SURYAROSNI",
+  "name": "Surya Roshni Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE335K01011",
+  "sym": "COFFEEDAY",
+  "name": "Coffee Day Enterprises Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE335W01016",
+  "sym": "GANGESSECU",
+  "name": "Ganges Securities Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE336H01023",
+  "sym": "GAYAPROJ",
+  "name": "Gayatri Projects Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE336X01012",
+  "sym": "TOTAL",
+  "name": "Total Transport Systems Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE337M01021",
+  "sym": "INDOTHAI",
+  "name": "Indo Thai Securities Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE338A01024",
+  "sym": "TIRUMALCHM",
+  "name": "Thirumalai Chemicals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE338D01028",
+  "sym": "BODALCHEM",
+  "name": "Bodal Chemicals Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE342G01023",
+  "sym": "NIITMTS",
+  "name": "Niit Learning Systems Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE344S01016",
+  "sym": "INFOBEAN",
+  "name": "InfoBeans Techno. Ltd.",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE345A01011",
+  "sym": "HINDOILEXP",
+  "name": "Hindustan Oil Exploration Company Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE345H01024",
+  "sym": "CIFL",
+  "name": "Capital India Finance Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE346W01013",
+  "sym": "APEX",
+  "name": "Apex Frozen Foods Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE347A01017",
+  "sym": "MANGLMCEM",
+  "name": "Mangalam Cement Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE347W01011",
+  "sym": "MAGADSUGAR",
+  "name": "Magadh Sugar & Energy Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE348A01023",
+  "sym": "ASHAPURMIN",
+  "name": "Ashapura Minechem Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE348L01012",
+  "sym": "MASFIN",
+  "name": "MAS Financial Services Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE349A01021",
+  "sym": "NRBBEARING",
+  "name": "NRB Bearing Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE349W01017",
+  "sym": "AVADHSUGAR",
+  "name": "Avadh Sugar & Energy Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE349Y01013",
+  "sym": "IDEAFORGE",
+  "name": "Ideaforge Technology Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE350H01032",
+  "sym": "BLKASHYAP",
+  "name": "B. L. Kashyap and Sons Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE350Z01018",
+  "sym": "GLOSTERLTD",
+  "name": "Gloster Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE351A01035",
+  "sym": "UNICHEMLAB",
+  "name": "Unichem Laboratories Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE353H01010",
+  "sym": "SGL",
+  "name": "STL Global Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE354C01027",
+  "sym": "BHAGERIA",
+  "name": "Bhageria Industries Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE358U01012",
+  "sym": "ZOTA",
+  "name": "Zota Health Care LImited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE360C01024",
+  "sym": "DPSCLTD",
+  "name": "DPSC Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE360L01017",
+  "sym": "FMNL",
+  "name": "Future Market Networks Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE362A01016",
+  "sym": "PVP",
+  "name": "PVP Ventures Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE363A01022",
+  "sym": "ASIANHOTNR",
+  "name": "Asian Hotels (North) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE363M01019",
+  "sym": "SHEMAROO",
+  "name": "Shemaroo Entertainment Limited",
+  "held": 5,
+  "concalls": 20
+ },
+ {
+  "isin": "INE364A01020",
+  "sym": "JAYSREETEA",
+  "name": "Jayshree Tea & Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE364Z01019",
+  "sym": "REPL",
+  "name": "Rudrabhishek Enterprises Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE365B01017",
+  "sym": "DATAMATICS",
+  "name": "Datamatics Global Services Limited",
+  "held": 5,
+  "concalls": 13
+ },
+ {
+  "isin": "INE365I01020",
+  "sym": "NBIFIN",
+  "name": "N. B. I. Industrial Finance Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE366A01041",
+  "sym": "DWARKESH",
+  "name": "Dwarikesh Sugar Industries Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE368I01016",
+  "sym": "NIRAJ",
+  "name": "Niraj Cement Structurals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE369A01029",
+  "sym": "EXCELINDUS",
+  "name": "Excel Industries Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE369C01017",
+  "sym": "NORBTEAEXP",
+  "name": "Norben Tea & Exports Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE370D01013",
+  "sym": "MANORG",
+  "name": "Mangalam Organics Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE371C01013",
+  "sym": "PODDARMENT",
+  "name": "Poddar Pigments Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE374B01019",
+  "sym": "MUKTAARTS",
+  "name": "Mukta Arts Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE375Y01018",
+  "sym": "RELIABLE",
+  "name": "Reliable Data Services Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE377E01024",
+  "sym": "COASTCORP",
+  "name": "Coastal Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE378D01032",
+  "sym": "MADHUCON",
+  "name": "Madhucon Projects Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE382M01027",
+  "sym": "UFBL",
+  "name": "United Foodbrands Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE382T01030",
+  "sym": "GVPTECH",
+  "name": "GVP Infotech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE383H01017",
+  "sym": "MALUPAPER",
+  "name": "Malu Paper Mills Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE384A01010",
+  "sym": "RANEHOLDIN",
+  "name": "Rane Holdings Limited",
+  "held": 5,
+  "concalls": 14
+ },
+ {
+  "isin": "INE384C01016",
+  "sym": "YUKEN",
+  "name": "Yuken India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE385I01010",
+  "sym": "ALPA",
+  "name": "Alpa Laboratories Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE385W01011",
+  "sym": "DCAL",
+  "name": "Dishman Carbogen Amcis Limited",
+  "held": 5,
+  "concalls": 22
+ },
+ {
+  "isin": "INE387I01016",
+  "sym": "MAGNUM",
+  "name": "Magnum Ventures Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE388A01029",
+  "sym": "GANESHBE",
+  "name": "Ganesh Benzoplast Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE388G01026",
+  "sym": "TICL",
+  "name": "Twamev Construction and Infrastructure Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE389C01015",
+  "sym": "MALLCOM",
+  "name": "Mallcom (India) Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE389K01018",
+  "sym": "WELINV",
+  "name": "Welspun Investments and Commercials Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE390G01014",
+  "sym": "GPTINFRA",
+  "name": "GPT Infraprojects Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE390H01020",
+  "sym": "KAMDHENU",
+  "name": "Kamdhenu Limited",
+  "held": 6,
+  "concalls": 4
+ },
+ {
+  "isin": "INE391D01019",
+  "sym": "TRF",
+  "name": "TRF Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE391J01032",
+  "sym": "JTLIND",
+  "name": "JTL INDUSTRIES LIMITED",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE392A01021",
+  "sym": "VISAKAIND",
+  "name": "Visaka Industries Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE392B01011",
+  "sym": "PNC",
+  "name": "Pritish Nandy Communications Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE393A01011",
+  "sym": "DELTAMAGNT",
+  "name": "Delta Manufacturing Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE393P01035",
+  "sym": "DIAMONDYD",
+  "name": "Prataap Snacks Limited",
+  "held": 6,
+  "concalls": 3
+ },
+ {
+  "isin": "INE395H01011",
+  "sym": "STEELCITY",
+  "name": "Steel City Securities Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE395U01014",
+  "sym": "NINSYS",
+  "name": "Nintec Systems Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE397H01017",
+  "sym": "LOKESHMACH",
+  "name": "Lokesh Machines Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE398A01010",
+  "sym": "VENKEYS",
+  "name": "Venky's (India) Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE398B01018",
+  "sym": "UMIYA-MRO",
+  "name": "UMIYA BUILDCON LIMITED",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE399K01017",
+  "sym": "RTNPOWER",
+  "name": "RattanIndia Power Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE401H01017",
+  "sym": "KKCL",
+  "name": "Kewal Kiran Clothing Limited",
+  "held": 5,
+  "concalls": 18
+ },
+ {
+  "isin": "INE403Y01018",
+  "sym": "INNOVANA",
+  "name": "Innovana Thinklabs Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE405C01035",
+  "sym": "LINCOLN",
+  "name": "Lincoln Pharmaceuticals Limited",
+  "held": 6,
+  "concalls": 2
+ },
+ {
+  "isin": "INE409B01013",
+  "sym": "SWELECTES",
+  "name": "Swelect Energy Systems Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE411B01019",
+  "sym": "VENUSREM",
+  "name": "Venus Remedies Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE411D01023",
+  "sym": "SKMEGGPROD",
+  "name": "SKM Egg Products Export (India) Limited",
+  "held": 6,
+  "concalls": 3
+ },
+ {
+  "isin": "INE411H01032",
+  "sym": "RSYSTEMS",
+  "name": "R Systems International Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE411U01027",
+  "sym": "BAJAJHCARE",
+  "name": "Bajaj Healthcare Limited",
+  "held": 6,
+  "concalls": 2
+ },
+ {
+  "isin": "INE412C01023",
+  "sym": "JMA",
+  "name": "Jullundur Motor Agency (Delhi) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE412G01024",
+  "sym": "BCLIND",
+  "name": "Bcl Industries Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE412U01025",
+  "sym": "BIGBLOC",
+  "name": "Bigbloc Construction Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE413B01023",
+  "sym": "RUCHINFRA",
+  "name": "Ruchi Infrastructure Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE413G01022",
+  "sym": "TPLPLASTEH",
+  "name": "TPL Plastech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE414A01015",
+  "sym": "MADRASFERT",
+  "name": "Madras Fertilizers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE414B01021",
+  "sym": "ANTGRAPHIC",
+  "name": "Antarctica Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE414D01027",
+  "sym": "BHAGCHEM",
+  "name": "Bhagiradha Chemicals & Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE415A01038",
+  "sym": "AGI",
+  "name": "AGI Greenpac Limited",
+  "held": 6,
+  "concalls": 8
+ },
+ {
+  "isin": "INE415D01024",
+  "sym": "BHARATSE",
+  "name": "Bharat Seats Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE415I01015",
+  "sym": "KIRIINDUS",
+  "name": "Kiri Industries Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE416A01051",
+  "sym": "AQYLON",
+  "name": "Aqylon Nexus Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE417B01040",
+  "sym": "DSSL",
+  "name": "Dynacons Systems & Solutions Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE417C01014",
+  "sym": "PILANIINVS",
+  "name": "Pilani Investment and Industries Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE418H01029",
+  "sym": "ALLCARGO",
+  "name": "Allcargo Logistics Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE419A01022",
+  "sym": "KOTARISUG",
+  "name": "Kothari Sugars And Chemicals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE419D01026",
+  "sym": "CLSEL",
+  "name": "Chaman Lal Setia Exports Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE419U01012",
+  "sym": "HAPPSTMNDS",
+  "name": "Happiest Minds Technologies Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE420B01036",
+  "sym": "ARIHANTCAP",
+  "name": "Arihant Capital Markets Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE421A01028",
+  "sym": "ABAN",
+  "name": "Aban Offshore Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE421C01016",
+  "sym": "TVSSRICHAK",
+  "name": "TVS Srichakra Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE424C01010",
+  "sym": "GINNIFILA",
+  "name": "Ginni Filaments Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE425B01027",
+  "sym": "BCG",
+  "name": "Brightcom Group Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE425Y01011",
+  "sym": "RPSGVENT",
+  "name": "RPSG VENTURES LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE426A01027",
+  "sym": "ALEMBICLTD",
+  "name": "Alembic Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE426D01013",
+  "sym": "GOACARBON",
+  "name": "Goa Carbon Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE426Z01016",
+  "sym": "OBCL",
+  "name": "OBCL Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE429I01024",
+  "sym": "CCCL",
+  "name": "Consolidated Construction Consortium Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE430N01022",
+  "sym": "VISHWARAJ",
+  "name": "Vishwaraj Sugar Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE431F01018",
+  "sym": "PKTEA",
+  "name": "The Peria Karamalai Tea & Produce Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE435A01051",
+  "sym": "ANDHRAPAP",
+  "name": "ANDHRA PAPER LIMITED",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE435C01024",
+  "sym": "TEXINFRA",
+  "name": "Texmaco Infrastructure & Holdings Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE435G01025",
+  "sym": "DHANUKA",
+  "name": "Dhanuka Agritech Limited",
+  "held": 6,
+  "concalls": 12
+ },
+ {
+  "isin": "INE437B01014",
+  "sym": "KAKATCEM",
+  "name": "Kakatiya Cement Sugar & Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE438K01021",
+  "sym": "KALAMANDIR",
+  "name": "Sai Silks (Kalamandir) Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE439T01012",
+  "sym": "NITIRAJ",
+  "name": "Nitiraj Engineers Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE440A01010",
+  "sym": "ASHIMASYN",
+  "name": "Ashima Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE442H01029",
+  "sym": "ASHOKA",
+  "name": "Ashoka Buildcon Limited",
+  "held": 5,
+  "concalls": 17
+ },
+ {
+  "isin": "INE442P01014",
+  "sym": "SUYOG",
+  "name": "Suyog Telematics Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE445C01015",
+  "sym": "XPROINDIA",
+  "name": "Xpro India Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE446A01025",
+  "sym": "ATLASCYCLE",
+  "name": "Atlas Cycles (Haryana) Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE449A01011",
+  "sym": "AUTOAXLES",
+  "name": "Automotive Axles Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE449G01018",
+  "sym": "AGRITECH",
+  "name": "Agri-Tech (India) Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE450D01021",
+  "sym": "PITTIENG",
+  "name": "Pitti Engineering Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE450E01029",
+  "sym": "SUKHJITS",
+  "name": "Sukhjit Starch & Chemicals Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE450G01024",
+  "sym": "VIPCLOTHNG",
+  "name": "VIP Clothing Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE450U01017",
+  "sym": "ROUTE",
+  "name": "ROUTE MOBILE LIMITED",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE451D01029",
+  "sym": "RAJRATAN",
+  "name": "Rajratan Global Wire Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE451L01014",
+  "sym": "MAHASTEEL",
+  "name": "Mahamaya Steel Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE452L01012",
+  "sym": "INCREDIBLE",
+  "name": "INCREDIBLE INDUSTRIES LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE453B01029",
+  "sym": "COMPUSOFT",
+  "name": "Compucom Software Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE453D01025",
+  "sym": "SARLAPOLY",
+  "name": "Sarla Performance Fibers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE455I01029",
+  "sym": "KSCL",
+  "name": "Kaveri Seed Company Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE456Z01021",
+  "sym": "MEDIASSIST",
+  "name": "Medi Assist Healthcare Services Limited",
+  "held": 6,
+  "concalls": 12
+ },
+ {
+  "isin": "INE457F01013",
+  "sym": "SALZERELEC",
+  "name": "Salzer Electronics Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE458B01036",
+  "sym": "BHAGYANGR",
+  "name": "Bhagyanagar India Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE458F01011",
+  "sym": "UNITEDTEA",
+  "name": "The United Nilgiri Tea Estates Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE459A01010",
+  "sym": "BANARISUG",
+  "name": "Bannari Amman Sugars Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE461B01014",
+  "sym": "REPRO",
+  "name": "Repro India Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE461C01038",
+  "sym": "GREENPLY",
+  "name": "Greenply Industries Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE461D01028",
+  "sym": "HLEGLAS",
+  "name": "HLE Glascoat Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE464A01036",
+  "sym": "BBL",
+  "name": "Bharat Bijlee Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE471W01019",
+  "sym": "PALASHSECU",
+  "name": "Palash Securities Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE474C01023",
+  "sym": "REMSONSIND",
+  "name": "Remsons Industries Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE474E01029",
+  "sym": "BHANDARI",
+  "name": "Bhandari Hosiery Exports Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE475B01022",
+  "sym": "HIKAL",
+  "name": "Hikal Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE477B01010",
+  "sym": "DVL",
+  "name": "Dhunseri Ventures Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE479D01038",
+  "sym": "KRITI",
+  "name": "Kriti Industries (India) Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE480C01038",
+  "sym": "SDBL",
+  "name": "Som Distilleries & Breweries Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE481Z01011",
+  "sym": "UNIINFO",
+  "name": "Uniinfo Telecom Services Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE482B01010",
+  "sym": "TERASOFT",
+  "name": "Tera Software Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE482D01024",
+  "sym": "CARYSIL",
+  "name": "CARYSIL LIMITED",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE483S01038",
+  "sym": "CCAVENUE",
+  "name": "AvenuesAI Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE484C01030",
+  "sym": "VEEDOL",
+  "name": "Veedol Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE484I01029",
+  "sym": "PRECAM",
+  "name": "Precision Camshafts Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE485A01015",
+  "sym": "CENTENKA",
+  "name": "Century Enka Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE486R01017",
+  "sym": "GPTHEALTH",
+  "name": "GPT Healthcare Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE486Y01013",
+  "sym": "TOUCHWOOD",
+  "name": "Touchwood Entertainment Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE488A01050",
+  "sym": "CHEMPLASTS",
+  "name": "Chemplast Sanmar Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE488B01017",
+  "sym": "TASTYBITE",
+  "name": "Tasty Bite Eatables Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE488D01021",
+  "sym": "AVTNPL",
+  "name": "AVT Natural Products Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE488V01015",
+  "sym": "PSPPROJECT",
+  "name": "PSP Projects Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE489G01022",
+  "sym": "ANUHPHR",
+  "name": "Anuh Pharma Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE490G01020",
+  "sym": "MOIL",
+  "name": "MOIL Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE491V01019",
+  "sym": "CROWN",
+  "name": "Crown Lifters Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE492A01029",
+  "sym": "SUDARCOLOR",
+  "name": "Sudarshan Colorants India Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE495A01022",
+  "sym": "DALMIASUG",
+  "name": "Dalmia Bharat Sugar and Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE495C01010",
+  "sym": "SANGAMIND",
+  "name": "Sangam (India) Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE495S01016",
+  "sym": "HPL",
+  "name": "HPL Electric & Power Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE497B01018",
+  "sym": "SEAMECLTD",
+  "name": "Seamec Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE497D01022",
+  "sym": "DAMODARIND",
+  "name": "Damodar Industries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE497S01012",
+  "sym": "GODAVARIB",
+  "name": "Godavari Biorefineries Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE498A01018",
+  "sym": "DCM",
+  "name": "DCM  Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE498B01024",
+  "sym": "SHOPERSTOP",
+  "name": "Shoppers Stop Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE498E01010",
+  "sym": "SALONA",
+  "name": "Salona Cotspin Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE498Q01014",
+  "sym": "VINCOFE",
+  "name": "Vintage Coffee And Beverages Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE500A01029",
+  "sym": "DCW",
+  "name": "DCW Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE500L01026",
+  "sym": "SHK",
+  "name": "S H Kelkar and Company Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE500X01013",
+  "sym": "LEXUS",
+  "name": "Lexus Granito (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE501G01024",
+  "sym": "HTMEDIA",
+  "name": "HT Media Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE503B01021",
+  "sym": "STEELXIND",
+  "name": "STEEL EXCHANGE INDIA LIMITED",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE505A01010",
+  "sym": "DMCC",
+  "name": "DMCC SPECIALITY CHEMICALS LIMITED",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE505C01016",
+  "sym": "PRAENG",
+  "name": "Prajay Engineers Syndicate Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE505Y01010",
+  "sym": "VINEETLAB",
+  "name": "Vineet Laboratories Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE506A01018",
+  "sym": "DREDGECORP",
+  "name": "Dredging Corporation of India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE506W01020",
+  "sym": "KRISHANA",
+  "name": "Krishana Phoschem Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE506Z01015",
+  "sym": "DHRUV",
+  "name": "Dhruv Consultancy Services Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE508K01013",
+  "sym": "RHL",
+  "name": "Robust Hotels Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE510W01014",
+  "sym": "INOXGREEN",
+  "name": "Inox Green Energy Services Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE512B01022",
+  "sym": "FCSSOFT",
+  "name": "FCS Software Solutions Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE514Y01020",
+  "sym": "MOKSH",
+  "name": "Moksh Ornaments Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE516A01017",
+  "sym": "UFLEX",
+  "name": "UFLEX Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE518E01015",
+  "sym": "ZIMLAB",
+  "name": "Zim Laboratories Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE519A01011",
+  "sym": "FOSECOIND",
+  "name": "Foseco India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE519C01017",
+  "sym": "SUMMITSEC",
+  "name": "Summit Securities Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE520H01022",
+  "sym": "BEARDSELL",
+  "name": "Beardsell Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE520Y01019",
+  "sym": "ICEMAKE",
+  "name": "Ice Make Refrigeration Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE521J01018",
+  "sym": "CPCAP",
+  "name": "CP Capital Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE523B01011",
+  "sym": "AKSHOPTFBR",
+  "name": "Aksh Optifibre Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE524B01027",
+  "sym": "GANDHITUBE",
+  "name": "Gandhi Special Tubes Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE524L01026",
+  "sym": "KRIDHANINF",
+  "name": "Kridhan Infra Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE526B01014",
+  "sym": "CALSOFT",
+  "name": "California Software Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE527H01019",
+  "sym": "UFO",
+  "name": "UFO Moviez India Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE528A01020",
+  "sym": "GKWLIMITED",
+  "name": "GKW Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE529A01010",
+  "sym": "FMGOETZE",
+  "name": "Federal-Mogul Goetze (India) Limited.",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE529D01014",
+  "sym": "PATINTLOG",
+  "name": "Patel Integrated Logistics Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE529F01035",
+  "sym": "SIGIND",
+  "name": "Signet Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE529I01021",
+  "sym": "KUANTUM",
+  "name": "Kuantum Papers Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE533D01032",
+  "sym": "RAJRILTD",
+  "name": "Raj Rayon Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE535D01037",
+  "sym": "ROTO",
+  "name": "Roto Pumps Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE535F01024",
+  "sym": "RAJOOENG",
+  "name": "Rajoo Engineers Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE538A01037",
+  "sym": "GFLLIMITED",
+  "name": "GFL Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE539A01019",
+  "sym": "GHCL",
+  "name": "GHCL Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE539B01017",
+  "sym": "VIRINCHI",
+  "name": "Virinchi Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE540G01014",
+  "sym": "AMBIKCO",
+  "name": "Ambika Cotton Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE542B01011",
+  "sym": "AKSHARCHEM",
+  "name": "AksharChem India Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE542C01019",
+  "sym": "NKIND",
+  "name": "NK Industries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE542Z01028",
+  "sym": "KAPSTON",
+  "name": "Kapston Services Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE543V01017",
+  "sym": "ACEINTEG",
+  "name": "Ace Integrated Solutions Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE544A01019",
+  "sym": "HARRMALAYA",
+  "name": "Harrisons  Malayalam Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE544H01014",
+  "sym": "JHS",
+  "name": "JHS Svendgaard Laboratories Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE545L01039",
+  "sym": "MANCREDIT",
+  "name": "Mangal Credit and Fincorp Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE546V01010",
+  "sym": "EIFFL",
+  "name": "Euro India Fresh Foods Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE546Y01022",
+  "sym": "PRAXIS",
+  "name": "Praxis Home Retail Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE547B01028",
+  "sym": "XTGLOBAL",
+  "name": "Xtglobal Infotech Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE547E01014",
+  "sym": "IMPAL",
+  "name": "India Motor Parts and Accessories Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE548Z01017",
+  "sym": "LAGNAM",
+  "name": "Lagnam Spintex Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE549A01026",
+  "sym": "HCC",
+  "name": "Hindustan Construction Company Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE549H01021",
+  "sym": "ARSSBL",
+  "name": "Anand Rathi Share and Stock Brokers Limited",
+  "held": 6,
+  "concalls": 5
+ },
+ {
+  "isin": "INE550B01022",
+  "sym": "HBSL",
+  "name": "HB Stockholdings Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE550C01020",
+  "sym": "URJA",
+  "name": "Urja Global Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE550H01011",
+  "sym": "SUPREMEINF",
+  "name": "Supreme Infrastructure India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE551D01018",
+  "sym": "PAKKA",
+  "name": "PAKKA LIMITED",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE552D01024",
+  "sym": "CONFIPET",
+  "name": "Confidence Petroleum India Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE553C01016",
+  "sym": "NECCLTD",
+  "name": "North Eastern Carrying Corporation Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE555Z01020",
+  "sym": "TARACHAND",
+  "name": "Tara Chand InfraLogistic Solutions Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE557A01011",
+  "sym": "BIRLANU",
+  "name": "BirlaNu Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE557B01019",
+  "sym": "LIBERTSHOE",
+  "name": "Liberty Shoes Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE557Z01018",
+  "sym": "PIGL",
+  "name": "Power & Instrumentation (Gujarat) Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE558D01021",
+  "sym": "CORALFINAC",
+  "name": "Coral India Finance & Housing Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE558R01013",
+  "sym": "HECPROJECT",
+  "name": "HEC Infra Projects Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE559A01017",
+  "sym": "IFBIND",
+  "name": "IFB Industries Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE559D01011",
+  "sym": "CREST",
+  "name": "Crest Ventures Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE559N01010",
+  "sym": "SRGHFL",
+  "name": "SRG Housing Finance Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE559R01029",
+  "sym": "LANDMARK",
+  "name": "Landmark Cars Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE560A01023",
+  "sym": "INDIAGLYCO",
+  "name": "India Glycols Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE560K01014",
+  "sym": "PFS",
+  "name": "PTC India Financial Services Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE561C01019",
+  "sym": "BHARATGEAR",
+  "name": "Bharat Gears Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE561M01018",
+  "sym": "ISHANCH",
+  "name": "Ishan Dyes and Chemicals Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE562B01019",
+  "sym": "RAJSREESUG",
+  "name": "Rajshree Sugars & Chemicals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE562X01013",
+  "sym": "UNIVASTU",
+  "name": "Univastu India Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE563J01010",
+  "sym": "ASTEC",
+  "name": "Astec LifeSciences Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE565L01011",
+  "sym": "ZEELEARN",
+  "name": "Zee Learn Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE565V01010",
+  "sym": "VALIANTORG",
+  "name": "Valiant Organics Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE566K01011",
+  "sym": "ISFT",
+  "name": "Intrasoft Technologies Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE567A01028",
+  "sym": "NIPPOBATRY",
+  "name": "Indo-National Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE568Z01015",
+  "sym": "URAVIDEF",
+  "name": "Uravi Defence and Technology Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE569C01020",
+  "sym": "ORIENTCER",
+  "name": "ORIENT CERATECH LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE570A01022",
+  "sym": "IONEXCHANG",
+  "name": "ION Exchange (India) Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE570D01018",
+  "sym": "ARROWGREEN",
+  "name": "Arrow Greentech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE571B01036",
+  "sym": "JAYBARMARU",
+  "name": "Jay Bharat Maruti Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE572G01025",
+  "sym": "LANCORHOL",
+  "name": "Lancor Holdings Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE572J01011",
+  "sym": "SPANDANA",
+  "name": "Spandana Sphoorty Financial Limited",
+  "held": 6,
+  "concalls": 12
+ },
+ {
+  "isin": "INE573K01025",
+  "sym": "RUSHIL",
+  "name": "Rushil Decor Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE575C01027",
+  "sym": "INTLCONV",
+  "name": "International Conveyors Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE576I01022",
+  "sym": "JKIL",
+  "name": "J.Kumar Infraprojects Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE576O01020",
+  "sym": "LXCHEM",
+  "name": "Laxmi Organic Industries Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE577A01027",
+  "sym": "MUNJALSHOW",
+  "name": "Munjal Showa Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE577L01016",
+  "sym": "STEL",
+  "name": "Stel Holdings Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE578A01017",
+  "sym": "HEIDELBERG",
+  "name": "HeidelbergCement India Limited",
+  "held": 6,
+  "concalls": 3
+ },
+ {
+  "isin": "INE579C01029",
+  "sym": "VIMTALABS",
+  "name": "Vimta Labs Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE581X01021",
+  "sym": "GLOBE",
+  "name": "GLOBE ENTERPRISES (INDIA) LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE583B01015",
+  "sym": "SANDESH",
+  "name": "The Sandesh Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE583C01021",
+  "sym": "DECCANCE",
+  "name": "Deccan Cements Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE583D01011",
+  "sym": "UGROCAP",
+  "name": "Ugro Capital Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE583R01029",
+  "sym": "PRITIKAUTO",
+  "name": "Pritika Auto Industries Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE583V01021",
+  "sym": "RADHIKAJWE",
+  "name": "Radhika Jeweltech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE584F01014",
+  "sym": "MANGALAM",
+  "name": "Mangalam Drugs And Organics Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE586G01017",
+  "sym": "GULFPETRO",
+  "name": "GP Petroleums Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE586V01016",
+  "sym": "TCIEXP",
+  "name": "TCI Express Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE586X01012",
+  "sym": "GTECJAINX",
+  "name": "G-TEC JAINX EDUCATION LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE587G01015",
+  "sym": "KAYA",
+  "name": "Kaya Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE590L01019",
+  "sym": "VASWANI",
+  "name": "Vaswani Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE591A01010",
+  "sym": "OILCOUNTUB",
+  "name": "Oil Country Tubular Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE591D01014",
+  "sym": "DIAMINESQ",
+  "name": "Diamines & Chemicals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE592A01026",
+  "sym": "ORIENTPPR",
+  "name": "Orient Paper & Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE592B01024",
+  "sym": "TTL",
+  "name": "T T Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE593W01028",
+  "sym": "FOCUS",
+  "name": "Focus Lighting and Fixtures Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE594B01012",
+  "sym": "BSL",
+  "name": "BSL Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE597J01018",
+  "sym": "SHALBY",
+  "name": "Shalby Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE597L01014",
+  "sym": "LOVABLE",
+  "name": "Lovable Lingerie Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE598C01011",
+  "sym": "HISARMETAL",
+  "name": "Hisar Metal Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE600A01035",
+  "sym": "PILITA",
+  "name": "PIL ITALICA LIFESTYLE LIMITED",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE600Y01019",
+  "sym": "DYCL",
+  "name": "Dynamic Cables Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
+  "isin": "INE602G01020",
+  "sym": "KITEX",
+  "name": "Kitex Garments Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE603A01013",
+  "sym": "PRAKASH",
+  "name": "Prakash Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE606A01024",
+  "sym": "AMJLAND",
+  "name": "Amj Land Holdings Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE607A01022",
+  "sym": "PRIMO",
+  "name": "Primo Chemicals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE607D01018",
+  "sym": "ORIENTBELL",
+  "name": "Orient Bell Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE609C01024",
+  "sym": "ORIENTLTD",
+  "name": "Orient Press Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE610B01024",
+  "sym": "GUJRAFFIA",
+  "name": "Gujarat Raffia Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE610C01014",
+  "sym": "ARENTERP",
+  "name": "Rajdarshan Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE610E01010",
+  "sym": "KALYANI",
+  "name": "Kalyani Commercials Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE611A01016",
+  "sym": "RSWM",
+  "name": "RSWM Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE611L01021",
+  "sym": "INDTERRAIN",
+  "name": "Indian Terrain Fashions Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE612J01015",
+  "sym": "REPCOHOME",
+  "name": "Repco Home Finance Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE613A01020",
+  "sym": "RALLIS",
+  "name": "Rallis India Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE613B01010",
+  "sym": "ICDSLTD",
+  "name": "ICDS Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE614A01028",
+  "sym": "RAMCOIND",
+  "name": "Ramco Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE615I01010",
+  "sym": "GLOBUSSPR",
+  "name": "Globus Spirits Limited",
+  "held": 6,
+  "concalls": 13
+ },
+ {
+  "isin": "INE615R01029",
+  "sym": "TRU",
+  "name": "TruCap Finance Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE616Z01012",
+  "sym": "YASHO",
+  "name": "Yasho Industries Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE617A01013",
+  "sym": "SEMAC",
+  "name": "Semac Construction Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE618L01018",
+  "sym": "5PAISA",
+  "name": "5Paisa Capital Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE618N01022",
+  "sym": "BALAXI",
+  "name": "BALAXI PHARMACEUTICALS LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE619I01012",
+  "sym": "A2ZINFRA",
+  "name": "A2Z Infra Engineering Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE621L01012",
+  "sym": "TEXRAIL",
+  "name": "Texmaco Rail & Engineering Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE622H01018",
+  "sym": "INDOFARM",
+  "name": "Indo Farm Equipment Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE623A01011",
+  "sym": "SAKHTISUG",
+  "name": "Sakthi Sugars Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE624Z01016",
+  "sym": "SOLARA",
+  "name": "Solara Active Pharma Sciences Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE625B01014",
+  "sym": "RANASUG",
+  "name": "Rana Sugars Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE625X01026",
+  "sym": "SILVERTUC",
+  "name": "Silver Touch Technologies Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE626A01014",
+  "sym": "SAURASHCEM",
+  "name": "Saurashtra Cement Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE626Z01029",
+  "sym": "HARDWYN",
+  "name": "Hardwyn India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE627H01017",
+  "sym": "CTE",
+  "name": "Cambridge Technology Enterprises Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE629D01020",
+  "sym": "BANSWRAS",
+  "name": "Banswara Syntex Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE630A01024",
+  "sym": "SESHAPAPER",
+  "name": "Seshasayee Paper and Boards Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE630Y01024",
+  "sym": "MEDICO",
+  "name": "Medico Remedies Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE631A01022",
+  "sym": "SHANTIGEAR",
+  "name": "Shanthi Gears Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE632C01026",
+  "sym": "VIDHIING",
+  "name": "Vidhi Specialty Food Ingredients Limited",
+  "held": 6,
+  "concalls": 4
+ },
+ {
+  "isin": "INE632X01030",
+  "sym": "SHRENIK",
+  "name": "Shrenik Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE633B01018",
+  "sym": "POLYPLEX",
+  "name": "Polyplex Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE634A01018",
+  "sym": "HONDAPOWER",
+  "name": "Honda India Power Products Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE634I01029",
+  "sym": "KNRCON",
+  "name": "KNR Constructions Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE636A01039",
+  "sym": "MAWANASUG",
+  "name": "Mawana Sugars Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE637C01025",
+  "sym": "POKARNA",
+  "name": "Pokarna Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE637H01024",
+  "sym": "SHIVAMAUTO",
+  "name": "Shivam Autotech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE641C01019",
+  "sym": "KAVDEFENCE",
+  "name": "Kavveri Defence & Wireless Technologies Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE642C01025",
+  "sym": "RUBFILA",
+  "name": "Rubfila International Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE642Y01029",
+  "sym": "HINDCON",
+  "name": "Hindcon Chemicals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE642Z01026",
+  "sym": "AKI",
+  "name": "Aki India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE643A01035",
+  "sym": "JTEKTINDIA",
+  "name": "Jtekt India Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE643K01018",
+  "sym": "ARIHANTSUP",
+  "name": "Arihant Superstructures Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE644Y01017",
+  "sym": "SHIVAMILLS",
+  "name": "Shiva Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE645H01027",
+  "sym": "SUTLEJTEX",
+  "name": "Sutlej Textiles and Industries Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE645W01026",
+  "sym": "AIRAN",
+  "name": "Airan Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE646B01010",
+  "sym": "MEDICAMEQ",
+  "name": "Medicamen Biotech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE646C01018",
+  "sym": "GROBTEA",
+  "name": "The Grob Tea Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE647O01011",
+  "sym": "ABFRL",
+  "name": "Aditya Birla Fashion and Retail Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE648Z01023",
+  "sym": "ACCURACY",
+  "name": "Accuracy Shipping Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE650K01021",
+  "sym": "SECURKLOUD",
+  "name": "SECUREKLOUD TECHNOLOGIES LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE650L01011",
+  "sym": "BROOKS",
+  "name": "Brooks Laboratories Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE652F01027",
+  "sym": "CCHHL",
+  "name": "Country Club Hospitality & Holidays Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE652Z01025",
+  "sym": "AVROIND",
+  "name": "AVRO INDIA LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE655B01011",
+  "sym": "BANARBEADS",
+  "name": "Banaras Beads Limited",
+  "held": 6,
+  "concalls": 3
+ },
+ {
+  "isin": "INE658G01014",
+  "sym": "SALSTEEL",
+  "name": "S.A.L. Steel Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE658T01017",
+  "sym": "WEALTH",
+  "name": "Wealth First Portfolio Managers Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE660C01027",
+  "sym": "CENTRUM",
+  "name": "Centrum Capital Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE661I01014",
+  "sym": "BGRENERGY",
+  "name": "BGR Energy Systems Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE662A01027",
+  "sym": "SUPERSPIN",
+  "name": "Super Spinning Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE663B01015",
+  "sym": "CONTROLPR",
+  "name": "Control Print Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE666E01020",
+  "sym": "ACL",
+  "name": "Andhra Cements Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE667G01023",
+  "sym": "SAKSOFT",
+  "name": "Saksoft Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE668D01028",
+  "sym": "DONEAR",
+  "name": "Donear Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE668G01021",
+  "sym": "ELDEHSG",
+  "name": "Eldeco Housing And Industries Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE669X01032",
+  "sym": "GEEKAYWIRE",
+  "name": "Geekay Wires Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE672B01032",
+  "sym": "MUNJALAU",
+  "name": "Munjal Auto Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE677D01037",
+  "sym": "MASTERTR",
+  "name": "Master Trust Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE680Z01018",
+  "sym": "AVG",
+  "name": "AVG Logistics Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE681B01017",
+  "sym": "INDRAMEDCO",
+  "name": "Indraprastha Medical Corporation Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE681C01015",
+  "sym": "KEYFINSERV",
+  "name": "Keynote Financial Services Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE683C01011",
+  "sym": "MAITHANALL",
+  "name": "Maithan Alloys Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE688D01026",
+  "sym": "RESPONIND",
+  "name": "Responsive Industries Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE688Y01022",
+  "sym": "DANGEE",
+  "name": "Dangee Dums Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE689W01016",
+  "sym": "PRINCEPIPE",
+  "name": "Prince Pipes And Fittings Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE691Z01023",
+  "sym": "GANGAFORGE",
+  "name": "Ganga Forging Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE692B01014",
+  "sym": "MURUDCERA",
+  "name": "Murudeshwar Ceramics Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE692G01013",
+  "sym": "XCHANGING",
+  "name": "Xchanging Solutions Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE692Z01013",
+  "sym": "AFFORDABLE",
+  "name": "Affordable Robotic & Automation Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE694A01020",
+  "sym": "UNITECH",
+  "name": "Unitech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE694E01014",
+  "sym": "KANPRPLA",
+  "name": "Kanpur Plastipack Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE694N01015",
+  "sym": "HERANBA",
+  "name": "Heranba Industries Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE695B01025",
+  "sym": "COUNCODOS",
+  "name": "Country Condo's Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE696F01016",
+  "sym": "JUNIPER",
+  "name": "Juniper Hotels Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE696K01024",
+  "sym": "PRAKASHSTL",
+  "name": "Prakash Steelage Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE696V01013",
+  "sym": "JAIPURKURT",
+  "name": "Nandani Creation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE699B01027",
+  "sym": "SAMBHAAV",
+  "name": "Sambhaav Media Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE701A01023",
+  "sym": "VHL",
+  "name": "Vardhman Holdings Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE703H01016",
+  "sym": "HUBTOWN",
+  "name": "Hubtown Limited",
+  "held": 6,
+  "concalls": 4
+ },
+ {
+  "isin": "INE704B01017",
+  "sym": "RACLGEAR",
+  "name": "RACL Geartech Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE704H01022",
+  "sym": "CINELINE",
+  "name": "Cineline India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE705C01020",
+  "sym": "SHIVATEX",
+  "name": "Shiva Texyarn Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE705X01026",
+  "sym": "GOYALALUM",
+  "name": "Goyal Aluminiums Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE707A01012",
+  "sym": "VINDHYATEL",
+  "name": "Vindhya Telelinks Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE709A01018",
+  "sym": "VLSFINANCE",
+  "name": "VLS Finance Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE710A01016",
+  "sym": "VSTIND",
+  "name": "VST Industries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE711A01022",
+  "sym": "WALCHANNAG",
+  "name": "Walchandnagar Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE712B01010",
+  "sym": "SUPERHOUSE",
+  "name": "Superhouse Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE712K01011",
+  "sym": "SHREEPUSHK",
+  "name": "Shree Pushkar Chemicals & Fertilisers Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE713B01026",
+  "sym": "SURYALAXMI",
+  "name": "Suryalakshmi Cotton Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE713C01016",
+  "sym": "SURAJLTD",
+  "name": "Suraj Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE715B01021",
+  "sym": "ANDHRSUGAR",
+  "name": "The Andhra Sugars Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE715Y01031",
+  "sym": "SHRADHA",
+  "name": "Shradha Realty Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE717W01049",
+  "sym": "GANDHAR",
+  "name": "Gandhar Oil Refinery (India) Limited",
+  "held": 6,
+  "concalls": 7
+ },
+ {
+  "isin": "INE718F01018",
+  "sym": "CSLFINANCE",
+  "name": "CSL Finance Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE718H01014",
+  "sym": "AUTOIND",
+  "name": "Autoline Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE720A01015",
+  "sym": "KOTHARIPET",
+  "name": "Kothari Petrochemicals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE721Z01010",
+  "sym": "AARON",
+  "name": "Aaron Industries Limited",
+  "held": 6,
+  "concalls": 4
+ },
+ {
+  "isin": "INE722H01024",
+  "sym": "RGL",
+  "name": "Renaissance Global Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE722J01012",
+  "sym": "RKDL",
+  "name": "Ravi Kumar Distilleries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE725G01011",
+  "sym": "ICRA",
+  "name": "ICRA Limited",
+  "held": 6,
+  "concalls": 7
+ },
+ {
+  "isin": "INE725L01011",
+  "sym": "KARMAENG",
+  "name": "Karma Energy Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE727B01026",
+  "sym": "GENESYS",
+  "name": "Genesys International Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE727S01012",
+  "sym": "BRNL",
+  "name": "Bharat Road Network Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE728Z01015",
+  "sym": "SOFTTECH",
+  "name": "Softtech Engineers Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE729D01010",
+  "sym": "KILITCH",
+  "name": "Kilitch Drugs (India) Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE730A01022",
+  "sym": "ORICONENT",
+  "name": "Oricon Enterprises Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE731A01020",
+  "sym": "ARCHIES",
+  "name": "Archies Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE731C01018",
+  "sym": "KHAITANLTD",
+  "name": "Khaitan (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE731U01028",
+  "sym": "DIGJAMLMTD",
+  "name": "Digjam Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE732C01016",
+  "sym": "NCLIND",
+  "name": "NCL Industries Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE732S01012",
+  "sym": "SAKAR",
+  "name": "Sakar Healthcare Limited",
+  "held": 6,
+  "concalls": 5
+ },
+ {
+  "isin": "INE733A01018",
+  "sym": "STARPAPER",
+  "name": "Star Paper Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE734N01019",
+  "sym": "SNOWMAN",
+  "name": "Snowman Logistics Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE735M01018",
+  "sym": "SAMPANN",
+  "name": "Sampann Utpadan India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE736A01011",
+  "sym": "CDSL",
+  "name": "Central Depository Services (India) Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE737B01033",
+  "sym": "ADROITINFO",
+  "name": "Adroit Infotech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE737D01021",
+  "sym": "MODISONLTD",
+  "name": "MODISON LIMITED",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE737W01013",
+  "sym": "AKASH",
+  "name": "Akash Infra Projects Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE738V01013",
+  "sym": "ARTNIRMAN",
+  "name": "Art Nirman Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE740V01019",
+  "sym": "AGROPHOS",
+  "name": "Agro Phos India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE740X01023",
+  "sym": "LAL",
+  "name": "Lorenzini Apparels Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE742B01025",
+  "sym": "GUFICBIO",
+  "name": "Gufic Biosciences Limited",
+  "held": 5,
+  "concalls": 17
+ },
+ {
+  "isin": "INE742C01031",
+  "sym": "JINDRILL",
+  "name": "Jindal Drilling And Industries Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE745B01028",
+  "sym": "KHAICHEM",
+  "name": "Khaitan Chemicals & Fertilizers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE748A01024",
+  "sym": "MBECL",
+  "name": "Mcnally Bharat Engineering Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE748C01038",
+  "sym": "3IINFOLTD",
+  "name": "3i Infotech Limited",
+  "held": 6,
+  "concalls": 7
+ },
+ {
+  "isin": "INE748T01016",
+  "sym": "SIMBHALS",
+  "name": "Simbhaoli Sugars Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE748Z01013",
+  "sym": "SUMIT",
+  "name": "Sumit Woods Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE749B01020",
+  "sym": "ORTINGLOBE",
+  "name": "ORTIN GLOBAL LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE750A01020",
+  "sym": "ORIENTHOT",
+  "name": "Oriental Hotels Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE750D01016",
+  "sym": "RELCHEMQ",
+  "name": "Reliance Chemotex Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE751B01018",
+  "sym": "PIXTRANS",
+  "name": "Pix Transmissions Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE752G01015",
+  "sym": "MSPL",
+  "name": "MSP Steel & Power Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE752H01013",
+  "sym": "CARERATING",
+  "name": "CARE Ratings Limited",
+  "held": 6,
+  "concalls": 3
+ },
+ {
+  "isin": "INE753K01015",
+  "sym": "EMMBI",
+  "name": "Emmbi Industries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE753U01022",
+  "sym": "DIVGIITTS",
+  "name": "Divgi Torqtransfer Systems Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE753W01010",
+  "sym": "AGASTYAEN",
+  "name": "Sanginita Chemicals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE754A01055",
+  "sym": "SUBEXLTD",
+  "name": "Subex Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE754X01016",
+  "sym": "AARVI",
+  "name": "Aarvi Encon Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE756C01015",
+  "sym": "NDGL",
+  "name": "Naga Dhunseri Group Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE757A01017",
+  "sym": "COSMOFIRST",
+  "name": "COSMO FIRST LIMITED",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE758C01029",
+  "sym": "AHLUCONT",
+  "name": "Ahluwalia Contracts (India) Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE759A01021",
+  "sym": "MASTEK",
+  "name": "Mastek Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE760A01029",
+  "sym": "KOKUYOCMLN",
+  "name": "Kokuyo Camlin Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE760F01028",
+  "sym": "INDOAMIN",
+  "name": "Indo Amines Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE760L01018",
+  "sym": "TBZ",
+  "name": "Tribhovandas Bhimji Zaveri Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE760W01023",
+  "sym": "RPPL",
+  "name": "Rajshree Polypack Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE760Y01011",
+  "sym": "ASHOKAMET",
+  "name": "Ashoka Metcast Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE761Y01019",
+  "sym": "ZODIAC",
+  "name": "Zodiac Energy Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE764D01017",
+  "sym": "VSTTILLERS",
+  "name": "V.S.T Tillers Tractors Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE764L01010",
+  "sym": "SADBHIN",
+  "name": "Sadbhav Infrastructure Project Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE766P01016",
+  "sym": "MAHLOG",
+  "name": "Mahindra Logistics Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE767A01016",
+  "sym": "AARTIDRUGS",
+  "name": "Aarti Drugs Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE771A01026",
+  "sym": "MIRZAINT",
+  "name": "Mirza International Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE772T01024",
+  "sym": "PVSL",
+  "name": "Popular Vehicles and Services Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE773I01017",
+  "sym": "ALKALI",
+  "name": "Alkali Metals Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE777F01014",
+  "sym": "EXICOM",
+  "name": "Exicom Tele-Systems Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE778B01029",
+  "sym": "ESTER",
+  "name": "Ester Industries Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE778K01012",
+  "sym": "EMAMIREAL",
+  "name": "Emami Realty Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE781B01015",
+  "sym": "NOIDATOLL",
+  "name": "Noida Toll Bridge Company Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE782A01015",
+  "sym": "BOSCH-HCIL",
+  "name": "BOSCH HOME COMFORT INDIA LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE782E01017",
+  "sym": "HESTERBIO",
+  "name": "Hester Biosciences Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE782X01033",
+  "sym": "SERVOTECH",
+  "name": "Servotech Renewable Power System Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE783X01023",
+  "sym": "CHEMFAB",
+  "name": "Chemfab Alkalis Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE784W01015",
+  "sym": "MANOMAY",
+  "name": "Manomay Tex India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE785A01026",
+  "sym": "JAYAGROGN",
+  "name": "Jayant Agro Organics Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE786F01031",
+  "sym": "UTTAMSUGAR",
+  "name": "Uttam Sugar Mills Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE788H01017",
+  "sym": "HILTON",
+  "name": "Hilton Metal Forging Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE788J01021",
+  "sym": "SHIVALIK",
+  "name": "Shivalik Rasayan Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE790B01024",
+  "sym": "KCPSUGIND",
+  "name": "KCP Sugar and Industries Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE792B01012",
+  "sym": "AMBICAAGAR",
+  "name": "Ambica Agarbathies & Aroma industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE792H01019",
+  "sym": "GLOBALVECT",
+  "name": "Global Vectra Helicorp Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE792I01017",
+  "sym": "CORDSCABLE",
+  "name": "Cords Cable Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE792Z01011",
+  "sym": "SIRCA",
+  "name": "Sirca Paints India Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE793A01012",
+  "sym": "ACCELYA",
+  "name": "Accelya Solutions India Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE794W01014",
+  "sym": "MODTHREAD",
+  "name": "Modern Threads (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE796G01012",
+  "sym": "JINDALPHOT",
+  "name": "Jindal Photo Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE797H01018",
+  "sym": "TGBHOTELS",
+  "name": "TGB Banquets And Hotels Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE798K01010",
+  "sym": "KRITINUT",
+  "name": "Kriti Nutrients Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE800A01015",
+  "sym": "BIRLACABLE",
+  "name": "Birla Cable Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE800H01010",
+  "sym": "OMAXE",
+  "name": "Omaxe Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE801L01010",
+  "sym": "AIROLAM",
+  "name": "Airo Lam limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE801V01019",
+  "sym": "LAXMICOT",
+  "name": "Laxmi Cotspin Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE803D01021",
+  "sym": "INDOBORAX",
+  "name": "Indo Borax & Chemicals Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE804H01012",
+  "sym": "TFL",
+  "name": "Transwarranty Finance Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE805A01014",
+  "sym": "GOLDTECH",
+  "name": "AION-TECH SOLUTIONS LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE805C01028",
+  "sym": "KCP",
+  "name": "KCP Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE805D01034",
+  "sym": "SUNTECK",
+  "name": "Sunteck Realty Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE806C01018",
+  "sym": "TIL",
+  "name": "TIL Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE807K01035",
+  "sym": "SCHAND",
+  "name": "S Chand And Company Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE809A01032",
+  "sym": "RAMAPHO",
+  "name": "Rama Phosphates Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE809I01019",
+  "sym": "ONMOBILE",
+  "name": "OnMobile Global Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE812G01025",
+  "sym": "SMSPHARMA",
+  "name": "SMS Pharmaceuticals Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE813V01022",
+  "sym": "MCL",
+  "name": "M TEK COPPER LIMITED",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE816B01035",
+  "sym": "FILATEX",
+  "name": "Filatex India Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE818A01017",
+  "sym": "ANTELOPUS",
+  "name": "Antelopus Selan Energy Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE818B01023",
+  "sym": "PASUPTAC",
+  "name": "Pasupati Acrylon Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE819L01012",
+  "sym": "ELGIRUBCO",
+  "name": "Elgi Rubber Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE820Y01021",
+  "sym": "AJOONI",
+  "name": "Ajooni Biotech Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE822C01015",
+  "sym": "TCPLPACK",
+  "name": "TCPL Packaging Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE822E01011",
+  "sym": "SUPREME",
+  "name": "Supreme Holdings & Hospitality (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE822G01016",
+  "sym": "ELECTHERM",
+  "name": "Electrotherm (India) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE824Q01011",
+  "sym": "MANAKSTEEL",
+  "name": "Manaksia Steels Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE826C01016",
+  "sym": "GUJAPOLLO",
+  "name": "Gujarat Apollo Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE828A01016",
+  "sym": "BIL",
+  "name": "Bhartiya International Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE828O01033",
+  "sym": "MITCON",
+  "name": "MITCON Consultancy & Engineering Services Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE829A01014",
+  "sym": "BIOFILCHEM",
+  "name": "Biofil Chemicals & Pharmaceuticals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE830C01026",
+  "sym": "EMAMIPAP",
+  "name": "Emami Paper Mills Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE830Q01018",
+  "sym": "MANAKCOAT",
+  "name": "Manaksia Coated Metals & Industries Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE831A01028",
+  "sym": "ONIDA",
+  "name": "Onida Electronics Limited",
+  "held": 5,
+  "concalls": 2
+ },
+ {
+  "isin": "INE832A01018",
+  "sym": "MODIRUBBER",
+  "name": "Modi Rubber Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE834I01025",
+  "sym": "KHADIM",
+  "name": "Khadim India Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE834M01019",
+  "sym": "RTNINDIA",
+  "name": "RattanIndia Enterprises Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE835A01029",
+  "sym": "VARDMNPOLY",
+  "name": "Vardhman Polytex Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE835B01035",
+  "sym": "MOLDTECH",
+  "name": "Mold-Tek Technologies Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE835D01023",
+  "sym": "HIRECT",
+  "name": "Hind Rectifiers Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE835G01018",
+  "sym": "ALLDIGI",
+  "name": "Alldigi Tech Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE836B01017",
+  "sym": "SATIN",
+  "name": "Satin Creditcare Network Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE836F01026",
+  "sym": "DISHTV",
+  "name": "Dish TV India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE837H01020",
+  "sym": "ADVENZYMES",
+  "name": "Advanced Enzyme Technologies Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE838B01021",
+  "sym": "BHARATRAS",
+  "name": "Bharat Rasayan Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE838E01017",
+  "sym": "PONNIERODE",
+  "name": "Ponni Sugars (Erode) Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE839G01010",
+  "sym": "JOCIL",
+  "name": "Jocil Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE840M01016",
+  "sym": "ZUARI",
+  "name": "Zuari Agro Chemicals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE840Y01029",
+  "sym": "ONEPOINT",
+  "name": "One Point One Solutions Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE841B01017",
+  "sym": "INDBANK",
+  "name": "Indbank Merchant Banking Services Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE841L01016",
+  "sym": "DEEDEV",
+  "name": "DEE Development Engineers Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE843B01013",
+  "sym": "MAHAPEXLTD",
+  "name": "Maha Rashtra Apex Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE843D01027",
+  "sym": "DCMSRIND",
+  "name": "Dcm Shriram Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE843S01025",
+  "sym": "SURAJEST",
+  "name": "Suraj Estate Developers Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE844A01013",
+  "sym": "PEARLPOLY",
+  "name": "Pearl Polymers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE844K01012",
+  "sym": "BEDMUTHA",
+  "name": "Bedmutha Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE845D01014",
+  "sym": "GANECOS",
+  "name": "Ganesha Ecosphere Limited",
+  "held": 6,
+  "concalls": 10
+ },
+ {
+  "isin": "INE846D01012",
+  "sym": "LORDSCHLO",
+  "name": "Lords Chloro Alkali Limited",
+  "held": 5,
+  "concalls": 3
+ },
+ {
+  "isin": "INE847C01020",
+  "sym": "ROSSELLIND",
+  "name": "Rossell India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE848A01014",
+  "sym": "IZMO",
+  "name": "IZMO Limited",
+  "held": 5,
+  "concalls": 5
+ },
+ {
+  "isin": "INE849C01026",
+  "sym": "SHALPAINTS",
+  "name": "Shalimar Paints Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE850E01012",
+  "sym": "LFIC",
+  "name": "Lakshmi Finance & Industrial Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE850M01015",
+  "sym": "NORTHARC",
+  "name": "Northern Arc Capital Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE851I01011",
+  "sym": "UDS",
+  "name": "Updater Services Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE855C01023",
+  "sym": "WEBELSOLAR",
+  "name": "Websol Energy System Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE855F01042",
+  "sym": "ASMS",
+  "name": "Avio Smart Market Stack Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE855R01021",
+  "sym": "RADIANTCMS",
+  "name": "Radiant Cash Management Services Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE858F01012",
+  "sym": "NITCO",
+  "name": "Nitco Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE859A01011",
+  "sym": "PNBGILTS",
+  "name": "PNB GILTS LTD.",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE859Q01017",
+  "sym": "MANAKALUCO",
+  "name": "Manaksia Aluminium Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE861B01023",
+  "sym": "MOTOGENFIN",
+  "name": "The Motor & General Finance Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE862Y01015",
+  "sym": "BANKA",
+  "name": "Banka BioLoo Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE863B01029",
+  "sym": "PREMEXPLN",
+  "name": "Premier Explosives Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE863I01016",
+  "sym": "BANG",
+  "name": "Bang Overseas Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE863T01013",
+  "sym": "JITFINFRA",
+  "name": "JITF Infralogistics Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE864K01010",
+  "sym": "IRIS",
+  "name": "IRIS RegTech Solutions Limited",
+  "held": 5,
+  "concalls": 8
+ },
+ {
+  "isin": "INE864X01013",
+  "sym": "DPWIRES",
+  "name": "D P Wires Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE865C01022",
+  "sym": "BIRLAMONEY",
+  "name": "Aditya Birla Money Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE865T01018",
+  "sym": "PDMJEPAPER",
+  "name": "Pudumjee Paper Products Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE866K01023",
+  "sym": "WAAREEINDO",
+  "name": "Indosolar Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE866R01028",
+  "sym": "MATRIMONY",
+  "name": "Matrimony.Com Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE867A01022",
+  "sym": "MANUGRAPH",
+  "name": "Manugraph India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE869I01013",
+  "sym": "GTPL",
+  "name": "GTPL Hathway Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE869Y01028",
+  "sym": "TEMBO",
+  "name": "Tembo Global Industries Limited",
+  "held": 5,
+  "concalls": 4
+ },
+ {
+  "isin": "INE870D01012",
+  "sym": "NFL",
+  "name": "National Fertilizers Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE870H01013",
+  "sym": "NETWORK18",
+  "name": "Network18 Media & Investments Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE871H01011",
+  "sym": "GSS",
+  "name": "GSS Infotech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE871K01015",
+  "sym": "HMVL",
+  "name": "Hindustan Media Ventures Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE871L01013",
+  "sym": "TVVISION",
+  "name": "TV Vision Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE873D01024",
+  "sym": "INDOCO",
+  "name": "Indoco Remedies Limited",
+  "held": 6,
+  "concalls": 14
+ },
+ {
+  "isin": "INE874F01027",
+  "sym": "RADAAN",
+  "name": "Radaan Mediaworks India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE874I01013",
+  "sym": "RAMKY",
+  "name": "Ramky Infrastructure Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE875G01048",
+  "sym": "NDL",
+  "name": "Nandan Denim Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE875R01011",
+  "sym": "BALKRISHNA",
+  "name": "Balkrishna Paper Mills Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE876N01018",
+  "sym": "ORIENTCEM",
+  "name": "Orient Cement Limited",
+  "held": 6,
+  "concalls": 8
+ },
+ {
+  "isin": "INE877F01012",
+  "sym": "PTC",
+  "name": "PTC India Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE877I01016",
+  "sym": "ARCHIDPLY",
+  "name": "Archidply Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE877V01027",
+  "sym": "SURAKSHA",
+  "name": "Suraksha Diagnostic Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE878H01024",
+  "sym": "INVENTURE",
+  "name": "Inventure Growth & Securities Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE878I01022",
+  "sym": "BAFNAPH",
+  "name": "Bafna Pharmaceuticals Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE878K01010",
+  "sym": "BFINVEST",
+  "name": "BF Investment Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE879A01019",
+  "sym": "SHREERAMA",
+  "name": "Shree Rama Multi-Tech Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE879E01037",
+  "sym": "KANANIIND",
+  "name": "Kanani Industries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE879I01012",
+  "sym": "DBREALTY",
+  "name": "Valor Estate Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE882A01013",
+  "sym": "MARALOVER",
+  "name": "Maral Overseas Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE883N01014",
+  "sym": "PARAGMILK",
+  "name": "Parag Milk Foods Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE884A01027",
+  "sym": "VAIBHAVGBL",
+  "name": "Vaibhav Global Limited",
+  "held": 6,
+  "concalls": 22
+ },
+ {
+  "isin": "INE885E01042",
+  "sym": "MAZDA",
+  "name": "Mazda Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE885F01015",
+  "sym": "MASKINVEST",
+  "name": "Mask Investments Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE885H01029",
+  "sym": "SPORTKING",
+  "name": "Sportking India Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE886A01014",
+  "sym": "IITL",
+  "name": "Industrial Investment Trust Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE887E01022",
+  "sym": "NGLFINE",
+  "name": "NGL Fine-Chem Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE888C01040",
+  "sym": "SADHNANIQ",
+  "name": "Sadhana Nitrochem Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE893I01013",
+  "sym": "VASCONEQ",
+  "name": "Vascon Engineers Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE893J01029",
+  "sym": "MOLDTKPAC",
+  "name": "Mold-Tek Packaging Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE895B01021",
+  "sym": "RUPA",
+  "name": "Rupa & Company Limited",
+  "held": 5,
+  "concalls": 13
+ },
+ {
+  "isin": "INE895W01019",
+  "sym": "PANACHE",
+  "name": "Panache Digilife Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE896L01010",
+  "sym": "INDOSTAR",
+  "name": "IndoStar Capital Finance Limited",
+  "held": 6,
+  "concalls": 12
+ },
+ {
+  "isin": "INE898S01029",
+  "sym": "AURUM",
+  "name": "Aurum PropTech Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE899L01030",
+  "sym": "UEL",
+  "name": "Ujaas Energy Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE900B01029",
+  "sym": "KABRAEXTRU",
+  "name": "Kabra Extrusion Technik Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE900C01027",
+  "sym": "ASAL",
+  "name": "Automotive Stampings and Assemblies Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE900L01028",
+  "sym": "MBAPL",
+  "name": "Madhya Bharat Agro Products Limited",
+  "held": 5,
+  "concalls": 7
+ },
+ {
+  "isin": "INE903D01011",
+  "sym": "MONARCH",
+  "name": "Monarch Networth Capital Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE907A01026",
+  "sym": "KSL",
+  "name": "Kalyani Steels Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE908D01010",
+  "sym": "SHAKTIPUMP",
+  "name": "Shakti Pumps (India) Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE908V01012",
+  "sym": "LIBAS",
+  "name": "Libas Consumer Products Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE910C01018",
+  "sym": "TTKHLTCARE",
+  "name": "TTK Healthcare Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE912H01013",
+  "sym": "MBLINFRA",
+  "name": "MBL Infrastructure Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE912L01015",
+  "sym": "ONELIFECAP",
+  "name": "Onelife Capital Advisors Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE914E01040",
+  "sym": "ALANKIT",
+  "name": "Alankit Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE915B01019",
+  "sym": "INDSWFTLAB",
+  "name": "Ind-Swift Laboratories Limited",
+  "held": 6,
+  "concalls": 2
+ },
+ {
+  "isin": "INE915K01010",
+  "sym": "AHLWEST",
+  "name": "Asian Hotels (West) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE916G01016",
+  "sym": "GEECEE",
+  "name": "GeeCee Ventures Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE916Y01027",
+  "sym": "AFIL",
+  "name": "Akme Fintrade (India) Limited",
+  "held": 6,
+  "concalls": 4
+ },
+ {
+  "isin": "INE918N01018",
+  "sym": "VETO",
+  "name": "Veto Switchgears And Cables Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE919I01024",
+  "sym": "RADIOCITY",
+  "name": "Music Broadcast Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE920A01037",
+  "sym": "DOLPHIN",
+  "name": "Dolphin Offshore Enterprises (India) Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE921B01025",
+  "sym": "DBSTOCKBRO",
+  "name": "DB (International) Stock Brokers Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE922A01025",
+  "sym": "BEPL",
+  "name": "Bhansali Engineering Polymers Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE922B01023",
+  "sym": "PANACEABIO",
+  "name": "Panacea Biotec Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE923A01015",
+  "sym": "SILINV",
+  "name": "SIL Investments Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE924D01017",
+  "sym": "THEINVEST",
+  "name": "The Investment Trust Of India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE924H01018",
+  "sym": "TARMAT",
+  "name": "Tarmat Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE925C01016",
+  "sym": "MADHAV",
+  "name": "Madhav Marbles and Granites Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE925R01014",
+  "sym": "CMSINFO",
+  "name": "CMS Info Systems Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE926K01017",
+  "sym": "AHLEAST",
+  "name": "Asian Hotels (East) Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE926X01010",
+  "sym": "HGINFRA",
+  "name": "H.G. Infra Engineering Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE927C01020",
+  "sym": "DIGISPICE",
+  "name": "DiGiSPICE Technologies Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE932A01024",
+  "sym": "PENIND",
+  "name": "Pennar Industries Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE932C01012",
+  "sym": "TOKYOPLAST",
+  "name": "Tokyo Plast International Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE932X01026",
+  "sym": "SHAREINDIA",
+  "name": "Share India Securities Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE933A01014",
+  "sym": "LYKALABS",
+  "name": "Lyka Labs Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE934S01014",
+  "sym": "GNA",
+  "name": "GNA Axles Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE935B01025",
+  "sym": "MOSCHIP",
+  "name": "Moschip Technologies Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE936B01015",
+  "sym": "NATCAPSUQ",
+  "name": "Natural Capsules Limited",
+  "held": 5,
+  "concalls": 6
+ },
+ {
+  "isin": "INE937A01023",
+  "sym": "SPMLINFRA",
+  "name": "SPML Infra Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
+  "isin": "INE937C01029",
+  "sym": "NILAINFRA",
+  "name": "Nila Infrastructures Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE939X01013",
+  "sym": "MANBA",
+  "name": "Manba Finance Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
+  "isin": "INE942C01045",
+  "sym": "GUJTHEM",
+  "name": "Gujarat Themis Biosyn Limited",
+  "held": 5,
+  "concalls": 1
+ },
+ {
+  "isin": "INE942G01012",
+  "sym": "MCLEODRUSS",
+  "name": "Mcleod Russel India Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE943D01017",
+  "sym": "MPSLTD",
+  "name": "MPS Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE946H01037",
+  "sym": "VIPULLTD",
+  "name": "Vipul Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE947I01017",
+  "sym": "LOTUSEYE",
+  "name": "Lotus Eye Hospital and Institute Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE947J01015",
+  "sym": "DEN",
+  "name": "Den Networks Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE948A01012",
+  "sym": "TRIGYN",
+  "name": "Trigyn Technologies Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE949H01023",
+  "sym": "MANINFRA",
+  "name": "Man Infraconstruction Limited",
+  "held": 6,
+  "concalls": 5
+ },
+ {
+  "isin": "INE949P01018",
+  "sym": "GENUSPAPER",
+  "name": "Genus Paper & Boards Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE950I01011",
+  "sym": "DBCORP",
+  "name": "D.B.Corp Limited",
+  "held": 6,
+  "concalls": 11
+ },
+ {
+  "isin": "INE950M01013",
+  "sym": "MONTECARLO",
+  "name": "Monte Carlo Fashions Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE951D01028",
+  "sym": "ATULAUTO",
+  "name": "Atul Auto Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE954E01012",
+  "sym": "MOHITIND",
+  "name": "Mohit Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE955I01044",
+  "sym": "SEJALLTD",
+  "name": "Sejal Glass Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
+  "isin": "INE955V01021",
+  "sym": "ARVINDFASN",
+  "name": "Arvind Fashions Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE959C01023",
+  "sym": "OAL",
+  "name": "Oriental Aromatics Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE961D01019",
+  "sym": "UNIDT",
+  "name": "United Drilling Tools Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE962C01035",
+  "sym": "EASTSILK",
+  "name": "Eastern Silk Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE963C01033",
+  "sym": "FAZE3Q",
+  "name": "Faze Three Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE964H01014",
+  "sym": "SEPC",
+  "name": "SEPC Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE964W01021",
+  "sym": "MKPL",
+  "name": "M K Proteins Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE965B01022",
+  "sym": "HYBRIDFIN",
+  "name": "Hybrid Financial Services Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE966A01022",
+  "sym": "DOLATALGO",
+  "name": "Dolat Algotech Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE966H01019",
+  "sym": "ZEEMEDIA",
+  "name": "Zee Media Corporation Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE967C01018",
+  "sym": "KAMATHOTEL",
+  "name": "Kamat Hotels (I) Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE970D01010",
+  "sym": "LOYALTEX",
+  "name": "Loyal Textile Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE972X01022",
+  "sym": "VAISHALI",
+  "name": "Vaishali Pharma Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE974B01016",
+  "sym": "CHEVIOT",
+  "name": "Cheviot Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE974Z01015",
+  "sym": "PRITI",
+  "name": "Priti International Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE976A01021",
+  "sym": "WSTCSTPAPR",
+  "name": "West Coast Paper Mills Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE976E01023",
+  "sym": "FOODSIN",
+  "name": "Foods & Inns Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE976R01033",
+  "sym": "AGIIL",
+  "name": "Agi Infra Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE976T01013",
+  "sym": "SAGARDEEP",
+  "name": "Sagardeep Alloys Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE977Y01011",
+  "sym": "BCONCEPTS",
+  "name": "Brand Concepts Limited",
+  "held": 5,
+  "concalls": 9
+ },
+ {
+  "isin": "INE978A01027",
+  "sym": "HERITGFOOD",
+  "name": "Heritage Foods Limited",
+  "held": 6,
+  "concalls": 12
+ },
+ {
+  "isin": "INE978G01016",
+  "sym": "SPLIL",
+  "name": "SPL Industries Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE979R01011",
+  "sym": "SHYAMCENT",
+  "name": "Shyam Century Ferrous Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE982B01027",
+  "sym": "ADFFOODS",
+  "name": "ADF Foods Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE982F01036",
+  "sym": "HATHWAY",
+  "name": "Hathway Cable & Datacom Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE982V01025",
+  "sym": "JETFREIGHT",
+  "name": "Jet Freight Logistics Limited",
+  "held": 6,
+  "concalls": 1
+ },
+ {
+  "isin": "INE985A01022",
+  "sym": "SINCLAIR",
+  "name": "Sinclairs Hotels Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE985S01024",
+  "sym": "TEAMLEASE",
+  "name": "Teamlease Services Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE985W01018",
+  "sym": "CNL",
+  "name": "Creative Newtech Limited",
+  "held": 6,
+  "concalls": 6
+ },
+ {
+  "isin": "INE988S01028",
+  "sym": "PARKHOTELS",
+  "name": "Apeejay Surrendra Park Hotels Limited",
+  "held": 5,
+  "concalls": 10
+ },
+ {
+  "isin": "INE989A01032",
+  "sym": "SANGHVIMOV",
+  "name": "Sanghvi Movers Limited",
+  "held": 5,
+  "concalls": 11
+ },
+ {
+  "isin": "INE991I01015",
+  "sym": "ASPINWALL",
+  "name": "Aspinwall and Company Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE992I01013",
+  "sym": "STARTECK",
+  "name": "Starteck Finance Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE995D01025",
+  "sym": "CHEMBOND",
+  "name": "Chembond Material Technologies Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
+  "isin": "INE997Y01027",
+  "sym": "MITTAL",
+  "name": "Mittal Life Style Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE998H01012",
+  "sym": "ORIENTALTL",
+  "name": "Oriental Trimex Limited",
+  "held": 5,
+  "concalls": 0
+ },
+ {
+  "isin": "INE998I01010",
+  "sym": "MHRIL",
+  "name": "Mahindra Holidays & Resorts India Limited",
+  "held": 6,
+  "concalls": 13
+ },
+ {
+  "isin": "INE999K01014",
+  "sym": "GREENPOWER",
+  "name": "Orient Green Power Company Limited",
+  "held": 5,
+  "concalls": 6
+ }
+]

@@ -1,0 +1,115 @@
+{
+ "isin": "INE045A01017",
+ "sym": "ADOR",
+ "name": "Ador Welding Limited",
+ "scrip": "517041",
+ "mcap_cr": 2434.91,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 310.02,
+   "ebitda": 29.67,
+   "pat": 18.09,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 251.84,
+   "ebitda": -4.4,
+   "pat": -3.95,
+   "margin_pct": -1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 281.09,
+   "ebitda": 34.75,
+   "pat": 25.01,
+   "margin_pct": 12.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 288.12,
+   "ebitda": 29.4,
+   "pat": 26.72,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 318.97,
+   "ebitda": 50.33,
+   "pat": 34.22,
+   "margin_pct": 15.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 65,
+    "profit": 93,
+    "quality": 82
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 309.46,
+   "ebitda": 35.71,
+   "pat": 27.6,
+   "margin_pct": 11.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 64,
+    "profit": 89,
+    "quality": 79
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 344.74,
+   "ebitda": 37.72,
+   "pat": 26.94,
+   "margin_pct": 10.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 52,
+    "profit": 26,
+    "quality": 54
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-10-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

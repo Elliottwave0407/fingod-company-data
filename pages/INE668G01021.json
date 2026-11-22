@@ -1,0 +1,105 @@
+{
+ "isin": "INE668G01021",
+ "sym": "ELDEHSG",
+ "name": "Eldeco Housing And Industries Limited",
+ "scrip": "523329",
+ "mcap_cr": 753.8,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 36.72,
+   "ebitda": 5.73,
+   "pat": 3.24,
+   "margin_pct": 15.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 28.69,
+   "ebitda": 3.21,
+   "pat": 3.13,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 33.05,
+   "ebitda": 3.3,
+   "pat": 2.63,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 43.08,
+   "ebitda": 17.64,
+   "pat": 13.67,
+   "margin_pct": 40.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 60.11,
+   "ebitda": 6.57,
+   "pat": 4.85,
+   "margin_pct": 10.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 75,
+    "profit": 9,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 49.07,
+   "ebitda": 17.44,
+   "pat": 15.11,
+   "margin_pct": 35.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 97
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

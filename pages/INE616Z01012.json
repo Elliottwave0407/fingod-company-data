@@ -1,0 +1,115 @@
+{
+ "isin": "INE616Z01012",
+ "sym": "YASHO",
+ "name": "Yasho Industries Limited",
+ "scrip": "541167",
+ "mcap_cr": 4222.21,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 182.81,
+   "ebitda": 32.87,
+   "pat": 5.03,
+   "margin_pct": 18.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 198.64,
+   "ebitda": 33.49,
+   "pat": 3.64,
+   "margin_pct": 16.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 183.3,
+   "ebitda": 33.13,
+   "pat": 4.86,
+   "margin_pct": 18.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 201.83,
+   "ebitda": 33.48,
+   "pat": 4.5,
+   "margin_pct": 16.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 246.26,
+   "ebitda": 44.27,
+   "pat": 12.26,
+   "margin_pct": 18.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 80,
+    "profit": 46,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 307.74,
+   "ebitda": 73.1,
+   "pat": 36.05,
+   "margin_pct": 23.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 98,
+    "profit": 99,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 347.68,
+   "ebitda": 72.68,
+   "pat": 33.68,
+   "margin_pct": 20.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 76,
+    "quality": 64
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

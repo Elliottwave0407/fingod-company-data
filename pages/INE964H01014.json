@@ -1,0 +1,105 @@
+{
+ "isin": "INE964H01014",
+ "sym": "SEPC",
+ "name": "SEPC Limited",
+ "scrip": "532945",
+ "mcap_cr": 787.39,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 117.8,
+   "ebitda": 15.29,
+   "pat": 10.02,
+   "margin_pct": 13.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 202.28,
+   "ebitda": 28.24,
+   "pat": 16.55,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 237.42,
+   "ebitda": 10.57,
+   "pat": 8.3,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 340.97,
+   "ebitda": 27.87,
+   "pat": 14.96,
+   "margin_pct": 8.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 273.83,
+   "ebitda": 9.81,
+   "pat": 13.73,
+   "margin_pct": 3.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 50,
+    "profit": 3,
+    "quality": 73
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 273.8,
+   "ebitda": 17.25,
+   "pat": -11.05,
+   "margin_pct": 6.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 40,
+    "profit": 5,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

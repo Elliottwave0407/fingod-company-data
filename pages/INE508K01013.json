@@ -1,0 +1,105 @@
+{
+ "isin": "INE508K01013",
+ "sym": "RHL",
+ "name": "Robust Hotels Limited",
+ "scrip": "543901",
+ "mcap_cr": 278.57,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 39.62,
+   "ebitda": 12.82,
+   "pat": 10.28,
+   "margin_pct": 32.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 33.24,
+   "ebitda": 9.96,
+   "pat": 4.03,
+   "margin_pct": 30.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 35.99,
+   "ebitda": 12.02,
+   "pat": 5.84,
+   "margin_pct": 33.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 38.75,
+   "ebitda": 13.55,
+   "pat": 7.08,
+   "margin_pct": 35.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 40.29,
+   "ebitda": 13.81,
+   "pat": 7.75,
+   "margin_pct": 34.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 71,
+    "quality": 24
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 33.85,
+   "ebitda": 10.92,
+   "pat": 6.12,
+   "margin_pct": 32.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 35,
+    "profit": 75,
+    "quality": 55
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

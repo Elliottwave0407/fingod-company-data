@@ -1,0 +1,115 @@
+{
+ "isin": "INE559A01017",
+ "sym": "IFBIND",
+ "name": "IFB Industries Limited",
+ "scrip": "505726",
+ "mcap_cr": 4517.44,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1333.7,
+   "ebitda": 61.12,
+   "pat": 18.87,
+   "margin_pct": 4.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1338.31,
+   "ebitda": 63.21,
+   "pat": 26.16,
+   "margin_pct": 4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1370.43,
+   "ebitda": 99.78,
+   "pat": 50.79,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1412.54,
+   "ebitda": 63.06,
+   "pat": 23.94,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1498.2,
+   "ebitda": 78.11,
+   "pat": 42.67,
+   "margin_pct": 5.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 58,
+    "profit": 42,
+    "quality": 71
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1584.74,
+   "ebitda": 88.85,
+   "pat": 43.05,
+   "margin_pct": 5.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 71,
+    "profit": 45,
+    "quality": 65
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1575.78,
+   "ebitda": 90.7,
+   "pat": 38.34,
+   "margin_pct": 5.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 34,
+    "profit": 20,
+    "quality": 13
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

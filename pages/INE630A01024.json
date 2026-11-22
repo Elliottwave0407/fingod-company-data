@@ -1,0 +1,115 @@
+{
+ "isin": "INE630A01024",
+ "sym": "SESHAPAPER",
+ "name": "Seshasayee Paper and Boards Limited",
+ "scrip": "502450",
+ "mcap_cr": 1323.17,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 502.35,
+   "ebitda": 25.22,
+   "pat": 27.07,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 385.4,
+   "ebitda": 21.31,
+   "pat": 15.43,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 346.32,
+   "ebitda": 26.3,
+   "pat": 22.41,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 386.88,
+   "ebitda": 24.71,
+   "pat": 18.64,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 591.84,
+   "ebitda": 23.59,
+   "pat": 26.05,
+   "margin_pct": 4.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 38,
+    "profit": 24,
+    "quality": 49
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 492.08,
+   "ebitda": 43.91,
+   "pat": 31.91,
+   "margin_pct": 8.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 85,
+    "profit": 72,
+    "quality": 86
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 503.06,
+   "ebitda": 46.89,
+   "pat": 42.31,
+   "margin_pct": 9.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 94,
+    "profit": 57,
+    "quality": 100
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

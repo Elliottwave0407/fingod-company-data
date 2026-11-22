@@ -1,0 +1,105 @@
+{
+ "isin": "INE149O01018",
+ "sym": "NIBE",
+ "name": "NIBE Limited",
+ "scrip": "535136",
+ "mcap_cr": 1709.46,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 112.59,
+   "ebitda": 19.14,
+   "pat": 8.73,
+   "margin_pct": 17.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 82.5,
+   "ebitda": 7.5,
+   "pat": 1.04,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 73.37,
+   "ebitda": -4.47,
+   "pat": -9.69,
+   "margin_pct": -6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 59.08,
+   "ebitda": -9.59,
+   "pat": -18.87,
+   "margin_pct": -16.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 259.5,
+   "ebitda": 51.32,
+   "pat": 27.58,
+   "margin_pct": 19.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 75,
+    "quality": 70
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 63.01,
+   "ebitda": -9.53,
+   "pat": -12.0,
+   "margin_pct": -15.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 3,
+    "profit": -12,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

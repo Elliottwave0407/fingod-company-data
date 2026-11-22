@@ -1,0 +1,101 @@
+{
+ "isin": "INE306A01021",
+ "sym": "BAJAJHIND",
+ "name": "Bajaj Hindusthan Sugar Limited",
+ "scrip": "500032",
+ "mcap_cr": 4061.74,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1553.66,
+   "ebitda": 285.59,
+   "pat": 220.1,
+   "margin_pct": 18.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1248.42,
+   "ebitda": -26.85,
+   "pat": -174.0,
+   "margin_pct": -2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1157.19,
+   "ebitda": -53.9,
+   "pat": -105.25,
+   "margin_pct": -4.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1380.44,
+   "ebitda": 73.04,
+   "pat": 14.71,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1668.71,
+   "ebitda": 359.49,
+   "pat": 390.68,
+   "margin_pct": 21.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 53,
+    "profit": 80,
+    "quality": 100
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1125.97,
+   "ebitda": -119.78,
+   "pat": -184.7,
+   "margin_pct": -10.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

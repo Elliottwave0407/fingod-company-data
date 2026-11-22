@@ -1,0 +1,101 @@
+{
+ "isin": "INE065J01024",
+ "sym": "TPHQ",
+ "name": "Teamo Productions HQ Limited",
+ "scrip": "533048",
+ "mcap_cr": 49.33,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 15.82,
+   "ebitda": -0.53,
+   "pat": 0.13,
+   "margin_pct": -3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 28.27,
+   "ebitda": 0.22,
+   "pat": 0.71,
+   "margin_pct": 0.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 51.03,
+   "ebitda": 0.3,
+   "pat": 0.51,
+   "margin_pct": 0.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 17.85,
+   "ebitda": 2.57,
+   "pat": 5.12,
+   "margin_pct": 14.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 15.19,
+   "ebitda": -8.33,
+   "pat": -6.24,
+   "margin_pct": -54.8,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 33.68,
+   "ebitda": 8.48,
+   "pat": 6.47,
+   "margin_pct": 25.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 79,
+    "profit": 100,
+    "quality": 89
+   },
+   "capped_by": "revenue growth under 20%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

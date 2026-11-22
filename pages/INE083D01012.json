@@ -1,0 +1,105 @@
+{
+ "isin": "INE083D01012",
+ "sym": "BALPHARMA",
+ "name": "Bal Pharma Limited",
+ "scrip": "524824",
+ "mcap_cr": 132.94,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 81.88,
+   "ebitda": 7.64,
+   "pat": 5.38,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 65.87,
+   "ebitda": 6.06,
+   "pat": 0.21,
+   "margin_pct": 9.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 74.02,
+   "ebitda": 5.73,
+   "pat": 0.72,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 87.69,
+   "ebitda": 9.54,
+   "pat": 1.79,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 84.08,
+   "ebitda": 10.58,
+   "pat": 3.6,
+   "margin_pct": 12.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 56,
+    "profit": 74,
+    "quality": 3
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 88.62,
+   "ebitda": 7.95,
+   "pat": 1.14,
+   "margin_pct": 9.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 77,
+    "profit": 37,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

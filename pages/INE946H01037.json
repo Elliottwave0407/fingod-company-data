@@ -1,0 +1,97 @@
+{
+ "isin": "INE946H01037",
+ "sym": "VIPULLTD",
+ "name": "Vipul Limited",
+ "scrip": "511726",
+ "mcap_cr": 123.9,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 44.26,
+   "ebitda": -24.7,
+   "pat": -34.95,
+   "margin_pct": -55.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1.69,
+   "ebitda": -12.21,
+   "pat": -1.42,
+   "margin_pct": -722.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 7.95,
+   "ebitda": 4.27,
+   "pat": 7.24,
+   "margin_pct": 53.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 9.19,
+   "ebitda": -1.35,
+   "pat": 1.21,
+   "margin_pct": -14.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 40.75,
+   "ebitda": -17.98,
+   "pat": -15.45,
+   "margin_pct": -44.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 7.72,
+   "ebitda": -19.02,
+   "pat": -0.77,
+   "margin_pct": -246.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

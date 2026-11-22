@@ -1,0 +1,101 @@
+{
+ "isin": "INE488A01050",
+ "sym": "CHEMPLASTS",
+ "name": "Chemplast Sanmar Limited",
+ "scrip": "543336",
+ "mcap_cr": 3958.27,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1150.88,
+   "ebitda": 36.73,
+   "pat": -54.17,
+   "margin_pct": 3.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1099.9,
+   "ebitda": 17.07,
+   "pat": -64.25,
+   "margin_pct": 1.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1033.2,
+   "ebitda": 43.25,
+   "pat": -51.04,
+   "margin_pct": 4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 835.14,
+   "ebitda": -56.75,
+   "pat": -119.2,
+   "margin_pct": -6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1255.55,
+   "ebitda": 44.42,
+   "pat": -45.38,
+   "margin_pct": 3.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 51,
+    "profit": 38,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1124.66,
+   "ebitda": -114.55,
+   "pat": -175.58,
+   "margin_pct": -10.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

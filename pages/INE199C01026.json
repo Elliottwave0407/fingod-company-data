@@ -1,0 +1,105 @@
+{
+ "isin": "INE199C01026",
+ "sym": "ADVANIHOTR",
+ "name": "Advani Hotels & Resorts (India) Limited",
+ "scrip": "523269",
+ "mcap_cr": 418.75,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 33.51,
+   "ebitda": 15.11,
+   "pat": 11.47,
+   "margin_pct": 45.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 19.92,
+   "ebitda": 2.96,
+   "pat": 2.35,
+   "margin_pct": 14.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 15.19,
+   "ebitda": -1.22,
+   "pat": -0.98,
+   "margin_pct": -8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 36.09,
+   "ebitda": 14.04,
+   "pat": 10.78,
+   "margin_pct": 38.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 35.51,
+   "ebitda": 15.47,
+   "pat": 11.71,
+   "margin_pct": 43.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 32,
+    "profit": 36,
+    "quality": 52
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 21.02,
+   "ebitda": 1.65,
+   "pat": 1.39,
+   "margin_pct": 7.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 17,
+    "profit": 6,
+    "quality": 36
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

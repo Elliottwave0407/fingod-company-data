@@ -1,0 +1,115 @@
+{
+ "isin": "INE02L001032",
+ "sym": "BOROSCI",
+ "name": "Borosil Scientific Limited",
+ "scrip": "544184",
+ "mcap_cr": 954.89,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 129.48,
+   "ebitda": 16.57,
+   "pat": 8.62,
+   "margin_pct": 12.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 95.98,
+   "ebitda": -1.74,
+   "pat": -4.21,
+   "margin_pct": -1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 106.9,
+   "ebitda": 8.02,
+   "pat": 2.85,
+   "margin_pct": 7.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 121.3,
+   "ebitda": 15.28,
+   "pat": 8.7,
+   "margin_pct": 12.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 143.17,
+   "ebitda": 32.11,
+   "pat": 27.25,
+   "margin_pct": 22.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 72,
+    "profit": 98,
+    "quality": 96
+   },
+   "capped_by": "revenue growth under 20%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 106.75,
+   "ebitda": 8.45,
+   "pat": 4.36,
+   "margin_pct": 7.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 44,
+    "profit": 86,
+    "quality": 29
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 114.96,
+   "ebitda": 10.7,
+   "pat": 5.31,
+   "margin_pct": 9.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 58,
+    "profit": 57,
+    "quality": 66
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,112 @@
+{
+ "isin": "INE555Z01020",
+ "sym": "TARACHAND",
+ "name": "Tara Chand InfraLogistic Solutions Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 81.63,
+   "ebitda": 25.16,
+   "pat": 7.86,
+   "margin_pct": 30.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 61.07,
+   "ebitda": 22.46,
+   "pat": 6.45,
+   "margin_pct": 36.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 65.67,
+   "ebitda": 24.88,
+   "pat": 7.48,
+   "margin_pct": 37.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 68.56,
+   "ebitda": 25.02,
+   "pat": 5.22,
+   "margin_pct": 36.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 89.55,
+   "ebitda": 31.09,
+   "pat": 8.55,
+   "margin_pct": 34.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 53,
+    "profit": 90,
+    "quality": 20
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 67.63,
+   "ebitda": 19.9,
+   "pat": 1.66,
+   "margin_pct": 29.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 29,
+    "profit": 20,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 83.11,
+   "ebitda": 28.25,
+   "pat": 9.05,
+   "margin_pct": 34.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 59,
+    "profit": 20,
+    "quality": 32
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-08-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

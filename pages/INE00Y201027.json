@@ -1,0 +1,105 @@
+{
+ "isin": "INE00Y201027",
+ "sym": "FLAIR",
+ "name": "Flair Writing Industries Limited",
+ "scrip": "544030",
+ "mcap_cr": 2537.92,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 298.05,
+   "ebitda": 46.81,
+   "pat": 30.84,
+   "margin_pct": 15.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 288.54,
+   "ebitda": 49.53,
+   "pat": 28.95,
+   "margin_pct": 17.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 320.91,
+   "ebitda": 60.36,
+   "pat": 42.73,
+   "margin_pct": 18.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 317.7,
+   "ebitda": 56.91,
+   "pat": 33.14,
+   "margin_pct": 17.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 322.95,
+   "ebitda": 57.73,
+   "pat": 36.52,
+   "margin_pct": 17.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 52,
+    "profit": 68,
+    "quality": 56
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 319.25,
+   "ebitda": 53.35,
+   "pat": 29.08,
+   "margin_pct": 16.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 41,
+    "profit": 41,
+    "quality": 33
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

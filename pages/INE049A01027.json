@@ -1,0 +1,105 @@
+{
+ "isin": "INE049A01027",
+ "sym": "HIMATSEIDE",
+ "name": "Himatsingka Seide Limited",
+ "scrip": "514043",
+ "mcap_cr": 703.65,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 656.91,
+   "ebitda": 23.17,
+   "pat": 11.94,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 656.94,
+   "ebitda": 120.67,
+   "pat": 10.9,
+   "margin_pct": 18.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 629.57,
+   "ebitda": 99.08,
+   "pat": 42.0,
+   "margin_pct": 15.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 611.37,
+   "ebitda": 95.08,
+   "pat": 7.66,
+   "margin_pct": 15.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 617.22,
+   "ebitda": 49.7,
+   "pat": 1.41,
+   "margin_pct": 8.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 60,
+    "profit": 82,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 621.3,
+   "ebitda": 88.31,
+   "pat": 4.99,
+   "margin_pct": 14.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 12,
+    "profit": 11,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-08-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

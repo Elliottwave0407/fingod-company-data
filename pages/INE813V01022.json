@@ -1,0 +1,102 @@
+{
+ "isin": "INE813V01022",
+ "sym": "MCL",
+ "name": "M TEK COPPER LIMITED",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 41.52,
+   "ebitda": 1.17,
+   "pat": 1.72,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 46.2,
+   "ebitda": 2.02,
+   "pat": 1.04,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 51.14,
+   "ebitda": 1.83,
+   "pat": -0.2,
+   "margin_pct": 3.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 52.8,
+   "ebitda": 2.31,
+   "pat": 0.76,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 84.06,
+   "ebitda": 4.3,
+   "pat": 2.91,
+   "margin_pct": 5.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 59,
+    "quality": 81
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 80.26,
+   "ebitda": 2.9,
+   "pat": 1.05,
+   "margin_pct": 3.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 93,
+    "profit": 27,
+    "quality": 18
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

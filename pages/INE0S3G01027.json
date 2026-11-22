@@ -1,0 +1,101 @@
+{
+ "isin": "INE0S3G01027",
+ "sym": "PACEDIGITK",
+ "name": "Pace Digitek Limited",
+ "scrip": "544550",
+ "mcap_cr": 3563.71,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 367.08,
+   "ebitda": 80.05,
+   "pat": 54.7,
+   "margin_pct": 21.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 533.45,
+   "ebitda": 94.08,
+   "pat": 67.86,
+   "margin_pct": 17.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 643.97,
+   "ebitda": 117.94,
+   "pat": 78.78,
+   "margin_pct": 18.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1096.78,
+   "ebitda": 163.18,
+   "pat": 105.92,
+   "margin_pct": 14.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 555.36,
+   "ebitda": 86.07,
+   "pat": 62.51,
+   "margin_pct": 15.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 65,
+    "profit": 12,
+    "quality": 60
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 808.17,
+   "ebitda": 158.57,
+   "pat": 97.28,
+   "margin_pct": 19.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 97,
+    "profit": 68,
+    "quality": 69
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

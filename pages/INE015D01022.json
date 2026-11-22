@@ -1,0 +1,105 @@
+{
+ "isin": "INE015D01022",
+ "sym": "MANAKSIA",
+ "name": "Manaksia Limited",
+ "scrip": "532932",
+ "mcap_cr": 351.33,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 268.56,
+   "ebitda": 12.01,
+   "pat": 11.48,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 173.39,
+   "ebitda": 9.93,
+   "pat": 15.39,
+   "margin_pct": 5.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 189.99,
+   "ebitda": 7.01,
+   "pat": 10.49,
+   "margin_pct": 3.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 184.02,
+   "ebitda": 6.88,
+   "pat": 14.54,
+   "margin_pct": 3.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 236.68,
+   "ebitda": 17.47,
+   "pat": 12.5,
+   "margin_pct": 7.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 52,
+    "profit": 66,
+    "quality": 55
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 222.76,
+   "ebitda": 16.31,
+   "pat": 26.68,
+   "margin_pct": 7.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 86,
+    "profit": 54,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

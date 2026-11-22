@@ -1,0 +1,105 @@
+{
+ "isin": "INE846D01012",
+ "sym": "LORDSCHLO",
+ "name": "Lords Chloro Alkali Limited",
+ "scrip": "500284",
+ "mcap_cr": 385.11,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 79.78,
+   "ebitda": 9.95,
+   "pat": 2.6,
+   "margin_pct": 12.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 100.2,
+   "ebitda": 20.42,
+   "pat": 10.45,
+   "margin_pct": 20.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 98.34,
+   "ebitda": 18.66,
+   "pat": 9.04,
+   "margin_pct": 19.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 93.95,
+   "ebitda": 10.73,
+   "pat": 4.61,
+   "margin_pct": 11.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 97.64,
+   "ebitda": 13.61,
+   "pat": 4.39,
+   "margin_pct": 13.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 72,
+    "profit": 58,
+    "quality": 52
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 106.35,
+   "ebitda": 22.61,
+   "pat": 14.95,
+   "margin_pct": 21.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 39,
+    "profit": 58,
+    "quality": 73
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

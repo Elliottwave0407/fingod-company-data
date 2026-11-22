@@ -1,0 +1,115 @@
+{
+ "isin": "INE681B01017",
+ "sym": "INDRAMEDCO",
+ "name": "Indraprastha Medical Corporation Limited",
+ "scrip": "532150",
+ "mcap_cr": 3323.6,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 333.75,
+   "ebitda": 61.32,
+   "pat": 41.01,
+   "margin_pct": 18.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 365.06,
+   "ebitda": 73.15,
+   "pat": 51.46,
+   "margin_pct": 20.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 381.03,
+   "ebitda": 71.31,
+   "pat": 49.46,
+   "margin_pct": 18.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 371.61,
+   "ebitda": 61.95,
+   "pat": 41.0,
+   "margin_pct": 16.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 364.81,
+   "ebitda": 60.51,
+   "pat": 41.7,
+   "margin_pct": 16.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 32,
+    "profit": 26,
+    "quality": 46
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 406.15,
+   "ebitda": 79.81,
+   "pat": 55.85,
+   "margin_pct": 19.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 42,
+    "profit": 44,
+    "quality": 53
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 412.85,
+   "ebitda": 77.44,
+   "pat": 53.58,
+   "margin_pct": 18.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 39,
+    "profit": 47,
+    "quality": 52
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

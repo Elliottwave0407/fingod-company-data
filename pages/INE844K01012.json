@@ -1,0 +1,105 @@
+{
+ "isin": "INE844K01012",
+ "sym": "BEDMUTHA",
+ "name": "Bedmutha Industries Limited",
+ "scrip": "533270",
+ "mcap_cr": 348.45,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 281.72,
+   "ebitda": 10.1,
+   "pat": 2.07,
+   "margin_pct": 3.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 310.6,
+   "ebitda": 10.52,
+   "pat": -3.3,
+   "margin_pct": 3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 363.67,
+   "ebitda": 14.27,
+   "pat": -0.93,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 356.84,
+   "ebitda": 11.17,
+   "pat": -3.9,
+   "margin_pct": 3.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 435.63,
+   "ebitda": 23.25,
+   "pat": 14.63,
+   "margin_pct": 5.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 98,
+    "profit": 54,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 541.43,
+   "ebitda": 17.75,
+   "pat": 6.92,
+   "margin_pct": 3.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 33,
+    "quality": 12
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

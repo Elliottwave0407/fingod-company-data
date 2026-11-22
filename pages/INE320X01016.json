@@ -1,0 +1,105 @@
+{
+ "isin": "INE320X01016",
+ "sym": "HALEOSLABS",
+ "name": "HALEOS LABS LIMITED",
+ "scrip": "540679",
+ "mcap_cr": 486.43,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 89.11,
+   "ebitda": 7.42,
+   "pat": 3.48,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 82.5,
+   "ebitda": 11.71,
+   "pat": 4.38,
+   "margin_pct": 14.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 81.37,
+   "ebitda": 13.58,
+   "pat": 6.43,
+   "margin_pct": 16.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 94.78,
+   "ebitda": 14.05,
+   "pat": 6.65,
+   "margin_pct": 14.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 75.14,
+   "ebitda": 4.17,
+   "pat": 0.34,
+   "margin_pct": 5.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 6,
+    "profit": 7,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 72.94,
+   "ebitda": 9.12,
+   "pat": 1.84,
+   "margin_pct": 12.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 11,
+    "profit": 24,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

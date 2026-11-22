@@ -1,0 +1,105 @@
+{
+ "isin": "INE363A01022",
+ "sym": "ASIANHOTNR",
+ "name": "Asian Hotels (North) Limited",
+ "scrip": "500023",
+ "mcap_cr": 1398.37,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 91.51,
+   "ebitda": 213.87,
+   "pat": 174.18,
+   "margin_pct": 233.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 70.29,
+   "ebitda": 14.84,
+   "pat": -13.55,
+   "margin_pct": 21.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 76.9,
+   "ebitda": -59.39,
+   "pat": -63.53,
+   "margin_pct": -77.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 90.98,
+   "ebitda": -30.7,
+   "pat": -56.47,
+   "margin_pct": -33.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 102.91,
+   "ebitda": 15.54,
+   "pat": 31.3,
+   "margin_pct": 15.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 23,
+    "profit": 12,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 77.63,
+   "ebitda": 13.57,
+   "pat": -3.54,
+   "margin_pct": 17.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 30,
+    "profit": 14,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

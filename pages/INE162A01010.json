@@ -1,0 +1,105 @@
+{
+ "isin": "INE162A01010",
+ "sym": "GIPCL",
+ "name": "Gujarat Industries Power Company Limited",
+ "scrip": "517300",
+ "mcap_cr": 2422.92,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 338.25,
+   "ebitda": 119.28,
+   "pat": 69.73,
+   "margin_pct": 35.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 371.52,
+   "ebitda": 112.67,
+   "pat": 57.47,
+   "margin_pct": 30.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 321.4,
+   "ebitda": 107.76,
+   "pat": 21.3,
+   "margin_pct": 33.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 369.94,
+   "ebitda": 122.33,
+   "pat": -3.2,
+   "margin_pct": 33.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 428.26,
+   "ebitda": 194.99,
+   "pat": 326.85,
+   "margin_pct": 45.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 84,
+    "profit": 100,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 499.28,
+   "ebitda": 241.64,
+   "pat": 157.9,
+   "margin_pct": 48.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 90,
+    "profit": 100,
+    "quality": 64
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 2,
+  "concalls_read": 1,
+  "latest_concall": "2026-07-15"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

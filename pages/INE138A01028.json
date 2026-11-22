@@ -1,0 +1,101 @@
+{
+ "isin": "INE138A01028",
+ "sym": "PENINLAND",
+ "name": "Peninsula Land Limited",
+ "scrip": "503031",
+ "mcap_cr": 474.37,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 63.09,
+   "ebitda": -12.38,
+   "pat": -28.49,
+   "margin_pct": -19.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 37.47,
+   "ebitda": 3.28,
+   "pat": -5.03,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 37.57,
+   "ebitda": -8.01,
+   "pat": -18.56,
+   "margin_pct": -21.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 27.29,
+   "ebitda": -3.01,
+   "pat": -11.98,
+   "margin_pct": -11.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 40.88,
+   "ebitda": -120.82,
+   "pat": -118.32,
+   "margin_pct": -295.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 23.4,
+   "ebitda": 0.5,
+   "pat": -7.72,
+   "margin_pct": 2.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 2,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

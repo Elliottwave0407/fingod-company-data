@@ -1,0 +1,105 @@
+{
+ "isin": "INE07S101038",
+ "sym": "PAVNAIND",
+ "name": "Pavna Industries Limited",
+ "scrip": "543915",
+ "mcap_cr": 186.27,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 66.23,
+   "ebitda": 7.52,
+   "pat": 1.82,
+   "margin_pct": 11.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 60.4,
+   "ebitda": 2.46,
+   "pat": -1.72,
+   "margin_pct": 4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 74.15,
+   "ebitda": 6.97,
+   "pat": 1.68,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 108.03,
+   "ebitda": 8.66,
+   "pat": 3.02,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 54.45,
+   "ebitda": 8.04,
+   "pat": 2.41,
+   "margin_pct": 14.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 23,
+    "profit": 77,
+    "quality": 38
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 91.88,
+   "ebitda": 7.81,
+   "pat": 0.88,
+   "margin_pct": 8.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 97,
+    "profit": 81,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

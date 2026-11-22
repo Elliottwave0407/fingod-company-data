@@ -1,0 +1,101 @@
+{
+ "isin": "INE925C01016",
+ "sym": "MADHAV",
+ "name": "Madhav Marbles and Granites Limited",
+ "scrip": "515093",
+ "mcap_cr": 29.95,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 7.67,
+   "ebitda": -0.86,
+   "pat": 0.02,
+   "margin_pct": -11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 8.03,
+   "ebitda": -0.02,
+   "pat": -0.18,
+   "margin_pct": -0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 6.84,
+   "ebitda": -0.76,
+   "pat": -0.44,
+   "margin_pct": -11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 6.6,
+   "ebitda": -0.18,
+   "pat": -0.49,
+   "margin_pct": -2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 9.24,
+   "ebitda": -1.19,
+   "pat": 1.49,
+   "margin_pct": -12.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 61,
+    "profit": 4,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 7.91,
+   "ebitda": 0.11,
+   "pat": -0.8,
+   "margin_pct": 1.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

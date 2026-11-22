@@ -1,0 +1,105 @@
+{
+ "isin": "INE204A01010",
+ "sym": "IGPL",
+ "name": "IG Petrochemicals Limited",
+ "scrip": "500199",
+ "mcap_cr": 1601.79,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 480.08,
+   "ebitda": 47.23,
+   "pat": 18.96,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 470.05,
+   "ebitda": -0.69,
+   "pat": -12.99,
+   "margin_pct": -0.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 465.34,
+   "ebitda": 20.21,
+   "pat": -2.0,
+   "margin_pct": 4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 465.32,
+   "ebitda": 8.48,
+   "pat": -10.86,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 524.27,
+   "ebitda": 66.6,
+   "pat": 28.07,
+   "margin_pct": 12.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 63,
+    "profit": 70,
+    "quality": 55
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 617.8,
+   "ebitda": 112.18,
+   "pat": 66.44,
+   "margin_pct": 18.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 75,
+    "profit": 95,
+    "quality": 49
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 1,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

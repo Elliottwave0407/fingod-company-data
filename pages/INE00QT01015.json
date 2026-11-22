@@ -1,0 +1,105 @@
+{
+ "isin": "INE00QT01015",
+ "sym": "SGIL",
+ "name": "Synergy Green Industries Limited",
+ "scrip": "541929",
+ "mcap_cr": 855.18,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 97.47,
+   "ebitda": 14.87,
+   "pat": 3.84,
+   "margin_pct": 15.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 83.56,
+   "ebitda": 11.33,
+   "pat": 3.38,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 72.0,
+   "ebitda": 9.32,
+   "pat": 2.36,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 91.82,
+   "ebitda": 7.64,
+   "pat": -1.49,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 119.04,
+   "ebitda": 10.42,
+   "pat": 0.41,
+   "margin_pct": 8.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 31,
+    "profit": 7,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 75.15,
+   "ebitda": 4.74,
+   "pat": -10.11,
+   "margin_pct": 6.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 8,
+    "profit": 5,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

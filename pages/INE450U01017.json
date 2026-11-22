@@ -1,0 +1,115 @@
+{
+ "isin": "INE450U01017",
+ "sym": "ROUTE",
+ "name": "ROUTE MOBILE LIMITED",
+ "scrip": "543228",
+ "mcap_cr": 2624.08,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1175.0,
+   "ebitda": 97.16,
+   "pat": 60.28,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1050.83,
+   "ebitda": 93.9,
+   "pat": 58.78,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1119.42,
+   "ebitda": 0.08,
+   "pat": -18.83,
+   "margin_pct": 0.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1107.06,
+   "ebitda": 146.39,
+   "pat": 102.56,
+   "margin_pct": 13.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1130.9,
+   "ebitda": 136.23,
+   "pat": 114.43,
+   "margin_pct": 12.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 53,
+    "profit": 78,
+    "quality": 95
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1151.51,
+   "ebitda": 105.48,
+   "pat": 68.55,
+   "margin_pct": 9.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 44,
+    "profit": 42,
+    "quality": 56
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1179.67,
+   "ebitda": 115.02,
+   "pat": 82.55,
+   "margin_pct": 9.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 67,
+    "profit": 88,
+    "quality": 70
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-03"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

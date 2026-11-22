@@ -1,0 +1,105 @@
+{
+ "isin": "INE00CA01015",
+ "sym": "TREJHARA",
+ "name": "TREJHARA SOLUTIONS LIMITED",
+ "scrip": "542233",
+ "mcap_cr": 279.27,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 9.56,
+   "ebitda": 1.7,
+   "pat": 0.61,
+   "margin_pct": 17.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 8.65,
+   "ebitda": 1.76,
+   "pat": 0.67,
+   "margin_pct": 20.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 33.93,
+   "ebitda": 2.19,
+   "pat": 3.57,
+   "margin_pct": 6.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 33.81,
+   "ebitda": 1.72,
+   "pat": 1.21,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 41.87,
+   "ebitda": 1.4,
+   "pat": 3.22,
+   "margin_pct": 3.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 55,
+    "profit": 3,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 67.64,
+   "ebitda": 6.65,
+   "pat": 4.79,
+   "margin_pct": 9.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 8,
+    "quality": 85
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE263M01029",
+ "sym": "RUSTOMJEE",
+ "name": "Keystone Realtors Limited",
+ "scrip": "543669",
+ "mcap_cr": 4592.96,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 584.85,
+   "ebitda": 50.48,
+   "pat": 66.95,
+   "margin_pct": 8.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 273.12,
+   "ebitda": 13.73,
+   "pat": 16.33,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 499.28,
+   "ebitda": 15.41,
+   "pat": 9.89,
+   "margin_pct": 3.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 266.17,
+   "ebitda": 11.48,
+   "pat": 5.08,
+   "margin_pct": 4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1595.97,
+   "ebitda": 81.49,
+   "pat": 63.65,
+   "margin_pct": 5.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 100,
+    "profit": 4,
+    "quality": 51
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 470.29,
+   "ebitda": 82.2,
+   "pat": 52.37,
+   "margin_pct": 17.5,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 94,
+    "quality": 78
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-09"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

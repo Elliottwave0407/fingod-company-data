@@ -1,0 +1,105 @@
+{
+ "isin": "INE134B01017",
+ "sym": "KECL",
+ "name": "Kirloskar Electric Company Limited",
+ "scrip": "533193",
+ "mcap_cr": 694.69,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 129.13,
+   "ebitda": 0.7,
+   "pat": -3.85,
+   "margin_pct": 0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 132.24,
+   "ebitda": 6.88,
+   "pat": 0.42,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 142.11,
+   "ebitda": 6.41,
+   "pat": 9.98,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 151.42,
+   "ebitda": 7.72,
+   "pat": 4.1,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 163.57,
+   "ebitda": 6.44,
+   "pat": -0.63,
+   "margin_pct": 3.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 84,
+    "profit": 68,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 103.85,
+   "ebitda": -0.37,
+   "pat": -5.99,
+   "margin_pct": -0.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 4,
+    "profit": 0,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

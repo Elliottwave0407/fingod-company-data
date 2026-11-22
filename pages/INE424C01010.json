@@ -1,0 +1,105 @@
+{
+ "isin": "INE424C01010",
+ "sym": "GINNIFILA",
+ "name": "Ginni Filaments Limited",
+ "scrip": "590025",
+ "mcap_cr": 334.89,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 103.5,
+   "ebitda": 13.24,
+   "pat": 4.79,
+   "margin_pct": 12.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 101.54,
+   "ebitda": 17.15,
+   "pat": 10.61,
+   "margin_pct": 16.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 95.03,
+   "ebitda": 16.63,
+   "pat": 10.26,
+   "margin_pct": 17.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 82.02,
+   "ebitda": 14.63,
+   "pat": 9.04,
+   "margin_pct": 17.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 90.1,
+   "ebitda": 13.25,
+   "pat": 7.13,
+   "margin_pct": 14.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 20,
+    "profit": 63,
+    "quality": 65
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 102.89,
+   "ebitda": 14.73,
+   "pat": 9.05,
+   "margin_pct": 14.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 16,
+    "quality": 33
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

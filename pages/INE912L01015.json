@@ -1,0 +1,97 @@
+{
+ "isin": "INE912L01015",
+ "sym": "ONELIFECAP",
+ "name": "Onelife Capital Advisors Limited",
+ "scrip": "533632",
+ "mcap_cr": 248.18,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1.23,
+   "ebitda": -5.82,
+   "pat": 4.15,
+   "margin_pct": -473.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.85,
+   "ebitda": -1.21,
+   "pat": -0.53,
+   "margin_pct": -142.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 3.86,
+   "ebitda": -4.55,
+   "pat": -4.83,
+   "margin_pct": -117.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.51,
+   "ebitda": -2.96,
+   "pat": -1.85,
+   "margin_pct": -580.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 3.9,
+   "ebitda": -2.61,
+   "pat": 12.72,
+   "margin_pct": -66.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 7.2,
+   "ebitda": 3.82,
+   "pat": 3.89,
+   "margin_pct": 53.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

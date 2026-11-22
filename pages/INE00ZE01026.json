@@ -1,0 +1,105 @@
+{
+ "isin": "INE00ZE01026",
+ "sym": "AFSL",
+ "name": "Abans Financial Services Limited",
+ "scrip": "543712",
+ "mcap_cr": 1029.42,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1063.16,
+   "ebitda": 47.52,
+   "pat": 30.0,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1893.81,
+   "ebitda": 51.36,
+   "pat": 32.69,
+   "margin_pct": 2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 6831.68,
+   "ebitda": 47.52,
+   "pat": 41.85,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 6494.61,
+   "ebitda": 43.81,
+   "pat": 34.31,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 8708.28,
+   "ebitda": 15.6,
+   "pat": -3.69,
+   "margin_pct": 0.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 50,
+    "profit": 0,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 3712.76,
+   "ebitda": 99.53,
+   "pat": 65.85,
+   "margin_pct": 2.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 34,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2025-08-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

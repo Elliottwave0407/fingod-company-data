@@ -1,0 +1,105 @@
+{
+ "isin": "INE0JS101016",
+ "sym": "DREAMFOLKS",
+ "name": "Dreamfolks Services Limited",
+ "scrip": "543591",
+ "mcap_cr": 314.77,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 314.16,
+   "ebitda": 20.03,
+   "pat": 14.93,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 348.95,
+   "ebitda": 26.94,
+   "pat": 21.27,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 205.52,
+   "ebitda": 11.96,
+   "pat": 11.23,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 53.45,
+   "ebitda": -14.14,
+   "pat": -7.86,
+   "margin_pct": -26.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 52.64,
+   "ebitda": -21.88,
+   "pat": -13.01,
+   "margin_pct": -41.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -33,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 39.01,
+   "ebitda": -20.79,
+   "pat": -13.83,
+   "margin_pct": -53.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -43,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

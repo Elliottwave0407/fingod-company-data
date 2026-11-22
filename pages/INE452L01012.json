@@ -1,0 +1,105 @@
+{
+ "isin": "INE452L01012",
+ "sym": "INCREDIBLE",
+ "name": "INCREDIBLE INDUSTRIES LIMITED",
+ "scrip": "538365",
+ "mcap_cr": 147.77,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 230.22,
+   "ebitda": 9.44,
+   "pat": 5.84,
+   "margin_pct": 4.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 219.76,
+   "ebitda": 6.53,
+   "pat": 3.72,
+   "margin_pct": 3.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 212.13,
+   "ebitda": 3.83,
+   "pat": 1.49,
+   "margin_pct": 1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 188.97,
+   "ebitda": 4.18,
+   "pat": 1.79,
+   "margin_pct": 2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 219.43,
+   "ebitda": 8.18,
+   "pat": 4.52,
+   "margin_pct": 3.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 17,
+    "profit": 31,
+    "quality": 24
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 213.03,
+   "ebitda": 6.72,
+   "pat": 3.96,
+   "margin_pct": 3.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 26,
+    "profit": 36,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE529D01014",
+ "sym": "PATINTLOG",
+ "name": "Patel Integrated Logistics Limited",
+ "scrip": "526381",
+ "mcap_cr": 78.05,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 86.62,
+   "ebitda": 2.1,
+   "pat": 1.86,
+   "margin_pct": 2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 77.98,
+   "ebitda": 1.94,
+   "pat": 1.64,
+   "margin_pct": 2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 94.13,
+   "ebitda": 2.57,
+   "pat": 2.28,
+   "margin_pct": 2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 88.39,
+   "ebitda": 2.11,
+   "pat": 2.69,
+   "margin_pct": 2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 96.74,
+   "ebitda": 3.69,
+   "pat": 2.98,
+   "margin_pct": 3.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 73,
+    "profit": 49,
+    "quality": 92
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 113.85,
+   "ebitda": 2.51,
+   "pat": 2.52,
+   "margin_pct": 2.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 81,
+    "profit": 31,
+    "quality": 97
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-05-14"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

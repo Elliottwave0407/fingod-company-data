@@ -1,0 +1,105 @@
+{
+ "isin": "INE221H01019",
+ "sym": "GTLINFRA",
+ "name": "GTL Infrastructure Limited",
+ "scrip": "532775",
+ "mcap_cr": 1306.75,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 337.02,
+   "ebitda": 45.73,
+   "pat": -248.89,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 334.53,
+   "ebitda": 79.85,
+   "pat": -232.42,
+   "margin_pct": 23.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 356.49,
+   "ebitda": 113.38,
+   "pat": -193.47,
+   "margin_pct": 31.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 350.59,
+   "ebitda": 94.53,
+   "pat": 19.58,
+   "margin_pct": 27.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 330.36,
+   "ebitda": 1248.0,
+   "pat": 1185.58,
+   "margin_pct": 377.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 62,
+    "profit": 100,
+    "quality": 100
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 327.31,
+   "ebitda": 142.79,
+   "pat": 69.39,
+   "margin_pct": 43.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 62,
+    "profit": 100,
+    "quality": 31
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

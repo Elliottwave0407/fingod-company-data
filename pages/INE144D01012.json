@@ -1,0 +1,115 @@
+{
+ "isin": "INE144D01012",
+ "sym": "CUBEXTUB",
+ "name": "Cubex Tubings Limited",
+ "scrip": "526027",
+ "mcap_cr": 309.29,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 84.23,
+   "ebitda": 2.95,
+   "pat": 2.3,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 49.87,
+   "ebitda": 2.38,
+   "pat": 1.23,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 73.7,
+   "ebitda": 3.26,
+   "pat": 1.74,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 75.03,
+   "ebitda": 3.67,
+   "pat": 3.11,
+   "margin_pct": 4.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 89.4,
+   "ebitda": -2.73,
+   "pat": 1.37,
+   "margin_pct": -3.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 18,
+    "profit": -2,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 64.97,
+   "ebitda": 1.42,
+   "pat": 1.32,
+   "margin_pct": 2.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 37,
+    "profit": 6,
+    "quality": 55
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 82.99,
+   "ebitda": 7.15,
+   "pat": 4.57,
+   "margin_pct": 8.6,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 73,
+    "profit": 79,
+    "quality": 78
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

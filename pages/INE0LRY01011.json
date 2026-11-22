@@ -1,0 +1,101 @@
+{
+ "isin": "INE0LRY01011",
+ "sym": "QUADFUTURE",
+ "name": "Quadrant Future Tek Limited",
+ "scrip": "544336",
+ "mcap_cr": 1577.0,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 58.47,
+   "ebitda": 1.23,
+   "pat": 1.58,
+   "margin_pct": 2.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 28.73,
+   "ebitda": -10.11,
+   "pat": -13.5,
+   "margin_pct": -35.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 34.4,
+   "ebitda": -12.9,
+   "pat": -15.89,
+   "margin_pct": -37.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 33.28,
+   "ebitda": -10.56,
+   "pat": -14.7,
+   "margin_pct": -31.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 56.56,
+   "ebitda": -5.8,
+   "pat": 1.14,
+   "margin_pct": -10.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 11,
+    "profit": -8,
+    "quality": 2
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 40.59,
+   "ebitda": -3.35,
+   "pat": -9.13,
+   "margin_pct": -8.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2025-08-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

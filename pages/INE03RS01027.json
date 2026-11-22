@@ -1,0 +1,115 @@
+{
+ "isin": "INE03RS01027",
+ "sym": "DRCSYSTEMS",
+ "name": "DRC Systems India Limited",
+ "scrip": "543268",
+ "mcap_cr": 151.72,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 16.93,
+   "ebitda": 6.02,
+   "pat": 4.41,
+   "margin_pct": 35.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 18.29,
+   "ebitda": 6.39,
+   "pat": 4.35,
+   "margin_pct": 34.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 22.83,
+   "ebitda": 6.17,
+   "pat": 4.17,
+   "margin_pct": 27.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 27.18,
+   "ebitda": 6.64,
+   "pat": 4.99,
+   "margin_pct": 24.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 27.2,
+   "ebitda": 8.05,
+   "pat": 5.82,
+   "margin_pct": 29.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 89,
+    "profit": 20,
+    "quality": 73
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 23.38,
+   "ebitda": 6.4,
+   "pat": 5.55,
+   "margin_pct": 27.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 48,
+    "profit": 20,
+    "quality": 82
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 21.29,
+   "ebitda": 5.9,
+   "pat": 4.06,
+   "margin_pct": 27.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 20,
+    "profit": 59,
+    "quality": 44
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

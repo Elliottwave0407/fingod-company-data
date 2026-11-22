@@ -1,0 +1,101 @@
+{
+ "isin": "INE550B01022",
+ "sym": "HBSL",
+ "name": "HB Stockholdings Limited",
+ "scrip": "532216",
+ "mcap_cr": 35.15,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.28,
+   "ebitda": -6.88,
+   "pat": -7.16,
+   "margin_pct": -2457.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 10.1,
+   "ebitda": 9.01,
+   "pat": 7.46,
+   "margin_pct": 89.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 0.41,
+   "ebitda": -4.89,
+   "pat": -4.6,
+   "margin_pct": -1192.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.39,
+   "ebitda": -3.95,
+   "pat": -3.74,
+   "margin_pct": -284.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.36,
+   "ebitda": -11.48,
+   "pat": -9.94,
+   "margin_pct": -3188.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 10.09,
+   "ebitda": 9.02,
+   "pat": 7.95,
+   "margin_pct": 89.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 25,
+    "profit": 54,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

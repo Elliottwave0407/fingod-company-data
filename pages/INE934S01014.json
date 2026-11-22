@@ -1,0 +1,101 @@
+{
+ "isin": "INE934S01014",
+ "sym": "GNA",
+ "name": "GNA Axles Limited",
+ "scrip": "540124",
+ "mcap_cr": 2284.35,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 344.21,
+   "ebitda": 50.08,
+   "pat": 22.99,
+   "margin_pct": 14.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 347.94,
+   "ebitda": 61.13,
+   "pat": 31.19,
+   "margin_pct": 17.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 375.33,
+   "ebitda": 69.42,
+   "pat": 31.95,
+   "margin_pct": 18.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 410.94,
+   "ebitda": 57.31,
+   "pat": 30.82,
+   "margin_pct": 13.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 470.44,
+   "ebitda": 72.25,
+   "pat": 38.27,
+   "margin_pct": 15.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 84,
+    "profit": 52,
+    "quality": 69
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 521.15,
+   "ebitda": 81.51,
+   "pat": 44.07,
+   "margin_pct": 15.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 85,
+    "profit": 24,
+    "quality": 63
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

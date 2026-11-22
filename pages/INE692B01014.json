@@ -1,0 +1,105 @@
+{
+ "isin": "INE692B01014",
+ "sym": "MURUDCERA",
+ "name": "Murudeshwar Ceramics Limited",
+ "scrip": "515037",
+ "mcap_cr": 163.77,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 66.4,
+   "ebitda": 11.04,
+   "pat": 3.25,
+   "margin_pct": 16.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 46.15,
+   "ebitda": 8.06,
+   "pat": 1.93,
+   "margin_pct": 17.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 45.57,
+   "ebitda": 7.0,
+   "pat": 3.19,
+   "margin_pct": 15.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 51.11,
+   "ebitda": 6.7,
+   "pat": 4.09,
+   "margin_pct": 13.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 62.64,
+   "ebitda": 9.71,
+   "pat": 1.58,
+   "margin_pct": 15.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 18,
+    "profit": 32,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 50.09,
+   "ebitda": 9.58,
+   "pat": 0.81,
+   "margin_pct": 19.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 49,
+    "profit": 64,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

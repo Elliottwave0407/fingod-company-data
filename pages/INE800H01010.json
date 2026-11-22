@@ -1,0 +1,111 @@
+{
+ "isin": "INE800H01010",
+ "sym": "OMAXE",
+ "name": "Omaxe Limited",
+ "scrip": "532880",
+ "mcap_cr": 1775.96,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 541.26,
+   "ebitda": -106.04,
+   "pat": -148.67,
+   "margin_pct": -19.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 282.24,
+   "ebitda": -169.64,
+   "pat": -185.77,
+   "margin_pct": -60.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 320.82,
+   "ebitda": -169.06,
+   "pat": -166.42,
+   "margin_pct": -52.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 301.82,
+   "ebitda": -155.2,
+   "pat": -153.2,
+   "margin_pct": -51.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 348.52,
+   "ebitda": -201.93,
+   "pat": -191.42,
+   "margin_pct": -57.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 406.17,
+   "ebitda": 7.32,
+   "pat": 1.3,
+   "margin_pct": 1.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 87,
+    "profit": 81,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 575.51,
+   "ebitda": 0.4,
+   "pat": -25.55,
+   "margin_pct": 0.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 100,
+    "profit": 80,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

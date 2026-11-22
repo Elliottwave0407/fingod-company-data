@@ -1,0 +1,105 @@
+{
+ "isin": "INE924H01018",
+ "sym": "TARMAT",
+ "name": "Tarmat Limited",
+ "scrip": "532869",
+ "mcap_cr": 132.21,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 37.79,
+   "ebitda": 0.73,
+   "pat": 0.57,
+   "margin_pct": 1.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 24.94,
+   "ebitda": 1.12,
+   "pat": 0.69,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 22.67,
+   "ebitda": 1.14,
+   "pat": 1.46,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 27.31,
+   "ebitda": 1.75,
+   "pat": 1.13,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 42.46,
+   "ebitda": 2.9,
+   "pat": 2.96,
+   "margin_pct": 6.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 73,
+    "profit": 85,
+    "quality": 100
+   },
+   "capped_by": "revenue growth under 20%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 35.81,
+   "ebitda": 2.46,
+   "pat": 1.53,
+   "margin_pct": 6.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 93,
+    "profit": 61,
+    "quality": 77
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

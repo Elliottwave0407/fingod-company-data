@@ -1,0 +1,105 @@
+{
+ "isin": "INE201K01015",
+ "sym": "EXPLEOSOL",
+ "name": "Expleo Solutions Limited",
+ "scrip": "533121",
+ "mcap_cr": 1210.85,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 255.8,
+   "ebitda": 40.0,
+   "pat": 24.08,
+   "margin_pct": 15.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 259.65,
+   "ebitda": 29.72,
+   "pat": 20.43,
+   "margin_pct": 11.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 282.69,
+   "ebitda": 46.71,
+   "pat": 39.76,
+   "margin_pct": 16.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 279.35,
+   "ebitda": 29.28,
+   "pat": 22.13,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 286.27,
+   "ebitda": 44.79,
+   "pat": 41.67,
+   "margin_pct": 15.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 45,
+    "profit": 45,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 291.55,
+   "ebitda": 42.34,
+   "pat": 34.18,
+   "margin_pct": 14.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 66,
+    "profit": 74,
+    "quality": 92
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 5,
+  "concalls_read": 0,
+  "latest_concall": "2026-05-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

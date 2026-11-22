@@ -1,0 +1,97 @@
+{
+ "isin": "INE289C01025",
+ "sym": "TEAMGTY",
+ "name": "Team India Guaranty Limited",
+ "scrip": "511559",
+ "mcap_cr": 208.6,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.98,
+   "ebitda": 0.69,
+   "pat": 0.72,
+   "margin_pct": 70.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1.26,
+   "ebitda": 0.79,
+   "pat": 0.56,
+   "margin_pct": 62.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1.37,
+   "ebitda": 0.8,
+   "pat": 0.67,
+   "margin_pct": 58.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.36,
+   "ebitda": 0.44,
+   "pat": 0.17,
+   "margin_pct": 32.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1.56,
+   "ebitda": -0.64,
+   "pat": -0.69,
+   "margin_pct": -41.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2.83,
+   "ebitda": 0.74,
+   "pat": 0.94,
+   "margin_pct": 26.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE393P01035",
+ "sym": "DIAMONDYD",
+ "name": "Prataap Snacks Limited",
+ "scrip": "540724",
+ "mcap_cr": 2400.89,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 400.58,
+   "ebitda": 4.92,
+   "pat": -11.94,
+   "margin_pct": 1.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 411.0,
+   "ebitda": 18.01,
+   "pat": 0.69,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 431.89,
+   "ebitda": 23.67,
+   "pat": 4.64,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 461.58,
+   "ebitda": 17.96,
+   "pat": 3.25,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 420.18,
+   "ebitda": 20.59,
+   "pat": 1.14,
+   "margin_pct": 4.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 67,
+    "profit": 72,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 492.5,
+   "ebitda": 19.05,
+   "pat": 2.47,
+   "margin_pct": 3.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 47,
+    "profit": 30,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 543.93,
+   "ebitda": 12.88,
+   "pat": -2.75,
+   "margin_pct": 2.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 34,
+    "profit": 2,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

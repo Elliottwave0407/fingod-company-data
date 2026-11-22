@@ -1,0 +1,105 @@
+{
+ "isin": "INE323J01019",
+ "sym": "SOMICONVEY",
+ "name": "Somi Conveyor Beltings Limited",
+ "scrip": "533001",
+ "mcap_cr": 91.66,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 24.29,
+   "ebitda": 2.22,
+   "pat": 0.9,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 26.24,
+   "ebitda": 2.22,
+   "pat": 1.2,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 19.72,
+   "ebitda": 1.97,
+   "pat": 0.86,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 37.48,
+   "ebitda": 3.81,
+   "pat": 2.38,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 17.29,
+   "ebitda": 1.93,
+   "pat": 0.59,
+   "margin_pct": 11.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 8,
+    "profit": 61,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 15.62,
+   "ebitda": 1.5,
+   "pat": 0.6,
+   "margin_pct": 9.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 51,
+    "quality": 8
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

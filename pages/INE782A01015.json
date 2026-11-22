@@ -1,0 +1,105 @@
+{
+ "isin": "INE782A01015",
+ "sym": "BOSCH-HCIL",
+ "name": "BOSCH HOME COMFORT INDIA LIMITED",
+ "scrip": "523398",
+ "mcap_cr": 4897.35,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 932.57,
+   "ebitda": 91.7,
+   "pat": 56.07,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 852.63,
+   "ebitda": 33.13,
+   "pat": 15.25,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 405.14,
+   "ebitda": -45.71,
+   "pat": -39.96,
+   "margin_pct": -11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 475.57,
+   "ebitda": -8.82,
+   "pat": -19.03,
+   "margin_pct": -1.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 965.35,
+   "ebitda": 70.53,
+   "pat": 40.87,
+   "margin_pct": 7.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 18,
+    "profit": 11,
+    "quality": 24
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1095.52,
+   "ebitda": 40.93,
+   "pat": 22.79,
+   "margin_pct": 3.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 68,
+    "profit": 33,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

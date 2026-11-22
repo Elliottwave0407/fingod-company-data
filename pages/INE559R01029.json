@@ -1,0 +1,105 @@
+{
+ "isin": "INE559R01029",
+ "sym": "LANDMARK",
+ "name": "Landmark Cars Limited",
+ "scrip": "543714",
+ "mcap_cr": 1946.16,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1091.22,
+   "ebitda": 54.36,
+   "pat": 1.75,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1061.72,
+   "ebitda": 61.04,
+   "pat": 7.37,
+   "margin_pct": 5.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1210.92,
+   "ebitda": 54.26,
+   "pat": 1.5,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1345.08,
+   "ebitda": 71.77,
+   "pat": 14.18,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1278.52,
+   "ebitda": 74.16,
+   "pat": 15.03,
+   "margin_pct": 5.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 68,
+    "profit": 45,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1302.36,
+   "ebitda": 72.0,
+   "pat": 14.55,
+   "margin_pct": 5.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 60,
+    "profit": 34,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

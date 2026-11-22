@@ -1,0 +1,105 @@
+{
+ "isin": "INE772T01024",
+ "sym": "PVSL",
+ "name": "Popular Vehicles and Services Limited",
+ "scrip": "544144",
+ "mcap_cr": 630.1,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1372.36,
+   "ebitda": 25.81,
+   "pat": -13.72,
+   "margin_pct": 1.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1310.9,
+   "ebitda": 33.22,
+   "pat": -8.76,
+   "margin_pct": 2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1530.38,
+   "ebitda": 60.53,
+   "pat": 0.57,
+   "margin_pct": 4.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1785.36,
+   "ebitda": 50.16,
+   "pat": 0.67,
+   "margin_pct": 2.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1754.45,
+   "ebitda": 53.42,
+   "pat": -4.96,
+   "margin_pct": 3.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 85,
+    "profit": 46,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1889.58,
+   "ebitda": 57.92,
+   "pat": 1.37,
+   "margin_pct": 3.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 94,
+    "profit": 40,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-18"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

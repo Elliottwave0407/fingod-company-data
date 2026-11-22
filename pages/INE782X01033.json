@@ -1,0 +1,102 @@
+{
+ "isin": "INE782X01033",
+ "sym": "SERVOTECH",
+ "name": "Servotech Renewable Power System Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 146.28,
+   "ebitda": 12.21,
+   "pat": 7.72,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 136.74,
+   "ebitda": 10.41,
+   "pat": 4.55,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 106.49,
+   "ebitda": 6.29,
+   "pat": 0.4,
+   "margin_pct": 5.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 211.07,
+   "ebitda": 28.0,
+   "pat": 15.52,
+   "margin_pct": 13.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 217.33,
+   "ebitda": 22.53,
+   "pat": 11.21,
+   "margin_pct": 10.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 95,
+    "profit": 60,
+    "quality": 61
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 215.79,
+   "ebitda": 20.44,
+   "pat": 8.05,
+   "margin_pct": 9.5,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 99,
+    "profit": 58,
+    "quality": 58
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 9,
+  "latest_concall": "2026-07-28"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

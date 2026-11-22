@@ -1,0 +1,105 @@
+{
+ "isin": "INE976E01023",
+ "sym": "FOODSIN",
+ "name": "Foods & Inns Limited",
+ "scrip": "507552",
+ "mcap_cr": 309.64,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 397.33,
+   "ebitda": 47.77,
+   "pat": 22.93,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 236.15,
+   "ebitda": 24.4,
+   "pat": 7.1,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 192.51,
+   "ebitda": 17.59,
+   "pat": 0.67,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 150.47,
+   "ebitda": 16.92,
+   "pat": 0.43,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 288.89,
+   "ebitda": 39.91,
+   "pat": 19.49,
+   "margin_pct": 13.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 7,
+    "profit": 61,
+    "quality": 22
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 157.49,
+   "ebitda": 20.8,
+   "pat": 3.83,
+   "margin_pct": 13.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 6,
+    "profit": 71,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

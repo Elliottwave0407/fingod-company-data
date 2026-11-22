@@ -1,0 +1,115 @@
+{
+ "isin": "INE950I01011",
+ "sym": "DBCORP",
+ "name": "D.B.Corp Limited",
+ "scrip": "533151",
+ "mcap_cr": 2675.85,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 547.66,
+   "ebitda": 82.58,
+   "pat": 52.33,
+   "margin_pct": 15.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 559.45,
+   "ebitda": 110.62,
+   "pat": 80.84,
+   "margin_pct": 19.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 614.41,
+   "ebitda": 138.14,
+   "pat": 93.45,
+   "margin_pct": 22.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 605.27,
+   "ebitda": 135.16,
+   "pat": 95.51,
+   "margin_pct": 22.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 576.39,
+   "ebitda": 104.39,
+   "pat": 62.19,
+   "margin_pct": 18.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 76,
+    "quality": 54
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 603.74,
+   "ebitda": 136.42,
+   "pat": 100.72,
+   "margin_pct": 22.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 78,
+    "quality": 70
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 580.81,
+   "ebitda": 90.87,
+   "pat": 68.62,
+   "margin_pct": 15.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 10,
+    "profit": 13,
+    "quality": 39
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-10-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

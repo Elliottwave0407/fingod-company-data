@@ -1,0 +1,102 @@
+{
+ "isin": "INE642Y01029",
+ "sym": "HINDCON",
+ "name": "Hindcon Chemicals Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 15.44,
+   "ebitda": 1.04,
+   "pat": 0.55,
+   "margin_pct": 6.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 14.88,
+   "ebitda": 1.7,
+   "pat": 1.35,
+   "margin_pct": 11.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 15.32,
+   "ebitda": 0.75,
+   "pat": 0.72,
+   "margin_pct": 4.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 14.23,
+   "ebitda": 0.31,
+   "pat": 0.25,
+   "margin_pct": 2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 20.6,
+   "ebitda": 0.89,
+   "pat": 0.76,
+   "margin_pct": 4.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 45,
+    "profit": 10,
+    "quality": 70
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 21.29,
+   "ebitda": 3.06,
+   "pat": 2.34,
+   "margin_pct": 14.4,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 93,
+    "profit": 72,
+    "quality": 89
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

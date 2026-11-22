@@ -1,0 +1,101 @@
+{
+ "isin": "INE01KI01027",
+ "sym": "VINNY",
+ "name": "Vinny Overseas Limited",
+ "scrip": "543670",
+ "mcap_cr": 43.27,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 32.27,
+   "ebitda": 0.53,
+   "pat": 1.01,
+   "margin_pct": 1.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 25.42,
+   "ebitda": 1.14,
+   "pat": 0.29,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 32.98,
+   "ebitda": 1.07,
+   "pat": 0.01,
+   "margin_pct": 3.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 29.12,
+   "ebitda": 1.66,
+   "pat": 0.21,
+   "margin_pct": 5.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 37.1,
+   "ebitda": 1.51,
+   "pat": 0.42,
+   "margin_pct": 4.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 75,
+    "profit": 59,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 33.6,
+   "ebitda": 1.74,
+   "pat": 0.21,
+   "margin_pct": 5.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

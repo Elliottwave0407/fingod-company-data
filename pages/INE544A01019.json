@@ -1,0 +1,105 @@
+{
+ "isin": "INE544A01019",
+ "sym": "HARRMALAYA",
+ "name": "Harrisons  Malayalam Limited",
+ "scrip": "500467",
+ "mcap_cr": 273.32,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 136.71,
+   "ebitda": 6.58,
+   "pat": 5.19,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 116.46,
+   "ebitda": 8.2,
+   "pat": 5.96,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 134.4,
+   "ebitda": -0.68,
+   "pat": 6.42,
+   "margin_pct": -0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 141.09,
+   "ebitda": 8.77,
+   "pat": 7.64,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 147.13,
+   "ebitda": 8.59,
+   "pat": 9.11,
+   "margin_pct": 5.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 56,
+    "profit": 47,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 124.92,
+   "ebitda": 5.68,
+   "pat": 3.93,
+   "margin_pct": 4.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": 9,
+    "quality": 26
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

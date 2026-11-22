@@ -1,0 +1,107 @@
+{
+ "isin": "INE563J01010",
+ "sym": "ASTEC",
+ "name": "Astec LifeSciences Limited",
+ "scrip": "533138",
+ "mcap_cr": 1207.28,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 119.53,
+   "ebitda": 5.53,
+   "pat": -16.08,
+   "margin_pct": 4.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 91.08,
+   "ebitda": -11.0,
+   "pat": -33.03,
+   "margin_pct": -12.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 73.72,
+   "ebitda": -6.69,
+   "pat": -24.42,
+   "margin_pct": -9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 124.72,
+   "ebitda": 1.89,
+   "pat": -15.69,
+   "margin_pct": 1.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 158.62,
+   "ebitda": 9.16,
+   "pat": -7.75,
+   "margin_pct": 5.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 88,
+    "profit": 48,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 83.56,
+   "ebitda": -0.67,
+   "pat": -18.71,
+   "margin_pct": -0.8,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 72.02,
+   "ebitda": -19.8,
+   "pat": -37.4,
+   "margin_pct": -27.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

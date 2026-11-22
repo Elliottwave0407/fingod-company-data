@@ -1,0 +1,115 @@
+{
+ "isin": "INE949P01018",
+ "sym": "GENUSPAPER",
+ "name": "Genus Paper & Boards Limited",
+ "scrip": "538961",
+ "mcap_cr": 260.73,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 228.21,
+   "ebitda": 17.38,
+   "pat": -0.01,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 255.45,
+   "ebitda": 20.17,
+   "pat": 2.74,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 244.49,
+   "ebitda": 22.24,
+   "pat": 3.82,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 237.52,
+   "ebitda": 18.28,
+   "pat": 2.88,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 226.09,
+   "ebitda": 19.01,
+   "pat": 3.8,
+   "margin_pct": 8.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 33,
+    "profit": 47,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 218.72,
+   "ebitda": 18.96,
+   "pat": 3.52,
+   "margin_pct": 8.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 17,
+    "profit": 47,
+    "quality": 36
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 249.59,
+   "ebitda": 22.49,
+   "pat": 7.12,
+   "margin_pct": 9.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 28,
+    "profit": 38,
+    "quality": 51
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

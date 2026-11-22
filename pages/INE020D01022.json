@@ -1,0 +1,105 @@
+{
+ "isin": "INE020D01022",
+ "sym": "BAIDFIN",
+ "name": "Baid Finserv Limited",
+ "scrip": "511724",
+ "mcap_cr": 160.96,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 22.11,
+   "ebitda": 13.27,
+   "pat": 3.64,
+   "margin_pct": 60.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 23.78,
+   "ebitda": 13.47,
+   "pat": 4.02,
+   "margin_pct": 56.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 23.84,
+   "ebitda": 14.13,
+   "pat": 4.55,
+   "margin_pct": 59.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 24.63,
+   "ebitda": 13.79,
+   "pat": 4.75,
+   "margin_pct": 56.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 25.01,
+   "ebitda": 9.66,
+   "pat": 1.66,
+   "margin_pct": 38.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 25,
+    "profit": 20,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 21.65,
+   "ebitda": 13.57,
+   "pat": 4.34,
+   "margin_pct": 62.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 22,
+    "profit": 100,
+    "quality": 21
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 2,
+  "concalls_read": 2,
+  "latest_concall": "2024-08-24"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

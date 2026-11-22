@@ -1,0 +1,115 @@
+{
+ "isin": "INE0APB01032",
+ "sym": "MGEL",
+ "name": "Mangalam Global Enterprise Limited",
+ "scrip": "544273",
+ "mcap_cr": 589.25,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 536.73,
+   "ebitda": 8.38,
+   "pat": 5.19,
+   "margin_pct": 1.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 858.54,
+   "ebitda": 12.55,
+   "pat": 6.43,
+   "margin_pct": 1.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 705.8,
+   "ebitda": 22.11,
+   "pat": 17.8,
+   "margin_pct": 3.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 756.16,
+   "ebitda": 12.8,
+   "pat": 8.51,
+   "margin_pct": 1.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1063.96,
+   "ebitda": 24.19,
+   "pat": 12.48,
+   "margin_pct": 2.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 41,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 952.07,
+   "ebitda": 18.95,
+   "pat": 8.43,
+   "margin_pct": 2.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 68,
+    "profit": 39,
+    "quality": 49
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 982.56,
+   "ebitda": 22.53,
+   "pat": 9.25,
+   "margin_pct": 2.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 56,
+    "profit": 25,
+    "quality": 9
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

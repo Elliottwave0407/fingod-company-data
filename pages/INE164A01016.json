@@ -1,0 +1,105 @@
+{
+ "isin": "INE164A01016",
+ "sym": "BALMLAWRIE",
+ "name": "Balmer Lawrie & Company Limited",
+ "scrip": "523319",
+ "mcap_cr": 2842.08,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 608.16,
+   "ebitda": 94.62,
+   "pat": 73.51,
+   "margin_pct": 15.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 680.66,
+   "ebitda": 83.17,
+   "pat": 67.35,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 635.44,
+   "ebitda": 67.47,
+   "pat": 38.47,
+   "margin_pct": 10.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 656.99,
+   "ebitda": 86.25,
+   "pat": 64.98,
+   "margin_pct": 13.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 743.91,
+   "ebitda": 113.93,
+   "pat": 82.8,
+   "margin_pct": 15.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 62,
+    "profit": 42,
+    "quality": 59
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 748.73,
+   "ebitda": 99.83,
+   "pat": 70.93,
+   "margin_pct": 13.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 54,
+    "quality": 51
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

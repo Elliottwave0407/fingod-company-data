@@ -1,0 +1,101 @@
+{
+ "isin": "INE0TGX01019",
+ "sym": "CHEMBONDCH",
+ "name": "Chembond Chemicals Limited",
+ "scrip": "544450",
+ "mcap_cr": 633.95,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 65.38,
+   "ebitda": 8.41,
+   "pat": 6.27,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 73.04,
+   "ebitda": 10.68,
+   "pat": 7.19,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 86.35,
+   "ebitda": 12.35,
+   "pat": 9.71,
+   "margin_pct": 14.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 101.38,
+   "ebitda": 15.88,
+   "pat": 11.63,
+   "margin_pct": 15.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 86.48,
+   "ebitda": 11.33,
+   "pat": 9.55,
+   "margin_pct": 13.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 78,
+    "profit": 45,
+    "quality": 92
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 95.77,
+   "ebitda": 8.34,
+   "pat": 3.26,
+   "margin_pct": 8.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 41,
+    "profit": 7,
+    "quality": 8
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 3,
+  "concalls_read": 3,
+  "latest_concall": "2026-10-29"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

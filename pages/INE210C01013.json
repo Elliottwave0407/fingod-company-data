@@ -1,0 +1,97 @@
+{
+ "isin": "INE210C01013",
+ "sym": "AROGRANITE",
+ "name": "Aro Granite Industries Limited",
+ "scrip": "513729",
+ "mcap_cr": 35.8,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 26.81,
+   "ebitda": 0.7,
+   "pat": 0.02,
+   "margin_pct": 2.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 27.04,
+   "ebitda": 5.59,
+   "pat": 0.06,
+   "margin_pct": 20.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 20.27,
+   "ebitda": 0.45,
+   "pat": -2.49,
+   "margin_pct": 2.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 14.69,
+   "ebitda": -1.76,
+   "pat": -2.97,
+   "margin_pct": -12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 11.52,
+   "ebitda": -2.79,
+   "pat": -6.41,
+   "margin_pct": -24.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 20.62,
+   "ebitda": -2.66,
+   "pat": -7.45,
+   "margin_pct": -12.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

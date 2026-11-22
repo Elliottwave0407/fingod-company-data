@@ -1,0 +1,115 @@
+{
+ "isin": "INE435A01051",
+ "sym": "ANDHRAPAP",
+ "name": "ANDHRA PAPER LIMITED",
+ "scrip": "502330",
+ "mcap_cr": 1239.04,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 407.37,
+   "ebitda": 20.28,
+   "pat": 7.85,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 393.42,
+   "ebitda": 33.6,
+   "pat": 21.31,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 362.08,
+   "ebitda": -6.82,
+   "pat": -20.26,
+   "margin_pct": -1.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 418.69,
+   "ebitda": 15.4,
+   "pat": 9.85,
+   "margin_pct": 3.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 527.05,
+   "ebitda": 25.11,
+   "pat": 7.72,
+   "margin_pct": 4.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 69,
+    "profit": 34,
+    "quality": 10
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 393.77,
+   "ebitda": 48.79,
+   "pat": 30.32,
+   "margin_pct": 12.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 57,
+    "profit": 79,
+    "quality": 56
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 426.07,
+   "ebitda": 28.84,
+   "pat": 4.27,
+   "margin_pct": 6.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 56,
+    "profit": 85,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

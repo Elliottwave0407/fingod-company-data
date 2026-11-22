@@ -1,0 +1,115 @@
+{
+ "isin": "INE717W01049",
+ "sym": "GANDHAR",
+ "name": "Gandhar Oil Refinery (India) Limited",
+ "scrip": "544029",
+ "mcap_cr": 2451.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 961.73,
+   "ebitda": 33.58,
+   "pat": 12.29,
+   "margin_pct": 3.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 902.96,
+   "ebitda": 45.96,
+   "pat": 26.09,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1059.91,
+   "ebitda": 65.84,
+   "pat": 39.77,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1167.06,
+   "ebitda": 59.12,
+   "pat": 34.33,
+   "margin_pct": 5.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1093.37,
+   "ebitda": 63.55,
+   "pat": 37.05,
+   "margin_pct": 5.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 74,
+    "profit": 60,
+    "quality": 74
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1731.93,
+   "ebitda": 281.32,
+   "pat": 205.9,
+   "margin_pct": 16.2,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 93,
+    "quality": 86
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 1846.56,
+   "ebitda": 266.39,
+   "pat": 186.28,
+   "margin_pct": 14.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 92,
+    "quality": 83
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 7,
+  "concalls_read": 7,
+  "latest_concall": "2026-07-28"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

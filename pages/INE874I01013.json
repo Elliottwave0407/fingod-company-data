@@ -1,0 +1,105 @@
+{
+ "isin": "INE874I01013",
+ "sym": "RAMKY",
+ "name": "Ramky Infrastructure Limited",
+ "scrip": "533262",
+ "mcap_cr": 2659.96,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 488.89,
+   "ebitda": 1.81,
+   "pat": -3.3,
+   "margin_pct": 0.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 379.24,
+   "ebitda": 75.82,
+   "pat": 77.04,
+   "margin_pct": 20.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 471.64,
+   "ebitda": 82.71,
+   "pat": 75.63,
+   "margin_pct": 17.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 488.92,
+   "ebitda": 75.92,
+   "pat": 78.0,
+   "margin_pct": 15.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 506.68,
+   "ebitda": 55.26,
+   "pat": 52.11,
+   "margin_pct": 10.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 66,
+    "profit": 89,
+    "quality": 100
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 471.23,
+   "ebitda": 28.58,
+   "pat": 38.8,
+   "margin_pct": 6.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 33,
+    "profit": 5,
+    "quality": 40
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2025-11-25"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,101 @@
+{
+ "isin": "INE06XZ01023",
+ "sym": "GEMAROMA",
+ "name": "Gem Aromatics Limited",
+ "scrip": "544491",
+ "mcap_cr": 722.44,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 87.63,
+   "ebitda": 14.86,
+   "pat": 7.98,
+   "margin_pct": 17.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 89.53,
+   "ebitda": 3.05,
+   "pat": -2.58,
+   "margin_pct": 3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 78.9,
+   "ebitda": 7.02,
+   "pat": -4.99,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 110.41,
+   "ebitda": 15.71,
+   "pat": 1.01,
+   "margin_pct": 14.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 98.85,
+   "ebitda": 3.31,
+   "pat": -7.87,
+   "margin_pct": 3.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 24,
+    "profit": 3,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 104.0,
+   "ebitda": 7.86,
+   "pat": -7.01,
+   "margin_pct": 7.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 77,
+    "profit": 78,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-08-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

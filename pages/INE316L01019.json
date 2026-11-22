@@ -1,0 +1,105 @@
+{
+ "isin": "INE316L01019",
+ "sym": "BHARATWIRE",
+ "name": "Bharat Wire Ropes Limited",
+ "scrip": "539799",
+ "mcap_cr": 992.54,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 171.83,
+   "ebitda": 37.1,
+   "pat": 20.65,
+   "margin_pct": 21.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 141.65,
+   "ebitda": 30.11,
+   "pat": 15.61,
+   "margin_pct": 21.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 164.59,
+   "ebitda": 38.43,
+   "pat": 22.14,
+   "margin_pct": 23.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 142.82,
+   "ebitda": 32.57,
+   "pat": 18.25,
+   "margin_pct": 22.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 141.48,
+   "ebitda": 29.64,
+   "pat": 16.46,
+   "margin_pct": 20.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 9,
+    "profit": 42,
+    "quality": 25
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 130.39,
+   "ebitda": 25.53,
+   "pat": 12.23,
+   "margin_pct": 19.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 15,
+    "profit": 30,
+    "quality": 18
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-05-08"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

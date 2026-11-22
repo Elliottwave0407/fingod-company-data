@@ -1,0 +1,105 @@
+{
+ "isin": "INE545L01039",
+ "sym": "MANCREDIT",
+ "name": "Mangal Credit and Fincorp Limited",
+ "scrip": "505850",
+ "mcap_cr": 545.37,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 13.37,
+   "ebitda": 9.57,
+   "pat": 2.62,
+   "margin_pct": 71.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 14.47,
+   "ebitda": 10.81,
+   "pat": 3.0,
+   "margin_pct": 74.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 15.82,
+   "ebitda": 11.49,
+   "pat": 2.99,
+   "margin_pct": 72.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 18.31,
+   "ebitda": 14.2,
+   "pat": 3.83,
+   "margin_pct": 77.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 21.3,
+   "ebitda": 17.33,
+   "pat": 5.48,
+   "margin_pct": 81.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 51
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 22.16,
+   "ebitda": 18.18,
+   "pat": 5.69,
+   "margin_pct": 82.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 97,
+    "profit": 100,
+    "quality": 51
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

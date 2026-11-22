@@ -1,0 +1,105 @@
+{
+ "isin": "INE08PH01015",
+ "sym": "ABCOTS",
+ "name": "A B Cotspin India Limited",
+ "scrip": "544522",
+ "mcap_cr": 352.74,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 85.07,
+   "ebitda": 7.39,
+   "pat": 2.11,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 66.69,
+   "ebitda": 9.98,
+   "pat": 4.18,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 50.74,
+   "ebitda": 11.25,
+   "pat": 3.62,
+   "margin_pct": 22.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 77.23,
+   "ebitda": 9.42,
+   "pat": 3.27,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 104.22,
+   "ebitda": 8.94,
+   "pat": 1.96,
+   "margin_pct": 8.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 62,
+    "profit": 38,
+    "quality": 10
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 101.0,
+   "ebitda": 12.02,
+   "pat": 5.11,
+   "margin_pct": 11.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 77,
+    "profit": 10,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

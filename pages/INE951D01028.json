@@ -1,0 +1,115 @@
+{
+ "isin": "INE951D01028",
+ "sym": "ATULAUTO",
+ "name": "Atul Auto Limited",
+ "scrip": "531795",
+ "mcap_cr": 1097.15,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 210.98,
+   "ebitda": 15.11,
+   "pat": 5.89,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 152.78,
+   "ebitda": 10.01,
+   "pat": 2.06,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 200.17,
+   "ebitda": 18.51,
+   "pat": 8.27,
+   "margin_pct": 9.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 230.86,
+   "ebitda": 26.89,
+   "pat": 14.58,
+   "margin_pct": 11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 240.58,
+   "ebitda": 27.31,
+   "pat": 18.32,
+   "margin_pct": 11.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 75,
+    "profit": 82,
+    "quality": 81
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 218.43,
+   "ebitda": 16.87,
+   "pat": 8.04,
+   "margin_pct": 7.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 93,
+    "profit": 50,
+    "quality": 65
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 268.31,
+   "ebitda": 13.96,
+   "pat": 6.84,
+   "margin_pct": 5.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 42,
+    "profit": 4,
+    "quality": 21
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

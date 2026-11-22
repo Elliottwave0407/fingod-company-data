@@ -1,0 +1,102 @@
+{
+ "isin": "INE364Z01019",
+ "sym": "REPL",
+ "name": "Rudrabhishek Enterprises Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 36.68,
+   "ebitda": 3.23,
+   "pat": 1.73,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 19.73,
+   "ebitda": 3.94,
+   "pat": 2.49,
+   "margin_pct": 20.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 21.59,
+   "ebitda": 2.24,
+   "pat": 0.95,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 21.11,
+   "ebitda": -0.08,
+   "pat": -1.56,
+   "margin_pct": -0.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 20.88,
+   "ebitda": -15.11,
+   "pat": -13.38,
+   "margin_pct": -72.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -58,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 9.92,
+   "ebitda": 1.34,
+   "pat": 0.53,
+   "margin_pct": 13.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 11,
+    "quality": 6
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

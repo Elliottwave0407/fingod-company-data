@@ -1,0 +1,105 @@
+{
+ "isin": "INE0V3U01015",
+ "sym": "GLOBECIVIL",
+ "name": "Globe Civil Projects Limited",
+ "scrip": "544424",
+ "mcap_cr": 221.44,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 123.92,
+   "ebitda": 14.29,
+   "pat": 6.26,
+   "margin_pct": 11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 67.35,
+   "ebitda": 11.53,
+   "pat": 5.05,
+   "margin_pct": 17.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 93.76,
+   "ebitda": 12.97,
+   "pat": 5.97,
+   "margin_pct": 13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 101.43,
+   "ebitda": 14.15,
+   "pat": 6.52,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 143.18,
+   "ebitda": 15.16,
+   "pat": 5.76,
+   "margin_pct": 10.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 44,
+    "profit": 30,
+    "quality": 16
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 92.3,
+   "ebitda": 15.18,
+   "pat": 7.09,
+   "margin_pct": 16.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 79,
+    "profit": 38,
+    "quality": 56
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-08-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE157H01023",
+ "sym": "KMSUGAR",
+ "name": "K.M.Sugar Mills Limited",
+ "scrip": "532673",
+ "mcap_cr": 300.1,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 153.26,
+   "ebitda": 23.63,
+   "pat": 11.06,
+   "margin_pct": 15.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 208.23,
+   "ebitda": 26.04,
+   "pat": 13.13,
+   "margin_pct": 12.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 175.08,
+   "ebitda": 18.31,
+   "pat": 10.46,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 169.08,
+   "ebitda": 22.64,
+   "pat": 20.59,
+   "margin_pct": 13.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 105.99,
+   "ebitda": 19.77,
+   "pat": 9.24,
+   "margin_pct": 18.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 6,
+    "profit": 78,
+    "quality": 20
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 189.93,
+   "ebitda": 15.78,
+   "pat": 7.83,
+   "margin_pct": 8.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 9,
+    "profit": 7,
+    "quality": 16
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,98 @@
+{
+ "isin": "INE850E01012",
+ "sym": "LFIC",
+ "name": "Lakshmi Finance & Industrial Corporation Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1.69,
+   "ebitda": -4.74,
+   "pat": -2.64,
+   "margin_pct": -280.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 5.46,
+   "ebitda": 5.06,
+   "pat": 3.74,
+   "margin_pct": 92.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1.47,
+   "ebitda": -1.62,
+   "pat": -1.24,
+   "margin_pct": -110.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 2.44,
+   "ebitda": 1.97,
+   "pat": 1.34,
+   "margin_pct": 80.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 4.0,
+   "ebitda": -2.68,
+   "pat": -0.77,
+   "margin_pct": -67.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 6.13,
+   "ebitda": 5.68,
+   "pat": 4.04,
+   "margin_pct": 92.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 46,
+    "profit": 52,
+    "quality": 54
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

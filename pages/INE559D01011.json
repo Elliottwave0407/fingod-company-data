@@ -1,0 +1,105 @@
+{
+ "isin": "INE559D01011",
+ "sym": "CREST",
+ "name": "Crest Ventures Limited",
+ "scrip": "511413",
+ "mcap_cr": 1035.57,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 47.56,
+   "ebitda": 20.22,
+   "pat": 7.92,
+   "margin_pct": 42.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 63.11,
+   "ebitda": 42.42,
+   "pat": 25.95,
+   "margin_pct": 67.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 29.54,
+   "ebitda": 11.86,
+   "pat": 3.73,
+   "margin_pct": 40.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 35.26,
+   "ebitda": 20.64,
+   "pat": 11.31,
+   "margin_pct": 58.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 31.98,
+   "ebitda": 16.8,
+   "pat": 8.55,
+   "margin_pct": 52.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 5,
+    "profit": 100,
+    "quality": 37
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 30.24,
+   "ebitda": 22.04,
+   "pat": 11.47,
+   "margin_pct": 72.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 100,
+    "quality": 18
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

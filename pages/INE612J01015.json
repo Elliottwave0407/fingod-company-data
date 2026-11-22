@@ -1,0 +1,105 @@
+{
+ "isin": "INE612J01015",
+ "sym": "REPCOHOME",
+ "name": "Repco Home Finance Limited",
+ "scrip": "535322",
+ "mcap_cr": 2359.81,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 426.15,
+   "ebitda": 398.2,
+   "pat": 120.65,
+   "margin_pct": 93.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 435.51,
+   "ebitda": 392.91,
+   "pat": 115.14,
+   "margin_pct": 90.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 441.29,
+   "ebitda": 390.34,
+   "pat": 109.66,
+   "margin_pct": 88.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 456.93,
+   "ebitda": 407.97,
+   "pat": 115.44,
+   "margin_pct": 89.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 453.52,
+   "ebitda": 404.63,
+   "pat": 135.18,
+   "margin_pct": 89.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 32,
+    "profit": 20,
+    "quality": 26
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 467.7,
+   "ebitda": 409.21,
+   "pat": 121.62,
+   "margin_pct": 87.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 35,
+    "profit": 23,
+    "quality": 17
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

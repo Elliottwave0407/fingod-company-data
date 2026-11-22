@@ -1,0 +1,115 @@
+{
+ "isin": "INE489G01022",
+ "sym": "ANUHPHR",
+ "name": "Anuh Pharma Limited",
+ "scrip": "506260",
+ "mcap_cr": 795.58,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 198.14,
+   "ebitda": 18.67,
+   "pat": 12.46,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 186.48,
+   "ebitda": 10.29,
+   "pat": 8.3,
+   "margin_pct": 5.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 185.88,
+   "ebitda": 11.88,
+   "pat": 7.61,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 197.18,
+   "ebitda": 16.8,
+   "pat": 13.45,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 202.12,
+   "ebitda": 19.88,
+   "pat": 11.68,
+   "margin_pct": 9.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 32,
+    "profit": 44,
+    "quality": 34
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 193.81,
+   "ebitda": 16.28,
+   "pat": 11.42,
+   "margin_pct": 8.4,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 65,
+    "profit": 67,
+    "quality": 74
+   },
+   "capped_by": "revenue growth under 10%"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 185.24,
+   "ebitda": 16.94,
+   "pat": 11.21,
+   "margin_pct": 9.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 55,
+    "profit": 66,
+    "quality": 75
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE156C01018",
+ "sym": "PIONEEREMB",
+ "name": "Pioneer Embroideries Limited",
+ "scrip": "514300",
+ "mcap_cr": 61.0,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 88.75,
+   "ebitda": 4.06,
+   "pat": 1.34,
+   "margin_pct": 4.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 86.12,
+   "ebitda": 7.74,
+   "pat": 1.06,
+   "margin_pct": 9.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 82.69,
+   "ebitda": 0.76,
+   "pat": -3.8,
+   "margin_pct": 0.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 81.21,
+   "ebitda": 4.21,
+   "pat": -0.83,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 86.03,
+   "ebitda": 5.32,
+   "pat": 4.16,
+   "margin_pct": 6.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 49,
+    "profit": 53,
+    "quality": 72
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 96.7,
+   "ebitda": 3.93,
+   "pat": 0.12,
+   "margin_pct": 4.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 23,
+    "profit": 3,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

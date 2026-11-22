@@ -1,0 +1,115 @@
+{
+ "isin": "INE882A01013",
+ "sym": "MARALOVER",
+ "name": "Maral Overseas Limited",
+ "scrip": "521018",
+ "mcap_cr": 238.17,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 274.7,
+   "ebitda": 10.41,
+   "pat": -0.23,
+   "margin_pct": 3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 225.5,
+   "ebitda": 1.63,
+   "pat": -12.57,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 249.7,
+   "ebitda": 9.08,
+   "pat": -2.78,
+   "margin_pct": 3.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 247.45,
+   "ebitda": 18.79,
+   "pat": 5.3,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 258.22,
+   "ebitda": 18.29,
+   "pat": 13.31,
+   "margin_pct": 7.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 60,
+    "profit": 70,
+    "quality": 57
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 263.21,
+   "ebitda": 16.72,
+   "pat": 5.98,
+   "margin_pct": 6.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 77,
+    "profit": 85,
+    "quality": 8
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 301.3,
+   "ebitda": 18.16,
+   "pat": 7.0,
+   "margin_pct": 6.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 80,
+    "profit": 60,
+    "quality": 11
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

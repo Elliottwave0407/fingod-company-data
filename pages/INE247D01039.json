@@ -1,0 +1,105 @@
+{
+ "isin": "INE247D01039",
+ "sym": "JINDWORLD",
+ "name": "Jindal Worldwide Limited",
+ "scrip": "531543",
+ "mcap_cr": 3970.3,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 605.53,
+   "ebitda": 49.0,
+   "pat": 22.02,
+   "margin_pct": 8.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 539.9,
+   "ebitda": 40.34,
+   "pat": 17.44,
+   "margin_pct": 7.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 573.34,
+   "ebitda": 31.93,
+   "pat": 11.91,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 532.12,
+   "ebitda": 22.22,
+   "pat": 14.32,
+   "margin_pct": 4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 640.18,
+   "ebitda": 41.21,
+   "pat": 26.13,
+   "margin_pct": 6.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 23,
+    "profit": 19,
+    "quality": 57
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 554.72,
+   "ebitda": 30.12,
+   "pat": 32.41,
+   "margin_pct": 5.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 17,
+    "profit": 15,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE834I01025",
+ "sym": "KHADIM",
+ "name": "Khadim India Limited",
+ "scrip": "540775",
+ "mcap_cr": 213.56,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 93.8,
+   "ebitda": 15.92,
+   "pat": 0.92,
+   "margin_pct": 17.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 95.7,
+   "ebitda": 12.32,
+   "pat": 0.85,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 101.6,
+   "ebitda": 13.8,
+   "pat": 1.67,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 86.24,
+   "ebitda": 9.24,
+   "pat": -0.18,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 83.56,
+   "ebitda": 11.89,
+   "pat": 0.75,
+   "margin_pct": 14.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 10,
+    "profit": 14,
+    "quality": 4
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 77.84,
+   "ebitda": 7.82,
+   "pat": 0.52,
+   "margin_pct": 10.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 5,
+    "profit": 10,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-06-01"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,102 @@
+{
+ "isin": "INE01II01013",
+ "sym": "SILGO",
+ "name": "Silgo Retail Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 16.53,
+   "ebitda": 2.56,
+   "pat": 1.74,
+   "margin_pct": 15.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 10.97,
+   "ebitda": 1.5,
+   "pat": 1.11,
+   "margin_pct": 13.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 11.65,
+   "ebitda": 2.04,
+   "pat": 1.41,
+   "margin_pct": 17.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 11.04,
+   "ebitda": 1.83,
+   "pat": 1.27,
+   "margin_pct": 16.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 13.38,
+   "ebitda": 3.4,
+   "pat": 1.9,
+   "margin_pct": 25.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 43,
+    "profit": 100,
+    "quality": 42
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 12.15,
+   "ebitda": 3.94,
+   "pat": 2.14,
+   "margin_pct": 32.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 72,
+    "profit": 100,
+    "quality": 70
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

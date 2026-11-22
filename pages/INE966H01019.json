@@ -1,0 +1,101 @@
+{
+ "isin": "INE966H01019",
+ "sym": "ZEEMEDIA",
+ "name": "Zee Media Corporation Limited",
+ "scrip": "532794",
+ "mcap_cr": 460.77,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 155.8,
+   "ebitda": -19.33,
+   "pat": -36.75,
+   "margin_pct": -12.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 182.36,
+   "ebitda": 19.78,
+   "pat": -8.82,
+   "margin_pct": 10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 178.72,
+   "ebitda": 17.1,
+   "pat": -15.53,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 240.32,
+   "ebitda": 78.18,
+   "pat": 52.77,
+   "margin_pct": 32.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 157.78,
+   "ebitda": -14.14,
+   "pat": -26.53,
+   "margin_pct": -9.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 190.85,
+   "ebitda": 16.26,
+   "pat": -12.12,
+   "margin_pct": 8.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 22,
+    "profit": 14,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

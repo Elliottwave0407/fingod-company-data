@@ -1,0 +1,105 @@
+{
+ "isin": "INE781B01015",
+ "sym": "NOIDATOLL",
+ "name": "Noida Toll Bridge Company Limited",
+ "scrip": "532481",
+ "mcap_cr": 69.45,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 10.44,
+   "ebitda": 3.7,
+   "pat": 4.06,
+   "margin_pct": 35.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 10.52,
+   "ebitda": 3.73,
+   "pat": 4.14,
+   "margin_pct": 35.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 10.52,
+   "ebitda": 2.71,
+   "pat": 3.77,
+   "margin_pct": 25.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 10.59,
+   "ebitda": 3.03,
+   "pat": 15.48,
+   "margin_pct": 28.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 11.24,
+   "ebitda": 2.56,
+   "pat": 3.85,
+   "margin_pct": 22.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": 18,
+    "quality": 60
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 11.38,
+   "ebitda": 4.1,
+   "pat": 5.33,
+   "margin_pct": 36.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 40,
+    "profit": 58,
+    "quality": 86
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2025-01-22"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

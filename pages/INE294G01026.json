@@ -1,0 +1,105 @@
+{
+ "isin": "INE294G01026",
+ "sym": "ROML",
+ "name": "Raj Oil Mills Limited",
+ "scrip": "533093",
+ "mcap_cr": 64.91,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 32.21,
+   "ebitda": 2.0,
+   "pat": 1.31,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 33.6,
+   "ebitda": 2.07,
+   "pat": 1.41,
+   "margin_pct": 6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 40.24,
+   "ebitda": 2.13,
+   "pat": 1.53,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 35.9,
+   "ebitda": 1.65,
+   "pat": 1.22,
+   "margin_pct": 4.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 41.63,
+   "ebitda": 1.1,
+   "pat": 0.51,
+   "margin_pct": 2.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 36,
+    "profit": 2,
+    "quality": 14
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 35.56,
+   "ebitda": 1.83,
+   "pat": 1.11,
+   "margin_pct": 5.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": 25,
+    "quality": 29
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

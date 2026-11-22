@@ -1,0 +1,105 @@
+{
+ "isin": "INE745B01028",
+ "sym": "KHAICHEM",
+ "name": "Khaitan Chemicals & Fertilizers Limited",
+ "scrip": "507794",
+ "mcap_cr": 455.95,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 160.68,
+   "ebitda": 10.58,
+   "pat": 8.63,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 234.32,
+   "ebitda": 31.72,
+   "pat": 21.41,
+   "margin_pct": 13.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 308.6,
+   "ebitda": 31.1,
+   "pat": 21.48,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 265.73,
+   "ebitda": 32.55,
+   "pat": 20.44,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 192.97,
+   "ebitda": 17.65,
+   "pat": 1.26,
+   "margin_pct": 9.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 80,
+    "profit": 65,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 220.94,
+   "ebitda": 23.58,
+   "pat": 10.91,
+   "margin_pct": 10.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 12,
+    "profit": 10,
+    "quality": 14
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

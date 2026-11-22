@@ -1,0 +1,105 @@
+{
+ "isin": "INE0CG401037",
+ "sym": "MUKKA",
+ "name": "Mukka Proteins Limited",
+ "scrip": "544135",
+ "mcap_cr": 741.6,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 381.57,
+   "ebitda": 29.17,
+   "pat": 14.0,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 170.77,
+   "ebitda": 14.56,
+   "pat": 1.59,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 244.58,
+   "ebitda": 20.71,
+   "pat": 6.88,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 653.5,
+   "ebitda": 45.44,
+   "pat": 27.25,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 380.6,
+   "ebitda": 33.86,
+   "pat": 21.36,
+   "margin_pct": 8.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 39,
+    "profit": 52,
+    "quality": 60
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 489.65,
+   "ebitda": 47.98,
+   "pat": 18.63,
+   "margin_pct": 9.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 53,
+    "quality": 57
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

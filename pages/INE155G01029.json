@@ -1,0 +1,97 @@
+{
+ "isin": "INE155G01029",
+ "sym": "NDTV",
+ "name": "New Delhi Television Limited",
+ "scrip": "532529",
+ "mcap_cr": 720.16,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 127.05,
+   "ebitda": -48.53,
+   "pat": -61.97,
+   "margin_pct": -38.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 107.65,
+   "ebitda": -57.62,
+   "pat": -70.31,
+   "margin_pct": -53.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 150.41,
+   "ebitda": -66.74,
+   "pat": -80.25,
+   "margin_pct": -44.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 147.96,
+   "ebitda": -84.56,
+   "pat": -98.57,
+   "margin_pct": -57.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 117.23,
+   "ebitda": -67.74,
+   "pat": -81.88,
+   "margin_pct": -57.8,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 129.47,
+   "ebitda": -50.44,
+   "pat": -63.51,
+   "margin_pct": -39.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-25",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

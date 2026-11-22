@@ -1,0 +1,105 @@
+{
+ "isin": "INE0PA801013",
+ "sym": "GHCLTEXTIL",
+ "name": "Ghcl Textiles Limited",
+ "scrip": "543918",
+ "mcap_cr": 1376.44,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 283.61,
+   "ebitda": 30.77,
+   "pat": 14.2,
+   "margin_pct": 10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 267.75,
+   "ebitda": 30.0,
+   "pat": 13.52,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 338.04,
+   "ebitda": 36.81,
+   "pat": 16.01,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 349.12,
+   "ebitda": 31.91,
+   "pat": 13.18,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 363.69,
+   "ebitda": 41.19,
+   "pat": 27.66,
+   "margin_pct": 11.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 75,
+    "profit": 46,
+    "quality": 81
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 408.94,
+   "ebitda": 69.12,
+   "pat": 39.35,
+   "margin_pct": 16.9,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 97,
+    "profit": 94,
+    "quality": 72
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE572G01025",
+ "sym": "LANCORHOL",
+ "name": "Lancor Holdings Limited",
+ "scrip": "509048",
+ "mcap_cr": 198.66,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 51.61,
+   "ebitda": 7.13,
+   "pat": 0.03,
+   "margin_pct": 13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 41.19,
+   "ebitda": 6.4,
+   "pat": 0.12,
+   "margin_pct": 15.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 33.75,
+   "ebitda": 2.41,
+   "pat": -2.52,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 38.48,
+   "ebitda": 5.86,
+   "pat": -0.19,
+   "margin_pct": 15.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 17.86,
+   "ebitda": -14.17,
+   "pat": 43.05,
+   "margin_pct": -79.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -63,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 44.67,
+   "ebitda": 7.87,
+   "pat": 17.25,
+   "margin_pct": 17.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 52,
+    "profit": 67,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,97 @@
+{
+ "isin": "INE749B01020",
+ "sym": "ORTINGLOBE",
+ "name": "ORTIN GLOBAL LIMITED",
+ "scrip": "539287",
+ "mcap_cr": 10.55,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.05,
+   "ebitda": -0.2,
+   "pat": -0.16,
+   "margin_pct": -400.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.04,
+   "ebitda": -0.2,
+   "pat": -0.18,
+   "margin_pct": -500.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 0.01,
+   "ebitda": -0.5,
+   "pat": -0.5,
+   "margin_pct": -5000.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 0.01,
+   "ebitda": -0.05,
+   "pat": -0.05,
+   "margin_pct": -500.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 0.03,
+   "ebitda": -0.28,
+   "pat": -0.01,
+   "margin_pct": -933.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.01,
+   "ebitda": -0.33,
+   "pat": -0.34,
+   "margin_pct": -3300.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE163A01018",
+ "sym": "NOCIL",
+ "name": "NOCIL Limited",
+ "scrip": "500730",
+ "mcap_cr": 2281.56,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 339.69,
+   "ebitda": 34.2,
+   "pat": 20.79,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 336.22,
+   "ebitda": 30.58,
+   "pat": 17.26,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 320.56,
+   "ebitda": 22.32,
+   "pat": 12.12,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 315.84,
+   "ebitda": 21.43,
+   "pat": 9.25,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 330.35,
+   "ebitda": 21.05,
+   "pat": 17.0,
+   "margin_pct": 6.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 11,
+    "profit": 5,
+    "quality": 38
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 403.02,
+   "ebitda": 45.22,
+   "pat": 27.76,
+   "margin_pct": 11.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 75,
+    "profit": 62,
+    "quality": 76
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 426.89,
+   "ebitda": 36.0,
+   "pat": 24.05,
+   "margin_pct": 8.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 89,
+    "profit": 53,
+    "quality": 81
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE107F01022",
+ "sym": "WANBURY",
+ "name": "Wanbury Limited",
+ "scrip": "524212",
+ "mcap_cr": 626.78,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 172.0,
+   "ebitda": 29.62,
+   "pat": 20.26,
+   "margin_pct": 17.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 163.18,
+   "ebitda": 24.44,
+   "pat": 13.49,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 160.06,
+   "ebitda": 25.78,
+   "pat": 15.18,
+   "margin_pct": 16.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 162.45,
+   "ebitda": 26.69,
+   "pat": 15.76,
+   "margin_pct": 16.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 164.58,
+   "ebitda": 26.25,
+   "pat": 21.7,
+   "margin_pct": 15.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 18,
+    "profit": 31,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 165.58,
+   "ebitda": 16.24,
+   "pat": 3.24,
+   "margin_pct": 9.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 14,
+    "profit": 8,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

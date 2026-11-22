@@ -1,0 +1,97 @@
+{
+ "isin": "INE748A01024",
+ "sym": "MBECL",
+ "name": "Mcnally Bharat Engineering Company Limited",
+ "scrip": "532629",
+ "mcap_cr": 932.33,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 30.38,
+   "ebitda": -800.85,
+   "pat": -998.97,
+   "margin_pct": -2636.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 14.92,
+   "ebitda": -16.78,
+   "pat": -230.26,
+   "margin_pct": -112.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 18.45,
+   "ebitda": 3806.99,
+   "pat": 3810.17,
+   "margin_pct": 20634.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 24.92,
+   "ebitda": -60.1,
+   "pat": -61.23,
+   "margin_pct": -241.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 15.23,
+   "ebitda": -59.04,
+   "pat": -69.13,
+   "margin_pct": -387.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 15.05,
+   "ebitda": -21.78,
+   "pat": -25.27,
+   "margin_pct": -144.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

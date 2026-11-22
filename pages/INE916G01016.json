@@ -1,0 +1,105 @@
+{
+ "isin": "INE916G01016",
+ "sym": "GEECEE",
+ "name": "GeeCee Ventures Limited",
+ "scrip": "532764",
+ "mcap_cr": 750.73,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 15.8,
+   "ebitda": 4.49,
+   "pat": 3.89,
+   "margin_pct": 28.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 7.63,
+   "ebitda": 4.09,
+   "pat": 3.33,
+   "margin_pct": 53.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 17.67,
+   "ebitda": 12.24,
+   "pat": 10.23,
+   "margin_pct": 69.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 16.33,
+   "ebitda": 6.89,
+   "pat": 4.93,
+   "margin_pct": 42.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 33.18,
+   "ebitda": 28.96,
+   "pat": 22.03,
+   "margin_pct": 87.3,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 88
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 36.93,
+   "ebitda": 11.82,
+   "pat": 8.41,
+   "margin_pct": 32.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 20,
+    "quality": 84
+   },
+   "capped_by": "margin down over 2 pts YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

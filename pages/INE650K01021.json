@@ -1,0 +1,97 @@
+{
+ "isin": "INE650K01021",
+ "sym": "SECURKLOUD",
+ "name": "SECUREKLOUD TECHNOLOGIES LIMITED",
+ "scrip": "512161",
+ "mcap_cr": 43.87,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 35.96,
+   "ebitda": -5.99,
+   "pat": -12.1,
+   "margin_pct": -16.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 11.02,
+   "ebitda": -138.34,
+   "pat": -140.13,
+   "margin_pct": -1255.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 33.8,
+   "ebitda": -18.96,
+   "pat": -15.32,
+   "margin_pct": -56.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 9.61,
+   "ebitda": -1.18,
+   "pat": -2.14,
+   "margin_pct": -12.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 8.55,
+   "ebitda": -3.82,
+   "pat": -7.2,
+   "margin_pct": -44.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 13.51,
+   "ebitda": -0.84,
+   "pat": -1.68,
+   "margin_pct": -6.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE0OV601013",
+ "sym": "EMSLIMITED",
+ "name": "Ems Limited",
+ "scrip": "543983",
+ "mcap_cr": 1676.2,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 265.83,
+   "ebitda": 60.84,
+   "pat": 46.92,
+   "margin_pct": 22.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 238.89,
+   "ebitda": 54.11,
+   "pat": 38.06,
+   "margin_pct": 22.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 172.47,
+   "ebitda": 36.16,
+   "pat": 28.14,
+   "margin_pct": 21.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 200.35,
+   "ebitda": 30.74,
+   "pat": 19.28,
+   "margin_pct": 15.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 120.5,
+   "ebitda": 18.31,
+   "pat": 5.71,
+   "margin_pct": 15.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 12,
+    "quality": 1
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 157.24,
+   "ebitda": 26.04,
+   "pat": 15.49,
+   "margin_pct": 16.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 13,
+    "quality": 25
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 8,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

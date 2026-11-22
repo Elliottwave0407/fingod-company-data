@@ -1,0 +1,105 @@
+{
+ "isin": "INE0H5O01029",
+ "sym": "WINDLAS",
+ "name": "Windlas Biotech Limited",
+ "scrip": "543329",
+ "mcap_cr": 2034.99,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 202.71,
+   "ebitda": 25.55,
+   "pat": 16.28,
+   "margin_pct": 12.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 210.09,
+   "ebitda": 26.53,
+   "pat": 17.66,
+   "margin_pct": 12.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 222.4,
+   "ebitda": 28.56,
+   "pat": 17.8,
+   "margin_pct": 12.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 233.1,
+   "ebitda": 24.38,
+   "pat": 15.0,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 238.5,
+   "ebitda": 25.29,
+   "pat": 15.99,
+   "margin_pct": 10.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 40,
+    "profit": 19,
+    "quality": 39
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 248.1,
+   "ebitda": 26.69,
+   "pat": 17.65,
+   "margin_pct": 10.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 41,
+    "profit": 21,
+    "quality": 43
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-13"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

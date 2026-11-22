@@ -1,0 +1,105 @@
+{
+ "isin": "INE024D01016",
+ "sym": "PRUDMOULI",
+ "name": "Prudential Sugar Corporation Limited",
+ "scrip": "500342",
+ "mcap_cr": 42.86,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 6.94,
+   "ebitda": -0.76,
+   "pat": 1.09,
+   "margin_pct": -11.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 5.21,
+   "ebitda": -0.43,
+   "pat": 1.4,
+   "margin_pct": -8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 9.04,
+   "ebitda": -0.16,
+   "pat": 1.1,
+   "margin_pct": -1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 66.66,
+   "ebitda": 0.34,
+   "pat": 1.77,
+   "margin_pct": 0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 10.39,
+   "ebitda": -1.16,
+   "pat": 1.5,
+   "margin_pct": -11.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 92,
+    "profit": 21,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 16.79,
+   "ebitda": -0.32,
+   "pat": 1.51,
+   "margin_pct": -1.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 78,
+    "quality": 31
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

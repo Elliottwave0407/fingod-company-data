@@ -1,0 +1,105 @@
+{
+ "isin": "INE050H01012",
+ "sym": "RML",
+ "name": "Rane (Madras) Limited",
+ "scrip": "532661",
+ "mcap_cr": 3215.72,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 901.34,
+   "ebitda": 67.0,
+   "pat": 6.52,
+   "margin_pct": 7.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 880.6,
+   "ebitda": 73.72,
+   "pat": 18.53,
+   "margin_pct": 8.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 919.31,
+   "ebitda": 77.19,
+   "pat": 21.47,
+   "margin_pct": 8.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1015.15,
+   "ebitda": 89.94,
+   "pat": 30.52,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1047.87,
+   "ebitda": 95.57,
+   "pat": 36.96,
+   "margin_pct": 9.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 70,
+    "profit": 56,
+    "quality": 57
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1041.62,
+   "ebitda": 86.84,
+   "pat": 30.1,
+   "margin_pct": 8.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 56,
+    "profit": 38,
+    "quality": 54
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 14,
+  "concalls_read": 0,
+  "latest_concall": "2026-08-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

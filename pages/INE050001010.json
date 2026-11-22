@@ -1,0 +1,105 @@
+{
+ "isin": "INE050001010",
+ "sym": "PPL",
+ "name": "Prakash Pipes Limited",
+ "scrip": "542684",
+ "mcap_cr": 520.1,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 182.95,
+   "ebitda": 17.52,
+   "pat": 10.29,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 203.42,
+   "ebitda": 16.29,
+   "pat": 10.31,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 180.99,
+   "ebitda": 15.39,
+   "pat": 9.36,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 181.15,
+   "ebitda": 17.72,
+   "pat": 10.11,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 223.15,
+   "ebitda": 17.06,
+   "pat": 13.48,
+   "margin_pct": 7.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 43,
+    "profit": 18,
+    "quality": 78
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 241.45,
+   "ebitda": 18.21,
+   "pat": 16.42,
+   "margin_pct": 7.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 33,
+    "quality": 100
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE655B01011",
+ "sym": "BANARBEADS",
+ "name": "Banaras Beads Limited",
+ "scrip": "526849",
+ "mcap_cr": 69.88,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 7.2,
+   "ebitda": 0.95,
+   "pat": 0.66,
+   "margin_pct": 13.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 6.21,
+   "ebitda": 0.92,
+   "pat": 0.61,
+   "margin_pct": 14.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 5.05,
+   "ebitda": 0.31,
+   "pat": 0.04,
+   "margin_pct": 6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 7.72,
+   "ebitda": 1.08,
+   "pat": 0.58,
+   "margin_pct": 14.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 6.51,
+   "ebitda": 1.71,
+   "pat": 0.55,
+   "margin_pct": 26.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 59,
+    "profit": 100,
+    "quality": 6
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 9.06,
+   "ebitda": 1.36,
+   "pat": 0.72,
+   "margin_pct": 15.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 89,
+    "profit": 46,
+    "quality": 47
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 15.68,
+   "ebitda": 1.83,
+   "pat": 1.0,
+   "margin_pct": 11.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 89,
+    "quality": 71
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 3,
+  "concalls_read": 1,
+  "latest_concall": "2024-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

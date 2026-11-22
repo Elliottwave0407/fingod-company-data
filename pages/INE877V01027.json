@@ -1,0 +1,105 @@
+{
+ "isin": "INE877V01027",
+ "sym": "SURAKSHA",
+ "name": "Suraksha Diagnostic Limited",
+ "scrip": "544293",
+ "mcap_cr": 1624.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 65.09,
+   "ebitda": 19.18,
+   "pat": 7.17,
+   "margin_pct": 29.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 72.59,
+   "ebitda": 23.74,
+   "pat": 9.18,
+   "margin_pct": 32.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 78.73,
+   "ebitda": 24.12,
+   "pat": 8.83,
+   "margin_pct": 30.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 75.58,
+   "ebitda": 23.19,
+   "pat": 8.14,
+   "margin_pct": 30.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 81.41,
+   "ebitda": 24.37,
+   "pat": 6.16,
+   "margin_pct": 29.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 68,
+    "profit": 57,
+    "quality": 7
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 87.65,
+   "ebitda": 30.44,
+   "pat": 12.85,
+   "margin_pct": 34.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 66,
+    "profit": 72,
+    "quality": 52
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE982B01027",
+ "sym": "ADFFOODS",
+ "name": "ADF Foods Limited",
+ "scrip": "519183",
+ "mcap_cr": 2400.52,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 159.07,
+   "ebitda": 24.68,
+   "pat": 16.44,
+   "margin_pct": 15.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 132.88,
+   "ebitda": 23.53,
+   "pat": 15.24,
+   "margin_pct": 17.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 162.61,
+   "ebitda": 35.76,
+   "pat": 26.39,
+   "margin_pct": 22.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 191.01,
+   "ebitda": 30.24,
+   "pat": 22.38,
+   "margin_pct": 15.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 196.73,
+   "ebitda": 34.3,
+   "pat": 25.91,
+   "margin_pct": 17.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 74,
+    "profit": 65,
+    "quality": 87
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 167.29,
+   "ebitda": 29.65,
+   "pat": 17.29,
+   "margin_pct": 17.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 68,
+    "profit": 46,
+    "quality": 48
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

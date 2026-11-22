@@ -1,0 +1,105 @@
+{
+ "isin": "INE527H01019",
+ "sym": "UFO",
+ "name": "UFO Moviez India Limited",
+ "scrip": "539141",
+ "mcap_cr": 240.71,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 93.04,
+   "ebitda": 10.82,
+   "pat": -0.71,
+   "margin_pct": 11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 106.63,
+   "ebitda": 16.89,
+   "pat": 6.52,
+   "margin_pct": 15.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 110.78,
+   "ebitda": 21.28,
+   "pat": 7.52,
+   "margin_pct": 19.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 131.37,
+   "ebitda": 20.46,
+   "pat": 6.39,
+   "margin_pct": 15.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 133.22,
+   "ebitda": 17.25,
+   "pat": 4.48,
+   "margin_pct": 12.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 93,
+    "profit": 56,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 110.69,
+   "ebitda": 17.72,
+   "pat": 5.64,
+   "margin_pct": 16.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 32,
+    "profit": 46,
+    "quality": 7
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

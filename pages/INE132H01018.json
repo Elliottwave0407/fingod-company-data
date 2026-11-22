@@ -1,0 +1,115 @@
+{
+ "isin": "INE132H01018",
+ "sym": "AURIONPRO",
+ "name": "Aurionpro Solutions Limited",
+ "scrip": "532668",
+ "mcap_cr": 3031.93,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 326.95,
+   "ebitda": 65.93,
+   "pat": 50.51,
+   "margin_pct": 20.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 336.82,
+   "ebitda": 68.16,
+   "pat": 50.64,
+   "margin_pct": 20.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 357.67,
+   "ebitda": 71.97,
+   "pat": 55.85,
+   "margin_pct": 20.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 371.03,
+   "ebitda": 67.3,
+   "pat": 43.94,
+   "margin_pct": 18.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 345.57,
+   "ebitda": 68.81,
+   "pat": 61.36,
+   "margin_pct": 19.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 34,
+    "profit": 45,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 358.07,
+   "ebitda": 61.48,
+   "pat": 45.03,
+   "margin_pct": 17.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 26,
+    "profit": 14,
+    "quality": 44
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 414.98,
+   "ebitda": 71.21,
+   "pat": 50.2,
+   "margin_pct": 17.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 38,
+    "profit": 14,
+    "quality": 42
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

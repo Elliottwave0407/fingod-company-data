@@ -1,0 +1,105 @@
+{
+ "isin": "INE185E01021",
+ "sym": "FILATFASH",
+ "name": "Filatex Fashions Limited",
+ "scrip": "532022",
+ "mcap_cr": 133.35,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 66.86,
+   "ebitda": -1.92,
+   "pat": 1.72,
+   "margin_pct": -2.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 46.22,
+   "ebitda": 2.32,
+   "pat": 1.43,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 23.9,
+   "ebitda": 2.24,
+   "pat": 1.04,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 22.36,
+   "ebitda": 0.11,
+   "pat": 0.05,
+   "margin_pct": 0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 22.96,
+   "ebitda": -0.52,
+   "pat": 0.31,
+   "margin_pct": -2.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 36,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 20.0,
+   "ebitda": 0.45,
+   "pat": 0.31,
+   "margin_pct": 2.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 4,
+    "quality": 26
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE963C01033",
+ "sym": "FAZE3Q",
+ "name": "Faze Three Limited",
+ "scrip": "530079",
+ "mcap_cr": 1445.86,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 210.55,
+   "ebitda": 24.54,
+   "pat": 17.43,
+   "margin_pct": 11.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 211.97,
+   "ebitda": 24.65,
+   "pat": 12.77,
+   "margin_pct": 11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 206.98,
+   "ebitda": 5.33,
+   "pat": -5.2,
+   "margin_pct": 2.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 226.93,
+   "ebitda": 18.58,
+   "pat": 6.4,
+   "margin_pct": 8.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 277.18,
+   "ebitda": 33.99,
+   "pat": 19.6,
+   "margin_pct": 12.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 79,
+    "profit": 48,
+    "quality": 46
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 229.39,
+   "ebitda": 21.38,
+   "pat": 9.64,
+   "margin_pct": 9.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 26,
+    "profit": 15,
+    "quality": 12
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

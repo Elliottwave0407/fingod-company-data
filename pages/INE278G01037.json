@@ -1,0 +1,115 @@
+{
+ "isin": "INE278G01037",
+ "sym": "CYBERMEDIA",
+ "name": "Cyber Media (India) Limited",
+ "scrip": "532640",
+ "mcap_cr": 33.74,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 21.63,
+   "ebitda": -0.5,
+   "pat": -0.53,
+   "margin_pct": -2.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 25.85,
+   "ebitda": 1.35,
+   "pat": 1.11,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 24.21,
+   "ebitda": 1.17,
+   "pat": 0.93,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 25.01,
+   "ebitda": 0.19,
+   "pat": 0.2,
+   "margin_pct": 0.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 28.2,
+   "ebitda": 2.06,
+   "pat": 1.66,
+   "margin_pct": 7.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 74,
+    "profit": 86,
+    "quality": 84
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 50.41,
+   "ebitda": 1.73,
+   "pat": 1.63,
+   "margin_pct": 3.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 85,
+    "profit": 16,
+    "quality": 95
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 46.77,
+   "ebitda": 1.41,
+   "pat": 1.03,
+   "margin_pct": 3.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 80,
+    "profit": 15,
+    "quality": 58
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2025-08-25"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

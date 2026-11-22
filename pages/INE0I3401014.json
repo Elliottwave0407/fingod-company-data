@@ -1,0 +1,105 @@
+{
+ "isin": "INE0I3401014",
+ "sym": "DBOL",
+ "name": "Dhampur Bio Organics Limited",
+ "scrip": "543593",
+ "mcap_cr": 948.01,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 702.74,
+   "ebitda": 95.67,
+   "pat": 44.8,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 783.68,
+   "ebitda": 1.38,
+   "pat": -22.0,
+   "margin_pct": 0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 824.88,
+   "ebitda": -8.06,
+   "pat": -15.99,
+   "margin_pct": -1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 751.26,
+   "ebitda": 42.64,
+   "pat": 16.9,
+   "margin_pct": 5.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 773.59,
+   "ebitda": 94.9,
+   "pat": 46.27,
+   "margin_pct": 12.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 33,
+    "profit": 27,
+    "quality": 31
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 918.56,
+   "ebitda": 8.94,
+   "pat": 36.79,
+   "margin_pct": 1.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 77,
+    "profit": 41,
+    "quality": 100
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2025-08-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

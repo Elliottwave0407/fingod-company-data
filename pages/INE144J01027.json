@@ -1,0 +1,115 @@
+{
+ "isin": "INE144J01027",
+ "sym": "20MICRONS",
+ "name": "20 Microns Limited",
+ "scrip": "533022",
+ "mcap_cr": 632.51,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 227.41,
+   "ebitda": 28.74,
+   "pat": 15.21,
+   "margin_pct": 12.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 247.16,
+   "ebitda": 31.73,
+   "pat": 16.86,
+   "margin_pct": 12.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 230.78,
+   "ebitda": 31.86,
+   "pat": 17.35,
+   "margin_pct": 13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 214.82,
+   "ebitda": 27.48,
+   "pat": 14.87,
+   "margin_pct": 12.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 261.06,
+   "ebitda": 31.64,
+   "pat": 17.59,
+   "margin_pct": 12.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 46,
+    "profit": 36,
+    "quality": 47
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 244.72,
+   "ebitda": 32.4,
+   "pat": 17.74,
+   "margin_pct": 13.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 26,
+    "profit": 47,
+    "quality": 38
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 238.16,
+   "ebitda": 27.74,
+   "pat": 13.64,
+   "margin_pct": 11.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 22,
+    "profit": 18,
+    "quality": 20
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

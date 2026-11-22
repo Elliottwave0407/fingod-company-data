@@ -1,0 +1,105 @@
+{
+ "isin": "INE199G01027",
+ "sym": "JAGRAN",
+ "name": "Jagran Prakashan Limited",
+ "scrip": "532705",
+ "mcap_cr": 1379.49,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 481.0,
+   "ebitda": -66.22,
+   "pat": -51.46,
+   "margin_pct": -13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 460.05,
+   "ebitda": 63.79,
+   "pat": 66.76,
+   "margin_pct": 13.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 467.36,
+   "ebitda": 66.58,
+   "pat": 56.94,
+   "margin_pct": 14.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 476.71,
+   "ebitda": 71.42,
+   "pat": 55.17,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 472.1,
+   "ebitda": 47.82,
+   "pat": 6.06,
+   "margin_pct": 10.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 23,
+    "profit": 88,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 499.35,
+   "ebitda": 70.03,
+   "pat": 61.23,
+   "margin_pct": 14.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 41,
+    "profit": 45,
+    "quality": 57
+   },
+   "capped_by": "profit down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE020G01017",
+ "sym": "INSPIRISYS",
+ "name": "Inspirisys Solutions Limited",
+ "scrip": "532774",
+ "mcap_cr": 346.25,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 120.34,
+   "ebitda": 11.35,
+   "pat": 12.26,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 84.6,
+   "ebitda": 8.56,
+   "pat": 6.14,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 119.71,
+   "ebitda": 12.21,
+   "pat": 7.4,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 129.8,
+   "ebitda": 4.99,
+   "pat": 18.62,
+   "margin_pct": 3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 141.77,
+   "ebitda": 10.96,
+   "pat": 8.77,
+   "margin_pct": 7.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 39,
+    "profit": 20,
+    "quality": 34
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 106.97,
+   "ebitda": 6.46,
+   "pat": 4.07,
+   "margin_pct": 6.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 37,
+    "profit": 5,
+    "quality": 22
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE569C01020",
+ "sym": "ORIENTCER",
+ "name": "ORIENT CERATECH LIMITED",
+ "scrip": "504879",
+ "mcap_cr": 447.57,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 84.57,
+   "ebitda": 9.18,
+   "pat": 3.47,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 98.45,
+   "ebitda": 9.3,
+   "pat": 4.3,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 113.55,
+   "ebitda": 12.71,
+   "pat": 7.49,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 93.35,
+   "ebitda": 9.49,
+   "pat": 4.41,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 98.24,
+   "ebitda": 9.21,
+   "pat": 5.66,
+   "margin_pct": 9.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 39,
+    "profit": 24,
+    "quality": 61
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 100.65,
+   "ebitda": 16.21,
+   "pat": 8.57,
+   "margin_pct": 16.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 64,
+    "profit": 93,
+    "quality": 69
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

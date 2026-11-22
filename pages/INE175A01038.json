@@ -1,0 +1,105 @@
+{
+ "isin": "INE175A01038",
+ "sym": "JISLJALEQS",
+ "name": "Jain Irrigation Systems Limited",
+ "scrip": "500219",
+ "mcap_cr": 1810.82,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1748.73,
+   "ebitda": 223.8,
+   "pat": 28.18,
+   "margin_pct": 12.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1545.65,
+   "ebitda": 202.02,
+   "pat": 11.19,
+   "margin_pct": 13.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1432.33,
+   "ebitda": 197.95,
+   "pat": 15.34,
+   "margin_pct": 13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1597.58,
+   "ebitda": 127.11,
+   "pat": -47.48,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1823.97,
+   "ebitda": 220.04,
+   "pat": -19.04,
+   "margin_pct": 12.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 28,
+    "profit": 34,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1508.37,
+   "ebitda": 164.33,
+   "pat": -17.8,
+   "margin_pct": 10.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 16,
+    "profit": 18,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

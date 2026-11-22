@@ -1,0 +1,98 @@
+{
+ "isin": "INE756C01015",
+ "sym": "NDGL",
+ "name": "Naga Dhunseri Group Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 55.85,
+   "ebitda": 4.48,
+   "pat": -12.63,
+   "margin_pct": 8.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 119.61,
+   "ebitda": 28.11,
+   "pat": 33.87,
+   "margin_pct": 23.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 168.52,
+   "ebitda": 28.29,
+   "pat": 7.35,
+   "margin_pct": 16.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 137.66,
+   "ebitda": -5.94,
+   "pat": -11.16,
+   "margin_pct": -4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 37.51,
+   "ebitda": -62.88,
+   "pat": -40.53,
+   "margin_pct": -167.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 94.48,
+   "ebitda": 28.81,
+   "pat": 38.41,
+   "margin_pct": 30.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 18,
+    "profit": 100,
+    "quality": 74
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

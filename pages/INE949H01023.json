@@ -1,0 +1,115 @@
+{
+ "isin": "INE949H01023",
+ "sym": "MANINFRA",
+ "name": "Man Infraconstruction Limited",
+ "scrip": "533169",
+ "mcap_cr": 4242.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 293.8,
+   "ebitda": 106.47,
+   "pat": 97.15,
+   "margin_pct": 36.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 182.9,
+   "ebitda": 40.59,
+   "pat": 58.32,
+   "margin_pct": 22.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 148.75,
+   "ebitda": 36.58,
+   "pat": 60.01,
+   "margin_pct": 24.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 153.3,
+   "ebitda": 32.76,
+   "pat": 51.62,
+   "margin_pct": 21.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 145.52,
+   "ebitda": 18.93,
+   "pat": 41.04,
+   "margin_pct": 13.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 10,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 218.31,
+   "ebitda": 71.51,
+   "pat": 62.74,
+   "margin_pct": 32.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 79,
+    "profit": 100,
+    "quality": 67
+   },
+   "capped_by": "profit growth under 25%"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 266.01,
+   "ebitda": 80.57,
+   "pat": 65.23,
+   "margin_pct": 30.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 62
+   },
+   "capped_by": "profit growth under 25%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 5,
+  "concalls_read": 4,
+  "latest_concall": "2026-08-26"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

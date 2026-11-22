@@ -1,0 +1,105 @@
+{
+ "isin": "INE029L01018",
+ "sym": "KICL",
+ "name": "Kalyani Investment Company Limited",
+ "scrip": "533302",
+ "mcap_cr": 1931.63,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 21.44,
+   "ebitda": 34.78,
+   "pat": 25.68,
+   "margin_pct": 162.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 5.78,
+   "ebitda": -4.04,
+   "pat": -3.18,
+   "margin_pct": -69.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 43.93,
+   "ebitda": 27.06,
+   "pat": 18.93,
+   "margin_pct": 61.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 6.54,
+   "ebitda": 2.34,
+   "pat": 1.71,
+   "margin_pct": 35.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 21.8,
+   "ebitda": 23.5,
+   "pat": 19.31,
+   "margin_pct": 107.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 20,
+    "quality": 46
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 5.95,
+   "ebitda": 0.99,
+   "pat": 0.68,
+   "margin_pct": 16.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 30,
+    "profit": 93,
+    "quality": 64
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

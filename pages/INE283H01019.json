@@ -1,0 +1,105 @@
+{
+ "isin": "INE283H01019",
+ "sym": "ROHLTD",
+ "name": "Royal Orchid Hotels Limited",
+ "scrip": "532699",
+ "mcap_cr": 813.98,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 86.74,
+   "ebitda": 19.93,
+   "pat": 13.15,
+   "margin_pct": 23.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 78.77,
+   "ebitda": 19.64,
+   "pat": 11.19,
+   "margin_pct": 24.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 79.19,
+   "ebitda": 13.2,
+   "pat": 4.29,
+   "margin_pct": 16.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 113.03,
+   "ebitda": 29.94,
+   "pat": 9.62,
+   "margin_pct": 26.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 113.17,
+   "ebitda": 3.24,
+   "pat": 8.22,
+   "margin_pct": 2.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 37,
+    "profit": 2,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 107.21,
+   "ebitda": 25.44,
+   "pat": 6.79,
+   "margin_pct": 23.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 77,
+    "profit": 38,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

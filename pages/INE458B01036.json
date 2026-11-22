@@ -1,0 +1,105 @@
+{
+ "isin": "INE458B01036",
+ "sym": "BHAGYANGR",
+ "name": "Bhagyanagar India Limited",
+ "scrip": "512296",
+ "mcap_cr": 283.48,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 453.9,
+   "ebitda": 11.36,
+   "pat": 4.58,
+   "margin_pct": 2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 485.6,
+   "ebitda": 16.19,
+   "pat": 7.57,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 580.37,
+   "ebitda": 25.21,
+   "pat": 11.27,
+   "margin_pct": 4.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 577.32,
+   "ebitda": 28.59,
+   "pat": 12.84,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 734.53,
+   "ebitda": 36.15,
+   "pat": 18.49,
+   "margin_pct": 4.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 100,
+    "profit": 60,
+    "quality": 68
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 705.08,
+   "ebitda": 38.29,
+   "pat": 20.25,
+   "margin_pct": 5.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 94,
+    "profit": 57,
+    "quality": 69
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-07-30"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

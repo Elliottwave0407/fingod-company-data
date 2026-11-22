@@ -1,0 +1,115 @@
+{
+ "isin": "INE497D01022",
+ "sym": "DAMODARIND",
+ "name": "Damodar Industries Limited",
+ "scrip": "521220",
+ "mcap_cr": 63.05,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 85.15,
+   "ebitda": 0.45,
+   "pat": 3.21,
+   "margin_pct": 0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 103.35,
+   "ebitda": 7.54,
+   "pat": 2.32,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 121.89,
+   "ebitda": 8.09,
+   "pat": 1.15,
+   "margin_pct": 6.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 93.29,
+   "ebitda": 9.75,
+   "pat": 0.99,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 111.5,
+   "ebitda": 6.52,
+   "pat": 0.92,
+   "margin_pct": 5.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 87,
+    "profit": 85,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 152.85,
+   "ebitda": 11.27,
+   "pat": 2.69,
+   "margin_pct": 7.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 91,
+    "profit": 39,
+    "quality": 26
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 160.05,
+   "ebitda": 9.18,
+   "pat": 1.23,
+   "margin_pct": 5.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 62,
+    "profit": 27,
+    "quality": 15
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

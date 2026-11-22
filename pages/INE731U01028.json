@@ -1,0 +1,111 @@
+{
+ "isin": "INE731U01028",
+ "sym": "DIGJAMLMTD",
+ "name": "Digjam Limited",
+ "scrip": "539979",
+ "mcap_cr": 112.08,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 6.18,
+   "ebitda": 1.07,
+   "pat": 3.65,
+   "margin_pct": 17.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 3.95,
+   "ebitda": 0.04,
+   "pat": 0.96,
+   "margin_pct": 1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 14.14,
+   "ebitda": 1.14,
+   "pat": -1.74,
+   "margin_pct": 8.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 6.98,
+   "ebitda": 0.85,
+   "pat": 0.51,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 8.21,
+   "ebitda": 1.14,
+   "pat": -0.73,
+   "margin_pct": 13.9,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 57,
+    "profit": 11,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 7.46,
+   "ebitda": 0.74,
+   "pat": 0.82,
+   "margin_pct": 9.9,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 9.93,
+   "ebitda": 1.4,
+   "pat": 1.36,
+   "margin_pct": 14.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 32,
+    "profit": 91,
+    "quality": 100
+   },
+   "capped_by": "revenue down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE239D01028",
+ "sym": "OMINFRAL",
+ "name": "OM INFRA LIMITED",
+ "scrip": "531092",
+ "mcap_cr": 621.16,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 171.94,
+   "ebitda": -16.29,
+   "pat": 14.8,
+   "margin_pct": -9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 104.34,
+   "ebitda": -0.74,
+   "pat": -0.98,
+   "margin_pct": -0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 123.79,
+   "ebitda": 6.71,
+   "pat": 7.01,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 111.82,
+   "ebitda": 6.54,
+   "pat": 8.08,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 160.1,
+   "ebitda": 15.73,
+   "pat": 6.46,
+   "margin_pct": 9.8,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": 88,
+    "quality": 9
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 124.37,
+   "ebitda": 10.13,
+   "pat": 11.45,
+   "margin_pct": 8.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 59,
+    "profit": 87,
+    "quality": 100
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2025-08-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

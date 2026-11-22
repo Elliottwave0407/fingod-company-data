@@ -1,0 +1,105 @@
+{
+ "isin": "INE495C01010",
+ "sym": "SANGAMIND",
+ "name": "Sangam (India) Limited",
+ "scrip": "514234",
+ "mcap_cr": 3387.12,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 734.3,
+   "ebitda": 56.04,
+   "pat": 9.52,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 789.77,
+   "ebitda": 55.97,
+   "pat": 2.13,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 786.18,
+   "ebitda": 75.28,
+   "pat": 23.13,
+   "margin_pct": 9.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 774.66,
+   "ebitda": 82.72,
+   "pat": 24.47,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 883.92,
+   "ebitda": 100.12,
+   "pat": 32.88,
+   "margin_pct": 11.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 77,
+    "quality": 52
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 860.35,
+   "ebitda": 103.71,
+   "pat": 41.02,
+   "margin_pct": 12.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 70,
+    "profit": 89,
+    "quality": 58
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-11-11"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

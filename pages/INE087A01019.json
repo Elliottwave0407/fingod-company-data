@@ -1,0 +1,101 @@
+{
+ "isin": "INE087A01019",
+ "sym": "KESORAMIND",
+ "name": "Kesoram Industries Limited",
+ "scrip": "502937",
+ "mcap_cr": 382.4,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 67.28,
+   "ebitda": -25.63,
+   "pat": 5765.62,
+   "margin_pct": -38.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 61.05,
+   "ebitda": -100.33,
+   "pat": -99.34,
+   "margin_pct": -164.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 55.17,
+   "ebitda": -18.5,
+   "pat": -25.87,
+   "margin_pct": -33.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 64.79,
+   "ebitda": -16.05,
+   "pat": 6.02,
+   "margin_pct": -24.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 66.62,
+   "ebitda": 35.49,
+   "pat": 31.07,
+   "margin_pct": 53.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 24,
+    "profit": 100,
+    "quality": 48
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 77.66,
+   "ebitda": -9.87,
+   "pat": -20.19,
+   "margin_pct": -12.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

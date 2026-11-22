@@ -1,0 +1,105 @@
+{
+ "isin": "INE217A01012",
+ "sym": "ZUARIIND",
+ "name": "ZUARI INDUSTRIES LIMITED",
+ "scrip": "500780",
+ "mcap_cr": 682.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 272.26,
+   "ebitda": 27.6,
+   "pat": -20.75,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 257.46,
+   "ebitda": 25.24,
+   "pat": -0.48,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 241.17,
+   "ebitda": 3.84,
+   "pat": 164.29,
+   "margin_pct": 1.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 262.63,
+   "ebitda": -13.84,
+   "pat": -26.43,
+   "margin_pct": -5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 283.56,
+   "ebitda": 46.15,
+   "pat": -31.61,
+   "margin_pct": 16.3,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 66,
+    "profit": 93,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 311.93,
+   "ebitda": 18.99,
+   "pat": 0.05,
+   "margin_pct": 6.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 33,
+    "profit": 5,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-08-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

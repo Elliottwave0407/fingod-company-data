@@ -1,0 +1,105 @@
+{
+ "isin": "INE385I01010",
+ "sym": "ALPA",
+ "name": "Alpa Laboratories Limited",
+ "scrip": "532878",
+ "mcap_cr": 105.14,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 39.92,
+   "ebitda": 0.2,
+   "pat": -2.12,
+   "margin_pct": 0.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 19.11,
+   "ebitda": 0.43,
+   "pat": 11.77,
+   "margin_pct": 2.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 26.26,
+   "ebitda": -2.25,
+   "pat": 0.11,
+   "margin_pct": -8.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 29.05,
+   "ebitda": 1.52,
+   "pat": 1.9,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 31.4,
+   "ebitda": 2.72,
+   "pat": 0.5,
+   "margin_pct": 8.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 54,
+    "profit": 87,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 23.93,
+   "ebitda": -3.96,
+   "pat": 0.98,
+   "margin_pct": -16.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 33,
+    "profit": -13,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

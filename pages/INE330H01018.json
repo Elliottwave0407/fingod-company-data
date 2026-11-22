@@ -1,0 +1,101 @@
+{
+ "isin": "INE330H01018",
+ "sym": "RCOM",
+ "name": "Reliance Communications Limited",
+ "scrip": "532712",
+ "mcap_cr": 221.24,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 87.0,
+   "ebitda": -47.0,
+   "pat": -2502.0,
+   "margin_pct": -54.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 83.0,
+   "ebitda": -2.0,
+   "pat": -2560.0,
+   "margin_pct": -2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 87.0,
+   "ebitda": -53.0,
+   "pat": -2701.0,
+   "margin_pct": -60.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 63.0,
+   "ebitda": -32.0,
+   "pat": -2767.0,
+   "margin_pct": -50.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 81.0,
+   "ebitda": -280.0,
+   "pat": -3098.0,
+   "margin_pct": -345.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 74.0,
+   "ebitda": 488.0,
+   "pat": -809.0,
+   "margin_pct": 659.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 16,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

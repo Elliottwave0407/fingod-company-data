@@ -1,0 +1,115 @@
+{
+ "isin": "INE933A01014",
+ "sym": "LYKALABS",
+ "name": "Lyka Labs Limited",
+ "scrip": "500259",
+ "mcap_cr": 334.48,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 33.43,
+   "ebitda": 4.09,
+   "pat": 2.03,
+   "margin_pct": 12.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 33.03,
+   "ebitda": 3.68,
+   "pat": 1.0,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 36.66,
+   "ebitda": -2.53,
+   "pat": -3.21,
+   "margin_pct": -6.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 30.73,
+   "ebitda": 1.65,
+   "pat": -0.15,
+   "margin_pct": 5.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 28.03,
+   "ebitda": -6.46,
+   "pat": -8.07,
+   "margin_pct": -23.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 6,
+    "profit": -18,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 42.31,
+   "ebitda": 4.55,
+   "pat": 2.05,
+   "margin_pct": 10.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 68,
+    "profit": 36,
+    "quality": 63
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 44.2,
+   "ebitda": 3.52,
+   "pat": 1.27,
+   "margin_pct": 8.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 61,
+    "profit": 86,
+    "quality": 8
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

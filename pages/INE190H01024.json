@@ -1,0 +1,105 @@
+{
+ "isin": "INE190H01024",
+ "sym": "SAKUMA",
+ "name": "Sakuma Exports Limited",
+ "scrip": "532713",
+ "mcap_cr": 264.94,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 731.69,
+   "ebitda": 5.24,
+   "pat": 4.51,
+   "margin_pct": 0.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 375.77,
+   "ebitda": 2.24,
+   "pat": 1.65,
+   "margin_pct": 0.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 254.38,
+   "ebitda": -2.47,
+   "pat": 0.73,
+   "margin_pct": -1.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 363.46,
+   "ebitda": -0.36,
+   "pat": 0.61,
+   "margin_pct": -0.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 714.68,
+   "ebitda": 7.81,
+   "pat": 6.52,
+   "margin_pct": 1.1,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 57,
+    "profit": 37,
+    "quality": 88
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 333.32,
+   "ebitda": 0.69,
+   "pat": 2.82,
+   "margin_pct": 0.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 8,
+    "profit": 28,
+    "quality": 80
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

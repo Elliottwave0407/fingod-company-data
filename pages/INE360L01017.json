@@ -1,0 +1,105 @@
+{
+ "isin": "INE360L01017",
+ "sym": "FMNL",
+ "name": "Future Market Networks Limited",
+ "scrip": "533296",
+ "mcap_cr": 41.66,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 24.2,
+   "ebitda": -15.74,
+   "pat": -29.78,
+   "margin_pct": -65.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 24.44,
+   "ebitda": 12.04,
+   "pat": 1.47,
+   "margin_pct": 49.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 24.34,
+   "ebitda": 9.05,
+   "pat": 1.9,
+   "margin_pct": 37.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 21.96,
+   "ebitda": 11.77,
+   "pat": 2.21,
+   "margin_pct": 53.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 25.43,
+   "ebitda": 11.33,
+   "pat": 1.95,
+   "margin_pct": 44.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 34,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 24.64,
+   "ebitda": 10.23,
+   "pat": 1.8,
+   "margin_pct": 41.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": 20,
+    "quality": 25
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

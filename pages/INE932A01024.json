@@ -1,0 +1,105 @@
+{
+ "isin": "INE932A01024",
+ "sym": "PENIND",
+ "name": "Pennar Industries Limited",
+ "scrip": "513228",
+ "mcap_cr": 2232.98,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 905.8,
+   "ebitda": 91.15,
+   "pat": 35.72,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 845.67,
+   "ebitda": 85.79,
+   "pat": 31.96,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 906.56,
+   "ebitda": 81.39,
+   "pat": 32.28,
+   "margin_pct": 9.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 943.06,
+   "ebitda": 82.58,
+   "pat": 33.55,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 924.8,
+   "ebitda": 105.16,
+   "pat": 41.04,
+   "margin_pct": 11.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 40,
+    "profit": 54,
+    "quality": 33
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 870.42,
+   "ebitda": 92.66,
+   "pat": 35.41,
+   "margin_pct": 10.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 34,
+    "profit": 46,
+    "quality": 29
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 12,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

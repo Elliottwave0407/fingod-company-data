@@ -1,0 +1,102 @@
+{
+ "isin": "INE215F01023",
+ "sym": "WIPL",
+ "name": "The Western India Plywoods Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 29.06,
+   "ebitda": 1.97,
+   "pat": 0.77,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 29.01,
+   "ebitda": 1.16,
+   "pat": 0.34,
+   "margin_pct": 4.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 29.92,
+   "ebitda": 0.82,
+   "pat": 0.19,
+   "margin_pct": 2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 31.45,
+   "ebitda": 1.98,
+   "pat": 0.83,
+   "margin_pct": 6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 28.5,
+   "ebitda": -0.39,
+   "pat": -0.91,
+   "margin_pct": -1.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 12,
+    "profit": -1,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 26.49,
+   "ebitda": -0.06,
+   "pat": -0.3,
+   "margin_pct": -0.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 9,
+    "profit": 0,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE295F01017",
+ "sym": "BUTTERFLY",
+ "name": "Butterfly Gandhimathi Appliances Limited",
+ "scrip": "517421",
+ "mcap_cr": 1030.04,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 187.0,
+   "ebitda": 16.12,
+   "pat": 9.03,
+   "margin_pct": 8.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 187.37,
+   "ebitda": 12.77,
+   "pat": 6.43,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 292.99,
+   "ebitda": 27.79,
+   "pat": 17.0,
+   "margin_pct": 9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 244.58,
+   "ebitda": 18.56,
+   "pat": 10.77,
+   "margin_pct": 7.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 218.17,
+   "ebitda": 19.52,
+   "pat": 11.44,
+   "margin_pct": 8.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 58,
+    "profit": 42,
+    "quality": 58
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 213.87,
+   "ebitda": 15.03,
+   "pat": 8.89,
+   "margin_pct": 7.0,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 53,
+    "profit": 40,
+    "quality": 66
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 331.47,
+   "ebitda": 31.51,
+   "pat": 20.18,
+   "margin_pct": 9.5,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 48,
+    "profit": 40,
+    "quality": 57
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

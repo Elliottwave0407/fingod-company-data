@@ -1,0 +1,105 @@
+{
+ "isin": "INE364A01020",
+ "sym": "JAYSREETEA",
+ "name": "Jayshree Tea & Industries Limited",
+ "scrip": "509715",
+ "mcap_cr": 234.72,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 161.52,
+   "ebitda": 16.75,
+   "pat": 31.46,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 189.82,
+   "ebitda": -0.43,
+   "pat": -8.98,
+   "margin_pct": -0.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 267.45,
+   "ebitda": 33.81,
+   "pat": 19.58,
+   "margin_pct": 12.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 295.17,
+   "ebitda": 11.54,
+   "pat": -1.5,
+   "margin_pct": 3.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 177.68,
+   "ebitda": -26.65,
+   "pat": -34.16,
+   "margin_pct": -15.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 21,
+    "profit": -12,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 206.17,
+   "ebitda": 5.53,
+   "pat": -5.94,
+   "margin_pct": 2.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 40,
+    "profit": 63,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

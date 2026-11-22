@@ -1,0 +1,115 @@
+{
+ "isin": "INE859A01011",
+ "sym": "PNBGILTS",
+ "name": "PNB GILTS LTD.",
+ "scrip": "532366",
+ "mcap_cr": 1495.34,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 418.77,
+   "ebitda": 406.88,
+   "pat": 75.02,
+   "margin_pct": 97.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 563.27,
+   "ebitda": 537.79,
+   "pat": 160.07,
+   "margin_pct": 95.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 443.41,
+   "ebitda": 292.4,
+   "pat": -45.35,
+   "margin_pct": 65.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 424.67,
+   "ebitda": 395.41,
+   "pat": 53.91,
+   "margin_pct": 93.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 424.11,
+   "ebitda": 330.93,
+   "pat": 12.99,
+   "margin_pct": 78.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 18,
+    "profit": 20,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 454.56,
+   "ebitda": 439.43,
+   "pat": 80.7,
+   "margin_pct": 96.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 9,
+    "profit": 64,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 436.32,
+   "ebitda": 402.71,
+   "pat": 44.84,
+   "margin_pct": 92.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 53,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

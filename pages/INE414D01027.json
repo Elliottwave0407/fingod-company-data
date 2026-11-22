@@ -1,0 +1,105 @@
+{
+ "isin": "INE414D01027",
+ "sym": "BHAGCHEM",
+ "name": "Bhagiradha Chemicals & Industries Limited",
+ "scrip": "531719",
+ "mcap_cr": 2343.12,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 122.62,
+   "ebitda": 6.08,
+   "pat": -0.88,
+   "margin_pct": 5.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 123.78,
+   "ebitda": 8.99,
+   "pat": 3.98,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 140.1,
+   "ebitda": 15.06,
+   "pat": 5.5,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 113.97,
+   "ebitda": 13.68,
+   "pat": 4.62,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 158.1,
+   "ebitda": 19.43,
+   "pat": 4.07,
+   "margin_pct": 12.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 86,
+    "profit": 90,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 195.02,
+   "ebitda": 30.53,
+   "pat": 13.33,
+   "margin_pct": 15.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 99,
+    "profit": 93,
+    "quality": 61
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

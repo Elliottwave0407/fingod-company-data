@@ -1,0 +1,105 @@
+{
+ "isin": "INE090501011",
+ "sym": "SCODATUBES",
+ "name": "Scoda Tubes Limited",
+ "scrip": "544411",
+ "mcap_cr": 539.18,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 123.72,
+   "ebitda": 17.43,
+   "pat": 6.83,
+   "margin_pct": 14.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 97.42,
+   "ebitda": 14.19,
+   "pat": 7.08,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 145.26,
+   "ebitda": 22.34,
+   "pat": 13.97,
+   "margin_pct": 15.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 152.4,
+   "ebitda": 23.01,
+   "pat": 11.47,
+   "margin_pct": 15.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 123.57,
+   "ebitda": 16.71,
+   "pat": 6.32,
+   "margin_pct": 13.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 23,
+    "profit": 37,
+    "quality": 13
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 124.34,
+   "ebitda": 15.98,
+   "pat": 5.25,
+   "margin_pct": 12.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 58,
+    "profit": 24,
+    "quality": 4
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-11-16"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

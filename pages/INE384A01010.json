@@ -1,0 +1,105 @@
+{
+ "isin": "INE384A01010",
+ "sym": "RANEHOLDIN",
+ "name": "Rane Holdings Limited",
+ "scrip": "505800",
+ "mcap_cr": 2166.59,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1373.68,
+   "ebitda": 83.48,
+   "pat": 11.73,
+   "margin_pct": 6.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1340.82,
+   "ebitda": 117.44,
+   "pat": 57.49,
+   "margin_pct": 8.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1399.22,
+   "ebitda": 95.48,
+   "pat": 31.26,
+   "margin_pct": 6.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1534.62,
+   "ebitda": 110.89,
+   "pat": -39.51,
+   "margin_pct": 7.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1608.65,
+   "ebitda": 132.88,
+   "pat": 87.54,
+   "margin_pct": 8.3,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 77,
+    "profit": 60,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1586.88,
+   "ebitda": 109.64,
+   "pat": 48.27,
+   "margin_pct": 6.9,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 38,
+    "profit": 18,
+    "quality": 18
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 14,
+  "concalls_read": 0,
+  "latest_concall": "2026-08-27"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

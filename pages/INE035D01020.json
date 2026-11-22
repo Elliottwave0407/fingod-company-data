@@ -1,0 +1,105 @@
+{
+ "isin": "INE035D01020",
+ "sym": "SOTL",
+ "name": "Savita Oil Technologies Limited",
+ "scrip": "524667",
+ "mcap_cr": 4046.44,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1005.59,
+   "ebitda": 48.22,
+   "pat": 29.22,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 989.12,
+   "ebitda": 59.8,
+   "pat": 55.95,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1075.89,
+   "ebitda": 51.35,
+   "pat": 40.59,
+   "margin_pct": 4.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1073.62,
+   "ebitda": 40.44,
+   "pat": 37.95,
+   "margin_pct": 3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1223.96,
+   "ebitda": 65.03,
+   "pat": 47.34,
+   "margin_pct": 5.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 71,
+    "profit": 41,
+    "quality": 86
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1479.76,
+   "ebitda": 363.82,
+   "pat": 288.06,
+   "margin_pct": 24.6,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 96,
+    "profit": 100,
+    "quality": 91
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

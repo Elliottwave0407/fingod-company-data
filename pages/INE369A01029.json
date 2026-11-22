@@ -1,0 +1,105 @@
+{
+ "isin": "INE369A01029",
+ "sym": "EXCELINDUS",
+ "name": "Excel Industries Limited",
+ "scrip": "500650",
+ "mcap_cr": 1240.35,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 247.84,
+   "ebitda": 19.57,
+   "pat": 12.41,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 309.52,
+   "ebitda": 42.21,
+   "pat": 33.76,
+   "margin_pct": 13.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 270.23,
+   "ebitda": 29.91,
+   "pat": 21.19,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 233.54,
+   "ebitda": 15.74,
+   "pat": 8.44,
+   "margin_pct": 6.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 281.24,
+   "ebitda": 21.98,
+   "pat": 12.28,
+   "margin_pct": 7.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 47,
+    "profit": 37,
+    "quality": 34
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 293.83,
+   "ebitda": 42.41,
+   "pat": 29.47,
+   "margin_pct": 14.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 23,
+    "profit": 52,
+    "quality": 40
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 4,
+  "concalls_read": 4,
+  "latest_concall": "2026-11-12"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

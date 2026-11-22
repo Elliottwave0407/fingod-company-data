@@ -1,0 +1,105 @@
+{
+ "isin": "INE295D01020",
+ "sym": "NACLIND",
+ "name": "NACL Industries Limited",
+ "scrip": "524709",
+ "mcap_cr": 2747.67,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 201.43,
+   "ebitda": -44.6,
+   "pat": -50.0,
+   "margin_pct": -22.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 448.36,
+   "ebitda": 38.14,
+   "pat": 13.04,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 456.94,
+   "ebitda": 27.28,
+   "pat": 2.55,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 318.21,
+   "ebitda": 6.68,
+   "pat": -10.16,
+   "margin_pct": 2.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 360.95,
+   "ebitda": 13.27,
+   "pat": -0.86,
+   "margin_pct": 3.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 100,
+    "profit": 83,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 383.33,
+   "ebitda": 41.41,
+   "pat": 20.84,
+   "margin_pct": 10.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 26,
+    "profit": 63,
+    "quality": 67
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

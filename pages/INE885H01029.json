@@ -1,0 +1,115 @@
+{
+ "isin": "INE885H01029",
+ "sym": "SPORTKING",
+ "name": "Sportking India Limited",
+ "scrip": "539221",
+ "mcap_cr": 2815.28,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 628.81,
+   "ebitda": 74.35,
+   "pat": 36.12,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 585.8,
+   "ebitda": 70.55,
+   "pat": 35.15,
+   "margin_pct": 12.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 627.39,
+   "ebitda": 65.41,
+   "pat": 28.27,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 645.89,
+   "ebitda": 65.64,
+   "pat": 24.6,
+   "margin_pct": 10.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 636.78,
+   "ebitda": 85.43,
+   "pat": 32.76,
+   "margin_pct": 13.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 39,
+    "profit": 59,
+    "quality": 16
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 703.68,
+   "ebitda": 132.21,
+   "pat": 75.97,
+   "margin_pct": 18.8,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 80,
+    "profit": 95,
+    "quality": 73
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 781.05,
+   "ebitda": 154.88,
+   "pat": 96.36,
+   "margin_pct": 19.8,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 83,
+    "profit": 96,
+    "quality": 77
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE893J01029",
+ "sym": "MOLDTKPAC",
+ "name": "Mold-Tek Packaging Limited",
+ "scrip": "533080",
+ "mcap_cr": 2333.0,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 202.61,
+   "ebitda": 38.29,
+   "pat": 16.27,
+   "margin_pct": 18.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 240.56,
+   "ebitda": 47.61,
+   "pat": 22.4,
+   "margin_pct": 19.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 209.76,
+   "ebitda": 39.11,
+   "pat": 15.48,
+   "margin_pct": 18.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 198.44,
+   "ebitda": 38.43,
+   "pat": 14.35,
+   "margin_pct": 19.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 237.86,
+   "ebitda": 47.86,
+   "pat": 20.64,
+   "margin_pct": 20.1,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 61,
+    "profit": 60,
+    "quality": 46
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 300.45,
+   "ebitda": 55.86,
+   "pat": 25.57,
+   "margin_pct": 18.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 61,
+    "profit": 34,
+    "quality": 38
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,101 @@
+{
+ "isin": "INE0S4R01014",
+ "sym": "CRIZAC",
+ "name": "Crizac Limited",
+ "scrip": "544439",
+ "mcap_cr": 2624.74,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Jun-25",
+   "revenue": 209.54,
+   "ebitda": 60.48,
+   "pat": 45.81,
+   "margin_pct": 28.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 162.25,
+   "ebitda": 63.26,
+   "pat": 48.34,
+   "margin_pct": 39.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 278.64,
+   "ebitda": 66.04,
+   "pat": 50.53,
+   "margin_pct": 23.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 391.73,
+   "ebitda": 95.22,
+   "pat": 74.5,
+   "margin_pct": 24.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 201.21,
+   "ebitda": 61.16,
+   "pat": 46.17,
+   "margin_pct": 30.4,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 24,
+    "profit": 67,
+    "quality": 51
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 102.67,
+   "ebitda": 35.43,
+   "pat": 36.23,
+   "margin_pct": 34.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 20,
+    "quality": 52
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

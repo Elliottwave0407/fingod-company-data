@@ -1,0 +1,105 @@
+{
+ "isin": "INE066O01014",
+ "sym": "WONDERLA",
+ "name": "Wonderla Holidays Limited",
+ "scrip": "538268",
+ "mcap_cr": 3173.57,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 96.78,
+   "ebitda": 19.74,
+   "pat": 11.01,
+   "margin_pct": 20.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 168.24,
+   "ebitda": 76.68,
+   "pat": 52.57,
+   "margin_pct": 45.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 80.15,
+   "ebitda": 7.49,
+   "pat": -1.75,
+   "margin_pct": 9.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 134.53,
+   "ebitda": 32.18,
+   "pat": 14.48,
+   "margin_pct": 23.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 135.85,
+   "ebitda": 43.81,
+   "pat": 16.42,
+   "margin_pct": 32.2,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 92,
+    "profit": 100,
+    "quality": 52
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 242.63,
+   "ebitda": 112.53,
+   "pat": 72.8,
+   "margin_pct": 46.4,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 88,
+    "profit": 60,
+    "quality": 70
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

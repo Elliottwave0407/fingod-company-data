@@ -1,0 +1,103 @@
+{
+ "isin": "INE159N01027",
+ "sym": "VIJIFIN",
+ "name": "Viji Finance Limited",
+ "scrip": "537820",
+ "mcap_cr": 329.64,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 0.59,
+   "ebitda": 0.52,
+   "pat": 0.68,
+   "margin_pct": 88.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.57,
+   "ebitda": -0.16,
+   "pat": -0.33,
+   "margin_pct": -28.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 0.58,
+   "ebitda": 0.07,
+   "pat": -0.1,
+   "margin_pct": 12.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.59,
+   "ebitda": 1.32,
+   "pat": 0.94,
+   "margin_pct": 83.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 2.35,
+   "ebitda": 2.12,
+   "pat": 2.15,
+   "margin_pct": 90.2,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.89,
+   "ebitda": 0.6,
+   "pat": 1.14,
+   "margin_pct": 67.4,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 2.77,
+   "ebitda": 2.12,
+   "pat": 1.51,
+   "margin_pct": 76.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

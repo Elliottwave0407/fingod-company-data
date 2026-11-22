@@ -1,0 +1,115 @@
+{
+ "isin": "INE843S01025",
+ "sym": "SURAJEST",
+ "name": "Suraj Estate Developers Limited",
+ "scrip": "544054",
+ "mcap_cr": 866.61,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 136.48,
+   "ebitda": 30.11,
+   "pat": 18.28,
+   "margin_pct": 22.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 132.47,
+   "ebitda": 49.58,
+   "pat": 21.28,
+   "margin_pct": 37.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 144.56,
+   "ebitda": 64.74,
+   "pat": 33.09,
+   "margin_pct": 44.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 180.05,
+   "ebitda": 53.58,
+   "pat": 25.17,
+   "margin_pct": 29.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 98.78,
+   "ebitda": 49.83,
+   "pat": 10.76,
+   "margin_pct": 50.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 51,
+    "profit": 100,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 144.71,
+   "ebitda": 53.28,
+   "pat": 22.85,
+   "margin_pct": 36.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 39,
+    "profit": 46,
+    "quality": 30
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 170.04,
+   "ebitda": 55.41,
+   "pat": 23.07,
+   "margin_pct": 32.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 34,
+    "profit": 20,
+    "quality": 10
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

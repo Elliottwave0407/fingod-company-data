@@ -1,0 +1,97 @@
+{
+ "isin": "INE861B01023",
+ "sym": "MOTOGENFIN",
+ "name": "The Motor & General Finance Limited",
+ "scrip": "501343",
+ "mcap_cr": 91.74,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1.74,
+   "ebitda": -0.4,
+   "pat": 0.01,
+   "margin_pct": -23.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1.79,
+   "ebitda": -0.01,
+   "pat": 0.23,
+   "margin_pct": -0.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1.68,
+   "ebitda": -0.13,
+   "pat": 1.11,
+   "margin_pct": -7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1.63,
+   "ebitda": -0.22,
+   "pat": -0.03,
+   "margin_pct": -13.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1.74,
+   "ebitda": 159.15,
+   "pat": 145.48,
+   "margin_pct": 9146.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1.86,
+   "ebitda": 0.4,
+   "pat": 2.27,
+   "margin_pct": 21.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

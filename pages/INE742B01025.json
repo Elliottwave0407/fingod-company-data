@@ -1,0 +1,105 @@
+{
+ "isin": "INE742B01025",
+ "sym": "GUFICBIO",
+ "name": "Gufic Biosciences Limited",
+ "scrip": "509079",
+ "mcap_cr": 4192.81,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 205.02,
+   "ebitda": 26.37,
+   "pat": 7.72,
+   "margin_pct": 12.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 223.72,
+   "ebitda": 33.29,
+   "pat": 13.07,
+   "margin_pct": 14.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 237.05,
+   "ebitda": 37.83,
+   "pat": 16.82,
+   "margin_pct": 16.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 231.41,
+   "ebitda": 32.98,
+   "pat": 12.42,
+   "margin_pct": 14.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 251.82,
+   "ebitda": 47.21,
+   "pat": 21.9,
+   "margin_pct": 18.7,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 82,
+    "profit": 95,
+    "quality": 64
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 260.82,
+   "ebitda": 46.61,
+   "pat": 22.31,
+   "margin_pct": 17.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 69,
+    "profit": 76,
+    "quality": 65
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 17,
+  "concalls_read": 3,
+  "latest_concall": "2026-11-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

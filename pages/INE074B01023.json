@@ -1,0 +1,115 @@
+{
+ "isin": "INE074B01023",
+ "sym": "PARACABLES",
+ "name": "Paramount Communications Limited",
+ "scrip": "530555",
+ "mcap_cr": 1947.4,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 507.02,
+   "ebitda": 31.7,
+   "pat": 18.74,
+   "margin_pct": 6.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 451.12,
+   "ebitda": 15.16,
+   "pat": 18.5,
+   "margin_pct": 3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 428.0,
+   "ebitda": 6.2,
+   "pat": 13.25,
+   "margin_pct": 1.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 460.92,
+   "ebitda": 15.14,
+   "pat": 7.48,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 573.31,
+   "ebitda": 29.86,
+   "pat": 20.52,
+   "margin_pct": 5.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 34,
+    "profit": 25,
+    "quality": 53
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 529.4,
+   "ebitda": 34.74,
+   "pat": 19.7,
+   "margin_pct": 6.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 78,
+    "profit": 68,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 560.4,
+   "ebitda": 40.91,
+   "pat": 24.24,
+   "margin_pct": 7.3,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 87,
+    "profit": 86,
+    "quality": 74
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-02"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

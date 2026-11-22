@@ -1,0 +1,105 @@
+{
+ "isin": "INE127B01011",
+ "sym": "HITECHGEAR",
+ "name": "The Hi-Tech Gears Limited",
+ "scrip": "522073",
+ "mcap_cr": 917.38,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 214.88,
+   "ebitda": 33.22,
+   "pat": 9.72,
+   "margin_pct": 15.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 215.55,
+   "ebitda": 26.14,
+   "pat": 6.0,
+   "margin_pct": 12.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 240.74,
+   "ebitda": 27.8,
+   "pat": 6.01,
+   "margin_pct": 11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 223.52,
+   "ebitda": 21.92,
+   "pat": 0.85,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 228.62,
+   "ebitda": 25.23,
+   "pat": 8.11,
+   "margin_pct": 11.0,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 20,
+    "profit": 9,
+    "quality": 6
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 237.69,
+   "ebitda": 26.35,
+   "pat": 4.76,
+   "margin_pct": 11.1,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 34,
+    "profit": 30,
+    "quality": 4
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

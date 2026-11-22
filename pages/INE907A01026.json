@@ -1,0 +1,115 @@
+{
+ "isin": "INE907A01026",
+ "sym": "KSL",
+ "name": "Kalyani Steels Limited",
+ "scrip": "500235",
+ "mcap_cr": 3668.17,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 544.33,
+   "ebitda": 114.31,
+   "pat": 80.2,
+   "margin_pct": 21.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 442.77,
+   "ebitda": 85.33,
+   "pat": 61.68,
+   "margin_pct": 19.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 456.07,
+   "ebitda": 85.4,
+   "pat": 62.53,
+   "margin_pct": 18.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 462.38,
+   "ebitda": 84.8,
+   "pat": 61.96,
+   "margin_pct": 18.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 484.39,
+   "ebitda": 97.81,
+   "pat": 71.68,
+   "margin_pct": 20.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 40,
+    "quality": 44
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 464.58,
+   "ebitda": 91.36,
+   "pat": 68.25,
+   "margin_pct": 19.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 35,
+    "profit": 52,
+    "quality": 59
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 494.38,
+   "ebitda": 107.18,
+   "pat": 79.87,
+   "margin_pct": 21.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 53,
+    "profit": 78,
+    "quality": 72
+   },
+   "capped_by": "revenue growth under 10%"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE451L01014",
+ "sym": "MAHASTEEL",
+ "name": "Mahamaya Steel Industries Limited",
+ "scrip": "513554",
+ "mcap_cr": 2302.95,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 236.17,
+   "ebitda": 7.71,
+   "pat": 5.41,
+   "margin_pct": 3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 207.05,
+   "ebitda": 5.52,
+   "pat": 1.74,
+   "margin_pct": 2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 188.57,
+   "ebitda": 5.12,
+   "pat": 1.88,
+   "margin_pct": 2.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 224.11,
+   "ebitda": 5.86,
+   "pat": 1.91,
+   "margin_pct": 2.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 263.12,
+   "ebitda": 7.85,
+   "pat": 4.07,
+   "margin_pct": 3.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 36,
+    "profit": 31,
+    "quality": 20
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 267.63,
+   "ebitda": 5.77,
+   "pat": 2.13,
+   "margin_pct": 2.2,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 53,
+    "profit": 28,
+    "quality": 37
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

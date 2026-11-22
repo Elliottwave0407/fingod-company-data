@@ -1,0 +1,105 @@
+{
+ "isin": "INE867A01022",
+ "sym": "MANUGRAPH",
+ "name": "Manugraph India Limited",
+ "scrip": "505324",
+ "mcap_cr": 39.97,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 27.93,
+   "ebitda": -0.46,
+   "pat": -1.15,
+   "margin_pct": -1.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 31.66,
+   "ebitda": 7.68,
+   "pat": 6.83,
+   "margin_pct": 24.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 14.2,
+   "ebitda": -0.82,
+   "pat": -1.08,
+   "margin_pct": -5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 17.69,
+   "ebitda": 0.93,
+   "pat": 0.44,
+   "margin_pct": 5.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 25.09,
+   "ebitda": 0.38,
+   "pat": -1.23,
+   "margin_pct": 1.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 17,
+    "profit": 64,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 25.71,
+   "ebitda": 6.84,
+   "pat": 7.46,
+   "margin_pct": 26.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 13,
+    "profit": 75,
+    "quality": 70
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

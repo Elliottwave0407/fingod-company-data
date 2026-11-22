@@ -1,0 +1,115 @@
+{
+ "isin": "INE500A01029",
+ "sym": "DCW",
+ "name": "DCW Limited",
+ "scrip": "500117",
+ "mcap_cr": 1378.96,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 537.91,
+   "ebitda": 55.86,
+   "pat": 11.38,
+   "margin_pct": 10.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 475.5,
+   "ebitda": 53.73,
+   "pat": 11.39,
+   "margin_pct": 11.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 539.21,
+   "ebitda": 58.02,
+   "pat": 13.81,
+   "margin_pct": 10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 519.81,
+   "ebitda": 45.24,
+   "pat": 4.9,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 609.06,
+   "ebitda": 64.58,
+   "pat": 18.08,
+   "margin_pct": 10.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 50,
+    "profit": 43,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 541.91,
+   "ebitda": 35.77,
+   "pat": 34.55,
+   "margin_pct": 6.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 25,
+    "profit": 5,
+    "quality": 80
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 662.86,
+   "ebitda": 47.45,
+   "pat": 10.36,
+   "margin_pct": 7.2,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 37,
+    "profit": 6,
+    "quality": 2
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-05"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

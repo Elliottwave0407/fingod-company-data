@@ -1,0 +1,115 @@
+{
+ "isin": "INE600Y01019",
+ "sym": "DYCL",
+ "name": "Dynamic Cables Limited",
+ "scrip": "540795",
+ "mcap_cr": 1660.92,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 331.18,
+   "ebitda": 34.19,
+   "pat": 23.56,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 262.04,
+   "ebitda": 26.94,
+   "pat": 18.21,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 281.56,
+   "ebitda": 30.81,
+   "pat": 19.64,
+   "margin_pct": 10.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 298.77,
+   "ebitda": 34.24,
+   "pat": 22.42,
+   "margin_pct": 11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 355.46,
+   "ebitda": 37.55,
+   "pat": 24.17,
+   "margin_pct": 10.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 40,
+    "profit": 43,
+    "quality": 43
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 349.1,
+   "ebitda": 38.0,
+   "pat": 24.95,
+   "margin_pct": 10.9,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 81,
+    "profit": 47,
+    "quality": 71
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 363.19,
+   "ebitda": 36.36,
+   "pat": 22.15,
+   "margin_pct": 10.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 64,
+    "profit": 30,
+    "quality": 49
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-10-29"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

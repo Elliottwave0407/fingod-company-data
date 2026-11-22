@@ -1,0 +1,105 @@
+{
+ "isin": "INE449A01011",
+ "sym": "AUTOAXLES",
+ "name": "Automotive Axles Limited",
+ "scrip": "505010",
+ "mcap_cr": 2668.65,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 559.64,
+   "ebitda": 62.63,
+   "pat": 45.93,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 489.38,
+   "ebitda": 47.86,
+   "pat": 35.72,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 461.76,
+   "ebitda": 48.29,
+   "pat": 35.95,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 562.29,
+   "ebitda": 51.89,
+   "pat": 38.81,
+   "margin_pct": 9.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 664.3,
+   "ebitda": 77.02,
+   "pat": 53.89,
+   "margin_pct": 11.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 61,
+    "profit": 45,
+    "quality": 61
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 516.82,
+   "ebitda": 59.9,
+   "pat": 45.6,
+   "margin_pct": 11.6,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 59,
+    "quality": 74
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-17"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE277B01014",
+ "sym": "PUNJABCHEM",
+ "name": "Punjab Chemicals & Crop Protection Limited",
+ "scrip": "506618",
+ "mcap_cr": 1094.52,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 202.28,
+   "ebitda": 21.33,
+   "pat": 7.05,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 319.51,
+   "ebitda": 34.36,
+   "pat": 20.63,
+   "margin_pct": 10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 255.16,
+   "ebitda": 26.24,
+   "pat": 18.54,
+   "margin_pct": 10.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 246.57,
+   "ebitda": 27.49,
+   "pat": 13.81,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 208.56,
+   "ebitda": 27.52,
+   "pat": 10.98,
+   "margin_pct": 13.2,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 51,
+    "profit": 69,
+    "quality": 57
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 347.24,
+   "ebitda": 40.81,
+   "pat": 22.07,
+   "margin_pct": 11.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 49,
+    "profit": 51,
+    "quality": 38
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 20,
+  "concalls_read": 0,
+  "latest_concall": "2026-11-06"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

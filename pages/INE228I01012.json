@@ -1,0 +1,105 @@
+{
+ "isin": "INE228I01012",
+ "sym": "ASAHISONG",
+ "name": "Asahi Songwon Colors Limited",
+ "scrip": "532853",
+ "mcap_cr": 430.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 152.75,
+   "ebitda": 17.07,
+   "pat": 6.87,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 149.88,
+   "ebitda": 10.55,
+   "pat": 2.59,
+   "margin_pct": 7.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 120.9,
+   "ebitda": 9.5,
+   "pat": 2.1,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 120.65,
+   "ebitda": 10.27,
+   "pat": 2.26,
+   "margin_pct": 8.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 144.05,
+   "ebitda": 19.53,
+   "pat": 10.82,
+   "margin_pct": 13.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 35,
+    "profit": 66,
+    "quality": 70
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 188.91,
+   "ebitda": 31.8,
+   "pat": 19.03,
+   "margin_pct": 16.8,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 84,
+    "profit": 93,
+    "quality": 75
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 4,
+  "latest_concall": "2026-11-21"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

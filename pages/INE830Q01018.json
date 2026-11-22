@@ -1,0 +1,115 @@
+{
+ "isin": "INE830Q01018",
+ "sym": "MANAKCOAT",
+ "name": "Manaksia Coated Metals & Industries Limited",
+ "scrip": "539046",
+ "mcap_cr": 1867.3,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 207.89,
+   "ebitda": 15.17,
+   "pat": 5.03,
+   "margin_pct": 7.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 249.8,
+   "ebitda": 24.48,
+   "pat": 14.01,
+   "margin_pct": 9.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 220.33,
+   "ebitda": 26.1,
+   "pat": 13.96,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 186.9,
+   "ebitda": 15.49,
+   "pat": 7.35,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 227.46,
+   "ebitda": 14.35,
+   "pat": 5.37,
+   "margin_pct": 6.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 31,
+    "profit": 27,
+    "quality": 24
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 262.14,
+   "ebitda": 28.16,
+   "pat": 14.1,
+   "margin_pct": 10.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 42,
+    "profit": 50,
+    "quality": 30
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 318.69,
+   "ebitda": 34.06,
+   "pat": 18.73,
+   "margin_pct": 10.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 81,
+    "profit": 28,
+    "quality": 60
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 10,
+  "concalls_read": 9,
+  "latest_concall": "2026-07-18"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,105 @@
+{
+ "isin": "INE999K01014",
+ "sym": "GREENPOWER",
+ "name": "Orient Green Power Company Limited",
+ "scrip": "533263",
+ "mcap_cr": 1044.0,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 41.47,
+   "ebitda": 16.74,
+   "pat": -15.09,
+   "margin_pct": 40.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 87.38,
+   "ebitda": 60.18,
+   "pat": 28.62,
+   "margin_pct": 68.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 131.01,
+   "ebitda": 112.88,
+   "pat": 80.94,
+   "margin_pct": 86.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 35.97,
+   "ebitda": 9.83,
+   "pat": -21.43,
+   "margin_pct": 27.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 38.59,
+   "ebitda": 10.58,
+   "pat": -16.56,
+   "margin_pct": 27.4,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 10,
+    "profit": 20,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 81.43,
+   "ebitda": 55.41,
+   "pat": 23.94,
+   "margin_pct": 68.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": 43,
+    "quality": 17
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-18"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

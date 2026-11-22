@@ -1,0 +1,105 @@
+{
+ "isin": "INE576I01022",
+ "sym": "JKIL",
+ "name": "J.Kumar Infraprojects Limited",
+ "scrip": "532940",
+ "mcap_cr": 3472.67,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1632.74,
+   "ebitda": 235.07,
+   "pat": 114.2,
+   "margin_pct": 14.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1483.89,
+   "ebitda": 216.92,
+   "pat": 103.44,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1342.51,
+   "ebitda": 194.55,
+   "pat": 90.57,
+   "margin_pct": 14.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1311.24,
+   "ebitda": 175.55,
+   "pat": 82.6,
+   "margin_pct": 13.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1585.39,
+   "ebitda": 225.37,
+   "pat": 110.29,
+   "margin_pct": 14.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 22,
+    "profit": 41,
+    "quality": 27
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1511.21,
+   "ebitda": 214.59,
+   "pat": 97.42,
+   "margin_pct": 14.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 26,
+    "profit": 39,
+    "quality": 23
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 12,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

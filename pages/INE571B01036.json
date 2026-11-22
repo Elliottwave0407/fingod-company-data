@@ -1,0 +1,105 @@
+{
+ "isin": "INE571B01036",
+ "sym": "JAYBARMARU",
+ "name": "Jay Bharat Maruti Limited",
+ "scrip": "520066",
+ "mcap_cr": 1401.84,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 610.66,
+   "ebitda": 57.71,
+   "pat": 20.56,
+   "margin_pct": 9.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 556.83,
+   "ebitda": 65.8,
+   "pat": 23.29,
+   "margin_pct": 11.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 582.65,
+   "ebitda": 61.39,
+   "pat": 18.43,
+   "margin_pct": 10.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 645.49,
+   "ebitda": 64.36,
+   "pat": 18.37,
+   "margin_pct": 10.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 766.01,
+   "ebitda": 90.95,
+   "pat": 79.59,
+   "margin_pct": 11.9,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 83,
+    "profit": 65,
+    "quality": 98
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 626.79,
+   "ebitda": 62.93,
+   "pat": 21.85,
+   "margin_pct": 10.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 34,
+    "profit": 21,
+    "quality": 14
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

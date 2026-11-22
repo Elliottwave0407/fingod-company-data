@@ -1,0 +1,108 @@
+{
+ "isin": "INE358U01012",
+ "sym": "ZOTA",
+ "name": "Zota Health Care LImited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 97.27,
+   "ebitda": 2.47,
+   "pat": -12.89,
+   "margin_pct": 2.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 103.58,
+   "ebitda": 3.96,
+   "pat": -13.78,
+   "margin_pct": 3.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 128.95,
+   "ebitda": 6.32,
+   "pat": -16.19,
+   "margin_pct": 4.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 142.95,
+   "ebitda": -0.44,
+   "pat": -29.64,
+   "margin_pct": -0.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 163.18,
+   "ebitda": 2.7,
+   "pat": -14.46,
+   "margin_pct": 1.7,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 70,
+    "profit": 24,
+    "quality": 0
+   },
+   "capped_by": "net loss"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 173.6,
+   "ebitda": -11.59,
+   "pat": -43.94,
+   "margin_pct": -6.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 199.33,
+   "ebitda": 3.06,
+   "pat": -25.96,
+   "margin_pct": 1.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 48,
+    "profit": 1,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-08-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

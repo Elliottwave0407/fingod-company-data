@@ -1,0 +1,105 @@
+{
+ "isin": "INE150G01020",
+ "sym": "LUXIND",
+ "name": "Lux Industries Limited",
+ "scrip": "539542",
+ "mcap_cr": 3431.18,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 817.69,
+   "ebitda": 76.62,
+   "pat": 48.0,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 604.33,
+   "ebitda": 35.29,
+   "pat": 23.25,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 778.76,
+   "ebitda": 43.9,
+   "pat": 23.06,
+   "margin_pct": 5.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 672.64,
+   "ebitda": 29.8,
+   "pat": 12.51,
+   "margin_pct": 4.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 873.01,
+   "ebitda": 64.2,
+   "pat": 47.26,
+   "margin_pct": 7.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 24,
+    "profit": 16,
+    "quality": 48
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 609.03,
+   "ebitda": 42.76,
+   "pat": 23.1,
+   "margin_pct": 7.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 44,
+    "profit": 49,
+    "quality": 32
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

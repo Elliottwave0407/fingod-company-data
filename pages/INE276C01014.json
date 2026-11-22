@@ -1,0 +1,105 @@
+{
+ "isin": "INE276C01014",
+ "sym": "EIHAHOTELS",
+ "name": "EIH Associated Hotels Limited",
+ "scrip": "523127",
+ "mcap_cr": 1783.91,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 139.91,
+   "ebitda": 60.55,
+   "pat": 46.28,
+   "margin_pct": 43.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 68.74,
+   "ebitda": 7.67,
+   "pat": 6.18,
+   "margin_pct": 11.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 58.33,
+   "ebitda": 3.52,
+   "pat": 2.77,
+   "margin_pct": 6.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 129.47,
+   "ebitda": 54.26,
+   "pat": 40.59,
+   "margin_pct": 41.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 127.19,
+   "ebitda": 49.66,
+   "pat": 37.63,
+   "margin_pct": 39.0,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 14,
+    "profit": 20,
+    "quality": 43
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 65.98,
+   "ebitda": 7.14,
+   "pat": 6.89,
+   "margin_pct": 10.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 20,
+    "profit": 37,
+    "quality": 58
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

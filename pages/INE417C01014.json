@@ -1,0 +1,105 @@
+{
+ "isin": "INE417C01014",
+ "sym": "PILANIINVS",
+ "name": "Pilani Investment and Industries Corporation Limited",
+ "scrip": "539883",
+ "mcap_cr": 4402.77,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 56.63,
+   "ebitda": 50.84,
+   "pat": -25.09,
+   "margin_pct": 89.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 49.69,
+   "ebitda": 46.13,
+   "pat": -4.02,
+   "margin_pct": 92.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 129.47,
+   "ebitda": 108.25,
+   "pat": 44.71,
+   "margin_pct": 83.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 59.6,
+   "ebitda": 55.27,
+   "pat": -14.39,
+   "margin_pct": 92.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 44.1,
+   "ebitda": 40.78,
+   "pat": 4.75,
+   "margin_pct": 92.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 8,
+    "profit": 78,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 14.44,
+   "ebitda": 11.48,
+   "pat": -47.25,
+   "margin_pct": 79.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 20,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

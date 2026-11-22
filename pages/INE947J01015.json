@@ -1,0 +1,115 @@
+{
+ "isin": "INE947J01015",
+ "sym": "DEN",
+ "name": "Den Networks Limited",
+ "scrip": "533137",
+ "mcap_cr": 1201.65,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 248.1,
+   "ebitda": 28.42,
+   "pat": 59.86,
+   "margin_pct": 11.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 241.27,
+   "ebitda": 20.99,
+   "pat": 53.64,
+   "margin_pct": 8.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 241.43,
+   "ebitda": 18.98,
+   "pat": 35.17,
+   "margin_pct": 7.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 251.01,
+   "ebitda": 13.12,
+   "pat": 40.38,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 240.57,
+   "ebitda": 15.33,
+   "pat": 36.43,
+   "margin_pct": 6.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 11,
+    "profit": 5,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 242.77,
+   "ebitda": 12.68,
+   "pat": 34.59,
+   "margin_pct": 5.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 13,
+    "profit": 4,
+    "quality": 40
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 232.56,
+   "ebitda": 10.05,
+   "pat": 36.77,
+   "margin_pct": 4.3,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 11,
+    "profit": 3,
+    "quality": 53
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,98 @@
+{
+ "isin": "INE365I01020",
+ "sym": "NBIFIN",
+ "name": "N. B. I. Industrial Finance Company Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 13.32,
+   "ebitda": 10.88,
+   "pat": 8.15,
+   "margin_pct": 81.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 0.42,
+   "ebitda": -0.29,
+   "pat": -0.35,
+   "margin_pct": -69.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 8.59,
+   "ebitda": 7.91,
+   "pat": 6.03,
+   "margin_pct": 92.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 9.52,
+   "ebitda": 8.72,
+   "pat": 6.49,
+   "margin_pct": 91.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1.33,
+   "ebitda": 0.36,
+   "pat": 0.26,
+   "margin_pct": 27.1,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": 20,
+    "quality": 35
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 2.17,
+   "ebitda": 1.5,
+   "pat": 1.11,
+   "margin_pct": 69.1,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

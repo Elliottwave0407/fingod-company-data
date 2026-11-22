@@ -1,0 +1,105 @@
+{
+ "isin": "INE634I01029",
+ "sym": "KNRCON",
+ "name": "KNR Constructions Limited",
+ "scrip": "532942",
+ "mcap_cr": 2925.12,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 851.19,
+   "ebitda": 117.51,
+   "pat": 75.19,
+   "margin_pct": 13.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 612.72,
+   "ebitda": 182.95,
+   "pat": 123.41,
+   "margin_pct": 29.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 646.5,
+   "ebitda": 192.56,
+   "pat": 104.64,
+   "margin_pct": 29.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 743.2,
+   "ebitda": 166.71,
+   "pat": 102.72,
+   "margin_pct": 22.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 695.59,
+   "ebitda": 169.12,
+   "pat": 106.1,
+   "margin_pct": 24.3,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 48,
+    "profit": 99,
+    "quality": 70
+   },
+   "capped_by": "revenue down YoY"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 587.94,
+   "ebitda": 209.6,
+   "pat": 80.72,
+   "margin_pct": 35.6,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 36,
+    "profit": 100,
+    "quality": 7
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-20"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,115 @@
+{
+ "isin": "INE879A01019",
+ "sym": "SHREERAMA",
+ "name": "Shree Rama Multi-Tech Limited",
+ "scrip": "532310",
+ "mcap_cr": 714.85,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 58.02,
+   "ebitda": 9.64,
+   "pat": 36.6,
+   "margin_pct": 16.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 55.35,
+   "ebitda": 11.14,
+   "pat": 7.35,
+   "margin_pct": 20.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 62.02,
+   "ebitda": 10.49,
+   "pat": 7.17,
+   "margin_pct": 16.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 59.85,
+   "ebitda": 9.93,
+   "pat": 5.53,
+   "margin_pct": 16.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 62.45,
+   "ebitda": 8.89,
+   "pat": 4.72,
+   "margin_pct": 14.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 28,
+    "profit": 18,
+    "quality": 19
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 80.52,
+   "ebitda": 13.48,
+   "pat": 8.06,
+   "margin_pct": 16.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 75,
+    "profit": 13,
+    "quality": 46
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 76.95,
+   "ebitda": 12.9,
+   "pat": 7.33,
+   "margin_pct": 16.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 65,
+    "profit": 44,
+    "quality": 37
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

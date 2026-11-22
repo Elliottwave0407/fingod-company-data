@@ -1,0 +1,115 @@
+{
+ "isin": "INE415A01038",
+ "sym": "AGI",
+ "name": "AGI Greenpac Limited",
+ "scrip": "500187",
+ "mcap_cr": 4266.47,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 704.83,
+   "ebitda": 154.15,
+   "pat": 96.61,
+   "margin_pct": 21.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 687.66,
+   "ebitda": 142.02,
+   "pat": 88.85,
+   "margin_pct": 20.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 601.58,
+   "ebitda": 149.52,
+   "pat": 75.98,
+   "margin_pct": 24.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 633.69,
+   "ebitda": 145.22,
+   "pat": 71.45,
+   "margin_pct": 22.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 742.39,
+   "ebitda": 152.91,
+   "pat": 115.38,
+   "margin_pct": 20.6,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 29,
+    "profit": 35,
+    "quality": 67
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 785.27,
+   "ebitda": 174.83,
+   "pat": 99.35,
+   "margin_pct": 22.3,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 57,
+    "profit": 66,
+    "quality": 45
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 655.46,
+   "ebitda": 142.16,
+   "pat": 66.5,
+   "margin_pct": 21.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 31,
+    "profit": 17,
+    "quality": 21
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 8,
+  "concalls_read": 8,
+  "latest_concall": "2026-02-04"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

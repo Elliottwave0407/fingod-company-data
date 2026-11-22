@@ -1,0 +1,98 @@
+{
+ "isin": "INE997Y01027",
+ "sym": "MITTAL",
+ "name": "Mittal Life Style Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 21.27,
+   "ebitda": 0.73,
+   "pat": 0.54,
+   "margin_pct": 3.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 21.48,
+   "ebitda": 0.34,
+   "pat": 0.03,
+   "margin_pct": 1.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 25.08,
+   "ebitda": 2.09,
+   "pat": 0.97,
+   "margin_pct": 8.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 20.83,
+   "ebitda": 1.85,
+   "pat": 0.83,
+   "margin_pct": 8.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 24.07,
+   "ebitda": 4.04,
+   "pat": 0.46,
+   "margin_pct": 16.8,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 74,
+    "profit": 93,
+    "quality": 6
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 19.35,
+   "ebitda": 2.64,
+   "pat": 0.69,
+   "margin_pct": 13.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

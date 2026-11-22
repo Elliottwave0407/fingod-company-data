@@ -1,0 +1,98 @@
+{
+ "isin": "INE972X01022",
+ "sym": "VAISHALI",
+ "name": "Vaishali Pharma Limited",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 32.25,
+   "ebitda": -6.04,
+   "pat": -4.29,
+   "margin_pct": -18.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 23.75,
+   "ebitda": 1.37,
+   "pat": 1.28,
+   "margin_pct": 5.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 33.45,
+   "ebitda": 1.39,
+   "pat": 1.19,
+   "margin_pct": 4.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 24.65,
+   "ebitda": 1.57,
+   "pat": 1.32,
+   "margin_pct": 6.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 26.93,
+   "ebitda": -0.2,
+   "pat": 0.38,
+   "margin_pct": -0.7,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 22.89,
+   "ebitda": 1.49,
+   "pat": 1.55,
+   "margin_pct": 6.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 31,
+    "profit": 45,
+    "quality": 81
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

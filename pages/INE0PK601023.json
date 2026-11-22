@@ -1,0 +1,105 @@
+{
+ "isin": "INE0PK601023",
+ "sym": "OCCLLTD",
+ "name": "OCCL Limited",
+ "scrip": "544278",
+ "mcap_cr": 745.26,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 107.48,
+   "ebitda": 18.68,
+   "pat": 8.7,
+   "margin_pct": 17.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 123.09,
+   "ebitda": 26.33,
+   "pat": 13.14,
+   "margin_pct": 21.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 119.64,
+   "ebitda": 19.23,
+   "pat": 8.69,
+   "margin_pct": 16.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 114.17,
+   "ebitda": 16.62,
+   "pat": 6.53,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 149.0,
+   "ebitda": 24.94,
+   "pat": 19.35,
+   "margin_pct": 16.7,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 80,
+    "profit": 39,
+    "quality": 90
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 219.67,
+   "ebitda": 61.66,
+   "pat": 40.25,
+   "margin_pct": 28.1,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 100,
+    "quality": 79
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 6,
+  "concalls_read": 5,
+  "latest_concall": "2026-02-10"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

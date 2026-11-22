@@ -1,0 +1,105 @@
+{
+ "isin": "INE668D01028",
+ "sym": "DONEAR",
+ "name": "Donear Industries Limited",
+ "scrip": "512519",
+ "mcap_cr": 455.31,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 257.66,
+   "ebitda": 13.32,
+   "pat": 1.61,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 196.32,
+   "ebitda": 21.19,
+   "pat": 8.81,
+   "margin_pct": 10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 236.92,
+   "ebitda": 30.37,
+   "pat": 12.4,
+   "margin_pct": 12.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 240.27,
+   "ebitda": 27.99,
+   "pat": 17.1,
+   "margin_pct": 11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 238.97,
+   "ebitda": 8.15,
+   "pat": 5.14,
+   "margin_pct": 3.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 9,
+    "profit": 16,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 212.11,
+   "ebitda": 23.23,
+   "pat": 11.26,
+   "margin_pct": 11.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 40,
+    "profit": 42,
+    "quality": 51
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

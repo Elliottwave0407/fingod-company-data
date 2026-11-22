@@ -1,0 +1,101 @@
+{
+ "isin": "INE727S01012",
+ "sym": "BRNL",
+ "name": "Bharat Road Network Limited",
+ "scrip": "540700",
+ "mcap_cr": 129.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 47.26,
+   "ebitda": 5.25,
+   "pat": -7.12,
+   "margin_pct": 11.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 46.25,
+   "ebitda": 28.06,
+   "pat": 13.35,
+   "margin_pct": 60.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 17.1,
+   "ebitda": -47.16,
+   "pat": 12.16,
+   "margin_pct": -275.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 42.05,
+   "ebitda": 34.3,
+   "pat": 25.22,
+   "margin_pct": 81.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 48.9,
+   "ebitda": -39.59,
+   "pat": -110.19,
+   "margin_pct": -81.0,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 47.39,
+   "ebitda": -73.2,
+   "pat": -87.27,
+   "margin_pct": -154.5,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 15,
+    "profit": -124,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

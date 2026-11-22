@@ -1,0 +1,107 @@
+{
+ "isin": "INE699B01027",
+ "sym": "SAMBHAAV",
+ "name": "Sambhaav Media Limited",
+ "scrip": "511630",
+ "mcap_cr": 105.49,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 10.88,
+   "ebitda": 1.26,
+   "pat": -0.11,
+   "margin_pct": 11.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 9.23,
+   "ebitda": 1.0,
+   "pat": -0.28,
+   "margin_pct": 10.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 10.08,
+   "ebitda": 1.75,
+   "pat": -0.42,
+   "margin_pct": 17.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 11.29,
+   "ebitda": 1.65,
+   "pat": 0.22,
+   "margin_pct": 14.6,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 12.51,
+   "ebitda": 1.06,
+   "pat": 0.56,
+   "margin_pct": 8.5,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 9.62,
+   "ebitda": -0.15,
+   "pat": -2.11,
+   "margin_pct": -1.6,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "tiny base"
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 10.98,
+   "ebitda": 1.41,
+   "pat": -0.25,
+   "margin_pct": 12.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 24,
+    "profit": 10,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

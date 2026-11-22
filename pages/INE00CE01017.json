@@ -1,0 +1,105 @@
+{
+ "isin": "INE00CE01017",
+ "sym": "SVLL",
+ "name": "Shree Vasu Logistics Limited",
+ "scrip": "544997",
+ "mcap_cr": 878.92,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 40.92,
+   "ebitda": 10.78,
+   "pat": 1.1,
+   "margin_pct": 26.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 49.75,
+   "ebitda": 12.44,
+   "pat": 1.87,
+   "margin_pct": 25.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 55.97,
+   "ebitda": 13.6,
+   "pat": 1.04,
+   "margin_pct": 24.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 55.82,
+   "ebitda": 12.81,
+   "pat": -1.13,
+   "margin_pct": 22.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 62.45,
+   "ebitda": 18.09,
+   "pat": 4.0,
+   "margin_pct": 29.0,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 97,
+    "profit": 78,
+    "quality": 50
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 64.75,
+   "ebitda": 16.7,
+   "pat": 3.25,
+   "margin_pct": 25.8,
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 76,
+    "profit": 60,
+    "quality": 50
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2026-11-07"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

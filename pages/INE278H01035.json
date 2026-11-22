@@ -1,0 +1,105 @@
+{
+ "isin": "INE278H01035",
+ "sym": "SANDHAR",
+ "name": "Sandhar Technologies Limited",
+ "scrip": "541163",
+ "mcap_cr": 3345.1,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 1014.08,
+   "ebitda": 108.8,
+   "pat": 42.61,
+   "margin_pct": 10.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 1090.09,
+   "ebitda": 84.28,
+   "pat": 28.01,
+   "margin_pct": 7.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 1270.37,
+   "ebitda": 119.47,
+   "pat": 73.38,
+   "margin_pct": 9.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 1184.64,
+   "ebitda": 107.9,
+   "pat": 33.45,
+   "margin_pct": 9.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1306.99,
+   "ebitda": 130.85,
+   "pat": 63.82,
+   "margin_pct": 10.0,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 66,
+    "profit": 32,
+    "quality": 62
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 1381.89,
+   "ebitda": 106.53,
+   "pat": 37.28,
+   "margin_pct": 7.7,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 69,
+    "profit": 38,
+    "quality": 43
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

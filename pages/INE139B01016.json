@@ -1,0 +1,115 @@
+{
+ "isin": "INE139B01016",
+ "sym": "UCAL",
+ "name": "UCAL LIMITED",
+ "scrip": "500464",
+ "mcap_cr": 311.25,
+ "group": "T",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 198.9,
+   "ebitda": -3.6,
+   "pat": -20.58,
+   "margin_pct": -1.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 194.52,
+   "ebitda": 10.21,
+   "pat": -6.01,
+   "margin_pct": 5.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 211.3,
+   "ebitda": 14.97,
+   "pat": -4.47,
+   "margin_pct": 7.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 198.52,
+   "ebitda": 4.75,
+   "pat": -9.69,
+   "margin_pct": 2.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 233.47,
+   "ebitda": 2.77,
+   "pat": -13.15,
+   "margin_pct": 1.2,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 55,
+    "profit": 62,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 203.15,
+   "ebitda": 19.39,
+   "pat": 5.84,
+   "margin_pct": 9.5,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 66,
+    "profit": 81,
+    "quality": 0
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 230.59,
+   "ebitda": 22.87,
+   "pat": 8.18,
+   "margin_pct": 9.9,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 67,
+    "profit": 68,
+    "quality": 10
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

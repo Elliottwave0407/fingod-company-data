@@ -1,0 +1,105 @@
+{
+ "isin": "INE100D01014",
+ "sym": "WSI",
+ "name": "W S Industries (I) Limited",
+ "scrip": "504220",
+ "mcap_cr": 571.26,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 39.67,
+   "ebitda": -0.37,
+   "pat": -1.65,
+   "margin_pct": -0.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 26.05,
+   "ebitda": 3.62,
+   "pat": 1.36,
+   "margin_pct": 13.9,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 24.05,
+   "ebitda": 2.42,
+   "pat": 0.29,
+   "margin_pct": 10.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 20.57,
+   "ebitda": -0.26,
+   "pat": -2.02,
+   "margin_pct": -1.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 20.83,
+   "ebitda": 3.62,
+   "pat": 2.59,
+   "margin_pct": 17.4,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 0,
+    "profit": 94,
+    "quality": 55
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 0.43,
+   "ebitda": -2.42,
+   "pat": 1.79,
+   "margin_pct": -562.8,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -450,
+    "quality": 60
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

@@ -1,0 +1,101 @@
+{
+ "isin": "INE0EK901012",
+ "sym": "TARC",
+ "name": "TARC Limited",
+ "scrip": "543249",
+ "mcap_cr": 3569.19,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 11.82,
+   "ebitda": -83.65,
+   "pat": -104.56,
+   "margin_pct": -707.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 75.89,
+   "ebitda": -120.31,
+   "pat": 54.21,
+   "margin_pct": -158.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 6.87,
+   "ebitda": -35.64,
+   "pat": -15.77,
+   "margin_pct": -518.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 38.38,
+   "ebitda": -18.21,
+   "pat": -21.03,
+   "margin_pct": -47.4,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 208.7,
+   "ebitda": -90.27,
+   "pat": 1.61,
+   "margin_pct": -43.3,
+   "verdict_v3": "Provisional",
+   "pillars": {},
+   "capped_by": "no profit base"
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 217.13,
+   "ebitda": 40.19,
+   "pat": 22.65,
+   "margin_pct": 18.5,
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 100,
+    "profit": 95,
+    "quality": 22
+   },
+   "capped_by": "profit down YoY"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26"
+  ],
+  "missing": [
+   {
+    "q": "Sep-26",
+    "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
+   }
+  ],
+  "concalls_found": 1,
+  "concalls_read": 1,
+  "latest_concall": "2024-11-19"
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}
