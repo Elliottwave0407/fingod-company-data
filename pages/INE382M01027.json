@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 155,
+  "by_category": {
+   "capex": 22,
+   "guidance": 59,
+   "capacity": 18,
+   "margin": 46,
+   "order_book": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-02",
+    "statement": "On track to reach 300+ restaurants by FY27 and 425-450 by FY30",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Plan to add 40-50 restaurants annually across portfolio, largely funded from internal accruals",
+    "period": "FY27 onward"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Target to cross 300 restaurants by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Internal target to reach around 500 restaurants by FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Long-term SSSG target of 5-7% for established restaurant business",
+    "period": "long-term"
+   }
+  ],
+  "ledger": "claims/INE382M01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

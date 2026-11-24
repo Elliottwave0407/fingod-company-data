@@ -124,5 +124,22 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "order_book": 2,
+   "capex": 1,
+   "guidance": 1,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Priorities: shift from sub-contracting to direct government contracting, disciplined execution of \u20b9217.57 Cr order book, progress on land acquisition via Atal Realty",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE0ALR01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

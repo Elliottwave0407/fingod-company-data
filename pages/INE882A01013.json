@@ -184,5 +184,25 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 6,
+  "by_category": {
+   "guidance": 2,
+   "capex": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Outlook for RMG exports remains positive",
+    "period": "future"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Finalisation of India\u2013EU FTA and rollover of India\u2013UK FTA expected to provide further boost",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE882A01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -130,5 +130,32 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 14,
+  "by_category": {
+   "capex": 5,
+   "order_book": 4,
+   "guidance": 3,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-09-10",
+    "statement": "Expansion financed through internal accruals and term loans with no equity dilution",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Indian power transformer market projected to grow from \u20b916,063 Cr to \u20b928,744 Cr by FY30E",
+    "period": "FY22 to FY30E"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "National renewable target of additional 500 GW over next 10-11 years",
+    "period": "next 10-11 years"
+   }
+  ],
+  "ledger": "claims/INE332H01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

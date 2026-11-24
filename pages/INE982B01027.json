@@ -132,5 +132,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 178,
+  "by_category": {
+   "capex": 38,
+   "capacity": 37,
+   "guidance": 58,
+   "order_book": 14,
+   "margin": 31
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Surat greenfield Phase 1 incremental revenue potential INR 250-275 crore",
+    "period": null
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Brownfield & debottlenecking incremental revenue potential INR 180-200 crore",
+    "period": null
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Distribution business & outsourcing incremental revenue potential ~INR 100 crore",
+    "period": null
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Revised FY27 revenue guidance to INR 850 crores from earlier INR 900 crores due to shipping constraints",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Expects to maintain EBITDA margins in high teens for remainder of FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE982B01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

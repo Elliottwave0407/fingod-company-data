@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 81,
+  "by_category": {
+   "capex": 25,
+   "capacity": 15,
+   "margin": 9,
+   "guidance": 28,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-25",
+    "statement": "FY2026-27 revenue guidance of approximately \u20b9500 crore",
+    "period": "FY2026-27"
+   },
+   {
+    "day": "2026-08-25",
+    "statement": "FY2026-27 EBITDA margin target of approximately 19%",
+    "period": "FY2026-27"
+   },
+   {
+    "day": "2026-08-25",
+    "statement": "Effective tax rate expected to be approximately 26% for FY2026-27",
+    "period": "FY2026-27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Commitments: commission PM4 and establish FlexC Base (bigger launch January); reach profitability in Food Services with top-line and bottom-line growth; advance FlexC structure commercialisation; strengthen innovation via material sciences",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Investor meet planned: Ayodhya plant site February (after Q3 results end-Jan); video conference next quarter; Mumbai around June",
+    "period": "February, next quarter, June"
+   }
+  ],
+  "ledger": "claims/INE551D01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

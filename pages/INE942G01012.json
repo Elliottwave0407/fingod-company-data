@@ -145,5 +145,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Monetisation of certain assets including investment in Equity shares of Eveready Industries India Limited by 31st March 2027 as per resolution plan approved by NARCL",
+    "period": "31st March 2027"
+   }
+  ],
+  "ledger": "claims/INE942G01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

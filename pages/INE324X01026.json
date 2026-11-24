@@ -136,5 +136,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 17,
+  "by_category": {
+   "capacity": 8,
+   "guidance": 5,
+   "margin": 2,
+   "capex": 1,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-20",
+    "statement": "Confident of receiving regular export orders under NAFED to enhance export contribution",
+    "period": "not stated"
+   },
+   {
+    "day": "2025-08-27",
+    "statement": "Targets 25-30% growth, possibly up to 50%, from international expansion over next 1-2 years",
+    "period": "next 1-2 years"
+   },
+   {
+    "day": "2025-08-27",
+    "statement": "Expects PAT margin to improve through FY26 on organic growth and value addition",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-09-02",
+    "statement": "Global rice market projected to reach USD 572.7 Bn by 2030 at 4.7% CAGR",
+    "period": "2025-2030"
+   },
+   {
+    "day": "2025-09-02",
+    "statement": "Global organic rice industry projected to reach USD 12.0 Bn by 2034 at 4.1% CAGR",
+    "period": "2024-2034"
+   }
+  ],
+  "ledger": "claims/INE324X01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

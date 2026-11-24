@@ -144,5 +144,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 50,
+  "by_category": {
+   "guidance": 11,
+   "capex": 17,
+   "capacity": 11,
+   "margin": 8,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Committed to achieving FY27 guidance as operations stabilize and seamless facility ramps up",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Welded capacity expansion expected to commission in H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Company confident of achieving 20-25% revenue growth for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Revenue growth guidance of 20% to 25% for FY27 reiterated",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "No specific margin guidance provided; priority to protect Q2 FY27 EBITDA margins",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE090501011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

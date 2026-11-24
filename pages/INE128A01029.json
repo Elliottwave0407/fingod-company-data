@@ -137,5 +137,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 104,
+  "by_category": {
+   "guidance": 29,
+   "margin": 25,
+   "order_book": 13,
+   "capex": 19,
+   "capacity": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "Targets alkaline market share of 25-30% in 2 years",
+    "period": "2 years"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Aims to become debt-free in 4-5 quarters",
+    "period": "4 to 5 quarters"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Will provide long-term EBITDA and turnover CAGR forecast in 1-2 quarters",
+    "period": "next 1-2 quarters"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expect to become debt-free within next 2 years unless major capex arises",
+    "period": "next 2 years"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Will provide 2-3 year CAGR growth projection and category-wise capital allocation plan around February-March after 10 quarters of consistent growth",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE128A01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

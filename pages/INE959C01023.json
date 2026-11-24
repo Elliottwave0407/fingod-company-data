@@ -145,5 +145,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 124,
+  "by_category": {
+   "capex": 34,
+   "capacity": 36,
+   "guidance": 20,
+   "margin": 26,
+   "order_book": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-16",
+    "statement": "Management expects 8-10% sales growth for FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-26",
+    "statement": "Management aims to return EBITDA margins to around 10% in FY27 but cautions worst of input cost impact may not be over",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Near-term sales growth target of 10-15% over next one year",
+    "period": "next one year"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Full-year guidance of Rs 50 crore net profit on Rs 1,000 crore turnover confirmed",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Sales growth guidance of 10-12% CAGR reiterated",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE959C01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

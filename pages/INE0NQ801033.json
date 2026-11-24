@@ -142,5 +142,42 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 28,
+  "by_category": {
+   "guidance": 12,
+   "capex": 9,
+   "capacity": 6,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-19",
+    "statement": "Digital Video Studio expected to become operational by Dec '26 quarter",
+    "period": "Dec '26 quarter"
+   },
+   {
+    "day": "2026-05-26",
+    "statement": "Management expects CX center utilization to exceed 91% by end of Q1 FY27",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "FY26 PBT growth 30% YoY, EBITDA growth 32% YoY",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "FY27+ margins expected to strengthen with operating leverage",
+    "period": "FY27+"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "FY26 base EBITDA margin ~15.5%",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE0NQ801033.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

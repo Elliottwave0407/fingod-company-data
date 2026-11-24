@@ -121,5 +121,26 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "capex": 2,
+   "guidance": 2,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-26",
+    "statement": "Packaging end-use segment expected CAGR 8.3%",
+    "period": "not stated"
+   },
+   {
+    "day": "2024-08-05",
+    "statement": "Roadmap for FY25: increase capacity utilization and explore global markets for niche products with limited competition",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE570D01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

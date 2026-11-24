@@ -134,5 +134,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 62,
+  "by_category": {
+   "guidance": 27,
+   "capacity": 10,
+   "capex": 13,
+   "margin": 7,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-11",
+    "statement": "Biotech pilot SSF facility 14 kg operational, first batch May 2025, target scale-up to 100 tonnes",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-05-23",
+    "statement": "Welding division targets Rs 25 crore annual sales next year",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Welding division targets annual sales of \u20b925 crore in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "Welding FY27 sales target \u20b925 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "New steel capacities expected by Q4 FY27, providing growth runway for cored wires",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE017W01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

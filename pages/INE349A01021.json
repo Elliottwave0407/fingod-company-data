@@ -126,5 +126,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 47,
+  "by_category": {
+   "guidance": 13,
+   "capex": 11,
+   "capacity": 7,
+   "order_book": 8,
+   "margin": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-20",
+    "statement": "EBITDA margin target maintained at 18-20% band despite growth",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-05-14",
+    "statement": "Expects 10-14% growth in international business for FY27, possibly up to 15%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Past 12-month revenue growth of 14.38% implies INR2,730 crores by FY31; aspirational vision is INR3,000 crores, INR2,500 crores looks low",
+    "period": "FY31"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Margins expected to move between 18% and 20% over annual periods",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Management reiterated conservative guidance of 15% top-line growth with 17-18% EBITDA margin, but noted H1 FY27 growth was 19% and expects to sustain and surpass this level.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE349A01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 56,
+  "by_category": {
+   "guidance": 18,
+   "margin": 14,
+   "order_book": 13,
+   "capex": 6,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-03",
+    "statement": "Revenue growth target of around 10% for FY27, potentially higher if conditions improve",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Management expects to meet or beat FY26 revenue growth but declines to give specific percentage guidance due to global headwinds and delayed project starts",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Management refuses to provide multi-year guidance citing geopolitical uncertainty and AI disruption",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "Strong pipeline of opportunities to expand engagements in Q3 and Q4",
+    "period": "Q3 FY27, Q4 FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "FCCB on hold due to macro conditions; will raise when market improves",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE164B01030.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -176,5 +176,43 @@
   ],
   "dividend_per_share": 1.25
  },
+ "claims": {
+  "total": 106,
+  "by_category": {
+   "order_book": 40,
+   "capex": 19,
+   "guidance": 35,
+   "margin": 6,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-26",
+    "statement": "Standalone business 2-3 year CAGR guided at 25-30% beyond FY27",
+    "period": "FY28-30"
+   },
+   {
+    "day": "2026-05-26",
+    "statement": "FY29 PAT guidance of INR450-500 crores reaffirmed",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Confident of achieving FY27 guidance for both Asian Energy Services and Kuiper",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Targeting ~INR 3,000 crore revenue and ~INR 700 crore EBITDA by FY29/30",
+    "period": "FY29/30"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Oil & Gas production to increase 5x to ~10,000 BOE by FY29/30",
+    "period": "FY29/30"
+   }
+  ],
+  "ledger": "claims/INE276G01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

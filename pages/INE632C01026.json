@@ -153,5 +153,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 67,
+  "by_category": {
+   "guidance": 13,
+   "capacity": 25,
+   "capex": 21,
+   "margin": 7,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-11-12",
+    "statement": "Expect Dahej facility to run at optimal capacity before end of financial year",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-01-20",
+    "statement": "Dahej facility expected to run at optimal capacity before end of FY25",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-11-19",
+    "statement": "Confident of improving EBITDA performance quarter-on-quarter; expect double-digit growth from non-food business (currently 2.5-5% of revenue); non-food shift driven by fertilizer, ink, sanitation, personal care, healthcare industries",
+    "period": "next few quarters"
+   },
+   {
+    "day": "2026-05-19",
+    "statement": "Expect full utilization of Dahej and Roha facilities in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "H2 FY27 expected to be similar or slightly better than H1 based on current order positions",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE632C01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

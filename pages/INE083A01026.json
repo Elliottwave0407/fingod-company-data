@@ -227,5 +227,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 72,
+  "by_category": {
+   "capex": 14,
+   "guidance": 25,
+   "capacity": 16,
+   "order_book": 9,
+   "margin": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-27",
+    "statement": "Path toward 20%+ EBITDA profile from 10-11% EBITDA range",
+    "period": null
+   },
+   {
+    "day": "2026-05-27",
+    "statement": "EBITDA profile moving from ~11% to 20%+",
+    "period": null
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Near term focus on commercial CDMO supplies, API profitability recovery, capacity utilisation",
+    "period": null
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Medium term focus on capacity augmentation, new customer opportunities, operating leverage",
+    "period": null
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Long term focus on innovation-led manufacturing, global partnerships, sustainable value creation",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE083A01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

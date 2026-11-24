@@ -141,5 +141,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 36,
+  "by_category": {
+   "capex": 13,
+   "capacity": 7,
+   "guidance": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "Priorities remain focused on higher capacity utilisation, better product mix and cost efficiency",
+    "period": null
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Export demand, particularly from Africa, has improved, creating scope to expand international business",
+    "period": null
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "India\u2013New Zealand FTA signed in April 2026 and India\u2013Oman CEPA support outlook subject to entry-into-force processes",
+    "period": null
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Optimistic about sustaining business momentum and improving profitability and margins in coming quarters",
+    "period": null
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Management expects growth momentum to continue in coming quarters with performance improving across revenue and profitability",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE594B01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

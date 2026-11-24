@@ -128,5 +128,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 23,
+  "by_category": {
+   "guidance": 17,
+   "capacity": 2,
+   "capex": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-28",
+    "statement": "Target 40% of total revenues from modern trade and e-commerce by FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "Medium-term vision to double revenue in next three years",
+    "period": null
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Expect EBITDA margins to stabilise in the range of 8%-9% going forward",
+    "period": null
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Targeting launch and scale-up of women's innerwear portfolio during H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "Intends to pass on higher input costs through appropriate price revisions in coming periods to support margin recovery",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE450G01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

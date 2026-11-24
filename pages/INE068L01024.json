@@ -132,5 +132,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 163,
+  "by_category": {
+   "guidance": 81,
+   "capex": 21,
+   "capacity": 23,
+   "order_book": 6,
+   "margin": 32
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-10",
+    "statement": "Long-term SSG target of 5-6%",
+    "period": "long-term"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Target online sales 8-10% in next 2 years from ~6% in FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Revenue target for FY27 remains INR 1,000 crores plus/minus 4-5%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "SSG target for FY27 remains 4-5% despite 1% in H1",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Internal target to double revenue to INR 2,000 crores in next 4-5 years",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE068L01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

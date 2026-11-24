@@ -159,5 +159,20 @@
   ],
   "dividend_per_share": 1.0
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 1,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Management expects the company to perform reasonably well in the coming periods despite geo-political challenges and U.S. trade tariffs.",
+    "period": "Coming periods"
+   }
+  ],
+  "ledger": "claims/INE290A01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

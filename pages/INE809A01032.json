@@ -183,5 +183,40 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "guidance": 7,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Strategic Entry into Complex P&K, NPK and DAP Fertilizer Manufacturing",
+    "period": "Priorities for FY 2027-28"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "To achieve key Leadership status in SSP fertilizer on Pan-India level",
+    "period": "Priorities for FY 2027-28"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Expand the Fertilizers Product Portfolio by including P&K Fertilizers Imports on large scale",
+    "period": "Priorities for FY 2027-28"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Inorganic growth strategy by acquiring SSP Unit",
+    "period": "Priorities for FY 2027-28"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Explore more industrial chemical products to De-risk from products dependency",
+    "period": "Long Term (2032-35)"
+   }
+  ],
+  "ledger": "claims/INE809A01032.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

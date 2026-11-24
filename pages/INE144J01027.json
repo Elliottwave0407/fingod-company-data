@@ -156,5 +156,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 50,
+  "by_category": {
+   "guidance": 13,
+   "capex": 11,
+   "capacity": 11,
+   "order_book": 5,
+   "margin": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-12",
+    "statement": "EBITDA margin expected to sustain at 13-14% for FY26, steady state 13-15%",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-30",
+    "statement": "Management expects ~18% revenue CAGR and ~200 bps margin expansion over the next three years if economic conditions remain stable, but may modify or defer plans due to geopolitical developments.",
+    "period": "next three years"
+   },
+   {
+    "day": "2026-05-30",
+    "statement": "Management hopes to cross the Rs 1,000 crore revenue milestone in FY27 if demand improves in the next month or two, while maintaining margins at current levels.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Revenue growth expected to continue in H2 FY27; no specific FY27 revenue or margin numbers given due to market unpredictability",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "18% CAGR targeted over next 2-3 years supported by CapEx projects and mining reserves",
+    "period": "next two to three years"
+   }
+  ],
+  "ledger": "claims/INE144J01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

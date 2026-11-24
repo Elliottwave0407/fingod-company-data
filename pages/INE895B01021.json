@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 103,
+  "by_category": {
+   "capex": 19,
+   "guidance": 46,
+   "margin": 23,
+   "capacity": 7,
+   "order_book": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-10",
+    "statement": "Management focused on broadening growth beyond Value segment and improving portfolio mix and realisations",
+    "period": null
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Company aims to double store count in Regional & Value Large Format stores with major focus on Southern India",
+    "period": null
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Revenue expected to grow 10%-12% next quarter; EBITDA margin expected 9%-10%",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Focus on strengthening product mix and driving operational efficiencies in H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Guides ~10% revenue growth and ~9% EBITDA margin for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE895B01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

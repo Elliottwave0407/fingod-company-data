@@ -145,5 +145,43 @@
   ],
   "dividend_per_share": 2.0
  },
+ "claims": {
+  "total": 113,
+  "by_category": {
+   "capex": 38,
+   "guidance": 29,
+   "capacity": 20,
+   "margin": 22,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-15",
+    "statement": "Capex guidance for FY27 is INR35-40 crore sustaining capex, no large capex planned",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Management expects to announce at least one new park before end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Chennai Park expected to take 2-3 years to achieve optimal utilization and sustainable profitability",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Long-term EBITDA margins for Chennai Park expected to stabilize at levels of established parks like Hyderabad, Bangalore and Kochi after 2-3 years",
+    "period": "long-term"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Company looking at 2-3 new locations for expansion, hopes to conclude deals before end of current financial year",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE066O01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -134,5 +134,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 118,
+  "by_category": {
+   "order_book": 48,
+   "guidance": 32,
+   "margin": 15,
+   "capex": 17,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-03",
+    "statement": "The underlying demand environment remains healthy across steel, solar manufacturing, chemicals and pharmaceuticals",
+    "period": "Q2FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "FY27 revenue growth guided at 15-20%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "FY27 EBITDA margin expected in low double digits",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "FY28 EBITDA margin target 14-15%",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Long-term annual growth target 20-25%",
+    "period": "next few years"
+   }
+  ],
+  "ledger": "claims/INE037Z01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

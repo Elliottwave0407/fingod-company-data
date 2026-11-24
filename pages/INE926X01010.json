@@ -126,5 +126,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 48,
+  "by_category": {
+   "guidance": 5,
+   "order_book": 37,
+   "capex": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-09",
+    "statement": "Company is recruiting senior professionals for diversification into rail and solar infrastructure domains",
+    "period": "not stated"
+   },
+   {
+    "day": "2024-11-12",
+    "statement": "Equity commitment for HAM projects comfortably met",
+    "period": "H1FY25"
+   },
+   {
+    "day": "2025-02-06",
+    "statement": "Railway project awards in 9M FY25: Karanjgaon-Aurangabad (Rs 447.11 Cr), Gaya-Son Nagar (Rs 709.11 Cr), Dhule-Nardana (Rs 716.11 Cr), Kalimandir-Dimna Chowk (Rs 261.01 Cr), Chennai-Tirupati Pkg-II (Rs 760 Cr)",
+    "period": "9M FY25"
+   },
+   {
+    "day": "2025-05-22",
+    "statement": "Expanding order book, equity commitment comfortably met for HAM projects",
+    "period": "March 2025"
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "ICRA reaffirmed AA- (Positive) for Long-term Fund based facilities and AA- (Positive)/A1+ for Long-term/Short-term Non-Fund Based facilities including enhanced exposure",
+    "period": "March 2026"
+   }
+  ],
+  "ledger": "claims/INE926X01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

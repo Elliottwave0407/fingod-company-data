@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 40,
+  "by_category": {
+   "guidance": 14,
+   "order_book": 12,
+   "capex": 6,
+   "margin": 7,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-20",
+    "statement": "MTF book targeted at \u20b91,750-1,800 crores by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-20",
+    "statement": "Distribution AUM targeted to grow 40% in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-20",
+    "statement": "Revenue growth target 15-25% annually, PAT growth 30-35% until 50-50 broking/non-broking mix achieved",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-21",
+    "statement": "Targets MTF book of INR1,750-1,800 crores by end FY27 and ~40% growth in distribution AUM by end FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-21",
+    "statement": "Targets 15-20% top-line growth and 20-30% bottom-line growth",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE549H01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -143,5 +143,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 142,
+  "by_category": {
+   "capex": 34,
+   "guidance": 60,
+   "order_book": 14,
+   "capacity": 20,
+   "margin": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-13",
+    "statement": "Mining and earthmoving will be key sectors; GET and defence industries expected to ramp up",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Company expects to maintain margin profile at the same level",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "FY27 revenue growth guidance maintained at approximately 30% year-on-year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "FY27 EBITDA margin outlook of 26% to 27% for full year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Long-term sustainable EBITDA margin target of 25% over 2-3 year horizon",
+    "period": "2-3 years"
+   }
+  ],
+  "ledger": "claims/INE124E01038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -145,5 +145,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 149,
+  "by_category": {
+   "capex": 23,
+   "guidance": 72,
+   "margin": 27,
+   "order_book": 7,
+   "capacity": 20
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-30",
+    "statement": "Advertisement cost to remain ~2%-3% of revenue",
+    "period": "FY28E"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Management targets positive SSSG for full FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Aim to nearly double square footage over next 5 years with calibrated expansion across Tier-1, Tier-2, Tier-3 cities",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Target 25-30 dailywear stores by end of FY27; currently 21 operational vs 15 in Q1",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Q3 FY27 expected to deliver good numbers; confident of positive SSSG for full FY27",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE0BJS01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

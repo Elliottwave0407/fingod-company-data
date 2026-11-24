@@ -132,5 +132,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 116,
+  "by_category": {
+   "guidance": 44,
+   "margin": 24,
+   "capex": 13,
+   "order_book": 14,
+   "capacity": 21
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-02",
+    "statement": "Vision 2028 targets Rs 1,500 cr revenue, 800 EBOs, 17-18% EBITDA margin by FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Revenue and profitability targets under Vision 2028 retained; EBO store target optimized to 800 by FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Committed to double-digit revenue growth for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Killer EBO SSG negative 10% on half-yearly basis; expected flattish on 9-month basis",
+    "period": "H1 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Overall revenue double-digit growth expected for full year FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE401H01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

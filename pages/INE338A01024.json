@@ -162,5 +162,35 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 9,
+  "by_category": {
+   "capex": 5,
+   "guidance": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-17",
+    "statement": "Dahej utilization expected to improve to 85-90% from Q2 FY26 onwards",
+    "period": "Q2 FY26"
+   },
+   {
+    "day": "2025-08-17",
+    "statement": "Target 50% of EBITDA from high-margin MAn & downstream products over medium term",
+    "period": null
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Maximizing capacity utilization remains our primary strategic objective for the current fiscal year",
+    "period": "Current fiscal year"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Working with consortium banks to enhance non-funded working capital limits to support higher capacity utilization and restore competitive cost structures",
+    "period": "Current fiscal year"
+   }
+  ],
+  "ledger": "claims/INE338A01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

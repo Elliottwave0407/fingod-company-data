@@ -133,5 +133,30 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "capex": 5,
+   "guidance": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-22",
+    "statement": "Hotel division plans to expand to 8-10 new religious and tourist destinations over next 5 years",
+    "period": null
+   },
+   {
+    "day": "2024-12-02",
+    "statement": "Hotel division aims to increase ARR and RevPAR through higher occupancies and strategic location",
+    "period": null
+   },
+   {
+    "day": "2025-02-25",
+    "statement": "Paper division targets capacity increase from 85,000 TPA to 100,000 TPA",
+    "period": "2023-24"
+   }
+  ],
+  "ledger": "claims/INE387I01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

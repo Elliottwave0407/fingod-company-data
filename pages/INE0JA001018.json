@@ -140,5 +140,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 140,
+  "by_category": {
+   "capex": 35,
+   "capacity": 36,
+   "guidance": 33,
+   "order_book": 23,
+   "margin": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "EBITDA margin target of around 18% over the next two years",
+    "period": "next 2 years"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "FY27 EBITDA margin expected to be less than 17%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Target to double revenue by FY29-FY30 from current levels with minimum 18% EBITDA margin",
+    "period": "FY29-FY30"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Targeting 15% volume growth for full year FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Expect H2 FY27 revenue of INR70 crores from data centre spooling at >30% EBITDA margin and INR40-50 crores from fittings at 17-18% EBITDA margin",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE0JA001018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

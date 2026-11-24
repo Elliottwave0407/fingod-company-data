@@ -138,5 +138,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 108,
+  "by_category": {
+   "guidance": 27,
+   "order_book": 40,
+   "capex": 13,
+   "capacity": 18,
+   "margin": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-06",
+    "statement": "Target revenue of \u20b911,000+ Cr and order book of \u20b92,641 Cr",
+    "period": "FY2027"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "FY27E revenue guidance revised to Rs 3,300\u20133,500 Cr",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Revised FY27 revenue guidance to Rs 3,300-3,500 crore from earlier Rs 3,200-3,400 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY28 revenue guidance maintained at Rs 4,000-4,200 crore",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY28 PAT margin guidance of 10-11%",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE0S3G01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

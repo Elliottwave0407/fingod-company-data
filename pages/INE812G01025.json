@@ -166,5 +166,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 96,
+  "by_category": {
+   "capex": 29,
+   "capacity": 19,
+   "guidance": 30,
+   "margin": 14,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-04",
+    "statement": "FY27 revenue growth and EBITDA margins expected to exceed earlier guidance",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "\u20b9280 crore capex program on track for completion by FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Peptides R&D facility fully operational; pilot scale production targeted Q4FY27; initial CRO revenue anticipated Q2FY28",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Targeting 10 DMF/CEP filings in FY27; 6 completed to date",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "FY27 revenue growth guidance of 15% and EBITDA margin of 20% expected to be exceeded",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE812G01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -170,5 +170,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 48,
+  "by_category": {
+   "capex": 13,
+   "guidance": 14,
+   "margin": 9,
+   "order_book": 3,
+   "capacity": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-14",
+    "statement": "International passenger traffic expected to grow 2.2x by FY32E",
+    "period": "FY24E-FY32E"
+   },
+   {
+    "day": "2025-02-18",
+    "statement": "Target FY2026 revenue mix: 75% flights, 25% non-air (currently 86% flights)",
+    "period": "FY2026"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "Target to operate 2000+ electric buses by FY2028",
+    "period": "FY2028"
+   },
+   {
+    "day": "2026-02-14",
+    "statement": "India online travel market projected USD 19.05 bn 2025 to USD 31.38 bn 2030 CAGR 10.5%",
+    "period": "2025-2030"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Vision 2030 aspirations: driving sustainable growth, expanding global reach and creating enduring value for customers, partners and shareholders.",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE07O001026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

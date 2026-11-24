@@ -154,5 +154,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 162,
+  "by_category": {
+   "guidance": 65,
+   "capex": 34,
+   "margin": 34,
+   "capacity": 18,
+   "order_book": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "Motor Division driving 5% input cost reduction through VA/VE, alternate suppliers, rejection reduction",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Home Appliances Division targets 20% revenue growth for FY27; Q1 achieved 18% growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Engineering Division targets INR2,000 crores revenue with 20% growth from existing business plus capex-driven expansion",
+    "period": "next 3-4 years"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Cost savings target for FY27 is INR120-150 crores; INR42-43 crores achieved in Q1",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Aspirational target of 20% revenue growth for Home Appliances in FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE559A01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -155,5 +155,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 59,
+  "by_category": {
+   "guidance": 15,
+   "order_book": 24,
+   "margin": 8,
+   "capex": 6,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Continue to enhance technical and financial pre-qualification credentials to participate in larger EPC opportunities and complex infrastructure programmes",
+    "period": "Future"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Positioned for sustainable revenue growth in FY26-27",
+    "period": "FY26-27"
+   },
+   {
+    "day": "2026-08-27",
+    "statement": "Targeting 10-15% revenue growth in FY27 from existing order book",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-27",
+    "statement": "Targeting EBITDA margin around 17% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-27",
+    "statement": "Expecting INR 300-350 crores revenue execution from current INR 700 crore order book in FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0V3U01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

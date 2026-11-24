@@ -141,5 +141,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 133,
+  "by_category": {
+   "guidance": 42,
+   "capex": 42,
+   "capacity": 23,
+   "order_book": 11,
+   "margin": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Accelerate Domestic Air Express growth through dedicated branch-level Key Account Management, stronger customer relationships and partnerships",
+    "period": "outlook"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Scale International Air Express through dedicated sales and operations teams at major air gateways, alongside expanded global partnerships and route coverage",
+    "period": "outlook"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Build on E-Commerce Express growth through enterprise marketplace additions, expansion of dedicated sales and operations teams, ONDC integration and the planned launch of the digital wallet system",
+    "period": "outlook"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Committed double-digit volume and revenue growth for FY27; margin improvement of 50-100 bps over last year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Expect 14-15%+ revenue growth in Q3 and Q4 FY27 with volume growth of 11-12%",
+    "period": "Q3 FY27, Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE586V01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 29,
+  "by_category": {
+   "guidance": 11,
+   "margin": 3,
+   "capacity": 8,
+   "capex": 5,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-11-26",
+    "statement": "Expects consolidated EBITDA margin of 20-22% going forward",
+    "period": "forward"
+   },
+   {
+    "day": "2024-11-26",
+    "statement": "SKL expected to generate \u20b915-20 crore revenue by FY25",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-11-26",
+    "statement": "Targeting 10% revenue increase in FY25",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-06-11",
+    "statement": "SKL India anticipates sustainable CAGR growth of 25-30% over next 3 years",
+    "period": "next 3 years"
+   },
+   {
+    "day": "2025-06-11",
+    "statement": "SKL India projects \u20b915-22 crore revenue from rugged power systems by FY25",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE568Z01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

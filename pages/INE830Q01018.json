@@ -150,5 +150,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 169,
+  "by_category": {
+   "capacity": 38,
+   "capex": 53,
+   "guidance": 41,
+   "margin": 17,
+   "order_book": 20
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-15",
+    "statement": "Vision FY29: Total Income, Total Output, EBITDA each targeted 3x FY26 levels",
+    "period": "FY29E"
+   },
+   {
+    "day": "2026-07-18",
+    "statement": "FY27 revenue target INR1,300-1,350 crores at ~150,000 tons",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-18",
+    "statement": "FY28 revenue target INR1,700-1,750 crores at 180,000-200,000 tons",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-07-18",
+    "statement": "EBITDA margin improvement of 1-2% from current ~11% level expected",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Vision FY29: Total Income 3x FY26 (Rs 896.27 Cr), Total Output 3x FY26 (1,04,251 MTPA), EBITDA 3x FY26 (Rs 92.21 Cr)",
+    "period": "FY29E"
+   }
+  ],
+  "ledger": "claims/INE830Q01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

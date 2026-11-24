@@ -190,5 +190,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 149,
+  "by_category": {
+   "capacity": 39,
+   "guidance": 48,
+   "capex": 28,
+   "order_book": 9,
+   "margin": 25
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-22",
+    "statement": "Cumulative OCF \u20b9800+ crore over FY27 & FY28",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Targeting 20% year-on-year volume growth in H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "EBITDA per ton target range of Rs 7,000-7,500 for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Cumulative operating cash flow target of Rs 800 crore over FY27 and FY28 combined",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Near-term ROCE target of 25%",
+    "period": "near-term"
+   }
+  ],
+  "ledger": "claims/INE0B9K01033.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

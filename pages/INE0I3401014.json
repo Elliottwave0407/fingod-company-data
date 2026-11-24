@@ -194,5 +194,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 90,
+  "by_category": {
+   "capex": 22,
+   "guidance": 21,
+   "capacity": 21,
+   "order_book": 13,
+   "margin": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-05",
+    "statement": "C-heavy derived ethanol price increased by INR 1.69/ltr to INR 57.97/lt",
+    "period": "current"
+   },
+   {
+    "day": "2025-05-09",
+    "statement": "No major capex planned for foreseeable future; focus on cane development and marginal maintenance capex",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-04",
+    "statement": "Expect gross sugar production of 34-35 million tons for 2025-26 season",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-04",
+    "statement": "Expect better performance in Q3-Q4 as dual-feed distillery and cane development efforts come on stream",
+    "period": "Q3-Q4 FY26"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Near-term capital allocation will remain measured, with limited incremental capex and a focus on efficiency-led investments, ensuring resilience in a policy-driven sector.",
+    "period": "near-term"
+   }
+  ],
+  "ledger": "claims/INE0I3401014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

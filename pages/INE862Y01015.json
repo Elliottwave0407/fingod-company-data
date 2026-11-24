@@ -123,5 +123,41 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 51,
+  "by_category": {
+   "order_book": 37,
+   "guidance": 13,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-14",
+    "statement": "WaSH execution pick-up from Q3 based on new order wins",
+    "period": "Q3 FY25-26"
+   },
+   {
+    "day": "2026-02-12",
+    "statement": "Railway execution on track for FY26 guidance; WaSH execution picked up from Q3 with multiple executions planned in Q4",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Revenue reflects positive order conversion at start of year; unexecuted book of \u20b982 Cr gives multi-quarter visibility to rebuild revenue through FY26-27",
+    "period": "FY26-27"
+   },
+   {
+    "day": "2026-09-18",
+    "statement": "FY27 priorities: commission portfolio, improve collections, strengthen profitability, maintain funding discipline, digitise operations",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "FY27 scorecard: Commission \u2192 Bill \u2192 Collect \u2192 Sustainable PBT; 2030 ambition 15+ Bn litres annual water recycling",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE862Y01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

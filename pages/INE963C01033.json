@@ -138,5 +138,42 @@
   ],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 80,
+  "by_category": {
+   "guidance": 31,
+   "capex": 24,
+   "order_book": 4,
+   "capacity": 21
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "40-50% of CFO available for alternative uses after FY27 capex conclusion",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Tariff refunds expected to support demand in H2 CY27 as retailers pass savings to consumers",
+    "period": "H2 CY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY27 revenue growth expected around 20%+",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY28 revenue momentum expected stronger than FY27",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Major capex cycle concludes in FY27, freeing 40-50% of CFO for alternative uses",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE963C01033.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

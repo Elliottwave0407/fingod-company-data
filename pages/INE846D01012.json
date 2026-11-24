@@ -132,5 +132,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 81,
+  "by_category": {
+   "capex": 29,
+   "guidance": 18,
+   "capacity": 27,
+   "margin": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-28",
+    "statement": "CPW to contribute more in revenues over next 2-3 years",
+    "period": null
+   },
+   {
+    "day": "2026-06-05",
+    "statement": "Expects positive demand momentum to sustain in FY27 with improving caustic soda realizations QoQ",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Target 40-45% renewable energy in short term, 80% in medium term",
+    "period": "null"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Expects revenue of INR550-600 crore next year after expansion, with INR80 crore annual free cash flow post-July",
+    "period": "next year"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Targets 70-80% renewable energy share within 2-3 years, subject to Rajasthan policy",
+    "period": "next 2 to 3 years"
+   }
+  ],
+  "ledger": "claims/INE846D01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

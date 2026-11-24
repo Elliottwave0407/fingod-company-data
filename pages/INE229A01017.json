@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 93,
+  "by_category": {
+   "guidance": 25,
+   "margin": 27,
+   "capex": 10,
+   "capacity": 14,
+   "order_book": 17
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-26",
+    "statement": "Revised FY27 revenue growth guidance upgraded to 15-18% YoY, EBITDA margin 13.8-14.3%.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-26",
+    "statement": "Revised FY27 revenue growth guidance to 15-18% (up from prior), EBITDA margin 13.8-14.3%.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-26",
+    "statement": "Q3-Q4 FY27 revenue normalization expected after H1 ramp-up delays.",
+    "period": "Q3-Q4 FY27"
+   },
+   {
+    "day": "2026-10-26",
+    "statement": "Revenue growth of 15% to 18% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-26",
+    "statement": "EBITDA margin of 13.8% to 14.3% for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE229A01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

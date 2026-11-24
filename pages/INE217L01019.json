@@ -134,5 +134,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 142,
+  "by_category": {
+   "guidance": 48,
+   "capex": 19,
+   "capacity": 20,
+   "order_book": 43,
+   "margin": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-19",
+    "statement": "FY27 sales value guidance INR3,300-3,500 crores (40-50% growth); collections guidance INR2,100-2,200 crores (26-30% growth)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "FY27 PBT margin expected 8-9%; FY28 PBT margin target ~10% (INR250 crores PBT on INR2,500 crores revenue)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "EBITDA margin target 22-24% by FY28; FY26 EBITDA margin was 13.5%",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "FY27 revenue guidance revised to INR1,500-1,600 crores with EBITDA around INR300 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "FY28 mission target of INR5,000 crores pre-sales, INR2,500 crores revenue and INR250 crores PBT remains intact",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE217L01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

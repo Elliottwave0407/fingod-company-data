@@ -156,5 +156,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 167,
+  "by_category": {
+   "capex": 42,
+   "capacity": 35,
+   "guidance": 54,
+   "order_book": 10,
+   "margin": 26
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "Reiterated FY27 revenue growth guidance of 15% year-on-year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Expect EBITDA margin of 17% to 18% for the year as cost pressures ease",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Commercial operations for new fourth line for Steel Bottles expected to begin in Q4 FY27",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "FY27 revenue growth guidance revised to 12% or higher; medium-term target of ~15% YoY from FY28",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "FY27 revenue growth guidance confirmed at 12%; targeting ~15% from FY28",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE00Y201027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

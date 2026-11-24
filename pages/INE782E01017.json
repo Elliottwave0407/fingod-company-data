@@ -130,5 +130,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 70,
+  "by_category": {
+   "guidance": 14,
+   "capex": 11,
+   "capacity": 11,
+   "order_book": 18,
+   "margin": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-14",
+    "statement": "On track to achieve breakeven in Africa operations by FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2025-11-14",
+    "statement": "Groundwork laid over past two quarters expected to reflect in stronger performance in second half of FY26",
+    "period": "H2 FY26"
+   },
+   {
+    "day": "2026-02-02",
+    "statement": "Management expects year-on-year improvement in margins and profitability, with quarterly EBITDA trajectory higher on a yearly basis",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-18",
+    "statement": "Management aims to sustain poultry segment performance and recover Animal Healthcare from Q1 FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Management expects poultry healthcare to sustain at current base and improve, with ruminant vaccines added from Africa",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE782E01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

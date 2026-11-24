@@ -155,5 +155,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 1,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Focus on improving utilisation of the expanded billet capacity, optimising manufacturing operations and deriving greater benefits from renewable energy integration",
+    "period": "Going forward"
+   }
+  ],
+  "ledger": "claims/INE590L01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

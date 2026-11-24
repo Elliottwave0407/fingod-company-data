@@ -143,5 +143,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 132,
+  "by_category": {
+   "guidance": 68,
+   "capex": 18,
+   "order_book": 10,
+   "margin": 29,
+   "capacity": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Expects customer brand revenue reduction of INR300-400 crores on annualized basis from exiting low-quality businesses",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Own brands Jean Dousset and With Clarity likely to close FY27 at INR375 crores annual revenue, INR172 crores achieved in H1",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Ambition to build INR1,000 crores direct-to-consumer business by FY29 driven by own brands growth, retail expansion, digital capabilities and operating leverage",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Target working capital cycle of approximately 180 days",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Target to reduce net debt to approximately INR100 crores by 2030",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE722H01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

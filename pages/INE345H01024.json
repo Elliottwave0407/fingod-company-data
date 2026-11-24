@@ -130,5 +130,26 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 6,
+  "by_category": {
+   "guidance": 2,
+   "capex": 3,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-26",
+    "statement": "Total fund raised Rs 450 crore in FY24-25",
+    "period": "FY24-25"
+   },
+   {
+    "day": "2026-05-20",
+    "statement": "Incremental debt raised at less than 10%",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE345H01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

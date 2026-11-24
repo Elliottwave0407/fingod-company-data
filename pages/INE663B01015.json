@@ -152,5 +152,43 @@
   ],
   "dividend_per_share": 10
  },
+ "claims": {
+  "total": 118,
+  "by_category": {
+   "guidance": 39,
+   "margin": 28,
+   "order_book": 15,
+   "capex": 24,
+   "capacity": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-29",
+    "statement": "Core Coding & Marking business expected to grow 10-15% for full year FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Track & Trace segment expected to gain strong momentum going forward",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Packaging business to deliver exponential growth",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Recently launched/acquired capabilities to deliver exponential growth over next 5-7 years",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Targets 60% gross profit and 30% EBIT margin in core coding and marking business",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE663B01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

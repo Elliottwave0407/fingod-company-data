@@ -130,5 +130,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 157,
+  "by_category": {
+   "capacity": 44,
+   "capex": 37,
+   "guidance": 45,
+   "margin": 24,
+   "order_book": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Targeting EBITDA margin improvement over next two to three quarters from current ~8%",
+    "period": "next two to three quarters"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Expect debt reduction of Rs 25-30 crores by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Target commercial production at MP plant in FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expect capacity utilization to reach 75% in H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Priorities: sustain dispatch momentum, improve capacity utilization, strengthen cost efficiencies, progressively improve profitability and cash flows",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE412U01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

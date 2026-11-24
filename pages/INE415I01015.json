@@ -132,5 +132,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 129,
+  "by_category": {
+   "guidance": 46,
+   "order_book": 18,
+   "capex": 33,
+   "capacity": 19,
+   "margin": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-03",
+    "statement": "Standalone revenue target to cross Rs 1,000 crore with 20% growth in FY27; Lonsen Kiri JV to cross Rs 1,300 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Copper Tube Plant commissioning targeted Q1 FY28, Copper Rod Plant Q2 FY28, Copper Refinery Q3 FY29",
+    "period": "FY28-FY29"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Copper tube plant targeted for Q1 FY28, copper rod plant FY28, copper refinery Q3 FY29",
+    "period": "FY28-FY29"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Previous INR 20,000-25,000 crore FY28 revenue guidance no longer holds due to dynamic project timelines",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Integrated Copper and Fertilizer complex scheduled for phased commissioning commencing in H1 FY28",
+    "period": "H1 FY28"
+   }
+  ],
+  "ledger": "claims/INE415I01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -145,5 +145,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 147,
+  "by_category": {
+   "guidance": 49,
+   "capacity": 34,
+   "order_book": 22,
+   "margin": 20,
+   "capex": 22
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-30",
+    "statement": "Pharma revenue target of INR50-55 crores for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "Capex for FY27 estimated at INR90 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Targets full-year FY27 volume growth of double digits and EBITDA per kg in INR45-46 range",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Targets FY27 EBITDA of INR250 crores and capex of INR75-80 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Targets INR50 EBITDA per kg in 2-3 years",
+    "period": "next 2-3 years"
+   }
+  ],
+  "ledger": "claims/INE893J01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

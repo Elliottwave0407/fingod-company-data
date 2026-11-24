@@ -124,5 +124,43 @@
   ],
   "dividend_per_share": 6.0
  },
+ "claims": {
+  "total": 83,
+  "by_category": {
+   "guidance": 26,
+   "margin": 18,
+   "capex": 12,
+   "capacity": 13,
+   "order_book": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-10",
+    "statement": "US automotive business expected to grow 60-70% over the next three years, potentially doubling.",
+    "period": "next 3 years"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Sustainable gross margin around 55-56%",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Footwear volume growth 5-10% yearly",
+    "period": "yearly"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Export general expected to continue double-digit growth",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Topline growth around 20% expected to continue in coming quarters",
+    "period": "coming quarters"
+   }
+  ],
+  "ledger": "claims/INE040D01038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

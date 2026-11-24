@@ -151,5 +151,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 50,
+  "by_category": {
+   "capex": 11,
+   "capacity": 13,
+   "guidance": 14,
+   "margin": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-10-30",
+    "statement": "Brownfield expansion planned in 5,500 MTPA increments to capture Insoluble Sulphur demand growth",
+    "period": null
+   },
+   {
+    "day": "2025-10-30",
+    "statement": "GST reduction on automobiles expected to boost vehicle sales and tyre production, increasing Insoluble Sulphur demand",
+    "period": null
+   },
+   {
+    "day": "2025-11-10",
+    "statement": "Expect 2-3% annual global demand growth for insoluble sulphur; domestic growth higher",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-02-04",
+    "statement": "India-EU FTA and USA trade deal expected to support export outlook and realisations",
+    "period": null
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "OCCL reported an EBITDA margin of 18% in FY 2025\u201326 (18% in FY 2024-25), reflecting resilience.",
+    "period": "FY 2025-26"
+   }
+  ],
+  "ledger": "claims/INE0PK601023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

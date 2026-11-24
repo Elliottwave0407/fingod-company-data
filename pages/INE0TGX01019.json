@@ -158,5 +158,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 22,
+  "by_category": {
+   "guidance": 7,
+   "order_book": 5,
+   "margin": 5,
+   "capacity": 2,
+   "capex": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "deepen leadership in water technologies, scale up in high-margin construction chemicals, strengthen cleaning and hygiene, invest in R&D, sustainability, and digital tools, and maintain discipline in capital allocation",
+    "period": "FY 2026-27"
+   },
+   {
+    "day": "2026-05-16",
+    "statement": "Revenue outlook remains positive across all business units",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-27",
+    "statement": "Management expects Q1 FY27 revenue to be an improvement over Q1 FY26, though seasonally lower than Q4 FY26.",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-10-24",
+    "statement": "Revenue outlook remains positive across all business units",
+    "period": "HY1 2026-27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Aspirational revenue target of Rs 1,000 crores in three years via organic growth, scaling smaller businesses, and inorganic opportunities",
+    "period": "next 3 years"
+   }
+  ],
+  "ledger": "claims/INE0TGX01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

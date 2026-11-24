@@ -138,5 +138,42 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 32,
+  "by_category": {
+   "capex": 5,
+   "guidance": 11,
+   "order_book": 10,
+   "margin": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Management targets cost of borrowings <10.5% by Mar FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Targets AUM of approximately \u20b92,500 crores by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Aims to bring Gross NPA below 1.50%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "No fresh capital needed until AUM reaches \u20b93,000-3,500 crores, not before FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Targets annual PAT of \u20b9500 crores without equity dilution",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE08KJ01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

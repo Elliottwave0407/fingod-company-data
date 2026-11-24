@@ -156,5 +156,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 94,
+  "by_category": {
+   "capex": 17,
+   "capacity": 12,
+   "guidance": 27,
+   "margin": 25,
+   "order_book": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-28",
+    "statement": "Management targets a gross margin range of 32% to 34% under business-as-usual conditions but notes volatility makes guidance difficult.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Committed to double-digit EBITDA margins over time; 3-year revenue CAGR target of 14-15% to cross INR 5,000 crores; mark-to-market better performance sustained for 8-10 quarters.",
+    "period": "3-year"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Aspiration to reach double-digit EBITDA margin over long term; expects to trend closer in next 4-6 quarters",
+    "period": "next 4-6 quarters"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Revenue growth guidance revised to more than 15% CAGR for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Long-term gross margin target remains ~32%",
+    "period": "long term"
+   }
+  ],
+  "ledger": "claims/INE142Z01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

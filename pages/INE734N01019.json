@@ -138,5 +138,43 @@
   "key_risks": [],
   "dividend_per_share": 0.5
  },
+ "claims": {
+  "total": 130,
+  "by_category": {
+   "capex": 25,
+   "capacity": 42,
+   "guidance": 20,
+   "margin": 34,
+   "order_book": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-14",
+    "statement": "Rail growth 10% last year vs market; targeting 15% with Ankleshwar, Indore, Jaipur additions and domestic volume expansion",
+    "period": "medium term"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Management expects double-digit growth for FY27 and 10-15% top-line growth across all segments",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Cash tax rate of 18.88% expected to continue for 7-8 years due to MAT credit utilization",
+    "period": "next 7-8 years"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Seasonal demand expected to strengthen with healthy customer acquisition pipeline",
+    "period": null
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Rail volume target of 100,000 TEUs per quarter as bare minimum; double-digit growth targeted for next year",
+    "period": "FY27, FY28"
+   }
+  ],
+  "ledger": "claims/INE734N01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

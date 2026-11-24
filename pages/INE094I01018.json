@@ -137,5 +137,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 114,
+  "by_category": {
+   "guidance": 40,
+   "order_book": 32,
+   "capex": 16,
+   "margin": 13,
+   "capacity": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-06",
+    "statement": "Guiding 30%+ year-on-year presales growth for FY26, building on 23% CAGR over last 3-4 years",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-02-05",
+    "statement": "Targeting growth across Pune Mumbai Bengaluru through outright deals redevelopment and capital efficient JVs JDAs",
+    "period": null
+   },
+   {
+    "day": "2026-02-05",
+    "statement": "Launched projects with 3.71 Mn Sq Ft salable area during 9M FY26",
+    "period": "9M FY26"
+   },
+   {
+    "day": "2026-02-05",
+    "statement": "Acquired projects with aggregate GDV ~Rs 2,250 Cr (~3 Mn Sq Ft salable area) during 9M FY2026",
+    "period": "9M FY26"
+   },
+   {
+    "day": "2026-05-22",
+    "statement": "FY26 Business Development GDV ~Rs.2,250 Cr",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE094I01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

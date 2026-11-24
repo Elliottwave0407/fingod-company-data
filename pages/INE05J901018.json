@@ -127,5 +127,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 63,
+  "by_category": {
+   "capex": 16,
+   "capacity": 9,
+   "guidance": 20,
+   "margin": 13,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-21",
+    "statement": "Management declined to commit to FY27 revenue growth figure; aims to perform to best capabilities",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Expect better Kharif quarter closing; sustainability and growth in both Kharif and Rabi but very high expectations not possible this year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Road ahead: expand biologicals & sustainable portfolio, increase high-margin product contribution, deepen farmer engagement with 100+ IDOs, accelerate global expansion, strengthen operational excellence, drive innovation-led growth",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Expect Q3 FY27 to remain challenging; industry analysts expect agri input earnings to bottom out between October and December 2026 with recovery from Q1 FY28",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Priorities for rest of FY27: deepen farmer engagements, expand differentiated portfolio across specialties and biologicals, pursue selective international opportunities, maintain discipline in procurement, inventory, manufacturing",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE05J901018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

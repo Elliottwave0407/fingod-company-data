@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 20,
+  "by_category": {
+   "order_book": 3,
+   "capex": 6,
+   "guidance": 8,
+   "margin": 1,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-03",
+    "statement": "Guiding to more than 20% revenue growth in FY27 at EBITDA margins of 25% to 27%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-10",
+    "statement": "FY27 revenue growth guided at 20%+ with EBITDA margin 25-27%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Confident of double-digit revenue growth in FY27 with stronger second half in revenue and profitability",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Maintains double-digit revenue growth target for FY27 with stronger second half in revenue and profitability",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Targets 120-day receivables cycle by March 2027",
+    "period": "March 2027"
+   }
+  ],
+  "ledger": "claims/INE0KGZ01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -149,5 +149,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 129,
+  "by_category": {
+   "order_book": 38,
+   "capacity": 25,
+   "capex": 17,
+   "guidance": 32,
+   "margin": 17
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-09-30",
+    "statement": "KPI Green Energy guides 25% revenue CAGR up to FY32 with Debt/Equity \u22644.0x and Net Debt/Run-rate EBITDA <~5x",
+    "period": "FY28\u2013FY32"
+   },
+   {
+    "day": "2026-09-30",
+    "statement": "Sun Drops Energia targets Debt/Equity \u22643.0x up to FY32",
+    "period": "Up till FY32"
+   },
+   {
+    "day": "2026-09-30",
+    "statement": "KP Energy targets Debt/Equity \u22642.5x up to FY28 and \u22642.0x up to FY32",
+    "period": "Up till FY28 / FY32"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Management expects current ~12% EBITDA margin to sustain for next 2-4 quarters; no margin improvement guided",
+    "period": "next 2-4 quarters"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Debt-to-equity ratio will not exceed 2x going forward, even after completing the 202 MW IPP portfolio",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE127T01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

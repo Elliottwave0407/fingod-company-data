@@ -148,5 +148,42 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 33,
+  "by_category": {
+   "guidance": 16,
+   "capex": 8,
+   "capacity": 5,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-13",
+    "statement": "Focus on improving EBITDA margins through Process Sciences and lab equipment",
+    "period": "Medium Term"
+   },
+   {
+    "day": "2026-05-27",
+    "statement": "Focus on improving EBITDA margins via high-margin Process Sciences and Lab Equipment",
+    "period": null
+   },
+   {
+    "day": "2026-08-05",
+    "statement": "Medium term goal: improve EBITDA margins through emphasis on Process Sciences and lab equipment, pricing strategy, expense control, renewable energy",
+    "period": null
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "Medium term goal to achieve revenue CAGR of 12-14%",
+    "period": null
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "Medium term goal to improve EBITDA margins through emphasis on Process Sciences and lab equipment, pricing strategy, backward integration and renewable energy",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE02L001032.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

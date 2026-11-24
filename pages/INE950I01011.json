@@ -137,5 +137,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 63,
+  "by_category": {
+   "guidance": 15,
+   "margin": 19,
+   "capacity": 5,
+   "order_book": 10,
+   "capex": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-14",
+    "statement": "Targets maintaining EBITDA margin around 24% in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-20",
+    "statement": "Capex for FY27 expected around INR 150-160 crore, similar to FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-20",
+    "statement": "No revenue guidance given for FY27; management says all teams working hard",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-21",
+    "statement": "Management expects festive shift of ~INR40 crore advertising revenue from Q2 to Q3 FY27 and remains optimistic on next two quarters despite geopolitical concerns",
+    "period": "Q3 FY27, H2 FY27"
+   },
+   {
+    "day": "2026-10-21",
+    "statement": "Management endeavors to achieve high single-digit to early double-digit full-year advertising revenue growth",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE950I01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

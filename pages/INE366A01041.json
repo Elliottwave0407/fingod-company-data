@@ -131,5 +131,40 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 20,
+  "by_category": {
+   "capacity": 2,
+   "guidance": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-14",
+    "statement": "Government banned sugar exports till 30 September 2026",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Expects healthy sugarcane crop in 2026-27 subject to normal weather post-September",
+    "period": "2026-27"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Committed to enhancing operational efficiencies and maintaining cost discipline",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Crushing for SS 2026-27 to start 5 Nov 2026 at DN/DP and 11 Nov 2026 at DD",
+    "period": "SS 2026-27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Focus on maximizing sugar production using C-heavy molasses for ethanol",
+    "period": "SS 2026-27"
+   }
+  ],
+  "ledger": "claims/INE366A01041.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

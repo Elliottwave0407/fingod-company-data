@@ -137,5 +137,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 98,
+  "by_category": {
+   "capex": 33,
+   "capacity": 22,
+   "guidance": 19,
+   "margin": 15,
+   "order_book": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-10",
+    "statement": "Expect plant utilisation to reach 30% to 40% over next two to three quarters",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Expect to complete European registrations transfer by end of 2027",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Customer expected to complete US filings by December 2026 for USFDA inspection",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Q2 EBITDA margin 17.68% within indicated 15%-18% range; expect modest margin decline for 2-3 quarters as new capacity costs absorb",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Long-term EBITDA margin target 15%-18% for non-regulated markets; regulated markets target 18%-22%",
+    "period": "medium term"
+   }
+  ],
+  "ledger": "claims/INE887E01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

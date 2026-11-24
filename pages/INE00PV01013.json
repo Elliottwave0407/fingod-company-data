@@ -133,5 +133,19 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 1,
+  "by_category": {
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Business prospects remain positive because of the growing global demand for steel doors, steel windows, green chalk boards, dual desks and purified drinking water systems etc. Your Company is expected to register decent growth from FY-2026-2027 onwards.",
+    "period": "FY-2026-2027 onwards"
+   }
+  ],
+  "ledger": "claims/INE00PV01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -138,5 +138,43 @@
   ],
   "dividend_per_share": 0.2
  },
+ "claims": {
+  "total": 77,
+  "by_category": {
+   "capex": 22,
+   "guidance": 23,
+   "capacity": 15,
+   "margin": 15,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-14",
+    "statement": "Targeting ROCE above 15% from Rajpat Logistics subsidiary business",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-08-03",
+    "statement": "Industry projected to reach 5.5 Mn MT by 2029 at 6-9% CAGR",
+    "period": "2029"
+   },
+   {
+    "day": "2026-08-03",
+    "statement": "Air freight market expected to grow to USD 17.22 Bn by 2028 at 5.7% CAGR",
+    "period": "2028E"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Indian air freight market projected to reach USD 17.22 Bn by 2028 at 5.7% CAGR",
+    "period": "2028E"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Indian warehousing market predicted to reach USD 34.99 Bn by 2027 at 15.64% CAGR",
+    "period": "2027"
+   }
+  ],
+  "ledger": "claims/INE529D01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

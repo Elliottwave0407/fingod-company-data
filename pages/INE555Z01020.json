@@ -139,5 +139,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 90,
+  "by_category": {
+   "guidance": 25,
+   "order_book": 15,
+   "capex": 15,
+   "margin": 24,
+   "capacity": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-11",
+    "statement": "Specialized services targeting INR50+ crores revenue in FY27 vs INR38 crores in FY26 with 20-25% growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-11",
+    "statement": "Standalone equipment rental targeting 25-30% growth in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Medium-term EBITDA margin target maintained at 37-38%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Revenue growth framework of 20-25% maintained for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Capex plan unchanged at INR80-100 crores for FY27, mostly complete by November",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE555Z01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

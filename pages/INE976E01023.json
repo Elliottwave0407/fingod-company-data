@@ -178,5 +178,43 @@
   ],
   "dividend_per_share": 0.3
  },
+ "claims": {
+  "total": 147,
+  "by_category": {
+   "guidance": 52,
+   "capex": 37,
+   "capacity": 27,
+   "order_book": 14,
+   "margin": 17
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "Expect domestic segment to compensate export challenges; not worried overall, bullish on FY27 despite possible one quarter of lower export call-offs",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Expect to catch up on pending export dispatches over next 3 quarters; pent-up demand likely after logistics normalization",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Domestic volume growth of 20% achievable; export volume recovery depends on freight normalization",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Targeting commercial production of expanded capacity in January 2027",
+    "period": "January 2027"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Overall volume growth likely 17-18% YoY; no revenue guidance due to agricultural commodity price uncertainty; cost-plus model",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE976E01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

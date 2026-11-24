@@ -148,5 +148,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 95,
+  "by_category": {
+   "guidance": 29,
+   "capex": 18,
+   "capacity": 20,
+   "order_book": 13,
+   "margin": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-19",
+    "statement": "EBITDA margin up about 1 point over coming quarters; PAT margin near 9% in H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-10-19",
+    "statement": "Fire-rated glass launch Q3 FY27; fire, railway and bullet-resistant glass ~10% of revenue next year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "FY27 revenue growth guidance of 25% to 40% year-on-year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "FY27 EBITDA margin target around 18% and PAT margin approximately 10%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Expect to reach INR600-650 crores peak revenue from existing infrastructure by FY28",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE955I01044.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

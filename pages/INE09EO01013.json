@@ -130,5 +130,31 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 6,
+  "by_category": {
+   "guidance": 3,
+   "capex": 2,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-14",
+    "statement": "Achieving a CAGR of 14% in sales over six years",
+    "period": "FY24"
+   },
+   {
+    "day": "2025-09-23",
+    "statement": "Credit rating reaffirmed at CARE A-; Stable for long-term bank facilities by CARE Edge Ratings in June 2025",
+    "period": "June 2025"
+   },
+   {
+    "day": "2025-09-23",
+    "statement": "Credit rating reaffirmed at CARE BBB+; Stable for long-term instruments by CARE Edge Ratings in June 2025",
+    "period": "June 2025"
+   }
+  ],
+  "ledger": "claims/INE09EO01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

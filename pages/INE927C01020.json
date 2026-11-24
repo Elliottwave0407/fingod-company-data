@@ -123,5 +123,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 126,
+  "by_category": {
+   "guidance": 42,
+   "order_book": 37,
+   "margin": 23,
+   "capex": 11,
+   "capacity": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-19",
+    "statement": "Target 2x growth in Adhikari loan disbursements for FY27 vs FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Expect 20-25% year-on-year profitability growth",
+    "period": "year-on-year"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Target to move CMS to BBPS agent module over next two years",
+    "period": "FY27, FY28, FY29"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "AEPS third-party cash deposit product to go live by end of Q3 or start of Q4",
+    "period": "end of Q3 or start of Q4"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Target micro LAP product launch by end of next quarter or start of Q4",
+    "period": "end of next quarter or start of Q4"
+   }
+  ],
+  "ledger": "claims/INE927C01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

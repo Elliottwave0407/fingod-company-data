@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 65,
+  "by_category": {
+   "guidance": 27,
+   "margin": 14,
+   "order_book": 15,
+   "capacity": 4,
+   "capex": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-03",
+    "statement": "Expect FY27 revenue growth of roughly 20%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Infinova sales expected to reflect in results from January-February 2027 after STQC certification",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Target INR75-80 crores Infinova revenue in first full year post-acquisition, then INR200 crores in second year",
+    "period": "FY28, FY29"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "WOZOYO US sales reached ~$2.2 million (INR20 crores) in first 3 months with 3-4% return rate vs industry 8-9%",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Honeywell brand revenue was INR369 crores in FY26, expected INR475-500 crores in FY27",
+    "period": "FY26, FY27"
+   }
+  ],
+  "ledger": "claims/INE985W01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

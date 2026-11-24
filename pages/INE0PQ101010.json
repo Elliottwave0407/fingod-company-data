@@ -131,5 +131,41 @@
   ],
   "dividend_per_share": 1.515
  },
+ "claims": {
+  "total": 27,
+  "by_category": {
+   "guidance": 17,
+   "capex": 8,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-19",
+    "statement": "Organized saree sector 9-10% CAGR, 32-37% market share by FY29",
+    "period": "FY24-FY29"
+   },
+   {
+    "day": "2026-06-02",
+    "statement": "Expect demand conditions in coming year to remain significantly weaker than recent years",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-02",
+    "statement": "Focus on improving product mix, enhancing sourcing efficiencies, and driving sustainable profitable growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Q2 and Q3 FY27 performance may not be strictly comparable year-on-year due to Diwali falling in a different month",
+    "period": "Q2 FY27 / Q3 FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Expect subdued operating environment for few more quarters due to soft retail demand and senior management misalignment",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0PQ101010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -103,5 +103,41 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 33,
+  "by_category": {
+   "guidance": 14,
+   "capex": 10,
+   "capacity": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-25",
+    "statement": "Anticipate huge demand for ester-based products with renewable energy capacity growth",
+    "period": null
+   },
+   {
+    "day": "2026-09-01",
+    "statement": "Expect export demand to remain buoyant in coming quarters",
+    "period": null
+   },
+   {
+    "day": "2026-09-01",
+    "statement": "Focus on developing products for Data Centres, Energy Storage and EVs",
+    "period": null
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Planning 50% capacity increase for Lubricants and doubling capacity for Diesel Exhaust Fluids",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Savsol Ester5 automotive lubricant sales growing at 4X industry growth rate",
+    "period": "not stated"
+   }
+  ],
+  "ledger": "claims/INE035D01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

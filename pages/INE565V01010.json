@@ -132,5 +132,41 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 34,
+  "by_category": {
+   "guidance": 6,
+   "capacity": 10,
+   "capex": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-18",
+    "statement": "Ahmedabad unit resumed operations since 20th Jan 2025 after fire incident on 22nd Oct 2024",
+    "period": "Q3 FY25"
+   },
+   {
+    "day": "2025-05-30",
+    "statement": "Profitability returned in the latter half of the year, reflecting a positive shift in overall performance",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-07-01",
+    "statement": "Expect ramp of PAP production in FY23",
+    "period": "FY23"
+   },
+   {
+    "day": "2026-02-25",
+    "statement": "Revenue remained largely stable YoY in 9M FY26 despite near-term pricing pressures",
+    "period": "9M FY26"
+   },
+   {
+    "day": "2026-02-25",
+    "statement": "EBITDA increased meaningfully YoY with margin maintained at 11.82% in 9M FY26",
+    "period": "9M FY26"
+   }
+  ],
+  "ledger": "claims/INE565V01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

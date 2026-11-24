@@ -103,5 +103,37 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 14,
+  "by_category": {
+   "order_book": 5,
+   "capex": 2,
+   "capacity": 3,
+   "guidance": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-15",
+    "statement": "Company receives regular monthly orders for telecom towers worth Rs 300-350 Mn",
+    "period": "not stated"
+   },
+   {
+    "day": "2024-08-15",
+    "statement": "Aligned with National Electricity Plan vision of Rs 4.76 trillion investment in power transmission FY23-27",
+    "period": "FY23-27"
+   },
+   {
+    "day": "2024-08-15",
+    "statement": "Central Electricity Authority Rs 2.4 lakh crore investment in ISTS for 500 GW renewable integration by 2030",
+    "period": "by 2030"
+   },
+   {
+    "day": "2025-02-15",
+    "statement": "ESG targets: Reduce Scope 1 and 2 GHG emissions by 10% by 2030 (vs 2023 baseline), achieve Zero Liquid Discharge for all plants by 2029, implement sustainable sourcing by 2028",
+    "period": "2030/2029/2028"
+   }
+  ],
+  "ledger": "claims/INE170V01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

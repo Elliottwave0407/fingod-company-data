@@ -123,5 +123,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 54,
+  "by_category": {
+   "guidance": 14,
+   "capex": 13,
+   "capacity": 17,
+   "order_book": 3,
+   "margin": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-20",
+    "statement": "Revenue contribution from Safranal expected towards end of Q2 FY27 with meaningful contribution from Q3 FY27",
+    "period": "Q2 FY27, Q3 FY27"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Cooling agents business expected to make meaningful contribution from Q3 FY27 as customer qualifications and recurring commercial supply scale up",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Phenol derivatives trial production expected end of Q2 FY27, commercial production targeted Q3 FY27, meaningful revenue from Q4 FY27",
+    "period": "Q2 FY27, Q3 FY27, Q4 FY27"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "FY27 is a ramp-up year with meaningful revenue ramp-up expected from FY28 as new verticals scale up",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Krystal products expected to be more than 50% of overall revenue by FY28",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE06XZ01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

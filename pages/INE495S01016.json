@@ -147,5 +147,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 120,
+  "by_category": {
+   "order_book": 35,
+   "guidance": 35,
+   "capacity": 19,
+   "margin": 14,
+   "capex": 17
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-10",
+    "statement": "Management's FY27 focus is to scale both verticals while restoring margins; near-term EBITDA margin moderation expected to be temporary",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Q1 FY27 revenue grew 35% YoY to Rs 515 cr, highest ever Q1 revenue",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "EBITDA margin moderated to 12.26% in Q1 FY27 due to input cost volatility and revenue mix change",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Cash profit increased 21% in Q1 FY27",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Management expects second half FY27 to be much better than first half; Consumer & Industrial revenue to comfortably cross Rs 1,000 crore for full year",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE495S01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

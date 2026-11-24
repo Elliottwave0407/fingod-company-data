@@ -149,5 +149,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 80,
+  "by_category": {
+   "guidance": 18,
+   "order_book": 6,
+   "capex": 18,
+   "capacity": 25,
+   "margin": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Commitment to achieve carbon neutrality for Scope 1 and Scope 2 emissions",
+    "period": "2040"
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "Expect improved export momentum in coming year as market conditions normalise",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-08",
+    "statement": "FY27 capex expected around INR 100 crore, similar to last year, with flexibility to expand faster if market conditions require",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Q1 FY27 consolidated total income grew 16% YoY to INR 495 crore; EBITDA grew 17% to INR 88 crore with margins at 18%; cash profit up 56% to INR 76 crore; PAT up 79% to INR 40 crore",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Management aims to maintain historical revenue growth trajectory but does not provide specific guidance",
+    "period": "next three to five years"
+   }
+  ],
+  "ledger": "claims/INE822C01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

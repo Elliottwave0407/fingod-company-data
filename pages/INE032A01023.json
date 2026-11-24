@@ -199,5 +199,20 @@
   ],
   "dividend_per_share": 0.4
  },
+ "claims": {
+  "total": 9,
+  "by_category": {
+   "guidance": 1,
+   "capex": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Medium term outlook appears promising due to anticipated implementation of Free Trade Agreements (FTA) with the United Kingdom and the European Union",
+    "period": "Later this year (FY 2026-27)"
+   }
+  ],
+  "ledger": "claims/INE032A01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

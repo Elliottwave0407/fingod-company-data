@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 112,
+  "by_category": {
+   "capex": 29,
+   "capacity": 29,
+   "guidance": 19,
+   "margin": 19,
+   "order_book": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-11",
+    "statement": "Management refrains from providing forward-looking revenue or margin guidance",
+    "period": null
+   },
+   {
+    "day": "2026-02-11",
+    "statement": "Plant 6 mechanical completion expected by end of FY26; commercialization targeted in H1 FY27",
+    "period": "FY26, H1 FY27"
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "Plant 6 commercialization on track for H1 FY27",
+    "period": "H1 FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Management does not provide forward guidance on growth or financial targets.",
+    "period": null
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Management does not provide segment-level or quarterly guidance; growth should be viewed over the long term",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE0H5O01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

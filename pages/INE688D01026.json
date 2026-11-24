@@ -133,5 +133,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 27,
+  "by_category": {
+   "guidance": 13,
+   "capex": 5,
+   "capacity": 3,
+   "order_book": 4,
+   "margin": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-12-23",
+    "statement": "Aims to sustain EBITDA margins in the 20-24% range",
+    "period": "medium term"
+   },
+   {
+    "day": "2025-12-23",
+    "statement": "Intends to maintain RoE in the mid-teens range (~15-18%)",
+    "period": "medium term"
+   },
+   {
+    "day": "2026-02-24",
+    "statement": "Expects 12-15% revenue growth over medium term driven by richer product mix and deeper penetration",
+    "period": null
+   },
+   {
+    "day": "2026-02-24",
+    "statement": "Aims to sustain EBITDA margins in 20-24% range supported by mix improvement, backward integration and operating leverage",
+    "period": null
+   },
+   {
+    "day": "2026-02-24",
+    "statement": "Intends to maintain RoE in mid-teens range (~15-18%) backed by strong cash generation, prudent capital allocation and low net debt-to-equity",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE688D01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -135,5 +135,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 80,
+  "by_category": {
+   "guidance": 31,
+   "capex": 12,
+   "capacity": 15,
+   "margin": 20,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-20",
+    "statement": "Expect EBITDA margin for full FY27 to be higher than FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Expect reported EBITDA to turn positive from Q2 FY27 onwards",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Expect cash breakeven by Q1 FY28 at the latest",
+    "period": "Q1 FY28"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Expect pre-Ind AS EBITDA positivity by Q4 FY27 or Q1 FY28",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Marketing spend forecast for FY27 is INR 40-45 crore",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE358U01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

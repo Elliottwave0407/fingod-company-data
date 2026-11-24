@@ -142,5 +142,21 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "margin": 1,
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-21",
+    "statement": "Multimodal business targeted to reach 30% of total volume within three years.",
+    "period": "next 3 years"
+   }
+  ],
+  "ledger": "claims/INE01EG01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

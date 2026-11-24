@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 25,
+  "by_category": {
+   "guidance": 7,
+   "capex": 9,
+   "capacity": 1,
+   "margin": 4,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-11",
+    "statement": "Paint business FY25 revenue target INR380 crores vs INR292 crores in FY24; EBITDA margin target 9.5% vs 8% in FY24",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-05-11",
+    "statement": "Steel volume growth target 16-17% annually vs industry 9-10%; royalty per tonne target INR500 in 5 years from INR395 currently",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2024-11-18",
+    "statement": "Targets INR 1,000 crore paint revenue in 4 years with ~15% EBITDA margin",
+    "period": "next 4 years"
+   },
+   {
+    "day": "2024-11-18",
+    "statement": "Expects 15% volume growth in steel franchisee route for FY25",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-11-18",
+    "statement": "Targets 10-15% paint revenue growth in FY25 to surpass INR 350 crore",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE0BTI01037.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

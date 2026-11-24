@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 127,
+  "by_category": {
+   "guidance": 34,
+   "capex": 29,
+   "capacity": 32,
+   "margin": 19,
+   "order_book": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-14",
+    "statement": "India cleaning & hygiene TAM $2.1B in 2024, projected $4.5B by 2033 at 8.9% CAGR",
+    "period": "2024-2033"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "US data center water chemicals market $1.99B in 2026, growing to $3.08B by 2031 at 9.1% CAGR",
+    "period": "2026-2031"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Targeting INR3,000 crores revenue by FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Expecting 3x-4x growth from current levels over 6-7 years",
+    "period": "next 6-7 years"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Targeting $200 million revenue for CrudeChem by calendar year 2028",
+    "period": "CY28"
+   }
+  ],
+  "ledger": "claims/INE045J01034.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

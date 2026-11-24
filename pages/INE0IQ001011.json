@@ -154,5 +154,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 112,
+  "by_category": {
+   "guidance": 69,
+   "capex": 13,
+   "order_book": 8,
+   "margin": 13,
+   "capacity": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "SNVA Veranda Ltd FY27 Target: \u20b9250+ Cr revenue, \u20b950+ Cr EBITDA, 2 lakh+ learner base, 60+ countries global presence",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Commerce demerger expected to complete by first half of September 2026",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Post-demerger Commerce business targets INR1,000 cr revenue by FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "FY27 guidance for continuing business: revenue INR175 cr, EBITDA INR46 cr, PAT ~INR32 cr",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "5-year target: revenue INR600 cr, EBITDA INR120-140 cr for non-commerce business",
+    "period": "next 5 years"
+   }
+  ],
+  "ledger": "claims/INE0IQ001011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

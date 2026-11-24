@@ -140,5 +140,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 141,
+  "by_category": {
+   "guidance": 51,
+   "capex": 29,
+   "capacity": 22,
+   "order_book": 13,
+   "margin": 26
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-08",
+    "statement": "Targeting value added MDF products to contribute 60% of MDF revenues and 50% of MDF volumes in FY2027",
+    "period": "FY2027"
+   },
+   {
+    "day": "2026-08-08",
+    "statement": "No major capital expenditure planned beyond maintenance capex in FY2027",
+    "period": "FY2027"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Management reiterated prior guidance without providing new numbers for FY27 revenue.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Management expects FY27 performance to be better than H1 FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Management will not give FY28 guidance at this time",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE573K01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

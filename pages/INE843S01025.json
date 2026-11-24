@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 186,
+  "by_category": {
+   "order_book": 58,
+   "capex": 32,
+   "capacity": 30,
+   "guidance": 49,
+   "margin": 17
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-24",
+    "statement": "FY27 presales guidance of INR700 crores for residential plus commercial portfolio",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-24",
+    "statement": "Target to sell minimum 1 lakh square feet additional in One Business Bay for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "FY27 pre-sales guidance Rs 700 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "FY27 presales guidance of INR700 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "FY27 launch pipeline INR1,600 crores, INR800 crores commercial Q3, INR250 crores residential Q3, balance Q4",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE843S01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -134,5 +134,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 133,
+  "by_category": {
+   "guidance": 54,
+   "margin": 18,
+   "capex": 26,
+   "capacity": 33,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-29",
+    "statement": "Green power share target of 60% by FY28 from 61% in Q2 FY27",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Volumes expected to grow ahead of industry in H2 FY27 supported by calibrated expansion strategy",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY27 cost target of INR4,250 per metric ton",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Industry demand growth expected at higher single digit for H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY28 cost target of INR4,000 per metric ton for combined capacity of 149 MTPA",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE876N01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

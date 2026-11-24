@@ -147,5 +147,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 179,
+  "by_category": {
+   "guidance": 68,
+   "order_book": 27,
+   "capex": 30,
+   "margin": 25,
+   "capacity": 29
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-21",
+    "statement": "FY28-29 revenue expected to grow more than 10% YoY; EBITDA margin target 25-26%",
+    "period": "FY28-29"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Indian entity revenue to grow 30-35% in FY27; operating margin close to 10%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "FY27 revenue may not grow; medium-term high-single to double-digit growth expected",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "FY28-29 top-line growth 10-12% annually; EBITDA margin >20-21%",
+    "period": "FY28-29"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Full-year FY27 EBITDA margin expected around 15-16%",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE385W01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

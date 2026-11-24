@@ -164,5 +164,30 @@
   ],
   "dividend_per_share": 1
  },
+ "claims": {
+  "total": 4,
+  "by_category": {
+   "guidance": 3,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Expect Non-SLR business to keep gaining market share",
+    "period": "FY 2026-27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Expect Crest Oaks and Crest Uno, Bandra to add to revenue",
+    "period": "over the year"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Expect Crest 4 Pali Hill, Crest Saidale and Crest Golfshire to contribute",
+    "period": "next two to three years"
+   }
+  ],
+  "ledger": "claims/INE559D01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

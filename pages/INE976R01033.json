@@ -145,5 +145,22 @@
   ],
   "dividend_per_share": 0.2
  },
+ "claims": {
+  "total": 6,
+  "by_category": {
+   "capacity": 1,
+   "capex": 3,
+   "order_book": 1,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Pipeline of approximately 7.9 million square feet scheduled for launch in the near future",
+    "period": "Near future"
+   }
+  ],
+  "ledger": "claims/INE976R01033.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

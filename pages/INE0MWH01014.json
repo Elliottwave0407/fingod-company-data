@@ -99,5 +99,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 95,
+  "by_category": {
+   "capacity": 23,
+   "capex": 16,
+   "guidance": 39,
+   "order_book": 8,
+   "margin": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-23",
+    "statement": "CBG Units 2, 3, 4 expected operational by end of Q3 FY27; Unit 5 (Daund) by end of Q4 FY27",
+    "period": "Q3 FY27, Q4 FY27"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "SAF project: \u20b9150 Cr grant sanctioned under PM JI-VAN Yojana; construction linked to blending roadmap",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "Retail fuel network: 7 outlets operational, 6 more to launch in coming months targeting 13 under Phase 1 of 100-outlet rollout",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Expects ethanol allocation of 40-42 crore liters for new supply year starting November 2026",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Targets average capacity utilization of 75-80% going forward",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE0MWH01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

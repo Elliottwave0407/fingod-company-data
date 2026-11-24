@@ -130,5 +130,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 33,
+  "by_category": {
+   "order_book": 7,
+   "guidance": 9,
+   "margin": 9,
+   "capex": 6,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-21",
+    "statement": "Internal target for CARBON ARR growth is 35% for FY26; 14% achieved in H1.",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-25",
+    "statement": "Targets INR500 crore revenue in 4-5 years requiring slightly over 30% CAGR; SaaS ARR growth target ~35%",
+    "period": "next 4-5 years"
+   },
+   {
+    "day": "2026-05-25",
+    "statement": "Targets ~35% ARR growth for SaaS business; SupTech to grow at lower rate but with potential surprises",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Target SaaS revenue growth of about 35% annually in foreseeable future",
+    "period": "foreseeable future"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Aim to keep sales and marketing spend at $1-$1.4 per $1 of net ARR earned",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE864K01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 77,
+  "by_category": {
+   "capacity": 19,
+   "guidance": 24,
+   "capex": 15,
+   "margin": 5,
+   "order_book": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-20",
+    "statement": "Target installed capacity 100,000 tons",
+    "period": null
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Target installed capacity of 1,00,000 tons by year 2028",
+    "period": "FY28E"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Targets 15-20% year-on-year revenue growth over next 2-3 years",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Targets EBITDA margin of 14-15% with potential upside from Lost Foam Casting ramp-up",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Expects exports to contribute 10-15% of sales in next 3-5 years",
+    "period": "next 3-5 years"
+   }
+  ],
+  "ledger": "claims/INE583R01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

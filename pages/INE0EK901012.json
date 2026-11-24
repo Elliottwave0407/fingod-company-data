@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 63,
+  "by_category": {
+   "guidance": 39,
+   "capex": 11,
+   "order_book": 9,
+   "capacity": 3,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-12",
+    "statement": "Yearly Cashflow Projections: FY27 \u20b91,600-1,800 Cr, FY28 \u20b91,800-2,000 Cr, FY29 \u20b92,300-2,500 Cr, FY30 ~\u20b94,000 Cr",
+    "period": "FY27-FY30"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "FY 2026-27: Revenue Recognition of TARC Tripundra of over ~\u20b91,000 crore; Scale up new launches; Debt Reduction",
+    "period": "FY 2026-27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "FY2027-28: Improved Cashflows; Cash Positive; New Investments in JDA/JV and Land",
+    "period": "FY2027-28"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "FY2029 & 30: Revenue Recognition begins for Kailasa & Ishva of ~\u20b98,000 crore",
+    "period": "FY2029 & 30"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "FY2031 & 32: Additional Revenue Recognition for Upcoming Developments",
+    "period": "FY2031 & 32"
+   }
+  ],
+  "ledger": "claims/INE0EK901012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

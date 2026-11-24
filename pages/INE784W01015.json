@@ -142,5 +142,31 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "capacity": 4,
+   "capex": 4,
+   "guidance": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-09-23",
+    "statement": "Projected revenue Q2 FY2024-25 approx 165-170 Cr",
+    "period": "Q2 FY2024-25"
+   },
+   {
+    "day": "2025-01-06",
+    "statement": "Projected revenue approx. 160 Cr in Q3 FY 2024-25",
+    "period": "Q3 FY25"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "plans for the future include diversification of our product portfolio, addition of new capacities, exploring new geographies",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE784W01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

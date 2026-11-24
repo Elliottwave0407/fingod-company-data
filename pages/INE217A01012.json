@@ -130,5 +130,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 81,
+  "by_category": {
+   "capex": 14,
+   "capacity": 11,
+   "order_book": 22,
+   "guidance": 25,
+   "margin": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-19",
+    "statement": "Expect Q4 cane crush of ~90 lakh quintals at 100% capacity utilization over 90 days",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-06-01",
+    "statement": "External borrowings expected to reduce to INR700-800 crores by end of FY27 after Dubai and associate inflows",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Management guides INR900 crore profit repatriation from St. Regis Dubai project in FY27, with INR142.58 crore already received in Q1.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Repatriation of profits commenced from Dubai project: Q2 Rs 2.2 Cr, H1 Rs 2.9 Cr",
+    "period": "H1 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Dubai project received 210 Mn AED as on 7 Nov 26",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE217A01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

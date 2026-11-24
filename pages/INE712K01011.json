@@ -135,5 +135,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 132,
+  "by_category": {
+   "capex": 51,
+   "guidance": 29,
+   "capacity": 34,
+   "margin": 14,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-12",
+    "statement": "Funding for expansion through internal accruals and preferential allotment",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "FY27 revenue target Rs 1,250-1,400 crore with PAT margin 8.5-9%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "FY28 revenue potential Rs 1,700-1,750 crore with full year Unit 6 operation",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Management guides FY27 revenue of INR1,250-1,300 crores with three-digit profitability",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Management indicates FY28 revenue potential around INR2,000 crores with 10% variation",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE712K01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

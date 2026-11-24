@@ -164,5 +164,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 135,
+  "by_category": {
+   "order_book": 18,
+   "guidance": 61,
+   "capex": 19,
+   "margin": 29,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-29",
+    "statement": "Lifestyle products targeting 50% of B2C revenue medium-term (from 40% in H1FY27)",
+    "period": "medium-term"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Revenue target of \u20b95,000\u20135,500 crores by FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Revenue growth guidance for FY27 lowered to 7-9% from earlier 9-11%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY27 EBITDA margin expected broadly in line with FY26 vs earlier 50-100 bps expansion",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Confident of returning to 9-11% revenue growth in FY28",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE884A01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -130,5 +130,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 58,
+  "by_category": {
+   "guidance": 21,
+   "capex": 6,
+   "capacity": 8,
+   "margin": 14,
+   "order_book": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-16",
+    "statement": "Targets INR 600 crore disbursements and INR 1,300-1,400 crore AUM for FY27, optimistic on INR 1,500 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-16",
+    "statement": "Targets INR 2,000-2,500 crore AUM in next 2.5-3 years; long-term vision INR 10,000-20,000 crore",
+    "period": "next 2.5-3 years"
+   },
+   {
+    "day": "2026-07-07",
+    "statement": "Management expects AUM to reach ~INR 1,300-1,500 crore by FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-07",
+    "statement": "Targeted disbursements of approximately INR 600 crore for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-09-19",
+    "statement": "Expects normal operations to resume in Q3 and Q4 after red flag removal",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE559N01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

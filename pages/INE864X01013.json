@@ -123,5 +123,26 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 6,
+  "by_category": {
+   "capacity": 2,
+   "capex": 2,
+   "guidance": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-19",
+    "statement": "Global steel prices on declining trend in April 2024; State & General Elections impacted LRPC demand in Q4FY24",
+    "period": "Q4FY24"
+   },
+   {
+    "day": "2024-08-23",
+    "statement": "Plasticated LRPC commercially launched from Apr'24 with yearly projected capacity of 10,000 MT",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE864X01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

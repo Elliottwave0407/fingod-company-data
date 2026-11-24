@@ -135,5 +135,40 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "capex": 4,
+   "guidance": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-13",
+    "statement": "Targeting up to 25% improvement in value-added portfolio over 3 years",
+    "period": null
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Targeting 100-200 bps overhead optimisation across categories",
+    "period": null
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Targeting 100-150 bps gross margin improvement",
+    "period": null
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Targeting 30-50 days improvement in working capital over next 3 years",
+    "period": null
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Targeting doubling of ROCE",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE828A01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

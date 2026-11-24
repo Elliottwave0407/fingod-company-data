@@ -145,5 +145,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 18,
+  "by_category": {
+   "order_book": 5,
+   "capex": 4,
+   "capacity": 3,
+   "guidance": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-23",
+    "statement": "Aim to boost Defence Division revenue via expanded capacities, new product lines, emerging opportunities",
+    "period": "FY24"
+   },
+   {
+    "day": "2024-11-12",
+    "statement": "Plan to fully utilise newly increased production capacities to enhance efficiency and meet growing demand",
+    "period": "not stated"
+   },
+   {
+    "day": "2024-11-12",
+    "statement": "Aim to boost Defence Division revenue by harnessing expanded capacities, new product lines, emerging opportunities",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Export markets reopened from Q2 FY27 after OFAC delisting 30 June 2026",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Confident of sustaining momentum through FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE397H01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

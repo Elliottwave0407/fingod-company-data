@@ -158,5 +158,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 50,
+  "by_category": {
+   "capex": 18,
+   "capacity": 11,
+   "guidance": 19,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-30",
+    "statement": "Fund releases under Jal Jeevan Mission expected to improve from Q2FY27",
+    "period": "Q2FY27"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "Sustained improvement in OPVC order booking foreseen from Q2FY27 with revenue benefits from Q3FY27",
+    "period": "Q2FY27"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "Structural reduction in Chlor-Alkali cost structure expected to drive sustained improvement in operating margins",
+    "period": null
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Expect revenue to pick up visibly from Q3 FY27 for OPVC segment",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Expect stronger consolidated performance in H2 FY27",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE783X01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

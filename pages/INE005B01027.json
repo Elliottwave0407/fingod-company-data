@@ -175,5 +175,25 @@
   ],
   "dividend_per_share": 0.2
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 2,
+   "capex": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Order book of approximately \u20b9720 Crores to be executed across FY 2026-27 and FY 2027-28",
+    "period": "Across FY 2026-27 and FY 2027-28"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Imeds Global division well-positioned to achieve profitability in the coming financial year",
+    "period": "FY 2026-27"
+   }
+  ],
+  "ledger": "claims/INE005B01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

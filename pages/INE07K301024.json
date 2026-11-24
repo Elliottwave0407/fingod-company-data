@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 121,
+  "by_category": {
+   "guidance": 44,
+   "capex": 18,
+   "margin": 24,
+   "order_book": 21,
+   "capacity": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "Revenue from Dice contracts will start reflecting from Q2 FY27 onwards",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Reaffirmed consolidated revenue growth guidance of 40% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Stand-alone revenue growth guidance of 25% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Company turned operating cash flow positive at consolidated and standalone levels in Q2FY27",
+    "period": "Q2FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "EBITDA margin expected to stay around 7-8% for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE07K301024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

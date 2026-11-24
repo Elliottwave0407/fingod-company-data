@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 30,
+  "by_category": {
+   "guidance": 14,
+   "order_book": 5,
+   "margin": 7,
+   "capex": 2,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-08",
+    "statement": "Plan to register Global Arbitrage Fund with SEC to increase AUM",
+    "period": null
+   },
+   {
+    "day": "2024-08-08",
+    "statement": "Onboard more distributors; recently partnered with Bajaj Capital, Equirus Wealth, Century Private Wealth, Choice Broking, Prabhudas Lilladhar",
+    "period": null
+   },
+   {
+    "day": "2024-08-12",
+    "statement": "Fee income growth expected to track AUM growth trajectory of ~35% CAGR",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-06-03",
+    "statement": "Asset management fee from standalone entity was Rs 30 crore in first year; targets $100 million fund in GIFT City in 12-18 months",
+    "period": "next 12-18 months"
+   },
+   {
+    "day": "2025-08-12",
+    "statement": "AUM expected to double every 12 to 18 months; fee income to expand further as fixed costs are built in",
+    "period": "next 12-18 months"
+   }
+  ],
+  "ledger": "claims/INE00ZE01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

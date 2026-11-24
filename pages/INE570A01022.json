@@ -203,5 +203,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 165,
+  "by_category": {
+   "order_book": 43,
+   "guidance": 32,
+   "capex": 32,
+   "margin": 38,
+   "capacity": 20
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "Post-reclassification, ~60% of company revenue from products, chemicals, services; Treatment Solutions ~40%.",
+    "period": "current"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Expect Roha plant to achieve full capacity over the next four years with asset turnover of just under 2x on manufacturing CapEx, implying at least 50% revenue increase for specialty chemicals over the next couple of years.",
+    "period": "next couple of years"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Targeting break-even for consumer products segment in FY27; will discuss single-digit margins after achieving break-even.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Continue to hold 25% utilization guidance for Roha plant in first year of operation; will reassess by end of Q2 FY27.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Expect improvement in turnover during H2 FY27 with better margin profile given strong order backlog and planned execution",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE570A01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

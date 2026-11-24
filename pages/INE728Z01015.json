@@ -126,5 +126,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 56,
+  "by_category": {
+   "order_book": 24,
+   "guidance": 21,
+   "margin": 6,
+   "capex": 4,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-06",
+    "statement": "Next: DMIC, CBIC and state industrial corporations for Industrial Corridors",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expect to deliver INR 100-125 crores from order book in next 12 months",
+    "period": "next 12 months"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expect 40% conversion of INR 625 crore pipeline, with 50-75% of that delivered in next 12 months",
+    "period": "next 12 months"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Target INR 55 crores revenue from order book in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "No downside seen for FY27 guidance despite Middle East deferral, standalone strong and Middle East permitting deal expected to be larger",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE728Z01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

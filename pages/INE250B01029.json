@@ -146,5 +146,19 @@
   ],
   "dividend_per_share": 7
  },
+ "claims": {
+  "total": 1,
+  "by_category": {
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company expects to perform reasonably well subject to prevailing market conditions and fluctuations in the exchange rate.",
+    "period": "Future period"
+   }
+  ],
+  "ledger": "claims/INE250B01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

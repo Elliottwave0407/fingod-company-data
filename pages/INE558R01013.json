@@ -121,5 +121,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 42,
+  "by_category": {
+   "order_book": 18,
+   "guidance": 10,
+   "margin": 6,
+   "capex": 5,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-29",
+    "statement": "Expects EBITDA margin to remain similar to FY25 levels",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-20",
+    "statement": "Conservative revenue target of INR160-175 crores for FY26 without bank limit enhancement",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-20",
+    "statement": "Annual EBITDA and PAT expected to improve in FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-11-17",
+    "statement": "Focus on short-tenure 6-12 month EPC contracts with superior IRRs for faster cash conversion",
+    "period": "period not stated"
+   },
+   {
+    "day": "2025-11-19",
+    "statement": "EBITDA margin expected to stay around current level with minor fluctuations of +/-0.5%",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE558R01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

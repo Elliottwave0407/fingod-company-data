@@ -128,5 +128,32 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "guidance": 3,
+   "capacity": 2,
+   "margin": 2,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-26",
+    "statement": "Kolkata plant for pulses and grains to be commissioned in February 2025",
+    "period": "Feb 25"
+   },
+   {
+    "day": "2024-08-26",
+    "statement": "Surat plant land acquired, commissioning expected next financial year",
+    "period": "next financial year"
+   },
+   {
+    "day": "2024-08-26",
+    "statement": "Plan to add another processing unit in Bombay after Kolkata and Surat plants commission",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE0GIU01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

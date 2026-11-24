@@ -110,5 +110,27 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "guidance": 2,
+   "order_book": 4,
+   "margin": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-25",
+    "statement": "Outlook for first quarter flattish as compared to Q4FY24",
+    "period": "Q1-FY25"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Targets \u20b9500 crore revenue over next five to seven years",
+    "period": "next five to seven years"
+   }
+  ],
+  "ledger": "claims/INE129Z01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

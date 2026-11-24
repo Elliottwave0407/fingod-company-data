@@ -142,5 +142,28 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "capex": 4,
+   "capacity": 3,
+   "guidance": 2,
+   "order_book": 1,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-21",
+    "statement": "Plans to expand customer base and capacities, enhance capacity for existing product categories, focus on entire range of Ayurvedic products",
+    "period": null
+   },
+   {
+    "day": "2024-05-23",
+    "statement": "Targets 30-40% revenue growth over FY24 and mid-teens EBITDA margin in FY25",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE544H01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

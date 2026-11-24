@@ -127,5 +127,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 202,
+  "by_category": {
+   "capex": 40,
+   "guidance": 62,
+   "capacity": 57,
+   "margin": 27,
+   "order_book": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "EBITDA margin of 14% is already achievable; 15% should be easy once greenfield utilization improves and salicylic acid drag reduces.",
+    "period": "near term"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Management expects consolidated EBITDA margin of around 15% to be sustainable going forward",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Management targets high single digit volume growth of 5-10% for second half of FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Formulation business targets Rs 1,000 crore revenue landmark earlier than previously published timeline",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Oncology portfolio expected to contribute 30-40% of formulation revenue by FY30",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE767A01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

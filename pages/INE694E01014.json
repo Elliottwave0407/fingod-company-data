@@ -181,5 +181,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 66,
+  "by_category": {
+   "guidance": 19,
+   "margin": 8,
+   "order_book": 5,
+   "capacity": 8,
+   "capex": 26
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-27",
+    "statement": "Non-woven fabrics facility on track to commence commercial production by Q3 FY26-27",
+    "period": "Q3 FY26-27"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Taslan Yarn commercial production and sales commenced, marking JV operationalization",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Target 5,000 tons per quarter FIBC production by Q1 FY28",
+    "period": "Q1 FY28"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Revenue target Rs 900-950 crore in FY28 and Rs 1,000-1,050 crore in FY29 with current capacity",
+    "period": "FY28-FY29"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Targeting revenue from INR 100 Mn in FY27 to INR 1,000 Mn in FY30 with EBITDA margin 20-25%",
+    "period": "FY27-FY30"
+   }
+  ],
+  "ledger": "claims/INE694E01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

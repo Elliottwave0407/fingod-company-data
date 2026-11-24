@@ -154,5 +154,41 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 44,
+  "by_category": {
+   "capex": 24,
+   "capacity": 4,
+   "guidance": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-13",
+    "statement": "CBG plant mechanical completion targeted by Q2 CY26",
+    "period": "Q2 CY26"
+   },
+   {
+    "day": "2026-05-21",
+    "statement": "CBG plant mechanical completion targeted Q2 FY27",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Plasticizer plant expected to start production in Q2 FY27",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Board declared interim dividend @100% (Rs 10 per equity share) for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "India Ratings affirmed IND AA-/Stable/IND A1+ on existing and additional loan facilities",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE204A01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

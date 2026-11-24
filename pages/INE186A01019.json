@@ -123,5 +123,22 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 1,
+   "capex": 2,
+   "capacity": 1,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-17",
+    "statement": "Aspiration to reach INR10,000 crore+ revenue with EBITDA margins above 20% by FY2031 under Project Ahvaan",
+    "period": "FY2031"
+   }
+  ],
+  "ledger": "claims/INE186A01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

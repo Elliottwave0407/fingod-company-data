@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 157,
+  "by_category": {
+   "order_book": 26,
+   "capex": 18,
+   "guidance": 53,
+   "capacity": 42,
+   "margin": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-19",
+    "statement": "Retail revenue contribution targeted at 10-15% of group revenue for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Expect cash-based revenues to contribute 40-45% of overall revenue by end of FY27, aggregating ~INR400 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Target retail contribution to reach double-digit percentage of total revenue by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Aspire to achieve ROCE in higher teens (double digits) over next 2-3 years",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Rajasthan project has potential to deliver INR250 crores annualized revenue, majority expected next financial year",
+    "period": "next financial year"
+   }
+  ],
+  "ledger": "claims/INE08LI01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

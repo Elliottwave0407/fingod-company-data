@@ -124,5 +124,43 @@
   ],
   "dividend_per_share": 0.6
  },
+ "claims": {
+  "total": 148,
+  "by_category": {
+   "capex": 52,
+   "guidance": 45,
+   "capacity": 23,
+   "margin": 23,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-05",
+    "statement": "Target to double revenue from Rs.1,000 cr to Rs.2,000 cr by FY29 with normalized EBITDA of 16-18% as ready-to-cut fabric supplier",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-08-05",
+    "statement": "FY27 revenue growth expected to be similar to FY26's ~14% growth, reaching at least Rs.1,450 cr",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY30 revenue target Rs 2,500 Cr at 15-18% EBITDA margin",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Targets INR2,500 crores revenue at 15-18% EBITDA margin by FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Expects FY28 revenue around INR1,800 crores",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE0PA801013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

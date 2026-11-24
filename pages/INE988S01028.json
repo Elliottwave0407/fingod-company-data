@@ -154,5 +154,43 @@
   "key_risks": [],
   "dividend_per_share": 0.75
  },
+ "claims": {
+  "total": 159,
+  "by_category": {
+   "capex": 47,
+   "guidance": 58,
+   "margin": 15,
+   "capacity": 29,
+   "order_book": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-24",
+    "statement": "Management expects management fee income to rise from 2% to 4% of revenue over the next 3 years as managed keys grow 3x to 3,627.",
+    "period": "next 3 years"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "Flurys targets 140 outlets by end of FY27, adding 28 outlets in the year.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "Flurys revenue expected to cross INR100 crores in FY27.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "Flurys margin expected to reach 12% in Q3-Q4 FY27 from 8-9% in H1.",
+    "period": "Q3-Q4 FY27"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "Flurys targets 250-300 outlets by 2030.",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE988S01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

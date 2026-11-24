@@ -136,5 +136,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 111,
+  "by_category": {
+   "guidance": 39,
+   "margin": 32,
+   "order_book": 22,
+   "capex": 11,
+   "capacity": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-12",
+    "statement": "MICE recovery visible: Q2 pipeline 50%+ higher than Q1 with improved margin profile",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "No formal guidance issued for FY27; may provide guidance next quarter as market stabilizes",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "MICE bookings recovered 37% QoQ, early signs of improvement",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "No formal guidance given for FY27 due to macro fluctuations; medium-term outlook: gross booking growth ~15% driving RLSC and EBITDA growth.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Management expects H2 FY27 to show significant improvement over H1; RLSC and margins expected in low-to-mid teens for full year (not formal guidance).",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE0JR601024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

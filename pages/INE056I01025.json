@@ -179,5 +179,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 124,
+  "by_category": {
+   "capex": 25,
+   "capacity": 13,
+   "guidance": 48,
+   "order_book": 24,
+   "margin": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-28",
+    "statement": "Wind business targeting ~5 GW annual production capacity over next five years",
+    "period": "FY27-FY31"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Ash & Coal Handling revenue growth target 20-25% YoY for FY27 and FY28",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Wind energy EBITDA margin 4-5% and PAT margin 2.5-3% for FY27 and H1 FY28",
+    "period": "FY27, H1 FY28"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Standalone EBITDA margin 15-18% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Ash handling volume target 90,000 metric tonnes per month by Q4 FY27",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE056I01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -123,5 +123,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "guidance": 6,
+   "capex": 2,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-23",
+    "statement": "Aim to achieve double-digit volume growth through new customer acquisition domestically and internationally",
+    "period": "future"
+   },
+   {
+    "day": "2025-05-23",
+    "statement": "Focus on improving ROCE to enhance shareholder value",
+    "period": "future"
+   },
+   {
+    "day": "2026-05-14",
+    "statement": "Expect to hold EBITDA margin around 20%",
+    "period": null
+   },
+   {
+    "day": "2026-05-14",
+    "statement": "Focus on acquiring new US clients and expect to grow US business in coming year with healthy EBITDA margins",
+    "period": null
+   },
+   {
+    "day": "2026-05-14",
+    "statement": "India textiles sector projected to reach $350 billion by 2030; exports target $100 billion by 2030",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE453D01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

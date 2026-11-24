@@ -149,5 +149,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 87,
+  "by_category": {
+   "guidance": 16,
+   "capex": 14,
+   "capacity": 14,
+   "margin": 26,
+   "order_book": 17
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-05",
+    "statement": "Expect high double-digit growth in seeds business in FY27 driven by combination of volume and price growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-05",
+    "statement": "Revenue growth probably double-digit in FY27 due to price increases of 5-10% as input costs up 15-20%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Industry agrochemicals expected to grow 6-8% in FY27; seeds mid-to-high single digits excluding cotton.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Price increases for the season largely done; focus shifting to volume growth via market excellence and dealer engagement.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "No extra channel inventory; placement only where water situation is certain",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE613A01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

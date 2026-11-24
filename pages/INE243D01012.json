@@ -138,5 +138,19 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 1,
+  "by_category": {
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company is taking all efforts to improve wind power generation, reduce cost and improve realization.",
+    "period": "Current year"
+   }
+  ],
+  "ledger": "claims/INE243D01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

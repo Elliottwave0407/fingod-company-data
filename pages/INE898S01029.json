@@ -169,5 +169,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 164,
+  "by_category": {
+   "guidance": 73,
+   "order_book": 32,
+   "margin": 30,
+   "capacity": 9,
+   "capex": 20
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-22",
+    "statement": "Housing.com profitability target revised to 12-18 months (previously 4-6 quarters)",
+    "period": "next 12-18 months"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Revenue per team member to rise quarter-on-quarter for next 10-12 quarters",
+    "period": "next 10-12 quarters"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "AI-driven seamless consumer journey to be built across discovery, transaction, financing, and living layers",
+    "period": "medium-term"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Rental segment occupancy to improve from 82% to 88% by FY27-end",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "No inorganic acquisitions planned in short term; focus on Housing.com integration",
+    "period": "short term"
+   }
+  ],
+  "ledger": "claims/INE898S01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

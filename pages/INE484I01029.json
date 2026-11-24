@@ -125,5 +125,43 @@
   ],
   "dividend_per_share": 1
  },
+ "claims": {
+  "total": 82,
+  "by_category": {
+   "guidance": 24,
+   "margin": 16,
+   "order_book": 15,
+   "capex": 15,
+   "capacity": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-23",
+    "statement": "Machine shop automation targeted for completion by December 2026",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Maruti Suzuki new project SOP commenced July 2026 with ~INR 50 Cr annual revenue potential",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "M&M new projects SOP commenced September 2026 with ~INR 25 Cr annual revenue potential",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Maruti Suzuki new platform nomination received September 2026, SOP targeted June 2030, ~INR 50 Cr annual revenue potential",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Hyundai via Tier 1 new business awarded ~7 lakh camshafts annually, tentative SOP April 2027",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE484I01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

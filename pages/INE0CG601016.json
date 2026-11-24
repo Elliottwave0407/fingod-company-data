@@ -136,5 +136,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 174,
+  "by_category": {
+   "capex": 24,
+   "guidance": 70,
+   "order_book": 31,
+   "capacity": 21,
+   "margin": 28
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-04",
+    "statement": "AGEasy aims for EBITDA breakeven by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-04",
+    "statement": "Care Homes consolidated EBITDA breakeven expected around H1 FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-06-24",
+    "statement": "Outlook: Optimize occupancy in existing Care homes; improve ARPOB via clinical differentiation and TPA partnerships; strengthen clinical capabilities",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Noida Phase I operations to commence in Q2 FY27",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "AGEasy expected to reach contribution breakeven by January or Q4 FY27; consolidated EBITDA losses to continue narrowing in FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0CG601016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

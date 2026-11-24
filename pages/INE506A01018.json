@@ -144,5 +144,20 @@
   ],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Procurement of new dredgers and strengthening of capabilities in maintenance dredging, capital dredging, and inland waterway development",
+    "period": "Not specified"
+   }
+  ],
+  "ledger": "claims/INE506A01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

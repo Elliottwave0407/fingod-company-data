@@ -144,5 +144,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 50,
+  "by_category": {
+   "guidance": 28,
+   "capex": 16,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-31",
+    "statement": "2 intermediate herbicide products launch planned in Q3/Q4FY27",
+    "period": "Q3FY27/Q4FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Volume growth expected 100% in current financial year for new agro intermediates",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Volume pick up for MoU products to start from Q4 FY27",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "2 intermediate herbicide products launch planned in Q3/Q4 FY27",
+    "period": "Q3/Q4 FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Expected incremental revenue INR 120-150 crore over next 2-3 years from new product lines",
+    "period": "next 2-3 years"
+   }
+  ],
+  "ledger": "claims/INE277B01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -121,5 +121,21 @@
   "key_risks": [],
   "dividend_per_share": 1.5
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "capex": 1,
+   "capacity": 3,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-07-14",
+    "statement": "Target to increase product portfolio to 50+ products by FY2028",
+    "period": "FY2028"
+   }
+  ],
+  "ledger": "claims/INE320X01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -137,5 +137,43 @@
   ],
   "dividend_per_share": 3.3
  },
+ "claims": {
+  "total": 55,
+  "by_category": {
+   "capex": 11,
+   "guidance": 20,
+   "capacity": 14,
+   "margin": 6,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-19",
+    "statement": "Government targets project awards worth Rs 7 lakh crore by FY26, scaling to Rs 10 lakh crore annually thereafter",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-19",
+    "statement": "AICL plans to enter bitumen market in north India to diversify customer base",
+    "period": "period not stated"
+   },
+   {
+    "day": "2025-08-26",
+    "statement": "FY26 bitumen volume guidance maintained at around 6 lakh tons, implying ~10% growth over FY25",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-26",
+    "statement": "FY26 EBITDA per ton guidance maintained at minimum Rs 4,300 for the year",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-26",
+    "statement": "FY28 volume doubling target from FY25 levels remains unchanged despite Q1 disruptions",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE204E01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

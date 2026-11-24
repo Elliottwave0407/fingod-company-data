@@ -158,5 +158,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 112,
+  "by_category": {
+   "capex": 26,
+   "guidance": 31,
+   "order_book": 26,
+   "margin": 14,
+   "capacity": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "FY27 pre-sales target of INR 1,000 crores (INR 500 crores from new launches, INR 500 crores from ongoing inventory)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "FY27 EBITDA margin target of 25-26%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "FY28 launch target of INR 5,000 crores+ including Filmistan project",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Targeting launch of two projects with combined GDV of approximately INR 2,800 crore in Q3 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Targeting launch of two projects with combined GDV of approximately Rs. 2,850 crore in Q3 FY27",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE0QRL01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

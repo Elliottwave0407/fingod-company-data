@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 42,
+  "by_category": {
+   "guidance": 12,
+   "capex": 14,
+   "capacity": 11,
+   "order_book": 4,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-30",
+    "statement": "FY27 volume target 2.4-2.6 lakh tons after PM3 renovation",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-02-13",
+    "statement": "Expect easing raw material prices and efficiency initiatives to support margin recovery",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-05-23",
+    "statement": "FY27 transition year; expect improving realizations, easing imports, benefits from investments",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "New moulding cup machinery expected to start production from Q2 FY27",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "Expect PM3 upgrade to support higher production capacity, improved product quality and greater operating efficiencies over time",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE170E01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

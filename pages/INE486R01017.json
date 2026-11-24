@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 167,
+  "by_category": {
+   "guidance": 81,
+   "capex": 32,
+   "capacity": 31,
+   "margin": 21,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Target long-term ROCE and ROE ~25%",
+    "period": null
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Target \u226570% bed occupancy across mature hospitals",
+    "period": null
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Scale to 1,000 beds within two years through strategic expansion in Tier I and Tier II Eastern India markets",
+    "period": null
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "FY27 revenue growth guided at 15-16% YoY",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "Target ROE and ROCE of approximately 25%",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE486R01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

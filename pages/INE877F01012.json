@@ -164,5 +164,43 @@
   ],
   "dividend_per_share": 5.5
  },
+ "claims": {
+  "total": 69,
+  "by_category": {
+   "guidance": 13,
+   "margin": 24,
+   "order_book": 18,
+   "capex": 11,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Focus on expanding renewable and green power portfolio; digitalization of trading operations; risk management enhancement; exploring opportunities in energy storage and emerging market products; strengthening regional power cooperation initiatives",
+    "period": "Going forward"
+   },
+   {
+    "day": "2026-05-26",
+    "statement": "Expect volume growth in line with or slightly above national 5% electricity demand growth over next 2-3 years",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-05-26",
+    "statement": "Margins not expected to grow substantially; growth will come from volumes with only marginal decimal changes in spreads",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "No definitive projections given for consultancy business; described as stable and steadily growing",
+    "period": null
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "No volume guidance provided for Q3 or full year FY27",
+    "period": "Q3 FY27, FY27"
+   }
+  ],
+  "ledger": "claims/INE877F01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

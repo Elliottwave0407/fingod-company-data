@@ -127,5 +127,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 26,
+  "by_category": {
+   "capacity": 11,
+   "guidance": 8,
+   "capex": 3,
+   "margin": 2,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-21",
+    "statement": "Targeting 10-15% quarter-on-quarter revenue and PAT growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Auto LPG station target: 500 total, add 75 in FY27, 100 in FY28",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "CNG station target: add 50 more in Bengaluru, in talks for Mumbai, Hyderabad, Indore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-27",
+    "statement": "Targets 10-15% quarter-on-quarter revenue and PAT growth",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-08-27",
+    "statement": "Expects revenue, EBITDA and PAT to grow quarter-on-quarter",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE552D01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

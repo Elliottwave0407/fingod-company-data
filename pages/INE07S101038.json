@@ -121,5 +121,21 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 6,
+  "by_category": {
+   "guidance": 1,
+   "capex": 2,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-06-04",
+    "statement": "Positive impact of strategic shift expected to reflect in margin performance from FY26 onwards",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE07S101038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

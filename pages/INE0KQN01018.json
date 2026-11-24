@@ -146,5 +146,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 38,
+  "by_category": {
+   "order_book": 13,
+   "guidance": 13,
+   "capex": 8,
+   "capacity": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-05",
+    "statement": "Holding L1 position in multiple tenders with orders expected in Q4 FY26",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-02-05",
+    "statement": "Strategically booking more orders in high voltage power transmission segment",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Execution momentum expected to accelerate through FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Management states highest ever unexecuted order book of ~Rs 5000 Cr at end of Q2 FY27 and ~Rs 6500 Cr as of date",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Priorities for coming quarters: strengthen execution, improve efficiency, support sustainable profitable growth",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE0KQN01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

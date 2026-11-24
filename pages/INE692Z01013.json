@@ -144,5 +144,38 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 21,
+  "by_category": {
+   "guidance": 4,
+   "margin": 5,
+   "order_book": 7,
+   "capex": 4,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-06",
+    "statement": "Targeting minimum 50% year-on-year growth at standalone level and exponential growth from HUMRO in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-11-06",
+    "statement": "Expecting J-curve growth from HUMRO in FY27 after successful POCs and pilot orders",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-02-18",
+    "statement": "Q4 revenue expected at par with last year level, but bottom line improvement expected.",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-02-18",
+    "statement": "Indian business top line expected to grow around 20 to 30% next year.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE692Z01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -159,5 +159,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 68,
+  "by_category": {
+   "capex": 21,
+   "capacity": 19,
+   "guidance": 16,
+   "margin": 5,
+   "order_book": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-20",
+    "statement": "Targeting 20-25% bottom line growth for steel business in FY26-27",
+    "period": "FY26-27"
+   },
+   {
+    "day": "2025-05-20",
+    "statement": "Targeting 14% volume growth for steel business in FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-05-20",
+    "statement": "Planning 20% increase in brand expenditure for FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-06-04",
+    "statement": "Management plans to increase royalty rate by 10-15% annually alongside ~10% volume growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "5 MWp captive solar plant commissioned in June 2026 expected to generate annual savings of Rs 4-5 crore",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE390H01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

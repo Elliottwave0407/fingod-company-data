@@ -152,5 +152,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 131,
+  "by_category": {
+   "guidance": 49,
+   "margin": 18,
+   "order_book": 15,
+   "capex": 20,
+   "capacity": 29
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "FY27 revenue guidance maintained at INR1,450-1,500 crores with 12% EBITDA margin target",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Garment division targeting INR100 crores per quarter for next 3 quarters",
+    "period": "Q2-Q4 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "FY27E revenue target Rs 1,450-1,500 crore, EBITDA margin 10.5-11%, Fabric & Garment revenue share target 69%",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Reconfirmed FY27 guidance; expect stronger H2 supported by healthy order book in garments and fabrics",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Targeting FY27 EBITDA margin of 10.5-11%",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE629D01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -125,5 +125,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 112,
+  "by_category": {
+   "capex": 15,
+   "capacity": 27,
+   "guidance": 35,
+   "order_book": 11,
+   "margin": 24
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Aiming for mid-teen MDF volume growth for full year FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expect 15-17% CAGR to continue for domestic MDF demand",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Target net asset turnover of 1.3x to 1.5x at full capacity",
+    "period": "at capacity"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Hope to achieve double-digit MDF EBITDA margins in upcoming quarters",
+    "period": "upcoming quarters"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expect early teens EBITDA margins if 15% volume growth achieved at current pricing",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE08ZM01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

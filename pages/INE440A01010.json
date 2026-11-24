@@ -137,5 +137,21 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 9,
+  "by_category": {
+   "order_book": 1,
+   "guidance": 1,
+   "capex": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-29",
+    "statement": "The Sovereign project estimated revenue potential approx Rs 50,000 lacs",
+    "period": "FY 23-24"
+   }
+  ],
+  "ledger": "claims/INE440A01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

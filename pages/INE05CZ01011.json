@@ -181,5 +181,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 47,
+  "by_category": {
+   "guidance": 17,
+   "capex": 14,
+   "capacity": 7,
+   "margin": 6,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-31",
+    "statement": "CCL project scaled case revenue Rs 750+ Cr, EBITDA Rs 150 Cr (20%), PAT Rs 83 Cr (11%), ROI 29%",
+    "period": "FY31"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "CCL project Phase 1 revenue Rs 108 Cr, EBITDA Rs 22 Cr (20%), PAT Rs 12 Cr (11%), ROI 29%",
+    "period": "FY31"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Management guided for FY28 consolidated revenue of \u20b92,500 crore with 14% EBITDA and 11% PAT, but said new guidance with higher margins will be announced very soon.",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Management expects FY27 PAT margin around 6.25% and tax rate near last year's ~15%.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Management targets base business revenue of \u20b91,315 crore in FY27 and \u20b91,800 crore by FY28.",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE05CZ01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

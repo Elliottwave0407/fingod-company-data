@@ -131,5 +131,38 @@
   "key_risks": [],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 17,
+  "by_category": {
+   "guidance": 4,
+   "margin": 6,
+   "order_book": 3,
+   "capex": 2,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-04-25",
+    "statement": "Company registered 4% revenue growth in FY25 with total income of Rs 275.1 crore vs Rs 265.5 crore in FY24",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-11-25",
+    "statement": "Management expects to maintain non-subsidy revenue share at around 37% for the rest of FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-11-25",
+    "statement": "Management does not provide forward revenue guidance but aims to grow faster than industry",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-04-29",
+    "statement": "No specific EBITDA margin outlook given; will use product mix, geography mix, and procurement timing to manage margins amid raw material volatility",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE215D01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

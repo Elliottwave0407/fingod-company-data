@@ -149,5 +149,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 140,
+  "by_category": {
+   "capacity": 48,
+   "capex": 35,
+   "guidance": 33,
+   "margin": 17,
+   "order_book": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "Endeavor to maintain EBITDA per TEU in range of INR2,400 to INR2,500 per TEU",
+    "period": "next 2 years"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Management expects transshipment gains to taper down in the next few months but other initiatives to support achieved margin levels",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Chennai facility land finalization expected by end of month, construction to start Q1 next financial year, 9 months to build",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Farukhnagar ICD PFT construction to complete by end of financial year, limited operations start beginning of next financial year, full ICD operations by Q4 next financial year",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Speedy JNPT facility renovation to increase capacity from 8,000 TEUs to 18,000 TEUs, will offset transshipment margin impact",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE0NN701020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

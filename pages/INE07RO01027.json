@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 134,
+  "by_category": {
+   "capex": 26,
+   "capacity": 33,
+   "order_book": 17,
+   "guidance": 42,
+   "margin": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-06",
+    "statement": "Capacity expansion planned with addition of a new production block at Lote",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "New nasal line planned to strengthen finished dosage capabilities",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Revenue guidance of INR1,000 crores for FY27 maintained",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "EBITDA margin guidance revised downwards to 23%-25% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Expects 20%+ revenue growth for next 3-4 years",
+    "period": "next 3, 4 years"
+   }
+  ],
+  "ledger": "claims/INE07RO01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

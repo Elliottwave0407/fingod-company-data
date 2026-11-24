@@ -121,5 +121,31 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "guidance": 3,
+   "capex": 4,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-04-08",
+    "statement": "Belmac Codename Skyline minimum revenue potential Rs 2500 crore at Rs 6,000/sq ft",
+    "period": "not stated"
+   },
+   {
+    "day": "2025-02-17",
+    "statement": "Minimum revenue potential Rs 2500 crore at Rs 6000 per sq ft for Belmac Codename",
+    "period": "not stated"
+   },
+   {
+    "day": "2025-02-17",
+    "statement": "Land revalued at Rs 400 crore, 1.3x market cap offering margin of safety",
+    "period": "not stated"
+   }
+  ],
+  "ledger": "claims/INE822E01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

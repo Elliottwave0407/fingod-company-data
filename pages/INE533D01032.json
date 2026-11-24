@@ -131,5 +131,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 18,
+  "by_category": {
+   "guidance": 8,
+   "capex": 5,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-12",
+    "statement": "FY27 deleveraging target ~Rs 60 crore via surplus cash and targeted prepayment",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Expect volumes to increase in H2FY27 compared to H1FY27",
+    "period": "H2FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "10 TPD fabric line set to commence in Q3FY27 and ramp up in Q4FY27",
+    "period": "Q3FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Plan to scale fabrics to 25 TPD next year and 100 TPD over next two to three years",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Peak revenue potential of ~Rs. 2700-3000 crore per annum at peak utilisation post-expansion",
+    "period": "Peak"
+   }
+  ],
+  "ledger": "claims/INE533D01032.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

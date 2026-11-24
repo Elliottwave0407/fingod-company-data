@@ -121,5 +121,26 @@
   "key_risks": [],
   "dividend_per_share": 2
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "capex": 2,
+   "guidance": 2,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-12",
+    "statement": "Agri-equipment combined revenue expected to grow over Rs 90 Cr in next 3 years",
+    "period": "next 3 years"
+   },
+   {
+    "day": "2026-03-12",
+    "statement": "Target to achieve over Rs 210 Cr in infra-equipment revenue and over Rs 90 Cr in agri-equipment revenue in next 36 months",
+    "period": "next 36 months"
+   }
+  ],
+  "ledger": "claims/INE826C01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

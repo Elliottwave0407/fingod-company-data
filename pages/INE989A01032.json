@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 92,
+  "by_category": {
+   "capex": 33,
+   "capacity": 10,
+   "order_book": 26,
+   "guidance": 16,
+   "margin": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-31",
+    "statement": "FY27 total income guidance \u20b91,400-1,500 crore (30-40% YoY)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-31",
+    "statement": "FY27 EBITDA guidance \u20b9525-575 crore (20-30% YoY)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "FY27 consolidated revenue guided at Rs 1,400-1,500 crore, EBITDA at Rs 525-575 crore, blended ROCE at 16.25-16.5%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "FY27 core crane rental EBITDA guidance unchanged at Rs 525-575 crore despite Q1 margin compression",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Reaffirmed FY27 guidance of total income INR1,400-1,500 crores and EBITDA INR525-575 crores",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE989A01032.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

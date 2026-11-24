@@ -167,5 +167,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Growth is expected to recover to 6\u20138% in Financial Year 2026\u201327, supported by a revival in road project awards and continued momentum in water and infrastructure projects.",
+    "period": "FY 2026-27"
+   }
+  ],
+  "ledger": "claims/INE036A01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

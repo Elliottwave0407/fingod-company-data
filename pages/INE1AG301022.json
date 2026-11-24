@@ -145,5 +145,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 63,
+  "by_category": {
+   "order_book": 19,
+   "capacity": 5,
+   "capex": 11,
+   "guidance": 20,
+   "margin": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-29",
+    "statement": "Target 1 million installed systems by 2030",
+    "period": "FY30E"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Target USD 1 billion business by 2030",
+    "period": "FY30E"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Management intends to maintain EBITDA margin of 17% to 18% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Management targets 35% to 40% revenue growth in FY27 even without PM KUSUM orders",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Management expects to maintain double-digit PAT margin for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE1AG301022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

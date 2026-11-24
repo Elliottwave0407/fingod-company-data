@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 50,
+  "by_category": {
+   "guidance": 17,
+   "capex": 6,
+   "capacity": 13,
+   "margin": 11,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-21",
+    "statement": "Broiler chicks and contract broiler farming targeting 2-5% volume growth in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-21",
+    "statement": "Animal Health Products division expected to grow at double-digit rate in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-21",
+    "statement": "Oil Seed division expects to maintain or improve Q4 FY26 performance through Q2 FY27",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "Management expects additional 15% to 20% volume growth from Kesurdi unit",
+    "period": "future"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Animal Health revenue target INR430-435 cr minimum for FY27 vs INR391 cr last year; expect 15%+ top-line growth next year",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE398A01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

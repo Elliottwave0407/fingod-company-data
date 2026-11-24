@@ -155,5 +155,26 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 16,
+  "by_category": {
+   "capex": 8,
+   "guidance": 2,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-14",
+    "statement": "Optimistic about improving market demand backed by improving consumer sentiments fueled by favourable union budget announcements and good monsoon",
+    "period": "Q3 FY25"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "New SBR Latex capacity to be completed by mid Q4 FY27",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE03CC01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

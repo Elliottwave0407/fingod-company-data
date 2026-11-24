@@ -168,5 +168,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Priorities for FY2026-27: restoring profitable growth, improving operational performance, improving asset utilisation, strengthening cash generation, reducing leverage, expanding presence in high-growth product categories and delivering sustainable value for all stakeholders.",
+    "period": "FY2026-27"
+   }
+  ],
+  "ledger": "claims/INE637H01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": 3.5
  },
+ "claims": {
+  "total": 125,
+  "by_category": {
+   "order_book": 31,
+   "guidance": 43,
+   "margin": 24,
+   "capex": 19,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-19",
+    "statement": "Strong order pipeline of over \u20b91,750+ crore provides enhanced revenue visibility and confidence for improved growth momentum in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-25",
+    "statement": "FY28 revenue target of INR1,000 crores remains but timing may shift",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-08",
+    "statement": "Management targets EBITDA margin of 35% plus for the full year FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Management targets consolidated EBITDA margin of 35%+ for full year; H1 FY27 EBITDA margin was 37.2%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "H2 FY27 expected to be better than H1; Q3 and Q4 both expected to be good; momentum from order book conversion and Go-Lives",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE0BV301023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

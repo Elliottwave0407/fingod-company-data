@@ -147,5 +147,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 77,
+  "by_category": {
+   "guidance": 29,
+   "capex": 19,
+   "capacity": 14,
+   "margin": 12,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-02",
+    "statement": "Seeking improvement of 2-3% in EBITDA margin as outcome of efficiency efforts",
+    "period": null
+   },
+   {
+    "day": "2026-11-01",
+    "statement": "Company confident of delivering strong double-digit revenue growth in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-01",
+    "statement": "Target to grow emerging channels from less than 1% to more than 5% of revenue in three years",
+    "period": "three years"
+   },
+   {
+    "day": "2026-11-01",
+    "statement": "Seeking 4-5% EBITDA margin improvement through operational efficiency initiatives",
+    "period": null
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Targets 5% revenue contribution from new channels in 3 years",
+    "period": "next 3 years"
+   }
+  ],
+  "ledger": "claims/INE393P01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

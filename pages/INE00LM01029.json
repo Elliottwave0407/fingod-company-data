@@ -132,5 +132,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 15,
+  "by_category": {
+   "guidance": 5,
+   "order_book": 1,
+   "margin": 3,
+   "capacity": 3,
+   "capex": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-03",
+    "statement": "FY27 revenue growth guided at 25-30%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-22",
+    "statement": "Full-year revenue growth guidance of 25% to 30%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-22",
+    "statement": "Next quarter revenue expected at Rs. 40-50 crores minimum",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Medium-term target PAT Rs 25-30 crore and EPS Rs 5-6 by 2028-29",
+    "period": "2028-29"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Expect turnover to increase 30-40% more than previously expected in next two quarters with margin improvement",
+    "period": "next two quarters"
+   }
+  ],
+  "ledger": "claims/INE00LM01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

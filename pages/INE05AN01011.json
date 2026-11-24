@@ -156,5 +156,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 119,
+  "by_category": {
+   "capex": 18,
+   "guidance": 49,
+   "capacity": 18,
+   "order_book": 6,
+   "margin": 28
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-12",
+    "statement": "Bathware aims for mid-teen sales growth in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Consumer Appliances targets revenue to cross Rs 500+ crore within 2 years and Rs 700-750 crore by FY31",
+    "period": "FY31"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Consumer Appliances targets gross margins of 35-40% and expanding overall margins into double-digit as scale builds up",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Bathware aims mid-teen sales growth in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Consumer Appliances targets revenue Rs 500+ crore within 2 years and Rs 700-750 crore by FY31",
+    "period": "FY31"
+   }
+  ],
+  "ledger": "claims/INE05AN01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

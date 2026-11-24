@@ -174,5 +174,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 178,
+  "by_category": {
+   "capex": 38,
+   "capacity": 39,
+   "guidance": 63,
+   "margin": 19,
+   "order_book": 19
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-22",
+    "statement": "Q3-Q4 FY27 commercial vehicle volumes expected to be stronger than Q2 FY27, with H2 historically 20% higher than H1.",
+    "period": "Q3-Q4 FY27"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Q3-Q4 FY27 agri segment demand expected to remain consistent, supported by lower tractor inventory levels.",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Q3-Q4 FY27 price revisions with OEMs and Tier 1 customers expected to offset rising consumable and commodity costs.",
+    "period": "Q3-Q4 FY27"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Q3-Q4 FY27 capacity utilization of seamless tube facility to improve progressively, supporting margins.",
+    "period": "Q3-Q4 FY27"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "FY27 tipping jack volumes to reach 50-60% of 800-unit capacity by Q4 FY27.",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE0O6601022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

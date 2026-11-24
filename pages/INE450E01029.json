@@ -139,5 +139,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 33,
+  "by_category": {
+   "guidance": 8,
+   "capacity": 8,
+   "capex": 8,
+   "margin": 8,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-14",
+    "statement": "Management expects bare minimum 10-15% sales growth for FY25 and hopes up to 10% run rate continues with expanded capacities",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-06-13",
+    "statement": "Expect maize prices to stabilize in H2 FY26 due to rabi harvest and government rice allocation to ethanol",
+    "period": "H2 FY26"
+   },
+   {
+    "day": "2025-06-13",
+    "statement": "Starch prices expected to improve and maize prices to fall with rabi arrivals",
+    "period": "next quarter"
+   },
+   {
+    "day": "2025-06-13",
+    "statement": "Government rice allocation to ethanol will benefit P&L in immediate future",
+    "period": "immediate future"
+   },
+   {
+    "day": "2025-08-19",
+    "statement": "Targeting 80-85% capacity utilization for FY26",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE450E01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

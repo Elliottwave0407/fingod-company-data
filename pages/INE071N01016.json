@@ -138,5 +138,43 @@
   ],
   "dividend_per_share": 5.0
  },
+ "claims": {
+  "total": 169,
+  "by_category": {
+   "capex": 54,
+   "capacity": 53,
+   "guidance": 37,
+   "margin": 17,
+   "order_book": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-27",
+    "statement": "Revenue from derivatives & specialty segment to be ~70% by FY28E",
+    "period": "FY2028E"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "Targets 15-20% revenue CAGR over next 5 years for both top line and bottom line",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "Targets ROCE around 20% for new projects including epoxy resin and MPP",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Derivatives & Specialty revenue share target ~70% by FY28E",
+    "period": "FY2028E"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Revenue target INR5,000-5,100 crore by FY31 with gross block INR4,100-4,200 crore",
+    "period": "FY31"
+   }
+  ],
+  "ledger": "claims/INE071N01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

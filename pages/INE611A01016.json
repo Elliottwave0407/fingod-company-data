@@ -162,5 +162,43 @@
   ],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 146,
+  "by_category": {
+   "capex": 56,
+   "guidance": 29,
+   "capacity": 32,
+   "margin": 23,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-06",
+    "statement": "Knitting expansion benefits likely to start reflecting from Q3 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-05-13",
+    "statement": "Current quarter expected to be slightly better or equivalent to Q4 FY26; KPIs are EBITDA, revenue and positive cash flow",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Management expects all remaining quarters to be similar or better than Q1 FY27 performance",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Focus on new product development, execution efficiency, cost control, productivity improvement, effective management of raw material and logistics costs, optimal utilisation of resources",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Management expects H2 FY27 performance to be better than H1 FY27",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE611A01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

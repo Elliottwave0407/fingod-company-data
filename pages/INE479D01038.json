@@ -164,5 +164,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 92,
+  "by_category": {
+   "capex": 22,
+   "capacity": 33,
+   "guidance": 20,
+   "margin": 14,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-21",
+    "statement": "Agri volume growth expected at 5-6% and building material at 10% on metric ton basis",
+    "period": null
+   },
+   {
+    "day": "2025-11-14",
+    "statement": "Expect substantial improvement in top line and bottom line in next year from current initiatives",
+    "period": "next year"
+   },
+   {
+    "day": "2026-02-14",
+    "statement": "Target to cross INR 1,000 crore revenue by FY28-29; aim to grow faster than industry 7%",
+    "period": "FY28-29"
+   },
+   {
+    "day": "2026-05-13",
+    "statement": "Expect healthy volume growth in FY27 over low base of FY26, targeting positive growth above industry average",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-13",
+    "statement": "Targeting substantial revenue increase in FY27 and aim to reach INR 1000 cr revenue guidance previously stated",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE479D01038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

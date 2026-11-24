@@ -189,5 +189,30 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "guidance": 3,
+   "capex": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Natural Fibre Division outlook for FY 26-27 is promising with strong Q1 orders in hand and domestic sales initiatives launching in Q2",
+    "period": "FY 2026-27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Plantation Division foresees favorable outlook for FY 2026-27 with expectations of a better crop and sustained strong pricing",
+    "period": "FY 2026-27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Logistics Division proactively managing schedules and routing to mitigate EXIM freight forwarding volatility",
+    "period": "Ongoing"
+   }
+  ],
+  "ledger": "claims/INE991I01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

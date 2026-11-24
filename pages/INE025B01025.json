@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": 2.75
  },
+ "claims": {
+  "total": 107,
+  "by_category": {
+   "order_book": 20,
+   "guidance": 36,
+   "capex": 19,
+   "margin": 20,
+   "capacity": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-12",
+    "statement": "Management expects robust Q2 and Q3 FY27 compared to record FY26 and aims to continue growth trajectory",
+    "period": "Q2 FY27, Q3 FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "FY27 will be a full year of dual casting method supporting margin profile",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Targeting double-digit growth in non-U.S. B2B business by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "ORIGEM targeting 100 stores over 2-3 years with stronger sales per store",
+    "period": "next 2 to 3 years"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Dividend policy targets minimum 50% payout of annual Standalone PAT",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE025B01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

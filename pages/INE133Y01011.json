@@ -135,5 +135,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 130,
+  "by_category": {
+   "capex": 37,
+   "capacity": 25,
+   "guidance": 30,
+   "order_book": 17,
+   "margin": 21
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-01",
+    "statement": "Global steel demand projected to grow 0.3% in 2026 and 2.2% in 2027; India steel demand projected 7.4% in 2026 and 9.2% in 2027",
+    "period": "2026-2027"
+   },
+   {
+    "day": "2026-06-08",
+    "statement": "Targeting at least double-digit domestic revenue growth in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Targeting double-digit EBITDA margin on consolidated basis, dependent on geopolitical situation and overseas demand",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Standalone double-digit EBITDA margin targeted for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Consolidated EBITDA margin expected at 9-10% for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE133Y01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -142,5 +142,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 58,
+  "by_category": {
+   "guidance": 21,
+   "margin": 8,
+   "order_book": 10,
+   "capex": 12,
+   "capacity": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-08",
+    "statement": "FY27 revenue growth target of 20-25%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-08",
+    "statement": "FY27 EBITDA margin target 20-25%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-08",
+    "statement": "izmoMicro FY27 revenue target INR45-50 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-08",
+    "statement": "izmoMicro 5-year revenue target INR1,200-1,500 crores",
+    "period": "5 years"
+   },
+   {
+    "day": "2026-08-24",
+    "statement": "Semicon 2.0 approved with \u20b91,27,500 Cr outlay; advanced packaging a key pillar, tailwind for izmo Microsystems",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE848A01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

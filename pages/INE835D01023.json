@@ -139,5 +139,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 64,
+  "by_category": {
+   "order_book": 22,
+   "guidance": 14,
+   "capex": 15,
+   "margin": 6,
+   "capacity": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-13",
+    "statement": "Revenue growth target of 30% year-on-year maintained for next three years; H1 FY26 grew 46.6%",
+    "period": "FY26-FY28"
+   },
+   {
+    "day": "2026-02-17",
+    "statement": "Expect 30% year-on-year revenue growth in Q4 FY26 and continuing into FY27 from existing business",
+    "period": "Q4 FY26, FY27"
+   },
+   {
+    "day": "2026-05-16",
+    "statement": "Aspirational market share target of 15-20% for system solutions provider era from 2026 onwards",
+    "period": "FY26 onwards"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Near-term margin pressure expected to continue for next 3-5 quarters as Elventive France progresses towards breakeven",
+    "period": "next 3-5 quarters"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Consolidated EBITDA margins expected to remain under pressure over next few quarters due to Elventive France integration",
+    "period": "near-term"
+   }
+  ],
+  "ledger": "claims/INE835D01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

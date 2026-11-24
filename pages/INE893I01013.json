@@ -133,5 +133,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 133,
+  "by_category": {
+   "order_book": 68,
+   "guidance": 32,
+   "margin": 13,
+   "capex": 15,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-19",
+    "statement": "Targets INR1,500-2,000 crores new EPC order intake in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Targets INR1,200 crores consolidated revenue for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Targets INR1,000 crores EPC revenue for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Targets INR1,200-1,500 crores annual booking value by FY31 for real estate",
+    "period": "FY31"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Targeting Rs 1,500\u20132,000 Cr new EPC orders in FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE893I01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

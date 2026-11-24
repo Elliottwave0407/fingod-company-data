@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 101,
+  "by_category": {
+   "order_book": 47,
+   "guidance": 12,
+   "margin": 23,
+   "capex": 11,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-23",
+    "statement": "Target 60-70% domestic order book, 20-30% international order book going forward",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-21",
+    "statement": "By 2030: replicate highway success in 2 more sectors (railways, airports), become top 2-3 consultant; By 2050: global player with presence in 8 regions, 4 continents, multiple subsidiaries/SPVs",
+    "period": "2030"
+   },
+   {
+    "day": "2025-11-21",
+    "statement": "Targets INR 1,000 crore order book by 2030, potentially higher with large airport projects",
+    "period": "2030"
+   },
+   {
+    "day": "2025-11-21",
+    "statement": "Q3 and Q4 FY26 expected to be better than H1; order book jump expected in Q3; revenue improvement from October",
+    "period": "H2 FY26"
+   },
+   {
+    "day": "2026-08-25",
+    "statement": "Management declines to give specific FY27 revenue guidance citing SEBI LODR restrictions, but notes Q1-Q2 typically 30-40% of annual revenue with Q3-Q4 higher",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE506Z01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

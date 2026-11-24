@@ -130,5 +130,43 @@
   ],
   "dividend_per_share": 3
  },
+ "claims": {
+  "total": 149,
+  "by_category": {
+   "guidance": 35,
+   "capex": 35,
+   "capacity": 41,
+   "order_book": 21,
+   "margin": 17
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-27",
+    "statement": "Revenue growth guidance of 15-20% and EBITDA margin guidance of 18-20% maintained for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "FY28 revenue target Rs 1,800 cr with EBITDA margin 20%",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Maintain FY27 revenue growth guidance of 15% and EBITDA margin guidance of 18-20%, tracking towards upper band of margin guidance",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY28E Revenue target Rs 1,800 cr with EBITDA Margin 20%",
+    "period": "FY28E"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Maintains FY27 guidance of 15% revenue growth with EBITDA margin 18-20%, currently at upper end of margin range",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE482D01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -129,5 +129,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 137,
+  "by_category": {
+   "capex": 26,
+   "capacity": 30,
+   "guidance": 41,
+   "order_book": 27,
+   "margin": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-20",
+    "statement": "B-15 block FDP under preparation with three to four concepts evaluated; drilling planned for FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Dirok gas evacuation via DNPL pipeline hot tapping targeted for completion by December to restore capacity to 2.5 MMSCMD",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Cambay assets (Asjol, Balol, Palej) targeting 20-30% production increase going forward after 5-6% increase last quarter; new exploration block near Palej in final approval stages",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Target 10,000 boe/d net HOEC by June 2027, 22,000 boe/d by FY28, 30,000-32,000 boe/d by FY29",
+    "period": "FY27-FY29"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Operating target of 11,000 boe/d by mid-2027 maintained",
+    "period": "mid-2027"
+   }
+  ],
+  "ledger": "claims/INE345A01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

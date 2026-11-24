@@ -149,5 +149,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 120,
+  "by_category": {
+   "guidance": 33,
+   "capex": 22,
+   "order_book": 27,
+   "margin": 26,
+   "capacity": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "Expects 1% margin improvement in FY27 over FY26 adjusted margin of 11.4%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "Focus for second half is on disciplined execution, improving operational efficiency and translating growing business scale into stronger margins",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Reiterated FY27 material-adjusted revenue growth guidance of 12% to 15% YoY",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Expects FY27 alloy-adjusted EBITDA margin around 12% and targets 1% YoY margin improvement thereafter",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Targets 14-15% EBITDA margin by FY30",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE062D01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

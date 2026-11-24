@@ -153,5 +153,39 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 10,
+  "by_category": {
+   "guidance": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-11",
+    "statement": "CareEdge projects real GDP growth at 7.2% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-02-11",
+    "statement": "Company reiterates financial performance should be evaluated on annual basis, not quarterly",
+    "period": null
+   },
+   {
+    "day": "2026-05-13",
+    "statement": "Project real GDP growth to moderate to 6.7% in FY27 assuming crude oil at USD 90/bbl",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Project India GDP growth at 6.7% in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Project full-year FY27 GDP growth at 7.3%",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE752H01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

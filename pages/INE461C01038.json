@@ -135,5 +135,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 140,
+  "by_category": {
+   "capacity": 25,
+   "guidance": 42,
+   "margin": 30,
+   "order_book": 12,
+   "capex": 31
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-27",
+    "statement": "Hardware JV losses to break even by mid next year",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Furniture JV revenue target FY27: INR 120-150 cr",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Plywood segment: maintain existing guidance; target double-digit EBITDA margin if quarterly revenue crosses INR600 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "MDF segment: full-year volume growth ~20% with core EBITDA margins 15-16%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "MDF EBITDA per CBM expected above INR5,000",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE461C01038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

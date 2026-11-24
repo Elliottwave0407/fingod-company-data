@@ -127,5 +127,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 76,
+  "by_category": {
+   "order_book": 30,
+   "guidance": 24,
+   "margin": 10,
+   "capex": 6,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-29",
+    "statement": "Management hopes to achieve 20-25% revenue growth in FY27.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Expect project execution momentum to improve in H2 FY27 with favourable weather and normalization of administrative processes",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Secured two new irrigation projects worth \u20b9655.66 million in July 2026",
+    "period": "July 2026"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Management maintains 20% revenue growth guidance for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expects 15-20% order book increase in H2 FY27 compared to H1 FY27",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE0R4L01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 59,
+  "by_category": {
+   "capex": 14,
+   "capacity": 14,
+   "guidance": 24,
+   "margin": 6,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-21",
+    "statement": "AZO PBT breakeven target for FY27 remains achievable",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-21",
+    "statement": "H2 FY27 expected to be better than H1 FY27 for AZO and API businesses",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-21",
+    "statement": "Group consolidated EBITDA margin sustainable at 10-11%, internal target 13%",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-21",
+    "statement": "Pregabalin CEP approval expected by March 2027, possibly earlier",
+    "period": "by March 2027"
+   },
+   {
+    "day": "2026-11-21",
+    "statement": "Next 2 years expected to breach INR 1,000 crore revenue mark",
+    "period": "next 2 years"
+   }
+  ],
+  "ledger": "claims/INE228I01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

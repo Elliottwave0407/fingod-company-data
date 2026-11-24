@@ -166,5 +166,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 58,
+  "by_category": {
+   "margin": 30,
+   "guidance": 13,
+   "capex": 12,
+   "order_book": 2,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-12",
+    "statement": "No specific revenue or earnings guidance provided",
+    "period": null
+   },
+   {
+    "day": "2025-11-18",
+    "statement": "Management does not provide specific guidance on revenue or earnings projections",
+    "period": null
+   },
+   {
+    "day": "2026-02-04",
+    "statement": "Management does not provide specific guidance on projections.",
+    "period": null
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "Company does not provide specific revenue or earnings guidance",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-08-05",
+    "statement": "Board approved preferential issue to strengthen capital structure and streamline debt",
+    "period": "not stated"
+   }
+  ],
+  "ledger": "claims/INE501G01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

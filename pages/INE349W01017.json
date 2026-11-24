@@ -153,5 +153,42 @@
   ],
   "dividend_per_share": 10
  },
+ "claims": {
+  "total": 35,
+  "by_category": {
+   "capex": 13,
+   "guidance": 13,
+   "capacity": 7,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-05",
+    "statement": "UP SAP 2025-26 Rs 390 per quintal for general varieties",
+    "period": "2025-26"
+   },
+   {
+    "day": "2026-02-05",
+    "statement": "Ethanol blending reached 20% as on 31 December 2025",
+    "period": "Dec-25"
+   },
+   {
+    "day": "2026-02-05",
+    "statement": "Cycle 2 tender expected in February 2026",
+    "period": "Feb-2026"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Working capital debt expected to rebuild from November with crushing season",
+    "period": "Nov onwards"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Distillery operation on C-heavy molasses expected to increase sugar inventory",
+    "period": "not stated"
+   }
+  ],
+  "ledger": "claims/INE349W01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

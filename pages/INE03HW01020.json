@@ -147,5 +147,19 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 1,
+  "by_category": {
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The company plans to bid for new upcoming large scale Government projects including ULPIN, Aadhaar Integration with Land Records, NAKSHA under DILRMP, PM e-Drive EV Charging Station Operator (CPO), and Solar Power Project.",
+    "period": "Not specified"
+   }
+  ],
+  "ledger": "claims/INE03HW01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

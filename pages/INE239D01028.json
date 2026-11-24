@@ -125,5 +125,43 @@
   ],
   "dividend_per_share": 0.5
  },
+ "claims": {
+  "total": 108,
+  "by_category": {
+   "order_book": 35,
+   "capex": 17,
+   "guidance": 42,
+   "margin": 9,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-09-26",
+    "statement": "Monetization of non-core assets and arbitration awards ~Rs 1,500+ Cr in next 2-3 years",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Revenue guidance Rs 600-700 crore for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "EBITDA guidance 10-11% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Expected order inflow Rs 1,500 crore for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Targeting H2 FY27 topline of approximately Rs 400 crore",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE239D01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

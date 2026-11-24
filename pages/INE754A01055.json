@@ -125,5 +125,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 112,
+  "by_category": {
+   "order_book": 51,
+   "guidance": 27,
+   "margin": 18,
+   "capex": 13,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "Management will articulate long-term vision more clearly next quarter based on shareholder feedback",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "TAM of $4.3B identified across Traditional Leakage $0.19B, Agentic Replacement $0.88B, New-Age Leakage $1.70B, Telco Adjacencies $1.53B",
+    "period": null
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Telco industry $1.7T with $30-40B new spending annually; 3-5 year window open",
+    "period": null
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Device fraud was proof of concept; rest is the opportunity across new TAM",
+    "period": null
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Aspiration for high single-digit to double-digit revenue growth with durable EBITDA margins",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE754A01055.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

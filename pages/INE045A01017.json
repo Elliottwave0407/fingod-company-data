@@ -161,5 +161,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 52,
+  "by_category": {
+   "order_book": 7,
+   "guidance": 12,
+   "margin": 14,
+   "capex": 12,
+   "capacity": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-21",
+    "statement": "Operating margins expected to remain at similar levels supported by improving product mix, cost discipline, higher capacity utilization",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-07-21",
+    "statement": "Three key growth drivers: Exports (Middle East primary market with distributor expansion), Product Mix (higher-margin segments), Customer Engagement (deepening direct relationships)",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-07-21",
+    "statement": "Automation strategic priority; building internal robotics capabilities and evaluating acquisition opportunities",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Gross margin target of 36%-38%",
+    "period": "next 3-4 years"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Revenue target of INR2,000 crores by FY29 on track",
+    "period": "FY29"
+   }
+  ],
+  "ledger": "claims/INE045A01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

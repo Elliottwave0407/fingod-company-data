@@ -163,5 +163,34 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 4,
+  "by_category": {
+   "guidance": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Unit III of Ghatampur thermal power project scheduled to be completed in the 1st Qtr of financial year 2026-27",
+    "period": "Q1 FY2026-27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Balance works on Coal handling plant and Railway marshalling yard for NTTPS project poised for completion by Sep 26",
+    "period": "Sep 2026"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "NPCIL Kudankulam Electrical package job slated for completion in Sept 2026",
+    "period": "Sept 2026"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "NPCIL Kudankulam C&I package balance items scheduled to be delivered by 31.03.2027",
+    "period": "31.03.2027"
+   }
+  ],
+  "ledger": "claims/INE661I01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -171,5 +171,43 @@
   ],
   "dividend_per_share": 2
  },
+ "claims": {
+  "total": 54,
+  "by_category": {
+   "guidance": 20,
+   "capex": 11,
+   "capacity": 10,
+   "order_book": 4,
+   "margin": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-24",
+    "statement": "Confident to achieve or cross 15 million tons bauxite volume by FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-24",
+    "statement": "Expect around USD1 billion sales from bauxite business in FY28 at 15 million tons",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-24",
+    "statement": "Expect EBITDA per ton to remain around USD5.5-6 in near term, targeting USD10 over medium term",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Targeting export of more than 5 million tons of bauxite over next two quarters (H2 FY27)",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Expect iron ore operations to start next financial year with reasonable update on guidance",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE348A01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

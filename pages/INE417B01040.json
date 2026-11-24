@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 36,
+  "by_category": {
+   "order_book": 16,
+   "guidance": 7,
+   "capex": 4,
+   "margin": 6,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-02",
+    "statement": "Expect to sustain EBITDA margin levels going forward",
+    "period": "FY2026"
+   },
+   {
+    "day": "2026-06-05",
+    "statement": "No specific margin guidance provided but focused on sustaining current margin profiles",
+    "period": null
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Bidding pipeline of \u20b96,650 crore as of presentation date",
+    "period": "August 2026"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Revenue normalization expected progressively over coming quarters; growth momentum to continue",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Indian IT spending to reach US$176bn+ by 2026",
+    "period": "FY26E"
+   }
+  ],
+  "ledger": "claims/INE417B01040.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

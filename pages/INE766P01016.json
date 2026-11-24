@@ -139,5 +139,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 132,
+  "by_category": {
+   "capex": 23,
+   "guidance": 34,
+   "order_book": 20,
+   "margin": 42,
+   "capacity": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-04-30",
+    "statement": "Express business immediate goal is EBITDA breakeven",
+    "period": "near term"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Target EBITDA breakeven in B2B Express business in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Target 150-200 bps gross margin expansion over medium term for overall business",
+    "period": "medium-term"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "On track to reduce white space by 95% by September 2026 from 1.6 million sq ft base in Q1 FY26",
+    "period": "September 2026"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Capex for FY27 guided at INR100-110 crores, mostly in contract logistics and 2x2 JV",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE766P01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

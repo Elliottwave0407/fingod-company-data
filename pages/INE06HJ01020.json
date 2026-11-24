@@ -138,5 +138,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 68,
+  "by_category": {
+   "guidance": 25,
+   "margin": 19,
+   "order_book": 4,
+   "capacity": 11,
+   "capex": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-15",
+    "statement": "Increasing wallet share from existing customers",
+    "period": null
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "Strengthening technology and talent pool for scale and operational excellence",
+    "period": null
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Revenue growth guidance of 13% to 15% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "EBITDA margin guidance of 10% to 11% for H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Aspiration to reach INR1,000 crores revenue by FY28",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE06HJ01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

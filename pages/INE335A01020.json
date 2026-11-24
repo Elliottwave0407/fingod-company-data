@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 195,
+  "by_category": {
+   "order_book": 34,
+   "capex": 33,
+   "capacity": 32,
+   "guidance": 69,
+   "margin": 27
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-13",
+    "statement": "FY27 Lighting guidance: 22-23% value growth, ~25% volume growth, ~INR2,200 cr revenue, INR200 cr EBITDA",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "FY28 Lighting target: ~20% value growth; FY30 target: ~15% CAGR with 9-9.5% EBITDA margins",
+    "period": "FY28, FY30"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Steel FY27 volume target: 11 lakh tons with exports at 22-25% of volumes",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Steel FY28 target: ~14 lakh tons at EBITDA/ton INR4,600-4,800; FY30 target: ~2 million tons",
+    "period": "FY28, FY30"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Steel FY27 full-year EBITDA/ton average expected ~INR4,600-4,650; Q3 INR4,800-4,900, Q4 >INR5,000",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE335A01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

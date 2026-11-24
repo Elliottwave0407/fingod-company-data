@@ -149,5 +149,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 114,
+  "by_category": {
+   "guidance": 41,
+   "capex": 25,
+   "capacity": 11,
+   "order_book": 19,
+   "margin": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-12",
+    "statement": "EU-GMP approval expected to unlock 60-70% of FY28 growth; base business growing steadily",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "FY27 revenue target Rs 415-420 crore without EU, Rs 450-460 crore with EU",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "H2 FY27 legacy business growth 15-20% on H1 base",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "EBITDA margin target 18-20% at Rs 700 crore revenue",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "EU-GMP acceptance expected in 1-1.5 months, then EMA meeting for certificate",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE518E01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -139,5 +139,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 10,
+  "by_category": {
+   "guidance": 6,
+   "order_book": 1,
+   "capacity": 2,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-03-17",
+    "statement": "GOI allotted \u20b96,21,941 Cr to MoD with \u20b91,05,518.43 crore for domestic capital procurement",
+    "period": null
+   },
+   {
+    "day": "2025-03-17",
+    "statement": "100 GW nuclear addition, outlay ~\u20b920,00,000 Cr",
+    "period": null
+   },
+   {
+    "day": "2025-03-17",
+    "statement": "SMRs alone hold potential business value of \u20b92,00,000 Cr (USD 25 billion)",
+    "period": null
+   },
+   {
+    "day": "2025-03-17",
+    "statement": "GOI allotted \u20b920,000 Cr in budget Feb 25 for development of SMR",
+    "period": "Feb 25"
+   },
+   {
+    "day": "2025-03-17",
+    "statement": "Indian government committed \u20b920,193 Cr for future space exploration",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE711A01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

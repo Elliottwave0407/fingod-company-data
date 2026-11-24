@@ -121,5 +121,29 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-04",
+    "statement": "Project Avio 3-year goals: GMV USD 1 Billion, 1,000 smart agri-stores, digitally onboard 20 million farmers",
+    "period": "next three years"
+   },
+   {
+    "day": "2026-02-04",
+    "statement": "Project Avio 3-year goals: open 1,000 smart agri-stores for agri-input retail and agri-output aggregation",
+    "period": "next three years"
+   },
+   {
+    "day": "2026-02-04",
+    "statement": "Project Avio 3-year goals: digitally onboard 20 million farmers of the 40 million serviced today",
+    "period": "next three years"
+   }
+  ],
+  "ledger": "claims/INE855F01042.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -113,5 +113,42 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 30,
+  "by_category": {
+   "capex": 9,
+   "guidance": 19,
+   "order_book": 1,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "Target to reach $3M MRR for gaming",
+    "period": null
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Gaming revenues expected to grow by 50% in FY 2027",
+    "period": "FY 2027"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Product EBITDA 20% going towards 25% for mobile gaming and smart console",
+    "period": null
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Market expansion Spain Dec 26, other geographies in 2027",
+    "period": null
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Gaming MRR projected to grow 15% to 20% in FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE809I01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

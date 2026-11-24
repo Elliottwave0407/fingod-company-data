@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 102,
+  "by_category": {
+   "guidance": 35,
+   "capex": 25,
+   "margin": 16,
+   "order_book": 12,
+   "capacity": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-02",
+    "statement": "Railway lounge revenue target INR 500 crores in 5 years remains intact",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Minimum guarantee payments for global lounge expansion expected to be recovered as volumes scale in coming quarters",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Management expects to reach EBITDA breakeven by next year (FY28).",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Management reiterates prior commitment to target EBITDA breakeven by H2 FY28.",
+    "period": "H2 FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Priorities for rest of FY27: deepen distribution and adoption of launched services, drive programme activity across global network, scale railway business through Ten11, expand lifestyle offerings through banking and loyalty partners",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0JS101016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -138,5 +138,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 51,
+  "by_category": {
+   "capex": 15,
+   "capacity": 10,
+   "guidance": 8,
+   "margin": 10,
+   "order_book": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-18",
+    "statement": "Past revenue CAGR of 18%; no forward CAGR target provided",
+    "period": "past"
+   },
+   {
+    "day": "2026-02-26",
+    "statement": "No explicit financial guidance provided in presentation",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-05-27",
+    "statement": "Management expects double-digit revenue growth in FY27; no specific margin guidance given as per company policy",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Cost optimisation and operational efficiency stay a priority as the Company works towards sustainable growth and margin improvement",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Management expects consolidated EBITDA margin of 5-8% under normalized non-inflationary conditions",
+    "period": "normalized scenario"
+   }
+  ],
+  "ledger": "claims/INE236G01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

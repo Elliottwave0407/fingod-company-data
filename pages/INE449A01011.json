@@ -134,5 +134,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 60,
+  "by_category": {
+   "guidance": 14,
+   "margin": 17,
+   "capex": 13,
+   "capacity": 11,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-04",
+    "statement": "FY27 M&HCV volume expected down 5-7% from 400k base to ~370k-380k, but could improve to 2-3% down depending on H2 FY26 performance and GST sentiment",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-02-09",
+    "statement": "Q4 FY26 industry volume expected to grow 5-10% YoY; revenue will depend on product mix and non-MHCV segments",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-02-09",
+    "statement": "Capacity expansion planned from Q1 FY27 to Q3 FY27 to meet peak demand of ~500,000 M&HCV segment",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-22",
+    "statement": "Aspirational top line target of INR4,000-5,000 crores over next 4-5 years with exports as a key lever.",
+    "period": "next 4-5 years"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Management expects market to hold for next couple of quarters and aims to convert demand strongly",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE449A01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

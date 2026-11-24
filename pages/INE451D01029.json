@@ -144,5 +144,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 106,
+  "by_category": {
+   "capacity": 24,
+   "capex": 20,
+   "guidance": 47,
+   "order_book": 4,
+   "margin": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-22",
+    "statement": "Thailand operations running at full capacity",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Volume growth guidance of 15-20% YoY for next 10-15 quarters",
+    "period": "next 10-15 quarters"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Full year export target of more than 30,000 tons from India and Thailand combined",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "India export target of 14,000-15,000 tons for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Consolidated volume target of 160,000 tons for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE451D01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -147,5 +147,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 125,
+  "by_category": {
+   "guidance": 58,
+   "capacity": 8,
+   "order_book": 22,
+   "margin": 23,
+   "capex": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-30",
+    "statement": "Equity infusion \u20b9400 Cr and debt raised \u20b97,485 Cr over last two years",
+    "period": "last 2 years"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Aim to reach INR10,000 crores AUM by March 2028",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Target ROA of 3.5-4% and ROE of 14-15% from FY27 onwards in BAU scenario",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Gross credit cost expected to hover between 2.5-3%; net credit cost guidance uncertain due to Maharashtra situation",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "No change in FY27 guidance: INR6,000-6,500 crores disbursements, INR6,000+ crores AUM, INR675 crores opex as of end October",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE572J01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

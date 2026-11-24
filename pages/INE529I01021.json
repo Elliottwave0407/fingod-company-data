@@ -165,5 +165,43 @@
   ],
   "dividend_per_share": 2.5
  },
+ "claims": {
+  "total": 181,
+  "by_category": {
+   "capex": 38,
+   "capacity": 66,
+   "guidance": 59,
+   "margin": 16,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-21",
+    "statement": "Aims to augment Clonal Propagation Center capacity to produce 1 crore clones annually covering 75,000 acres by 2030",
+    "period": "2030"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Targets freshwater consumption below 30 m\u00b3 per tonne of paper in near future",
+    "period": "near future"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Revenue target of INR1,300 crores plus for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "EBITDA margin guidance of about 14% for H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Targeting 18-20% EBITDA margins by next financial year FY28",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE529I01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -132,5 +132,43 @@
   "key_risks": [],
   "dividend_per_share": 0.5
  },
+ "claims": {
+  "total": 104,
+  "by_category": {
+   "capex": 20,
+   "guidance": 32,
+   "capacity": 24,
+   "margin": 22,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-12",
+    "statement": "Confident in growth trajectory for H2 FY27 with focus on existing network performance and disciplined expansion",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Management commits to 15-18% revenue growth for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Steady-state EBITDA margin expected at 34-35% next year",
+    "period": "next year"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Revenue per patient expected to hover around current levels",
+    "period": "next 1.5 years"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Q3 revenue will fall due to seasonality; Q4 will be better",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE877V01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

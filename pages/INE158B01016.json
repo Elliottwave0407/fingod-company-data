@@ -131,5 +131,21 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 4,
+  "by_category": {
+   "capex": 2,
+   "order_book": 1,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-13",
+    "statement": "EBITDA margin target range 18-20%",
+    "period": "not stated"
+   }
+  ],
+  "ledger": "claims/INE158B01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

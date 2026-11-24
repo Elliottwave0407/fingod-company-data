@@ -136,5 +136,42 @@
   ],
   "dividend_per_share": 1.25
  },
+ "claims": {
+  "total": 25,
+  "by_category": {
+   "guidance": 12,
+   "margin": 7,
+   "capex": 4,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-28",
+    "statement": "Abhilaya FY27 revenue target of over Rs 200 crores contingent on funding",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "Expects 10-12% annual growth in freight forwarding and LCL consolidation business",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "Expects 5-6% growth in FCL and 3-4% in LCL volumes in Q2 FY26",
+    "period": "Q2 FY26"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "Plans 20% volume growth for Abhilaya last-mile delivery in FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-22",
+    "statement": "Long-term outlook encouraging supported by India infrastructure development, supply-chain diversification, improving trade opportunities",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE336X01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

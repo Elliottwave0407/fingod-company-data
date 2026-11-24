@@ -153,5 +153,40 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 15,
+  "by_category": {
+   "guidance": 9,
+   "capex": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-14",
+    "statement": "Board proposed demerger of business segments into three entities: Plastic packaging waste, Biomass briquettes, Recycled products",
+    "period": "not stated"
+   },
+   {
+    "day": "2025-02-14",
+    "statement": "Demerger committee formed to plan and implement the demerger",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "By 2030, RACE aims to build a technology-enabled, traceable and ESG-aligned circular supply chain that connects waste generators, suppliers, collection centres, recyclers, processors, manufacturers and end markets.",
+    "period": "2030"
+   },
+   {
+    "day": "2026-06-19",
+    "statement": "Mandatory CBG blending obligation 1% in FY26, 3% in FY27, 4% in FY27, 5% from FY29",
+    "period": "FY26-FY29"
+   },
+   {
+    "day": "2026-06-19",
+    "statement": "Mandatory biomass co-firing 5% in FY25, 7% in FY26 for thermal power plants",
+    "period": "FY25-FY26"
+   }
+  ],
+  "ledger": "claims/INE084Q01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

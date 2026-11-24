@@ -132,5 +132,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 83,
+  "by_category": {
+   "margin": 24,
+   "guidance": 28,
+   "capex": 13,
+   "capacity": 10,
+   "order_book": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-15",
+    "statement": "KSR Footwear subsidiary listing expected early next week",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-02-20",
+    "statement": "FY27 targets: revenue ~INR350 crores, gross margin 49-50%, EBITDA margin 14-14.5%, PAT margin 2-2.5%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-02-20",
+    "statement": "FY27 margin guidance to be finalized by end of Q4 FY26 after new product (SS26, AW26) margin fixation",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-06-01",
+    "statement": "FY27 revenue target INR400 crores, EBITDA margin 14%, gross margin 49-50%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-01",
+    "statement": "Steady state target of around 200 COCO stores post cleanup",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE834I01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

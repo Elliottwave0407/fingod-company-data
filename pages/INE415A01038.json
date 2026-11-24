@@ -178,5 +178,43 @@
   ],
   "dividend_per_share": 7
  },
+ "claims": {
+  "total": 111,
+  "by_category": {
+   "capex": 34,
+   "guidance": 37,
+   "capacity": 28,
+   "order_book": 2,
+   "margin": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-04",
+    "statement": "FY27-28 volume growth of 15-17% expected from new Madhya Pradesh plant capacity addition",
+    "period": "FY27-28"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Gwalior facility will add 500 tonnes per day of container glass production",
+    "period": "March 2027"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Gwalior facility will increase overall capacity by ~25%",
+    "period": "March 2027"
+   },
+   {
+    "day": "2026-04-27",
+    "statement": "500 TPD greenfield plant to add ~25% to current glass container capacity and deepen reach in North India",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "New 500 TPD greenfield glass plant by March 2027",
+    "period": "by March 2027"
+   }
+  ],
+  "ledger": "claims/INE415A01038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

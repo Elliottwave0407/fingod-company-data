@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 59,
+  "by_category": {
+   "capex": 10,
+   "guidance": 16,
+   "margin": 17,
+   "order_book": 9,
+   "capacity": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-05",
+    "statement": "Management does not provide revenue guidance for future periods",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-05-04",
+    "statement": "Management does not provide revenue or margin guidance for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-22",
+    "statement": "Target 100+ certified Claude Engineers by end of year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "24% is the target steady state EBITDA margin",
+    "period": null
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Management does not provide forward-looking revenue or EBITDA forecasts but sees sustained growth momentum and healthy order pipeline",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE344S01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

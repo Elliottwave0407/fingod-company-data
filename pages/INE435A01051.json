@@ -185,5 +185,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 34,
+  "by_category": {
+   "capex": 12,
+   "capacity": 11,
+   "guidance": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-08",
+    "statement": "Domestic paper demand expected to grow 5-7% CAGR FY23-25 to 21.5-22.5 million MT",
+    "period": "FY23-25"
+   },
+   {
+    "day": "2025-02-08",
+    "statement": "Specialty paper tissue and thermal expected 11-12% CAGR FY23-25",
+    "period": "FY23-25"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Wood inventory will be increased from 30 days to 50 days when wood availability is good.",
+    "period": "When wood availability is good"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Maturing plantation cycles will ease wood costs in FY2026-27, benefiting the Company's input cost structure.",
+    "period": "FY2026-27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "EPR target for plastic waste collection for FY 2025-26 is 1268 tons.",
+    "period": "FY 2025-26"
+   }
+  ],
+  "ledger": "claims/INE435A01051.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

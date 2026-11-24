@@ -169,5 +169,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 90,
+  "by_category": {
+   "guidance": 46,
+   "order_book": 11,
+   "margin": 12,
+   "capex": 14,
+   "capacity": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Targets 8-10% full-year growth in piping division",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expects net receivables reduction of INR 300 crore+ by March 2027 from government-linked receivables",
+    "period": "by March 2027"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expects Maharashtra incentive ~INR 100 crore and land monetization INR 100-150 crore in H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expects project business to wind down to zero by September 2027",
+    "period": "by September 2027"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Targets Plastic segment margin improvement to ~12% medium-term; Hi-Tech MI to maintain 18-19%",
+    "period": "medium-term"
+   }
+  ],
+  "ledger": "claims/INE175A01038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

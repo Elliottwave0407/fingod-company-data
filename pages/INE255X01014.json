@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": 8.1
  },
+ "claims": {
+  "total": 78,
+  "by_category": {
+   "guidance": 16,
+   "capacity": 7,
+   "margin": 13,
+   "capex": 11,
+   "order_book": 31
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-17",
+    "statement": "Dividend payout minimum 30% of PAT or 4% of net worth per DIPAM guidelines",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-06-04",
+    "statement": "Management targets double-digit growth for e-commerce business in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-04",
+    "statement": "EPR and travel portal revenue contribution expected in FY27 but no numbers given",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Management aims to sustain double-digit revenue growth over the long term, averaging out quarterly volatility.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Aspires for double-digit revenue growth (10-20%) for FY27, consistent with past 3 years",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE255X01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

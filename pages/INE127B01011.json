@@ -133,5 +133,22 @@
   ],
   "dividend_per_share": 4.0
  },
+ "claims": {
+  "total": 26,
+  "by_category": {
+   "order_book": 16,
+   "capex": 8,
+   "capacity": 1,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Barring any unforeseen developments or adverse macroeconomic conditions, the long-term outlook of the Company remains positive.",
+    "period": "long-term"
+   }
+  ],
+  "ledger": "claims/INE127B01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

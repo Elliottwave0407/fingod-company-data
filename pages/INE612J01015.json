@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": 7.5
  },
+ "claims": {
+  "total": 94,
+  "by_category": {
+   "capex": 13,
+   "guidance": 44,
+   "margin": 14,
+   "order_book": 19,
+   "capacity": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-26",
+    "statement": "FY2027 disbursement target of Rs.5000 Crores and AUM target of Rs.18,000 Crores",
+    "period": "FY2027"
+   },
+   {
+    "day": "2026-05-26",
+    "statement": "FY2029 loan book target of Rs.25,000 Crores delayed by one year",
+    "period": "FY2029"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "FY27 disbursement target Rs 5,000 Cr; AUM growth 13-14%; reduce NPA by Rs 40 Cr",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Q2 FY27 disbursement target Rs 1,200-1,250 Cr; target to bring June NPA down to March level (~Rs 405 Cr)",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Q3 FY27 disbursement guidance Rs 1,300-1,350 cr; Q4 FY27 Rs 1,650-1,700 cr; full-year profit Rs 480-490 cr; NPA target below 2% by year-end",
+    "period": "Q3 FY27, Q4 FY27, FY27"
+   }
+  ],
+  "ledger": "claims/INE612J01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

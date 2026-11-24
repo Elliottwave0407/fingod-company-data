@@ -138,5 +138,20 @@
   ],
   "dividend_per_share": 126.5
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Company plans to achieve a further 2.5% reduction in CO2 emissions",
+    "period": "Financial year 2026-27"
+   }
+  ],
+  "ledger": "claims/INE634A01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -139,5 +139,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 93,
+  "by_category": {
+   "order_book": 19,
+   "guidance": 43,
+   "margin": 18,
+   "capex": 7,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-02",
+    "statement": "Focus on right-sizing costs and portfolio for sustained margin expansion",
+    "period": null
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Accelerate AI across the enterprise",
+    "period": null
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Scale GTM with new leadership and capabilities",
+    "period": null
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Enforce working capital discipline through faster receivable collections",
+    "period": null
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Reaffirmed full-year EBITDA margin improvement target of 200 bps for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0U4701011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

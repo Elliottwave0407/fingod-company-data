@@ -152,5 +152,43 @@
   "key_risks": [],
   "dividend_per_share": 1
  },
+ "claims": {
+  "total": 111,
+  "by_category": {
+   "order_book": 23,
+   "capex": 32,
+   "capacity": 24,
+   "guidance": 18,
+   "margin": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-01",
+    "statement": "Expects margins to improve gradually quarter-on-quarter as raw material prices ease and KUSUM 2.0 launches",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "PM-KUSUM 2.0 expected to be announced during the ongoing quarter",
+    "period": "ongoing quarter"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "New core capacities expected to come online from Q3 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "PM-KUSUM 2.0 approval expected in ongoing quarter with execution results in following quarter",
+    "period": "Q3 FY27, Q4 FY27"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "Rooftop revenue growth 58% YoY in Q2 FY27; inverter response positive; complete solution with modules expected to drive future growth",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE908D01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

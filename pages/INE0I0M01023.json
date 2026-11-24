@@ -113,5 +113,37 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 13,
+  "by_category": {
+   "capex": 3,
+   "guidance": 4,
+   "capacity": 5,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-03-24",
+    "statement": "Government target to increase CBM gas production to 5.0 MMSCMD by 2027-28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Management expects significant turnover increase from FY28 backed by pipeline connectivity to national gas grid",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "FY27 net profit higher than full year FY26 profit",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Peak production of over 1.5 MMSCMD expected from both blocks combined versus current 20,000 cubic meters per day",
+    "period": "FY28-29"
+   }
+  ],
+  "ledger": "claims/INE0I0M01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

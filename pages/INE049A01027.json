@@ -204,5 +204,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 92,
+  "by_category": {
+   "guidance": 32,
+   "capacity": 21,
+   "capex": 21,
+   "margin": 15,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-02",
+    "statement": "Net debt target of INR2,000 crores within next 12 months",
+    "period": "next 12 months"
+   },
+   {
+    "day": "2026-06-02",
+    "statement": "New verticals revenue contribution expected from H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-06-02",
+    "statement": "Optimal capacity utilization could deliver INR4,000 crores revenue and INR700-800 crores EBITDA in 18-24 months",
+    "period": "18 to 24 months"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Revenue target for Yarn Solutions and Fabric Solutions verticals at full capacity",
+    "period": "full capacity"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Net debt expected to reduce by end of fiscal year",
+    "period": "end of fiscal"
+   }
+  ],
+  "ledger": "claims/INE049A01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

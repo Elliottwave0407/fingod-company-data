@@ -150,5 +150,43 @@
   ],
   "dividend_per_share": 2
  },
+ "claims": {
+  "total": 93,
+  "by_category": {
+   "capacity": 17,
+   "guidance": 26,
+   "capex": 33,
+   "order_book": 6,
+   "margin": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-04-27",
+    "statement": "Topline growth in FY27 similar to FY26; no abnormal growth due to high utilization",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-18",
+    "statement": "Expected annual EBITDA from garmenting at full utilisation ~ Rs 300 crore",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Renewable energy capacity target 82 MW by Q1 FY28, green share ~70%",
+    "period": "Q1 FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Management reiterates aspiration to double FY27 PAT versus FY26 and says they are on track at the half-year mark.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Management says they will at least double PAT from last year in FY27.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE495C01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

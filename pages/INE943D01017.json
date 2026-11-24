@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 98,
+  "by_category": {
+   "guidance": 28,
+   "margin": 36,
+   "order_book": 15,
+   "capex": 11,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-29",
+    "statement": "Reaffirmed FY27 EBITDA guidance of comfortably crossing INR 300 crores, calling it a floor not a ceiling",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-29",
+    "statement": "Provided FY28 targets of approximately INR 1,500 crores revenue and INR 450 crores EBITDA",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY27 EBITDA guidance INR 300 Cr+; H1 FY27 EBITDA INR 154 Cr, more than half the full-year mark",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Raised FY27 EBITDA floor to at least INR 310 crores from earlier INR 300 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "FY28 revenue target of INR 1,500 crores combines organic growth with acquisitions; tighter view after next acquisition closes",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE943D01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

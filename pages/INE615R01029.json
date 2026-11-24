@@ -134,5 +134,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 39,
+  "by_category": {
+   "guidance": 16,
+   "capex": 5,
+   "order_book": 9,
+   "margin": 5,
+   "capacity": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-20",
+    "statement": "Target ROA above 3% and ROE of 15% over long term",
+    "period": "long term"
+   },
+   {
+    "day": "2024-08-20",
+    "statement": "Target NIM of up to 8% over time",
+    "period": "long term"
+   },
+   {
+    "day": "2024-11-11",
+    "statement": "No formal guidance given for FY25 AUM, disbursements or asset quality; yearly guidance and 3-year roadmap to be provided closer to fiscal year-end",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-02-20",
+    "statement": "Sustainable NIM expected between 7.5% to 9% on a year-over-year basis, targeting 8% to 9%",
+    "period": "forward"
+   },
+   {
+    "day": "2025-02-20",
+    "statement": "Strategic initiatives including potential fundraising to be disclosed by end of January 2025",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE615R01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

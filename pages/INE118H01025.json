@@ -120,5 +120,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 61,
+  "by_category": {
+   "guidance": 21,
+   "capex": 11,
+   "capacity": 6,
+   "margin": 12,
+   "order_book": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-13",
+    "statement": "Target to grow FPI count to around 800 from current 520",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-13",
+    "statement": "Target FPI participation in BSE volumes to reach around 9% from current 5-6%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Targeting meaningfully double-digit cash market share by beginning of calendar year 2027",
+    "period": "beginning of calendar year 2027"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Current 500 co-location racks expected to sustain for at least 1.5 years",
+    "period": "next 1.5 years"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Targeting at least 800 FPIs participating on platform",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE118H01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

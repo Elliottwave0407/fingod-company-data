@@ -133,5 +133,26 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 4,
+  "by_category": {
+   "order_book": 1,
+   "capex": 1,
+   "guidance": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-29",
+    "statement": "Expect solid revenue from Tower of Dreams and promising growth from solar business",
+    "period": "future"
+   },
+   {
+    "day": "2024-08-29",
+    "statement": "Strong inquiries and sustained demand for Tower of Dreams project",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE05ST01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

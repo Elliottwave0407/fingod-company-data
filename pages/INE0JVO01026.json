@@ -149,5 +149,31 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 6,
+  "by_category": {
+   "order_book": 2,
+   "capex": 1,
+   "guidance": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-10-28",
+    "statement": "Expects execution to pick up pace in H2 FY26 post-monsoon",
+    "period": "H2 FY26"
+   },
+   {
+    "day": "2025-10-28",
+    "statement": "Landmark Gruha 5-star rated project slated for completion in FY26-27",
+    "period": "FY26-27"
+   },
+   {
+    "day": "2025-10-28",
+    "statement": "Robust order book provides visibility for next three years",
+    "period": "next three years"
+   }
+  ],
+  "ledger": "claims/INE0JVO01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

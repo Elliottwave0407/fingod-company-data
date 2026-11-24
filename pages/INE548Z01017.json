@@ -160,5 +160,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 1,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Spinners' margins are expected to contract by 50-100 basis points in FY2026, particularly in the second half of the year.",
+    "period": "FY2026"
+   }
+  ],
+  "ledger": "claims/INE548Z01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

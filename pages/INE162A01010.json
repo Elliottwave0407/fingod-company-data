@@ -184,5 +184,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 32,
+  "by_category": {
+   "capex": 13,
+   "guidance": 12,
+   "capacity": 4,
+   "margin": 2,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-15",
+    "statement": "Khavda 600 MW solar EBITDA Rs 350-360 cr for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-15",
+    "statement": "Full portfolio EBITDA Rs 950-1,000 cr after 500 MW Khavda fully operational",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-07-15",
+    "statement": "Solar division EBITDA ~Rs 600 cr for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-15",
+    "statement": "Interest cost ~Rs 250-260 cr and depreciation ~Rs 425-450 cr for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-15",
+    "statement": "Interest cost Rs 400-450 cr and depreciation Rs 550-600 cr for FY28",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE162A01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

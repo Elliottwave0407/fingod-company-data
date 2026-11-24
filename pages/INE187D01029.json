@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 171,
+  "by_category": {
+   "order_book": 61,
+   "guidance": 58,
+   "capex": 24,
+   "capacity": 9,
+   "margin": 19
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-18",
+    "statement": "FY27 organic revenue growth guidance 18-20% YoY",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "FY28 group revenue growth expected 18%+ YoY",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Marelli JV FY27 revenue target INR470 cr, FY28 INR550 cr+",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Forging division FY27 growth >20% YoY",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Export share target ~30% by Q4 FY27, ~35%+ by Q4 FY28",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE187D01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

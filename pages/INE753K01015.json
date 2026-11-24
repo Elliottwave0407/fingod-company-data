@@ -162,5 +162,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 14,
+  "by_category": {
+   "capacity": 3,
+   "capex": 3,
+   "guidance": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-15",
+    "statement": "Target 40% recycled resin usage in product line",
+    "period": "FY29-30"
+   },
+   {
+    "day": "2024-05-15",
+    "statement": "Target EBITDA margin 15% by adding value-added products and increasing B2C share",
+    "period": "FY29-30"
+   },
+   {
+    "day": "2024-08-14",
+    "statement": "Order book saw steady increase this quarter reaching comfortable level",
+    "period": "Q1FY25"
+   },
+   {
+    "day": "2024-08-14",
+    "statement": "Anticipate continual increase in margins over next two quarters",
+    "period": "Q1FY25"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Avana Drip - a newly introduced irrigation vertical within the Avana portfolio - to be a meaningful incremental contributor to revenue in FY 2026-27",
+    "period": "FY 2026-27"
+   }
+  ],
+  "ledger": "claims/INE753K01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

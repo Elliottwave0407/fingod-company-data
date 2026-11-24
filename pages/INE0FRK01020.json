@@ -132,5 +132,23 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 1,
+   "margin": 1,
+   "order_book": 1,
+   "capex": 1,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-07",
+    "statement": "Management aims to maintain current performance levels and increase them, targeting continued growth trend",
+    "period": "next year"
+   }
+  ],
+  "ledger": "claims/INE0FRK01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 131,
+  "by_category": {
+   "order_book": 32,
+   "guidance": 40,
+   "capex": 19,
+   "capacity": 19,
+   "margin": 21
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-29",
+    "statement": "Management guides consolidated tax rate of 25% to 26%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-29",
+    "statement": "Management guides finance cost to remain below 4% for the full year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Management targets ROCE of 25% for FY27 and debt-to-equity around 0.7 by year-end.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Management targets PBT margin of 7% over the next 3 years, up from current 5.38%.",
+    "period": "next 3 years"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Management expects PAT growth of at least 20% for FY27.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE932A01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

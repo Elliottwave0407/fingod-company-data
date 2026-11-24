@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 127,
+  "by_category": {
+   "capex": 20,
+   "guidance": 39,
+   "capacity": 27,
+   "order_book": 18,
+   "margin": 23
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Forward pipeline of 12,000+ seats on track in H1 FY27, on track to meet FY27 supply guidance",
+    "period": "H1 FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Full-year FY27 revenue expected to exceed INR1,800 crores with cash EBITDA of INR190-200 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Capex guidance for FY27 is INR200-210 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Full-year FY27 guidance: add 22,000-25,000 gross seats; co-working revenue growth 23-25%; Transform growth ~20%; total revenue past INR 1,800 crores; cash EBITDA INR 190-200 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY28 gross seat additions expected at least 20-25% higher than FY27, tilted towards premium portfolio",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE108V01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

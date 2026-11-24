@@ -124,5 +124,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 92,
+  "by_category": {
+   "order_book": 41,
+   "guidance": 25,
+   "capex": 9,
+   "capacity": 7,
+   "margin": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-20",
+    "statement": "Management expects minimum 20-25% top-line growth for FY26 and EBITDA margin to normalize to historical 12.5-13% range",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-11-17",
+    "statement": "Tenders submitted or under evaluation over INR 30,000 Mn",
+    "period": "H1 FY26"
+   },
+   {
+    "day": "2025-11-18",
+    "statement": "Expect 50-55% of order book to be executed over FY26 and FY27 combined",
+    "period": "FY26-FY27"
+   },
+   {
+    "day": "2025-11-18",
+    "statement": "Targeting 15-20% revenue growth for FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-11-18",
+    "statement": "Expect revenue to increase in Q3 and Q4 as fund flows normalize and government support continues",
+    "period": "H2 FY26"
+   }
+  ],
+  "ledger": "claims/INE0AE001013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -159,5 +159,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 83,
+  "by_category": {
+   "capex": 18,
+   "capacity": 20,
+   "guidance": 27,
+   "order_book": 7,
+   "margin": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-14",
+    "statement": "Benzene derivatives revenue target of INR 100 crores for FY26 and INR 300 crores for FY27",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "Benzene derivatives capacity utilization target of 70% by Q3 FY26 and 80% by Q4 FY26",
+    "period": "Q3 FY26"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "Chlor-alkali capacity utilization target of 90-95% in coming couple of quarters",
+    "period": "next quarter"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "Term debt reduction target of INR 150-175 crores by end of FY26 and similar reduction next year",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "Target debt-to-EBITDA of 2.5x before considering next growth plan",
+    "period": "next year"
+   }
+  ],
+  "ledger": "claims/INE338D01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

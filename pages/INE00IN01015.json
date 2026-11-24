@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 116,
+  "by_category": {
+   "capex": 22,
+   "guidance": 46,
+   "order_book": 13,
+   "capacity": 15,
+   "margin": 20
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-12",
+    "statement": "Exports expected to grow over last year despite Q2 subdued performance",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Capex for manufacturing guided below INR50 crores; total including land and China investment around INR100 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "EBITDA margin target 12-15% in next 3-4 years",
+    "period": "next 3-4 years"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Export contribution currently 11-12% annualized, targeting 15% in next 3-4 years",
+    "period": "next 3-4 years"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Confident of 11-12% EBITDA margin for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE00IN01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

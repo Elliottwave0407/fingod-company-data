@@ -152,5 +152,43 @@
   ],
   "dividend_per_share": 1.0
  },
+ "claims": {
+  "total": 115,
+  "by_category": {
+   "capex": 18,
+   "capacity": 29,
+   "order_book": 32,
+   "guidance": 28,
+   "margin": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-31",
+    "statement": "Received 'No Adverse Observations' from BSE & NSE on proposed Scheme of Amalgamation",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-06-05",
+    "statement": "FY27 strategic focus: accelerate project execution, expand presales, pursue redevelopment and acquisitions, scale PTC B2B vertical, maintain prudent capital allocation and strong free cash flow",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "FY27 priorities: execution across ongoing MMR projects, driving sales and collections, launching next projects at appropriate time, selectively adding new development opportunities",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Post-acquisition Monte South ownership increases from 40% to 100%; company's share of unsold GDV rises ~2.5x from ~\u20b92,600 crore to ~\u20b96,500 crore",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Monte South expected to sell INR600 crores in FY27; company anticipates better than INR1,000 crores total sales this year; INR7,000 crores bookings over 4-year period post full ownership",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE182D01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

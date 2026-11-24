@@ -151,5 +151,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 99,
+  "by_category": {
+   "guidance": 33,
+   "margin": 18,
+   "capacity": 20,
+   "order_book": 10,
+   "capex": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-14",
+    "statement": "Targets 18% EBITDA margin for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-14",
+    "statement": "Targets 10% revenue from digital platforms in FY27 and 20-25% next year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "Management expects consolidated revenue growth of 30% to 35% with margins at similar levels and slight improvements",
+    "period": "next 2 to 3 years"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "Infinia targeting INR40 crores revenue with 7% to 8% margins in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Targets INR500 crores revenue in next 2 years",
+    "period": "next 2 years"
+   }
+  ],
+  "ledger": "claims/INE01GN01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

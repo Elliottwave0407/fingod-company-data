@@ -145,5 +145,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 155,
+  "by_category": {
+   "guidance": 59,
+   "order_book": 63,
+   "margin": 16,
+   "capex": 13,
+   "capacity": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "Tentative revenue target of INR 850-900 crore by FY29",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Compliance-in-a-Box commercial launch targeted for 2027 with initial ambition of 100+ banks by March 2028",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "AI transformation targeting ~30% efficiency improvement",
+    "period": null
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Reaffirmed FY27 revenue guidance of Rs 342 crore and 60-70% growth target",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Confident of achieving FY27 guidance with H2 execution pickup and new POs",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0FFK01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

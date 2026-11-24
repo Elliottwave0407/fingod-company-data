@@ -141,5 +141,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 78,
+  "by_category": {
+   "guidance": 18,
+   "margin": 28,
+   "order_book": 4,
+   "capex": 14,
+   "capacity": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-04",
+    "statement": "Q2 FY27 commenced on encouraging note with releases like Alpha, Dhamaal 4, Jana Nayagan and upcoming slate including Batwara 1947, Toxic, Haiwan, Awarapan 2.",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Q3 FY27 commenced on encouraging note with strong content pipeline including Drishyam 3, Jailer 2, Ramayana Part 1, King, Avengers: Doomsday",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Operating leverage expected to kick in at current revenue levels; \u20b96 crore additional ad revenue could add ~\u20b94.2 crore to PBT (70% margin)",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "No cost surprises expected in next two quarters; all cost elements factored in, optimized, budgeted",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Management confident next two quarters will be far more exciting than trailing quarters; refrains from committing specific revenue numbers",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE527H01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

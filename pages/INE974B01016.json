@@ -143,5 +143,19 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 1,
+  "by_category": {
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company's performance during the current year will depend largely to the extent of availability of the raw jute crop. Albeit, we expect a much better crop compared to the previous season. However, the year is likely to remain challenging, particularly during the months of July and August, when u",
+    "period": "Current year (FY 2026-27)"
+   }
+  ],
+  "ledger": "claims/INE974B01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

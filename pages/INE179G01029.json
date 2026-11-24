@@ -164,5 +164,25 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 7,
+  "by_category": {
+   "capex": 5,
+   "guidance": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-19",
+    "statement": "Expand ethanol capacity to 85 KLPD in 2025 and further expansion in coming years",
+    "period": "2025"
+   },
+   {
+    "day": "2025-08-19",
+    "statement": "Plan to increase sugarcane cultivation by 15,000 acres",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE179G01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

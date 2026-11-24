@@ -142,5 +142,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 20,
+  "by_category": {
+   "order_book": 8,
+   "guidance": 7,
+   "capex": 3,
+   "margin": 1,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-25",
+    "statement": "Order book target: INR 12,000 crore by end of FY27 (2.5-3x revenue visibility).",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-11-25",
+    "statement": "Revenue acceleration expected in Q3 and Q4 FY26 as large HAM projects pick up momentum from engineering stage.",
+    "period": "Q3, Q4 FY26"
+   },
+   {
+    "day": "2026-05-27",
+    "statement": "Life Sciences City project worth \u20b93,000 Cr awarded with 95-year concession from MIDC at Dighi Port Industrial Area, Maharashtra",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-05-27",
+    "statement": "HMWSSB water transmission project worth \u20b92,085 Cr awarded for Godavari Drinking Water Supply Scheme linked to Hyderabad's long-term water infrastructure and Musi River rejuvenation",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-05-27",
+    "statement": "EPC + O&M contract worth \u20b91,401 Cr awarded by Maharashtra Industrial Township Limited for Dighi Port Industrial Area project",
+    "period": "not stated"
+   }
+  ],
+  "ledger": "claims/INE874I01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

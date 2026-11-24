@@ -136,5 +136,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 80,
+  "by_category": {
+   "order_book": 25,
+   "guidance": 29,
+   "margin": 15,
+   "capex": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-18",
+    "statement": "FY27 EBITDA margin guided at 18% to 20% for full year, with Q1 at 18%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-18",
+    "statement": "Q1 FY27 organic growth expected low single-digit QoQ; double-digit YoY growth possible in coming quarters",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "Full-year FY27 revenue growth expected in high single digits; EBITDA margin 18-20%; Q2 FY27 revenue growth 9-11% YoY with margins around 18%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-09-10",
+    "statement": "Vision 2032 target revenue $600 million and EBITDA margin above 20%",
+    "period": "2032"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Growth to accelerate on recovery in spending",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE342G01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

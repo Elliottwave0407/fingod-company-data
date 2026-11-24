@@ -131,5 +131,22 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 10,
+  "by_category": {
+   "order_book": 5,
+   "capex": 3,
+   "margin": 1,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-03",
+    "statement": "Drive recurring revenues via Managed Services & AMC; focus on operational excellence & cost optimization",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE625X01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

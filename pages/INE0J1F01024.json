@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 89,
+  "by_category": {
+   "order_book": 18,
+   "guidance": 24,
+   "margin": 21,
+   "capex": 14,
+   "capacity": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "Long-term 20% CAGR target maintained for next few years; VDA and Restar JV are strategies for sustained growth beyond current cycle",
+    "period": "next few years"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Management expects H2 FY27 price increases of 10-15% and flattish unit volumes, with commercial positive and consumer negative.",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Sustainable EBITDA margin for long-term horizons (FY29-30) guided at around 2.75%.",
+    "period": "FY29-30"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Interest cost expected to remain in the same range as H1 FY27, including acquisition debt.",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Debt-to-equity target maintained at 1:1, barring temporary opportunities where ROCE makes sense.",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE0J1F01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

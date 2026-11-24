@@ -151,5 +151,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 66,
+  "by_category": {
+   "capex": 31,
+   "capacity": 17,
+   "guidance": 9,
+   "margin": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-26",
+    "statement": "Management expects manufacturing revenue of around INR500 crores by next year (FY27)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-02-26",
+    "statement": "Management targets more than 18,000 tons volume next year (FY27)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Commercializing new plant capacity, widening custom-fabricated product basket, and expanding into newer domestic geographic territories",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Management guided for flattish volume growth in FY27 and expects manufacturing ramp-up towards end of FY27 or beginning of FY28",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "Management declined to give specific revenue, margin or timing guidance for new facilities, saying clearer guidance cannot be given now.",
+    "period": "next 1.5-2 years"
+   }
+  ],
+  "ledger": "claims/INE215I01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

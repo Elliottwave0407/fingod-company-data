@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 125,
+  "by_category": {
+   "capex": 35,
+   "guidance": 22,
+   "order_book": 8,
+   "margin": 25,
+   "capacity": 35
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-05",
+    "statement": "National rail freight share target 45% by 2030 supports structural tailwind",
+    "period": null
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Management guides for 10-15% top-line growth across all segments for the year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Hopeful to close the year with double-digit volume growth despite current disruption",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "JNPT currently 5% of rail volumes; expected to increase as Ankleshwar and Indore operationalize",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Rail volume target of 100,000 TEUs per quarter as bare minimum; double-digit growth targeted for next year",
+    "period": "FY27, FY28"
+   }
+  ],
+  "ledger": "claims/INE079J01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

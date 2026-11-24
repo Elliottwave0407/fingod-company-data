@@ -154,5 +154,39 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company anticipates a measurable increase in productivity and profitability over the forthcoming financial year, driven by strategic initiatives focused on service innovation, sector diversification, and operational excellence.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Expansion into High-Growth Service Areas: Proactive entry into emerging technology domains such as AI-led Data Center transformation, cloud migration services, and network modernization for 5G/FTTH is expected to contribute to increase in service revenue from these segments in FY27, as compared to F",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "New Revenue Stream: Developing specialized, value-added service offerings tailored for data centre, BFSI, energy & renewables, defence, manufacturing and telecom clients, including automation-driven service delivery models and analytics-based infrastructure management, projected to enhance average r",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Operational Efficiency and Productivity Gains: Through deployment of AI/ML tools, process automation, and centralized delivery models, the company expects to realize increase in productivity, measured by billable hours per FTE and project delivery turnaround times.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Customer Retention and Repeat Business: Expected to contribute to revenue growth.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE1VXE01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

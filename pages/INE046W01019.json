@@ -126,5 +126,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 170,
+  "by_category": {
+   "guidance": 89,
+   "capex": 12,
+   "order_book": 28,
+   "margin": 35,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-12",
+    "statement": "Credit cost expected to be better than guided 2.5%-3% range",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "NIM confident of being on upper end of guidance and exceeding it",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "ROA expected to beat upper guidance bracket of 3.3%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Profit guidance of Rs. 425-450 crores for FY27 on track",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Long-term AUM target of Rs. 30,000 crores by 2030 remains",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE046W01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

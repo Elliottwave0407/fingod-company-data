@@ -174,5 +174,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 1,
+   "capex": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Upon commencement of operations, the vessel is expected to nearly double our gaming capacity while materially enhancing the overall customer experience.",
+    "period": "upon commencement of operations"
+   }
+  ],
+  "ledger": "claims/INE124G01033.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

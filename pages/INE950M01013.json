@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": 20.0
  },
+ "claims": {
+  "total": 119,
+  "by_category": {
+   "capex": 20,
+   "guidance": 59,
+   "capacity": 13,
+   "margin": 19,
+   "order_book": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-03",
+    "statement": "FY27 revenue growth guidance: low double-digit",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY27 home textiles growth guidance: 20\u201325%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY27 new EBOs guidance: 40\u201345 in West and South",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY27 footwear gross sales guidance: roughly double to \u20b9120\u2013130 Mn",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Management maintains low double-digit revenue growth guidance for FY27, 20% home textile growth, and 40-45 new EBOs focused on West and South",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE950M01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

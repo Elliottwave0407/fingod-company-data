@@ -157,5 +157,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 160,
+  "by_category": {
+   "capex": 29,
+   "guidance": 54,
+   "order_book": 25,
+   "margin": 19,
+   "capacity": 33
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-29",
+    "statement": "Expecting 13 ANDAs with 41 strengths to be commercialized in government channel in H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Zoraya and Amerisyn to begin contributing to revenues from H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Strong growth visibility \u2013 H2 expected to be considerably better than H1 owing to anticipated launches",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 revenue growth guidance 30-40% and PAT growth 50-60%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expect to sustain ~25% annual growth over next 2-3 years",
+    "period": "next 2 to 3 years"
+   }
+  ],
+  "ledger": "claims/INE0RB801010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

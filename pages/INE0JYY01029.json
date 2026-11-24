@@ -158,5 +158,21 @@
   ],
   "dividend_per_share": 0.3
  },
+ "claims": {
+  "total": 7,
+  "by_category": {
+   "capex": 5,
+   "capacity": 1,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-16",
+    "statement": "Focus on expanding value-added stainless steel portfolio and Belgium subsidiary",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE0JYY01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

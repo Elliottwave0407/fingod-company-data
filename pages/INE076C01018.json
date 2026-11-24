@@ -153,5 +153,25 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 2,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "With the integration of the newly acquired Aqua Feed business, we expect to strengthen our market presence in all the states, improve margins, and generate sustainable value for our stakeholders. We will also focus on optimising capacity utilisation of the acquired facilities and exploring further e",
+    "period": "FY 2026-27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "During the current financial year, focus will be to grow the business and achieve break even.",
+    "period": "FY 2026-27"
+   }
+  ],
+  "ledger": "claims/INE076C01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

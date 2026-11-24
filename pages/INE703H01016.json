@@ -149,5 +149,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 45,
+  "by_category": {
+   "guidance": 9,
+   "order_book": 18,
+   "capex": 7,
+   "margin": 2,
+   "capacity": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-20",
+    "statement": "FY26 pre-sales target of INR 6,000 crore reaffirmed; H1 achieved INR 3,547 crore",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-21",
+    "statement": "FY27 pre-sales guidance of Rs 6,000 crore and collections guidance of Rs 3,000 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-03",
+    "statement": "Target net debt zero by FY31",
+    "period": "FY31"
+   },
+   {
+    "day": "2026-08-06",
+    "statement": "Pre-sales guidance for FY27 is INR6,000 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-06",
+    "statement": "Pre-sales expected to pick up significantly in Q3-Q4 FY27 driven by new launch timing",
+    "period": "Q3-Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE703H01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -141,5 +141,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 14,
+  "by_category": {
+   "capacity": 5,
+   "guidance": 7,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-11-14",
+    "statement": "US FDA approval for Dahej API facility received October 2024",
+    "period": "Oct 2024"
+   },
+   {
+    "day": "2024-11-14",
+    "statement": "6 API approvals received in Europe",
+    "period": null
+   },
+   {
+    "day": "2024-11-14",
+    "statement": "5 molecules submitted in China for API registration",
+    "period": null
+   },
+   {
+    "day": "2024-11-14",
+    "statement": "Partnered with Chinese marketing firm for API distribution in China",
+    "period": null
+   },
+   {
+    "day": "2024-11-14",
+    "statement": "20 oncology and non-oncology APIs validated and ready for filing in regulated countries",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE788J01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

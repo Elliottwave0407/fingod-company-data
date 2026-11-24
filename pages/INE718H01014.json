@@ -158,5 +158,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 19,
+  "by_category": {
+   "guidance": 6,
+   "capacity": 4,
+   "order_book": 2,
+   "capex": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-09-23",
+    "statement": "Aim to sustain EBITDA margin at 10% during growth period",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-11-26",
+    "statement": "Sanand and Chakan capacity expansions generating incremental revenue, expected to increase substantially",
+    "period": "Q2 FY26"
+   },
+   {
+    "day": "2026-02-09",
+    "statement": "Targeting 20-25% CAGR revenue growth for next few years",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-02-09",
+    "statement": "EBITDA margin expected to increase to 10% plus for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-20",
+    "statement": "Company targets 20-25% CAGR growth over coming years",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE718H01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

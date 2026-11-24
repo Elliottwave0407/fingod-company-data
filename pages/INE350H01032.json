@@ -136,5 +136,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 31,
+  "by_category": {
+   "order_book": 14,
+   "guidance": 11,
+   "capex": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-14",
+    "statement": "Monetization of non-core assets to strengthen balance sheet by FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-11-14",
+    "statement": "Targeting 25% government projects by FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "Planned capex of \u20b9700 Cr for FY27 focused on innovation, upskilling and fixed assets",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Projects worth \u20b9900 Cr in North and \u20b91,200 Cr in South in advanced negotiation stages",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Total bidding pipeline of \u20b97,500 Cr",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE350H01032.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

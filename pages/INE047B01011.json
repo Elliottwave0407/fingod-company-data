@@ -179,5 +179,30 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 6,
+  "by_category": {
+   "guidance": 3,
+   "capex": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Engineering Division maintains a positive outlook for the current year backed by robust order bookings and growing opportunities from expansion/upgradation of steel industry.",
+    "period": "current year"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Tea Division expects stable performance during the current year.",
+    "period": "current year"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Overall outlook for the synthetic value chain in the current year remains challenging owing to continued uncertainties from West Asia Crisis and persistent subdued demand.",
+    "period": "current year"
+   }
+  ],
+  "ledger": "claims/INE047B01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

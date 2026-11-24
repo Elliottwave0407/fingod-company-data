@@ -170,5 +170,25 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 4,
+  "by_category": {
+   "guidance": 2,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company remains committed to the continuous reduction of its debt through prudent financial management, improved operational performance, and constructive engagement with its lending partners.",
+    "period": "Ongoing"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "The Company will continue to pursue a balanced and prudent growth strategy, with emphasis on financial discipline, operational efficiency, selective project acquisition and sustainable value creation for its stakeholders.",
+    "period": "Coming financial years"
+   }
+  ],
+  "ledger": "claims/INE619I01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

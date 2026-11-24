@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": 0.7
  },
+ "claims": {
+  "total": 95,
+  "by_category": {
+   "capex": 16,
+   "capacity": 25,
+   "guidance": 22,
+   "margin": 22,
+   "order_book": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-21",
+    "statement": "Sustainable consolidated EBITDA margin range guided at 15-17% going forward",
+    "period": "forward"
+   },
+   {
+    "day": "2026-02-21",
+    "statement": "US capacity expansion backed by OEM contract; expected to add Rs. 100 crore incremental revenue once complete in FY27-FY28",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-02-21",
+    "statement": "UAE business expected to break even in FY27 with at least 10% higher revenue than current levels",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-01",
+    "statement": "Global CNG cylinder market projected to grow at 8.3% CAGR to reach USD 2.22 billion by 2032",
+    "period": "2032E"
+   },
+   {
+    "day": "2026-06-10",
+    "statement": "Board recommended dividend of Re. 0.70 per share for FY2026",
+    "period": "FY2026"
+   }
+  ],
+  "ledger": "claims/INE184H01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

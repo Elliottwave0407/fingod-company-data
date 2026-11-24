@@ -149,5 +149,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 29,
+  "by_category": {
+   "capex": 13,
+   "capacity": 11,
+   "guidance": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-20",
+    "statement": "P-10 and P-11 expansion deferred to H2FY25",
+    "period": "H2FY25"
+   },
+   {
+    "day": "2024-05-20",
+    "statement": "Expect demand and price across products to normalize in H2FY25",
+    "period": "H2FY25"
+   },
+   {
+    "day": "2024-08-05",
+    "statement": "Anticipate meaningful recovery in inorganic chemicals in latter half of FY25",
+    "period": "H2 FY25"
+   },
+   {
+    "day": "2024-08-05",
+    "statement": "Plan to add P10 and P11 capacity for organic chemicals by H2 FY25",
+    "period": "H2 FY25"
+   },
+   {
+    "day": "2024-10-29",
+    "statement": "Target to commence new products at P-10 unit by end of FY25",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE03YM01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

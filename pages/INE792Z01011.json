@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 83,
+  "by_category": {
+   "guidance": 32,
+   "margin": 13,
+   "order_book": 10,
+   "capex": 10,
+   "capacity": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-07",
+    "statement": "UV technology formula transfer expected to complete within Q1 FY27",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-05-07",
+    "statement": "Expects to gradually commence exports under Wembley Valentino brand in coming quarters",
+    "period": "coming quarters"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Target double-digit revenue growth with EBITDA",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Aim to keep growing ahead of the industry in H2 with margins improving as pricing actions take full effect",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Expect margins to improve gradually as price increases flow through in H2",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE792Z01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

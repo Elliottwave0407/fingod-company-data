@@ -158,5 +158,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 163,
+  "by_category": {
+   "order_book": 45,
+   "capex": 33,
+   "capacity": 14,
+   "guidance": 52,
+   "margin": 19
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-12",
+    "statement": "Export sales estimated ~10% of sales for both BUs in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "BESS business ambition \u20b9150 crore for FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Tritium EBITDA positive target Q1 FY28",
+    "period": "Q1 FY28"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Tritium DC-FLEX mass production April 2027; GRID-FLEX mass production July 2027",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Management will release FY28 guidance before end of FY27, not today; order book of INR1,600 crores gives 15-month revenue visibility",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE777F01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

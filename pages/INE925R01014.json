@@ -169,5 +169,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 142,
+  "by_category": {
+   "order_book": 34,
+   "guidance": 59,
+   "capex": 20,
+   "margin": 18,
+   "capacity": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "EBITDA margin guidance raised to about 27% from 25-26% guided in May",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Services revenue growth expected at 15-19% for FY27 with ATM and Retail platforms growing 11-14% and Tech & Payments 35-40%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "FY27 Services Revenue guidance \u20b92,650\u20132,750 Cr; Total Revenue \u20b92,750\u20132,850 Cr; EBITDA margin ~27%; Capex \u20b9100\u2013125 Cr",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "FY30 aspiration: Services Revenue \u20b93,750\u20133,950 Cr; Tech & Payments 20-22% of mix",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "FY27 services revenue guidance INR 2,650-2,750 crores, total revenue INR 2,750-2,850 crores, EBITDA margin 27%, capex INR 100-125 crores",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE925R01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

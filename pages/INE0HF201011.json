@@ -99,5 +99,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 74,
+  "by_category": {
+   "order_book": 26,
+   "guidance": 18,
+   "margin": 10,
+   "capacity": 8,
+   "capex": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-03",
+    "statement": "Targeting Rs 1,000 crore+ top line by 2030 organically",
+    "period": "2030"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Management confident of achieving FY27 Adjusted PAT margin objective of 8\u20139%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Management remains confident of adjusted PAT margin of 8% to 9% at end of FY27 and targets 25% to 30% year-on-year growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Management expects revenue and margins to improve in H2 as project milestones move into execution",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "PEB and civil works in incubation; clarity expected after one year; may contribute in H2 FY27 or H1 FY28 depending on geopolitics",
+    "period": "H2 FY27 or H1 FY28"
+   }
+  ],
+  "ledger": "claims/INE0HF201011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

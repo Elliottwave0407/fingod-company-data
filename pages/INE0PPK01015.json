@@ -158,5 +158,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 102,
+  "by_category": {
+   "guidance": 26,
+   "order_book": 35,
+   "margin": 16,
+   "capex": 15,
+   "capacity": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-25",
+    "statement": "Management expects margin pressure to ease in FY27 as fixed-price contracts expire by March 2026 and customers accept new pricing",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Extension of timeline for utilizing unspent IPO proceeds",
+    "period": "March 31, 2027"
+   },
+   {
+    "day": "2026-05-27",
+    "statement": "Company aims to expand geographic footprint and cater to broader global customer base",
+    "period": null
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Company aims to expand geographic footprint and cater to broader customer base globally",
+    "period": null
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Management does not disclose forward-looking numbers but expects quarter-on-quarter growth trend to continue in Q3 and Q4 FY27",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE0PPK01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

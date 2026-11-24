@@ -134,5 +134,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 40,
+  "by_category": {
+   "guidance": 24,
+   "margin": 6,
+   "order_book": 5,
+   "capex": 4,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-02",
+    "statement": "Target robust Rs 40-50 crore sales funnel for predictable growth",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "The Company aims to double the share of services revenue in the medium term.",
+    "period": "medium term"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "Target to double share of services revenue",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "Maintain robust \u20b940\u201350 Cr sales funnel",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-06-08",
+    "statement": "Revenue target of Rs 1,000 crores projected over the last couple of calls; company is on track to achieve it",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0A1101019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -158,5 +158,43 @@
   ],
   "dividend_per_share": 13.75
  },
+ "claims": {
+  "total": 91,
+  "by_category": {
+   "order_book": 11,
+   "capex": 30,
+   "guidance": 23,
+   "capacity": 23,
+   "margin": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "New Performance Solutions product launches on track for Q3",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Expect agrochemical market to remain subdued in near term with demand weakness likely to persist in Q3 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Planned Q3 FY27 launches for new products in Performance Solution range are on track",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Targeting to launch a new product in YP derivative range in Q4 FY27",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Targeting 1.5 to 2 fixed asset turnover ratio on capital investments and 15% to 20% ROCE blended basis",
+    "period": "next 3-4 years"
+   }
+  ],
+  "ledger": "claims/INE369A01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

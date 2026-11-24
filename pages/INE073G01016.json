@@ -130,5 +130,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 138,
+  "by_category": {
+   "guidance": 46,
+   "capex": 32,
+   "capacity": 27,
+   "margin": 22,
+   "order_book": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-13",
+    "statement": "Plan to enter Karnataka and Andhra Pradesh by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Malt plant captive consumption expected by Q3FY28",
+    "period": "Q3FY28"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expect IMFL Proprietary volume growth of 30-35%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Long-term IMFL Proprietary EBITDA margin target 15-17%",
+    "period": null
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expect IMFL EBITDA margin to recover to early teens (13-14%) from April onwards with price hikes and malt plant benefits from Q3 FY28",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE073G01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

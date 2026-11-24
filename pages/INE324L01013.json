@@ -126,5 +126,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 29,
+  "by_category": {
+   "order_book": 19,
+   "guidance": 7,
+   "capex": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-13",
+    "statement": "Significant revenue contribution from new projects expected from January 2025",
+    "period": "FY 25-26"
+   },
+   {
+    "day": "2025-11-13",
+    "statement": "Expecting two road works worth \u20b9106 crores by end of month or next month",
+    "period": "near term"
+   },
+   {
+    "day": "2026-02-14",
+    "statement": "Around \u20b91600 crores worth of projects expected to begin generating revenue toward end of Q4, momentum continuing into Q1",
+    "period": "end of Q4 and Q1 next financial year"
+   },
+   {
+    "day": "2026-02-14",
+    "statement": "Management expects profit of next quarter to be better but significant revenue contribution only from Q1 of next financial year",
+    "period": "next quarter and Q1 next financial year"
+   },
+   {
+    "day": "2026-06-13",
+    "statement": "Expect profit of next quarter to be better but significant revenue contribution only from Q2 of next financial year",
+    "period": "next financial year"
+   }
+  ],
+  "ledger": "claims/INE324L01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

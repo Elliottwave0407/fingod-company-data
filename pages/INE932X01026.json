@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": 1.6
  },
+ "claims": {
+  "total": 92,
+  "by_category": {
+   "guidance": 42,
+   "order_book": 17,
+   "margin": 15,
+   "capex": 13,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-23",
+    "statement": "MTF book target of INR 650 crore by FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-23",
+    "statement": "Client turnover target of 60% by end of FY27 (from ~53% currently)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-23",
+    "statement": "Profitability mix target: 70% client / 30% prop in next three years",
+    "period": "next three years"
+   },
+   {
+    "day": "2026-07-31",
+    "statement": "Management confident of delivering around 20% growth in FY27 subject to market conditions",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "6-year revenue CAGR of 37% as of FY26",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE932X01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -137,5 +137,21 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 32,
+  "by_category": {
+   "order_book": 30,
+   "capex": 1,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-14",
+    "statement": "FY27 Target Order Booking ~15,000 cr",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE549A01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

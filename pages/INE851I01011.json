@@ -130,5 +130,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 131,
+  "by_category": {
+   "guidance": 52,
+   "capex": 12,
+   "margin": 39,
+   "capacity": 4,
+   "order_book": 24
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-06",
+    "statement": "No formal guidance given; Q1 numbers can be extrapolated",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Company will look to rationalize employee costs through AI and automation to improve margins going ahead",
+    "period": null
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "No formal forward guidance given; suggested extrapolating H1 EBITDA of INR85 cr and PAT of INR62 cr by multiplying by 2 for full-year estimate",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Expect steadiness to return in Global Flight Handling in Q4 FY27; will update after Q3",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Long-term: expect growth rate of 11-12% to accelerate; at current rate would double in 5-6 years",
+    "period": "5 years"
+   }
+  ],
+  "ledger": "claims/INE851I01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

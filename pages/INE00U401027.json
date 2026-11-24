@@ -152,5 +152,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 115,
+  "by_category": {
+   "guidance": 43,
+   "margin": 27,
+   "order_book": 26,
+   "capex": 15,
+   "capacity": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-23",
+    "statement": "Shipway expected to turn Adjusted EBITDA profitable in Q3 FY27 and PAT profitable in Q4 FY27",
+    "period": "Q3 FY27 / Q4 FY27"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "Incremental investments expected to moderate in H2 FY27, driving improving profitability and operating leverage",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Uniware revenue growth expected >15% YoY from Q4 FY27; Shipway revenue growth expected >20% YoY from Q4 FY27",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Shipway adjusted EBITDA break-even expected Q3 FY27; PAT profitability expected Q4 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Consolidated profitability and margins expected to improve in H2 FY27 due to moderating investments and operating leverage",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE00U401027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

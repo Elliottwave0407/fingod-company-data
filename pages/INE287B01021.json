@@ -152,5 +152,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 30,
+  "by_category": {
+   "guidance": 16,
+   "order_book": 4,
+   "capex": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "Realize green mobility opportunities (EV, SHEV, CNG)",
+    "period": null
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Mitigate forex impact through hedging and aggressive localization",
+    "period": null
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Cost optimization via operational efficiency improvements",
+    "period": null
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "ESG goals for sustainability and social requirements",
+    "period": null
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Capacity through internal efficiency optimization and expansion plans",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE287B01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

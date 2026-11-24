@@ -139,5 +139,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "guidance": 5,
+   "capex": 1,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-15",
+    "statement": "Target 3X revenue by FY30 from FY25 base of Rs 725.8 Cr",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-02-13",
+    "statement": "EBITDA increased 10% QoQ; profit before exceptional items increased 73% YoY and 15% QoQ after excluding one-time items",
+    "period": "Q3 FY26"
+   },
+   {
+    "day": "2026-05-08",
+    "statement": "Aspire to achieve 3x revenue and double-digit EBITDA margin by FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-07-23",
+    "statement": "Aspire to achieve 3x revenue & deliver double-digit EBITDA margin by FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Vision 2030 targets \u20b92,030+ crore revenue (~3x FY26 revenue)",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE748C01038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

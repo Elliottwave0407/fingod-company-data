@@ -177,5 +177,30 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 3,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The company will continue to generate more data for product range and focus will continue to move from product to solution-based selling.",
+    "period": "Ongoing"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "The Animal Nutrition division will remain an area of strategic importance, with new product offerings, new markets, and new customers.",
+    "period": "Ongoing"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "First set of clinical trials for nutraceutical division expected to be completed by end of this financial year.",
+    "period": "End of financial year 2026-27"
+   }
+  ],
+  "ledger": "claims/INE488D01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -149,5 +149,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 43,
+  "by_category": {
+   "guidance": 34,
+   "capex": 2,
+   "capacity": 2,
+   "order_book": 3,
+   "margin": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-31",
+    "statement": "Expand to 100 branches across four states by FY26 and 125 branches by March 2027",
+    "period": "FY26-FY27"
+   },
+   {
+    "day": "2025-05-31",
+    "statement": "Open new branches in Maharashtra by Q2 this year",
+    "period": "Q2 FY26"
+   },
+   {
+    "day": "2025-05-31",
+    "statement": "Disbursements increasing at 15% month-to-month in Madhya Pradesh and Gujarat",
+    "period": "not stated"
+   },
+   {
+    "day": "2025-09-08",
+    "statement": "Target AUM \u20b9500 Cr by FY26 and \u20b9600 Cr by FY27",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-09-08",
+    "statement": "Expand to 100 branches across four states by FY 2025-26 and 125 branches by March 2027",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE020D01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

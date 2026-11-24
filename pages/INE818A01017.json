@@ -145,5 +145,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 77,
+  "by_category": {
+   "guidance": 37,
+   "capex": 25,
+   "order_book": 11,
+   "capacity": 3,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-27",
+    "statement": "Guidance of reaching 2500 boepd in FY27 remains intact",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-26",
+    "statement": "FY27 exit production target 2500 boepd",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-10-26",
+    "statement": "Onshore portfolio target 5000+ boepd by FY29",
+    "period": "FY29E"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Exit production target of 2,500 boepd for FY27 and 5,000 boepd by FY29",
+    "period": "FY27, FY29"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "EBITDA margin expected around 70% for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE818A01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

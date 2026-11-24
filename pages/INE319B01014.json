@@ -151,5 +151,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 1,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Expand footprint towards 100 hotels and resorts across the country",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE319B01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

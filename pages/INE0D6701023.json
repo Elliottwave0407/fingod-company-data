@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 138,
+  "by_category": {
+   "capex": 29,
+   "capacity": 46,
+   "guidance": 33,
+   "margin": 16,
+   "order_book": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "FY27 revenue growth expected at lower single-digit",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "FY27 EBITDA margin guidance 15-18%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Company received good export order for the coming quarter",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Aim to match FY26 revenue despite H1 shortfall",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Target H2 revenue similar to or slightly better than H2 FY26 to partially offset H1 decline",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE0D6701023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -123,5 +123,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 19,
+  "by_category": {
+   "guidance": 8,
+   "capacity": 6,
+   "capex": 3,
+   "order_book": 1,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-03",
+    "statement": "Target to scale warehouse capacity to 50 million SQFT by 2030",
+    "period": "2025-30"
+   },
+   {
+    "day": "2026-03-10",
+    "statement": "Strategic roadmap to expand to 50+ cities by 2025-30",
+    "period": "2025-30"
+   },
+   {
+    "day": "2026-03-10",
+    "statement": "Scaling warehouse capacity to 50 million sq ft by 2025-30",
+    "period": "2025-30"
+   },
+   {
+    "day": "2026-03-10",
+    "statement": "Plans include nationwide 3PL coverage, global operations, advanced automation-driven logistics solutions",
+    "period": "2025-30"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Roadmap to cross \u20b91,500 Cr turnover by March 31, 2031; presence across 50+ cities; warehousing scaled to 50 mn sq ft",
+    "period": "FY31E"
+   }
+  ],
+  "ledger": "claims/INE00CE01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

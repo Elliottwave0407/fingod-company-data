@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": 0.75
  },
+ "claims": {
+  "total": 75,
+  "by_category": {
+   "capex": 21,
+   "capacity": 18,
+   "guidance": 20,
+   "margin": 14,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-28",
+    "statement": "Management expects EBITDA margins to remain at current levels or around this level for the whole year.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Volume growth target for the year is historically in the range of 8% to 11%.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Export revenue and sales expected to remain at same level for coming quarters.",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Margins anticipated to continue at stellar levels for at least next 1 or 2 quarters.",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "CRISIL reaffirmed A+/Stable and A1 ratings; rated bank facilities enhanced to \u20b91,014 crore",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE717W01049.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

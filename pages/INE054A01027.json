@@ -134,5 +134,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 55,
+  "by_category": {
+   "guidance": 18,
+   "margin": 17,
+   "capacity": 6,
+   "capex": 7,
+   "order_book": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-03",
+    "statement": "Targets 15% EBITDA margin for FY26 with higher brand spend, potential 18% without",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-02-03",
+    "statement": "Expects industry volume growth of 8-10% for next year",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-05-20",
+    "statement": "Targeting FY26 revenue growth 1-2% above category growth (e.g., 12% if category grows 10%), with volume and value growth equally divided",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-05-20",
+    "statement": "Targeting e-commerce revenue share at 30% for FY26 (currently ~31%), not allowing it to increase further",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-05-20",
+    "statement": "Targeting inventory reduction of Rs.150 crore and debt reduction of Rs.125 crore in FY26",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE054A01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

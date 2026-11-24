@@ -169,5 +169,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 22,
+  "by_category": {
+   "order_book": 8,
+   "guidance": 7,
+   "capex": 3,
+   "capacity": 3,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-26",
+    "statement": "In the next two years, TIL aims to launch 5-6 new product ranges for the non-defence sector",
+    "period": "next two years"
+   },
+   {
+    "day": "2025-05-30",
+    "statement": "Revenue target of INR800-1,000 crores over next 3-4 years with current fixed cost base plus INR24-25 crores capex",
+    "period": "next 3-4 years"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Targeting defence orders of approximately Rs 2,000 crore over the medium term",
+    "period": "Medium term"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Profitable growth journey expected to be steep from now onwards due to foundational steps underway",
+    "period": "Coming years"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Unused business losses will be adjusted against taxable profits expected within the specified period",
+    "period": "Specified period"
+   }
+  ],
+  "ledger": "claims/INE806C01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

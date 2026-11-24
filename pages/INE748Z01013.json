@@ -123,5 +123,23 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 6,
+  "by_category": {
+   "order_book": 2,
+   "guidance": 1,
+   "margin": 1,
+   "capex": 1,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-14",
+    "statement": "Targets at least 20% company growth",
+    "period": "FY26, FY27"
+   }
+  ],
+  "ledger": "claims/INE748Z01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

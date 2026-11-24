@@ -134,5 +134,43 @@
   ],
   "dividend_per_share": 2.5
  },
+ "claims": {
+  "total": 153,
+  "by_category": {
+   "order_book": 34,
+   "guidance": 42,
+   "capex": 32,
+   "capacity": 26,
+   "margin": 19
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-06",
+    "statement": "FY27 operating revenue growth 30-35% YoY; FY27 PAT INR350-370 cr; FY28 PAT INR470-500 cr",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Management guides 30-35% revenue growth for FY27 and FY28, to be evaluated on yearly basis",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Incremental revenue from production enhancement contracts to start from Q3 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY28 guidance excludes higher capacity drilling rigs opportunity",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Management confident of delivering steady growth as guided during call",
+    "period": "FY27, FY28"
+   }
+  ],
+  "ledger": "claims/INE0FHS01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -127,5 +127,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 50,
+  "by_category": {
+   "guidance": 20,
+   "capex": 10,
+   "capacity": 10,
+   "order_book": 3,
+   "margin": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-30",
+    "statement": "Long-term volume growth target of 15% from FY28 onwards",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "FY30 revenue target of 5,000 crores reaffirmed as conservative estimate",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "FY30 EBITDA margin target of 5.4-5.5%",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "FY30 Revenue target INR 50,000 mn",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "FY30 Installed Capacity target 45,000 MTPA",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE458B01036.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

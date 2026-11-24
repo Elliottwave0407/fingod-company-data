@@ -153,5 +153,43 @@
   ],
   "dividend_per_share": 1
  },
+ "claims": {
+  "total": 84,
+  "by_category": {
+   "guidance": 38,
+   "margin": 22,
+   "order_book": 8,
+   "capex": 8,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "Expect 5-7% ASP hike in apparel and 7-9% in fabric for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "FY27 target: double digit top line and higher double digit EBITDA growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "FY27 roadmap focused on premiumization, casualization and geographical diversification",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "FY27 guidance: double-digit top-line growth, mid-double-digit EBITDA growth, INR300 cr+ net cash, double-digit PBT growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "FY27 closing targets: double-digit revenue growth, mid-high double-digit EBITDA growth, ~INR300 cr FCFF, PBT ~INR220-225 cr",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE02ID01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

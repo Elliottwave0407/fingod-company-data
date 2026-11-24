@@ -133,5 +133,19 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 1,
+  "by_category": {
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "With a couple of additional projects to be launched over the next 8 to 12 months, the development pipeline is steadily expanding and augmenting the Company's growth prospects.",
+    "period": "next 8 to 12 months"
+   }
+  ],
+  "ledger": "claims/INE138A01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

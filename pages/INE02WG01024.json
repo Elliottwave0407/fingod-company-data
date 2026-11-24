@@ -121,5 +121,37 @@
   "key_risks": [],
   "dividend_per_share": 0.1
  },
+ "claims": {
+  "total": 14,
+  "by_category": {
+   "capacity": 6,
+   "guidance": 4,
+   "capex": 3,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-09-17",
+    "statement": "Plans substantial capacity increases over next few years",
+    "period": null
+   },
+   {
+    "day": "2024-09-17",
+    "statement": "Margin expansion expected as customer preference shifts to BLDC fans",
+    "period": null
+   },
+   {
+    "day": "2024-11-21",
+    "statement": "Hopes to maintain ~100% revenue growth for full FY25 and expects new TPW range starting early next year to add volumes and revenue",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-01-29",
+    "statement": "Targeting significant growth in plastic TPW and ventilating segment",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE02WG01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

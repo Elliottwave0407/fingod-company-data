@@ -142,5 +142,33 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 18,
+  "by_category": {
+   "order_book": 8,
+   "capex": 2,
+   "guidance": 3,
+   "margin": 3,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-01",
+    "statement": "Management targets order book of Rs 25 crore by end of June 2026",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Expect next three quarters to be very healthy in revenues and margins; Q1 is normally subdued but this year saw record numbers",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Conservative expectation to reach near-about inquiry conversion numbers by this FY or around same time next FY despite policy changes",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE01C001026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -154,5 +154,43 @@
   ],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 108,
+  "by_category": {
+   "order_book": 25,
+   "guidance": 47,
+   "capex": 19,
+   "capacity": 10,
+   "margin": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "Inox Wind plans to launch 4X MW WTGs to deepen market penetration",
+    "period": null
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Full-year FY27 revenue growth guidance of 75% YoY and consolidated EBITDA margin of 20-22% maintained",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "INOX Green EBITDA guidance of INR 600 crore annualized from Q3-Q4 FY27 post Wind World consolidation",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Consolidated EBITDA and PAT expected to increase multifold post completion of acquired businesses and consolidation",
+    "period": null
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Management acknowledges previous FY27 guidance of 75% revenue growth with 20-22% EBITDA margins will not be met due to strategy shift; recalibrating growth for balance sheet quality",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE510W01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

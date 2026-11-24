@@ -171,5 +171,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 90,
+  "by_category": {
+   "capex": 15,
+   "guidance": 48,
+   "margin": 22,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "Q2 FY27 Matchmaking billing and revenue expected to grow double-digit YoY; PAT expected triple-digit YoY, similar or slightly better than Q1 level",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Q2 FY27 consolidated PAT expected triple-digit YoY growth; profit may be similar to Q1 or slightly better",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Marketing expense for FY26 was INR 1,842 Mn",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Q3 FY27 Matchmaking revenue expected to post double-digit year-on-year growth; billing expected to reach single-digit year-on-year growth due to Shradh and Navratri period shift",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Q3 FY27 consolidated PAT expected to achieve triple-digit year-on-year growth; profit may be similar to Q1 or slightly less than Q2 FY27",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE866R01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

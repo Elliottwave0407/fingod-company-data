@@ -148,5 +148,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 20,
+  "by_category": {
+   "capacity": 5,
+   "order_book": 1,
+   "guidance": 7,
+   "capex": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-01-24",
+    "statement": "Expect continuous increase in EBITDA",
+    "period": "FY 2025-26"
+   },
+   {
+    "day": "2025-05-05",
+    "statement": "Market Size for Healthcare Products in India & Neighboring Countries CAGR 2019-2025E 16.89%",
+    "period": "2019-2025E"
+   },
+   {
+    "day": "2025-07-15",
+    "statement": "Market size for healthcare products in India & neighboring countries projected at 5203 Cr by 2030E with 9.9% CAGR",
+    "period": "2025-2030E"
+   },
+   {
+    "day": "2025-10-16",
+    "statement": "New manufacturing site at Sundran, Punjab delayed due to statutory approvals",
+    "period": "H1 FY26"
+   },
+   {
+    "day": "2026-01-17",
+    "statement": "Growth drivers: Quick commerce reach, in-house manufacturing, new product launches, offline distribution, omni-channel integration, DrTrust USA",
+    "period": "Q3 FY26"
+   }
+  ],
+  "ledger": "claims/INE0DSF01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -145,5 +145,35 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "capacity": 4,
+   "guidance": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-10-25",
+    "statement": "Projected 20-25% CAGR growth for next 5 years driven by food and pharma packaging",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2025-05-05",
+    "statement": "Target to grow exports from 30+ to 60+ countries in next 5 years",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2025-05-05",
+    "statement": "Projected 20-25% CAGR growth for next 5 years",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2025-05-05",
+    "statement": "Plan to increase production capacity from 9,120 MTPA on need basis, including contract manufacturing",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE035801013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

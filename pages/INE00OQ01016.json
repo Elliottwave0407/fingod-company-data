@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 80,
+  "by_category": {
+   "capacity": 12,
+   "capex": 13,
+   "guidance": 32,
+   "margin": 14,
+   "order_book": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-03",
+    "statement": "FY27 overall top-line growth expected at 18-20%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "FY27 EBITDA margin improvement of 50-75 bps from current 9%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Company reaffirms annual growth target for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Expect single-digit revenue growth for FY27 due to weak monsoon and technical market headwinds",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Reaffirm Dharmaj 2030 vision of Rs 2,000 crore top-line remains central goal and on track",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE00OQ01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -137,5 +137,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 138,
+  "by_category": {
+   "capex": 40,
+   "guidance": 38,
+   "capacity": 31,
+   "margin": 25,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-21",
+    "statement": "Finalized locations for upcoming showrooms in Jabalpur (MP) and Dahod (Gujarat); fit-out progressing, stores expected operational shortly",
+    "period": null
+   },
+   {
+    "day": "2026-07-21",
+    "statement": "Dahod showroom (~3,200 sq ft) will be COCO model; Jabalpur showroom (~3,750 sq ft) will be first FOCO model store",
+    "period": null
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Targets ~10% volume growth for FY27 and FY28; value growth depends on gold prices",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Plan to open 3\u20134 additional showrooms by March 2027",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Expect Q3FY27 to record highest-ever quarterly turnover",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE266Y01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

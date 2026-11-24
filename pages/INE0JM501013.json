@@ -120,5 +120,27 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 15,
+  "by_category": {
+   "guidance": 2,
+   "capex": 3,
+   "capacity": 7,
+   "margin": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-29",
+    "statement": "Revenue expected to be multiples of Q1 FY27's INR83 crore, not less",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "LFP battery recycling plant revenue potential \u20b9100\u2013125 Cr per year at full capacity, targeted EBITDA margin 25\u201330%",
+    "period": "FY28E"
+   }
+  ],
+  "ledger": "claims/INE0JM501013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

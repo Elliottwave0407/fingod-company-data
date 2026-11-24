@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 157,
+  "by_category": {
+   "guidance": 43,
+   "capex": 31,
+   "order_book": 41,
+   "margin": 19,
+   "capacity": 23
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-22",
+    "statement": "Annuity book on track to reach ~Rs 450 cr by FY29E from Rs 76 cr currently",
+    "period": "FY29E"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Full-year FY27 presales growth guidance of 25% to 30% year-on-year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Collections expected to grow 25% to 30% in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Management expects 25% year-on-year presales growth for full year FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Reported margins will continue to converge towards embedded EBITDA margin of presales",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE805D01034.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

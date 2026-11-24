@@ -136,5 +136,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 110,
+  "by_category": {
+   "guidance": 39,
+   "capex": 22,
+   "margin": 21,
+   "capacity": 23,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-21",
+    "statement": "No plans to increase debt; FY26 debt is peak debt",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Depreciation for FY27 expected at INR16 crore run rate (INR4 crore per quarter)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "No major capex for next 1-2 years; current capacity sufficient",
+    "period": "next 1-2 years"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Focus on monetizing upfront marketing investment by scaling sales across new brands",
+    "period": null
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Focus shifts to delivering consistent positive cash flow from operations as investment phase largely complete",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE977Y01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

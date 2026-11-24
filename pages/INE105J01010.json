@@ -144,5 +144,41 @@
   "key_risks": [],
   "dividend_per_share": 24
  },
+ "claims": {
+  "total": 34,
+  "by_category": {
+   "guidance": 16,
+   "capex": 9,
+   "capacity": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-04-30",
+    "statement": "Project underway to grow immunosuppressant portfolio to 200+ crores",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-04-30",
+    "statement": "Focused initiatives to grow Naprosyn to a 100+ crores brand",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Project underway to grow immunosuppressant portfolio to 200+ crores",
+    "period": "FY27+"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Focused initiatives to grow Naprosyn to a 100+ crores brand",
+    "period": "FY27+"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Adjusted margins exclude one-off restructuring and API acquisition costs of \u20b95.5 crore incurred in Q2 FY27",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE105J01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

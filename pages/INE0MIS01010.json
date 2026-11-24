@@ -151,5 +151,43 @@
   ],
   "dividend_per_share": 0.5
  },
+ "claims": {
+  "total": 175,
+  "by_category": {
+   "guidance": 50,
+   "capex": 39,
+   "capacity": 59,
+   "margin": 22,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "Overall capacity utilization target 70-75% by year end",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "WADA facility utilization expected to reach 80% during FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY27 EBITDA margin guidance 11%-12%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "FY27 revenue growth target ~15% and EBITDA margin 11-12%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "H2 FY27 EBITDA expected around Rs 45 crore",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE0MIS01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

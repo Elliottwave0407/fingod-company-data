@@ -171,5 +171,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 174,
+  "by_category": {
+   "guidance": 47,
+   "margin": 41,
+   "order_book": 24,
+   "capex": 36,
+   "capacity": 26
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Galeries Lafayette: no revenue run rate given yet; need at least one full season; Combined Collective + Galeries Lafayette expected to break even in H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Overall portfolio losses to reduce annually; FY27 lower losses than FY26; FY28 even lower; FY29 portfolio fully profitable",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Full-year cash flow guidance: end FY27 with INR400-500 crores standalone cash balance",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Standalone cash balance currently around INR350 crores; expect to improve marginally in H2 to achieve INR400-500 crores by year-end",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Confident of stronger H2 driven by festive and wedding demand; historically better period for revenue, profitability, cash generation",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE647O01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

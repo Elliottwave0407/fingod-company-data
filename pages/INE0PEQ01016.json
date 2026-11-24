@@ -157,5 +157,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 103,
+  "by_category": {
+   "guidance": 35,
+   "margin": 15,
+   "capex": 23,
+   "capacity": 20,
+   "order_book": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "Plan 7 new showrooms across Gujarat over next two financial years",
+    "period": null
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Revenue growth in Q1 FY27 was in line with guidance shared in previous quarter",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Strategic objective to establish strong Gujarat retail backbone across key consumption hubs before national expansion",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Revenue growth of 55% YoY in Q2 FY27 in line with previous quarter guidance",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Consolidated EBITDA margin sustainable at 11-12% if service revenue mix remains same; sustained for 3 years",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE0PEQ01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

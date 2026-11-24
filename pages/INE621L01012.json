@@ -150,5 +150,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 95,
+  "by_category": {
+   "guidance": 25,
+   "order_book": 28,
+   "capacity": 19,
+   "margin": 12,
+   "capex": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-04",
+    "statement": "Order wins over Rs 5,200 Cr in Q1 FY27 across Freight Rolling Stock, Signalling, Electrification, Transmission",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Targeting mid-teens EBITDA margin and 2x revenue by 2030 via new businesses",
+    "period": "2030"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "CRISIL upgraded long-term bank facilities rating to A+/Stable in Oct 2026",
+    "period": "Oct 2026"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Management expects sustainable contribution of INR4,000-5,000 crores from core freight rolling stock and foundry, and INR5,000-6,000 crores from adjacencies and new businesses like defence and renewables.",
+    "period": "coming days"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Financial discipline, cost competitiveness, efficiency improvement, operational excellence, and execution focus remain key themes; aim to complete diversification/growth opportunities for revenue visibility within FY27 or FY28.",
+    "period": "FY27-FY28"
+   }
+  ],
+  "ledger": "claims/INE621L01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

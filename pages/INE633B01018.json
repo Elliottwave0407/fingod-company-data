@@ -159,5 +159,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 83,
+  "by_category": {
+   "capex": 39,
+   "capacity": 24,
+   "guidance": 19,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-17",
+    "statement": "Q4 FY26 normalized EBITDA expected to improve with incremental volumes from US facility ramp-up and higher DPAC sales",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-02-17",
+    "statement": "Reciprocal tariff reduction on India expected to boost exports to USA with improved margins",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-05-27",
+    "statement": "Q1 FY27 guidance: incremental volumes from US ramp-up, portfolio expansion and DPAC sales to support gradual margin improvement; Middle East driven short-term demand uptick may reverse",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Q3 FY27 guidance: incremental volumes from US ramp-up and higher DPAC sales to support margins",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Q3 FY27 guidance: relative stability in Section 301 tariff regime to provide better visibility in US distribution",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE633B01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -117,5 +117,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 113,
+  "by_category": {
+   "capex": 12,
+   "guidance": 34,
+   "order_book": 34,
+   "margin": 23,
+   "capacity": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-31",
+    "statement": "Consolidated revenue target Rs 6,000-8,000 crores in 5 years at 20% CAGR",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2026-07-31",
+    "statement": "PAT expected to reach Rs 170 crores",
+    "period": "next year"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Expect NBFC AUM of \u20b91,125-1,150 crore by end FY27, below earlier \u20b91,300 crore target",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "StoxKart targets >\u20b9100 crore revenue in FY27; no break-even this year; plans \u20b950 crore additional investment",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Insurance segment aims to achieve budgeted numbers if no adverse regulatory changes",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE103C01036.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

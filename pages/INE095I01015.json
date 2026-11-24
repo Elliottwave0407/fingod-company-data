@@ -143,5 +143,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 150,
+  "by_category": {
+   "capex": 21,
+   "guidance": 49,
+   "margin": 23,
+   "order_book": 38,
+   "capacity": 19
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-16",
+    "statement": "Plan to increase aftermarket contribution from 5% to 10% of group sales over coming years",
+    "period": "coming years"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "New Chennai plant expected fully operational by Q3 FY27; further capacity expansion to be evaluated in Q3 based on order book and utilization",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Meraki tooling slump sale expected completed by end of Q3 FY27 subject to approvals",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Avinya Batteries merger with PPAP expected completed by end of Q4 FY27 subject to regulatory approvals",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Board declared interim dividend of INR1.5 per equity share",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE095I01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

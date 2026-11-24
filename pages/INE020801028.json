@@ -132,5 +132,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 106,
+  "by_category": {
+   "capex": 15,
+   "guidance": 42,
+   "capacity": 12,
+   "margin": 31,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "Online business full-year cumulative growth expected to steady around 25%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Spencer's offline business growth expected at mid to high single digits",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Nature's Basket expected to see early double-digit growth from Q3/Q4 after reset",
+    "period": "Q3 FY27, Q4 FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Internal target to reach Rs. 2,000 sales per square foot in festive quarter",
+    "period": "festive quarter"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Short-term aspiration to reach 7.5% to 8% store EBITDA for Spencer's",
+    "period": "short-term"
+   }
+  ],
+  "ledger": "claims/INE020801028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

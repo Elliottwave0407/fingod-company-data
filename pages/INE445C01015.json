@@ -153,5 +153,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 46,
+  "by_category": {
+   "capex": 12,
+   "guidance": 12,
+   "capacity": 11,
+   "margin": 7,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-04",
+    "statement": "Management focused on ramping up new capacity, broadening customer approvals, improving volumes and margins",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Coex business EBITDA margin guided at 5-7% sustainable range",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Dielectric film EBITDA margin range 35-55% on conventional thicknesses, higher on ultra-thin",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "New Barjora line expected to operate at 70-80% rated capacity in Q4 FY27",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "No equity raise anticipated for future capex; subsidiary may raise funds but no dilution planned",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE445C01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

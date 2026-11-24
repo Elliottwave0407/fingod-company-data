@@ -133,5 +133,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 46,
+  "by_category": {
+   "order_book": 11,
+   "capex": 9,
+   "guidance": 15,
+   "margin": 6,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-05",
+    "statement": "Expect FY27 revenue to grow ~15% over FY26 and EBITDA margin to normalize to ~20%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-05",
+    "statement": "Target 30-40% growth in domestic packaging business for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Company confident of achieving FY27 revenue on par with FY26 through higher H2 execution",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Management targets FY27 revenue on par with FY26 and mid to high single-digit growth despite 10-month effective year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Previous 15% growth indication revised due to West Asia crisis, US demand weakness, and 8-week flood disruption",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0TO701015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

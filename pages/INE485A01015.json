@@ -142,5 +142,43 @@
   ],
   "dividend_per_share": 11
  },
+ "claims": {
+  "total": 117,
+  "by_category": {
+   "capex": 33,
+   "capacity": 22,
+   "guidance": 34,
+   "margin": 22,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-28",
+    "statement": "PTCF commercial sales expected to start in Q4 FY27",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Hybrid power capacity benefit to start in Q4 FY27",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "PTCF commercial sales expected to commence in Q4 FY27.",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "Additional hybrid power at Bharuch expected to deliver annualized benefit of ~Rs. 10 crores from Q4 FY27.",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "PTCF ramp-up gradual; expect high capacity utilization in H2 FY28.",
+    "period": "H2 FY28"
+   }
+  ],
+  "ledger": "claims/INE485A01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

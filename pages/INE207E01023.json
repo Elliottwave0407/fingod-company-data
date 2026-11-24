@@ -142,5 +142,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 57,
+  "by_category": {
+   "capex": 17,
+   "capacity": 19,
+   "guidance": 18,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-23",
+    "statement": "Copper foils production targeted by FY 2028-29",
+    "period": "FY 2028-29"
+   },
+   {
+    "day": "2026-03-23",
+    "statement": "Committed investment under PLI Scheme for White Goods ~\u20b9253 crore",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-07-31",
+    "statement": "Revenue and PAT growing at 5-year CAGR of 28% and 47% respectively",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "EPAVO 30 lakh motors/annum installed capacity",
+    "period": "current"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Tefabo wind tower capacity expansion from ~40 to ~80 towers/month at Vadodara",
+    "period": "current"
+   }
+  ],
+  "ledger": "claims/INE207E01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

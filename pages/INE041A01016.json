@@ -142,5 +142,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 50,
+  "by_category": {
+   "guidance": 19,
+   "capacity": 14,
+   "margin": 8,
+   "order_book": 4,
+   "capex": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-21",
+    "statement": "Expect CO238 replacement to reach below 10% in both areas within 2 years",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-05-21",
+    "statement": "FY26 net profit of INR150 crores seen as a stretch; hard to predict due to sugar sector probabilities",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-05-21",
+    "statement": "Material improvement in FY26 numbers hard to predict due to external probabilities",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "UP Government increased sugarcane SAP price by Rs 30/qtl for SS 2025-26",
+    "period": "SS 2025-26"
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "UP Government redetermined levy molasses obligation at 18% from 19% for molasses year 2024-25",
+    "period": "molasses year 2024-25"
+   }
+  ],
+  "ledger": "claims/INE041A01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

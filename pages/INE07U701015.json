@@ -150,5 +150,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 60,
+  "by_category": {
+   "capex": 26,
+   "guidance": 16,
+   "order_book": 5,
+   "capacity": 5,
+   "margin": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-12",
+    "statement": "Expects FY27 EBITDA per SCM of INR 7-8 for next three quarters",
+    "period": "next three quarters"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Expects FY27 full-year volume of 250 MMSCM",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Expects Namakkal & Trichy GA volume of 25-30 MMSCM in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expects H2 FY27 EBITDA margin around 15% despite Q3 impact from HPHT allocation changes",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Volume growth may moderate slightly from earlier 12% target but profit contribution will exceed expectations",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE07U701015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

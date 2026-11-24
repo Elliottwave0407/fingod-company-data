@@ -124,5 +124,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 63,
+  "by_category": {
+   "capex": 16,
+   "capacity": 17,
+   "margin": 11,
+   "guidance": 14,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-01-16",
+    "statement": "Manufacturing EBITDA margins expected to remain 13-15% going forward",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-04-23",
+    "statement": "FY27 revenue growth expected at 50-60% over FY26 base; FY28 growth could exceed 200% over FY26 base",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-04-23",
+    "statement": "FY28 revenue target of approximately \u20b94,000 crore",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-07-20",
+    "statement": "Management expects revenue, EBITDA and overall performance to improve over the remaining three quarters of FY27 and to maintain EBITDA performance with a quantum jump in revenue.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-20",
+    "statement": "Management targets around 60% capacity utilization for the new Dhule NPK/DAP plant and around 90% for existing facilities, expecting more than a 50% increase in turnover in coming months.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE900L01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

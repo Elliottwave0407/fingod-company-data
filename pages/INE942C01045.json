@@ -154,5 +154,43 @@
   ],
   "dividend_per_share": 0.67
  },
+ "claims": {
+  "total": 41,
+  "by_category": {
+   "guidance": 16,
+   "capacity": 6,
+   "capex": 17,
+   "order_book": 1,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-04-23",
+    "statement": "Portfolio revenue FY 2025 ~ EURO 62M",
+    "period": "FY 2025"
+   },
+   {
+    "day": "2026-04-23",
+    "statement": "Expected to be EPS accretive",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-06-29",
+    "statement": "Acquisition of Sanofi's select anti-TB and anti-infectives portfolio announced, subject to regulatory approvals",
+    "period": null
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Expect high-teen revenue growth on base case over next 3-5 years",
+    "period": "next 3-5 years"
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "New fermentation facility benefits expected from Q4 FY27 onwards",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE942C01045.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

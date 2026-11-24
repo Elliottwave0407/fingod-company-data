@@ -121,5 +121,42 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 55,
+  "by_category": {
+   "order_book": 22,
+   "capex": 11,
+   "guidance": 14,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-06",
+    "statement": "Focus on stabilization, execution, consolidation and risk mitigation in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-06",
+    "statement": "Foray into Nuclear, Thermal energy and clean energy storage segments",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-06",
+    "statement": "Strategic growth of Technical services business vertical",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Clean energy storage expected to be about 20% of revenue next year",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Expect to add 5 proprietary equipment to product list this year",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE294Z01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

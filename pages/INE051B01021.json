@@ -131,5 +131,41 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "guidance": 6,
+   "capex": 1,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-12",
+    "statement": "Vision 2030 target: Revenue US$ 1 Bn (~Rs 8,200 Cr) by FY2029-30",
+    "period": "FY2029-30"
+   },
+   {
+    "day": "2024-08-12",
+    "statement": "Vision 2030 target: EBITDA Margin 15-16% by FY2029-30",
+    "period": "FY2029-30"
+   },
+   {
+    "day": "2024-08-12",
+    "statement": "Vision 2030 target: PAT Margin 10-12% by FY2029-30",
+    "period": "FY2029-30"
+   },
+   {
+    "day": "2024-08-12",
+    "statement": "Vision 2030 target: GTV US$ 150 Bn (~Rs 12,30,000 Cr) by FY2029-30",
+    "period": "FY2029-30"
+   },
+   {
+    "day": "2024-08-12",
+    "statement": "Plan to achieve 100% district coverage by March 2025",
+    "period": "March 2025"
+   }
+  ],
+  "ledger": "claims/INE051B01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

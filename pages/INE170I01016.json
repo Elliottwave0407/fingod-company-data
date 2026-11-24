@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 91,
+  "by_category": {
+   "guidance": 17,
+   "capex": 20,
+   "margin": 23,
+   "order_book": 18,
+   "capacity": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-18",
+    "statement": "Digital revenue share expected around 50% this year",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-02-19",
+    "statement": "No specific forward-looking guidance given; priority is margin expansion over top-line acceleration; expect gradual improvement in growth and margins",
+    "period": "Q3 FY26"
+   },
+   {
+    "day": "2026-06-11",
+    "statement": "Expect steady improvements in growth and margins over time in FY2027",
+    "period": "FY2027"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Expect operating leverage to return as volumes normalize and AI investments commercialize through FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Management expects margin improvement to continue as revenue mix shifts and operational discipline persists",
+    "period": "next few quarters"
+   }
+  ],
+  "ledger": "claims/INE170I01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -133,5 +133,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 15,
+  "by_category": {
+   "capex": 5,
+   "order_book": 4,
+   "capacity": 1,
+   "guidance": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-29",
+    "statement": "Strategic sale of Ch Sambhaji Nagar & Coimbatore malls for INR 1,242.5 Cr gross consideration",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-05-29",
+    "statement": "Target to invest net proceeds in high-value projects in MMR",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Strategic sale of 100% shares in operational mall assets at valuation INR 1,242.5 Cr Gross Consideration",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Net proceeds significant cash generation approx. of 800 cr+",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Post disinvestment, the company still has development value potential of over 1100 cr",
+    "period": "Q1 FY27"
+   }
+  ],
+  "ledger": "claims/INE195N01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

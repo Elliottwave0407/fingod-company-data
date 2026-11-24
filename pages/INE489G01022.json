@@ -113,5 +113,41 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 19,
+  "by_category": {
+   "capex": 4,
+   "capacity": 6,
+   "guidance": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-17",
+    "statement": "Expect clear revival in margins in H2 FY26 as operational efficiencies improve and high-margin products regain momentum",
+    "period": "H2 FY26"
+   },
+   {
+    "day": "2026-02-13",
+    "statement": "Order position and demand is good with improving pricing trends in key molecules",
+    "period": "future"
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "Company anticipates steady growth rate of 15-20% per annum.",
+    "period": "future"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Company anticipates 15-20% per annum steady growth rate",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Company anticipates 15-20% per annum steady growth rate",
+    "period": "FY28E"
+   }
+  ],
+  "ledger": "claims/INE489G01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 80,
+  "by_category": {
+   "margin": 20,
+   "order_book": 15,
+   "capex": 14,
+   "capacity": 11,
+   "guidance": 20
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-03",
+    "statement": "Consolidated H1 FY27 revenue \u20b9653 cr up 17%; EBITDA \u20b983 cr vs \u20b951 cr; PAT \u20b964 cr vs \u20b959 cr",
+    "period": "H1 FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Standalone Q2 FY27 revenue \u20b9170 cr vs \u20b9155 cr; EBITDA \u20b930 cr vs \u20b927 cr; PAT \u20b929 cr",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Standalone H1 FY27 revenue \u20b9411 cr vs \u20b9384 cr; PAT \u20b957 cr vs \u20b965 cr but business PAT higher",
+    "period": "H1 FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "No specific revenue targets for new categories; baby steps, EBITDA-accretive, no delusions of grandeur",
+    "period": "medium term"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "No ad spend or launch OPEX in current quarter; measured brand investment may come summer",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE225D01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

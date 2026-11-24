@@ -143,5 +143,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The outlook for the Company's products appears to be good and the Company is confident of achieving improved operational performance.",
+    "period": "Future period"
+   }
+  ],
+  "ledger": "claims/INE01KI01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

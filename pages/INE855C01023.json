@@ -164,5 +164,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 71,
+  "by_category": {
+   "capex": 26,
+   "capacity": 22,
+   "guidance": 12,
+   "margin": 5,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "TOPCon to account for ~88% of cell capacity by FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "4 GW integrated greenfield cell and module expansion in two phases",
+    "period": null
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "TOPCon upgrade of 600 MW mono PERC line to 750 MW TOPCon expected to complete by March 2027",
+    "period": "March 2027"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Board approved entry into EPC, Solar IPP, solar parks and energy trading",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "EBITDA margin expected to stabilize around 30% in FY27 with some moderation due to new capex",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE855C01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

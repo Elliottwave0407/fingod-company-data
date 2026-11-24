@@ -117,5 +117,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 50,
+  "by_category": {
+   "guidance": 21,
+   "margin": 10,
+   "order_book": 6,
+   "capex": 8,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "EBITDA margin for FY27 expected in the same 25% to 27% range as previous years",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Q2 FY27 expected to be down; pent-up demand recovery in Q3 and Q4 to make full year flat vs FY26",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Expect to maintain FY26 performance in FY27; H2 FY27 significantly stronger than H1 and growth over H2 FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Q3 FY27 revenue expected to grow 10-12% YoY; FY27 revenue and profit guided in line with FY26",
+    "period": "Q3 FY27, FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 total dividend expected in range of INR 8 to INR 10 per share including interim and final dividend",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0S4R01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

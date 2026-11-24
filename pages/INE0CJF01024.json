@@ -142,5 +142,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 88,
+  "by_category": {
+   "order_book": 15,
+   "margin": 18,
+   "capex": 16,
+   "capacity": 25,
+   "guidance": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-22",
+    "statement": "Management targets debtor days below 120 in FY27 and expects EBITDA margins to recover toward 7%+ from current 4.6-4.7%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-22",
+    "statement": "Capex of INR 100 crores planned for FY27, calibrated to market conditions and EXIM normalization pace",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-22",
+    "statement": "Capex program of approximately INR100 crores envisaged for FY27, timing and scale linked to customer commitments and market conditions",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Capex program of approximately Rs. 100 crores for FY27, with Rs. 30 crores already spent in H1",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Confident of stellar H2 FY27 performance building on H1 growth across domestic and EXIM segments",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE0CJF01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

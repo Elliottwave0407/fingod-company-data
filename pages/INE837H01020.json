@@ -148,5 +148,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 72,
+  "by_category": {
+   "guidance": 21,
+   "margin": 19,
+   "order_book": 9,
+   "capex": 13,
+   "capacity": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-15",
+    "statement": "Management expects steady margins and momentum to continue into FY27, targeting double-digit growth overall, with slight growth in the U.S. and healthy growth from India across human nutraceutical, food, and animal feed segments.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-15",
+    "statement": "Management aims to maintain EBITDA margins around current levels (31%), acknowledging a possible 1-2% variability due to cost pressures.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Management expects double-digit revenue growth for FY27 and EBITDA margin to return to ~30%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "US business growth expected at 8-10% steady state",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Management guides for double-digit revenue growth at lower mid-level and EBITDA margin of 30-32% for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE837H01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

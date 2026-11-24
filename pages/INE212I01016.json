@@ -140,5 +140,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 184,
+  "by_category": {
+   "guidance": 79,
+   "capex": 24,
+   "capacity": 40,
+   "order_book": 16,
+   "margin": 25
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "Young Brand Apparel revenue target INR 340-350 crores for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Infant export revenue target INR 1,300-1,400 crores for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "SPUK top 5-6 customers expected to generate GBP 2-3 Mn annually with minimum 10% growth per customer each year",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "FY27 revenue guidance of INR 2,000 crores on track, expecting ~95% achievement",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "FY28 revenue growth guidance of 10-15% with Garment division EBITDA margin average of 15%",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE212I01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

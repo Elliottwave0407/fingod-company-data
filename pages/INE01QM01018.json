@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 96,
+  "by_category": {
+   "guidance": 30,
+   "order_book": 26,
+   "margin": 18,
+   "capex": 14,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-04",
+    "statement": "Guidance unchanged: organic growth of 18% and PAT growth of 25% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Estimated decline of approximately 5-6% in H2 FY27 revenue due to certificate security incident",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Revised FY27 revenue guidance to INR 800 crore and PAT to INR 125 crore due to TLS incident impact",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "TLS incident expected to reduce FY27 total income by INR 20-23 crore and PAT by INR 10-12 crore, largely in H2",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Incident impact expected to last only next two quarters, then business as usual",
+    "period": "next two quarters"
+   }
+  ],
+  "ledger": "claims/INE01QM01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

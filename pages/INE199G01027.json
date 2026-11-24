@@ -159,5 +159,25 @@
   ],
   "dividend_per_share": 10
  },
+ "claims": {
+  "total": 4,
+  "by_category": {
+   "guidance": 2,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-11-07",
+    "statement": "Circulation growth initiatives results anticipated from next quarter",
+    "period": null
+   },
+   {
+    "day": "2024-11-07",
+    "statement": "Outdoor & Events to focus on pure activation revenue while reducing fixed margin to improve profitability",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE199G01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

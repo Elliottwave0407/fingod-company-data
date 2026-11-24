@@ -146,5 +146,19 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 1,
+  "by_category": {
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company intends to reinforce its position as integrated logistics solutions provider, leveraging its Supply Chain Management capabilities to provide more integrated, efficient and scalable solutions across the logistics value chain.",
+    "period": "Ongoing"
+   }
+  ],
+  "ledger": "claims/INE00CA01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

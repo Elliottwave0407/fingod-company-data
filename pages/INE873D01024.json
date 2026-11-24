@@ -168,5 +168,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 133,
+  "by_category": {
+   "guidance": 47,
+   "margin": 26,
+   "capex": 21,
+   "order_book": 17,
+   "capacity": 22
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-29",
+    "statement": "Domestic formulations growth guidance maintained at high single-digit for FY27 despite Q2 headwinds",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Regulated markets export growth target of 20%+ for next 1-2 years",
+    "period": "next 1-2 years"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "International formulations expected to deliver decent double-digit growth for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "R&D spend capped at 5% of topline, currently at 4% YTD",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Capex for physical assets limited to Rs 25 crore for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE873D01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

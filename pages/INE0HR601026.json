@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": 1.75
  },
+ "claims": {
+  "total": 188,
+  "by_category": {
+   "capex": 30,
+   "capacity": 53,
+   "guidance": 61,
+   "margin": 31,
+   "order_book": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "BESS business long-term EBITDA margin target of 11-15%",
+    "period": "long-term"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Revenue guidance revised upward to INR3,800 crores for FY27 from INR3,340 crores due to higher realizations",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "EBITDA guidance maintained at close to INR360 crores for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Top line ambition of INR5,000 crores by FY30 from compounding segment only",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Volume growth guidance maintained at 10-15% despite 1-2% growth in H1 FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0HR601026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

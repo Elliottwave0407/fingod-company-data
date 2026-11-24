@@ -138,5 +138,37 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "capex": 3,
+   "guidance": 4,
+   "capacity": 3,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-12",
+    "statement": "FY29 revenue target Rs 1,416 cr with EBITDA margin 12%",
+    "period": "FY29F"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "FY29 revenue target Rs 2,500 cr with EBITDA margin 12%",
+    "period": "FY29F"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Medium-term target of 10-15% revenue CAGR with sustainable EBITDA margins of 10-12%",
+    "period": "medium term"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Next three years top-line CAGR of 10-12% and EBITDA of 10-12%",
+    "period": "next three years"
+   }
+  ],
+  "ledger": "claims/INE392A01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

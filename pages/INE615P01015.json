@@ -166,5 +166,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 157,
+  "by_category": {
+   "margin": 42,
+   "guidance": 60,
+   "order_book": 32,
+   "capex": 13,
+   "capacity": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-04",
+    "statement": "General Staffing net headcount addition guidance of 10,000 to 15,000 per quarter",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Professional Staffing EBITDA margin guidance of 11% to 12% for FY27 with exit near 12%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Digital platform BCPL expected to breakeven for FY27 and deliver positive numbers from next year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "AI query management system QMS aims to answer half of all queries by December and up to 80% by March 2027",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Brain AI sourcing engine expected to generate 35,000 to 40,000 offers in H2 FY27",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE615P01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

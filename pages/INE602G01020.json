@@ -152,5 +152,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 16,
+  "by_category": {
+   "capacity": 3,
+   "capex": 8,
+   "guidance": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-09-28",
+    "statement": "Targeting record annual turnover of INR 1,000+ crores in FY 2024-25",
+    "period": "FY 2024-25"
+   },
+   {
+    "day": "2024-09-28",
+    "statement": "Revenue target of INR 7500 crores upon full operational capacity",
+    "period": null
+   },
+   {
+    "day": "2025-04-27",
+    "statement": "Revenue target INR 7500 Cr upon full operational capacity",
+    "period": null
+   },
+   {
+    "day": "2025-04-27",
+    "statement": "KAPL revenue FY 2025-26 INR 400 crores; at full production INR 5,000 crores",
+    "period": "FY 2025-26"
+   },
+   {
+    "day": "2025-04-27",
+    "statement": "KAPL revenue at full production INR 5,000 crores",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE602G01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

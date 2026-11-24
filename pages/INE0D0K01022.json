@@ -140,5 +140,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 132,
+  "by_category": {
+   "capacity": 40,
+   "guidance": 40,
+   "margin": 22,
+   "order_book": 11,
+   "capex": 19
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-20",
+    "statement": "Revenue guidance of INR650-675 crores for FY27 maintained",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Full year EBITDA margin target of 18% for FY27 maintained",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 revenue guidance revised to around INR 600 crores from earlier INR 650 crores due to project deferment",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 EBITDA margin guidance maintained at around 18% for full year, with H2 expected to be at least 18% or better",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY28 revenue expected to exceed INR 800 crores with new MCC capacity adding over INR 200 crores top line",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE0D0K01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

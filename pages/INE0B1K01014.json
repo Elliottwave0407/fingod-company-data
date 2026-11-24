@@ -149,5 +149,42 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 23,
+  "by_category": {
+   "guidance": 5,
+   "order_book": 3,
+   "capex": 12,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-16",
+    "statement": "Printing business grew 18.64% for the whole year",
+    "period": "FY24"
+   },
+   {
+    "day": "2024-05-16",
+    "statement": "Record Management, Scanning and Document Logistics revenues up 8.66% annually",
+    "period": "FY24"
+   },
+   {
+    "day": "2024-11-12",
+    "statement": "EBITDA margins have steadily grown in past 4 years",
+    "period": "FY22-23 to FY23-24"
+   },
+   {
+    "day": "2024-11-12",
+    "statement": "Asset and capital efficiency are on an upswing on the back of better asset utilization and higher margins",
+    "period": "FY22-23 to FY23-24"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "National Logistics Policy targets reducing logistics costs from 13-14% of GDP to 8% or below",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE0B1K01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

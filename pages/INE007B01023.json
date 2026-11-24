@@ -140,5 +140,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 74,
+  "by_category": {
+   "order_book": 32,
+   "capex": 11,
+   "margin": 9,
+   "guidance": 17,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-29",
+    "statement": "C.J. George will step down as Managing Director on 1 October; Jones George will take over as MD of the company",
+    "period": "1 October"
+   },
+   {
+    "day": "2026-10-24",
+    "statement": "Focus on deepening customer relationships, expanding distribution network, increasing SIP penetration and leveraging technology to improve operating productivity",
+    "period": null
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "No forward-looking statements given for DIFC and Barjeel AMC AUM expectations for H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Plan to significantly increase recurring revenue income over next 3-5 years to reduce cyclicality risk; long-term strategy not dependent on geopolitical trends",
+    "period": "next 3-5 years"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "H2 FY27 priorities: increase productivity of existing people, expand cross-selling opportunities aggressively; no numerical guidance given",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE007B01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -141,5 +141,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 98,
+  "by_category": {
+   "capex": 23,
+   "guidance": 20,
+   "order_book": 12,
+   "capacity": 31,
+   "margin": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-11",
+    "statement": "Expects 2-3% margin improvement once freeze-dried coffee production commences in FY29",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Additional 1-1.5% margin improvement expected from second 5,500 MT freeze-dried line",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Targets 10,500 MT volume for spray-dried and agglomerated coffee in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Expects 70% utilisation of 5,500 MT freeze-dried capacity in FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Expects 5-10% YoY growth in Q1 and Q2 FY28",
+    "period": "Q1 FY28, Q2 FY28"
+   }
+  ],
+  "ledger": "claims/INE498Q01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -153,5 +153,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 99,
+  "by_category": {
+   "guidance": 28,
+   "order_book": 17,
+   "margin": 20,
+   "capex": 21,
+   "capacity": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-19",
+    "statement": "Long-term EBITDA margin target of 9\u201310% at \u20b91,000 crore scale",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-06-10",
+    "statement": "FY27 revenue target of Rs 830-850 crore, implying 25-30% growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-10",
+    "statement": "FY27 EBITDA margin guidance of 8.0-8.5%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-10",
+    "statement": "Targeting ROCE above 20% over next two years, internally aiming for 25%",
+    "period": "next two years"
+   },
+   {
+    "day": "2026-08-24",
+    "statement": "Full-year FY27 EBITDA margin guidance of 6-6.5%",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE520Y01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

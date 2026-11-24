@@ -142,5 +142,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 132,
+  "by_category": {
+   "capex": 25,
+   "guidance": 35,
+   "capacity": 29,
+   "order_book": 18,
+   "margin": 25
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-12",
+    "statement": "Sanaswadi Pune Cabins Fabrication turnaround expected Q3 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Chennai Oragadam Sheet Metal Parts turnaround expected FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "EV Powertrain Business Haryana turnaround expected FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Full-year operational EBITDA margin expected between 9% and 9.35%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Aspiration to double revenues every three to four years while improving margins and returns",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE278H01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

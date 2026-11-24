@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 35,
+  "by_category": {
+   "capex": 9,
+   "capacity": 13,
+   "guidance": 5,
+   "margin": 5,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-11-25",
+    "statement": "Targets revenue growth exceeding past 36% CAGR over next 3 years",
+    "period": "next 3 years"
+   },
+   {
+    "day": "2024-11-25",
+    "statement": "Targets revenue growth similar or better than past 30-35%",
+    "period": "forward"
+   },
+   {
+    "day": "2025-06-13",
+    "statement": "Management guided for 20-25% revenue growth in FY26, calling it a conservative minimum target with potential to exceed.",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-06-13",
+    "statement": "Management targets 20-25% EBITDA margin for FY26, up from 19.29% in FY25.",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Targets 25-30% revenue growth for FY27 with business mix similar to last year",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE721Z01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

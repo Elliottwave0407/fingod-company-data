@@ -133,5 +133,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 99,
+  "by_category": {
+   "guidance": 42,
+   "order_book": 31,
+   "margin": 16,
+   "capex": 7,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-28",
+    "statement": "FY27 focus: Leverage core infrastructure financing capabilities, pursue opportunities across loan sizes and value chain, drive disciplined loan book growth, expand lending across Private, PSU and Government entities, deepen sector specializ",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "CRISIL reaffirmed rating at CRISIL A (Negative)/A1; rating removed from 'Watch with Developing Implications' category",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-03",
+    "statement": "Targeting AUM of around INR 5,000 crores by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-03",
+    "statement": "Management expects stronger growth trajectory over next 2-3 quarters; numbers will speak for themselves",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Target loan book of approximately INR 5,000 crores by end of FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE560K01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

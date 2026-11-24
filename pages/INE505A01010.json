@@ -160,5 +160,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 51,
+  "by_category": {
+   "capex": 13,
+   "capacity": 15,
+   "guidance": 11,
+   "margin": 8,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-17",
+    "statement": "Boron business expected to recover to normal operations from second half of Q3 FY26",
+    "period": "H2 FY26"
+   },
+   {
+    "day": "2025-11-17",
+    "statement": "No large capex planned; only incremental projects ~INR 10 cr per year; focus on debt reduction",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "The Company carries no major capital expenditure obligations and has the assets, capabilities and capacity to grow as conditions normalise.",
+    "period": "Ongoing"
+   },
+   {
+    "day": "2026-05-25",
+    "statement": "FY27 specialty capacity utilization expected better than FY26 but too volatile for precise projection",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Management does not provide forward-looking projections; expects sulfur price softening to revive demand; specialty growth continuing in India, LatAm, Japan, Korea.",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE505A01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

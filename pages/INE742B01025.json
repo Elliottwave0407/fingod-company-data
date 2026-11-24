@@ -181,5 +181,43 @@
   ],
   "dividend_per_share": 0.1
  },
+ "claims": {
+  "total": 121,
+  "by_category": {
+   "capex": 25,
+   "capacity": 50,
+   "order_book": 14,
+   "guidance": 28,
+   "margin": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "Depot and microsphere suite nearing completion in Q1 FY27",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Company commits to 15-20% year-over-year revenue growth as bare minimum",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Expected revenue for FY27 is around INR 1,100 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "Indore facility EU GMP and UK MHRA certification targeted FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "Indore facility US FDA pre-approval inspection completed with three observations being addressed",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE742B01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

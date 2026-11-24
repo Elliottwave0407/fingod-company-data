@@ -132,5 +132,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 77,
+  "by_category": {
+   "guidance": 29,
+   "margin": 17,
+   "capacity": 11,
+   "capex": 10,
+   "order_book": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-04",
+    "statement": "Management expects H2 FY27 performance better than H1",
+    "period": "H2-FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Management targets INR1,200-1,250 crores revenue for FY27, implying ~40% YoY growth in H2, contingent on non-linear options like M&A and partnerships",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Management confident of stronger H2 FY27 performance vs H1, expects quarter-by-quarter improvement starting Q3",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "If no non-linear options fructify, H2 FY27 revenue expected around INR1,100 crores",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "$500M revenue target by 2030 (FY31) requires ~39% CAGR; management confident of getting close via organic + inorganic + partnerships",
+    "period": "FY31"
+   }
+  ],
+  "ledger": "claims/INE667G01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

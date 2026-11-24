@@ -153,5 +153,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 124,
+  "by_category": {
+   "guidance": 46,
+   "capex": 13,
+   "capacity": 18,
+   "order_book": 16,
+   "margin": 31
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "FY28 normalized EBITDA margin target of 12-14%",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Board approved rights issue fundraise up to Rs 2,500 mn to address liquidity challenges",
+    "period": null
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Outlook FY27 Blends growth momentum to continue across all geographies Vitafor and Vinpai to stabilise",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Outlook FY27 Aroma anticipate improvement in volumes and realisations over coming quarters",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Outlook FY27 ongoing logistics disruptions and inflationary pressures expected to weigh on operations near term",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE052I01032.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

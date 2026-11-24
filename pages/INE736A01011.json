@@ -128,5 +128,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 69,
+  "by_category": {
+   "order_book": 12,
+   "margin": 32,
+   "capex": 17,
+   "capacity": 1,
+   "guidance": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-08",
+    "statement": "No specific revenue or earnings guidance provided",
+    "period": null
+   },
+   {
+    "day": "2025-05-08",
+    "statement": "No forward guidance on technology spend as percentage of revenue",
+    "period": null
+   },
+   {
+    "day": "2026-02-06",
+    "statement": "CDSL does not provide specific revenue or earnings guidance; no futuristic outlook given on unlisted additions, folio numbers, or KYC charge changes",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-05-07",
+    "statement": "CDSL does not provide specific revenue or earnings guidance; no forward-looking statements on technology spend trajectory or pricing changes",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Management does not provide specific revenue or earnings guidance; no forward-looking statements on technology spend, KYC revenue run-rate, or unified KYC timeline",
+    "period": "Q1 FY27"
+   }
+  ],
+  "ledger": "claims/INE736A01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

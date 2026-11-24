@@ -151,5 +151,43 @@
   ],
   "dividend_per_share": 4
  },
+ "claims": {
+  "total": 223,
+  "by_category": {
+   "guidance": 104,
+   "capex": 31,
+   "capacity": 38,
+   "margin": 35,
+   "order_book": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-10",
+    "statement": "Target specialty mix 65-70% in FY28 and ~80% medium term; net debt reduction of Rs 300-500 crore over next two years",
+    "period": "FY28, next 2 years"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "FY27 effective tax rate expected at -6% to -7% (tax writeback)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "US film business revenue target >$100 million in FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Cosmo Consumer and Zigly projected >60% growth in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Specialty chemicals medium-term revenue ~Rs 500 crore with 20%+ ROCE",
+    "period": "medium term"
+   }
+  ],
+  "ledger": "claims/INE757A01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

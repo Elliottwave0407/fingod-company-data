@@ -136,5 +136,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 22,
+  "by_category": {
+   "guidance": 11,
+   "capex": 9,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-05",
+    "statement": "India Business revenue target Rs 2,000 Cr by FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-02-05",
+    "statement": "International Business revenue target Rs 1,500 Cr by FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "FY28 revenue target \u20b93,500 Cr (India \u20b92,000 Cr, International \u20b91,500 Cr)",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "India Business revenue target \u20b92,000 Cr by FY28 (2.7x from FY26 \u20b9740 Cr)",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "International Business revenue target \u20b91,500 Cr by FY28 (1.8x from FY26 \u20b9854 Cr)",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE192H01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

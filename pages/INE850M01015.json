@@ -142,5 +142,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 22,
+  "by_category": {
+   "guidance": 15,
+   "capex": 3,
+   "margin": 2,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-07-29",
+    "statement": "D2C led growth resulting into AUM mix of more than 2/3 in next 3 years",
+    "period": "next 3 years"
+   },
+   {
+    "day": "2025-07-29",
+    "statement": "Maintain Net NPA in range of 0.5%-0.7%",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Going forward, the Company intends to strengthen its fee-based businesses, primarily Placements and Credit Funds, to address the evolving funding requirements of its Originator Partners. At the same time, balance sheet lending will be deployed selectively to cultivate new partner relationships, demo",
+    "period": "Not specified"
+   },
+   {
+    "day": "2026-05-14",
+    "statement": "FY27 AUM growth guidance of 22-25% (3x GDP) and ROA target of 3%+ with mid-to-late teens ROE over 8-10 quarters",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-14",
+    "statement": "FY27 credit cost guidance of 2.7-2.8% after FLDG benefit and management overlay",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE850M01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

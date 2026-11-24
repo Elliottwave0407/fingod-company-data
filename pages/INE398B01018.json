@@ -173,5 +173,25 @@
   ],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 2,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "India's data centre IT load capacity expected to reach approximately 4.7 GW over the next three years",
+    "period": "over the next three years"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Addressable market for AI and data centre networking solutions estimated at around Rs. 6,500 crore",
+    "period": "not specified"
+   }
+  ],
+  "ledger": "claims/INE398B01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

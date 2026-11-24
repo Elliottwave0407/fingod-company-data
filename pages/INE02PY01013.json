@@ -151,5 +151,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 164,
+  "by_category": {
+   "capex": 46,
+   "guidance": 41,
+   "capacity": 41,
+   "margin": 26,
+   "order_book": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-26",
+    "statement": "Medium-term ROCE target of 20-24% as capacity utilization improves and margins expand",
+    "period": "medium term"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Medium-term revenue CAGR target ~15%-20%",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Medium-term thrust: improve EBITDA margins, optimise capital employed",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Long-term revenue CAGR target 15-20%; current growth and EBITDA margin momentum seen as sustainable",
+    "period": null
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "No specific H2 FY27 revenue/EBITDA/capex guidance; management says current growth and margins sustainable",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE02PY01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

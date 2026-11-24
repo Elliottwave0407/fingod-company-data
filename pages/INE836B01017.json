@@ -136,5 +136,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 116,
+  "by_category": {
+   "capex": 17,
+   "guidance": 45,
+   "order_book": 30,
+   "margin": 19,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-03",
+    "statement": "Consolidated AUM growth guided at 20-25% for FY27; H1 grew 9% (annualized ~19%), expect to land within range",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Long-term target of INR32,000 crore consolidated AUM by FY30 unchanged, with 30% from non-MFI; 50% of target achieved",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Management overlay target ~INR100 crore; currently INR50 crore, added INR14 crore in Q2",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Branch opening guidance: ~50 branches in H2 FY27; 100-150 branches in FY28",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Sustainable NIM guided at ~14.5% cross-cycle; Q2 reported 15.9% but expected to normalize",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE836B01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

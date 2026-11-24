@@ -121,5 +121,41 @@
   "key_risks": [],
   "dividend_per_share": 3.5
  },
+ "claims": {
+  "total": 29,
+  "by_category": {
+   "capex": 17,
+   "capacity": 5,
+   "guidance": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-28",
+    "statement": "Inbound tourism forecasted to grow ~15% in FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-18",
+    "statement": "Demand for high end luxury expected to grow in India",
+    "period": null
+   },
+   {
+    "day": "2025-11-19",
+    "statement": "Like-to-like H1FY26 revenue growth 3% EBITDA growth 1%",
+    "period": "H1FY26"
+   },
+   {
+    "day": "2025-11-19",
+    "statement": "Like-to-like Q2FY26 revenue growth -3% EBITDA growth -18%",
+    "period": "Q2FY26"
+   },
+   {
+    "day": "2026-02-19",
+    "statement": "Pipeline projects subject to risks and uncertainties; opening periods may differ materially",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE276C01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

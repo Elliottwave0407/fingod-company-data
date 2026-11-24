@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 88,
+  "by_category": {
+   "capex": 12,
+   "guidance": 39,
+   "margin": 12,
+   "capacity": 6,
+   "order_book": 19
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-20",
+    "statement": "Retail GNPA expected to stay sub-4% and NNPA sub-2% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Exit FY27 AUM target Rs 4,200 crore range",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "CV to break even by end FY27, used car by Q1 FY28",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Bank borrowing cost to fall another 10 bps by March 2027",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Impairment cost to be arrested at up to 2% by March 2027",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE296G01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

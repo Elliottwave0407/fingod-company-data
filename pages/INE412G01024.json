@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 161,
+  "by_category": {
+   "guidance": 48,
+   "capex": 41,
+   "order_book": 13,
+   "capacity": 37,
+   "margin": 22
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "900 KLPD distillery operating at almost 100% capacity utilization",
+    "period": null
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Maize oil extraction & Refinery segment expected to continue momentum in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Entry into IMFL value segment within next 2 years via Vodka and Whiskey categories",
+    "period": "next 2 years"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Peak consolidated revenue with current capacity estimated at INR 2,900 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "CBG plant expected revenue INR 70 crores at 90-95% utilization with 40-45% EBITDA margin",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE412G01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

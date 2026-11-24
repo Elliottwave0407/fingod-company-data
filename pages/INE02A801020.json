@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 140,
+  "by_category": {
+   "guidance": 34,
+   "capex": 38,
+   "capacity": 32,
+   "order_book": 10,
+   "margin": 26
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-24",
+    "statement": "Expects FY28 to be better with full-year EO availability from end of calendar year",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Full-year FY27 EBITDA margin expected around 12%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Full-year FY27 revenue growth expected in mid-to-high teens",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "FY27 revenue growth expected mid-to-high teens; EBITDA margin ~12% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "FY27 revenue growth expected to be mid-teen to high-teen % (vs. H1 20% YoY). EBITDA margin ~12% for FY27.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE02A801020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

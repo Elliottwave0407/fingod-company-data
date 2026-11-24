@@ -141,5 +141,43 @@
   ],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 94,
+  "by_category": {
+   "capex": 21,
+   "guidance": 33,
+   "order_book": 11,
+   "margin": 18,
+   "capacity": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "Consolidated gross margin target of 8%+ for FY27 and 12% long-term",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-21",
+    "statement": "Targets 30%+ compounded growth over next 5 years",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2026-11-21",
+    "statement": "Targets 13% revenue contribution from JITO branded medicine by FY29-30",
+    "period": "FY29-30"
+   },
+   {
+    "day": "2026-11-21",
+    "statement": "Revises FY29-30 revenue estimate to INR4,900 crores from INR6,000 crores due to JITO pricing mix",
+    "period": "FY29-30"
+   },
+   {
+    "day": "2026-11-21",
+    "statement": "Expects EBITDA margin to exceed 5-6% target due to JITO margin contribution",
+    "period": "FY29-30"
+   }
+  ],
+  "ledger": "claims/INE019J01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

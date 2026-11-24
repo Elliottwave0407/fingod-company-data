@@ -142,5 +142,42 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 64,
+  "by_category": {
+   "capex": 14,
+   "guidance": 18,
+   "margin": 21,
+   "capacity": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-17",
+    "statement": "Management will not provide forward-looking statements on margins or growth",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-05-13",
+    "statement": "Reporting schedule: Q2 and H1 2026 results on July 21, 2026",
+    "period": "July 21, 2026"
+   },
+   {
+    "day": "2026-05-13",
+    "statement": "Reporting schedule: Q3 and Q1-Q3 2026 results on October 27, 2026",
+    "period": "October 27, 2026"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Next financial result Q3 and Q1-Q3 2026 scheduled for October 27, 2026",
+    "period": "October 27, 2026"
+   },
+   {
+    "day": "2026-07-31",
+    "statement": "No specific revenue guidance; aims to grow in line with market (4-5%)",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE275B01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

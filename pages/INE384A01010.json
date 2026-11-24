@@ -123,5 +123,26 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 28,
+  "by_category": {
+   "order_book": 25,
+   "guidance": 2,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-04",
+    "statement": "Exports sales expected to improve in H2 FY25 for RML",
+    "period": "H2 FY25"
+   },
+   {
+    "day": "2024-08-04",
+    "statement": "We continue to target higher than the industry growth",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE384A01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

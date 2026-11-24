@@ -129,5 +129,43 @@
   ],
   "dividend_per_share": 0.02
  },
+ "claims": {
+  "total": 55,
+  "by_category": {
+   "order_book": 11,
+   "guidance": 11,
+   "capacity": 11,
+   "capex": 13,
+   "margin": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-01-29",
+    "statement": "Management expects to double business compared to last year driven by distributor network expansion and PM Surya Ghar Yojana",
+    "period": "next year"
+   },
+   {
+    "day": "2025-05-13",
+    "statement": "Preferential allotment of \u20b9200 crore planned but delayed due to unfavorable market conditions",
+    "period": "next quarter"
+   },
+   {
+    "day": "2025-08-07",
+    "statement": "Management aims to beat breakeven, surpass prior-year benchmarks, and meet internal expectations; no specific revenue or profit targets committed",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-07",
+    "statement": "FY27 focus on operational consolidation, working capital normalization, and disciplined capital allocation; no fresh long-term debt planned; CapEx to moderate significantly",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Management aims to maintain Q1 FY27 growth momentum through FY27 driven by distribution expansion, new product lines, and prior capex",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE782X01033.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

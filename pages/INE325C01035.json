@@ -127,5 +127,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 137,
+  "by_category": {
+   "guidance": 68,
+   "capex": 27,
+   "margin": 25,
+   "order_book": 11,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-18",
+    "statement": "FY27 revenue growth guidance 10% to 12%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Medium-term EBITDA margin target 13.5% to 14.5% in 2-3 years",
+    "period": "next 2 to 3 years"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Revenue CAGR target ~12% over next 2-3 years with 8-9% volume and 4-5% price/mix",
+    "period": "next 2 to 3 years"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Debt-free target by FY28 or FY29",
+    "period": "FY28 or FY29"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "FY27 ending debt reduction target INR50-60 crores in H2",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE325C01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

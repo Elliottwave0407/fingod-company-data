@@ -178,5 +178,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 156,
+  "by_category": {
+   "guidance": 53,
+   "capex": 27,
+   "capacity": 35,
+   "order_book": 13,
+   "margin": 28
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-02",
+    "statement": "Hospital business targets minimum 15% CAGR long-term without significant capex",
+    "period": "long-term"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Management expects consolidated hospital EBITDA margin to reach upward of 20% for full year FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Shalby International occupancy expected to reach 30%+ from Q3 or Q4 FY27 with PBT breakeven near Q3 end or Q4",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "MedTech double-digit EBITDA margin targeted after Q4 FY27 following vendor and operational initiatives",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Group ROCE expected to reach industry standard of 11-13% within 1-2 years from current ~7%",
+    "period": "1-2 years"
+   }
+  ],
+  "ledger": "claims/INE597J01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

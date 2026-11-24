@@ -123,5 +123,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 98,
+  "by_category": {
+   "guidance": 50,
+   "margin": 22,
+   "capex": 12,
+   "order_book": 6,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "FY27 EBITDA margin guidance band 17%-19%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Content licensing revenue target over Rs400m and client count 5 to 10 in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 operating revenue growth guided at 10%-15% excluding acquisitions",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 EBITDA margin band guided at 17%-19%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 content licensing (AI Datasets) revenue target in excess of Rs400m",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE807K01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

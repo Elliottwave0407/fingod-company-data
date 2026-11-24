@@ -137,5 +137,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 117,
+  "by_category": {
+   "order_book": 21,
+   "capex": 38,
+   "capacity": 19,
+   "guidance": 22,
+   "margin": 17
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-25",
+    "statement": "Targets internal EBITDA margin of 20% over coming quarters, up from current 16.2%",
+    "period": "next few quarters"
+   },
+   {
+    "day": "2026-08-25",
+    "statement": "Aims for at least 20% revenue CAGR over next five years based on growth strategy",
+    "period": "next five years"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "H2 priorities: CV OEM ramp-up programmes and machining de-bottlenecking within \u20b930 Cr FY27 capex plan; new engine and wheel hub orders (~\u20b920 Cr annual) ramping up",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Targets 15-20% revenue growth on strategic customer accounts for FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Aims to bring quarterly revenue back to Q1 levels with 10-20% growth in H2 FY27 over H1",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE314G01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

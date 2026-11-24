@@ -152,5 +152,20 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 1,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "JWIL is planning to complete 11 projects during FY 2026-27 viz., Chidambaram, Nashik, Bhandup, Tanzania, Naini, Ranchi, Sikatia, Palamu, Isarda, Vidisha (Madia Bina Scheme), Parwan.",
+    "period": "FY 2026-27"
+   }
+  ],
+  "ledger": "claims/INE863T01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

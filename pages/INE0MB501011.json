@@ -155,5 +155,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 95,
+  "by_category": {
+   "guidance": 29,
+   "capex": 24,
+   "capacity": 31,
+   "margin": 7,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Dahej Phase 1 utilization 50-60% in FY28, 70-80% in FY29; Phase 2 expansion to start in FY29",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Consolidated EBITDA margin target 14-15% with higher value-added product share",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Target to increase non-rubber revenue contribution from current 15% to 30% over next few years",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Internal target to double revenue every 3 years; confident FY27 revenue will exceed INR1,200 crores vs FY24 ~INR600 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Target consolidated EBITDA margin of 14-15% in 3 years driven by value-added product share increase",
+    "period": "next 3 years"
+   }
+  ],
+  "ledger": "claims/INE0MB501011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

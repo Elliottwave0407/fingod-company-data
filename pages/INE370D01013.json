@@ -130,5 +130,21 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 15,
+  "by_category": {
+   "capex": 8,
+   "capacity": 6,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-31",
+    "statement": "Company continues efforts on improving efficiencies and margins going forward",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE370D01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

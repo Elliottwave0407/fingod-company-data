@@ -145,5 +145,22 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 6,
+  "by_category": {
+   "margin": 2,
+   "order_book": 1,
+   "capex": 2,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-03",
+    "statement": "Management does not disclose revenue or margin guidance; focus on enterprise market with strong EPP, EDR, XDR offerings",
+    "period": "current"
+   }
+  ],
+  "ledger": "claims/INE306L01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

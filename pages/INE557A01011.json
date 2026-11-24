@@ -137,5 +137,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 142,
+  "by_category": {
+   "guidance": 47,
+   "order_book": 13,
+   "capex": 29,
+   "margin": 30,
+   "capacity": 23
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-02",
+    "statement": "Greenfield board plant at Nellore on track for commercial production in Q4 FY27",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Ground-breaking for new Hyderabad board plant by Dec'26",
+    "period": "Dec'26"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Green power to exceed 20% within two years",
+    "period": "within two years"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Management expects strong second half and full FY27 for India business; Parador H2 EBITDA positive target",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Parador H2 FY27 EBITDA positive milestone; aim to cut into H1 losses",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE557A01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

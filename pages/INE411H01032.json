@@ -154,5 +154,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 66,
+  "by_category": {
+   "margin": 18,
+   "capacity": 12,
+   "order_book": 13,
+   "guidance": 14,
+   "capex": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-18",
+    "statement": "Management expects adjusted EBITDA margin to stay flat or slightly up in CY2026 if currency remains stable, targeting high 16s to 17s range with Novigo bump",
+    "period": "CY2026"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "AI revenue accounted for approximately 29% of overall revenue during FY 2025, a share the company expects to grow in the coming years.",
+    "period": "coming years"
+   },
+   {
+    "day": "2026-05-13",
+    "statement": "No forward guidance provided; high confidence in organic and combined growth trajectory; committed to maintaining EBITDA margins",
+    "period": "Q1 FY26"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Management does not provide forward-looking guidance but expects continued traction from pipeline conversion",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Management avoids providing formal revenue growth guidance but targets secular 3-4% quarterly growth to reach double-digit year-over-year growth",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE411H01032.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

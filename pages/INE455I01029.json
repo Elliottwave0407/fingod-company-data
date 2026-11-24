@@ -148,5 +148,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 66,
+  "by_category": {
+   "guidance": 31,
+   "margin": 14,
+   "order_book": 7,
+   "capex": 9,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-27",
+    "statement": "Vegetable seed business outlook remains positive in Q1 FY27",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-05-30",
+    "statement": "FY27 revenue growth guided at 15-20% with cotton growing over 20%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Company expects spill-over demand in Q2 FY27 if rainfall improves",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Management maintains 15-18% growth target for next 2-3 years despite current year challenges",
+    "period": "next 2 to 3 years"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Full year revenue decline expected to narrow from Q1's 14% as Karnataka sales recover and Rabi season benefits from higher maize prices",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE455I01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

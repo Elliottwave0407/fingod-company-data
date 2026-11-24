@@ -142,5 +142,19 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 1,
+  "by_category": {
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Heading into FY 2026-27, the Company expects the residential real estate market to remain stable, supported by steady urbanization, rising household incomes, and continued government emphasis on infrastructure and housing-linked policy support.",
+    "period": "FY 2026-27"
+   }
+  ],
+  "ledger": "claims/INE778K01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

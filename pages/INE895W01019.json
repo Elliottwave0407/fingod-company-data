@@ -128,5 +128,42 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 12,
+  "by_category": {
+   "guidance": 7,
+   "capex": 2,
+   "order_book": 2,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-14",
+    "statement": "Targeted 50% CAGR growth trajectory for FY26 and through next three fiscal years",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-05-14",
+    "statement": "Confident in reducing operational cycle from 120 days to 90 days in FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-04-30",
+    "statement": "Company targets up to \u20b9100 crores capex in ESDM segment via subsidiary Technofy Digital Private Limited",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-04-30",
+    "statement": "Focus on strong sustainable revenue growth in FY27 driven by high-margin offerings and design-led services",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-24",
+    "statement": "Confident in growth potential of India's ESDM ecosystem driven by localisation, domestic manufacturing, AI, IoT, networking, smart devices",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE895W01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

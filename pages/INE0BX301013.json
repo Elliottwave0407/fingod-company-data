@@ -138,5 +138,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 80,
+  "by_category": {
+   "order_book": 22,
+   "capex": 8,
+   "capacity": 17,
+   "guidance": 24,
+   "margin": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-17",
+    "statement": "FY27 EBITDA margin guidance above 11%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "FY27 PAT growth expected in absolute terms",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "FY28 revenue growth guidance of minimum 25%",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "FY28 EBITDA margin guidance of 12% to 13%",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "FY28 PAT margin guidance of 8.5% to 9%",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE0BX301013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

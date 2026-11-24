@@ -139,5 +139,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "order_book": 1,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Planned launch of Global Capability Center for AI Enablement & Data Engineering as third vertical in FY27, subject to Board approval",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE082W01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -142,5 +142,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 94,
+  "by_category": {
+   "capex": 23,
+   "capacity": 18,
+   "guidance": 27,
+   "margin": 17,
+   "order_book": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-12",
+    "statement": "Targets INR500 crore annual revenue and aims to maintain historical CAGR; hopeful to reach run rate in FY27 but cites environmental uncertainties",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-24",
+    "statement": "Management confident of maintaining 20-25% growth momentum for FY27, barring Middle East impact",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-24",
+    "statement": "Vimta does not provide forward projections on numbers; aims to maintain and better historical growth rates",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Management reiterated medium-term guidance of INR 700 crore revenue by FY28 with 35-36% EBITDA margin, implying ~20-25% CAGR top-line growth.",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Capex budget for FY27 is approximately INR 80 crore, including INR 45-50 crore maintenance capex; remaining focused on analytical capabilities and self-service offerings.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE579C01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

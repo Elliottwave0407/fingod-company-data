@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 32,
+  "by_category": {
+   "capacity": 7,
+   "capex": 12,
+   "guidance": 5,
+   "order_book": 4,
+   "margin": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-06-09",
+    "statement": "UAE facility expected to be key growth driver in upcoming quarters",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-11-17",
+    "statement": "Strategic focus on market diversification, scaling MENA presence, expanding low-silica portfolio",
+    "period": null
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Management expects capacity utilization to improve significantly in coming quarters as geopolitical conditions normalize",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "No specific revenue, volume or margin guidance given for FY27 due to geopolitical uncertainties",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Targets quarterly revenue run-rate of Rs 70-80 crore; realistic timeline Q4 FY27 if geopolitical situation stabilizes",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE0JSX01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

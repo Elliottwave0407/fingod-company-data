@@ -138,5 +138,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Intend to increase capacity of all products based on demand and plans to do backward & forward integration of products such as DMA-HCL, Ortho chloro benzoic acid and further API's like theophylline.",
+    "period": "Not specified"
+   }
+  ],
+  "ledger": "claims/INE198H01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

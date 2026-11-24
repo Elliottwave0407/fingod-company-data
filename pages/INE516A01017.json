@@ -198,5 +198,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 311,
+  "by_category": {
+   "guidance": 53,
+   "capex": 128,
+   "capacity": 101,
+   "margin": 25,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-09-29",
+    "statement": "On track to achieve 24 billion carton packs/year aseptic nameplate capacity by FY 2027",
+    "period": "FY 2027"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Confident in delivering robust growth in FY27 supported by ramp-up of recycling plant in Noida, WPP bags facility in Mexico, and upcoming aseptic packaging facility in Egypt",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Guided FY27 revenue and EBITDA growth of around 30%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Leverage ratio guided at 3-3.5x by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Volume growth expected similar in H2 FY27 as H1 (~2%), 30% target is for value growth not volume",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE516A01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

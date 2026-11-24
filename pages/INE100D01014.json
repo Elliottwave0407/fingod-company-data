@@ -139,5 +139,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Management expects that around 90% - 95% of the transaction price allocated to unsatisfied contracts as of 31st March 2025 will be recognised as revenue during next reporting period",
+    "period": "Next reporting period (FY 2025-26)"
+   }
+  ],
+  "ledger": "claims/INE100D01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

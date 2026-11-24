@@ -136,5 +136,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 81,
+  "by_category": {
+   "guidance": 37,
+   "capex": 9,
+   "order_book": 16,
+   "margin": 15,
+   "capacity": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-02",
+    "statement": "FY27 AUM growth guidance of 15%-25%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "The Wholesale segment remains healthy and is expected to be the key growth driver in FY27. SME Retail is expected to return to growth over the coming year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "The Wholesale segment remains healthy and is expected to be the key growth driver in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "SME Retail is expected to return to growth gradually over the year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Expect wholesale segment to continue driving AUM growth for remainder of FY27; expect SME retail disbursements to improve in H2 FY27 as consolidation measures yield results",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE718F01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

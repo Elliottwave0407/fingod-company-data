@@ -133,5 +133,27 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "order_book": 3,
+   "capex": 2,
+   "guidance": 2,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-06-06",
+    "statement": "Targeting order book addition of 250-300 crores during the year",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-06-06",
+    "statement": "Revenue of 84 crores in FY25, up 60% from 53 crores; EBITDA of 207 crores from loss; PAT of 56 crores with healthy margins",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE388G01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

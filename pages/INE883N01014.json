@@ -130,5 +130,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 52,
+  "by_category": {
+   "guidance": 15,
+   "capacity": 13,
+   "capex": 11,
+   "margin": 10,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-14",
+    "statement": "Aspire double-digit volume growth for core categories",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-14",
+    "statement": "Capex guidance for FY27 is INR60-70 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-14",
+    "statement": "Aim to enter double-digit EBITDA margins in coming years",
+    "period": "coming years"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Management expects FY27 revenue growth to exceed 10% driven by festive season demand in Q2 and Q3",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Revenue target of INR10,000 crores with New Age business contributing ~25%",
+    "period": "medium term"
+   }
+  ],
+  "ledger": "claims/INE883N01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

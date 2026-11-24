@@ -113,5 +113,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 137,
+  "by_category": {
+   "capex": 43,
+   "capacity": 32,
+   "guidance": 41,
+   "margin": 15,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-01",
+    "statement": "Commitment: 30% lower emission intensity (Scope 1,2,3) vs FY22 by FY30",
+    "period": "by FY30"
+   },
+   {
+    "day": "2026-11-01",
+    "statement": "Commitment: Zero reportable injuries and zero environmental incidents",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Q3 FY27 EBITDA expected lower than Q2 FY27 but better than Q3 FY26; FY27 full-year EBITDA similar to or slightly better than FY26, aided by vacuum salt and bromine incremental EBITDA",
+    "period": "Q3 FY27, FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Vacuum salt plant to reach intended capacity by end of FY27; bromine plant to reach intended capacity by next financial year (FY28)",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "FY27-28 overall picture better than FY26-27; incremental EBITDA from vacuum salt and bromine; demand growth healthy at 9-10%",
+    "period": "FY27, FY28"
+   }
+  ],
+  "ledger": "claims/INE539A01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

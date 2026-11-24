@@ -145,5 +145,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 81,
+  "by_category": {
+   "guidance": 27,
+   "margin": 23,
+   "order_book": 8,
+   "capex": 15,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-12",
+    "statement": "Express Logistics EBITDA margin target 7.5% for FY27 and 10% over 3 years",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Pre-Ind AS adjusted EBITDA target 5-6% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Aim to grow faster than logistics industry by a percentage point",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Revenue growth guidance of 10% 3-year CAGR and 12% 5-year CAGR maintained; EBITDA margin target raised to 15% by FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Pre-IND AS EBITDA margin assumed at 5% for FY28",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE418H01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

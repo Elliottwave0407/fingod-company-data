@@ -161,5 +161,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 105,
+  "by_category": {
+   "guidance": 43,
+   "margin": 17,
+   "order_book": 20,
+   "capacity": 11,
+   "capex": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "EBITDA margin expected to sustain at 10.5-11% for next few quarters",
+    "period": "next few quarters"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY27 PAT guidance ~100 Cr, up ~66% on ~60 Cr in FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Revenue growth guidance of 30-35% YoY for FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "EBITDA margin guidance of 11.5-12% for FY27 and 12-13% by FY30",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Working capital days expected to normalize at 60-70 days at steady state",
+    "period": "steady state"
+   }
+  ],
+  "ledger": "claims/INE0H9P01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

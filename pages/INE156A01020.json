@@ -154,5 +154,35 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 9,
+  "by_category": {
+   "capex": 5,
+   "guidance": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-23",
+    "statement": "Specialty filament and fibre operations expected ~CY27, full benefits FY27-28",
+    "period": "FY27-28"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "Funding for expansion via term loan + internal accruals",
+    "period": "FY27-28"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "EBITDA margin of 9.9% in last half year expected to be maintained in next two quarters",
+    "period": "next two quarters"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Targeting double-digit EBITDA margins going forward from current 9.9%",
+    "period": "FY28, FY29"
+   }
+  ],
+  "ledger": "claims/INE156A01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

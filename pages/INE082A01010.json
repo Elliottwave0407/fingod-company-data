@@ -134,5 +134,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 38,
+  "by_category": {
+   "capex": 5,
+   "capacity": 14,
+   "guidance": 8,
+   "margin": 8,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-11-21",
+    "statement": "Panoli plant expected to contribute INR150-200 crores in FY25-26 and INR200-250 crores over 3 years",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-02-17",
+    "statement": "Consolidated revenue growth guided at 15% for FY26 and 20% for FY27",
+    "period": "FY26, FY27"
+   },
+   {
+    "day": "2025-02-17",
+    "statement": "API segment revenue growth guided at 10-12% for FY26 and ~20% for FY27",
+    "period": "FY26, FY27"
+   },
+   {
+    "day": "2025-02-17",
+    "statement": "Revenue target revised to around INR1,200 crores in 3.5 years from earlier INR1,300 crores",
+    "period": "3.5 years"
+   },
+   {
+    "day": "2025-03-27",
+    "statement": "Expect to participate in 14-15% diagnostic industry growth plus new divisions and South region expansion with Kopran global support attracting more multinational partnerships",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE082A01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

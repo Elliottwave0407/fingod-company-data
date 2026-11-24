@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": 2.5
  },
+ "claims": {
+  "total": 133,
+  "by_category": {
+   "capacity": 33,
+   "order_book": 12,
+   "capex": 34,
+   "guidance": 38,
+   "margin": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-22",
+    "statement": "Target Capacity by FY31 post ~\u20b9740 crore investment (\u20b9 290 Crore + \u20b9 450 crore)",
+    "period": "FY31"
+   },
+   {
+    "day": "2026-10-22",
+    "statement": "Land acquisition planned in Hyderabad & Bengaluru for capacity expansion",
+    "period": null
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "FY27 lamination volume target maintained at 82,000+ tons",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "FY27 casting volume target maintained at 17,000 tons",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "FY27 revenue target INR2,350-2,400 crores at Q3 pricing",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE450D01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 76,
+  "by_category": {
+   "guidance": 18,
+   "capacity": 4,
+   "order_book": 12,
+   "margin": 28,
+   "capex": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-17",
+    "statement": "No formal guidance given; strategic sessions planned in Feb/March 2026 to define growth and margin targets",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-05-15",
+    "statement": "Revenue expected to grow mid to high single digits in FY27 with EBITDA margin around 12%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-15",
+    "statement": "Management guided for mid-to-high single-digit revenue growth in FY27 and targets around 12% EBITDA margin.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-29",
+    "statement": "Management declined to update FY27 guidance, stating it is early in the fiscal year and they will reassess in future quarters.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Revenue growth guidance reconfirmed at mid-to-high single digit; targeting ~12% adjusted EBITDA margin and ~6% EBITDA growth YoY",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE450U01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

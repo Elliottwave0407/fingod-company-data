@@ -149,5 +149,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 78,
+  "by_category": {
+   "guidance": 30,
+   "capex": 11,
+   "capacity": 4,
+   "margin": 19,
+   "order_book": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-06",
+    "statement": "EBITDA margin target 6% by 2030 (excl. foundit)",
+    "period": "2030"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "FY27 guidance: revenue >\u20b94,700 crore, EBITDA >\u20b9200 crore, PAT \u20b9100 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Foundit targeting near breakeven by Q4 FY27; FY27 burn <\u20b940 crore (H1 \u20b926 crore, H2 \u20b912-13 crore)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Organic growth target 18-20% for FY28 on FY27 base; long-term 3x GDP growth rate",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Tax rate guidance maintained at 22% for FY27 despite H1 ETR ~18%",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0U4101014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

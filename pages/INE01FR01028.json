@@ -124,5 +124,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 109,
+  "by_category": {
+   "capex": 21,
+   "guidance": 48,
+   "capacity": 14,
+   "margin": 17,
+   "order_book": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-17",
+    "statement": "SSG guidance for FY26 revised to 4-5% due to cannibalization and external disruptions",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-02-17",
+    "statement": "FY27 growth outlook raised to 30% YoY (from 25%) with 60-80 store additions per year; 500-store target by FY29 (from 252 currently)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-18",
+    "statement": "Revised annual guidance 60-80 new store additions annually from earlier 40-50",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-05-18",
+    "statement": "Target to grow from 250+ to 500+ stores in next three years",
+    "period": "FY27E-FY29E"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "Guiding for year-on-year revenue growth of 25%",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE01FR01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -145,5 +145,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 166,
+  "by_category": {
+   "guidance": 54,
+   "order_book": 50,
+   "capacity": 16,
+   "capex": 25,
+   "margin": 21
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-06",
+    "statement": "FY27 revenue target of INR1,700 crores implying INR1,400 crores in Q2-Q4",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Full-year FY27 revenue expected to cross INR1,600 crores, implying ~25% growth; H2 revenue target ~INR1,000 crores (~40% H2 growth)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Full-year FY27 order inflow target minimum INR3,000 crores; confident of exceeding target",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Consolidated EBITDA margin expected in 14%-15% range for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "African operations expected to contribute ~INR80 crores revenue in FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE390G01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

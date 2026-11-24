@@ -148,5 +148,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 138,
+  "by_category": {
+   "capacity": 30,
+   "guidance": 32,
+   "margin": 24,
+   "capex": 49,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-06",
+    "statement": "FY27 revenue guidance depends on raw material prices; management more confident on bottom line than top line",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Renewable energy project expected commissioning by end of January 2027",
+    "period": "Q4FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Management expects minimum INR85-90 crore EBITDA in FY28 from Ecosis project",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Core business EBITDA per kg expected to reach INR10-12 in FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Ecosis plant to be EBITDA positive in Q4 FY27 at 40-50% utilization",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE816B01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

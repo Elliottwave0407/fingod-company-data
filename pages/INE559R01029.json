@@ -125,5 +125,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 110,
+  "by_category": {
+   "capex": 25,
+   "guidance": 31,
+   "capacity": 10,
+   "order_book": 16,
+   "margin": 28
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-19",
+    "statement": "Expect normalized Q2 FY27 without GST disruption; EBITDA margin on new car sales around 1.5% on pro forma basis",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Employee costs and other expenses as % of revenue remain below targeted 4% of Proforma Revenue",
+    "period": "Q2FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Management expects industry growth momentum to continue for the next few quarters unless a major macro event occurs.",
+    "period": "next few quarters"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Management expects H2 profitability to be stronger than H1, consistent with historical 55-60% split.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Operating cash flow to EBITDA conversion expected to be slightly lower than FY26's 0.95x due to seasonal inventory build-up.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE559R01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -156,5 +156,43 @@
   ],
   "dividend_per_share": 25
  },
+ "claims": {
+  "total": 16,
+  "by_category": {
+   "guidance": 7,
+   "order_book": 3,
+   "margin": 2,
+   "capex": 3,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Growth in the product and ODM portfolio will continue to be calibrated through prudent capital allocation and structured operational oversight.",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-08-06",
+    "statement": "No formal guidance given; priority for FY27 is disciplined profitable growth, converting bookings to revenue, improving execution consistency, investing in talent and Chip-to-Cognition capabilities",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-06",
+    "statement": "Management committed to 60x4x3 strategy (60 customers at $4M+ in 3 years, metaphoric timeline); may take 1-2 more years but focus remains intact; adding 5-6 sales heads in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Software services expected to deliver single-digit sustained growth above industry average for mid/small tier; product solutions targeting $12-14M/quarter run rate for 10-12% EBITDA margins",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "90-95% of H2 service revenues tied up from signed orders; confident on achieving full year numbers; targeting sustained momentum into FY28",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE231F01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

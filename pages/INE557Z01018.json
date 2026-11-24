@@ -159,5 +159,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 89,
+  "by_category": {
+   "guidance": 27,
+   "capex": 14,
+   "order_book": 34,
+   "margin": 7,
+   "capacity": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-21",
+    "statement": "Targeting 30-35% year-on-year revenue growth for next 5 years including FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-02-21",
+    "statement": "Targeting closing FY26 order book at 1.5x to 2x of FY26 revenue",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-02-21",
+    "statement": "EBITDA margin target of 12-15% for FY27, PAT margin target of 9-10% in 1-2 years",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "For FY 2025-26, our theme, 'DNA of Growth,' captures the essence of this evolution. It is built on three enduring pillars of Dependability, Network, and Agility which continue to define our brand and guide our strategy.",
+    "period": "FY 2025-26"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "FY27 outlook: 30% revenue growth with margin expansion driven by backward integration",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE557Z01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

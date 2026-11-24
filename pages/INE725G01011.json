@@ -171,5 +171,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 80,
+  "by_category": {
+   "guidance": 51,
+   "margin": 13,
+   "capex": 8,
+   "capacity": 2,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-29",
+    "statement": "Real GDP growth FY2027e 7.1% with downside risks",
+    "period": "FY2027"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Fiscal deficit FY2027e 4.5% of GDP",
+    "period": "FY2027"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Current account deficit FY2027e 0.9% of GDP",
+    "period": "FY2027"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Another rate hike expected in December 2026",
+    "period": "Dec 2026"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Management does not provide revenue or profit guidance for the group or acquired entities.",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE725G01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

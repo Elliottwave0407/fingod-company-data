@@ -117,5 +117,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 38,
+  "by_category": {
+   "guidance": 20,
+   "capex": 6,
+   "order_book": 7,
+   "margin": 3,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-05",
+    "statement": "Sustainable cost-to-income ratio targeted at 20-25% once new businesses mature",
+    "period": "long term"
+   },
+   {
+    "day": "2026-06-05",
+    "statement": "First Lakshya AMC products to be filed with SEBI by June 5-10, targeting at least 3 products in 12 months",
+    "period": "next 12 months"
+   },
+   {
+    "day": "2026-07-01",
+    "statement": "Phase I transaction tentatively to complete on or before 31st December 2026 subject to requisite approvals",
+    "period": "on or before 31st December 2026"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Aim to grow combined AUM platform to around Rs. 20,000 crore over next five years",
+    "period": "next five years"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Combined Platform AUM target FY31 ~Rs 20,000 crore from ~Rs 9,000 crore FY26",
+    "period": "FY31"
+   }
+  ],
+  "ledger": "claims/INE658T01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

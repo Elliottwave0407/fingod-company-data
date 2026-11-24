@@ -120,5 +120,27 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 17,
+  "by_category": {
+   "guidance": 2,
+   "capex": 5,
+   "capacity": 6,
+   "margin": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-27",
+    "statement": "Expects growth better than industry rate in power production with solar addition",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-02-05",
+    "statement": "Target to reach EPS beyond 1 from current 0.5-0.6 level",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE227G01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -122,5 +122,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 55,
+  "by_category": {
+   "order_book": 37,
+   "guidance": 15,
+   "capex": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-14",
+    "statement": "Expected launch of first SM-REIT scheme by Q1 FY27",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-02-14",
+    "statement": "Targeting at least 4 assets under 3 schemes for ImpactR SM-REIT",
+    "period": "FY26-27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Billing momentum expected to improve progressively with stabilized customer engagements, improved collection cycles, and stronger execution visibility",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "EBITDA margins expected to normalize gradually as operating leverage improves",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Revenue decline is planned portfolio optimization, focusing on private sector for higher margins and lower working capital",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE364Z01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

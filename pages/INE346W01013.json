@@ -147,5 +147,43 @@
   ],
   "dividend_per_share": 2.5
  },
+ "claims": {
+  "total": 95,
+  "by_category": {
+   "capex": 15,
+   "capacity": 27,
+   "guidance": 27,
+   "margin": 16,
+   "order_book": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-05",
+    "statement": "Expect to sustain current EBITDA margins going forward, assuming stable market conditions and continued diversification",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-22",
+    "statement": "Management expects FY27 shrimp sales volume of around 12,000 metric tons.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-22",
+    "statement": "Management targets FY28 and FY29 volumes between 14,000 to 15,000 metric tons.",
+    "period": "FY28, FY29"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Management remains positive on reaching 12,000 metric tons volume target for FY27, expects 11,500-12,000 tons if no major cyclone damage",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Expect EU FDA benefit by early 2027, enabling 0% tariff shrimp exports to EU by end of FY27 or start of next financial year",
+    "period": "early 2027"
+   }
+  ],
+  "ledger": "claims/INE346W01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

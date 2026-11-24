@@ -130,5 +130,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 89,
+  "by_category": {
+   "guidance": 26,
+   "margin": 27,
+   "order_book": 12,
+   "capex": 15,
+   "capacity": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-18",
+    "statement": "IP tailwinds expected to return in H2 FY27 as macro economy improves",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-05-21",
+    "statement": "Management targets breakeven for digital business in FY27 and expects 15% CAGR subscriber growth to continue for next 2-3 years",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-21",
+    "statement": "Management expects 15% CAGR subscriber growth to continue for next 2-3 years",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "No formal guidance given; green shoots seen in Q3 advertising environment",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Gaana EBITDA breakeven target Q4 FY27; may delay 1-2 quarters due to high acquisition costs",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE265F01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

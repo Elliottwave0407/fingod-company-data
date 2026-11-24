@@ -143,5 +143,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 99,
+  "by_category": {
+   "capex": 27,
+   "order_book": 15,
+   "guidance": 27,
+   "capacity": 18,
+   "margin": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-13",
+    "statement": "Expect INR500 crores before January 2027, INR300 crores before March 2027, balance INR354 crores over next 12-18 months",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-13",
+    "statement": "EPC revenue this year ~INR50-60 crores; next year expected ~INR250 crores with KKR and other contracts",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-10-13",
+    "statement": "Target 15-20% year-over-year PAT growth; from current INR70 crores PAT, aim to grow by FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-10-13",
+    "statement": "Chemical revenue FY26 ~INR180 crores; Q1 FY27 INR60 crores revenue, INR6 crores PAT; full year FY27 expected to cross INR200 crores revenue and INR20 crores PAT",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-13",
+    "statement": "Post capacity expansion (July 2027), expect ~20-25% revenue jump next year, ~70-80% jump year after stabilization",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE388A01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

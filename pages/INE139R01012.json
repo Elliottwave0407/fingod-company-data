@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 26,
+  "by_category": {
+   "capex": 8,
+   "guidance": 13,
+   "margin": 2,
+   "order_book": 2,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-24",
+    "statement": "CRAR 30%+ proforma for \u20b9800 Cr partly paid rights issue",
+    "period": "Q4 FY25"
+   },
+   {
+    "day": "2025-05-24",
+    "statement": "Robust liquidity \u20b91,000 Cr as of 23rd May'25",
+    "period": "Q4 FY25"
+   },
+   {
+    "day": "2026-02-06",
+    "statement": "Going-concern status restored supported by rights-issue infusion",
+    "period": "Q3 FY26"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "In MFI, we will accelerate calibrated volume growth through improved origination infrastructure",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-15",
+    "statement": "On-Boarding of New to Fusion customers restricted to Fusion+1 only (effective April 2026)",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE139R01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

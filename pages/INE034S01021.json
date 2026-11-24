@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 210,
+  "by_category": {
+   "order_book": 88,
+   "guidance": 54,
+   "margin": 24,
+   "capex": 20,
+   "capacity": 24
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 new business development aggregate top-line potential ~Rs 3,100 Cr",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Revised FY27 bookings guidance to INR2,600-2,700 crores (70-75% YoY growth) from earlier INR2,100-2,200 crores (35-40% YoY)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Reiterated EBITDA margin guidance of 22-25% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Long-term growth guidance of ~30% YoY bookings growth",
+    "period": "medium term"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Business development guidance of INR4,000-5,000 crores GDV addition for FY27, confident of achieving upper end",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE034S01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

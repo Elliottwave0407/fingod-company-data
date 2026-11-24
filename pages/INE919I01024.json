@@ -162,5 +162,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 63,
+  "by_category": {
+   "guidance": 19,
+   "margin": 23,
+   "capacity": 6,
+   "order_book": 5,
+   "capex": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Radio industry revenues expected to remain largely flat in the near term and potentially decline to Rs 2,200 crore by 2028 if structural challenges persist.",
+    "period": "2028"
+   },
+   {
+    "day": "2026-05-25",
+    "statement": "Most cost efficiencies already actioned and implemented; continuous effort to use technology for further efficiency gains",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Q2 FY27 started on a softer note; historically weaker quarter",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "No guidance for next 2 years due to market and geopolitical uncertainty",
+    "period": "next 2 years"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Hoping for better festive in H2 FY27; profitability run rate to continue",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE919I01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

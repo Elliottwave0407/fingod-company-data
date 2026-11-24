@@ -169,5 +169,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 37,
+  "by_category": {
+   "capex": 9,
+   "guidance": 13,
+   "capacity": 7,
+   "margin": 6,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-29",
+    "statement": "Decrease in GST rate from 28% to 18% on cement during FY26 provides tailwind for consumption",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-29",
+    "statement": "With increase in input prices, will try to pass on the same to customers",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "FY27 EBITDA per ton expected to face INR100-160/t cost increase, confident of passing it on",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "Central India cement demand expected to grow 7-7.5% in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "Company volume growth to track industry growth in Central India",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE578A01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

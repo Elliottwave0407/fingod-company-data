@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 114,
+  "by_category": {
+   "capex": 25,
+   "guidance": 51,
+   "capacity": 15,
+   "margin": 10,
+   "order_book": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-13",
+    "statement": "Valves manufacturing in India to start by March 2027",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Exports targeted at 25% of sales",
+    "period": "FY31-32"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "H2 FY27 sales volume expected similar to H1 (~2.5 lakh tons); FY28 dispatch target of 7 lakh tons",
+    "period": "H2 FY27, FY28"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Targeting EBITDA margin of 12% in FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "TIS valve business expected to grow at 14-15% CAGR; paints revenue ~Rs 80-100 cr in FY28, ~Rs 250-300 cr in FY29",
+    "period": "FY28, FY29"
+   }
+  ],
+  "ledger": "claims/INE086A01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

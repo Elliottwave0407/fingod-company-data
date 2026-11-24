@@ -113,5 +113,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 88,
+  "by_category": {
+   "guidance": 27,
+   "margin": 20,
+   "order_book": 8,
+   "capacity": 15,
+   "capex": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-21",
+    "statement": "Long-term VAP revenue growth target of 25% and milk procurement growth of 7-8%",
+    "period": "long-term"
+   },
+   {
+    "day": "2026-07-21",
+    "statement": "Target VAP contribution of ~50% of revenue by FY30, up ~10pp from FY26",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-07-21",
+    "statement": "EBITDA margin target is high single digits, above historical median of 7-7.5%",
+    "period": "long-term"
+   },
+   {
+    "day": "2026-10-15",
+    "statement": "FY28E gross margin target 32%, VAP contribution target 27%",
+    "period": "FY28E"
+   },
+   {
+    "day": "2026-10-19",
+    "statement": "Expecting buffalo flush to improve milk availability post Diwali; hoping for cooling effect on procurement prices",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE978A01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -146,5 +146,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 133,
+  "by_category": {
+   "capacity": 17,
+   "capex": 24,
+   "guidance": 68,
+   "margin": 13,
+   "order_book": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-23",
+    "statement": "FY28 consolidated revenue target INR 280 crore and EBITDA INR 35 crore",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "API business FY27 revenue revised to INR 12-15 crore from earlier INR 70-80 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "API subsidiary cash breakeven expected FY28, revenue breakeven FY29",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "API subsidiary cash breakeven revenue level INR 120 crore",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Long-term API target INR 250 crore revenue with 20% EBITDA margin by FY29-30",
+    "period": "FY29-30"
+   }
+  ],
+  "ledger": "claims/INE936B01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

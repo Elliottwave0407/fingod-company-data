@@ -162,5 +162,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 38,
+  "by_category": {
+   "guidance": 9,
+   "capex": 12,
+   "capacity": 12,
+   "margin": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Investment plans for repowering and expansion expected to be completed in fiscal 2026-27 and to generate returns from next fiscal.",
+    "period": "FY2026-27 completion"
+   },
+   {
+    "day": "2026-05-15",
+    "statement": "Solar 17.6 MW expected to generate INR 14.5 cr revenue and INR 12.8 cr EBITDA on full-year basis; wind 9.9 MW expected INR 14 cr revenue and INR 10 cr EBITDA in normal wind year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-29",
+    "statement": "Q2 FY27 expected better than Q1 given improved wind availability; completion of greenfield solar and repowering capex before September plus full-year operation of new 9.9 MW wind and 7 MW solar to support profits for forthcoming quarters an",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-29",
+    "statement": "FY27 revenue and EBITDA expected equal to or better than FY26; conservative due to unpredictable wind; additional capacity to help exceed last year but magnitude depends on monsoon progress",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "FY28 capacity addition plan of ~30 MW, primarily wind repowering with some new wind and a BESS project of 10-15 MWh",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE999K01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

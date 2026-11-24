@@ -141,5 +141,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 45,
+  "by_category": {
+   "guidance": 5,
+   "order_book": 2,
+   "capex": 19,
+   "capacity": 11,
+   "margin": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-25",
+    "statement": "Export sales share expected to rise from 4% to 6% after Brazil SOP in 2025-26",
+    "period": "2025-26"
+   },
+   {
+    "day": "2024-11-27",
+    "statement": "Industry expected to clock 4.5% to 6.5% CAGR between fiscal year 2024 to fiscal year 2029",
+    "period": "FY24-29"
+   },
+   {
+    "day": "2025-06-02",
+    "statement": "Company achieved 7% sales growth in FY25 vs industry 3.7%; EBITDA margin fell to 7.6% from 9.5% due to one-off factors.",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-11-20",
+    "statement": "Expect market conditions and margins to improve in H2; temporary factors (US exports, new product costs, mix) to normalize in next 6 months or 2-3 quarters",
+    "period": "H2 FY26"
+   },
+   {
+    "day": "2025-11-20",
+    "statement": "Target EBITDA margin 9-10% for CVJ business; expect ROCE on incremental capex to be better than single digit (7-8%)",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE643A01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

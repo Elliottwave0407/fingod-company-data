@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 111,
+  "by_category": {
+   "guidance": 57,
+   "capex": 14,
+   "capacity": 10,
+   "order_book": 10,
+   "margin": 20
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-20",
+    "statement": "Manufacturing business targets 3% EBITDA by H2 FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-11-20",
+    "statement": "Marketplace business targets 15-20% revenue growth for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-11-20",
+    "statement": "Manufacturing business targets ~10% revenue growth for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-11-20",
+    "statement": "Marketplace business targets >3.5% EBITDA for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-11-20",
+    "statement": "Non-steel revenue target 20% of total by FY30",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE274V01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

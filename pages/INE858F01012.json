@@ -135,5 +135,37 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 14,
+  "by_category": {
+   "guidance": 4,
+   "capex": 3,
+   "capacity": 1,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-14",
+    "statement": "Targets unlocking substantial cashflow ~INR 1,000+ crore over next 3-5 years from real estate",
+    "period": "next 3-5 years"
+   },
+   {
+    "day": "2026-02-14",
+    "statement": "Received LoIs from Prestige Estates & Lodha Group for orders worth ~INR 280 crore",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-05-19",
+    "statement": "Revenue projection for FY27 is INR 600 crores, FY28 INR 750 crores, FY29 INR 1,000 crores",
+    "period": "FY27-FY29"
+   },
+   {
+    "day": "2026-05-19",
+    "statement": "Targets unlocking substantial cashflow of ~INR 1,000+ crores from real estate over next 3-5 years",
+    "period": "next 3-5 years"
+   }
+  ],
+  "ledger": "claims/INE858F01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

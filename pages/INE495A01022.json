@@ -183,5 +183,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 7,
+  "by_category": {
+   "guidance": 1,
+   "capex": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Soil organic carbon target of 0.5%\u20130.75% and achieving 10x water positivity goal by 2030",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE495A01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

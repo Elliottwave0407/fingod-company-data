@@ -99,5 +99,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 76,
+  "by_category": {
+   "capex": 17,
+   "guidance": 29,
+   "capacity": 14,
+   "order_book": 10,
+   "margin": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-30",
+    "statement": "Molecule 1 in validation; commercial supplies targeted from Q3 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Molecules 2 & 3 validation in Q2 FY27; commercialisation targeted Q4 FY27 to Q1 FY28",
+    "period": "Q4 FY27 to Q1 FY28"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Eight new clean lines commissioning in Q1 FY28 adding ~1,200 MTPA",
+    "period": "Q1 FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY27 revenue guidance INR380-400 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY28 revenue guidance INR650-700 crore",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE0Y8W01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

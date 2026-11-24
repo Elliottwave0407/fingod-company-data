@@ -140,5 +140,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 124,
+  "by_category": {
+   "order_book": 34,
+   "capex": 31,
+   "guidance": 29,
+   "margin": 18,
+   "capacity": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-20",
+    "statement": "Order inflow guidance of INR200-300 crores for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Export revenue target of INR150-200 crores for Q2 FY27",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Govt targets Rs 3 lakh Cr annual defence production and Rs 50,000 Cr defence exports by 2029",
+    "period": "2029"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Q2 FY27 revenue INR1,452 million, up 92% YoY and 42% QoQ",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "H2 FY27 revenue target INR500-600 crores, full year INR500-600 crores",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE863B01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

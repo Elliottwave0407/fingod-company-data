@@ -130,5 +130,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 51,
+  "by_category": {
+   "order_book": 11,
+   "guidance": 23,
+   "margin": 12,
+   "capex": 4,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-05",
+    "statement": "Revenues expected to gradually gain traction over the next few quarters as corporate client conversations take time.",
+    "period": "next few quarters"
+   },
+   {
+    "day": "2026-06-05",
+    "statement": "Not onboarding new start-ups unless exceptional opportunities arise; committed to achieving EBITDA profitability as soon as possible via new in-house products DocuXray and RELY.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Expect enterprise engagements to contribute progressively as they move into production deployment",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Expect RELY customer numbers to improve drastically by December and March as onboarding accelerates after initial pilots",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "Objective to increase corporate revenue, improve commercialization of proprietary products and move towards profitability as platforms scale",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE01P501012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

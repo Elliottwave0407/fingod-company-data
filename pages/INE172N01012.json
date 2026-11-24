@@ -138,5 +138,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 28,
+  "by_category": {
+   "capex": 10,
+   "guidance": 11,
+   "capacity": 3,
+   "order_book": 2,
+   "margin": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-06",
+    "statement": "Indore park seeing encouraging trends, expected to improve and achieve breakeven as operational leverage kicks in coming years",
+    "period": null
+   },
+   {
+    "day": "2026-05-18",
+    "statement": "Investment up to INR 100 Crores in Shanku's Water Park SPV",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-05-18",
+    "statement": "O&M fees of 6 to 10% from Shanku's Water Park investment",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Aspire to operate 12 parks by 2030, adding approximately one park per year",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Plan to add two to three Hello Park indoor centers every year",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE172N01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

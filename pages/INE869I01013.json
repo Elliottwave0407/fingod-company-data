@@ -166,5 +166,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 100,
+  "by_category": {
+   "guidance": 30,
+   "capex": 23,
+   "margin": 20,
+   "order_book": 15,
+   "capacity": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-13",
+    "statement": "India Wired Broadband Market expected to register CAGR of 15.43% from FY23 to FY28",
+    "period": "FY23-FY28"
+   },
+   {
+    "day": "2026-10-13",
+    "statement": "FTTH segment expected to grow at CAGR of 17.62% during forecast period",
+    "period": "FY23-FY28"
+   },
+   {
+    "day": "2026-10-19",
+    "statement": "Expect net digital TV subscriber additions of 1.8-1.9 million for full FY27; target 13-14 million CATV and ~1.2 million broadband subscribers in 3 years with 7-8% annual growth",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-19",
+    "statement": "Operational EBITDA margin target to improve by 150-250 bps by end of FY27 from current 20-21% level",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-19",
+    "statement": "ACT integration milestones: operational integration in Q3-Q4 FY27; full integration and financial benefits by end of FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE869I01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

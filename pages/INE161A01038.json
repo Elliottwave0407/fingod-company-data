@@ -113,5 +113,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 69,
+  "by_category": {
+   "guidance": 22,
+   "margin": 16,
+   "capex": 11,
+   "order_book": 14,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-04",
+    "statement": "Expect breakeven to low single-digit margin in Q4 FY26 with continued investments; double-digit YoY revenue growth guided for Q4 FY26",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-02-04",
+    "statement": "Double-digit YoY revenue growth expected in Q4 FY26",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-05-19",
+    "statement": "Guided double-digit revenue growth YoY in Q1 FY27 with breakeven to low single-digit negative EBITDA margin",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-05-19",
+    "statement": "Expect stronger revenue growth, improving margin and continued order intake momentum for FY27 vs FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Expect double-digit revenue growth YoY in Q2 FY27, near breakeven EBITDA in Q2, positive margins in H2 FY27, and stronger revenue growth, improving margin and continued order intake momentum for FY27 vs FY26",
+    "period": "Q2 FY27, H2 FY27, FY27"
+   }
+  ],
+  "ledger": "claims/INE161A01038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

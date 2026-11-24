@@ -137,5 +137,43 @@
   ],
   "dividend_per_share": 3.0
  },
+ "claims": {
+  "total": 138,
+  "by_category": {
+   "capex": 56,
+   "capacity": 28,
+   "guidance": 29,
+   "margin": 21,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-04",
+    "statement": "Management targets 10-12% top-line growth for FY27 and Rs 600 crore revenue",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Company optimistic about sustaining business momentum and driving volume growth to improve cost absorption and margins in coming quarters",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "FY27 revenue target of INR 600 crores maintained with 10% growth target",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Q3 and Q4 FY27 revenue expected at INR 170-180 crores per quarter to meet FY27 target",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Export revenue expected at minimum INR 75 crores per quarter in H2 FY27",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE389C01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

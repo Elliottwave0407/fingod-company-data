@@ -144,5 +144,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 169,
+  "by_category": {
+   "guidance": 44,
+   "order_book": 46,
+   "capex": 26,
+   "capacity": 30,
+   "margin": 23
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-04",
+    "statement": "EBITDA margin expected to improve quarter-on-quarter in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Long-term EBITDA margin target 20-21%, will provide update in Q3",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Guiding for +35% revenue growth for current financial year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "FY27 revenue growth guidance raised to nearly 35% from previous 30%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Three-year revenue growth guidance of 25-30% per year",
+    "period": "next 3 years"
+   }
+  ],
+  "ledger": "claims/INE155Z01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

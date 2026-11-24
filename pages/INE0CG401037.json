@@ -141,5 +141,37 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 16,
+  "by_category": {
+   "guidance": 4,
+   "order_book": 4,
+   "capacity": 7,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-13",
+    "statement": "Revenue growth outlook targets more than 2x growth from Rs 887 crore in FY25 to Rs 2,500+ crore by FY30",
+    "period": "FY25 to FY30"
+   },
+   {
+    "day": "2026-05-22",
+    "statement": "Revenue target Rs 3,000+ Cr by FY30, more than 2x growth in ~4 years",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Revenue target of \u20b93,000+ crore by FY30, more than 2x growth from FY26",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Target revenue \u20b93,000+ crore by FY30, more than 2x growth in ~4 years",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE0CG401037.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

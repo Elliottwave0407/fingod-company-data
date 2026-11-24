@@ -129,5 +129,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 26,
+  "by_category": {
+   "capex": 5,
+   "capacity": 9,
+   "guidance": 6,
+   "margin": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-19",
+    "statement": "Existing store (same-store) sales growth guided at a conservative 6-7% per year.",
+    "period": "annual"
+   },
+   {
+    "day": "2025-02-19",
+    "statement": "Management reiterated 15% full-year growth guidance and expressed confidence in achieving it driven by wedding days in Q4",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-02-19",
+    "statement": "Management indicated Q4 FY25 revenue growth will be in higher double digits year-on-year",
+    "period": "Q4 FY25"
+   },
+   {
+    "day": "2025-06-09",
+    "statement": "Target to continue FY25 annualized top-line growth of 10.9% in FY26 plus annualized contribution from new stores",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-06-09",
+    "statement": "Target annualized same-store sales growth of 10.5-11% for FY26",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE0KNT01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

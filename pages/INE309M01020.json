@@ -153,5 +153,20 @@
   ],
   "dividend_per_share": 0.15
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Expected to perform well in the current financial year barring unforeseen circumstances",
+    "period": "Current financial year"
+   }
+  ],
+  "ledger": "claims/INE309M01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

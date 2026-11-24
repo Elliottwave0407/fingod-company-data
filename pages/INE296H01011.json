@@ -139,5 +139,41 @@
   ],
   "dividend_per_share": 1.5
  },
+ "claims": {
+  "total": 46,
+  "by_category": {
+   "order_book": 24,
+   "guidance": 15,
+   "capex": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-18",
+    "statement": "PMS and AIF industry projected to surpass INR 100 Tn AUM by 2030",
+    "period": "2030"
+   },
+   {
+    "day": "2026-02-18",
+    "statement": "UHNI/HNI households expected to grow to 300K by FY27E",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-05-18",
+    "statement": "Plan to deepen presence in Tier-2/3 markets and strengthen MFD and National Distributor relationships in 2026-27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-18",
+    "statement": "White-labelling partnerships and advisory mandates to support AUM growth in 2026-27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Focus for H2 FY27 remains on building momentum across existing strategies and expanding distribution reach",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE296H01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

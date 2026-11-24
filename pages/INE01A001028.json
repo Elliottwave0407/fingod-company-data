@@ -134,5 +134,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 105,
+  "by_category": {
+   "guidance": 32,
+   "capex": 20,
+   "capacity": 19,
+   "order_book": 14,
+   "margin": 20
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-28",
+    "statement": "ERP & CRM software on-track to go live in FY27 enabling expedited rollouts, enhancements in conversions and inventory efficiency",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "Subsidiaries and step-subsidiaries will be merged with Stanley Lifestyles Limited to create a single listed entity",
+    "period": null
+   },
+   {
+    "day": "2026-06-01",
+    "statement": "Management expects double-digit growth in FY27 but remains conservative given global uncertainty",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Management targets 15-20% year-on-year same-store sales growth for mature stores once product mix transition completes.",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "Focus on improving customer conversions as residential project handovers progress and increasing contribution from newer stores",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE01A001028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

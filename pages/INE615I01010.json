@@ -140,5 +140,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 157,
+  "by_category": {
+   "capacity": 31,
+   "guidance": 52,
+   "capex": 30,
+   "order_book": 11,
+   "margin": 33
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-25",
+    "statement": "Maintenance capex guidance INR50-60 crore annually, no capacity expansion planned",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Reduction in finance cost due to loan repayment INR ~6 Cr estimated savings for H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Expected interest income from investments INR 2.5 Cr in H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Manufacturing EBITDA target maintained at INR5-7 per litre annually",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "R&O EBITDA margin guidance maintained at 16-18%",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE615I01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

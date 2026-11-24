@@ -140,5 +140,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 127,
+  "by_category": {
+   "order_book": 38,
+   "guidance": 31,
+   "margin": 19,
+   "capex": 23,
+   "capacity": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-03",
+    "statement": "Management expects order inflows to return to a steady-state band of Rs. 800-900 crores per quarter.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "Management expects first commercial order for bio-isobutanol technology in Q1 FY27.",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "Management expects positive impact on GenX order books and break-even in FY27.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "Management expects new ethanol blending mandates (E25/E30) to be notified within one year.",
+    "period": "next year"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Praj GenX targets EBITDA breakeven by end of FY27 driven by data center order execution",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE074A01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

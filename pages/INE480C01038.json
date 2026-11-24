@@ -184,5 +184,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 107,
+  "by_category": {
+   "capacity": 36,
+   "capex": 33,
+   "margin": 11,
+   "guidance": 22,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-05",
+    "statement": "FY27 EBITDA margin guidance of close to 10%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-05",
+    "statement": "FY28 guidance deferred due to dynamic macroeconomic situation and inflationary pressures",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Focus on converting recovery into sustained volumes, MP normalization key catalyst",
+    "period": "FY2026\u201327"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Management confident about underlying business with improving conditions in key states and expanded manufacturing footprint",
+    "period": "FY2026\u201327"
+   },
+   {
+    "day": "2026-11-23",
+    "statement": "FY27 guidance: turnover ~INR1,000 crores with EBITDA margin nearly 10%",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE480C01038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

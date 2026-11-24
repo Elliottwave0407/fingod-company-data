@@ -142,5 +142,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 96,
+  "by_category": {
+   "capex": 23,
+   "guidance": 24,
+   "order_book": 7,
+   "capacity": 24,
+   "margin": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-04",
+    "statement": "Strontium commercialised in FY26, better capacity utilisation expected in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-04",
+    "statement": "New range of high value speciality chemicals and derivatives for pharma, agro, electronics",
+    "period": null
+   },
+   {
+    "day": "2026-08-05",
+    "statement": "Targeting 20% consolidated EBITDA margin long-term; no quarterly or FY27 guidance given",
+    "period": "long-term"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Targets 18-19% consolidated EBITDA margin for FY28, with potential to reach 20% if all initiatives execute well",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Expects chrome ore backward integration benefits from Q4 FY27",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE270I01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

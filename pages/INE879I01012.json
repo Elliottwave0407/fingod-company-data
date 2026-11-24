@@ -139,5 +139,30 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 3,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-21",
+    "statement": "FY26E annuity gross revenue INR 407 Cr",
+    "period": "FY26E"
+   },
+   {
+    "day": "2025-08-21",
+    "statement": "FY26E EBITDA Advent share INR 191 Cr p.a.",
+    "period": "FY26E"
+   },
+   {
+    "day": "2025-08-21",
+    "statement": "FY32E stabilised annuity EBITDA INR ~660 Cr",
+    "period": "FY32E"
+   }
+  ],
+  "ledger": "claims/INE879I01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

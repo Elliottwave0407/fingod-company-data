@@ -136,5 +136,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 134,
+  "by_category": {
+   "guidance": 33,
+   "capex": 24,
+   "capacity": 26,
+   "margin": 40,
+   "order_book": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-18",
+    "statement": "Aspiration for FY27E EBITDA > \u20b9200 Cr",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Aspiration for 4-5 years: \u20b9400 Cr EBITDA and ~\u20b92,000 Cr revenue",
+    "period": "4-5 years"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Vision: 10x Revenue & EBITDA in 10 years",
+    "period": "10 years"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "Aspires to reach INR 2,000 crores revenue and INR 400 crores EBITDA in next 4-5 years including JV",
+    "period": "next 4 to 5 years"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "Long-term aspiration to scale 10x in sales and EBITDA over 10 years versus last financial year",
+    "period": "10 years"
+   }
+  ],
+  "ledger": "claims/INE560A01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

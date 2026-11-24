@@ -156,5 +156,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 148,
+  "by_category": {
+   "capex": 31,
+   "guidance": 43,
+   "capacity": 26,
+   "margin": 29,
+   "order_book": 19
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-21",
+    "statement": "Revenue growth guidance of mid-single to slightly higher LFL for FY27 with healthy profitability expansion",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-21",
+    "statement": "Departmental store opening guidance raised to 12 stores for FY27 from earlier 9-10",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-21",
+    "statement": "Departmental store opening guidance of 10-12 stores per year for next 2-3 years",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-10-21",
+    "statement": "Personal Shopper contribution target of 30% of revenue by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-21",
+    "statement": "INTUNE expansion plans to be shared in Q3 earnings call",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE498B01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

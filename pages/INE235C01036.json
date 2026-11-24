@@ -153,5 +153,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 60,
+  "by_category": {
+   "guidance": 15,
+   "capex": 23,
+   "capacity": 13,
+   "margin": 7,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-24",
+    "statement": "Targets FY27 revenue of INR 1,300 crore and 5-6% EBITDA margin",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "Expects to recover EBITDA margin to 5-6% in next two quarters of FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "Nakoda PET chips plant expected operational by Q2 FY28 adding INR 1,200 crore annual revenue and INR 70 crore EBITDA",
+    "period": "Q2 FY28"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "12 MW solar plant commissioning by December 2026 to save INR 23-25 crore power cost annually from FY27-28",
+    "period": "FY27-28"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "Value-added yarn expansion expected to add INR 300 crore annual revenue and improve margins",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE235C01036.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

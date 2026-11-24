@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 104,
+  "by_category": {
+   "guidance": 35,
+   "capex": 21,
+   "capacity": 25,
+   "margin": 20,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-06",
+    "statement": "FY27 volume guidance of approximately 7 million tonnes",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY27 full-year EBITDA revised to \u20b9350-375 crore (\u20b9525-550 per ton)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY28 volume target of 8-8.25 million tonnes",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY28 EBITDA target of ~\u20b9500 crore at \u20b9650 per ton on 8-8.25 million tonnes",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Net debt to halve from ~\u20b91,600 crore to ~\u20b9700 crore over next two years",
+    "period": "next two years"
+   }
+  ],
+  "ledger": "claims/INE229C01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

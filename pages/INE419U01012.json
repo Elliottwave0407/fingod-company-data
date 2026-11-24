@@ -134,5 +134,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 87,
+  "by_category": {
+   "guidance": 26,
+   "margin": 22,
+   "order_book": 17,
+   "capacity": 13,
+   "capex": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-09-07",
+    "statement": "Combined entity targets USD 1 billion revenue by FY28 with operating margins around 18.3%",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-09-07",
+    "statement": "Combined entity projected at 18.1% EBITDA margin for FY26 pro-forma basis",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-09-07",
+    "statement": "Expect 100 bps margin expansion post-merger through scale efficiencies",
+    "period": "post-merger"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Combined entity targets US$1B revenue by FY28 post-merger with ITC Infotech",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Aspiration to achieve US $1 billion annual revenue by FY28 after ITC Infotech combination",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE419U01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

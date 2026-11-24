@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 106,
+  "by_category": {
+   "guidance": 54,
+   "capex": 13,
+   "margin": 18,
+   "capacity": 9,
+   "order_book": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-04",
+    "statement": "Curriculum change cycle expected to continue for next 2 financial years with higher grades changing",
+    "period": "FY26-FY28"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Exports expected to see U-shaped recovery if supply chain and geopolitical challenges ease",
+    "period": "near term"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Management expects minimum 15% growth in publication revenue next year driven by higher-grade curriculum changes",
+    "period": "next year"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Management guides for around INR250 crores export stationery revenue and INR200 crores domestic stationery revenue for remaining part of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Management expects full-year stationery EBIT margin around 2% lower than last year",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE060A01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

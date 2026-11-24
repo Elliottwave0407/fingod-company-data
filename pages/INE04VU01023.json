@@ -132,5 +132,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 55,
+  "by_category": {
+   "capex": 14,
+   "guidance": 13,
+   "order_book": 10,
+   "margin": 11,
+   "capacity": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-31",
+    "statement": "IoT business expected to grow ~45% YoY in FY27 and 35-40% in FY28",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-31",
+    "statement": "Payment solutions expected to grow 10-12% CAGR",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-31",
+    "statement": "Communication and fulfillment expected to remain flat",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Management expects IoT revenue to grow ~45% YoY in FY27 over FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Management expects H2 FY27 to be better than H1 FY27",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE04VU01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

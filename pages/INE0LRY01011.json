@@ -152,5 +152,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 37,
+  "by_category": {
+   "capacity": 4,
+   "margin": 2,
+   "order_book": 12,
+   "guidance": 11,
+   "capex": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-14",
+    "statement": "Built full execution readiness for swift KAVACH order book deployment upon final clearance",
+    "period": "Q3FY26"
+   },
+   {
+    "day": "2026-05-29",
+    "statement": "RDSO approval received to commence passenger trials for KAVACH 4.0 with dedicated rail route and train allocated",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-05-29",
+    "statement": "Company well positioned for swift deployment post successful trials and final RDSO certification",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "RDSO approval received to commence passenger trials for KAVACH 4.0, final regulatory milestone before commercial deployment",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Full execution readiness established for swift deployment of Kavach order book post approval",
+    "period": "Q1 FY27"
+   }
+  ],
+  "ledger": "claims/INE0LRY01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

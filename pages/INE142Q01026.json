@@ -136,5 +136,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 118,
+  "by_category": {
+   "guidance": 34,
+   "margin": 21,
+   "capacity": 27,
+   "capex": 34,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Fourth hotel, 35-key property alongside The Haven, expected to open in Q4 FY28; will expand room capacity by 20% to 185 Keys",
+    "period": "Q4 FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Launching soon wine-based RTDs in Q3 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expect gross margin to moderate progressively from Q4 FY27 as procurement mix normalizes with harvest 2027",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Target EBITDA margin of 22-23% over next couple of years",
+    "period": "next couple of years"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expect WIPS grant of INR 49-50 crores for full year FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE142Q01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

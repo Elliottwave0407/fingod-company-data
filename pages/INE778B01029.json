@@ -180,5 +180,43 @@
   ],
   "dividend_per_share": 0.25
  },
+ "claims": {
+  "total": 185,
+  "by_category": {
+   "capacity": 30,
+   "guidance": 75,
+   "capex": 38,
+   "margin": 27,
+   "order_book": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-12",
+    "statement": "Target sustainable 15% EBITDA margin for polyester films at 50-60% VAS share",
+    "period": "next two to three years"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Specialty Polymers targeting ~25% CAGR over next 3-5 years with FY27 as base",
+    "period": "next three to five years"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Elite JV commercial operations targeted last quarter of calendar year 2028",
+    "period": "Q4 CY2028"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Elite JV capital outlay INR 1,200-1,400 crore for 45,000 MTPA recycled polyester chips with 40-45% EBITDA margin",
+    "period": "project life"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Net debt/EBITDA target 2-2.25x",
+    "period": "future"
+   }
+  ],
+  "ledger": "claims/INE778B01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

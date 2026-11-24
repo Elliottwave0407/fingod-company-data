@@ -144,5 +144,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 72,
+  "by_category": {
+   "guidance": 33,
+   "margin": 14,
+   "order_book": 5,
+   "capex": 14,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-28",
+    "statement": "Target EBITDA positive for FY27 and bottom-line positive for FY28",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Digital revenue expected to grow double-digit; traditional revenue expected to be flat",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Aspire to achieve upwards of 20% EBITDA margin in 2-3 years on reported basis",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Festive season expected to boost advertising demand but geopolitical uncertainties and input costs may dampen ad spends",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Continuation of BARC ratings blackout likely to further weigh on television industry revenues",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE363M01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -186,5 +186,40 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 9,
+  "by_category": {
+   "guidance": 5,
+   "capex": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Transformer business expansion to be completed before end of this year",
+    "period": "End of current year"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Focus on strengthening market share in 400kV transformer segment",
+    "period": "Near future"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Target larger sized projects and 400kV projects in Projects business",
+    "period": "Next phase of growth"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Increase market share in metals, printing and packaging verticals for Drives and Automation",
+    "period": "Future"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Expect increase in volume in domestic gearless machines market for Magnet Technology Machines",
+    "period": "Near future"
+   }
+  ],
+  "ledger": "claims/INE464A01036.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

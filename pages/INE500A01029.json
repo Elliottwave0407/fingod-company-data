@@ -156,5 +156,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 143,
+  "by_category": {
+   "capex": 42,
+   "guidance": 35,
+   "capacity": 27,
+   "margin": 31,
+   "order_book": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-20",
+    "statement": "Steady-state EBITDA target revised to around INR300 crores from earlier INR400 crores",
+    "period": "steady state"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Next growth phase led by Specialty Chemicals with planned capex to double C-PVC capacity and increase SIOP throughput",
+    "period": null
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expects H2 FY27 to be significantly stronger than H1",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Targets full-year finance costs 9-10% lower than FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Confident of double-digit EBITDA margin in H2 FY27",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE500A01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

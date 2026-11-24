@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 170,
+  "by_category": {
+   "guidance": 35,
+   "order_book": 37,
+   "capex": 38,
+   "capacity": 45,
+   "margin": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-06",
+    "statement": "Expect execution momentum to improve in H2 FY27 supported by strong order book and expanded capacities",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Growth driven by core PEB business, Heavy Steel Structures and exports",
+    "period": "future"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "FY27 revenue guidance of INR2,150-2,200 crores reaffirmed",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "EBITDA margin target 10-12% in next 12 months, 14-15% long-term",
+    "period": "next 12 months"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "FY27 EBITDA margin not expected to exceed 9-9.5%",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE00M901018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

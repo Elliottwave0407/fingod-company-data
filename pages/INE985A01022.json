@@ -140,5 +140,36 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 18,
+  "by_category": {
+   "capex": 11,
+   "guidance": 4,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-22",
+    "statement": "Present Room Inventory of 581 keys targeted to increase to around 700 rooms by FY 26-27",
+    "period": "FY 26-27"
+   },
+   {
+    "day": "2025-08-08",
+    "statement": "Expanding footprints in the state of Rajasthan",
+    "period": "future"
+   },
+   {
+    "day": "2026-02-02",
+    "statement": "Investment portfolio restructured, expected to give better returns in ensuing quarters",
+    "period": "ensuing quarters"
+   },
+   {
+    "day": "2026-02-02",
+    "statement": "Working for the fourth quarter expected to be strong",
+    "period": "Q4 FY26"
+   }
+  ],
+  "ledger": "claims/INE985A01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

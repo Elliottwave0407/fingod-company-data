@@ -145,5 +145,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 124,
+  "by_category": {
+   "guidance": 35,
+   "order_book": 22,
+   "capex": 26,
+   "margin": 16,
+   "capacity": 25
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "Internal target to reach 30% EBITDA margin in 2-3 years on higher revenue base",
+    "period": "2-3 years"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "No formal guidance given; expect quarter-on-quarter growth driven by strong tailwinds",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "KHIL 3.0 targets 31 properties 3000+ keys avg room rate INR 8000+ by FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Targets 3,000+ keys and ARR ~Rs 8,000 by FY30 under KHIL 3.0 vision",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Expects to cross Rs 130-135 cr EBITDA in FY27 and cumulative Rs 750 cr over next five years",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE967C01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

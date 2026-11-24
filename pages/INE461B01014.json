@@ -152,5 +152,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 29,
+  "by_category": {
+   "guidance": 16,
+   "capex": 7,
+   "order_book": 4,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-13",
+    "statement": "Consolidated Q4 FY26 revenue expected to grow in double digits with similar EBITDA margins",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-05-29",
+    "statement": "Digital biz projected to continue growth run-rate in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-29",
+    "statement": "Targeting debt free and free cash flow positive for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-29",
+    "statement": "Q1 FY27 expected same revenue as Q4 FY26 (~Rs 141 cr), ~20% YoY growth",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Capex guidance for FY27 is Rs 10-15 cr",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE461B01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

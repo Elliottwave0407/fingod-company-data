@@ -124,5 +124,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 102,
+  "by_category": {
+   "guidance": 44,
+   "capex": 17,
+   "capacity": 17,
+   "margin": 21,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "Marketing spend guided at 8% to 10% of revenue for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Plan to spend ~8-10% of revenues on brand-building for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Prioritizing productivity over pure store count in network reshaping",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Management guides 8-10% revenue growth for FY27 and 8-10% of revenue for marketing spend",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Management expects 4-5% like-for-like growth for full year FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE220Q01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

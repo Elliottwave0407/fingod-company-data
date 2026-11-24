@@ -157,5 +157,26 @@
   ],
   "dividend_per_share": 30
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "capex": 2,
+   "capacity": 1,
+   "guidance": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-22",
+    "statement": "WIL to acquire absolute ownership of \"Wendt\" brand and trademarks worldwide for \u2264EUR3.8m (~INR34crs) subject to shareholder approval",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-02-22",
+    "statement": "WIL to enter/continue contracts with Wendt GmbH up to INR60crs aggregate for FY25 and FY26",
+    "period": "FY25-26"
+   }
+  ],
+  "ledger": "claims/INE274C01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

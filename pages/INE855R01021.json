@@ -152,5 +152,43 @@
   ],
   "dividend_per_share": 2.5
  },
+ "claims": {
+  "total": 104,
+  "by_category": {
+   "guidance": 37,
+   "capex": 12,
+   "capacity": 8,
+   "order_book": 23,
+   "margin": 24
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-12",
+    "statement": "RVL expects to breakeven in Q4FY27",
+    "period": "Q4FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Acemoney turned near EBITDA break-even on healthy revenue growth",
+    "period": "Q2FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Management expects healthy profitability improvement in remaining FY27 quarters from price hikes, cost reduction, and subsidiary turnarounds",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Price hike impact visible from Q4 FY27, steady impact in FY28",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Aspiration for mid-teens revenue growth in core business",
+    "period": "next 2-3 years"
+   }
+  ],
+  "ledger": "claims/INE855R01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

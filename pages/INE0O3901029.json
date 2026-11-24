@@ -162,5 +162,28 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 25,
+  "by_category": {
+   "capex": 15,
+   "order_book": 4,
+   "guidance": 2,
+   "capacity": 2,
+   "margin": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-11-05",
+    "statement": "FY25 revenue guided at approximately Rs. 65 crores",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-11-05",
+    "statement": "Margins expected to continue at current levels as rental asset operational expenses are limited",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE0O3901029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

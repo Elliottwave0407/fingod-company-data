@@ -124,5 +124,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 51,
+  "by_category": {
+   "guidance": 13,
+   "capex": 10,
+   "capacity": 11,
+   "margin": 12,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-04-14",
+    "statement": "Expect revenue increase of around Rs. 500 crore in FY27 taking total to Rs. 2,900-3,000 crore based on 165,000 tons capacity increase at Rs. 60,000 per ton",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-04-14",
+    "statement": "Expect 35-40% revenue growth in FY27 including import and manufacturing",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-04-14",
+    "statement": "Expect to import around 150,000 metric tons translating to approximately Rs. 1,000 crore revenue in FY27; manufacturing growth around 25%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-18",
+    "statement": "Management expects 30-35% revenue growth over last year for FY27 and quarterly revenue run-rate above \u20b9500 crore in remaining three quarters",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-18",
+    "statement": "Quarterly turnover expected to exceed \u20b9500 crore over remaining three quarters of FY27 supported by improved capacity utilization",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE506W01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -177,5 +177,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 164,
+  "by_category": {
+   "capacity": 42,
+   "guidance": 59,
+   "capex": 44,
+   "margin": 14,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-27",
+    "statement": "Forging line 1 revenue potential ~Rs 300 crore per line",
+    "period": "steady-state"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Forging EBITDA margin guided 15-20%",
+    "period": "steady-state"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Blended EBITDA per tonne target Rs 9,000-12,000 within 2 years",
+    "period": "within 2 years"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "EBITDA per ton guidance maintained at INR9,000-12,000 for foreseeable future",
+    "period": "foreseeable future"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Full-year sales volume target revised to ~260,000 tons",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE050M01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

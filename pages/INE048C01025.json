@@ -142,5 +142,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 87,
+  "by_category": {
+   "capex": 31,
+   "guidance": 20,
+   "capacity": 25,
+   "margin": 8,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "Courtyard ADR target late 6,800 to 8,500 over next two financial years, possibly 9,000-9,500 by FY28",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Phase 2 renovation at Marriott to complete by December (Q3 FY27)",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Greenfield Courtyard at Madhapur approvals expected this year, construction start Q4 FY27, operational FY29-30",
+    "period": "FY29-30"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Revenue uplift from convention centre expected from Q4 FY27",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "EBITDA margin target above 30% near term and towards 40% long term once renovated portfolio complete",
+    "period": "near term / long term"
+   }
+  ],
+  "ledger": "claims/INE048C01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

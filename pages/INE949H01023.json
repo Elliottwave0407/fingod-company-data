@@ -157,5 +157,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 81,
+  "by_category": {
+   "order_book": 17,
+   "capex": 21,
+   "guidance": 33,
+   "margin": 5,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-18",
+    "statement": "Vision 2030 aims to double GDV portfolio to over INR35,000 crores",
+    "period": "2030"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "FY27 launch pipeline GDV Rs 6,600+ crore across ~11.0 lakh sq ft carpet area",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Combined sales target over FY27 and FY28 is Rs 5,000+ crore",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-08-26",
+    "statement": "Maintains FY27 guidance of over 25% PAT growth over FY26 and targets cumulative pre-sales of \u20b95,000 crore over next two years.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Combined sales target over next two years FY27 & FY28 \u20b95,000+ crore",
+    "period": "FY27 & FY28"
+   }
+  ],
+  "ledger": "claims/INE949H01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

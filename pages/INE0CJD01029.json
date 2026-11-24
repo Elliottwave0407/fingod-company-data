@@ -197,5 +197,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 46,
+  "by_category": {
+   "guidance": 16,
+   "capex": 16,
+   "order_book": 12,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Crossing the US$1 billion market-capitalisation milestone is near term ambition",
+    "period": "Near term"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Indian dredging market expected to grow at CAGR of 8.4% from CY24 to CY29 reaching USD 982 million by CY29",
+    "period": "CY29"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Global dredging market expected to grow at CAGR of 3.5% from CY24 to CY29 reaching USD 27.4 billion by CY29",
+    "period": "CY29"
+   },
+   {
+    "day": "2026-06-01",
+    "statement": "Early adoption of Tonnage Tax regime with 90%+ reduction in tax rates",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-06-01",
+    "statement": "No corporate tax applicable on income from dredging and chartering services under Tonnage Tax",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE0CJD01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

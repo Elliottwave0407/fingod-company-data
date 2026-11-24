@@ -153,5 +153,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 121,
+  "by_category": {
+   "guidance": 34,
+   "capex": 26,
+   "capacity": 36,
+   "margin": 22,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-22",
+    "statement": "ABS expansion on track for second half of FY27; no change to earlier timeline",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-08-05",
+    "statement": "First phase of ABS capacity augmentation expected to be commissioned during current financial year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Thailand operations target progressive improvement in capacity utilization to reach targeted levels over next two years",
+    "period": "next two years"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "First phase of ABS capacity augmentation in India on track for commissioning during current financial year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "No forward-looking volume guidance provided; management expects normalized annualized performance based on Q2 FY27 run-rate",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE189B01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

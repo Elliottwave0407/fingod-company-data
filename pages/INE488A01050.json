@@ -138,5 +138,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 175,
+  "by_category": {
+   "capex": 37,
+   "order_book": 16,
+   "guidance": 60,
+   "capacity": 32,
+   "margin": 30
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-04",
+    "statement": "Additional R-32 production capacity expected by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "CMCD civil and infrastructure work for next multi-purpose block targeted for completion by Q3 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Targeting $200/ton spread for suspension PVC to reach PBT positive",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "CMCD revenue target of INR1,100 crores for FY2028 maintained",
+    "period": "FY2028"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "R32 refrigerant gas expansion to be operational by end of FY2027",
+    "period": "end of FY 2027"
+   }
+  ],
+  "ledger": "claims/INE488A01050.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

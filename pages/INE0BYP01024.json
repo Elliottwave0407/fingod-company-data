@@ -141,5 +141,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 94,
+  "by_category": {
+   "guidance": 18,
+   "capex": 31,
+   "capacity": 13,
+   "order_book": 18,
+   "margin": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "Medium-term growth target of 30-40% beyond FY27",
+    "period": "beyond FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "FY27 operating EBITDA margin guidance of 15-17% and PAT margin of 11-13%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Q2 FY27 revenue growth expected at 10-15% YoY; confident on 20-25% full year growth",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Revenue expected to grow 15-20% YoY in FY27 from ~INR2,000 cr base; EBITDA margin not to fall below Q2 level",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Long-term revenue vision INR4,000-4,500 cr by 2030 remains intact; FY27 challenging but FY28 expected to be strong with PM-KUSUM 2.0, PM Surya Ghar, non-govt growth, and cell plant",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE0BYP01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

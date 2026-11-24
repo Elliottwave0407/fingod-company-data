@@ -145,5 +145,43 @@
   ],
   "dividend_per_share": 0.3
  },
+ "claims": {
+  "total": 127,
+  "by_category": {
+   "capex": 35,
+   "guidance": 52,
+   "capacity": 14,
+   "margin": 20,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Target >1.5% reduction in energy consumption in the next year",
+    "period": "next year"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "The Company anticipates a progressive improvement in EBITDA margins and return on capital employed (ROCE), supported by stabilization of market conditions and benefits accruing from capacity expansion, process improvements, digital transformation, cost optimization, and pricing discipline.",
+    "period": "medium term"
+   },
+   {
+    "day": "2026-05-29",
+    "statement": "Management declines to give absolute revenue targets for FY27/FY28 due to fluid chemical backdrop; will provide better line of sight once things settle",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-29",
+    "statement": "Operating environment remains volatile; focus on customer engagement, procurement efficiency, execution discipline",
+    "period": null
+   },
+   {
+    "day": "2026-07-29",
+    "statement": "Commissioning of Dahej Phase II, Project Vaayu on track, strong new product pipeline in Specialties",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE576O01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

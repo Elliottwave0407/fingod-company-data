@@ -162,5 +162,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 227,
+  "by_category": {
+   "order_book": 29,
+   "capex": 46,
+   "capacity": 58,
+   "guidance": 70,
+   "margin": 24
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-25",
+    "statement": "PCMB business targeting annual revenue contribution of 8-10% in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-25",
+    "statement": "South Africa Phase 1 breakeven expected by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-25",
+    "statement": "Saudi Arabia plant construction expected to begin in H2FY27 subject to geopolitical normalization",
+    "period": "H2FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "FY27 revenue target around INR700 crores, EBITDA INR126 crores, PAT INR70 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "PCMB business to contribute 8% to 10% of FY27 revenue",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE015C01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

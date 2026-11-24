@@ -167,5 +167,29 @@
   ],
   "dividend_per_share": 0.3
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Three city redevelopment projects over next 24-30 months will yield turnover of over Rs.492 crores",
+    "period": "24-30 months"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Town & Country Harmonia Pavilion apartments construction expected to be completed by November or December 2026",
+    "period": "Nov-Dec 2026"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Balance flats in Harmonia to be marketed by March 2027",
+    "period": "March 2027"
+   }
+  ],
+  "ledger": "claims/INE572G01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

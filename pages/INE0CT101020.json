@@ -159,5 +159,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 145,
+  "by_category": {
+   "capex": 36,
+   "capacity": 31,
+   "guidance": 41,
+   "margin": 27,
+   "order_book": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-19",
+    "statement": "FY27 dividend planned with Board approval",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Nano fertilizer segment expects couple of INR100 crores revenue over next 2-3 years",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Consolidated EBITDA margin expected 12-13% for FY27 (Crop Protection 15-17%, Pigment ~10%, other segments drag)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Capex program targets blended EBITDA margin ~14-15%",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "Agrochemical segment to grow double digits top-line for next 2-3 years; target EBITDA margin 15-17%. Pigment segment revenue INR600-650 crore; target EBITDA margin 10-11%. Crop Nutrition to grow double digits with 20-22% EBITDA margin over",
+    "period": "next 2-3 years"
+   }
+  ],
+  "ledger": "claims/INE0CT101020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

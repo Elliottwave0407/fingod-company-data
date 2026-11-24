@@ -160,5 +160,33 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 19,
+  "by_category": {
+   "order_book": 2,
+   "guidance": 3,
+   "capex": 8,
+   "capacity": 4,
+   "margin": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-12",
+    "statement": "FY26 revenue guidance Rs 1,400-1,500 crore and EBITDA Rs 170-180 crore",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "Q4 FY26 rebar sales volume ~50,000 tons; FY27 volumes targeted to double from next quarter",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "EBITDA per ton guidance for coming quarters in same INR 7,000 range with slight improvement from higher volumes",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE503B01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

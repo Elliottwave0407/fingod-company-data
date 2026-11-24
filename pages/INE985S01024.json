@@ -146,5 +146,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 132,
+  "by_category": {
+   "guidance": 41,
+   "margin": 37,
+   "order_book": 32,
+   "capex": 13,
+   "capacity": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-20",
+    "statement": "EBITDA grew 8% QoQ and 14% full-year, with margins expanding 15 bps over Q3FY26 and 10 bps over FY25",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-22",
+    "statement": "Targeting over 20% year-on-year EBITDA growth for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Specialized staffing EBITDA margin target 8-9% stable state in 4-5 quarters",
+    "period": "next 4-5 quarters"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "EdTech EBITDA margin potential 8-10% for full year FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "RegTech EBITDA margin expected ~8% for full year FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE985S01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

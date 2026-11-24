@@ -138,5 +138,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 107,
+  "by_category": {
+   "capex": 24,
+   "guidance": 23,
+   "capacity": 26,
+   "margin": 9,
+   "order_book": 25
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Government approved Samudra Manthan scheme with Rs 84,084 crore outlay through FY2030-31",
+    "period": "FY2030-31"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Management targets 15-20% revenue CAGR over next 3-5 years",
+    "period": "next 3 to 5 years"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Annual EBITDA margin guidance maintained at 40-42%",
+    "period": "FY27 and FY28"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Government approved Samudra Manthan Rs 84,084 crore through FY2030-31",
+    "period": "FY2030-31"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Medium-term guidance of ~15% revenue CAGR and ~18-20% PAT CAGR over next 4-5 years; stable-state EBITDA margin ~40% for next 3-4 years",
+    "period": "next 4-5 years"
+   }
+  ],
+  "ledger": "claims/INE497B01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

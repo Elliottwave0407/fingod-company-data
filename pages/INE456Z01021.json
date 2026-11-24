@@ -150,5 +150,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 113,
+  "by_category": {
+   "guidance": 29,
+   "order_book": 28,
+   "margin": 33,
+   "capex": 14,
+   "capacity": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "Aim to return to 22-23% EBITDA margin by end of FY27 after Paramount integration",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-01",
+    "statement": "Focus on margin expansion and portfolio expansion for H2FY27 with platform going live in 3 SEA countries",
+    "period": "H2FY27"
+   },
+   {
+    "day": "2026-11-01",
+    "statement": "Group retention expected to normalize within 3-4 quarters as churn tail end runs for 2-3 quarters",
+    "period": "H2FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Capital allocation framework targets returning ~50% of cumulative adjusted free cash flow to shareholders over rolling 5-year periods via dividends and buybacks",
+    "period": "FY27 onward"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "No specific revenue guidance provided; aims to grow at par or faster than market from premium share perspective",
+    "period": "forward"
+   }
+  ],
+  "ledger": "claims/INE456Z01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

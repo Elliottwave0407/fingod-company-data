@@ -126,5 +126,31 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 13,
+  "by_category": {
+   "order_book": 6,
+   "capex": 4,
+   "guidance": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-09-04",
+    "statement": "FY27 execution base \u20b92,105 Cr, FY28 \u20b92,200 Cr, FY29 \u20b92,422 Cr (incl. GST)",
+    "period": "FY27-FY29"
+   },
+   {
+    "day": "2026-09-04",
+    "statement": "New Kavach order intake expected \u20b93,000 Cr over FY27-FY29 (incl. GST)",
+    "period": "FY27-FY29"
+   },
+   {
+    "day": "2026-09-04",
+    "statement": "AMC revenue projected \u20b95 Cr FY27, \u20b950 Cr FY28, \u20b9185 Cr FY29",
+    "period": "FY27-FY29"
+   }
+  ],
+  "ledger": "claims/INE202H01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

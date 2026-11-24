@@ -152,5 +152,41 @@
   ],
   "dividend_per_share": 0.05
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "guidance": 5,
+   "capex": 2,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-28",
+    "statement": "Kharif 2025 P&K subsidy INR 37,216 Cr approved",
+    "period": "Kharif 2025"
+   },
+   {
+    "day": "2025-08-28",
+    "statement": "Phosphorus nutrient subsidy INR 43.6/kg (+41.56% vs Rabi 2025)",
+    "period": "Kharif 2025"
+   },
+   {
+    "day": "2025-10-31",
+    "statement": "Government approved INR 37,952 crore NBS subsidy for P&K fertilizers Rabi 2025-26",
+    "period": "Rabi 2025-26"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Focus this year is to bring down the inventory levels and reduce carrying costing.",
+    "period": "Current financial year"
+   },
+   {
+    "day": "2026-04-24",
+    "statement": "Government approved INR 41,533.81 Cr P&K subsidy for Rabi 2025-26, SSP freight subsidy continued",
+    "period": "Rabi 2025-26"
+   }
+  ],
+  "ledger": "claims/INE745B01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

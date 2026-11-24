@@ -118,5 +118,21 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 7,
+  "by_category": {
+   "capex": 3,
+   "capacity": 3,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-11-26",
+    "statement": "Anticipate recovery in volumes from Q4 onwards as elections conclude and freight rates normalise",
+    "period": "Q4 FY25"
+   }
+  ],
+  "ledger": "claims/INE210C01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

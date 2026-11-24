@@ -146,5 +146,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 113,
+  "by_category": {
+   "guidance": 22,
+   "order_book": 35,
+   "capex": 26,
+   "capacity": 14,
+   "margin": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-29",
+    "statement": "FY27 revenue growth target of 15-20%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-29",
+    "statement": "FY27 growth split: 7-8% from new business, 8-10% from existing customers",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Liquid logistics \u20b924 Cr+ annual revenue starting FY26-27",
+    "period": "FY26-27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Industrial logistics \u20b912 Cr to \u20b9100 Cr+ in steel, cement, coal",
+    "period": "FY30E"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "Warehousing & CFA 2 lakh+ sq ft added ~\u20b912 Cr revenue",
+    "period": "FY30E"
+   }
+  ],
+  "ledger": "claims/INE680Z01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

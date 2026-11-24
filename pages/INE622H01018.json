@@ -159,5 +159,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 84,
+  "by_category": {
+   "capex": 22,
+   "capacity": 22,
+   "guidance": 30,
+   "order_book": 6,
+   "margin": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "Tractor division: improving demand expected to support volume-led growth; significant scope for capacity utilisation improvement",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "New Pick & Carry Crane Project commercial production expected in current FY",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Tower Crane commercial production commencing in Current FY",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "FY27 overall revenue growth guided at 20-25%, tractor revenue 25-30%, crane revenue 15-20% from existing plant, standalone EBITDA margin 12.5-13%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Tractor industry expected to grow at 6-7% CAGR, construction equipment at 5-7% CAGR",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE622H01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -146,5 +146,25 @@
   ],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 2,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-28",
+    "statement": "Company expects turnover and profitability increasing trends to continue",
+    "period": "FY2024"
+   },
+   {
+    "day": "2024-11-05",
+    "statement": "Company expects turnover and profit both to increase around 20% by end of this financial year",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE655B01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

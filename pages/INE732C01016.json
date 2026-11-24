@@ -151,5 +151,22 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 15,
+  "by_category": {
+   "capex": 9,
+   "capacity": 4,
+   "guidance": 1,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-13",
+    "statement": "130 MW solar-wind hybrid project targeted for commissioning by FY28",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE732C01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

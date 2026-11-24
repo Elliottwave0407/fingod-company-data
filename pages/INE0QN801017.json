@@ -155,5 +155,43 @@
   ],
   "dividend_per_share": 1.5
  },
+ "claims": {
+  "total": 47,
+  "by_category": {
+   "guidance": 12,
+   "margin": 6,
+   "order_book": 17,
+   "capex": 6,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-15",
+    "statement": "No specific growth guidance given; aims to maintain historical growth zone of 8-10% sector growth outperformance; margin trajectory expected upward over 2 years",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-12",
+    "statement": "Targets upwards of 20% consolidated revenue growth for FY27 with margin appreciation led by corporate segment and higher-margin verticals",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Citelum India acquisition targets Rs 300-350 crore annual revenue in 3-4 years with ~Rs 100 crore investment",
+    "period": null
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Targets annual revenue of Rs 300-350 crore from Citelum city lighting vertical over next 3-4 years with planned investment of ~Rs 100 crore",
+    "period": "next 3-4 years"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Aspires to maintain EBITDA margin between 6.25% and 7.5% over medium to long term",
+    "period": "medium to long-term"
+   }
+  ],
+  "ledger": "claims/INE0QN801017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

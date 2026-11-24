@@ -113,5 +113,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 154,
+  "by_category": {
+   "guidance": 65,
+   "order_book": 35,
+   "margin": 23,
+   "capex": 21,
+   "capacity": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-03",
+    "statement": "ROA target maintained at 2.75-3%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Gross NPA expected to stabilize at 2.5-2.75%, net NPA below 2%",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Cost of borrowing expected to increase 20-25 bps in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Exit cost of funds expected at 9.4-9.5% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Long-term AUM target of INR 1 lakh crore by 2036 reaffirmed",
+    "period": "2036"
+   }
+  ],
+  "ledger": "claims/INE348L01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

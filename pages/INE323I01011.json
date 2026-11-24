@@ -136,5 +136,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 159,
+  "by_category": {
+   "capex": 32,
+   "capacity": 27,
+   "guidance": 41,
+   "order_book": 45,
+   "margin": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "Estimated surplus from commercial projects \u20b92,220 Cr",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "FY27 presales guidance reiterated at INR11,200 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "FY27 debt reduction guidance maintained at INR700 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "EBITDA margin guidance maintained at 25-30% range for overall portfolio",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 sales guidance maintained at INR11,200 crores including Zentech transaction",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE323I01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

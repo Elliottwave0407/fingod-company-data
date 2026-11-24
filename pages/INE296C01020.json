@@ -149,5 +149,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 28,
+  "by_category": {
+   "capex": 12,
+   "capacity": 11,
+   "guidance": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-10",
+    "statement": "Expansion into Spunlace Fabrics with biodegradable materials backed by \u20b9200 Cr fundraise",
+    "period": "not stated"
+   },
+   {
+    "day": "2025-05-30",
+    "statement": "Global nonwovens market expected to reach US$70.7 billion by 2034 at 4.6% CAGR",
+    "period": "2024-2034"
+   },
+   {
+    "day": "2025-05-30",
+    "statement": "India non-woven geotextiles market projected to grow to USD 460.73 million by 2030 at 6.4% CAGR",
+    "period": "2019-2030"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "Global Nonwovens Market expected CAGR 4.6% during 2024-2034",
+    "period": "2024-2034"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "India Non-Woven Geotextiles Market CAGR 6.4% through 2034",
+    "period": "through 2034"
+   }
+  ],
+  "ledger": "claims/INE296C01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

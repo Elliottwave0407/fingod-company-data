@@ -144,5 +144,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Class 8 truck market is expected to recover by 8-10% in FY2026\u201327",
+    "period": "FY2026\u201327"
+   }
+  ],
+  "ledger": "claims/INE0Q3R01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

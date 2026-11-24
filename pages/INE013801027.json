@@ -154,5 +154,30 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 4,
+  "by_category": {
+   "guidance": 3,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Introduce several new products and standardize product portfolio to stay ahead in the highly competitive Stationery domain",
+    "period": "Coming year"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Improve indigenization initiative through local sourcing and selective backward integration",
+    "period": "Coming year"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Enhance workforce productivity through Fit for Growth program",
+    "period": "Immediate to medium term"
+   }
+  ],
+  "ledger": "claims/INE013801027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

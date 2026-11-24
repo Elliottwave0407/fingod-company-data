@@ -137,5 +137,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 146,
+  "by_category": {
+   "capacity": 24,
+   "guidance": 68,
+   "margin": 18,
+   "capex": 29,
+   "order_book": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-30",
+    "statement": "Expect to reclaim pole position on gross margin % during seasonally strong Q3 & Q4",
+    "period": "Q3 FY27, Q4 FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Committed to brand building with disciplined annual A&P spend across ATL & BTL",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Expect gross margins to improve substantially from Q3 onwards and reclaim leading position in seasonally strong Q3 and Q4",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "EBITDA margins should normalize over Q3 and Q4 with inventory calibrated to market conditions and gross margin recovery",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Target to grow 1.5x-2x industry growth; if industry grows 15% in Q3, aim for 23-25%; if industry 5%, aim for 10-12%",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE09VQ01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

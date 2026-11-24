@@ -162,5 +162,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 105,
+  "by_category": {
+   "order_book": 32,
+   "guidance": 28,
+   "margin": 16,
+   "capex": 18,
+   "capacity": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-10",
+    "statement": "Enterprise AI SOM target $350M+ by FY30 (5-15% share of priority BFSI)",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "Aurionpro 2030 aspirations: 85% ARR mix, >20% ROIC, >110% net revenue retention, Rule 50+",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-08-03",
+    "statement": "Q2 will see pickup in data center revenue; much more significant acceleration in Q3 and Q4.",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Management expects enterprise EBITDA margin to stay in the 17%-18% band for FY27 and FY28, with no meaningful expansion due to revenue mix shift toward lower-margin data center business.",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Management declines to provide revenue growth guidance, stating a player of their size should not give guidance at this stage.",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE132H01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -132,5 +132,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 73,
+  "by_category": {
+   "guidance": 30,
+   "capex": 18,
+   "order_book": 6,
+   "margin": 14,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-30",
+    "statement": "Management expects to maintain or improve margins and grow at a similar trajectory over the next 2-3 years, but declines to give specific FY27 margin or revenue guidance.",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "Focus on core dental portfolio, deeper market penetration, AI-led automation, and improving operational efficiencies for sustainable performance",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Revenue growth aspiration 15-20% and EBITDA margin target 18-20%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Target domestic lab digital penetration of 90%+",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "IPO proceeds of INR48.1 crores to be deployed across FY27 and FY28: above INR27 crores for land and construction, above INR21 crores for machinery and equipment",
+    "period": "FY27-FY28"
+   }
+  ],
+  "ledger": "claims/INE0WO601020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

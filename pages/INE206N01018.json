@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 32,
+  "by_category": {
+   "guidance": 18,
+   "capacity": 5,
+   "capex": 5,
+   "order_book": 3,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-09",
+    "statement": "EIM target to turn profitable in next financial year (FY28)",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "EIM full-scale production from January 2027 at run rate of 200 vehicles/month",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "EIM breakeven expected at annual run rate of 2,000 vehicles",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Post-merger combined network equity expected ~INR 900 crores",
+    "period": "post-merger"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Plan to monetize existing solar assets (operating and under construction) to fund EIM network growth without external capital",
+    "period": "FY27-FY28"
+   }
+  ],
+  "ledger": "claims/INE206N01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

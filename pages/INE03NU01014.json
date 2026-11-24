@@ -117,5 +117,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 63,
+  "by_category": {
+   "capex": 24,
+   "guidance": 19,
+   "margin": 7,
+   "order_book": 4,
+   "capacity": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "Expects mid-teens revenue growth for FY27 despite Q1 impact from West Asia crisis",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-26",
+    "statement": "On track to launch Courtyard by Marriott Chennai World Trade Centre in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-26",
+    "statement": "Target to double portfolio to ~3,300 keys by FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Management expects RevPAR growth in mid-teens range for H2 FY27 and maintains mid-teens revenue and EBITDA growth guidance for FY27",
+    "period": "H2 FY27, FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Capex guidance for FY27 revised to INR400-450 crores from earlier INR450 crores; FY28 capex allocated at INR700 crores",
+    "period": "FY27, FY28"
+   }
+  ],
+  "ledger": "claims/INE03NU01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

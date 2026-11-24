@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 101,
+  "by_category": {
+   "order_book": 23,
+   "guidance": 32,
+   "capex": 17,
+   "margin": 13,
+   "capacity": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-04",
+    "statement": "Forthcoming residential portfolio 14.6 mn sq ft with revenue potential INR 100 Bn",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Expects 20% revenue growth for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Targets EBITDA margin upwards of 25% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Expects average cost of debt to drop to 12.5% by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Annuity income from hotel and Club 10 Gymkhana to start from FY30",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE643K01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

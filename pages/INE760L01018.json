@@ -165,5 +165,36 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 16,
+  "by_category": {
+   "guidance": 4,
+   "capex": 10,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-29",
+    "statement": "Plans for further expansion through the franchisee model to continue in FY25",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-11-13",
+    "statement": "Plan to leverage localized campaigns and personalized offers to drive festive season sales in Q3",
+    "period": "Q3"
+   },
+   {
+    "day": "2025-05-26",
+    "statement": "Market expected to reach $119.80 billion by 2027 at 8.34% CAGR (2021-27)",
+    "period": "2027E"
+   },
+   {
+    "day": "2025-08-07",
+    "statement": "Market expected to reach $119.80 billion by 2027 with CAGR of 8.34% (2021-27)",
+    "period": "2021-27"
+   }
+  ],
+  "ledger": "claims/INE760L01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

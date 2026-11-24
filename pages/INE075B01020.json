@@ -158,5 +158,31 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 12,
+  "by_category": {
+   "guidance": 3,
+   "capex": 5,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Received Letter of Acceptance from South Eastern Coalfields Limited",
+    "period": "Porda Chimtapani, Chhattisgarh project"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "SECL Porda-Chimtapani project expected to contribute from Q2 FY27",
+    "period": "Q2FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "SECL Kanchan OCM project COD expected to start from Q2FY27",
+    "period": "Q2FY27"
+   }
+  ],
+  "ledger": "claims/INE075B01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

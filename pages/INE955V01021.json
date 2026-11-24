@@ -127,5 +127,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 133,
+  "by_category": {
+   "capex": 14,
+   "guidance": 77,
+   "margin": 18,
+   "capacity": 11,
+   "order_book": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-02",
+    "statement": "Gross opening of ~150 stores, largely FOFO, higher net sq ft addition vs FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Higher free cash flow via net working capital efficiency and asset-light approach",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Further improvement in ROCE",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Confident of delivering guided growth and EBITDA objectives for FY27; targeting mid double-digit growth in H2 with 30-40 bps EBITDA margin expansion",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Expect 12-15% net square feet addition and gross opening of about 150 stores in FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE955V01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

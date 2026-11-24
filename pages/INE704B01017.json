@@ -124,5 +124,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 121,
+  "by_category": {
+   "guidance": 23,
+   "capex": 28,
+   "capacity": 19,
+   "order_book": 34,
+   "margin": 17
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-03",
+    "statement": "FY26 revenue growth maintained at 18-20%; 9M at Rs 365 crore implies FY26 ~Rs 485-500 crore",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-06-17",
+    "statement": "FY27 revenue guidance maintained at 565 crores plus/minus 5%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-09-01",
+    "statement": "Capex for FY27 disclosed at 77.4 crores, with ~40 crores for heat treatment replacement and 30-35% for additional capacity",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-09-01",
+    "statement": "Revenue guidance for FY27 is around Rs 570 crore (16-17% growth) with a +/-5% range; management expects 15-20% annual growth going forward.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-09-01",
+    "statement": "Management does not revise guidance mid-year; expects to perform well within the guided range.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE704B01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

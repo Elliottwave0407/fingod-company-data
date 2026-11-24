@@ -156,5 +156,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 67,
+  "by_category": {
+   "guidance": 20,
+   "margin": 15,
+   "order_book": 16,
+   "capacity": 7,
+   "capex": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-29",
+    "statement": "T&D roadmap: Phase 1 (Oct 2026\u2013Mar 2027) Alldigi 360 SMB scaling; Phase 2 (FY28) enterprise launch in Philippines, Middle East; Phase 3 (FY29\u2013FY30) global HR/payroll platform",
+    "period": "FY27-FY30"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Management expects early double-digit growth for Tech & Digital segment over next 3 years",
+    "period": "next 3 years"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "BPM segment margins expected to continue improving as domestic business is reduced",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Employee cost to revenue ratio expected to continue dropping",
+    "period": "forward"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Lease payments expected to remain in same range as FY26 (INR35 crores) for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE835G01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

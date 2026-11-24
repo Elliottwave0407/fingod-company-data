@@ -124,5 +124,43 @@
   ],
   "dividend_per_share": 4
  },
+ "claims": {
+  "total": 136,
+  "by_category": {
+   "capacity": 22,
+   "capex": 38,
+   "guidance": 37,
+   "margin": 15,
+   "order_book": 24
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "Bharat Seats revenue target of INR3,500 crore by 2030",
+    "period": "2030"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "FY2030 aspirations: Revenue Rs 3,000 crore, ROCE ~35%+, margins gradually improving",
+    "period": "FY2030"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Targets INR3,000 crore revenue by FY30, with INR2,000 crore organic and INR800-1,000 crore from DYA JV",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Expects INR800-1,000 crore revenue from DYA JV executed in FY31",
+    "period": "FY31"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Targets sustainable EBITDA margin of 11-11.5%",
+    "period": "next year"
+   }
+  ],
+  "ledger": "claims/INE07OG01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

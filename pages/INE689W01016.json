@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": 1.0
  },
+ "claims": {
+  "total": 124,
+  "by_category": {
+   "capex": 27,
+   "guidance": 47,
+   "capacity": 27,
+   "margin": 18,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "Reaffirmed full-year volume growth guidance of 12%-15% and EBITDA margin guidance of 11%-13%.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Focus on improving RoCE and RoE ratios by monitoring volume and price growth",
+    "period": null
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Reducing costs to ensure comfortable EBITDA margins",
+    "period": null
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Full-year volume growth target is double-digit; EBITDA margin guidance maintained at 11-13% band",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Bathware (Aquel) to approach breakeven in Q3 FY27 and definitely break even in Q4 FY27 at INR24-25 crore quarterly revenue",
+    "period": "Q3 FY27, Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE689W01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -170,5 +170,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "capex": 2,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-20",
+    "statement": "Proposed strategic demerger: BSE/NSE no adverse observations March 18 2026, ratio 1:1, NCLT filing in progress",
+    "period": "2026"
+   }
+  ],
+  "ledger": "claims/INE337M01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

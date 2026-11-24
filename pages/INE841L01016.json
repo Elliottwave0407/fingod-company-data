@@ -151,5 +151,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 157,
+  "by_category": {
+   "order_book": 37,
+   "capex": 34,
+   "capacity": 32,
+   "margin": 23,
+   "guidance": 31
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-15",
+    "statement": "FY27 revenue guidance of \u20b91,500 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "Vision 2030 targets \u20b92,500 crore revenue with 20% operating EBITDA margin by FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "FY27 revenue guidance of Rs 1,500 crores reiterated with confidence",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "FY27 EBITDA margin guidance of around 19% reiterated",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-20",
+    "statement": "FY28 revenue target of Rs 1,800 crores maintained",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE841L01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

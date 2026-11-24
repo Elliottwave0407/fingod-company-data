@@ -133,5 +133,43 @@
   ],
   "dividend_per_share": 2.0
  },
+ "claims": {
+  "total": 63,
+  "by_category": {
+   "margin": 11,
+   "guidance": 18,
+   "capex": 6,
+   "capacity": 15,
+   "order_book": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-06",
+    "statement": "Beryl expected to turn profitable from FY28; Q2 loss narrowed to $25K from $70-75K, targeting breakeven in Q3.",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Poles/towers utility services growth visibility for 5-10 years driven by data center power infrastructure; current 70-75 engineers vs 120+ demand.",
+    "period": "next 5-10 years"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Revenue growth 20-25% CAGR FY26-FY28",
+    "period": "FY26-FY28"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "EBITDA margin target 20%+ for FY27-FY28",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "PAT margin target 15-16% for FY27-FY28",
+    "period": "FY27-FY28"
+   }
+  ],
+  "ledger": "claims/INE835B01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

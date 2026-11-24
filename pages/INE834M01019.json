@@ -158,5 +158,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 15,
+  "by_category": {
+   "guidance": 12,
+   "capex": 2,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-12",
+    "statement": "Budget 2026-27 supports EV sector with capital goods duty exemptions on lithium-ion cell manufacturing & EV minerals. Continued support to PM-E-Drive Scheme",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Government's vision of making India a global drone manufacturing hub by 2030",
+    "period": "2030"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "NeoSky expanded drone training to Maharashtra, Madhya Pradesh, Gujarat & West Bengal; more states between Q3 & Q4 FY27",
+    "period": "Q3 & Q4 FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Delhi EV Policy 2026 bans new petrol/CNG two-wheeler registrations from April 1, 2028",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Delhi EV Policy 2026 offers up to \u20b940,000 purchase subsidy for electric two-wheelers",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE834M01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

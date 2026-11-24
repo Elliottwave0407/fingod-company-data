@@ -123,5 +123,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 22,
+  "by_category": {
+   "capex": 5,
+   "guidance": 5,
+   "capacity": 6,
+   "order_book": 2,
+   "margin": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-28",
+    "statement": "Boric acid market estimated to grow at CAGR 7%-8% from FY26 to FY30P, incremental demand 40,000-53,000 MT",
+    "period": "FY26-FY30"
+   },
+   {
+    "day": "2026-06-05",
+    "statement": "Revenue growth guidance of 20-35% for FY27, targeting Rs 250+ crore revenue; EBITDA margins to be maintained or improved from current 20-21%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-06-05",
+    "statement": "Q1 FY27 earnings expected to meet or exceed Q4 FY26 levels",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-09-08",
+    "statement": "FY27 revenue guidance Rs 250-260 crore with 20% EBITDA margin",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-09-08",
+    "statement": "EBITDA expected to grow 11-12% in absolute terms in FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE803D01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

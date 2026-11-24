@@ -134,5 +134,43 @@
   "key_risks": [],
   "dividend_per_share": 4.5
  },
+ "claims": {
+  "total": 191,
+  "by_category": {
+   "guidance": 37,
+   "order_book": 61,
+   "capex": 39,
+   "capacity": 31,
+   "margin": 23
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "FY27 launch pipeline of around INR3,000 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "FY27 debt equity ratio guidance of 1x",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Interest cost expected to normalize from next quarter as weighted average cost of debt comes down",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "FY27E sales guidance INR 2,200 Cr, project additions INR 1,800 Cr, target debt/equity 1.00x",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Management confident of surpassing INR2,200 crore presales target for FY27 in H2 driven by 8 project launches",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE298G01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

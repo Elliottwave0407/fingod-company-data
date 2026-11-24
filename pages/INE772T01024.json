@@ -150,5 +150,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 137,
+  "by_category": {
+   "guidance": 51,
+   "capex": 31,
+   "margin": 26,
+   "order_book": 15,
+   "capacity": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-19",
+    "statement": "Blended EBITDA margin expected to reach around 4% for FY27, below earlier 5% target due to CV mix shift",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Acquired businesses R.K.S. and Olympus expected to turn PAT positive by end of Q3 and Q4 FY27 respectively",
+    "period": "Q3-Q4 FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Company remains on track to achieve FY27 revenue growth guidance of 20-25% over FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "FY27 revenue growth guidance of 20% to 25% over FY26 reaffirmed; expect to end FY27 financially profitable",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "EBITDA margin expected around 4.2% for FY27 and 4.5%-4.6% for FY28",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE772T01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

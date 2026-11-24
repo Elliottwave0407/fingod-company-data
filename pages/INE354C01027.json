@@ -180,5 +180,23 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 18,
+  "by_category": {
+   "guidance": 1,
+   "capex": 8,
+   "capacity": 3,
+   "order_book": 3,
+   "margin": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-10-30",
+    "statement": "Full-year chemical segment revenue guided between Rs 725-775 crore",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE354C01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

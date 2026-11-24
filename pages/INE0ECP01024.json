@@ -151,5 +151,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 69,
+  "by_category": {
+   "guidance": 12,
+   "capacity": 25,
+   "margin": 21,
+   "capex": 9,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-18",
+    "statement": "Expects demand to sustain based on marketing team data",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-02-14",
+    "statement": "Too early to quantify revenue contribution from Jabalpur plant for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-26",
+    "statement": "Management remains confident about long-term growth prospects driven by strong global demand for quality protein, established international customer relationships, integrated manufacturing and export capabilities, diversified product portfo",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-06-02",
+    "statement": "Management targets INR 10,000 crore revenue in FY27 and is working to achieve it before the deadline",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Focus on sustaining growth momentum, improving operational efficiency, strengthening market presence, optimizing profitability, and maintaining disciplined financial management",
+    "period": "forward"
+   }
+  ],
+  "ledger": "claims/INE0ECP01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

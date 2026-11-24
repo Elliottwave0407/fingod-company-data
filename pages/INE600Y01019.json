@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 77,
+  "by_category": {
+   "guidance": 13,
+   "order_book": 15,
+   "capex": 16,
+   "capacity": 21,
+   "margin": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-18",
+    "statement": "Long-term growth guidance of 18-20% value growth maintained",
+    "period": "medium to long term"
+   },
+   {
+    "day": "2026-07-23",
+    "statement": "Long-term growth target of 18%-20% annually, no formal yearly guidance given",
+    "period": "long-term"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Finance cost guided to remain below 15% of EBITDA",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Operating margin guided at 10%-11% EBITDA percentage",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Long-term revenue growth guidance of around 20% CAGR maintained",
+    "period": "long-term"
+   }
+  ],
+  "ledger": "claims/INE600Y01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -137,5 +137,26 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 10,
+  "by_category": {
+   "capex": 4,
+   "guidance": 2,
+   "capacity": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-04-25",
+    "statement": "Capacity expansion from 75,000 MTPA to 100,000 MTPA, with commissioning targeted by September, 2026",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-04-25",
+    "statement": "Optimal utilisation of expanded capacity expected by end of FY28",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE922A01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 106,
+  "by_category": {
+   "guidance": 36,
+   "order_book": 17,
+   "margin": 17,
+   "capex": 21,
+   "capacity": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-12",
+    "statement": "EBITDA margin expected to remain comfortably above 20% for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Q2 FY27 expected to be in line with Q1 FY27 performance",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Second half FY27 expected to be better than first half due to ag recovery",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "FY27 revenue expected to be 24% higher than FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Q3 FY27 revenue seasonally in line with Q1 FY27",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE244O01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

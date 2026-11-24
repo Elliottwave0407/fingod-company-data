@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 65,
+  "by_category": {
+   "guidance": 19,
+   "capex": 15,
+   "capacity": 15,
+   "margin": 15,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-12",
+    "statement": "Growth outlook for roofing sector in FY26 remains positive subject to geo-political situation",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-19",
+    "statement": "Management expects roughly 8% to 10% top-line growth in FY26 and margins better than FY25.",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-02-16",
+    "statement": "Growth outlook for remainder of FY26 remains positive subject to geo-political situation",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-05-12",
+    "statement": "Going forward, evolving geo-political developments, logistics costs, and forex volatility may impact export markets and imported raw material costs",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Growth outlook for roofing sector in FY27 positive, subject to geo-political and forex risks",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE280H01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

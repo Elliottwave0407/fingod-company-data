@@ -164,5 +164,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 16,
+  "by_category": {
+   "guidance": 8,
+   "capex": 3,
+   "order_book": 2,
+   "margin": 2,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "India's Ministry of Civil Aviation targets 10 million tonnes of air cargo annually by 2030, more than 2.7x current volumes",
+    "period": "2030"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "India's e-commerce logistics market valued at USD 19.54 Bn in 2025, projected at USD 103.83 Bn by 2034 (CAGR 20.39%)",
+    "period": "2025-2034"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "Perishable export revenue grew 54% YoY in H1 FY27 while tonnage came down, revenue per tonne roughly doubled",
+    "period": "H1 FY27"
+   },
+   {
+    "day": "2026-10-29",
+    "statement": "General cargo exports grew 55% YoY on stable volumes in H1 FY27",
+    "period": "H1 FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Planning to close FY27 at \u20b9580-600 Cr top line and double PAT margin",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE982V01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

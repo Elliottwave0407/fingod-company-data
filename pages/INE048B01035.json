@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 86,
+  "by_category": {
+   "guidance": 37,
+   "margin": 17,
+   "order_book": 12,
+   "capex": 13,
+   "capacity": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-28",
+    "statement": "On track to achieve Mission 2028 of \u20b95,000 Mn annual revenue",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Aequitas targeting ~\u20b910 Cr EBITDA by 2028",
+    "period": "2028"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Expect quarterly revenues to cross INR100 crores in Q3 FY27 and target INR500 crores by FY28 organically without further acquisitions",
+    "period": "Q3 FY27, FY28"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Committed to over 22% consolidated EBITDA margin for the collective business at INR500 crores scale",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Q3 FY27 consolidated EBITDA margin will be very close to 22% if not more",
+    "period": "Q3 FY27"
+   }
+  ],
+  "ledger": "claims/INE048B01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

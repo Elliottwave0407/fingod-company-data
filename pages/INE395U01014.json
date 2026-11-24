@@ -141,5 +141,23 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 1,
+   "margin": 1,
+   "order_book": 1,
+   "capex": 1,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-05",
+    "statement": "Management aims to consistently deliver growth and performance, with multi-year contracts for next year higher than current revenue.",
+    "period": "next year"
+   }
+  ],
+  "ledger": "claims/INE395U01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

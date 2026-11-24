@@ -175,5 +175,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 93,
+  "by_category": {
+   "capex": 22,
+   "capacity": 19,
+   "guidance": 19,
+   "margin": 25,
+   "order_book": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-13",
+    "statement": "Scope 3 full inventory in FY27, \u226515% reduction target by FY31",
+    "period": "FY27-FY31"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Directionally better EBITDA traction expected in coming quarters but hard to predict exact margin",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Home textiles revenue target INR250 crores for FY27; gross block ~INR110 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Home textiles to see better growth in coming quarters; capital allocation directed toward higher-value businesses",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Technical textiles on track for FY28 commercial contribution; customers ready but equipment delivery by end Q4 FY27",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE645H01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

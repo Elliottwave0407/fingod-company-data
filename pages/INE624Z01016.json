@@ -143,5 +143,43 @@
   ],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 99,
+  "by_category": {
+   "guidance": 37,
+   "margin": 30,
+   "capex": 14,
+   "order_book": 7,
+   "capacity": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-23",
+    "statement": "Ibuprofen breakeven in Q2 FY27, but profitability uncertain in Q3 due to macroeconomic factors",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "Ibuprofen business breakeven in Q2 FY27, but profitability uncertain in Q3 FY27 due to macroeconomic factors",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "Ibuprofen business may not sustain breakeven profitability in Q3 FY27 due to macroeconomic conditions",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "Base business gross margin expected to sustain at ~52-55% after adjusting for raw material cost pass-through",
+    "period": "medium to long term"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "EBITDA margin expansion possible through volume/territory expansion, not low-hanging fruit",
+    "period": "next few quarters/months"
+   }
+  ],
+  "ledger": "claims/INE624Z01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

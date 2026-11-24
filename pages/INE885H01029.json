@@ -143,5 +143,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 126,
+  "by_category": {
+   "capex": 40,
+   "guidance": 29,
+   "margin": 28,
+   "capacity": 23,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-30",
+    "statement": "Textile sector expected to breach $100bn by end of FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Government allocated Rs 5,279.01 crore to Ministry of Textiles in Union Budget 2026-27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expects H1 FY27 EBITDA margins to sustain in H2 FY27, close to 19.8%",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Projects FY28 revenue around INR4,000 crores with EBITDA margin at least 15%, likely higher",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expects yarn spreads of INR130-145 per kg for next 3-4 months",
+    "period": "next 3-4 months"
+   }
+  ],
+  "ledger": "claims/INE885H01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

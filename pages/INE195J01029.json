@@ -164,5 +164,43 @@
   ],
   "dividend_per_share": 0.6
  },
+ "claims": {
+  "total": 153,
+  "by_category": {
+   "order_book": 56,
+   "capex": 27,
+   "capacity": 13,
+   "guidance": 43,
+   "margin": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-29",
+    "statement": "Present capex enables turnover of Rs 8,000-10,000 cr",
+    "period": null
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Revenue guidance of INR 6,000 crore for FY27 and INR 7,500 crore for FY28 maintained",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Order inflow guidance of INR 12,000-15,000 crore for FY27 maintained",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Coal mining revenue revised to INR 350-400 crore for FY27 and INR 500 crore for FY28",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "EBITDA margin guidance of 12% for FY27 on core revenue of INR 5,800 crore (excluding arbitration claim)",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE195J01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

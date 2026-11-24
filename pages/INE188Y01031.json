@@ -118,5 +118,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 37,
+  "by_category": {
+   "guidance": 11,
+   "margin": 12,
+   "capex": 6,
+   "capacity": 3,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-30",
+    "statement": "Management declined to provide forward-looking numbers but highlighted ARPU, new business, and new clients as key metrics for MadTech and CloudTech growth.",
+    "period": "next 1-3 years"
+   },
+   {
+    "day": "2025-08-12",
+    "statement": "Management does not comment on forward-looking statements including potential M&A but commits to timely disclosure of material developments.",
+    "period": "future"
+   },
+   {
+    "day": "2025-11-20",
+    "statement": "Building AI-led modules for attribution, fraud minimization and campaign quality scoring to further improve margins and scalability",
+    "period": "next quarter"
+   },
+   {
+    "day": "2025-11-20",
+    "statement": "Goals focused on expanding deeper into global markets, strengthening platforms with more AI-native capabilities and assessing strategic acquisition opportunities",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-02-16",
+    "statement": "Management does not give forward guidance but expects sustainable growth aligned with last two quarters and focus on margin stability",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE188Y01031.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

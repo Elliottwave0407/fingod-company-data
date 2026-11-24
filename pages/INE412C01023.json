@@ -148,5 +148,25 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 2,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company is in the process of adding more products / lines in product mix and is focusing to open new outlets/ sales units in potential tier-II & tier-III cities / towns across the country to cater to the areas which have remained uncovered so far.",
+    "period": "Not specified"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "The Company will continue to invest in technology to help increase efficiency.",
+    "period": "Ongoing"
+   }
+  ],
+  "ledger": "claims/INE412C01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -143,5 +143,31 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 10,
+  "by_category": {
+   "capex": 4,
+   "guidance": 3,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-11",
+    "statement": "Planning to release 3 electric vehicle models by Q1 FY25",
+    "period": "Q1 FY25"
+   },
+   {
+    "day": "2024-08-16",
+    "statement": "Company gearing up to release 3 electric vehicle models by Q2 FY25",
+    "period": "Q2-FY25"
+   },
+   {
+    "day": "2024-11-15",
+    "statement": "Plan to release 3 electric vehicle models by Q2 FY25",
+    "period": "Q2 FY25"
+   }
+  ],
+  "ledger": "claims/INE247D01039.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

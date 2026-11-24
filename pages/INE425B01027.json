@@ -144,5 +144,40 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "guidance": 7,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-30",
+    "statement": "Strategic roadmap: AdTech growth in EMEA & privacy-first advertising stack; Defence AI collaboration with Defence PSUs & global OEMs; sustain double-digit top-line growth with margin improvements; transparent reporting & disclosures",
+    "period": null
+   },
+   {
+    "day": "2025-08-30",
+    "statement": "Vision: become one of India's top Defence AI players with global relevance and recognized global AdTech leader",
+    "period": null
+   },
+   {
+    "day": "2025-12-07",
+    "statement": "FY26 trending strong to meet or beat FY23 record revenues",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-08-26",
+    "statement": "FY27 priorities: strengthen AdTech, build Defence, develop NextGen, grow Services, improve cash generation",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-26",
+    "statement": "Financial outlook: revenue growth, competitive advantage, profit growth, cash generation",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE425B01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

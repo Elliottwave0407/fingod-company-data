@@ -137,5 +137,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 134,
+  "by_category": {
+   "guidance": 66,
+   "order_book": 27,
+   "capex": 20,
+   "margin": 13,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-10",
+    "statement": "BSNL declared 16,000 sites rollout by March 2027 (4,000 Mumbai, 6,000 Delhi, 6,000 rest of India); Suyog not counting BSNL towers until billing starts",
+    "period": "by March 2027"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Quarterly revenue target INR 100 crore by September 2027 (next September); currently at INR 75 crore quarterly, expecting ~INR 15 crore quarterly additions",
+    "period": "by September 2027"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Vodafone final quarterly guidance awaited; tentative numbers received, firm confirmation expected in few days",
+    "period": "next few days"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Expect BSNL pending 300 sites billing to start in Q3-Q4 FY27; target to complete all pending BSNL sites this financial year",
+    "period": "Q3-Q4 FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Revenue per tower to remain ~INR 30,000-31,000/month; marginal increase only",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE442P01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

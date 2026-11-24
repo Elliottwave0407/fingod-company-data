@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 12,
+  "by_category": {
+   "guidance": 5,
+   "margin": 2,
+   "capex": 3,
+   "capacity": 1,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-28",
+    "statement": "Target to scale international revenue to 15% to 20% of turnover over the next three years",
+    "period": "next three years"
+   },
+   {
+    "day": "2025-11-29",
+    "statement": "Revenue will increase in FY26; second half revenue will be high and more than expected",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-11-29",
+    "statement": "EBITDA margin will remain intact for FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-02-20",
+    "statement": "Planned CAPEX for capacity expansion, automation & infrastructure",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-02-20",
+    "statement": "Export diversification to Southeast Asia, Middle East, Africa",
+    "period": "not stated"
+   }
+  ],
+  "ledger": "claims/INE117Z01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

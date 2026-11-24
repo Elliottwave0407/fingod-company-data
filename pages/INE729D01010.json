@@ -140,5 +140,33 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "guidance": 3,
+   "capex": 3,
+   "capacity": 3,
+   "order_book": 1,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-14",
+    "statement": "Revenue target of INR500 crores expected by 2027 with EBITDA margins of 22%-24%",
+    "period": "2027"
+   },
+   {
+    "day": "2024-06-14",
+    "statement": "FY25 revenue growth targeted at 25%-30% year-on-year with export mix 60%-65% and domestic 30%-40%",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-06-14",
+    "statement": "EBITDA margin outlook for FY25 maintained or improved at 18%-22%",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE729D01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

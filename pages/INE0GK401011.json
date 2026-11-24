@@ -147,5 +147,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 137,
+  "by_category": {
+   "capacity": 28,
+   "capex": 26,
+   "guidance": 42,
+   "order_book": 26,
+   "margin": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-21",
+    "statement": "FY27 revenue growth guided at 25-30%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-21",
+    "statement": "FY27 EBITDA margin guidance maintained at 20-22%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-21",
+    "statement": "Electrolyte Salts FY27 revenue guidance INR40-60 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-19",
+    "statement": "Expects solvent price and freight cost increases to normalise within Q3FY27",
+    "period": "Q3FY27"
+   },
+   {
+    "day": "2026-10-19",
+    "statement": "Foresees revenue trend growth with similar momentum over next quarters and EBITDA margin to resume healthy trajectory",
+    "period": "next quarters"
+   }
+  ],
+  "ledger": "claims/INE0GK401011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

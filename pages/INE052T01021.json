@@ -153,5 +153,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 77,
+  "by_category": {
+   "guidance": 25,
+   "capex": 14,
+   "margin": 23,
+   "order_book": 7,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-01",
+    "statement": "Management declined to give specific numerical guidance for FY27 but expects a better year after a difficult phase",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Management expects patented portfolio to be 60-70% of branded sales for the current year and future years.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Management targets 10-15% annual revenue CAGR over the next 3-4 years.",
+    "period": "next 3-4 years"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Management considers 13-14% EBITDA margin sustainable under normal circumstances.",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Management says revenue target unchanged from last year but cannot say it will be a very big number above last year; EBITDA and profitability will increase in H2 as in H1",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE052T01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

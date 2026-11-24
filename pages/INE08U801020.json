@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 240,
+  "by_category": {
+   "guidance": 94,
+   "capacity": 39,
+   "order_book": 27,
+   "margin": 28,
+   "capex": 52
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-12",
+    "statement": "W Hyderabad expected to add ~10% to FY27 income base at above-portfolio margins on stabilized basis",
+    "period": "stabilized"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "RARE India expected to generate INR 15-20 crores top line in FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Navi Mumbai project capex guided at INR 900-1,000 crores, construction start early FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Sriperumbudur Marriott capex ~INR 160 crores, yield on cost 15-17%",
+    "period": "project"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Net debt to remain in INR 1,450-1,500 crores range with quarterly +/- INR 100 cr fluctuation",
+    "period": "ongoing"
+   }
+  ],
+  "ledger": "claims/INE08U801020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

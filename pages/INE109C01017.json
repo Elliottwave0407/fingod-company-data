@@ -137,5 +137,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 117,
+  "by_category": {
+   "capex": 14,
+   "guidance": 36,
+   "order_book": 35,
+   "margin": 28,
+   "capacity": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-20",
+    "statement": "Growth approach: careful, calibrated, quality-focused; will recalibrate based on collections, delinquency, cash flows, macro",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Focus on diversified book growth, stronger underwriting, funding optimization and sustainable ROA/ROE improvement in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Target to bring operating expenses down to about 7% of AUM by March 2027 from peak of 9-10%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "INR5,000 crores AUM target definitely achievable; possible within 18 months per CFO; no capital raise needed before reaching that level",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Opex-to-AUM target of around 6% at INR5,000 crores scale; lowest historical was 4.5-4.75% for microfinance",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE109C01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

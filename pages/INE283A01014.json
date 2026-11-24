@@ -144,5 +144,26 @@
   ],
   "dividend_per_share": 4
  },
+ "claims": {
+  "total": 14,
+  "by_category": {
+   "capex": 8,
+   "capacity": 4,
+   "guidance": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-11-13",
+    "statement": "Plans to export to new geographies such as MENA & Southeast Asia in next 2-3 years",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2024-11-13",
+    "statement": "Debt reduction strategy to strengthen balance sheet and improve profitability",
+    "period": "not stated"
+   }
+  ],
+  "ledger": "claims/INE283A01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

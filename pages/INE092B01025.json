@@ -142,5 +142,22 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 14,
+  "by_category": {
+   "capex": 10,
+   "capacity": 2,
+   "guidance": 1,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-06-28",
+    "statement": "Target to increase aftermarket sales contribution to 15% from current ~12%",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE092B01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

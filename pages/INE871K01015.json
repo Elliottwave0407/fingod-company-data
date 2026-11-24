@@ -145,5 +145,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 53,
+  "by_category": {
+   "margin": 25,
+   "capex": 11,
+   "guidance": 14,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-12",
+    "statement": "No specific revenue or earnings guidance provided",
+    "period": null
+   },
+   {
+    "day": "2025-11-18",
+    "statement": "Management does not provide specific guidance on revenue or earnings projections",
+    "period": null
+   },
+   {
+    "day": "2026-02-04",
+    "statement": "Company does not provide specific guidance on projections",
+    "period": null
+   },
+   {
+    "day": "2026-06-03",
+    "statement": "No forward guidance provided on revenue or earnings projections",
+    "period": "forward"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "No forward-looking estimates provided; company does not give guidance",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE871K01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

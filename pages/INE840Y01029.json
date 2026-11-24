@@ -123,5 +123,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 33,
+  "by_category": {
+   "guidance": 8,
+   "capex": 6,
+   "margin": 6,
+   "order_book": 8,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-01",
+    "statement": "Expects to continue ~24% YoY growth trajectory in coming years",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Management expects to double revenues in FY27 driven by Netcom consolidation and AI ramp-up",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "AI revenue contribution expected to become sizable within 12-18 months; ResolX launched May 2026 with 6-7 of 12 projects using Agentic AI",
+    "period": "12-18 months"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Management expects to maintain current momentum but declined to give specific H2 FY27 numbers; targets 15-20% YoY revenue growth for FY28 organically, higher if acquisitions close",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "FY30 INR 2,000 crore revenue target remains on track based on current run rate and FY27 projections",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE840Y01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

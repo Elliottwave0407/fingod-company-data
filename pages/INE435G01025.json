@@ -137,5 +137,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 125,
+  "by_category": {
+   "guidance": 52,
+   "capex": 15,
+   "order_book": 19,
+   "margin": 19,
+   "capacity": 20
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "Dahej plant EBITDA breakeven unlikely in FY27, expected negative Rs. 4-5 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Bayer product revenue not significant in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "FY2026-27 EBITDA guidance: Expecting decline approx. 125bps",
+    "period": "FY2026-27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Management guides for low single-digit revenue growth for FY27, down from earlier high single-digit guidance",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Management expects about 100 bps decline in gross margin and similar or slightly more decline in EBITDA margin for the year",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE435G01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

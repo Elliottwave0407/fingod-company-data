@@ -139,5 +139,43 @@
   ],
   "dividend_per_share": 9
  },
+ "claims": {
+  "total": 182,
+  "by_category": {
+   "capex": 26,
+   "guidance": 44,
+   "order_book": 65,
+   "margin": 25,
+   "capacity": 22
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "FY27 bookings expected to show strong growth over FY26 INR 745 crore; FY28 onwards pivotal change in presales and sales trajectory",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Outlook: Strong pipeline of upcoming launches and active land aggregation to support next phase of growth",
+    "period": null
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Latitude 27 construction ahead of schedule; targeting completion certificate application in Q4 FY27, revenue recognition likely in Q1 FY28",
+    "period": "Q4 FY27 / Q1 FY28"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Target launches before March 2027: Shaheed Path (5), Palm Springs (6), Namah (7); rest may spill to FY28 subject to approvals and state elections",
+    "period": "by March 2027"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Aim to at least triple company size over next 5-6 years; Lucknow at inflection point with massive unmet residential demand",
+    "period": "next 5-6 years"
+   }
+  ],
+  "ledger": "claims/INE668G01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -129,5 +129,36 @@
   ],
   "dividend_per_share": 20
  },
+ "claims": {
+  "total": 17,
+  "by_category": {
+   "order_book": 12,
+   "guidance": 4,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-09-11",
+    "statement": "Strategy to increase wallet share from existing clients via cross-sell and up-sell",
+    "period": null
+   },
+   {
+    "day": "2024-09-11",
+    "statement": "Dedicated international sales team to strengthen global deputation presence",
+    "period": null
+   },
+   {
+    "day": "2024-09-11",
+    "statement": "Venture into new verticals: Automobile, Marine, Airports, Ports, Defence, Healthcare",
+    "period": null
+   },
+   {
+    "day": "2025-08-26",
+    "statement": "Turnover marked over INR 500 Cr in 2025",
+    "period": "2025"
+   }
+  ],
+  "ledger": "claims/INE754X01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

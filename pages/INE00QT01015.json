@@ -175,5 +175,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 171,
+  "by_category": {
+   "order_book": 15,
+   "guidance": 54,
+   "capex": 42,
+   "capacity": 42,
+   "margin": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-03",
+    "statement": "FY27 margins expected to increase ~100 bps YoY",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Export revenues projected to grow ~50% over FY26, contributing ~30% of total revenue",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Medium term capacity target over 100,000 MT via greenfield expansion in next 3-4 years",
+    "period": "FY28-30"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Projecting 33% revenue growth for FY27 to ~500 crore, export revenue growth >50% to ~30% of total, PBDIT margin expansion ~100 bps YoY",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "H2 FY27 EBITDA margin estimated at 17-18% to achieve full-year 100 bps improvement over FY26",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE00QT01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

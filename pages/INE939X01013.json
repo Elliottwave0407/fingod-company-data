@@ -141,5 +141,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 95,
+  "by_category": {
+   "guidance": 33,
+   "margin": 17,
+   "capex": 12,
+   "order_book": 25,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-28",
+    "statement": "Raised approximately INR 1,000 Mn through preferential issue",
+    "period": "Q2-FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Disbursements for the quarter stood at INR 2,665 Mn",
+    "period": "Q2-FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "GNPA and NNPA improved sequentially to 2.96% and 2.19%",
+    "period": "Q2-FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Cost of borrowings declined sequentially to 10.14%",
+    "period": "Q2-FY27"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "AUM growth guidance of 30-35% for FY27 and similar expectation for FY28",
+    "period": "FY27, FY28"
+   }
+  ],
+  "ledger": "claims/INE939X01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

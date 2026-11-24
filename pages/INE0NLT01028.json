@@ -149,5 +149,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 36,
+  "by_category": {
+   "guidance": 28,
+   "capex": 5,
+   "margin": 1,
+   "order_book": 1,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-06",
+    "statement": "New tie-ups with financial institutions viz Banks, Insurance companies, NBFC, etc.",
+    "period": null
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Focus on volume led growth across BCs, Loan Disbursement, E-Gov & Assisted E-services",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Aggressive strategy to win new government tenders for E-governance business",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Actively scouting for strategic inorganic opportunities to maximize shareholder value",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Management expects first-half momentum to continue and is confident of sustained profitable growth in FY27 and beyond",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0NLT01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -140,5 +140,43 @@
   "key_risks": [],
   "dividend_per_share": 1.5
  },
+ "claims": {
+  "total": 104,
+  "by_category": {
+   "order_book": 34,
+   "capex": 19,
+   "capacity": 16,
+   "guidance": 25,
+   "margin": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "Proposed expansion expected to commence in Q2 FY27",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Management expects around 20% revenue growth in FY27 and FY28, aiming to double revenue in 3-4 years, with EBITDA margin improvement of 100-200 bps over the same period.",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Proposed expansion expected to commence in Q3 FY27",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Management expects 20-25% revenue growth for at least 3-5 years",
+    "period": "next 3-5 years"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Margins expected to return to previous levels within next 2 quarters",
+    "period": "Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE184O01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

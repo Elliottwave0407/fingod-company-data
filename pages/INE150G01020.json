@@ -146,5 +146,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 34,
+  "by_category": {
+   "guidance": 9,
+   "capex": 22,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-05-23",
+    "statement": "Target revenue of Rs 200 crore from online sales in next 3 years",
+    "period": "next 3 years"
+   },
+   {
+    "day": "2025-05-23",
+    "statement": "Targeted country presence of 60 by 2028 for exports",
+    "period": "by 2028"
+   },
+   {
+    "day": "2025-08-12",
+    "statement": "Targeted country presence of 60 by 2028",
+    "period": "by 2028"
+   },
+   {
+    "day": "2025-11-08",
+    "statement": "Target revenue of Rs 200 Cr from online sales in next 3 years",
+    "period": "next 3 years"
+   },
+   {
+    "day": "2026-02-14",
+    "statement": "Target revenue of Rs 200 cr from online sales in next 3 years",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE150G01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

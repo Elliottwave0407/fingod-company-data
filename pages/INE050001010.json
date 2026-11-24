@@ -138,5 +138,30 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 3,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-06-06",
+    "statement": "PVC pipe expected to grow for FY2026 driven by Infra push, housing, urbanization, irrigation, water access",
+    "period": "FY2026"
+   },
+   {
+    "day": "2025-06-06",
+    "statement": "PVC Pipe industry growth expected 10-12% in fiscal 2026",
+    "period": "FY2026"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Higher volumes were expected to lift operating margins to 13.5\u201314%, partly reversing the 130-basis-point decline recorded in the previous fiscal.",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE050001010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

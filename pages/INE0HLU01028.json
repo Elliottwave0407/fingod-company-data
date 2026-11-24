@@ -141,5 +141,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 90,
+  "by_category": {
+   "guidance": 47,
+   "margin": 24,
+   "capex": 11,
+   "order_book": 5,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Targets INR 100 crore PAT for FY28 if UPI MDR is implemented",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expects payments revenue to increase by at least INR 100 crores in FY28 from UPI MDR",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expects INR 20-25 crores of UPI MDR revenue to flow to EBITDA/PAT",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Guided for more than INR 1,000 crores quarterly lending disbursals in upcoming quarters",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expects strong double-digit growth in lending disbursals to continue",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE0HLU01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

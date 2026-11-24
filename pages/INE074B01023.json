@@ -152,5 +152,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 79,
+  "by_category": {
+   "order_book": 19,
+   "guidance": 26,
+   "capex": 15,
+   "capacity": 11,
+   "margin": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-21",
+    "statement": "Five-year vision to reach INR 5,000 crores revenue by FY31",
+    "period": "FY31"
+   },
+   {
+    "day": "2026-10-26",
+    "statement": "Narmadapuram partial commissioning planned for Q1 FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "FY27 revenue growth guided at 15-20% YoY; operating margin target to reach FY25 levels by Q4 FY27 and ~8% by Q4 FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "U.S. exports expected at 25-30% of FY27 revenue; Narmadapuram partial commissioning in Q1 FY28 with ~INR 500 cr revenue in FY28 scaling to ~INR 1,200 cr in FY29",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "5-year vision to reach INR 5,000 cr revenue by FY31 through Narmadapuram expansion, domestic penetration and export presence",
+    "period": "FY31"
+   }
+  ],
+  "ledger": "claims/INE074B01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

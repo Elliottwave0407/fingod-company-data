@@ -134,5 +134,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 160,
+  "by_category": {
+   "guidance": 46,
+   "capex": 40,
+   "capacity": 42,
+   "margin": 17,
+   "order_book": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-12",
+    "statement": "Intends not to breach net debt to EBITDA of 2.6x",
+    "period": null
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Plans to spend 25-30% of INR2,000 crore capex in next 18 months",
+    "period": "next 18 months"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Expects Westin Bangalore stabilized revenue of INR100-125 crore at 38-40% margin in FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Expects Novotel Imagicaa revenue of INR75-80 crore in FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Targets double-digit revenue growth for FY27 with incremental Q4 revenue from Bangalore and Novotel",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE696F01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

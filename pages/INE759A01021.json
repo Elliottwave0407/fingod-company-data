@@ -131,5 +131,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 111,
+  "by_category": {
+   "order_book": 31,
+   "guidance": 27,
+   "margin": 28,
+   "capex": 12,
+   "capacity": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-04-24",
+    "statement": "Management does not provide specific revenue guidance but expects FY27 performance to be better than FY26.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-21",
+    "statement": "Middle East business seeing impact due to geopolitical uncertainties",
+    "period": "Q1FY27"
+   },
+   {
+    "day": "2026-07-28",
+    "statement": "North America business expected to reach $28-30M quarterly run rate for mid-teens margins; Healthcare UK to ramp from Q2, US Healthcare by H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "Management expects FY27 to be better than FY26, with H2 performance continuing to do well despite Middle East uncertainty.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-28",
+    "statement": "EBITDA margin target is to improve by at least 160 bps in the medium term from current 14.4%.",
+    "period": "medium term"
+   }
+  ],
+  "ledger": "claims/INE759A01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

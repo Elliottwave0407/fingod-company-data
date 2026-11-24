@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 103,
+  "by_category": {
+   "guidance": 46,
+   "margin": 19,
+   "capex": 17,
+   "order_book": 13,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-04",
+    "statement": "India growth at ~30% annualised run-rate in Q2FY27, expect further acceleration",
+    "period": "Q2FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Plan to nearly double closing sales capacity from 34 (Dec 2025) to 60 (Dec 2026)",
+    "period": "Dec 2026"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Expect low single-digit annual cost growth after international investments, aided by AI lowering data production costs",
+    "period": null
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expect cost growth to return to low single digits within next one to two quarters after one-time step-up",
+    "period": "next 1-2 quarters"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Expect FY27 to show impact of investments in improved growth rates and expanded market share",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0HMF01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

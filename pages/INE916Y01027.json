@@ -138,5 +138,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 34,
+  "by_category": {
+   "guidance": 14,
+   "capex": 3,
+   "capacity": 4,
+   "order_book": 9,
+   "margin": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-13",
+    "statement": "Projecting AUM of Rs. 600 crores by end of Q4 FY25",
+    "period": "Q4 FY25"
+   },
+   {
+    "day": "2025-02-13",
+    "statement": "Targeting AUM of Rs. 1,000 crores by end of FY26 and Rs. 1,500 crores by end of FY27",
+    "period": "FY26, FY27"
+   },
+   {
+    "day": "2025-02-13",
+    "statement": "Expecting net profit ratio of around 35% in FY26 and around 30% in FY27",
+    "period": "FY26, FY27"
+   },
+   {
+    "day": "2025-02-13",
+    "statement": "Maintaining PAT guidance of Rs. 35 crores for full year FY25",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-11-20",
+    "statement": "FY26 AUM target \u20b9950 Cr",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE916Y01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

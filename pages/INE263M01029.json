@@ -142,5 +142,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 180,
+  "by_category": {
+   "order_book": 55,
+   "guidance": 61,
+   "margin": 19,
+   "capex": 29,
+   "capacity": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-04",
+    "statement": "Target INR 10,000 Cr pre-sales by FY30",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Full-year FY27 presales guidance of INR 5,000 crores; 41% achieved in H1 FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Full-year FY27 collections guidance of INR 3,000-3,100 crores at 70-72% efficiency",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Full-year FY27 launch GDV guidance of INR 8,000 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Full-year FY27 operating cash flow guidance of INR 700-800 crores",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE263M01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -144,5 +144,40 @@
   ],
   "dividend_per_share": 4.0
  },
+ "claims": {
+  "total": 7,
+  "by_category": {
+   "guidance": 5,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-02",
+    "statement": "Target 55,000 TIN locations by March 31, 2025",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-05-02",
+    "statement": "Target 1 million PAN applications per month by March 31, 2025",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-05-02",
+    "statement": "Target 100,000 TDS files per month by March 31, 2025",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-05-22",
+    "statement": "Plan to set up over 55,000 TIN facilities by FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-11-21",
+    "statement": "Plans to set up over 55,000 TIN facilities by FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE395H01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

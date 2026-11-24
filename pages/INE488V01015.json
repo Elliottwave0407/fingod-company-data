@@ -142,5 +142,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 193,
+  "by_category": {
+   "order_book": 71,
+   "capex": 28,
+   "guidance": 50,
+   "margin": 27,
+   "capacity": 17
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-05",
+    "statement": "Full-year EBITDA margin guidance 7-8% for FY27; potential upside beyond 8% as execution speeds up",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Order book of Rs 12,872 crore provides multi-year revenue visibility",
+    "period": "30 Sep 2026"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "FY27 revenue growth guidance maintained at 30-35% YoY, internal target beyond 30%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "FY28 EBITDA margin expected around 7% with potential to reach 7.5-8%",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "3-year revenue CAGR target of 25-30%",
+    "period": "next 3 years"
+   }
+  ],
+  "ledger": "claims/INE488V01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

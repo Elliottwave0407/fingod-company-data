@@ -149,5 +149,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company is confident of executing a successful turnaround in the upcoming fiscal year by focusing on high-margin segments, maintaining operational rigor, and investing in workforce capabilities.",
+    "period": "Upcoming fiscal year (FY 2026-27)"
+   }
+  ],
+  "ledger": "claims/INE970D01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

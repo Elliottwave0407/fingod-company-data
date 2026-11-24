@@ -152,5 +152,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 1,
+   "capex": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company expects to maintain stable operations with the possibility of achieving a marginal profit during the year.",
+    "period": "Current year (FY 2026-27)"
+   }
+  ],
+  "ledger": "claims/INE644Y01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

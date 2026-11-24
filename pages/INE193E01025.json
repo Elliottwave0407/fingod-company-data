@@ -163,5 +163,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 73,
+  "by_category": {
+   "margin": 27,
+   "capacity": 9,
+   "order_book": 10,
+   "guidance": 15,
+   "capex": 12
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-13",
+    "statement": "Substantial margin improvement expected in Consumer Products starting Q4 FY26 and through FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-26",
+    "statement": "Capex for FY27 and FY28 will be less than half of past levels, mainly for mould replacement and innovation",
+    "period": "FY27-FY28"
+   },
+   {
+    "day": "2026-08-12",
+    "statement": "Targets 8-10% top-line growth per quarter for next couple of years, assuming industry grows 6-7%",
+    "period": "next couple of years"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Aim to grow revenue faster than market (e.g., 10% if market grows 8%) and reach double-digit EBITDA margin over time, but timing depends on inflation and investment choices",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Management expects to surpass previous peak EBITDA (INR 300-320 cr) in next 2-3 years; focus on top-line improvement in coming quarters",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE193E01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

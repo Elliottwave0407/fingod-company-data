@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 182,
+  "by_category": {
+   "guidance": 72,
+   "order_book": 54,
+   "capex": 25,
+   "capacity": 16,
+   "margin": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-03",
+    "statement": "FY29-30 aspiration revenue ~INR 1,000 crores",
+    "period": "FY29-30"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Beyond FY33 aspiration revenue ~INR 2,000 crores",
+    "period": "Beyond FY33"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "FY27 revenue target well over INR500 crores; long-term aspiration INR1,000 crores by FY30 and INR2,000 crores beyond FY32-33",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Baseline growth trajectory targeted at 15-20% CAGR; Indonesia program is a surge on top of baseline",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Automatic transmission commercialization possible late FY28 or early FY29 in small numbers; announcement expected December or early next year",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE753U01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

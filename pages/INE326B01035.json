@@ -144,5 +144,42 @@
   "key_risks": [],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 17,
+  "by_category": {
+   "guidance": 5,
+   "order_book": 7,
+   "capacity": 3,
+   "margin": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-17",
+    "statement": "Expects each of the three businesses to grow at least 25% year-on-year for the next five years",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Targets 80% capacity utilization in Q3 FY27 and 100% in Q4 FY27 for ethanol plants",
+    "period": "Q3 FY27, Q4 FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expects Premier Green revenue of INR1,400 crores next year (INR800 crores from Himachal, INR600 crores from Odisha)",
+    "period": "next year"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expects infra business revenue of INR160 crores this year and at least 25% growth next year",
+    "period": "this year, next year"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expects financial services revenue growth of 20-25% this year and similar next year",
+    "period": "this year, next year"
+   }
+  ],
+  "ledger": "claims/INE326B01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

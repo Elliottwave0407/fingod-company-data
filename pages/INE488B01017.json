@@ -138,5 +138,20 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "capex": 1,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Priorities: accelerate innovation, deepen customer relationships, expand India-led businesses, strengthen consumer and food-service brands, build scalable platforms for sustainable growth",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE488B01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

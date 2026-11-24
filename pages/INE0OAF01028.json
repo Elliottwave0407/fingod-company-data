@@ -137,5 +137,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 133,
+  "by_category": {
+   "order_book": 58,
+   "capex": 16,
+   "guidance": 28,
+   "margin": 23,
+   "capacity": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-19",
+    "statement": "Full year EBITDA margin guidance of 12-14% maintained",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Medium-term target: 40% revenue from non-heating segments in 3-5 years",
+    "period": "3-5 years"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Chemdist expected to turn profitable by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "FY27 revenue growth guidance 20-25% and EBITDA margin guidance 12-14%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Maintain FY27 guidance of 20%-25% revenue growth and EBITDA margin of 12%-14% on operational revenue",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0OAF01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

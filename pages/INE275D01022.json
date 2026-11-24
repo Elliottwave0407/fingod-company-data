@@ -124,5 +124,30 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "capex": 2,
+   "guidance": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-14",
+    "statement": "Anticipate moderation in export volumes for remainder of FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-08-14",
+    "statement": "Confident in resilience of domestic business backed by firm orders and stable demand",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Operations have stabilised in the second quarter with a firm order book supporting current profitability",
+    "period": "Q2FY27"
+   }
+  ],
+  "ledger": "claims/INE275D01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

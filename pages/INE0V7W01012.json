@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": 6.75
  },
+ "claims": {
+  "total": 115,
+  "by_category": {
+   "capex": 23,
+   "guidance": 34,
+   "order_book": 29,
+   "margin": 15,
+   "capacity": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-14",
+    "statement": "Full-year FY27 revenue growth target 10%-15%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "FY27 EBITDA margin expected to reach double digits (10%+)",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "FY27 capex around INR100+ crore, similar for FY28",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "Target revenue INR2,500 crore in FY27, double-digit growth next year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-14",
+    "statement": "Long-term target EUR350-400 million (INR3,500 crore) turnover by 2030",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE0V7W01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

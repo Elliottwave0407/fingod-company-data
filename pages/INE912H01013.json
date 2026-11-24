@@ -125,5 +125,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 28,
+  "by_category": {
+   "guidance": 14,
+   "order_book": 6,
+   "capex": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-14",
+    "statement": "Resolution Plan term is 10 years from implementation date 04.09.2024",
+    "period": "FY25"
+   },
+   {
+    "day": "2026-02-14",
+    "statement": "External Commercial Borrowings/Term Loan/Equipment finance aggregating to Rs.146.18 crores to be paid in 39 unequated instalments @ one year MCLR of SBI plus spread of 0.70% p.a.",
+    "period": "FY25"
+   },
+   {
+    "day": "2026-07-01",
+    "statement": "Company has permission for fund-based facilities \u20b9100 crores and non-fund based \u20b9250 crores for new contracts against specific charge on receivables/stocks",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "NCDs of Rs 836.74 crore issued repayable in 39 quarterly installments from Sep 2024",
+    "period": "FY25 onward"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "Promoter equity infusion commitment Rs 128.19 crore over three years, Rs 111.65 crore already infused",
+    "period": "period not stated"
+   }
+  ],
+  "ledger": "claims/INE912H01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

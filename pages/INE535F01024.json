@@ -125,5 +125,27 @@
   ],
   "dividend_per_share": 0.15
  },
+ "claims": {
+  "total": 16,
+  "by_category": {
+   "capex": 12,
+   "order_book": 1,
+   "capacity": 1,
+   "guidance": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-12",
+    "statement": "QIP raising up to Rs 225 crore approved",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-05-07",
+    "statement": "Management cautiously optimistic for FY27; near-term headwinds may persist but demand visibility strong",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE535F01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

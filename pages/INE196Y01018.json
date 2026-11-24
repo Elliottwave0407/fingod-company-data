@@ -145,5 +145,14 @@
   ],
   "dividend_per_share": 1
  },
+ "claims": {
+  "total": 4,
+  "by_category": {
+   "capacity": 3,
+   "capex": 1
+  },
+  "latest_guidance": [],
+  "ledger": "claims/INE196Y01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

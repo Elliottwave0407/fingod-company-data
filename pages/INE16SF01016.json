@@ -125,5 +125,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 26,
+  "by_category": {
+   "capacity": 7,
+   "capex": 10,
+   "guidance": 8,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-01-24",
+    "statement": "Medium-term vision to double production capacity in next 24 months",
+    "period": "next 24 months"
+   },
+   {
+    "day": "2026-01-24",
+    "statement": "Expansion expected to generate ~5 crore meters of annual capacity",
+    "period": "next 24 months"
+   },
+   {
+    "day": "2026-02-02",
+    "statement": "Management expects gross margin to improve in Q4 FY26 due to removal of anti-dumping duty on Chinese raw material",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-08-31",
+    "statement": "Near-term priorities: commission renewables, ramp Unit 4, advance product mix, build export optionality",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Margin pressure in Q2 due to 30-40% higher domestic POY costs; cost pass-through on quarterly basis expected to ease margins in coming quarters",
+    "period": "Q2 FY27"
+   }
+  ],
+  "ledger": "claims/INE16SF01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

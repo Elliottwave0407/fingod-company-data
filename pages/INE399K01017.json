@@ -168,5 +168,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 10,
+  "by_category": {
+   "guidance": 5,
+   "capex": 2,
+   "capacity": 1,
+   "margin": 1,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-04",
+    "statement": "Management aims to pay off Kotak debt of Rs 522 crore in current financial year (FY25) and become free of long-term debt by next year",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-06-04",
+    "statement": "Regulatory receivables of about Rs 2500 crore expected to be realized over next three to four years",
+    "period": "next three, four years"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "India's peak electricity demand is projected to reach 277.2 GW by FY 2026-27 and 366.4 GW by FY 2031-32 as per National Electricity Plan (May 2023)",
+    "period": "FY 2026-27"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "India's peak electricity demand is projected to reach 277.2 GW by FY 2026-27 and 366.4 GW by FY 2031-32 as per National Electricity Plan (May 2023)",
+    "period": "FY 2031-32"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Government continues to recognise the need for an estimated 63,900 MW of additional conventional capacity \u2013 31,880 MW by FY 2026-27",
+    "period": "FY 2026-27"
+   }
+  ],
+  "ledger": "claims/INE399K01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

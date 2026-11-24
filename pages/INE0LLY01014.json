@@ -181,5 +181,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 152,
+  "by_category": {
+   "order_book": 46,
+   "capex": 24,
+   "guidance": 48,
+   "margin": 19,
+   "capacity": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "Q1 revenue INR359.2 crores (21% of FY27 guidance); BESS procurement starts Q3 driving revenue acceleration; confident of INR2,000 crores revenue and INR260-270 crores PAT",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Plan to increase STP project size from 50-200 MLD and CETP from 20-50 MLD",
+    "period": "Future"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "FY27 consolidated revenue guidance maintained at INR2,000 crores with PAT expected in range of INR240-250 crores",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Water and wastewater segment EBITDA margin guidance at 21%, renewable segment at 15-18%, blended consolidated at 19-20%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Water and wastewater order inflow target for FY27 at INR2,500 crores, with INR250 crores already booked and balance INR2,250 crores expected in current year",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0LLY01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

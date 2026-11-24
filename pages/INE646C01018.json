@@ -141,5 +141,20 @@
   ],
   "dividend_per_share": 2.0
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Current season 2026 crop ahead in all gardens; Doyang and Dessoi gardens ahead by 64% and 66% respectively",
+    "period": "Current season 2026"
+   }
+  ],
+  "ledger": "claims/INE646C01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

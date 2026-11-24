@@ -125,5 +125,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 138,
+  "by_category": {
+   "capacity": 36,
+   "guidance": 36,
+   "margin": 29,
+   "capex": 19,
+   "order_book": 18
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Sustainable EBITDA margin target of 11-11.5% over medium term",
+    "period": "FY28-29"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Revenue CAGR target of minimum 20% beyond FY27",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Priorities: improving capacity utilisation, extending distribution reach, translating manufacturing efficiencies into sustained profitability",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Maintains FY27 revenue guidance of INR 1,800-1,900 crores with EBITDA margin of 8.9%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "A&P spending guided at ~1% of revenue for full year FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0L9R01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

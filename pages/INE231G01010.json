@@ -147,5 +147,25 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "capex": 1,
+   "guidance": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "US tariff easing improved cost competitiveness and order visibility",
+    "period": "Q1 FY26-27"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "India-UK FTA expected to be long-term positive for industry",
+    "period": "Q1 FY26-27"
+   }
+  ],
+  "ledger": "claims/INE231G01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

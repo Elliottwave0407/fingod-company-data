@@ -135,5 +135,43 @@
   ],
   "dividend_per_share": 1
  },
+ "claims": {
+  "total": 115,
+  "by_category": {
+   "order_book": 38,
+   "capex": 31,
+   "capacity": 22,
+   "guidance": 16,
+   "margin": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "Three rigs expected to be dehired within current financial year, with 4-6 month refurbishment period before redeployment",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Revenue will decline in H2 FY27 due to three rigs going into refurbishment, but EBITDA decline will not be proportional",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Blended EBITDA margin target guided at 35% for revenue assessment",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "New 3-year contracts for Rig Virtue-I and Rig Jindal Star expected in November 2026",
+    "period": "November 26"
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "Status of new ONGC contracts: received for 1 rig in early Nov 26, expected for 2 rigs in later Nov 26",
+    "period": "November 26"
+   }
+  ],
+  "ledger": "claims/INE742C01031.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

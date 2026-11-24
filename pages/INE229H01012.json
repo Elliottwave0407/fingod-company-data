@@ -133,5 +133,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 114,
+  "by_category": {
+   "capex": 42,
+   "capacity": 27,
+   "guidance": 30,
+   "margin": 14,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-13",
+    "statement": "Incremental revenue from new capacity estimated at INR200-300 crore plus existing revenue slightly higher than FY26; fabric revenue expected to reach INR1,200 crore in FY28 from INR700+ crore in FY26.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "Fabric mix to add 100-150 bps margin; renewables to save ~Rs 50 cr per annum; RIPS 2024 incentives on new capex",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-10-31",
+    "statement": "~15% revenue CAGR track record; capex funded by internal accruals and term debt",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Revenue target of INR4,800-5,000 crores by FY29 with existing assets and balancing capex",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "EBITDA margin guidance range of 16% to 20%",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE229H01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

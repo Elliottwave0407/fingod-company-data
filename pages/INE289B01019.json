@@ -137,5 +137,20 @@
   ],
   "dividend_per_share": 4.5
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "capex": 2,
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-01-16",
+    "statement": "Future outlook: Market Penetration, Digital Transformation, Product Innovation, Sustainable Growth",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE289B01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

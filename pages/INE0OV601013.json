@@ -128,5 +128,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 64,
+  "by_category": {
+   "guidance": 18,
+   "order_book": 22,
+   "margin": 10,
+   "capex": 10,
+   "capacity": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-19",
+    "statement": "Q2 revenue 30-35% above Q1; Q3/Q4 >50% QoQ growth",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "EBITDA and PAT margins to return to FY25 levels by year-end",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Targets 30-35% revenue growth in Q3 and Q4 FY27 sequentially, aiming to match FY25 full-year revenue in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Expects EBITDA margin around 25% by end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Targets 20% revenue CAGR long-term; FY26 was exception due to monsoon; expects to match FY25 revenue in FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0OV601013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

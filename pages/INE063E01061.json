@@ -133,5 +133,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 180,
+  "by_category": {
+   "capex": 36,
+   "capacity": 56,
+   "guidance": 50,
+   "margin": 28,
+   "order_book": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "Copper cathode plant blended EBITDA per ton guided at INR60,000-65,000; recycled copper sold externally above INR40,000/ton",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "FY27 capex of INR175 crores: INR20-25 crores maintenance, INR140-150 crores for copper cathode plant",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Capex of Rs. 16 Cr incurred in H1 FY27; additional Rs. 164 Cr planned for remainder of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "INR 200 Cr investment underway for 36,000 MTPA LME Grade A Copper Cathode facility; Phase I (18,000 MTPA) expected by Dec'26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Target 2030 roadmap: >15% volume growth, 20%+ revenue and profitability CAGR, EBITDA margins >8%, ROCE >20%, >60% revenue from value-added products",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE063E01061.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -136,5 +136,26 @@
   ],
   "dividend_per_share": 3
  },
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "capex": 8,
+   "guidance": 2,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-05",
+    "statement": "Estimated revenue of \u20b9275 crores from optic fibre cable expansion at Hyderabad",
+    "period": "FY24"
+   },
+   {
+    "day": "2025-02-14",
+    "statement": "Optic fibre cable expansion targets revenue over \u20b9275 cr",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE976A01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

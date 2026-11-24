@@ -150,5 +150,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 26,
+  "by_category": {
+   "guidance": 13,
+   "capex": 4,
+   "margin": 4,
+   "order_book": 4,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-01",
+    "statement": "Target \u20b9250 Cr Revenue, \u20b925 Cr PAT, 50%+ IP Mix in ~3 years",
+    "period": "FY26+"
+   },
+   {
+    "day": "2026-06-12",
+    "statement": "Targets INR250 cr revenue, INR25 cr PAT, and 50-50 IP to services revenue mix over next three years",
+    "period": "next three years"
+   },
+   {
+    "day": "2026-06-12",
+    "statement": "Targets IP revenue contribution of 50% in 2 years on way to 50-50 split",
+    "period": "2 years"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Target 500+ hours by 2026, overseas entry, M&A, 30% AI adoption",
+    "period": "2026"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Target \u20b9250 Cr revenue, \u20b925 Cr PAT, 50%+ IP mix in ~3 years",
+    "period": "FY28E"
+   }
+  ],
+  "ledger": "claims/INE0EEJ01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

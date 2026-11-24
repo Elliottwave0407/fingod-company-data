@@ -151,5 +151,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 104,
+  "by_category": {
+   "guidance": 56,
+   "margin": 13,
+   "order_book": 12,
+   "capex": 17,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-11",
+    "statement": "FY27 Gross Revenue guidance INR 110,000-130,000 million",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-11",
+    "statement": "FY27 EPS guidance INR 8.75-9.50 per share",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "FY27 consolidated revenue guidance of INR 11,000-13,000 crores (35%+ growth) and EPS of INR 8.75-9.5 per share on post-split face value of INR 10",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-17",
+    "statement": "EBITDA margin guardrail set at ~15% to protect core profitability while reinvesting incremental accruals into AI and growth initiatives",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "FY2027 consolidated revenue guidance of INR11,000-13,000 crores reaffirmed; H1 FY2027 revenue at INR5,560 crores",
+    "period": "FY2027"
+   }
+  ],
+  "ledger": "claims/INE483S01038.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

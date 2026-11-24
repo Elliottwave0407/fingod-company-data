@@ -121,5 +121,42 @@
   ],
   "dividend_per_share": 12.5
  },
+ "claims": {
+  "total": 33,
+  "by_category": {
+   "capex": 13,
+   "guidance": 12,
+   "capacity": 7,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-04",
+    "statement": "Narkatiaganj sugar plant conversion to refinery expected before SS 2026-27",
+    "period": "SS 2026-27"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Incineration boiler at Narkatiaganj Distillery expected by September 2026, raising operating days to ~340 from 270",
+    "period": "Sep-2026"
+   },
+   {
+    "day": "2026-08-04",
+    "statement": "Government raised sugarcane FRP for SS 2026-27 by 2.81% to Rs 365/quintal",
+    "period": "SS 2026-27"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Working capital debt expected to rebuild from November onwards with commencement of Sugar crushing season",
+    "period": "Nov 2026 onwards"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Operation of distillery exclusively on C-heavy molasses expected to increase Sugar availability, contributing to higher Sugar inventory levels",
+    "period": "SS 2026-27"
+   }
+  ],
+  "ledger": "claims/INE347W01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

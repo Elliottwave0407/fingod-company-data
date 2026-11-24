@@ -127,5 +127,41 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 65,
+  "by_category": {
+   "capex": 33,
+   "capacity": 13,
+   "guidance": 19
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-06",
+    "statement": "Revenue target ~3.5x at consolidated levels in next 3 to 5 years",
+    "period": "next 3 to 5 years"
+   },
+   {
+    "day": "2026-08-06",
+    "statement": "Expect progressive ramp-up at Bheema and additional mid- to high-value molecules to support stronger growth in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-06",
+    "statement": "Company well positioned to deliver healthy growth in revenue and profitability during FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Revenue target ~3.5x at consolidated levels in next 3 to 5 years with operating efficiency and better margin profile",
+    "period": "next 3 to 5 years"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Expect benefits of strategic initiatives to become more evident during FY28, supporting stronger profitability, improved cash flows and sustainable growth",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE414D01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

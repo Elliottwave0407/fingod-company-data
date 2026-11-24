@@ -157,5 +157,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company expects to conclude sales of the flagship residential project at Ludhiana in the near term and is confident that the remaining flats will be absorbed swiftly.",
+    "period": "near term"
+   }
+  ],
+  "ledger": "claims/INE143A01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

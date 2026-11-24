@@ -166,5 +166,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 1,
+   "capex": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "The Company will meet 95% of its Power requirement by Captive Power.",
+    "period": "Ongoing"
+   }
+  ],
+  "ledger": "claims/INE112F01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

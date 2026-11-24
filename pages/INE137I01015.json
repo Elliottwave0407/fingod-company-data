@@ -177,5 +177,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 173,
+  "by_category": {
+   "capex": 64,
+   "capacity": 31,
+   "guidance": 44,
+   "order_book": 11,
+   "margin": 23
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-30",
+    "statement": "Pyrova Energy targets 45,000 tons capacity in FY27, additional 30,000 tons in FY28, with margins building from single digit to 18-20% post rCB commissioning",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-07-30",
+    "statement": "Plastic recycling verticals expect over 20% growth in FY27, mid-teens through FY2030, with stable EBITDA margin of 10-15%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Target mid-teen EBITDA margin for the entire platform business once rCB plant operationalizes",
+    "period": "next fiscal year"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Plastics business targeting roughly 20% growth this year with stable EBITDA margin of 12% to 15%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Pyrova Energy full impact of 45,000 tons pyrolysis and 15,000 tons rCB capacity expected from Q2 of next fiscal year",
+    "period": "Q2 FY28"
+   }
+  ],
+  "ledger": "claims/INE137I01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

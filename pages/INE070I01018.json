@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 124,
+  "by_category": {
+   "guidance": 42,
+   "capacity": 24,
+   "margin": 22,
+   "order_book": 16,
+   "capex": 20
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "Operating leverage and efficiency initiatives (renewable energy, AI) to support ROCE/ROE improvement from Q3 (September-October) onwards.",
+    "period": "Q3 FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Target Kaeros brand turnover of INR125 crore and total Kaeros standalone revenue of ~INR200 crore in FY27; aim to double Kaeros brand business next year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Target international business revenue of INR500 crore in 5 years with 40-50% CAGR",
+    "period": "5 years"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Expect gross margin to stay around 33% in FY27 and improve gradually toward industry best",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Aim for premium (Maharatna + Focus Maharatna) contribution to reach 70% of B2C portfolio",
+    "period": "next 2-3 years"
+   }
+  ],
+  "ledger": "claims/INE070I01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

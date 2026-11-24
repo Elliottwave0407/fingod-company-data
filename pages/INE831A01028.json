@@ -151,5 +151,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 16,
+  "by_category": {
+   "capex": 6,
+   "margin": 3,
+   "capacity": 2,
+   "guidance": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "No forward-looking guidance given; objective to continue revenue growth momentum through FY27 and FY28, with EBITDA turning positive at scale",
+    "period": null
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "No specific revenue guidance or timeline for turnaround; break-even at PAT level estimated at ~30% revenue increase from current levels (ballpark ~Rs 900 cr)",
+    "period": null
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Management targets EBITDA breakeven at Rs 250-260 crore revenue if current margins hold",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "OEM business to wind down over next 8-12 months as management focuses on brand business",
+    "period": "next 8-12 months"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Institutional/B2B vertical initiated, good progress in Q2; leads converting, expected to contribute low single-digit revenue this year with growth potential",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE831A01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

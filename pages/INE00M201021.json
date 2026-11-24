@@ -151,5 +151,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 221,
+  "by_category": {
+   "order_book": 96,
+   "guidance": 60,
+   "margin": 39,
+   "capex": 15,
+   "capacity": 11
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-23",
+    "statement": "Q3 revenue to improve over Q2, Q4 to be strongest quarter with international projects contributing significantly.",
+    "period": "Q3-Q4 FY27"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "Revenue growth guidance maintained at up to 10% for FY27, citing delayed project starts and industry challenges.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "Q3 and Q4 FY27 revenue expected to improve significantly due to international project execution.",
+    "period": "Q3-Q4 FY27"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "Revenue growth guidance for FY27 maintained at up to 10%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-23",
+    "statement": "Q3 revenue expected to improve over Q2, Q4 to be strongest quarter",
+    "period": "Q3-Q4 FY27"
+   }
+  ],
+  "ledger": "claims/INE00M201021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

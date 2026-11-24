@@ -123,5 +123,6 @@
   ],
   "dividend_per_share": 1.3
  },
+ "claims": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

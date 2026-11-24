@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 167,
+  "by_category": {
+   "guidance": 50,
+   "order_book": 52,
+   "capex": 25,
+   "capacity": 17,
+   "margin": 23
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-18",
+    "statement": "Long-term revenue target Rs.1500 crore by 2031",
+    "period": "2031"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "FY28 revenue guidance around Rs.1025 crore",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "FY26-27 consolidated sales outlook \u20b9875 crore",
+    "period": "FY26-27"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "Domestic sales outlook \u20b9320 crore, international \u20b9555 crore",
+    "period": "FY26-27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "EBITDA margin target of 21-23% over time",
+    "period": "next one to two years"
+   }
+  ],
+  "ledger": "claims/INE039O01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

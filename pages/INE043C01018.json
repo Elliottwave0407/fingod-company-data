@@ -145,5 +145,36 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 24,
+  "by_category": {
+   "capacity": 12,
+   "capex": 8,
+   "guidance": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-27",
+    "statement": "Aim to grow volumes and increase market share in FY25",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-08-28",
+    "statement": "Aim to grow volumes and increase market share in FY25 on healthy GDP growth",
+    "period": "FY25"
+   },
+   {
+    "day": "2025-08-25",
+    "statement": "Management expects India's healthy GDP growth to support domestic demand in FY26 and aims to grow volumes and increase market share",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-03-02",
+    "statement": "Optimistic about remainder of FY26, focus on expanding domestic market share, leveraging product portfolio, enhancing customer engagement",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE043C01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

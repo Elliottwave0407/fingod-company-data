@@ -126,5 +126,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 28,
+  "by_category": {
+   "guidance": 9,
+   "margin": 11,
+   "capex": 4,
+   "order_book": 3,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-20",
+    "statement": "Targets 20-25% revenue growth and 15% EBITDA margin for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2025-11-20",
+    "statement": "Plans to achieve 15% EBITDA margin in FY27 via operational efficiency and product revenue",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-02-19",
+    "statement": "Increasing traction in GCC-linked engagements; demand for cloud modernization, automation, efficiency-led transformation supports pipeline",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Management expects Australia and Ireland focus to reach million-dollar revenue in local currencies over next year",
+    "period": "next year"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "International revenue expected to remain less than 10% of total for next couple of years",
+    "period": "next couple of years"
+   }
+  ],
+  "ledger": "claims/INE547B01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

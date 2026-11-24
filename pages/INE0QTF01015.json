@@ -127,5 +127,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 93,
+  "by_category": {
+   "capex": 12,
+   "guidance": 27,
+   "margin": 12,
+   "capacity": 35,
+   "order_book": 7
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-19",
+    "statement": "Export revenue currently 3%-5%, roadmap to scale exports 10x over next five years",
+    "period": null
+   },
+   {
+    "day": "2026-08-19",
+    "statement": "Execution of strategic priorities expected to drive ~50% upside in overall revenue by FY28 with focus on improving EBITDA and PAT margins",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Q2 revenue expected to grow 30% with additional 1,000 tonnes monthly sales from TLT and crash barrier contributing ~10 Cr per month",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Target product mix realignment from 90:10 to 75:25 by FY28",
+    "period": "FY28E"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Roadmap to scale exports 10x over next five years",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE0QTF01015.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

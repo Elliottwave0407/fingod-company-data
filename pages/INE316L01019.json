@@ -140,5 +140,43 @@
   ],
   "dividend_per_share": 10
  },
+ "claims": {
+  "total": 30,
+  "by_category": {
+   "capex": 10,
+   "margin": 2,
+   "guidance": 7,
+   "capacity": 10,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-11-29",
+    "statement": "Industrial Promotion Subsidy equivalent to 100% of eligible investments as per SGST for maximum INR 4,350 Mn, disbursements already begun",
+    "period": null
+   },
+   {
+    "day": "2025-06-09",
+    "statement": "Global steel wire rope market projected to reach USD 12.63 bn by 2034 from USD 9.04 bn in 2024 at 3.4% CAGR",
+    "period": "2025-2034"
+   },
+   {
+    "day": "2025-06-09",
+    "statement": "India infrastructure capex earmarked INR 11.21 lakh crore for FY26",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-06-09",
+    "statement": "Parvatmala Pariyojana targets 250+ projects, 1,200+ km ropeway length in 5 years with INR 1.25 lakh crore outlay",
+    "period": "next 5 years"
+   },
+   {
+    "day": "2025-11-14",
+    "statement": "US sales share rose to 13% from 8% driven by improving acceptance of product quality; further growth expected",
+    "period": "H1-FY26"
+   }
+  ],
+  "ledger": "claims/INE316L01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

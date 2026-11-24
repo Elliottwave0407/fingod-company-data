@@ -127,5 +127,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 65,
+  "by_category": {
+   "capex": 17,
+   "guidance": 24,
+   "capacity": 14,
+   "margin": 8,
+   "order_book": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-05",
+    "statement": "Q4 FY25 revenue expected to run at similar rate as Q3.",
+    "period": "Q4 FY25"
+   },
+   {
+    "day": "2025-05-29",
+    "statement": "Outlook is highly cautious due to continued economic uncertainty, evolving tariffs, and increasing price competition in the U.S.",
+    "period": null
+   },
+   {
+    "day": "2025-06-02",
+    "statement": "Management refuses to provide FY26 guidance due to tariff uncertainty",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-07-31",
+    "statement": "Outlook highly cautious due to economic uncertainty, evolving tariffs, increasing price competition in US",
+    "period": null
+   },
+   {
+    "day": "2025-08-04",
+    "statement": "New capacity expansion to add Rs. 500 crore turnover at full optimum utilization",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE637C01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

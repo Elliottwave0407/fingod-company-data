@@ -142,5 +142,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 98,
+  "by_category": {
+   "guidance": 26,
+   "margin": 20,
+   "order_book": 31,
+   "capex": 15,
+   "capacity": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-07",
+    "statement": "Margins expected to stabilize from Q2 or Q3 FY27 as upfront investments phase out",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "EBITDA margin trajectory to improve substantially over next 2-3 years",
+    "period": "next 2 to 3 years"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Excluding upfront investments of \u20b910 crore, Q2FY27 EBITDA would be \u20b953 crore (22% YoY increase) with 18% margin",
+    "period": "Q2FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Excluding upfront investments, Q2FY27 PAT would be \u20b924 crore with 8% margin",
+    "period": "Q2FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Management expects reported margins to move closer to underlying run rate in coming quarters as major project investments are largely behind them",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE004A01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

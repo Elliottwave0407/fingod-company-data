@@ -180,5 +180,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 118,
+  "by_category": {
+   "capex": 29,
+   "guidance": 44,
+   "margin": 14,
+   "capacity": 15,
+   "order_book": 16
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-10",
+    "statement": "EBITDA margin guidance deferred by one quarter due to uncertainty from commodity prices and wage hikes",
+    "period": "next quarter"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 revenue growth guidance 10-15% over FY26 led by Home Appliances and Fans",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 EBITDA margin guidance not given due to volatile RMC",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 capex guidance INR 22 crore for full year towards scaling existing business",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "FY27 working capital days target ~50 days led by inventory and payables improvement",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE050401020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

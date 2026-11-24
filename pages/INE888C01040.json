@@ -129,5 +129,21 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 1,
+   "capex": 1,
+   "capacity": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-19",
+    "statement": "Proposed rights issue not exceeding Rs. 49.95 Crores being finalized",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE888C01040.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

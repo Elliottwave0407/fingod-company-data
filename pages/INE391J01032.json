@@ -138,5 +138,43 @@
   ],
   "dividend_per_share": 0.125
  },
+ "claims": {
+  "total": 164,
+  "by_category": {
+   "capex": 25,
+   "capacity": 40,
+   "guidance": 67,
+   "order_book": 11,
+   "margin": 21
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-11",
+    "statement": "H2 FY27 volume expected at ~2.6 lakh tons, 20% higher than H1",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "FY28 capacity utilization target of 55% on 1.7 million tons capacity",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Working capital cycle target of ~60 days by FY28 and ~35 days by FY29",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "EBITDA per ton target of INR 5,000-5,250 for FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Export volume target of 50,000-55,000 tons for FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE391J01032.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -136,5 +136,32 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 15,
+  "by_category": {
+   "guidance": 3,
+   "capex": 7,
+   "capacity": 2,
+   "order_book": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-09",
+    "statement": "Aeroflex projects EBITDA growth of 25%+ for upcoming years",
+    "period": "FY25E"
+   },
+   {
+    "day": "2025-11-13",
+    "statement": "AEL plans to invest in Dev Information Technology Limited via 1.50 crore warrants at \u20b945.45 per warrant aggregating \u20b968.18 crore",
+    "period": "Q2 FY26"
+   },
+   {
+    "day": "2026-05-13",
+    "statement": "Aeroflex Industries plans to commission automatic welding station and annealing plant by Dec-26",
+    "period": "Dec-26"
+   }
+  ],
+  "ledger": "claims/INE065D01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

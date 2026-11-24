@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": 3
  },
+ "claims": {
+  "total": 89,
+  "by_category": {
+   "capex": 15,
+   "capacity": 27,
+   "guidance": 25,
+   "margin": 16,
+   "order_book": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-05",
+    "statement": "Expect similar quarterly profitability going forward; confident of sustaining performance despite war",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-07",
+    "statement": "Focused on expanding branded portfolio, strengthening domestic and global presence, and maintaining disciplined procurement and inventory management",
+    "period": "Q1 FY27"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Management expects revenue to reach INR 1,800-2,000 crore and Q2 to remain strong",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Management expects next quarter revenue and profitability to remain strong",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-11-17",
+    "statement": "Management expects industry Basmati export target of 6.5 million tons to be achieved this year, possibly higher",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE419D01026.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

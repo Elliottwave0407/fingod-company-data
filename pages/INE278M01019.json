@@ -152,5 +152,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 87,
+  "by_category": {
+   "capex": 44,
+   "guidance": 19,
+   "capacity": 15,
+   "order_book": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-02-04",
+    "statement": "FY26E Logistics Revenue \u20b9680 Crore, EBITDA \u20b9115 Crore",
+    "period": "FY26E"
+   },
+   {
+    "day": "2026-02-04",
+    "statement": "FY26E Consolidated EBITDA \u20b92,600 Crore, FY27E \u20b93,000 Crore, FY28E \u20b95,000 Crore",
+    "period": "FY26E"
+   },
+   {
+    "day": "2026-08-05",
+    "statement": "FY27E consolidated operating revenue guidance \u20b96,850 Crore; FY28E \u20b910,800 Crore",
+    "period": "FY27E, FY28E"
+   },
+   {
+    "day": "2026-08-05",
+    "statement": "FY27E consolidated operating EBITDA guidance \u20b93,000 Crore; FY28E \u20b95,000 Crore",
+    "period": "FY27E, FY28E"
+   },
+   {
+    "day": "2026-08-05",
+    "statement": "Logistics FY30 targets: Revenue \u20b98,000 Crore, EBITDA \u20b92,000 Crore, CAPEX FY25-30 \u20b99,000 Crore",
+    "period": "FY30"
+   }
+  ],
+  "ledger": "claims/INE278M01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

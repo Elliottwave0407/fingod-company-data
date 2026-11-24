@@ -140,5 +140,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 62,
+  "by_category": {
+   "guidance": 29,
+   "order_book": 12,
+   "capex": 8,
+   "capacity": 10,
+   "margin": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-04",
+    "statement": "Domestic business to grow at 15-20% CAGR driven by high-margin chronic therapies",
+    "period": "medium-term"
+   },
+   {
+    "day": "2026-11-04",
+    "statement": "300+ dossier filings by FY27 to build long-term IP-led revenue visibility",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Reiterated full-year FY27 revenue growth guidance of more than 50% and medium-term target of 20-25% CAGR to cross \u20b91,500+ crore by FY30 with 200-300 bps EBITDA margin expansion",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Internal target of 22% EBITDA margin; expects Q3 FY27 margin between 19-20% and full-year FY27 blended margin above 19%",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "FY28 guidance may be revised upward; management expects to share next financial year numbers in next investor call",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE915B01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

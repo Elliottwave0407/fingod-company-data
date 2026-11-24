@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 158,
+  "by_category": {
+   "capacity": 31,
+   "capex": 29,
+   "guidance": 59,
+   "order_book": 13,
+   "margin": 26
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Expect improvement in business momentum in H2FY27 supported by gradual recovery in demand and greater stability in PVC prices",
+    "period": "H2FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Target Apollo standalone EBITDA per ton of INR 9,000-10,000 in H2 FY27",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Target Kisan breakeven EBITDA per ton in H2 FY27 and INR 4,000-5,000 in FY28",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Ceramics business targets INR 1,000 crore revenue and INR 225 crore EBITDA with INR 400-500 crore investment by 2030",
+    "period": "2030"
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "Consolidated revenue target of INR 4,000 crore by 2030 (INR 3,000 crore plumbing + INR 1,000 crore ceramics)",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE126J01016.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -199,5 +199,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 28,
+  "by_category": {
+   "guidance": 9,
+   "order_book": 8,
+   "capex": 8,
+   "margin": 2,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Develop integrated Wind-Solar Hybrid parks with land, generation, transmission, storage and associated facilities planned together",
+    "period": "Not specified"
+   },
+   {
+    "day": "2026-07-15",
+    "statement": "1,000 crore revenue target by FY29",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-09-03",
+    "statement": "Target 1,000 crore revenue by FY29",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Target \u20b950 cr BESS revenue by FY28, 14\u201315% EBITDA margin",
+    "period": "FY28E"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "1,000 crore revenue target by FY29",
+    "period": "FY29E"
+   }
+  ],
+  "ledger": "claims/INE761Y01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -124,5 +124,40 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 8,
+  "by_category": {
+   "guidance": 7,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-02-13",
+    "statement": "Target 25%-30% CAGR growth in Vendor Direct sales",
+    "period": "FY26 onwards"
+   },
+   {
+    "day": "2025-02-13",
+    "statement": "Return ratios expected to improve considerably",
+    "period": "FY26 onwards"
+   },
+   {
+    "day": "2026-05-27",
+    "statement": "Target to grow product offerings from 150,000 to 500,000",
+    "period": "not stated"
+   },
+   {
+    "day": "2026-08-13",
+    "statement": "Aim to increase product offerings from 150,000 to 500,000 through brand partner expansion",
+    "period": "period not stated"
+   },
+   {
+    "day": "2026-11-06",
+    "statement": "Target to increase product offerings from 150,000 to 500,000",
+    "period": "not stated"
+   }
+  ],
+  "ledger": "claims/INE566K01011.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

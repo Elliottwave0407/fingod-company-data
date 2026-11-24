@@ -136,5 +136,43 @@
   ],
   "dividend_per_share": 0
  },
+ "claims": {
+  "total": 125,
+  "by_category": {
+   "capex": 17,
+   "guidance": 45,
+   "capacity": 39,
+   "margin": 20,
+   "order_book": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-17",
+    "statement": "Data center segment volume target 15,000-20,000 tons in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Target 2 million tonnes installed capacity by FY29",
+    "period": "FY29"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "API pipe facility readiness expected by Q4FY27",
+    "period": "Q4FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "DFT facility at Sanand Unit-2 Phase-3 expected operational by Q4 FY27",
+    "period": "Q4FY27"
+   },
+   {
+    "day": "2026-11-16",
+    "statement": "Volume guidance: FY27 at least 6.5 lakh tons, FY28 8.5-9 lakh tons, FY29 1.1-1.2 million tons",
+    "period": "FY27-FY29"
+   }
+  ],
+  "ledger": "claims/INE106T01025.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

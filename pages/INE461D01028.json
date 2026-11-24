@@ -148,5 +148,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 107,
+  "by_category": {
+   "order_book": 29,
+   "capex": 15,
+   "capacity": 16,
+   "guidance": 26,
+   "margin": 21
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-06-01",
+    "statement": "Expects heat transfer equipment to grow 15-20% for next couple of years",
+    "period": "next couple of years"
+   },
+   {
+    "day": "2026-06-01",
+    "statement": "Targets consolidated revenue of INR2,000 crores in a couple of years including Omeras",
+    "period": "in a couple of years"
+   },
+   {
+    "day": "2026-06-01",
+    "statement": "Omeras expected to reach double-digit EBITDA margins in FY27 on standalone basis",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "Revenue target of INR2,000 crore by FY28 remains on track.",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-09",
+    "statement": "EBITDA margin target of 15% by FY28 reiterated; management expects to achieve it earlier rather than later.",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE461D01028.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

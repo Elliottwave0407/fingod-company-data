@@ -148,5 +148,42 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 55,
+  "by_category": {
+   "guidance": 40,
+   "order_book": 3,
+   "capex": 7,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-02",
+    "statement": "Expect tractor demand to moderate in H2FY27, full-year industry growth broadly flat",
+    "period": "H2FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Strong M&HCV demand expected to more than offset weaker tractor demand in H2FY27",
+    "period": "H2FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Export volumes to remain strong in H2FY27; new export products to contribute modestly in Q3 and more in Q4",
+    "period": "H2FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Machining programme expected to begin by early next year",
+    "period": "FY28E"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "EBITDA/kg in line with Q2 levels; raw material and freight volatility, recovery lags and initial new-product costs could improve profitability",
+    "period": "H2FY27"
+   }
+  ],
+  "ledger": "claims/INE189I01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

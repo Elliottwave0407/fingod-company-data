@@ -161,5 +161,32 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "guidance": 3,
+   "margin": 2,
+   "order_book": 3,
+   "capex": 3
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-28",
+    "statement": "Management aims to maintain EBITDA positive in the coming year but declines to give forward-looking revenue or PAT targets",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-05-28",
+    "statement": "Accelerated growth expected only after 12-18 months; current focus on EBITDA and cash control",
+    "period": "next 12-18 months"
+   },
+   {
+    "day": "2024-05-28",
+    "statement": "Internal targets exist but not disclosed; focus on healthy order book, recurring revenue growth, and EBITDA positive",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE246B01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

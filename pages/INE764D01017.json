@@ -130,5 +130,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 114,
+  "by_category": {
+   "guidance": 57,
+   "margin": 17,
+   "capacity": 16,
+   "capex": 11,
+   "order_book": 13
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-12",
+    "statement": "CEO expects overall SFM business double-digit growth for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "CEO expects domestic tractor business to be flat for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "CEO expects export tractor business to be flat for FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "CEO expects Zetor range to grow 40-50% in FY27 over last year",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "CEO targets retail finance penetration of 15% by end of FY27",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE764D01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

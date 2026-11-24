@@ -159,5 +159,20 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 5,
+  "by_category": {
+   "guidance": 1,
+   "capex": 4
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Vision 2030 strategic roadmap aimed at driving sustainable growth and enhancing profitability",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE138C01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

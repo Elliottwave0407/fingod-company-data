@@ -136,5 +136,24 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 2,
+  "by_category": {
+   "guidance": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-10-24",
+    "statement": "Well-positioned to capitalize on cloud and digital transformation opportunities; will invest in talent, innovation, operational excellence",
+    "period": "Q2 FY25"
+   },
+   {
+    "day": "2025-11-06",
+    "statement": "Sustained demand seen for utility network transformation and SAP cloud migrations",
+    "period": "Q2FY26"
+   }
+  ],
+  "ledger": "claims/INE214A01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

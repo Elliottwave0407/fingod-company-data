@@ -113,5 +113,38 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 14,
+  "by_category": {
+   "guidance": 4,
+   "margin": 4,
+   "capex": 3,
+   "capacity": 2,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-28",
+    "statement": "Revenue target of Rs 1,000 crore set for 2030, not next financial year",
+    "period": "2030"
+   },
+   {
+    "day": "2026-07-31",
+    "statement": "Next quarter realization will be above 700 Rs/kg, likely 720-750 range, depending on product mix and market combination.",
+    "period": "Q2 FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Management expects PAT of 100+ crores for FY27 but declines to give quarterly profit guidance due to export market variables and SEBI norms",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-10-27",
+    "statement": "Average realization expected around Rs 700 per kg in second half with slightly better volumes",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE411D01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

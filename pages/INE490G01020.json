@@ -156,5 +156,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 23,
+  "by_category": {
+   "guidance": 12,
+   "capacity": 7,
+   "order_book": 1,
+   "capex": 2,
+   "margin": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-17",
+    "statement": "Target market share 32% by 2030",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-03-20",
+    "statement": "FY26 production target revised to 23.5 lakh tons; actual expected 19-20 lakh tons",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-03-20",
+    "statement": "FY27 production target 25 lakh tons for whole of MOIL",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-03-20",
+    "statement": "Target 3.5 million tons production by 2030; market share increase from 20% to 32%",
+    "period": "2030"
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Enhance production to 3.50 million tonnes by 2030 as per Strategic Management Plan-2030 (SMP-2030)",
+    "period": "2030"
+   }
+  ],
+  "ledger": "claims/INE490G01020.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

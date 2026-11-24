@@ -113,5 +113,14 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "capacity": 8,
+   "capex": 3
+  },
+  "latest_guidance": [],
+  "ledger": "claims/INE600A01035.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

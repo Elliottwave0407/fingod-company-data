@@ -152,5 +152,33 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 11,
+  "by_category": {
+   "capacity": 2,
+   "capex": 4,
+   "guidance": 3,
+   "margin": 1,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-16",
+    "statement": "Revenue growth Q2 up 58% YoY; H1 up 20% YoY",
+    "period": "Q2 FY26"
+   },
+   {
+    "day": "2025-11-16",
+    "statement": "EBITDA margin expansion: Q2 improved from -1.87% to 6.99%; H1 improved from -1.57% to 8.61%",
+    "period": "Q2 FY26"
+   },
+   {
+    "day": "2025-11-21",
+    "statement": "Revenue expected to almost double in FY27 after setup in FY26",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE236Y01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

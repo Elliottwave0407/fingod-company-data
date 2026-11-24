@@ -134,5 +134,19 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 1,
+  "by_category": {
+   "guidance": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-03-31",
+    "statement": "Management has identified the ensuing three quarters of the Financial Year 2026\u201327 as the critical period to evaluate the Company's operational and financial turnaround.",
+    "period": "Three quarters of FY 2026-27"
+   }
+  ],
+  "ledger": "claims/INE650K01021.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

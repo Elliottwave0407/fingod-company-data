@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 85,
+  "by_category": {
+   "capex": 18,
+   "capacity": 29,
+   "order_book": 8,
+   "guidance": 22,
+   "margin": 8
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-05",
+    "statement": "Egypt facility commissioning and ramp-up expected by Q4 FY27",
+    "period": "Q4 FY27"
+   },
+   {
+    "day": "2026-11-05",
+    "statement": "Egypt facility revenue potential ~Rs 300 Cr over 3 years post-launch",
+    "period": "FY27-FY29"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Reaffirmed EBITDA margin target of 13-15% for FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Expects Egypt plant revenue of INR 25-30 crores in FY27 from Jan-Mar sales",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Targets 35% revenue CAGR over next three years",
+    "period": "next three years"
+   }
+  ],
+  "ledger": "claims/INE0PT501018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -155,5 +155,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 66,
+  "by_category": {
+   "capacity": 12,
+   "guidance": 19,
+   "margin": 21,
+   "capex": 13,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-10",
+    "statement": "Targeting FY30 EBITDA margin of 12% (ESOP-adjusted) from current 7%, implying ~500bps expansion over three years",
+    "period": "FY30"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Targets 4-5% volume growth in edible oils, outpacing category growth of 3-4%",
+    "period": null
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Edible oil volume growth ambition of 4% to 5% sustained",
+    "period": "ongoing"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "Peanut butter e-commerce growth target ahead of category within next 2 quarters; modern trade entry in FY28",
+    "period": "next 2 quarters, FY28"
+   },
+   {
+    "day": "2026-11-10",
+    "statement": "No anticipated cost-side impact requiring price increases in quarter ahead; stable consumer pricing environment foreseen",
+    "period": "next quarter"
+   }
+  ],
+  "ledger": "claims/INE209A01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

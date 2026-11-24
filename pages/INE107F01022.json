@@ -142,5 +142,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 23,
+  "by_category": {
+   "guidance": 12,
+   "capex": 6,
+   "capacity": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-01",
+    "statement": "Target patented molecules supply chain beyond FY29-30",
+    "period": "FY29-30"
+   },
+   {
+    "day": "2026-07-01",
+    "statement": "Aim for ~50% gross margins in API business",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Expect better performance in H2FY27 driven by margin recovery and new product commercialisation",
+    "period": "H2FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Target 4 commercial launches of new API molecules each year beginning FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-18",
+    "statement": "Aim for ~50% gross margins in API business",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE107F01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

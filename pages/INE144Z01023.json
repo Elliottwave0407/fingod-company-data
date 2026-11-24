@@ -143,5 +143,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 138,
+  "by_category": {
+   "guidance": 35,
+   "capex": 36,
+   "capacity": 28,
+   "margin": 30,
+   "order_book": 9
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-11-13",
+    "statement": "Revenues from new Amta and Panchla facilities expected to contribute meaningfully from FY28 onwards",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Utilization at new facilities expected to improve progressively over next two years supporting margin recovery",
+    "period": null
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Management expects similar performance for FY27 as H1, driven by existing portfolio and new products.",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Export growth of 35-37% not sustainable long-term; expect strong healthy growth but lower rate with new projects and customer discussions in Europe and US.",
+    "period": null
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Expect similar growth rates in H2 as H1; pricing uncertain due to volatile raw material costs.",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE144Z01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

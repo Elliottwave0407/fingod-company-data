@@ -123,5 +123,31 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 26,
+  "by_category": {
+   "order_book": 21,
+   "guidance": 3,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-08-04",
+    "statement": "Exports sales expected to improve in H2 FY25",
+    "period": "H2 FY25"
+   },
+   {
+    "day": "2024-08-04",
+    "statement": "Continue to target higher than industry growth",
+    "period": null
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "Acquisition creates Rs 1,000+ Cr combined friction business and will be EPS accretive from year one",
+    "period": "Q1 FY27"
+   }
+  ],
+  "ledger": "claims/INE050H01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 75,
+  "by_category": {
+   "guidance": 22,
+   "margin": 21,
+   "capacity": 7,
+   "capex": 11,
+   "order_book": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-20",
+    "statement": "L&D segment expected to remain flat for next 4-5 quarters; profitability to improve from Q1 FY27",
+    "period": "next 4-5 quarters"
+   },
+   {
+    "day": "2026-08-10",
+    "statement": "Target to become net zero debt company in next 36 months",
+    "period": "next 36 months"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "EdTech revenues likely flat for ~1 year then grow; margins stable to slightly up with higher online mix",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "DEXIT H2 revenue expected to expand over previous year due to contract accruals",
+    "period": "H2 FY27"
+   },
+   {
+    "day": "2026-11-07",
+    "statement": "CL Media (platform monetization) expected to see solid H2 with significant revenue growth",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE201M01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -140,5 +140,25 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "guidance": 2,
+   "capex": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-11-21",
+    "statement": "Management expects FY27 and FY28 to be significantly ahead of FY26; no formal projections given until consistent revenue stream achieved",
+    "period": "FY27, FY28"
+   },
+   {
+    "day": "2025-11-21",
+    "statement": "Management refuses to provide multi-year projections, citing need for stable consistent revenue stream first",
+    "period": "next 2-3 years"
+   }
+  ],
+  "ledger": "claims/INE165B01029.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

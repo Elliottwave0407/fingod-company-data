@@ -161,5 +161,36 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 13,
+  "by_category": {
+   "capex": 8,
+   "guidance": 4,
+   "order_book": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-01-28",
+    "statement": "Demand from Canada market will remain sluggish for some time due to reduced offtake of Potash internationally",
+    "period": null
+   },
+   {
+    "day": "2025-03-03",
+    "statement": "Reduce reliance on single territory (Canada) and single product (Potash); diversify into Soda Ash, Salt industry in new geographies",
+    "period": null
+   },
+   {
+    "day": "2025-06-11",
+    "statement": "Evaluating ramping up of capacities at Falta and Aurangabad",
+    "period": null
+   },
+   {
+    "day": "2026-03-31",
+    "statement": "Company is hopeful of penetrating the market with new low abrasive belt with thicker covers from second half of financial year 2026-2027",
+    "period": "Second half of FY 2026-27"
+   }
+  ],
+  "ledger": "claims/INE575C01027.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

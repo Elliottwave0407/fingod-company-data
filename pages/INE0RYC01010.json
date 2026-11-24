@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 95,
+  "by_category": {
+   "capex": 31,
+   "guidance": 29,
+   "capacity": 24,
+   "order_book": 5,
+   "margin": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-20",
+    "statement": "Revenue CAGR guidance of 30-35% over next three years maintained",
+    "period": "next three years"
+   },
+   {
+    "day": "2026-08-20",
+    "statement": "EBITDA margins expected to improve by 3-4% over medium term",
+    "period": "medium term"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Company expects 30-35% CAGR for next 3 years with sustainable margins",
+    "period": "FY27-FY29E"
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Strategic initiatives expected to improve EBITDA margins by 3-4% over medium term",
+    "period": "medium term"
+   },
+   {
+    "day": "2026-11-24",
+    "statement": "FY28 blended PAT margin expected around 15% driven by R32 plant at 22% PAT margin, helium and HFO blends at 15%, and regular business at 10%",
+    "period": "FY28"
+   }
+  ],
+  "ledger": "claims/INE0RYC01010.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

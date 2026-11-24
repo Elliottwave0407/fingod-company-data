@@ -133,5 +133,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 25,
+  "by_category": {
+   "capex": 6,
+   "guidance": 11,
+   "capacity": 5,
+   "order_book": 1,
+   "margin": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-14",
+    "statement": "Roadmap to reach 80% capacity utilisation over next two years",
+    "period": null
+   },
+   {
+    "day": "2025-11-13",
+    "statement": "Target to increase capacity utilization to 75% over next few years",
+    "period": null
+   },
+   {
+    "day": "2026-02-13",
+    "statement": "Target to progressively increase capacity utilization to 75% over next few years",
+    "period": null
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "Company aims to progressively increase capacity utilization to 75% over the next few years",
+    "period": null
+   },
+   {
+    "day": "2026-06-04",
+    "statement": "Management expects to maintain FY26 performance levels in FY27, with review after Q2",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0RWQ01014.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

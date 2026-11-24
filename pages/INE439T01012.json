@@ -114,5 +114,37 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 13,
+  "by_category": {
+   "guidance": 4,
+   "capex": 4,
+   "order_book": 3,
+   "capacity": 2
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-05-27",
+    "statement": "Expect revenues to grow 20-25% CAGR over next 3-4 years",
+    "period": "next 3-4 years"
+   },
+   {
+    "day": "2024-08-16",
+    "statement": "Expect revenues to grow 20-25% CAGR over next 3-4 years for commercial weighing segment",
+    "period": "next 3-4 years"
+   },
+   {
+    "day": "2024-12-03",
+    "statement": "Targets 20-25% CAGR over next 3-4 years; expects to recover Q1 shortfall by end of Q3 and match or slightly exceed last year's INR100 cr revenue",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-12-03",
+    "statement": "Expects EBITDA margin similar to last year (~18%) if top line is maintained",
+    "period": "FY25"
+   }
+  ],
+  "ledger": "claims/INE439T01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

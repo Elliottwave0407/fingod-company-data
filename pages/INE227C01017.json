@@ -103,5 +103,43 @@
   "annual_report_fy": null
  },
  "annual_report": null,
+ "claims": {
+  "total": 58,
+  "by_category": {
+   "guidance": 19,
+   "capex": 14,
+   "margin": 11,
+   "order_book": 4,
+   "capacity": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-28",
+    "statement": "Green energy transition expected to enhance profitability margins with visible improvements from FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "Interest cost reduced by \u20b92 crore vs previous quarter, further reduction expected in upcoming quarters",
+    "period": "Q4FY26"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "FY27 revenue guidance of INR1,800-1,900 crores implying ~18% growth over FY26",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-21",
+    "statement": "Machining mix expected to hover at 65-68% of sales for rest of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-13",
+    "statement": "Company focused on expanding into new product segments and customer categories, exploring organic and inorganic growth, driving cost optimization and operational efficiency for sustainable growth in H2 FY27",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE227C01017.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

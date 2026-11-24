@@ -181,5 +181,41 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 33,
+  "by_category": {
+   "guidance": 19,
+   "capacity": 4,
+   "capex": 10
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-05-28",
+    "statement": "API development for in-house consumption and commercial production",
+    "period": null
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "Expansion in RoW markets Phase I (0-3 years): CIS, Latin America, GCC",
+    "period": null
+   },
+   {
+    "day": "2026-05-28",
+    "statement": "Entry into regulated markets Phase II (3-5 years): EU, USA",
+    "period": null
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "Focus on Hospital business leadership in India, API in-house consumption and commercial production",
+    "period": null
+   },
+   {
+    "day": "2026-11-15",
+    "statement": "Expansion in new RoW markets Phase I (0-3 years: CIS, Latin America, GCC), regulated markets Phase II (3-5 years: EU, USA)",
+    "period": null
+   }
+  ],
+  "ledger": "claims/INE083B01024.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

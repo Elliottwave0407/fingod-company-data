@@ -140,5 +140,43 @@
   "key_risks": [],
   "dividend_per_share": 2.0
  },
+ "claims": {
+  "total": 150,
+  "by_category": {
+   "capex": 37,
+   "capacity": 27,
+   "guidance": 58,
+   "margin": 13,
+   "order_book": 15
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-07-22",
+    "statement": "Export share expected to reach 37% of total revenue by next year",
+    "period": "next year"
+   },
+   {
+    "day": "2026-07-22",
+    "statement": "Internal target to reach INR500 crores revenue by 2030, attempting to achieve sooner",
+    "period": "2030"
+   },
+   {
+    "day": "2026-07-22",
+    "statement": "Conservative growth target of 20%+ year-on-year, potentially 25% with new geographies",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-10-30",
+    "statement": "Alkop segment expects revenue of Rs 95 crore by FY27 (from Rs 40 crore now) including Rs 25-30 crore from 38 parts developed for major customer",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-03",
+    "statement": "Expects >30% revenue growth in FY27 and FY28, driven by domestic and US exports; Europe pipeline of >INR 35 cr to convert in FY28-29",
+    "period": "FY27, FY28"
+   }
+  ],
+  "ledger": "claims/INE071D01033.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

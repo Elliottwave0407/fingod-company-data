@@ -136,5 +136,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 86,
+  "by_category": {
+   "order_book": 30,
+   "guidance": 31,
+   "capex": 10,
+   "capacity": 9,
+   "margin": 6
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-05",
+    "statement": "Net debt to equity ratio expected to improve from current ~2.0x due to profit recognition at end of FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-05",
+    "statement": "Target completion of 5.5 million square feet in FY27",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-05",
+    "statement": "Company will complete around 15 million square feet of ongoing projects across FY27, FY28 and FY29",
+    "period": "FY27-FY29"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "FY27 pre-sales guidance unchanged at INR 6,500 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Net debt expected to remain flat YoY at FY27 year-end",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE227J01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

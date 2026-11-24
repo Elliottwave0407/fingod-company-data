@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 121,
+  "by_category": {
+   "order_book": 35,
+   "capacity": 15,
+   "guidance": 37,
+   "margin": 13,
+   "capex": 21
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-10",
+    "statement": "MoD approved 2x increase in financial ceiling for Field Commanders under DFPDS-2026",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Expect more outcomes from revenue/run-rate programs in FY27; some FTP opportunities may slip to FY28, couple may close in FY27; not projecting ballpark order inflow quantum",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Estimated INR 200 Bn opportunity under Fast Track Procurement across ISR and combat UAV categories",
+    "period": null
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "DAC cleared proposals worth INR 2,120 Bn including Long Range UAS, Surveillance UAV, Integrated Surveillance and Strike Systems, Long Range Kamikaze Drone Systems",
+    "period": null
+   },
+   {
+    "day": "2026-11-11",
+    "statement": "H1 FY27 revenue INR 159.9 crore, highest ever H1 revenue",
+    "period": "H1 FY27"
+   }
+  ],
+  "ledger": "claims/INE349Y01013.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

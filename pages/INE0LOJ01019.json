@@ -174,5 +174,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 133,
+  "by_category": {
+   "capex": 46,
+   "guidance": 26,
+   "margin": 21,
+   "order_book": 17,
+   "capacity": 23
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-08-14",
+    "statement": "EBITDA margin guidance for FY27 at 13-14% at group level",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "ODM home lighting revenue expected around Rs 170 crore for FY27 with potential uptick of Rs 10-15 crore",
+    "period": "FY27"
+   },
+   {
+    "day": "2026-08-14",
+    "statement": "Target to reach peak asset utilization and 17-18% EBITDA margin within 3-3.5 years if geopolitical situation stabilizes",
+    "period": "next 3-3.5 years"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Steady-state consolidated EBITDA margin target 16-18% once new plants and verticals fully commercialized (~1.5 years)",
+    "period": "steady state"
+   },
+   {
+    "day": "2026-11-12",
+    "statement": "Other business segment FY27 growth expected 35-50% YoY (H1 already 47%)",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE0LOJ01019.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

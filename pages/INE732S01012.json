@@ -131,5 +131,43 @@
   ],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 54,
+  "by_category": {
+   "capex": 3,
+   "capacity": 16,
+   "guidance": 19,
+   "order_book": 11,
+   "margin": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2026-10-26",
+    "statement": "Business plan in 2 years: 100+ overseas business contracts, 300+ dossier approvals, 20+ domestic partners, 19 API supply partners (9 products)",
+    "period": "2 years"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Oncology revenue expected to cross 50% share next year and 60% in 2-3 years",
+    "period": "next 2-3 years"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "Revenue growth of 35%+ expected to be maintained in FY28",
+    "period": "FY28"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "EBITDA margin expected around 30% currently, moving to 34-35% with full API integration in couple of years",
+    "period": "FY28-29"
+   },
+   {
+    "day": "2026-11-02",
+    "statement": "API sales to shift from external to captive consumption for backward integration, FY27 API sales ~double H1 run-rate",
+    "period": "FY27"
+   }
+  ],
+  "ledger": "claims/INE732S01012.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

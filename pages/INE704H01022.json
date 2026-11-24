@@ -126,5 +126,42 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 28,
+  "by_category": {
+   "capacity": 12,
+   "guidance": 8,
+   "capex": 3,
+   "order_book": 5
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-07-30",
+    "statement": "By FY26 expected cash reserve INR 80-100 crores for expansion",
+    "period": "FY26"
+   },
+   {
+    "day": "2026-01-28",
+    "statement": "Strong Q4 FY26 and Q1 FY27 movie line-up including The Raja Saab, Border 2, Dhurandhar 2, Toxic, Welcome to the Jungle",
+    "period": "Q4 FY26"
+   },
+   {
+    "day": "2026-05-15",
+    "statement": "Targeting 20-25 screen additions by FY27",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-05-15",
+    "statement": "Estimated screen count FY27 105-110 screens",
+    "period": "FY27E"
+   },
+   {
+    "day": "2026-07-27",
+    "statement": "Estimated screen count FY27 105-110",
+    "period": "FY27E"
+   }
+  ],
+  "ledger": "claims/INE704H01022.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

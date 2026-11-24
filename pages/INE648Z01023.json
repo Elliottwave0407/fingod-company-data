@@ -134,5 +134,38 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 15,
+  "by_category": {
+   "guidance": 4,
+   "margin": 1,
+   "order_book": 1,
+   "capex": 8,
+   "capacity": 1
+  },
+  "latest_guidance": [
+   {
+    "day": "2024-06-06",
+    "statement": "FY25 EBITDA margin target 4-5%",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-06-06",
+    "statement": "FY25 revenue targets: logistics INR700 cr, HCV INR300 cr, petroleum INR35 cr",
+    "period": "FY25"
+   },
+   {
+    "day": "2024-06-06",
+    "statement": "FY26 growth expectations: logistics 10-15%, HCV 5%, petroleum flat",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-12-16",
+    "statement": "Management remains cautiously optimistic for FY26, focusing on industry diversification, operational efficiencies, and improving container volumes",
+    "period": "FY26"
+   }
+  ],
+  "ledger": "claims/INE648Z01023.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

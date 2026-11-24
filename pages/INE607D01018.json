@@ -121,5 +121,43 @@
   "key_risks": [],
   "dividend_per_share": null
  },
+ "claims": {
+  "total": 81,
+  "by_category": {
+   "capex": 23,
+   "margin": 21,
+   "capacity": 22,
+   "order_book": 1,
+   "guidance": 14
+  },
+  "latest_guidance": [
+   {
+    "day": "2025-08-08",
+    "statement": "Marketing spend to continue around 3.7% of revenue range; committed to brand building through TV, digital and tools; no specific amount guidance given",
+    "period": "FY26"
+   },
+   {
+    "day": "2025-11-17",
+    "statement": "No forward guidance given; H2 traditionally better than H1 for top line and margins",
+    "period": "H2 FY26"
+   },
+   {
+    "day": "2026-01-30",
+    "statement": "Full impact of cement and steel demand on tile demand expected to start coming in second half of calendar year 2026, progressively improving quarter-on-quarter",
+    "period": "H2 CY2026"
+   },
+   {
+    "day": "2026-08-18",
+    "statement": "Management does not provide future revenue or margin guidance due to volatility",
+    "period": null
+   },
+   {
+    "day": "2026-11-19",
+    "statement": "Management does not provide formal guidance but expects strong H2 performance based on current trends and sales system contribution rising to 45%",
+    "period": "H2 FY27"
+   }
+  ],
+  "ledger": "claims/INE607D01018.json"
+ },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }
