@@ -3,7 +3,7 @@
  "sym": "BAJAJINDEF",
  "name": "Indef Manufacturing Limited",
  "scrip": "544364",
- "mcap_cr": 637.92,
+ "mcap_cr": 694.4,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 8.93,
    "pat": 6.7,
    "margin_pct": 13.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 41,
     "profit": 10,
-    "quality": 38
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 7,
     "profit": -2,
-    "quality": 18
+    "quality": 33
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Indef Manufacturing Limited is the resulting company from the demerger of Hercules Hoists Limited, engaged in manufacturing with works at Khalapur and Chakan and regional offices in Pune, Delhi, Chennai, and Kolkata.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Kanu Doshi Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding the Scheme of Arrangement between Hercules Hoists Limited (Demerged entity) and Indef Manufacturing Limited (Resulting entity) accounted under pooling of interest method retrospectively as per IND AS 103, impacting comparative figures for year ended March 31, 2025."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 2
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

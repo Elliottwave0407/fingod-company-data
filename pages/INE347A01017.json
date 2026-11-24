@@ -3,7 +3,7 @@
  "sym": "MANGLMCEM",
  "name": "Mangalam Cement Limited",
  "scrip": "502157",
- "mcap_cr": 2452.07,
+ "mcap_cr": 2394.46,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 14,
     "profit": 9,
-    "quality": 3
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,60 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mangalam Cement Limited manufactures grey cement with a total capacity of 5.60 MTPA, operates captive thermal power plants (35 MW), waste heat recovery plant (11 MW), and wind turbines (13.65 MW).",
+  "segments": [
+   {
+    "name": "Cement",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Additional cement grinding capacity of 1.20 MTPA at Aligarh Unit",
+    "amount_cr": null,
+    "timeline": "commissioned during FY 2025-26"
+   },
+   {
+    "item": "Total grey cement manufacturing capacity increased to 5.60 MTPA",
+    "amount_cr": null,
+    "timeline": "as of FY 2025-26"
+   },
+   {
+    "item": "Captive Thermal Power Plant capacity 35 MW (17.5x2)",
+    "amount_cr": null,
+    "timeline": "existing"
+   },
+   {
+    "item": "Waste Heat Recovery Power Plant capacity 11 MW",
+    "amount_cr": null,
+    "timeline": "existing"
+   },
+   {
+    "item": "Wind Turbines total capacity 13.65 MW (13 turbines)",
+    "amount_cr": null,
+    "timeline": "existing"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Singhi & Co., Chartered Accountants (Firm Registration No. 302049E)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "The Independent Auditors' Report does not contain any qualification, reservation, adverse remark, or disclaimer of opinion."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 586,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "The Company has formulated a comprehensive Risk Management Policy to identify, assess, monitor and mitigate risks that may impact its business objectives. A detailed discussion on the principal risks and the corresponding mitigation strategies forms part of the Management Discussion and Analysis section."
+  ],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

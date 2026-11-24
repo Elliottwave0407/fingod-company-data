@@ -3,7 +3,7 @@
  "sym": "BAJAJHIND",
  "name": "Bajaj Hindusthan Sugar Limited",
  "scrip": "500032",
- "mcap_cr": 4061.74,
+ "mcap_cr": 3939.82,
  "group": "B",
  "quarters": [
   {
@@ -66,9 +66,13 @@
    "ebitda": -119.78,
    "pat": -184.7,
    "margin_pct": -10.6,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 17,
+    "profit": -9,
+    "quality": 7
+   },
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -95,7 +99,66 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bajaj Hindusthan Sugar Limited is engaged in the manufacturing of sugar, industrial alcohol/ethanol, and power generation from bagasse across its 14 sugar plants, 6 distilleries, and 14 co-generation plants in Uttar Pradesh, India.",
+  "segments": [
+   {
+    "name": "Sugar",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Distillery (Industrial Alcohol/Ethanol)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Co-generation (Power)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Sugarcane crushing capacity",
+    "amount_cr": null,
+    "timeline": "1,36,000 TCD (aggregate across 14 plants)"
+   },
+   {
+    "item": "Industrial Alcohol production capacity",
+    "amount_cr": null,
+    "timeline": "800 kilolitres per day (aggregate across 6 distilleries)"
+   },
+   {
+    "item": "Power generation capacity",
+    "amount_cr": null,
+    "timeline": "449 MW (aggregate across 14 co-generation plants)"
+   },
+   {
+    "item": "Capital work-in-progress",
+    "amount_cr": 36.84,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Sidharth N Jain & Company",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Raw material risk due to cane variety issues affecting yield and sugar recovery in Uttar Pradesh over the last 2-3 years",
+   "Sugar price risk due to mismatch between state-fixed cane prices and market-driven sugar realisations; Minimum Selling Price (MSP) of sugar fixed at \u20b931/kg since Feb 2019 with no increase since",
+   "Regulatory risk from disjointed sugarcane pricing by state government and evolving government policies",
+   "Ability to make timely cane price payments to farmers affecting cane availability"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

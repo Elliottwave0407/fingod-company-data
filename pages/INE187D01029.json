@@ -3,7 +3,7 @@
  "sym": "TALBROAUTO",
  "name": "Talbros Automotive Components Limited",
  "scrip": "505160",
- "mcap_cr": 2484.56,
+ "mcap_cr": 2460.18,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 53,
     "profit": 50,
-    "quality": 69
+    "quality": 52
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 59,
     "profit": 58,
-    "quality": 79
+    "quality": 72
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-18"
+  "latest_concall": "2026-11-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Talbros Automotive Components Limited is a leading Indian manufacturer of automotive and industrial components including sealing systems, NVH solutions, forgings, chassis and suspension systems, anti-vibration products, moulded and extruded hoses, and lightweight aluminium components for OEMs globally.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

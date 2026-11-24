@@ -3,7 +3,7 @@
  "sym": "VLSFINANCE",
  "name": "VLS Finance Limited",
  "scrip": "511333",
- "mcap_cr": 654.05,
+ "mcap_cr": 657.12,
  "group": "B",
  "quarters": [
   {
@@ -66,7 +66,7 @@
    "pillars": {
     "growth": 68,
     "profit": 60,
-    "quality": 83
+    "quality": 90
    },
    "capped_by": null
   }
@@ -95,7 +95,35 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "VLS Finance Limited is a non-banking financial company primarily engaged in the acquisition of securities and investment activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Agiwal & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 36,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "credit risk",
+   "interest rate risk",
+   "economic risk",
+   "currency risk",
+   "political risk",
+   "market risk",
+   "operational risk"
+  ],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SILVERTUC",
  "name": "Silver Touch Technologies Limited",
  "scrip": "543525",
- "mcap_cr": 1606.05,
+ "mcap_cr": 1588.3,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 72,
     "profit": 85,
-    "quality": 72
+    "quality": 78
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 82,
     "profit": 96,
-    "quality": 78
+    "quality": 100
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 79,
     "profit": 96,
-    "quality": 80
+    "quality": 95
    },
    "capped_by": "revenue growth under 20%"
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-01-20"
+  "latest_concall": "2026-01-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Silver Touch Technologies Limited provides IT services including software development, ERP implementations, digital transformation, AI-driven analytics, system integration, cloud solutions, and robotic process automation for global clients and government organizations.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

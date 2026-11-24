@@ -3,7 +3,7 @@
  "sym": "ABCOTS",
  "name": "A B Cotspin India Limited",
  "scrip": "544522",
- "mcap_cr": 352.74,
+ "mcap_cr": 370.42,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 8.94,
    "pat": 1.96,
    "margin_pct": 8.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 62,
     "profit": 38,
-    "quality": 10
+    "quality": 26
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 77,
     "profit": 10,
-    "quality": 42
+    "quality": 43
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "A B Cotspin India Limited is engaged in cotton spinning and textile manufacturing.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Jain Sharma & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

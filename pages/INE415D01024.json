@@ -3,7 +3,7 @@
  "sym": "BHARATSE",
  "name": "Bharat Seats Limited",
  "scrip": "523229",
- "mcap_cr": 1286.77,
+ "mcap_cr": 1275.15,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 82,
     "profit": 30,
-    "quality": 39
+    "quality": 43
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 77,
     "profit": 34,
-    "quality": 58
+    "quality": 64
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 90,
     "profit": 31,
-    "quality": 62
+    "quality": 67
    },
    "capped_by": null
   }
@@ -109,7 +109,31 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bharat Seats Limited manufactures automotive seats and components, primarily for Maruti Suzuki India Limited.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Income Tax Search conducted under Section 132 of the Income Tax Act, 1961 at certain premises of the Company including manufacturing locations and residence of few employees/key managerial personnel."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Uncertainty relating to outcome of Income Tax Department search conducted in an earlier year under Section 132 of the Income Tax Act, 1961",
+   "Significant judgement and estimate involved in calculation of price variations for revenue recognition",
+   "High concentration of sales to Maruti Suzuki India Limited (promoter group entity)"
+  ],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

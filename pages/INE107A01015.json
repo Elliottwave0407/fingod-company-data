@@ -3,7 +3,7 @@
  "sym": "TNPL",
  "name": "Tamil Nadu Newsprint & Papers Limited",
  "scrip": "531426",
- "mcap_cr": 915.31,
+ "mcap_cr": 931.92,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 114.87,
    "pat": 5.74,
    "margin_pct": 10.0,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 37,
     "profit": 51,
-    "quality": 0
+    "quality": 43
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Tamil Nadu Newsprint and Papers Limited manufactures and sells writing and printing paper, packaging board, and cement.",
+  "segments": [
+   {
+    "name": "Writing and Printing Paper",
+    "share_of_revenue_pct": 67
+   },
+   {
+    "name": "Packaging Board",
+    "share_of_revenue_pct": 29
+   },
+   {
+    "name": "Cement",
+    "share_of_revenue_pct": 1
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "A.John Moris & Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 864,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": 4.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

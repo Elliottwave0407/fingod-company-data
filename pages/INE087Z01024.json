@@ -49,11 +49,11 @@
    "ebitda": 5.32,
    "pat": 1.88,
    "margin_pct": 16.3,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 84,
     "profit": 93,
-    "quality": 54
+    "quality": 98
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 30,
     "profit": 6,
-    "quality": 9
+    "quality": 23
    },
    "capped_by": null
   }
@@ -96,7 +96,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aakash Exploration Services Limited provides oilfield services at the production stage, including equipment such as workover rigs, coil tubing units, air compressors, and sucker rod pumping units for oil and gas exploration.",
+  "segments": [
+   {
+    "name": "Oilfield Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

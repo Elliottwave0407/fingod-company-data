@@ -284,7 +284,7 @@
   "sym": "XELPMOC",
   "name": "Xelpmoc Design And Tech Limited",
   "held": 5,
-  "concalls": 5
+  "concalls": 6
  },
  {
   "isin": "INE01QM01018",
@@ -609,6 +609,13 @@
   "concalls": 0
  },
  {
+  "isin": "INE045J01034",
+  "sym": "FCL",
+  "name": "Fineotex Chemical Limited",
+  "held": 5,
+  "concalls": 12
+ },
+ {
   "isin": "INE046A01015",
   "sym": "RIIL",
   "name": "Reliance Industrial Infrastructure Limited",
@@ -711,7 +718,7 @@
   "sym": "RML",
   "name": "Rane (Madras) Limited",
   "held": 5,
-  "concalls": 14
+  "concalls": 15
  },
  {
   "isin": "INE050M01012",
@@ -1953,6 +1960,13 @@
   "concalls": 3
  },
  {
+  "isin": "INE0RB801010",
+  "sym": "SENORES",
+  "name": "Senores Pharmaceuticals Limited",
+  "held": 6,
+  "concalls": 9
+ },
+ {
   "isin": "INE0RE001014",
   "sym": "GALAPREC",
   "name": "Gala Precision Engineering Limited",
@@ -1971,7 +1985,7 @@
   "sym": "STALLION",
   "name": "Stallion India Fluorochemicals Limited",
   "held": 5,
-  "concalls": 6
+  "concalls": 7
  },
  {
   "isin": "INE0S2G01011",
@@ -2013,7 +2027,7 @@
   "sym": "MAMATA",
   "name": "Mamata Machinery Limited",
   "held": 5,
-  "concalls": 4
+  "concalls": 5
  },
  {
   "isin": "INE0U4101014",
@@ -2310,13 +2324,6 @@
   "concalls": 1
  },
  {
-  "isin": "INE12NJ01018",
-  "sym": "SAMBHV",
-  "name": "Sambhv Steel Tubes Limited",
-  "held": 6,
-  "concalls": 6
- },
- {
   "isin": "INE132H01018",
   "sym": "AURIONPRO",
   "name": "Aurionpro Solutions Limited",
@@ -2328,7 +2335,7 @@
   "sym": "IFGLEXPOR",
   "name": "IFGL Refractories Limited",
   "held": 5,
-  "concalls": 17
+  "concalls": 18
  },
  {
   "isin": "INE134B01017",
@@ -2608,7 +2615,7 @@
   "sym": "HGS",
   "name": "Hinduja Global Solutions Limited",
   "held": 5,
-  "concalls": 10
+  "concalls": 11
  },
  {
   "isin": "INE170V01027",
@@ -2846,7 +2853,7 @@
   "sym": "EXPLEOSOL",
   "name": "Expleo Solutions Limited",
   "held": 5,
-  "concalls": 5
+  "concalls": 6
  },
  {
   "isin": "INE201M01029",
@@ -2965,7 +2972,7 @@
   "sym": "MAANALU",
   "name": "Maan Aluminium Limited",
   "held": 5,
-  "concalls": 4
+  "concalls": 5
  },
  {
   "isin": "INE217A01012",
@@ -3052,6 +3059,13 @@
   "concalls": 2
  },
  {
+  "isin": "INE227J01012",
+  "sym": "KALPATARU",
+  "name": "Kalpataru Limited",
+  "held": 6,
+  "concalls": 5
+ },
+ {
   "isin": "INE228I01012",
   "sym": "ASAHISONG",
   "name": "Asahi Songwon Colors Limited",
@@ -3126,7 +3140,7 @@
   "sym": "SUMEETINDS",
   "name": "Sumeet Industries Limited",
   "held": 5,
-  "concalls": 5
+  "concalls": 6
  },
  {
   "isin": "INE236A01020",
@@ -4211,7 +4225,7 @@
   "sym": "RANEHOLDIN",
   "name": "Rane Holdings Limited",
   "held": 5,
-  "concalls": 14
+  "concalls": 15
  },
  {
   "isin": "INE384C01016",
@@ -4904,7 +4918,7 @@
   "sym": "SDBL",
   "name": "Som Distilleries & Breweries Limited",
   "held": 5,
-  "concalls": 11
+  "concalls": 12
  },
  {
   "isin": "INE481Z01011",
@@ -5583,7 +5597,7 @@
   "sym": "INDIAGLYCO",
   "name": "India Glycols Limited",
   "held": 5,
-  "concalls": 10
+  "concalls": 11
  },
  {
   "isin": "INE560K01014",
@@ -6032,6 +6046,13 @@
   "name": "Globus Spirits Limited",
   "held": 6,
   "concalls": 13
+ },
+ {
+  "isin": "INE615P01015",
+  "sym": "QUESS",
+  "name": "Quess Corp Limited",
+  "held": 6,
+  "concalls": 12
  },
  {
   "isin": "INE615R01029",
@@ -6524,6 +6545,13 @@
   "concalls": 0
  },
  {
+  "isin": "INE694D01016",
+  "sym": "VADILALIND",
+  "name": "Vadilal Industries Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
   "isin": "INE694E01014",
   "sym": "KANPRPLA",
   "name": "Kanpur Plastipack Limited",
@@ -6899,7 +6927,7 @@
   "sym": "JINDRILL",
   "name": "Jindal Drilling And Industries Limited",
   "held": 5,
-  "concalls": 9
+  "concalls": 10
  },
  {
   "isin": "INE745B01028",
@@ -8362,7 +8390,7 @@
   "sym": "NATCAPSUQ",
   "name": "Natural Capsules Limited",
   "held": 5,
-  "concalls": 6
+  "concalls": 7
  },
  {
   "isin": "INE937A01023",
@@ -8691,7 +8719,7 @@
   "sym": "PARKHOTELS",
   "name": "Apeejay Surrendra Park Hotels Limited",
   "held": 5,
-  "concalls": 10
+  "concalls": 11
  },
  {
   "isin": "INE989A01032",

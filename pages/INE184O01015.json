@@ -3,7 +3,7 @@
  "sym": "DIFFNKG",
  "name": "Diffusion Engineers Limited",
  "scrip": "544264",
- "mcap_cr": 1578.83,
+ "mcap_cr": 1581.63,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 84,
     "profit": 46,
-    "quality": 71
+    "quality": 42
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 80,
     "profit": 40,
-    "quality": 90
+    "quality": 60
    },
    "capped_by": null
   }
@@ -99,7 +99,46 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Diffusion Engineers Limited is a pioneer in wear solutions and an established leader in heavy engineering, delivering complete engineering solutions including consumables, wear plates, wear parts, heavy machinery, and lifecycle services across diverse industrial end-markets.",
+  "segments": [
+   {
+    "name": "Manufacturing",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Trading",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Job Work",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "capex",
+    "amount_cr": 1.855,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Chitaley Mehta & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 68.11,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

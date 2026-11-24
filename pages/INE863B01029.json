@@ -3,7 +3,7 @@
  "sym": "PREMEXPLN",
  "name": "Premier Explosives Limited",
  "scrip": "526247",
- "mcap_cr": 2944.5,
+ "mcap_cr": 3131.32,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 30,
     "profit": 0,
-    "quality": 80
+    "quality": 67
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 1,
     "profit": 5,
-    "quality": 15
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,46 @@
   ],
   "concalls_found": 12,
   "concalls_read": 11,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Premier Explosives Limited manufactures high-energy materials including solid propellants, pyrotechnic devices, countermeasure systems, explosive compositions, detonators, detonating fuse, cast boosters, and bulk explosives for defence, space, mining, and infrastructure sectors, and provides operation and maintenance services for solid propellant facilities at ISRO's Sriharikota Centre.",
+  "segments": [
+   {
+    "name": "Defence and Space",
+    "share_of_revenue_pct": 81
+   },
+   {
+    "name": "Commercial Explosives",
+    "share_of_revenue_pct": 19
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": 1569,
+  "auditor": {
+   "name": "",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion on the adequacy and operating effectiveness of the parent Company's internal financial controls over financial reporting; Material uncertainty on going concern of wholly owned subsidiary PELNEXT Defence Systems Private Limited"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 850,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Raw materials cost or availability",
+   "Cyclical demand and pricing in principal markets",
+   "Changes in government regulations",
+   "Economic developments in countries of operation",
+   "Litigation",
+   "Labour negotiations",
+   "Fiscal regimes",
+   "Ban on electric detonators production",
+   "Going concern uncertainty for subsidiary PELNEXT Defence Systems Private Limited"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "HITECHGEAR",
  "name": "The Hi-Tech Gears Limited",
  "scrip": "522073",
- "mcap_cr": 917.38,
+ "mcap_cr": 914.65,
  "group": "T",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 25.23,
    "pat": 8.11,
    "margin_pct": 11.0,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 20,
     "profit": 9,
-    "quality": 6
+    "quality": 15
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 34,
     "profit": 30,
-    "quality": 4
+    "quality": 19
    },
    "capped_by": null
   }
@@ -99,7 +99,39 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Hi-Tech Gears Limited is a world-class Indian brand focused on innovation, sustainability, and resilience, delivering high-quality manufacturing solutions with strict adherence to schedules.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Barring any unforeseen developments or adverse macroeconomic conditions, the long-term outlook of the Company remains positive.",
+    "metric": "long-term outlook",
+    "value": "positive",
+    "by_when": "long-term"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "global economic volatility",
+   "inflationary pressures",
+   "geopolitical developments",
+   "inventory valuation and obsolescence risk"
+  ],
+  "dividend_per_share": 4.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

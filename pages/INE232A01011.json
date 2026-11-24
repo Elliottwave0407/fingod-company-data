@@ -3,7 +3,7 @@
  "sym": "SHREDIGCEM",
  "name": "Shree Digvijay Cement Co.Ltd",
  "scrip": "502180",
- "mcap_cr": 816.04,
+ "mcap_cr": 814.71,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 19,
     "profit": 32,
-    "quality": 2
+    "quality": 0
    },
    "capped_by": null
   },
@@ -109,7 +109,40 @@
   "missing": [],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-03-27"
+  "latest_concall": "2026-03-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shree Digvijay Cement Company Limited is engaged in the manufacturing and sale of cement in India.",
+  "segments": [
+   {
+    "name": "Cement Business",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure - Cement Business",
+    "amount_cr": 345.9634,
+    "timeline": "Year ended March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to cut-off issues and fictitious sales from new customers"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

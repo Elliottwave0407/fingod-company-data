@@ -3,7 +3,7 @@
  "sym": "SHIVAMILLS",
  "name": "Shiva Mills Limited",
  "scrip": "540961",
- "mcap_cr": 56.6,
+ "mcap_cr": 57.89,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 58,
     "profit": 86,
-    "quality": 40
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 64,
     "profit": 90,
-    "quality": 54
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -99,7 +99,58 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shiva Mills Limited is engaged in the manufacturing of cotton yarn and generation of wind power for captive consumption.",
+  "segments": [
+   {
+    "name": "Spinning (Cotton Yarn)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Wind Power Generation",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Wind Mills",
+    "amount_cr": null,
+    "timeline": "Installed capacity 10.65 MW"
+   },
+   {
+    "item": "Capital expenditure on property, plant and equipment including capital advances",
+    "amount_cr": 2.98,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company expects to maintain stable operations with the possibility of achieving a marginal profit during the year.",
+    "metric": "Profitability",
+    "value": "Marginal profit",
+    "by_when": "Current year (FY 2026-27)"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "V K S Aiyer & Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Volatility in cotton prices",
+   "Pressure on yarn realizations",
+   "Dependence on demand for yarn in domestic and export markets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

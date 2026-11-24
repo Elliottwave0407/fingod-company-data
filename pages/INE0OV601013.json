@@ -3,7 +3,7 @@
  "sym": "EMSLIMITED",
  "name": "Ems Limited",
  "scrip": "543983",
- "mcap_cr": 1676.2,
+ "mcap_cr": 1638.99,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 12,
-    "quality": 1
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 0,
     "profit": 13,
-    "quality": 25
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,34 @@
   ],
   "concalls_found": 9,
   "concalls_read": 8,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "EMS Limited is engaged in the business of sewerage solutions, water supply systems, water and waste treatment plants, electrical transmission and distribution, road and allied works, and operation and maintenance of water and wastewater treatment plants for government authorities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Ajay Kumar Kapoor & Company, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 624,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Technological obsolescence due to rapid advancement of technology reducing lifecycle of current solutions",
+   "Delay in completion of projects due to change in government and shifting priorities",
+   "Climate change leading to more frequent and severe weather events overwhelming sewerage systems",
+   "Groundwater depletion and over-exploitation affecting water supply sources",
+   "Infrastructure financing challenges related to cost of capital, project structuring, and delayed payments in PPP frameworks",
+   "Credit risk, liquidity risk, interest rate risk, exchange risk, and commodity price risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

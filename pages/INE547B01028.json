@@ -3,7 +3,7 @@
  "sym": "XTGLOBAL",
  "name": "Xtglobal Infotech Limited",
  "scrip": "531225",
- "mcap_cr": 373.13,
+ "mcap_cr": 370.71,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 27,
     "profit": 34,
-    "quality": 97
+    "quality": 86
    },
    "capped_by": null
   },
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2026-08-21"
+  "latest_concall": "2026-08-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "XTGlobal Infotech Limited provides IT services including software development, maintenance, consulting, package implementation, and platforms across core and digital offerings, with a focus on accounts payable automation through its Circulus platform and GCC-as-a-Service model.",
+  "segments": [
+   {
+    "name": "IT Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "C Ramachandram & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

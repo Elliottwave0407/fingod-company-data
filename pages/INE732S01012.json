@@ -49,11 +49,11 @@
    "ebitda": 26.24,
    "pat": 11.02,
    "margin_pct": 36.9,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 93,
     "profit": 100,
-    "quality": 60
+    "quality": 94
    },
    "capped_by": null
   },
@@ -67,9 +67,9 @@
    "pillars": {
     "growth": 91,
     "profit": 100,
-    "quality": 65
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   },
   {
    "q": "Sep-26",
@@ -81,9 +81,9 @@
    "pillars": {
     "growth": 97,
     "profit": 100,
-    "quality": 64
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   }
  ],
  "completeness": {
@@ -106,7 +106,30 @@
   "missing": [],
   "concalls_found": 5,
   "concalls_read": 4,
-  "latest_concall": "2026-11-02"
+  "latest_concall": "2026-11-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sakar Healthcare Limited is a pharmaceutical company engaged in manufacturing and product development.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "J S Shah & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Existence and Valuation of Inventory",
+   "Capitalisation of Product Development Expenditure"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

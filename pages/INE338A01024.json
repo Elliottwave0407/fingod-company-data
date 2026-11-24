@@ -3,7 +3,7 @@
  "sym": "TIRUMALCHM",
  "name": "Thirumalai Chemicals Limited",
  "scrip": "500412",
- "mcap_cr": 1447.84,
+ "mcap_cr": 1438.8,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -1.81,
    "pat": -28.0,
    "margin_pct": -0.4,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 5,
+    "profit": 0,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -66,9 +70,9 @@
    "pillars": {
     "growth": 62,
     "profit": 85,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -95,7 +99,68 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Thirumalai Chemicals Limited manufactures commodity chemicals such as Phthalic Anhydride and a diversified portfolio of specialty chemicals and food ingredients including Fumaric Acid, Malic Acid, and Diethyl Phthalate, serving industries like food and beverages, pharmaceuticals, animal nutrition, fragrances, cosmetics, resins, and industrial formulations.",
+  "segments": [
+   {
+    "name": "Phthalic Anhydride (PA)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Food Ingredients and Specialty Chemicals",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "New Phthalic Anhydride capacity in Gujarat through subsidiary",
+    "amount_cr": null,
+    "timeline": "Commissioned during the year"
+   },
+   {
+    "item": "Capital expenditure for TCL Specialties LLC, USA manufacturing plant construction",
+    "amount_cr": 262.11,
+    "timeline": "As at 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Maximizing capacity utilization remains our primary strategic objective for the current fiscal year",
+    "metric": "Capacity utilization",
+    "value": "Maximize",
+    "by_when": "Current fiscal year"
+   },
+   {
+    "statement": "Working with consortium banks to enhance non-funded working capital limits to support higher capacity utilization and restore competitive cost structures",
+    "metric": "Non-funded working capital limits",
+    "value": "Enhance",
+    "by_when": "Current fiscal year"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Walker Chandiok & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Impairment assessment of property, plant and equipment on Company's D1 Dahej Plant due to increased downtime and non-operational status for substantial part of the year"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Oversupply and margin compression in Phthalic Anhydride due to aggressive capacity additions by domestic competitors",
+   "Geopolitical volatility impacting raw material costs and working capital requirements",
+   "Higher import tariffs by the US affecting customer base",
+   "Reduced capacity utilization leading to inflated fixed costs and compromised utility efficiencies",
+   "Breach of financial covenants on non-convertible debentures and term loans",
+   "Impairment risk on D1 Dahej Plant due to increased downtime and adverse market conditions",
+   "Dependence on successful debt fundraising for TCL Specialties LLC (USD 130 million senior secured term loan) to meet liquidity needs"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

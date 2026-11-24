@@ -3,8 +3,8 @@
  "sym": "MHLXMIRU",
  "name": "Mahalaxmi Rubtech Limited",
  "scrip": "514450",
- "mcap_cr": 189.04,
- "group": "T",
+ "mcap_cr": 182.67,
+ "group": "B",
  "quarters": [
   {
    "q": "Mar-25",
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 65,
     "profit": 28,
-    "quality": 64
+    "quality": 36
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 56,
     "profit": 19,
-    "quality": 77
+    "quality": 60
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 34,
     "profit": 18,
-    "quality": 47
+    "quality": 10
    },
    "capped_by": null
   }
@@ -109,7 +109,39 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mahalaxmi Rubtech Limited manufactures and markets polymer-based technical textiles and rubber products, including offset rubber printing blankets, technical coated fabrics, and digital print media.",
+  "segments": [
+   {
+    "name": "Technical Textiles & Rubber Division",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "JAIN CHOWDHARY & CO.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "High production costs",
+   "Import reliance for specialized machinery and high-performance raw materials",
+   "Low end-user awareness",
+   "Niche market limiting economies of scale",
+   "Complex recycling challenges due to polymer blends",
+   "Lack of unified global standardization"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

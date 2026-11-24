@@ -3,7 +3,7 @@
  "sym": "TTKHLTCARE",
  "name": "TTK Healthcare Limited",
  "scrip": "507747",
- "mcap_cr": 1564.93,
+ "mcap_cr": 1504.67,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 75,
     "profit": 71,
-    "quality": 72
+    "quality": 55
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 74,
     "profit": 80,
-    "quality": 80
+    "quality": 68
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 75,
     "profit": 100,
-    "quality": 99
+    "quality": 100
    },
    "capped_by": "revenue growth under 20%"
   }
@@ -109,7 +109,53 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "TTK Healthcare Limited operates in Consumer Products, Animal Welfare Products, Medical Devices, Protective Devices (Male Contraceptives) and Foods segments.",
+  "segments": [
+   {
+    "name": "Consumer Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Animal Welfare Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Medical Devices",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Protective Devices (Male Contraceptives)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Foods",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Proper books of account have been kept except for the matter stated in paragraph (h)(vi) below on reporting under Rule 11(g) of the Companies (Audit and Auditors) Rules, 2014"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Global trade uncertainties",
+   "Geopolitical tensions",
+   "Inflationary pressures",
+   "Supply chain disruptions"
+  ],
+  "dividend_per_share": 10
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

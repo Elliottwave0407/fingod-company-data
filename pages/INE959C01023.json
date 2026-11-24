@@ -3,7 +3,7 @@
  "sym": "OAL",
  "name": "Oriental Aromatics Limited",
  "scrip": "500078",
- "mcap_cr": 1749.31,
+ "mcap_cr": 1787.34,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 36,
     "profit": 30,
-    "quality": 40
+    "quality": 60
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 46,
     "profit": 34,
-    "quality": 50
+    "quality": 75
    },
    "capped_by": null
   }
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Oriental Aromatics Limited is a fully integrated manufacturer of Fragrances, Flavours, Specialty Aroma Ingredients, and Camphor & Terpene Chemicals, operating across the entire value chain from molecule synthesis to formulation and global customer delivery.",
+  "segments": [
+   {
+    "name": "Fragrance & Flavours",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Specialty Aroma Chemicals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Camphor & Terpene Chemicals",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "capital expenditure",
+    "amount_cr": 2.31,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "capital expenditure",
+    "amount_cr": 3.57,
+    "timeline": "FY 2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Lodha & Co. LLP, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

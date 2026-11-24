@@ -92,7 +92,37 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Art Nirman Limited is a real estate development company focused on residential and commercial government redevelopment projects in Ahmedabad, Gujarat.",
+  "segments": [
+   {
+    "name": "Real Estate Development",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "KDN & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Delays in statutory dues compliance (GST, TDS, Provident Fund, ESI) with interest",
+   "Forward-looking statements subject to risks, uncertainties, and inaccurate assumptions",
+   "Dependence on government tenders for project pipeline",
+   "Project execution and completion risks for ongoing residential/commercial projects"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

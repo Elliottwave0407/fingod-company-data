@@ -3,7 +3,7 @@
  "sym": "TEXRAIL",
  "name": "Texmaco Rail & Engineering Limited",
  "scrip": "533326",
- "mcap_cr": 4528.0,
+ "mcap_cr": 4565.02,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 27,
     "profit": 58,
-    "quality": 66
+    "quality": 78
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 10,
     "profit": 35,
-    "quality": 79
+    "quality": 73
    },
    "capped_by": null
   }
@@ -99,7 +99,56 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Texmaco Rail & Engineering Ltd. is an integrated provider of rail and infrastructure solutions, spanning freight cars, component systems, railway castings, and rail infrastructure solutions.",
+  "segments": [
+   {
+    "name": "Freight Cars",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Component Systems",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Railway Castings",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Rail Infrastructure Solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Vision 2030 roadmap seeks to build a more diversified, technology driven and resilient business with improved margin stability and profitability.",
+    "metric": "Business diversification and margin stability",
+    "value": "Not quantified",
+    "by_when": "2030"
+   }
+  ],
+  "order_book_cr": 5408,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to geopolitical situation, trade uncertainties, supply chain disruption, escalation of costs and other macro level risks; provision for contingencies created by charge to free reserves not routed through profit and loss account."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Supply chain disruptions in key input materials constraining wagon production volumes",
+   "Geopolitical situation and trade uncertainties",
+   "Escalation of costs and macro level risks",
+   "Cyclical nature of freight wagon industry"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

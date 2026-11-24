@@ -3,7 +3,7 @@
  "sym": "ASHOKA",
  "name": "Ashoka Buildcon Limited",
  "scrip": "533271",
- "mcap_cr": 3108.17,
+ "mcap_cr": 3270.99,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 1,
     "profit": 10,
-    "quality": 24
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 4,
     "profit": 14,
-    "quality": 16
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,61 @@
   ],
   "concalls_found": 17,
   "concalls_read": 11,
-  "latest_concall": "2026-11-13"
+  "latest_concall": "2026-11-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ashoka Buildcon Limited is an Indian infrastructure development company engaged in engineering, procurement, and construction (EPC) of roads, bridges, railways, power transmission & distribution, and buildings, along with development and monetization of highway projects under HAM and BOT models.",
+  "segments": [
+   {
+    "name": "Roads & Railways",
+    "share_of_revenue_pct": 66
+   },
+   {
+    "name": "Power Transmission & Distribution",
+    "share_of_revenue_pct": 13
+   },
+   {
+    "name": "EPC Buildings",
+    "share_of_revenue_pct": 4
+   },
+   {
+    "name": "Smart Infra Projects",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Overseas Projects",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Monetization of remaining 6 HAM SPVs",
+    "metric": "Number of assets",
+    "value": "4 assets by September 2026, remaining 2 by Q3/Q4 FY27",
+    "by_when": "FY27"
+   }
+  ],
+  "order_book_cr": 15312,
+  "auditor": {
+   "name": "S R B C & CO. LLP, Chartered Accountants, Mumbai",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding ongoing regulatory matter sub-judice before Ld. Court of Special Judge, CBI, Bihar (Note 57), no adjustments made to financial statements."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Market risk (interest rate risk, currency risk, commodity price risk)",
+   "Extended monsoons and delayed land/contract approvals",
+   "Lower tender activity from authorities",
+   "Regulatory and legal matters (sub-judice CBI case in Bihar)",
+   "Contingent consideration tied to compliances in asset monetization"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

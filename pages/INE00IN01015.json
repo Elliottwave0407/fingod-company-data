@@ -3,7 +3,7 @@
  "sym": "STOVEKRAFT",
  "name": "Stove Kraft Limited",
  "scrip": "543260",
- "mcap_cr": 2510.36,
+ "mcap_cr": 2456.07,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 78,
     "profit": 41,
-    "quality": 50
+    "quality": 76
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 89,
     "profit": 48,
-    "quality": 51
+    "quality": 73
    },
    "capped_by": null
   }
@@ -99,7 +99,52 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Stove Kraft Limited manufactures and sells kitchen appliances and home solutions under the Pigeon brand, with backward-integrated manufacturing and a growing retail network.",
+  "segments": [
+   {
+    "name": "Pigeon brand sales",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Integrated manufacturing capability",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capex investments in specific technologies to improve environmental and social impacts",
+    "amount_cr": null,
+    "timeline": "FY 2024-25"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Target to add up to 100 stores every year",
+    "metric": "Store additions",
+    "value": "100",
+    "by_when": "Annual"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "BMP & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Independent Auditors' Report does not contain any qualification, reservation, or adverse remarks."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "The Company's business is exposed to internal and external risks which are identified and revisited every year."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "INDOWIND",
  "name": "Indowind Energy Limited",
  "scrip": "532894",
- "mcap_cr": 137.33,
+ "mcap_cr": 137.98,
  "group": "B",
  "quarters": [
   {
@@ -62,11 +62,11 @@
    "ebitda": 4.35,
    "pat": 2.11,
    "margin_pct": 52.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 6,
     "profit": 100,
-    "quality": 25
+    "quality": 59
    },
    "capped_by": null
   }
@@ -95,7 +95,30 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2026-02-05"
+  "latest_concall": "2026-02-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Indowind Energy Limited is engaged in the generation and sale of wind power.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Venkatesh & co, Chartered Accountants Chennai (ICAI Firm Registration No.004636S)",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "1. Arbitration claim of Rs 9,083.39 lakhs against Suzlon Group; advance of Rs 1,407.40 lakhs to Suzlon Global Services Ltd accounted without adequate audit evidence and not expensed; compensation receivable of Rs 845.59 lakhs from Suzlon Energy Ltd recognised without counterparty confirmation or Ind AS 109 measurement. 2. Rs 102 lakhs recognized as recoverable from Bank of Baroda based on legal claim pending since 2007 without confirmation or sufficient audit evidence, non-compliant with Ind AS 37 and Ind AS 109. 3. Goodwill of Rs 7,454.69 lakhs transferred from Ind Eco Ventures Limited pursuant to merger not tested for impairment as required under Ind AS."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Multiple related party transactions with promoter group entities involving loans, guarantees and other financial arrangements may not be completely identified, appropriately authorised, conducted at arm's length or adequately disclosed.",
+   "Revenue from sale of power involves application of tariff rates under various power purchase arrangements with distribution companies."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

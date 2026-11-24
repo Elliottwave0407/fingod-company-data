@@ -3,7 +3,7 @@
  "sym": "MINDTECK",
  "name": "Mindteck (India) Limited",
  "scrip": "517344",
- "mcap_cr": 418.92,
+ "mcap_cr": 410.77,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 45,
     "profit": 60,
-    "quality": 96
+    "quality": 86
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 21,
     "profit": 20,
-    "quality": 61
+    "quality": 27
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mindteck (India) Limited is an information technology services company.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Suresh Surana & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

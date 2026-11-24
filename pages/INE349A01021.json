@@ -3,7 +3,7 @@
  "sym": "NRBBEARING",
  "name": "NRB Bearing Limited",
  "scrip": "530367",
- "mcap_cr": 4138.6,
+ "mcap_cr": 4105.16,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 74,
     "profit": 94,
-    "quality": 55
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 65,
     "profit": 60,
-    "quality": 48
+    "quality": 43
    },
    "capped_by": null
   }
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 8,
   "concalls_read": 5,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "NRB Bearings Limited manufactures bearings including needle bush bearings and cylindrical roller bearings.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "UPENDRA SHUKLA & ASSOCIATES",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Global Warming Potential (GWP) from fossil sources",
+   "Global Warming Potential (GWP): land transformation",
+   "Global Warming Potential (GWP): Biogenic",
+   "Delays in remittance of receivables from customers outside India beyond FEMA timelines"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

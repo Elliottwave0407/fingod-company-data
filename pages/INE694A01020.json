@@ -3,7 +3,7 @@
  "sym": "UNITECH",
  "name": "Unitech Limited",
  "scrip": "507878",
- "mcap_cr": 996.18,
+ "mcap_cr": 962.19,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 36,
     "profit": 20,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 27,
     "profit": 85,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Unitech Limited is a real estate development company engaged in construction of residential and commercial projects, property management, hospitality, and investment activities.",
+  "segments": [
+   {
+    "name": "Real Estate and related Division",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Property Management",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Hospitality",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Investment and Other Activities",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Material uncertainty related to going concern; no impairment assessment for investments in subsidiaries, JVs, associates; Resolution Framework pending Supreme Court approval"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 185,
+  "key_risks": [
+   "Going concern uncertainty due to eroded net worth and losses",
+   "Pending Resolution Framework approval by Supreme Court",
+   "Delays in repayment of public deposits and borrowings",
+   "Litigation and regulatory investigations (SFIO, ED)",
+   "Non-payment of NCDs, term loans, working capital loans (Rs 10,95,453 lakh outstanding)",
+   "No impairment assessment for investments in subsidiaries/JVs/associates"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "DENTA",
  "name": "Denta Water and Infra Solutions Limited",
  "scrip": "544345",
- "mcap_cr": 601.55,
+ "mcap_cr": 595.41,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 10.68,
    "pat": 9.11,
    "margin_pct": 19.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 14,
     "profit": 15,
-    "quality": 46
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 13.13,
    "pat": 11.17,
    "margin_pct": 22.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 7,
     "profit": 18,
-    "quality": 46
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Denta Water and Infra Solutions Limited is engaged in water and wastewater infrastructure projects including engineering, procurement, construction, and operation & maintenance.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Maheshwari & Co., Chartered Accountants, Mumbai / Surat",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 79,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Regulatory and compliance risk",
+   "Joint venture partner performance risk",
+   "Working capital cycle and unbilled revenue risk",
+   "Climatic conditions and input cost pressures",
+   "Changes in government policy and public procurement regulations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

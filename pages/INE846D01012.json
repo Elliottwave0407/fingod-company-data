@@ -3,7 +3,7 @@
  "sym": "LORDSCHLO",
  "name": "Lords Chloro Alkali Limited",
  "scrip": "500284",
- "mcap_cr": 385.11,
+ "mcap_cr": 387.11,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 13.61,
    "pat": 4.39,
    "margin_pct": 13.9,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 72,
     "profit": 58,
-    "quality": 52
+    "quality": 78
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 39,
     "profit": 58,
-    "quality": 73
+    "quality": 85
    },
    "capped_by": null
   }
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 3,
   "concalls_read": 3,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Lords Chloro Alkali Limited manufactures and sells chloro-alkali products such as caustic soda, chlorine, and related chemicals.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital commitments (net of advance)",
+    "amount_cr": 44.75,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding recognition of shortfall in open access power units receivable from CGE II Hybrid Energy Private Limited during Q4 FY2025-26; confirmation from the party is awaited. Opinion is not modified."
+  },
+  "promoter_holding_pct": 74.97,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "High borrowing levels (68.57% of total liabilities)",
+   "Dependence on power supply under open access arrangement with CGE II Hybrid Energy Private Limited",
+   "Contingent liabilities pending in courts/forums",
+   "Unhedged foreign currency exposure on trade payables"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

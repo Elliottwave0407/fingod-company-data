@@ -3,7 +3,7 @@
  "sym": "KRSNAA",
  "name": "Krsnaa Diagnostics Limited",
  "scrip": "543328",
- "mcap_cr": 1682.27,
+ "mcap_cr": 1705.63,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 31,
     "profit": 52,
-    "quality": 71
+    "quality": 80
    },
    "capped_by": null
   },
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Krsnaa Diagnostics is one of the fastest-growing integrated diagnostic service providers in the country, offering a comprehensive portfolio of radiology, pathology and teleradiology services.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding additions made by Income Tax Authorities on account of Undisclosed income and disallowance of certain deductions for AY 2017-18 to AY 2023-24 under search assessment proceedings; demand notice issued; Company filed appeals and deposited tax under protest amounting to INR 102.77 million; management believes impact not expected to be material."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

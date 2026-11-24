@@ -3,7 +3,7 @@
  "sym": "INCREDIBLE",
  "name": "INCREDIBLE INDUSTRIES LIMITED",
  "scrip": "538365",
- "mcap_cr": 147.77,
+ "mcap_cr": 144.27,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 17,
     "profit": 31,
-    "quality": 24
+    "quality": 20
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 26,
     "profit": 36,
-    "quality": 42
+    "quality": 39
    },
    "capped_by": null
   }
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Incredible Industries Limited manufactures steel products including billets, bars, wire rods, and nails.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. R. Gopal & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Foreign exchange rate fluctuations",
+   "Credit risk from trade receivables",
+   "Liquidity risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

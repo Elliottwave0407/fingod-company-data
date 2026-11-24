@@ -3,7 +3,7 @@
  "sym": "GINNIFILA",
  "name": "Ginni Filaments Limited",
  "scrip": "590025",
- "mcap_cr": 334.89,
+ "mcap_cr": 333.86,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 20,
     "profit": 63,
-    "quality": 65
+    "quality": 86
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 20,
     "profit": 16,
-    "quality": 33
+    "quality": 15
    },
    "capped_by": null
   }
@@ -99,7 +99,41 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ginni Filaments Limited is engaged in the manufacturing and sale of textiles, including yarn, fabric, and garments, with operations in both continuing and discontinued segments.",
+  "segments": [
+   {
+    "name": "Continuing operations",
+    "share_of_revenue_pct": 97.3
+   },
+   {
+    "name": "Discontinued Operations",
+    "share_of_revenue_pct": 2.7
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Pending litigations before various forums involving significant judgment on outcomes",
+   "Dependence on insurance claim recovery of \u20b9296 lacs pending before Hon'ble High Court of Allahabad",
+   "Credit risk from counterparties defaulting on contractual obligations",
+   "Liquidity risk managed through borrowings, capital infusion, and operating cash flows"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

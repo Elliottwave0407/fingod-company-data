@@ -3,7 +3,7 @@
  "sym": "IVC",
  "name": "IL&FS Investment Managers Limited",
  "scrip": "511208",
- "mcap_cr": 250.91,
+ "mcap_cr": 249.97,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 3.78,
    "pat": 3.96,
    "margin_pct": 10.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 100,
     "profit": 9,
-    "quality": 40
+    "quality": 0
    },
    "capped_by": null
   },
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "IL&FS Investment Managers Limited manages and advises investment funds as part of the IL&FS Group.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. KKC & Associates LLP",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to ongoing SFIO investigation against IL&FS Group (Note 32); Material uncertainty relating to going concern as extended term of existing funds ended resulting in no fee income (Note 33)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Ongoing SFIO investigation against IL&FS Group creating uncertainty on consequential impact",
+   "Material uncertainty relating to going concern due to end of extended term of existing funds resulting in no fee income",
+   "Dependence on management's assessment to meet obligations through existing earnings and liquid assets"
+  ],
+  "dividend_per_share": 0.7
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

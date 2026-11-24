@@ -3,7 +3,7 @@
  "sym": "NAVKARCORP",
  "name": "Navkar Corporation Limited",
  "scrip": "539332",
- "mcap_cr": 1198.28,
+ "mcap_cr": 1188.95,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 39.85,
    "pat": 13.98,
    "margin_pct": 19.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 96,
-    "quality": 8
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 91,
     "profit": 73,
-    "quality": 56
+    "quality": 98
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   },
   {
    "q": "Sep-26",
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 82,
     "profit": 43,
-    "quality": 54
+    "quality": 86
    },
    "capped_by": null
   }
@@ -109,7 +109,48 @@
   "missing": [],
   "concalls_found": 7,
   "concalls_read": 0,
-  "latest_concall": "2026-10-30"
+  "latest_concall": "2026-10-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Navkar Corporation Limited is a leading integrated logistics service provider operating Container Freight Stations (CFS), Inland Container Depot (ICD), Container Train Operations (CTO), warehousing, Maintenance Repair and Repositioning (MNR) of equipment, and a comprehensive equipment pool across Maharashtra and Gujarat.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Assets held for sale (Land and Building, Plant and Machinery, Furniture and Fixtures, Motor Vehicles, Office Equipment)",
+    "amount_cr": 20.16,
+    "timeline": "As at March 31, 2026"
+   },
+   {
+    "item": "Capital Work-in-Progress",
+    "amount_cr": 2.42,
+    "timeline": "As at March 31, 2026"
+   },
+   {
+    "item": "Transfer to property, plant and equipment during the year",
+    "amount_cr": 2.44,
+    "timeline": "Year ended March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Effect of economic and political conditions in India",
+   "Volatility in interest rates",
+   "New regulations and Government policies that may impact the Company's business",
+   "Ability to implement the strategy"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

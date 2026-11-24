@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 27,
     "profit": 48,
-    "quality": 52
+    "quality": 37
    },
    "capped_by": null
   },
@@ -63,11 +63,11 @@
    "ebitda": 21.85,
    "pat": 17.02,
    "margin_pct": 14.9,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 19,
     "profit": 51,
-    "quality": 51
+    "quality": 35
    },
    "capped_by": null
   }
@@ -96,7 +96,40 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kothari Petrochemicals Limited manufactures Poly Iso Butylene (PIB) and operates in the petrochemicals sector.",
+  "segments": [
+   {
+    "name": "Poly Iso Butylene (PIB)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "P. CHANDRASEKAR LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Foreign currency risk due to geopolitical developments and trade dynamics",
+   "Interest rate risk (though currently not significant as no interest-bearing borrowings)",
+   "Equity price risk from listed equity securities",
+   "Commodity price risk and supply risk for key raw materials derived from crude oil (naphtha, Isobutylene, butane)",
+   "Supply constraints from force majeure-like conditions and government directions prioritizing domestic LPG",
+   "Credit risk from trade receivables and investing activities",
+   "Liquidity risk managed through reserves and banking facilities"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

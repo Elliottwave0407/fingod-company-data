@@ -3,7 +3,7 @@
  "sym": "DOLLAR",
  "name": "Dollar Industries Limited",
  "scrip": "541403",
- "mcap_cr": 1462.43,
+ "mcap_cr": 1439.46,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 38,
     "profit": 29,
-    "quality": 44
+    "quality": 41
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 37,
     "profit": 53,
-    "quality": 50
+    "quality": 57
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 21,
   "concalls_read": 12,
-  "latest_concall": "2026-11-18"
+  "latest_concall": "2026-11-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Dollar Industries Limited is an Indian apparel company engaged in manufacturing and selling hosiery and all-wear apparel products through various channels including distributors, retailers, e-commerce, modern trade, and quick commerce.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Niche Technologies Private Limited",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Competitive and cost-sensitive market environment",
+   "Industry-wide discounting",
+   "Elevated cotton prices",
+   "Sectoral margin pressure",
+   "Estimation uncertainty in rebates, discounts and sales returns"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "NAVNETEDUL",
  "name": "Navneet Education Limited",
  "scrip": "508989",
- "mcap_cr": 2670.04,
+ "mcap_cr": 2643.5,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 25,
-    "quality": 24
+    "quality": 8
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 22,
     "profit": 34,
-    "quality": 39
+    "quality": 16
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

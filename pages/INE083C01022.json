@@ -3,7 +3,7 @@
  "sym": "PLASTIBLEN",
  "name": "Plastiblends India Limited",
  "scrip": "523648",
- "mcap_cr": 444.42,
+ "mcap_cr": 449.35,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 55,
     "profit": 57,
-    "quality": 80
+    "quality": 75
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 72,
     "profit": 71,
-    "quality": 82
+    "quality": 84
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 74,
     "profit": 52,
-    "quality": 73
+    "quality": 68
    },
    "capped_by": null
   }
@@ -109,7 +109,35 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Plastiblends India Limited manufactures and sells masterbatches and additives for the plastics industry.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure on Property, Plant & equipment & Intangible Assets",
+    "amount_cr": 2794.89,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Uncertain tax matters pending litigations under direct tax and various indirect tax laws involving significant judgement to determine possible outcome"
+  ],
+  "dividend_per_share": 3.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "ROTO",
  "name": "Roto Pumps Limited",
  "scrip": "517500",
- "mcap_cr": 1348.14,
+ "mcap_cr": 1343.24,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 12.79,
    "pat": 5.73,
    "margin_pct": 15.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 12,
     "profit": 13,
-    "quality": 12
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 48,
     "profit": 42,
-    "quality": 71
+    "quality": 81
    },
    "capped_by": null
   }
@@ -99,7 +99,45 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Roto Pumps Ltd is a globally renowned manufacturer of Positive Displacement Pumps, including Progressive Cavity Pumps, serving diverse industries such as wastewater, sugar, paper, oil & gas, chemicals, food & beverages, renewable energy, mining, marine, and defense across 55+ countries.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Work-in-Progress additions",
+    "amount_cr": 14.57,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Property, Plant and Equipment additions",
+    "amount_cr": 5.72,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Our Mission is to achieve 100 million USD revenue by 2030",
+    "metric": "Revenue",
+    "value": "100 million USD",
+    "by_when": "2030"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

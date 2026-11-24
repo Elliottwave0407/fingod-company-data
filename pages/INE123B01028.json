@@ -3,7 +3,7 @@
  "sym": "NAGREEKEXP",
  "name": "Nagreeka Exports Limited",
  "scrip": "521109",
- "mcap_cr": 66.25,
+ "mcap_cr": 67.22,
  "group": "B",
  "quarters": [
   {
@@ -66,7 +66,7 @@
    "pillars": {
     "growth": 57,
     "profit": 2,
-    "quality": 24
+    "quality": 41
    },
    "capped_by": null
   }
@@ -95,7 +95,35 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nagreeka Exports Limited is engaged in the business of exports, as indicated by the company name and the context of the annual report excerpts provided.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure on Fixed Assets, Including Capital Advances",
+    "amount_cr": 12.889,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B. Nath & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "The Company is subject to a number of legal and tax related claims which have been disclosed / provided for in the financial statements based on the facts and circumstances of each case. Taxation and litigation exposures have been identified as a key audit matter due to the complexities involved in these matters, timescales involved for resolution and the potential financial impact of these on the financial statements. Further, significant management judgement is involved in assessing the exposure of each case and thus a risk that such cases may not be adequately provided for or disclosed."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

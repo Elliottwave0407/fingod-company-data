@@ -3,7 +3,7 @@
  "sym": "RAJOOENG",
  "name": "Rajoo Engineers Limited",
  "scrip": "522257",
- "mcap_cr": 986.82,
+ "mcap_cr": 968.96,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 21.71,
    "pat": 17.35,
    "margin_pct": 17.6,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 71,
     "profit": 14,
-    "quality": 68
+    "quality": 26
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 9.94,
    "pat": 8.26,
    "margin_pct": 9.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 21,
     "profit": 8,
-    "quality": 44
+    "quality": 0
    },
    "capped_by": null
   }
@@ -95,7 +95,35 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Rajoo Engineers Limited manufactures and sells plastic extrusion machinery, including blown film lines, sheet extrusion lines, and thermoforming machines, and provides related services.",
+  "segments": [
+   {
+    "name": "Extrusion Machinery",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Warranty provision estimation involves significant judgment due to uncertainties in historical claim trends, variability in repair/replacement costs, product lifecycles, technological changes, and sales volume influencing claim frequency.",
+   "Impairment assessment of investment in Rajoo Bausano Extrusion Private Limited involves significant judgment and estimation uncertainty relating to future revenue growth rates, margins, discount rate, and terminal growth."
+  ],
+  "dividend_per_share": 0.15
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

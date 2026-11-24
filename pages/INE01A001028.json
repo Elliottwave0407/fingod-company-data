@@ -3,7 +3,7 @@
  "sym": "STANLEY",
  "name": "Stanley Lifestyles Limited",
  "scrip": "544202",
- "mcap_cr": 700.36,
+ "mcap_cr": 683.22,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-20"
+  "latest_concall": "2026-11-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Stanley Lifestyles Limited is a luxury furniture and home solutions company with a focus on retail experience, full-home solutions, and a national footprint.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure for purchase of new machinery and equipment by the Company and its material subsidiary, Stanley OEM Sofas Limited",
+    "amount_cr": 6.7,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "As we enter FY2027 on the back of our highest-ever order book, our momentum will be supported by growing traction in full-home solutions and a competitive landscape increasingly shaped in the Company's favour.",
+    "metric": "Order book",
+    "value": "Highest-ever",
+    "by_when": "FY2027"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

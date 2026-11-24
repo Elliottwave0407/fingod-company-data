@@ -3,7 +3,7 @@
  "sym": "SAGCEM",
  "name": "Sagar Cements Limited",
  "scrip": "502090",
- "mcap_cr": 1868.46,
+ "mcap_cr": 1871.73,
  "group": "B",
  "quarters": [
   {
@@ -84,9 +84,9 @@
    "pillars": {
     "growth": 35,
     "profit": 15,
-    "quality": 0
+    "quality": 40
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sagar Cements Limited manufactures and sells cement and related building materials, including specialized superfine products from GGBS, silica, and fly ash, operating integrated and grinding plants across India.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R and Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

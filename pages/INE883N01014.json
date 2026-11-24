@@ -3,7 +3,7 @@
  "sym": "PARAGMILK",
  "name": "Parag Milk Foods Limited",
  "scrip": "539889",
- "mcap_cr": 4229.9,
+ "mcap_cr": 4317.2,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 26,
     "profit": 32,
-    "quality": 42
+    "quality": 44
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 50,
     "profit": 42,
-    "quality": 6
+    "quality": 18
    },
    "capped_by": null
   }
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Parag Milk Foods Limited is a leading private-sector dairy FMCG company in India with a fully integrated value chain connecting over half a million rural farmers to advanced manufacturing facilities, offering products across 20+ consumer-focused categories under four power brands: Gowardhan, Go, Pride of Cows, and Avvatar.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Work-in-progress additions during FY2026",
+    "amount_cr": 83.09,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Valuation of trade receivables involving significant management judgment on recoverability and impairment provisions",
+   "Working capital management dependent on cash collection from trade receivables"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

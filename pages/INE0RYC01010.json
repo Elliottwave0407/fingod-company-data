@@ -3,7 +3,7 @@
  "sym": "STALLION",
  "name": "Stallion India Fluorochemicals Limited",
  "scrip": "544342",
- "mcap_cr": 2109.86,
+ "mcap_cr": 2104.05,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 8,
     "profit": 69,
-    "quality": 36
+    "quality": 33
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 69,
     "profit": 95,
-    "quality": 95
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -97,9 +97,29 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 6,
-  "concalls_read": 6,
-  "latest_concall": "2026-08-20"
+  "concalls_found": 7,
+  "concalls_read": 7,
+  "latest_concall": "2026-11-24",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The company is engaged in the business of refrigerant and industrial gases, catering to diverse industries such as automobiles, air-conditioning & refrigeration, pharmaceuticals, defence, and semiconductors.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "NKM & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

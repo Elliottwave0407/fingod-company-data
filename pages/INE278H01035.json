@@ -3,7 +3,7 @@
  "sym": "SANDHAR",
  "name": "Sandhar Technologies Limited",
  "scrip": "541163",
- "mcap_cr": 3345.1,
+ "mcap_cr": 3272.57,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 130.85,
    "pat": 63.82,
    "margin_pct": 10.0,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 66,
     "profit": 32,
-    "quality": 62
+    "quality": 70
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 106.53,
    "pat": 37.28,
    "margin_pct": 7.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 69,
     "profit": 38,
-    "quality": 43
+    "quality": 60
    },
    "capped_by": null
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sandhar Technologies Limited manufactures and supplies automotive components including locking systems, mirrors, operator cabins, aluminium components, precision assemblies, sheet metal, and steel wheels for diverse mobility segments.",
+  "segments": [
+   {
+    "name": "Automotive Division",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Casting, Machining & Tooling",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Sheet Metal & Allied Business",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Cabins and Fabrication Division",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "K.K. Sachdeva & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Credit risk from customer concentration (some customers >10% of receivables)",
+   "Liquidity risk",
+   "Dependence on automotive industry cycles"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

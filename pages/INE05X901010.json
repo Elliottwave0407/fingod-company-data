@@ -3,7 +3,7 @@
  "sym": "HPIL",
  "name": "Hindprakash Industries Limited",
  "scrip": "543645",
- "mcap_cr": 129.09,
+ "mcap_cr": 126.81,
  "group": "B",
  "quarters": [
   {
@@ -95,7 +95,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hindprakash Industries Limited is engaged in the sale of manufactured and traded goods.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "KKAK & Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 74.85,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Revenue Recognition",
+   "Carrying value of trade receivables and advances",
+   "Interest Rate Risk",
+   "Foreign Currency Risk",
+   "Other Price Risk"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

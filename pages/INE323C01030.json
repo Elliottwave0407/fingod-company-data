@@ -3,7 +3,7 @@
  "sym": "INDIANHUME",
  "name": "Indian Hume Pipe Company Limited",
  "scrip": "504741",
- "mcap_cr": 1577.03,
+ "mcap_cr": 1550.69,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 38.31,
    "pat": 22.98,
    "margin_pct": 10.9,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 8,
     "profit": 9,
-    "quality": 25
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 19,
     "profit": 28,
-    "quality": 48
+    "quality": 34
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Indian Hume Pipe Company Limited is engaged in the manufacturing and sale of concrete pipes and the execution of construction contracts, primarily for water supply, sewerage, and irrigation projects, along with operation and maintenance services.",
+  "segments": [
+   {
+    "name": "Sale of goods",
+    "share_of_revenue_pct": 22.1
+   },
+   {
+    "name": "Construction contracts",
+    "share_of_revenue_pct": 70.6
+   },
+   {
+    "name": "Rendering of services - Operation and maintenance income",
+    "share_of_revenue_pct": 7.3
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": 2878.99,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 5.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "EIEL",
  "name": "Enviro Infra Engineers Limited",
  "scrip": "544290",
- "mcap_cr": 2957.68,
+ "mcap_cr": 2900.63,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 79.65,
    "pat": 54.29,
    "margin_pct": 18.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 24,
     "profit": 15,
-    "quality": 33
+    "quality": 1
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 75.7,
    "pat": 45.21,
    "margin_pct": 21.1,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 81,
     "profit": 17,
-    "quality": 43
+    "quality": 18
    },
    "capped_by": null
   }
@@ -99,7 +99,87 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Enviro Infra Engineers Limited is a technology-driven company operating in water, wastewater, and renewable energy infrastructure, delivering EPC solutions for STPs, CETPs, tertiary treatment, and ZLD, while also developing renewable energy IPP assets (solar, BESS) through a subsidiary.",
+  "segments": [
+   {
+    "name": "Water & Wastewater Infrastructure (EPC)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Renewable Energy (IPP & EPC via EIE Renewables Pvt Ltd)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "79 MW Solar IPP Portfolio",
+    "amount_cr": null,
+    "timeline": "FY 2025-26 (under implementation)"
+   },
+   {
+    "item": "150 MWh BESS IPP Project",
+    "amount_cr": null,
+    "timeline": "FY 2025-26 (under development)"
+   },
+   {
+    "item": "12 MW Solar EPC Projects",
+    "amount_cr": null,
+    "timeline": "FY 2025-26 (under implementation)"
+   },
+   {
+    "item": "Acquisition of Suyog Urja Limited",
+    "amount_cr": 311,
+    "timeline": "28th April 2026"
+   },
+   {
+    "item": "930 MWh NTPC BESS EPC Projects",
+    "amount_cr": null,
+    "timeline": "FY 2025-26 (awarded)"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Targeting a 75:25 mix of EPC and Hybrid Annuity Model (HAM) projects",
+    "metric": "Project Mix",
+    "value": "75:25",
+    "by_when": "Ongoing"
+   },
+   {
+    "statement": "Maintain debt-to-equity ratio well below 1.0x",
+    "metric": "Debt-to-Equity Ratio",
+    "value": "0.3x",
+    "by_when": "Ongoing"
+   },
+   {
+    "statement": "IPP segment evaluated on long-term IRR, sustained energy sales revenue, and lease rental income",
+    "metric": "IRR / Annuity Cash Flows",
+    "value": "Long-term focus",
+    "by_when": "Asset lifecycle"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matters: (1) Revenue recognition for long-term contracts; (2) Litigation matters & contingent liabilities (Note 42)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions and uncertainties",
+   "Complex litigation and contingent liabilities (legal, tax, regulatory, corporate guarantees, funding commitments)",
+   "Revenue recognition dependent on management estimates for long-term projects",
+   "Execution risk in large-scale EPC and IPP projects",
+   "Regulatory changes in water and energy sectors"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

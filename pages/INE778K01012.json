@@ -3,7 +3,7 @@
  "sym": "EMAMIREAL",
  "name": "Emami Realty Limited",
  "scrip": "533218",
- "mcap_cr": 342.49,
+ "mcap_cr": 345.09,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -55.51,
    "pat": -65.85,
    "margin_pct": -75.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 100,
+    "profit": 19,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -4.29,
    "pat": -16.82,
    "margin_pct": -75.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 19,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -91,7 +99,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Emami Realty Limited is a Kolkata-based real estate developer engaged in the development of real estate property in India.",
+  "segments": [
+   {
+    "name": "Development of Real Estate property",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Heading into FY 2026-27, the Company expects the residential real estate market to remain stable, supported by steady urbanization, rising household incomes, and continued government emphasis on infrastructure and housing-linked policy support.",
+    "metric": "Market outlook",
+    "value": "Stable",
+    "by_when": "FY 2026-27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Higher losses and negative equity",
+   "Decrease in borrowings leading to debt equity ratio volatility",
+   "Dependence on internal asset monetization for capital recycling",
+   "Exposure to West Bengal regional market concentration",
+   "Regulatory and policy changes in real estate sector",
+   "Execution risk in project pipeline",
+   "Interest coverage ratio negative (-0.74)",
+   "Net profit margin negative (-156.80%)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

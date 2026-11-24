@@ -3,7 +3,7 @@
  "sym": "EUROTEXIND",
  "name": "Eurotex Industries and Exports Limited",
  "scrip": "521014",
- "mcap_cr": 11.02,
+ "mcap_cr": 10.47,
  "group": "T",
  "quarters": [
   {
@@ -91,7 +91,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Eurotex Industries and Exports Limited is a textile manufacturing company with discontinued operations at its Kolhapur mill since March 2019 and announced closure in March 2022, currently planning land development.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on going concern uncertainty due to cash losses, eroded net worth, discontinued operations since 2019, and electricity duty dispute of Rs 305.54 lakhs decided against company by Supreme Court (review petition filed); also Key Audit Matter on evaluation of indirect tax receivables (MVAT Rs 73.20 lakhs, CST Rs 96.90 lakhs, MSEB incentives Rs 178.06 lakhs)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 21,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Going concern uncertainty due to accumulated losses and eroded net worth",
+   "Manufacturing operations discontinued since March 2019",
+   "Supreme Court decision against company on electricity duty of Rs 305.54 lakhs",
+   "Uncertain tax positions on indirect tax receivables (MVAT, CST, MSEB incentives)",
+   "Dependence on promoter group funding for debt settlement"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

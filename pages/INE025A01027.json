@@ -49,11 +49,11 @@
    "ebitda": 14.22,
    "pat": 13.77,
    "margin_pct": 99.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 1,
     "profit": 51,
-    "quality": 50
+    "quality": 0
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 31,
     "profit": 50,
-    "quality": 61
+    "quality": 29
    },
    "capped_by": null
   }
@@ -96,7 +96,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Consolidated Finvest & Holdings Limited is an RBI-registered non-deposit taking Middle Layer NBFC engaged in lending and investment mainly in group companies.",
+  "segments": [
+   {
+    "name": "Lending and Investment in Group Companies",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Kanodia Sanyal & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Performance risk of group companies where strategic investments are held",
+   "Market risk from investments in mutual funds",
+   "Elevated funding costs",
+   "Intensifying competition",
+   "Tighter regulatory compliance requirements",
+   "Credit risk",
+   "Market risk",
+   "Legal and regulatory risk",
+   "Operational risk",
+   "Liquidity risk",
+   "Interest rate risk",
+   "Cybersecurity risk",
+   "Information technology risk",
+   "Strategic risk",
+   "Economic risk"
+  ],
+  "dividend_per_share": 1.47
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

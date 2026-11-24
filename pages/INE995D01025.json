@@ -3,7 +3,7 @@
  "sym": "CHEMBOND",
  "name": "Chembond Material Technologies Limited",
  "scrip": "530871",
- "mcap_cr": 281.74,
+ "mcap_cr": 285.64,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 6.92,
    "pat": 3.48,
    "margin_pct": 9.6,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 91,
     "profit": 67,
-    "quality": 32
+    "quality": 25
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 2.97,
    "pat": 5.73,
    "margin_pct": 4.1,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 40,
     "profit": 15,
-    "quality": 75
+    "quality": 56
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 98,
     "profit": 68,
-    "quality": 39
+    "quality": 31
    },
    "capped_by": null
   }
@@ -109,7 +109,49 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Chembond Material Technologies Limited is a leading manufacturer of automotive sealants, adhesives, metal treatment chemicals, and specialty chemicals.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Property, Plant and Equipment additions",
+    "amount_cr": 10.35,
+    "timeline": "FY2025-26"
+   },
+   {
+    "item": "Capital Work in Progress additions",
+    "amount_cr": 2.6,
+    "timeline": "FY2025-26"
+   },
+   {
+    "item": "R&D Capital Expenditure",
+    "amount_cr": 0.39,
+    "timeline": "FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Kastury & Talati",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical conflicts (Russia-Ukraine war, Middle East tensions) causing volatility in energy markets, raw material prices, and supply chains",
+   "Elevated crude oil prices causing cascading effects on raw material prices",
+   "Supply chain disruptions",
+   "Cost volatility due to geopolitical uncertainties",
+   "Contingent liabilities involving disputed income tax, service tax, GST demands, and product quality cases requiring high degree of judgement"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

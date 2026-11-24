@@ -3,7 +3,7 @@
  "sym": "PODDARMENT",
  "name": "Poddar Pigments Limited",
  "scrip": "524570",
- "mcap_cr": 259.95,
+ "mcap_cr": 257.82,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 4.28,
    "pat": 4.74,
    "margin_pct": 4.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 26,
     "profit": 3,
-    "quality": 47
+    "quality": 17
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 17,
     "profit": 23,
-    "quality": 56
+    "quality": 37
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 17,
     "profit": 15,
-    "quality": 29
+    "quality": 19
    },
    "capped_by": null
   }
@@ -109,7 +109,33 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Poddar Pigments Limited manufactures pigments.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capacity expansion at Chaksu Plant",
+    "amount_cr": 8.4982,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "K.N. Gutgutia & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 4
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

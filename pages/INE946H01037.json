@@ -3,7 +3,7 @@
  "sym": "VIPULLTD",
  "name": "Vipul Limited",
  "scrip": "511726",
- "mcap_cr": 123.9,
+ "mcap_cr": 120.38,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -17.98,
    "pat": -15.45,
    "margin_pct": -44.1,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 18,
+    "profit": 45,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -91,7 +95,38 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vipul Limited is a real estate development company engaged in construction and development of residential and commercial projects.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. JSUS & Associates, Chartered Accountants (FRN 329784E)",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Eight qualified opinions including: 1) Project advances of Rs. 2,200 lakhs to Shri Kamala Priya Auto and General Agencies Private Limited and Rs. 200 lakhs to Mallipudi Anand (struck-off company) with 50% provision made; 2) Advances of Rs. 6,414.80 lakhs to Flying Fox Private Limited (net worth eroded) with no impairment; 3) Project advances of Rs. 3,588.50 lakhs for Amritsar Project under litigation; 4) Loans and advances of Rs. 14,730.11 lakhs with terms not finalised and no impairment; 5) Advance of Rs. 1,080.66 lakhs to associate Vipul Karamchand SEZ Private Limited for project on hold; 6) Non-provision of interest expense on ICDs of Rs. 1,582.28 lakhs and customer advances; 7) Unconfirmed trade receivables under reconciliation; 8) Other matters as per auditor's report."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Governance and key-management risk arising from the unavailability of the Managing Director, CEO & CFO, who holds all three roles",
+   "Project execution risk arising from contractor performance, labour availability, material prices, design changes and construction delays",
+   "Approval and regulatory risk relating to land title, zoning, environmental permissions, building approvals, RERA registration, local-authority procedures and compliance with the SEBI Listing Regulations",
+   "Liquidity and refinancing risk arising from negative operating cash flow, timing mismatches and borrowing obligations",
+   "Customer and receivables risk arising from delayed collections, cancellations, disputes and concentration in specific projects",
+   "Market risk arising from changes in housing demand, prices, interest rates and consumer affordability",
+   "Legal and litigation risk arising from land, contractual, customer, lender, regulatory and tax matters",
+   "Climate and environmental risk arising from heat, flooding, water scarcity, energy costs, extreme weather and the transition to lower-carbon construction",
+   "Cybersecurity and information risk arising from dependence on digital sales, accounting, customer and project systems",
+   "Fraud and conduct risk arising from unauthorised commitments, vendor arrangements, documentation gaps and misuse of Company assets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

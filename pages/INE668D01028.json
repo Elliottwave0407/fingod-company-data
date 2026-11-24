@@ -3,7 +3,7 @@
  "sym": "DONEAR",
  "name": "Donear Industries Limited",
  "scrip": "512519",
- "mcap_cr": 455.31,
+ "mcap_cr": 457.6,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 9,
     "profit": 16,
-    "quality": 62
+    "quality": 64
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 40,
     "profit": 42,
-    "quality": 51
+    "quality": 60
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Donear Industries Limited is engaged in the manufacturing of fabrics and garments with works in Surat, Silvassa, and Bangalore.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. M L Bhuwania & CO LLP, Chartered Accountants, Mumbai",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Corporate Governance non-compliance: lack of woman director, insufficient independent directors, board strength below six, and non-compliant Nomination and Remuneration Committee and Stakeholders' Relationship Committee compositions."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 0.2
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

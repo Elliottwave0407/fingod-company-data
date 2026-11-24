@@ -3,7 +3,7 @@
  "sym": "SURANASOL",
  "name": "Surana Solar Limited",
  "scrip": "533298",
- "mcap_cr": 105.7,
+ "mcap_cr": 105.4,
  "group": "B",
  "quarters": [
   {
@@ -97,7 +97,40 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Surana Solar Limited is engaged in the solar energy business, dealing with solar modules and related EPC/contracting activities.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Total capital expenditure",
+    "amount_cr": 18.1075,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Luharuka & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Commodity price risk (Solar Module)",
+   "Foreign currency risk",
+   "Interest rate risk",
+   "Credit risk",
+   "Liquidity risk",
+   "Regulatory risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "ALLDIGI",
  "name": "Alldigi Tech Limited",
  "scrip": "532633",
- "mcap_cr": 1261.2,
+ "mcap_cr": 1263.26,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 44,
     "profit": 74,
-    "quality": 81
+    "quality": 96
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 40,
     "profit": 73,
-    "quality": 43
+    "quality": 62
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 52,
     "profit": 100,
-    "quality": 69
+    "quality": 96
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -109,7 +109,52 @@
   "missing": [],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Alldigi Tech Limited (formerly Allsec Technologies Limited) provides technology-enabled business process management services including HRO (Human Resource Operations), CLM (Customer Lifecycle Management), and anti-money laundering/KYC compliance solutions.",
+  "segments": [
+   {
+    "name": "HRO (Human Resource Operations)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "CLM (Customer Lifecycle Management)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Anti-Money Laundering/KYC Compliance",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure (capex invoices)",
+    "amount_cr": 2.45,
+    "timeline": "As at 31 March 2025"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Deloitte Haskins and Sells",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 6200,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Periodical changes to contracts with customers affecting revenue recognition",
+   "Concentration of revenue from top clients",
+   "Foreign exchange fluctuations",
+   "Regulatory and compliance risks in multiple jurisdictions",
+   "Talent acquisition and retention in competitive IT/BPM market"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

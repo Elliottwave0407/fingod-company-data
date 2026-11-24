@@ -3,7 +3,7 @@
  "sym": "MEDIASSIST",
  "name": "Medi Assist Healthcare Services Limited",
  "scrip": "544088",
- "mcap_cr": 2003.5,
+ "mcap_cr": 2075.22,
  "group": "A",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 58,
     "profit": 30,
-    "quality": 54
+    "quality": 50
    },
    "capped_by": null
   },
@@ -84,9 +84,9 @@
    "pillars": {
     "growth": 48,
     "profit": 80,
-    "quality": 62
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   }
  ],
  "completeness": {
@@ -109,7 +109,46 @@
   "missing": [],
   "concalls_found": 12,
   "concalls_read": 12,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Medi Assist Healthcare Services Limited is India's foremost technology-driven Health Benefits Administrator, operating as the foundational infrastructure of the country's health insurance ecosystem by connecting insurers, employers, healthcare providers, and government agencies.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capex investments in specific technologies (R&D for fraud detection engine, claim management software)",
+    "amount_cr": null,
+    "timeline": "FY25-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "We enter FY27 with the strongest platform in our history: undisputed leadership in group health administration, a debt-free balance sheet, marquee long-term investors, and AI-powered platform. With employee costs as our largest expense and a fee-based model with no underwriting risk, we expect operating leverage to reassert itself as integration completes, supporting a return to our normalised margin trajectory.",
+    "metric": "Operating leverage and margin trajectory",
+    "value": "Return to normalised margin trajectory",
+    "by_when": "FY27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "MSKA & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 9243,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Economic conditions influencing demand and supply",
+   "Prevailing price levels in domestic and international markets",
+   "Changes in government regulations, tax legislation, and other statutory requirements",
+   "Integration risks from PHS acquisition",
+   "Operational synergies yet to reach full potential"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "UDS",
  "name": "Updater Services Limited",
  "scrip": "543996",
- "mcap_cr": 1434.81,
+ "mcap_cr": 1389.28,
  "group": "B",
  "quarters": [
   {
@@ -42,11 +42,11 @@
    "ebitda": 42.6,
    "pat": 27.37,
    "margin_pct": 5.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 46,
     "profit": 44,
-    "quality": 33
+    "quality": 17
    },
    "capped_by": null
   },
@@ -60,7 +60,7 @@
    "pillars": {
     "growth": 39,
     "profit": 36,
-    "quality": 51
+    "quality": 35
    },
    "capped_by": null
   },
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Updater Services Limited is one of India's leading integrated business services platforms, delivering a comprehensive range of facility management and business support services through a strong pan-India presence.",
+  "segments": [
+   {
+    "name": "Integrated Facility Management (IFM)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Business Support Services (BSS)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "BSR & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "BAIDFIN",
  "name": "Baid Finserv Limited",
  "scrip": "511724",
- "mcap_cr": 160.96,
+ "mcap_cr": 160.47,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 22,
     "profit": 100,
-    "quality": 21
+    "quality": 58
    },
    "capped_by": null
   }
@@ -99,7 +99,55 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2024-08-24"
+  "latest_concall": "2024-08-24",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Baid Finserv Limited is a Non-Banking Financial Company (NBFC) providing Vehicle Loans, Secured MSME Loans (LAP), Gold Loans, and Insurance Services across Rajasthan, Madhya Pradesh, and Gujarat.",
+  "segments": [
+   {
+    "name": "Vehicle Finance",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "MSME Loans",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Loan against Property",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Gold Loans",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Insurance Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Evolving economic dynamics",
+   "Changing customer expectations",
+   "Credit risk and asset quality",
+   "Regulatory compliance",
+   "Data completeness and accuracy in ECL model",
+   "Concentration risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "LAL",
  "name": "Lorenzini Apparels Limited",
  "scrip": "540952",
- "mcap_cr": 159.78,
+ "mcap_cr": 156.33,
  "group": "T",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 4.14,
    "pat": 0.87,
    "margin_pct": 16.1,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 93,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 100,
     "profit": 88,
-    "quality": 80
+    "quality": 69
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Lorenzini Apparels Limited is engaged in the apparel business with all manufacturing and production activities outsourced to third-party manufacturers.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Mittal & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

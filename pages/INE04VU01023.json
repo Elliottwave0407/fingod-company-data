@@ -3,7 +3,7 @@
  "sym": "STYL",
  "name": "Seshaasai Technologies Limited",
  "scrip": "544533",
- "mcap_cr": 4689.94,
+ "mcap_cr": 4517.62,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 87.31,
    "pat": 60.28,
    "margin_pct": 23.2,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 62,
     "profit": 53,
-    "quality": 83
+    "quality": 95
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 44,
     "profit": 32,
-    "quality": 64
+    "quality": 56
    },
    "capped_by": null
   }
@@ -95,7 +95,42 @@
   "missing": [],
   "concalls_found": 5,
   "concalls_read": 5,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Seshaasai Technologies Limited provides technology solutions across Payments, Communications & Fulfillment, and IoT for industries including BFSI, Retail, Manufacturing, Healthcare, Logistics, and Renewable Energy.",
+  "segments": [
+   {
+    "name": "Payments",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Communications & Fulfillment",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "IoT",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to varying contract terms and performance obligations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

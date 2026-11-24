@@ -3,7 +3,7 @@
  "sym": "HLVLTD",
  "name": "HLV LIMITED",
  "scrip": "500193",
- "mcap_cr": 397.53,
+ "mcap_cr": 417.97,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 50,
     "profit": 82,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Sep-26",
@@ -66,9 +66,13 @@
    "ebitda": -3.62,
    "pat": -6.99,
    "margin_pct": -7.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 70,
+    "profit": 74,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -91,7 +95,43 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "HLV Limited operates The Leela Mumbai, a luxury hotel with 394 guest rooms.",
+  "segments": [
+   {
+    "name": "Hotel Operations",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "New luxury resort and hotel at Vellimon (Asthamudi Lake) near Kollam, Kerala",
+    "amount_cr": null,
+    "timeline": "Preliminary work ongoing (boundary wall construction, Panchayat approval); land lease 30 years from Rockfort Estate Developers Private Limited; approved by Board on February 12, 2024"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "N. S. Shetty & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on disputed lease rent and termination by AAI (Rs. 17,552 lakhs cumulative disputed amount not provided), demands by AAI for lease rent and Minimum Guarantee Fees (Rs. 80,705 lakhs cumulative not provided), and going concern uncertainty dependent on favorable judgments/settlements with AAI."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 842,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Disputes with Airports Authority of India (AAI) over lease rent enhancement, unilateral termination of 18,000 sq. mtrs. land lease, and demands for Minimum Guarantee Fees/royalty (cumulative Rs. 80,705 lakhs) and restoration of FSI",
+   "Going concern uncertainty dependent on favorable judgments and settlements with AAI including lease renewal",
+   "Litigation with ITC Ltd. and Russell Credit Limited alleging oppression and mismanagement regarding transaction with Brookfield",
+   "Geopolitical tensions, trade disruptions, energy-price volatility"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

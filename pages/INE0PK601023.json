@@ -3,7 +3,7 @@
  "sym": "OCCLLTD",
  "name": "OCCL Limited",
  "scrip": "544278",
- "mcap_cr": 745.26,
+ "mcap_cr": 755.75,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 80,
     "profit": 39,
-    "quality": 90
+    "quality": 99
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 79
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,57 @@
   ],
   "concalls_found": 6,
   "concalls_read": 5,
-  "latest_concall": "2026-02-10"
+  "latest_concall": "2026-02-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "OCCL Limited operates in the specialised global insoluble sulphur segment within the tyre chemicals ecosystem, manufacturing insoluble sulphur and sulphuric acid/oleum.",
+  "segments": [
+   {
+    "name": "Insoluble Sulphur",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Sulphuric Acid and Oleum",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Insoluble Sulphur production capacity",
+    "amount_cr": null,
+    "timeline": "As of 31 March 2026"
+   },
+   {
+    "item": "Sulphuric Acid and Oleum production capacity",
+    "amount_cr": null,
+    "timeline": "As of 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "OCCL reported an EBITDA margin of 18% in FY 2025\u201326 (18% in FY 2024-25), reflecting resilience.",
+    "metric": "EBITDA margin",
+    "value": "18%",
+    "by_when": "FY 2025-26"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "P Sarawagi & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Foreign Exchange Risk due to export sales, domestic sales, and import of raw materials",
+   "Chinese manufacturers absorbing imported anti-dumping duties putting pressure on realisations in India"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

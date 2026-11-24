@@ -3,7 +3,7 @@
  "sym": "JTEKTINDIA",
  "name": "Jtekt India Limited",
  "scrip": "520057",
- "mcap_cr": 3423.47,
+ "mcap_cr": 3387.42,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 61,
     "profit": 40,
-    "quality": 31
+    "quality": 41
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 67,
     "profit": 35,
-    "quality": 0
+    "quality": 10
    },
    "capped_by": null
   }
@@ -99,7 +99,47 @@
   ],
   "concalls_found": 5,
   "concalls_read": 5,
-  "latest_concall": "2026-05-25"
+  "latest_concall": "2026-05-25",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "JTEKT India Limited manufactures automobile components including steering and driveline products, Constant Velocity (CV) Joints, Hub Units, and Tapered Roller Bearings.",
+  "segments": [
+   {
+    "name": "Automobile components",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "New manufacturing facility in western India",
+    "amount_cr": null,
+    "timeline": "Initiated development"
+   },
+   {
+    "item": "Increased production capacity across steering and driveline product range",
+    "amount_cr": null,
+    "timeline": "Not specified"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not specified in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Revenue recognition risk at year-end",
+   "Foreign currency exposure risk",
+   "Interest rate risk on variable rate borrowings"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

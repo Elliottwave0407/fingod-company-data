@@ -3,7 +3,7 @@
  "sym": "SMCGLOBAL",
  "name": "Smc Global Securities Limited",
  "scrip": "543263",
- "mcap_cr": 1792.25,
+ "mcap_cr": 1691.95,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 106.93,
    "pat": 36.74,
    "margin_pct": 20.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 49,
     "profit": 18,
-    "quality": 35
+    "quality": 52
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 61,
     "profit": 46,
-    "quality": 40
+    "quality": 63
    },
    "capped_by": null
   }
@@ -95,7 +95,27 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SMC Global Securities Limited is a financial services company providing equity and commodity brokerage, insurance distribution, investment advisory, margin trading funding, and related services through its subsidiaries.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

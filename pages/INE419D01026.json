@@ -3,7 +3,7 @@
  "sym": "CLSEL",
  "name": "Chaman Lal Setia Exports Limited",
  "scrip": "530307",
- "mcap_cr": 1404.75,
+ "mcap_cr": 1422.4,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 75,
     "profit": 72,
-    "quality": 85
+    "quality": 82
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 69,
     "profit": 72,
-    "quality": 81
+    "quality": 79
    },
    "capped_by": null
   }
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Chaman Lal Setia Exports Ltd. is engaged in the business of manufacturing, trading and marketing of rice.",
+  "segments": [
+   {
+    "name": "Rice (manufacturing, trading and marketing)",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/S. Rajesh Kapoor & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition for sale of rice and by-products",
+   "Inventory existence and valuation",
+   "Foreign exchange risk on exports and imports",
+   "Contingent liabilities including penalty by Custom Authorities and legal suits"
+  ],
+  "dividend_per_share": 3
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

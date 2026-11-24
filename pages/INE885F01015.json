@@ -94,7 +94,40 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mask Investments Limited is a non-banking finance company (NBFC) whose registration was cancelled by RBI in 2018; it currently earns income from interest on loans and advances given to others and dividends from investments in group or associate companies.",
+  "segments": [
+   {
+    "name": "Interest on loans and advances",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Dividend from investments",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Rajendra Sharma & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Adverse impact on business of group/associate companies affecting performance",
+   "Slowdown of economic growth",
+   "Volatility in global financial markets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

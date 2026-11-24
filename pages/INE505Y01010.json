@@ -3,7 +3,7 @@
  "sym": "VINEETLAB",
  "name": "Vineet Laboratories Limited",
  "scrip": "543298",
- "mcap_cr": 77.09,
+ "mcap_cr": 74.37,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 2.49,
    "pat": 1.22,
    "margin_pct": 13.2,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 79,
     "profit": 91,
-    "quality": 32
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 92,
     "profit": 97,
-    "quality": 62
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vineet Laboratories Limited is a Hyderabad-based manufacturer of advanced pharmaceutical intermediates, bulk drugs and fine/specialty chemicals.",
+  "segments": [
+   {
+    "name": "Pharmaceutical intermediates, bulk drugs and fine chemicals",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company is looking forward to good profit margins in the near future.",
+    "metric": "Profit margins",
+    "value": "good",
+    "by_when": "near future"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 108,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to varied sales contracts and geographies",
+   "Pressure to meet investor expectations and revenue targets",
+   "Risk of fraud related to revenue being overstated by recognition in wrong period",
+   "Estimation uncertainty in accruals for rebates, discounts, returns, service level penalties and allowances"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

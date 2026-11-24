@@ -3,7 +3,7 @@
  "sym": "SRD",
  "name": "Shankar Lal Rampal Dye-Chem Limited",
  "scrip": "542232",
- "mcap_cr": 286.25,
+ "mcap_cr": 289.71,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 6.76,
    "pat": 4.8,
    "margin_pct": 4.9,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 87,
     "profit": 49,
-    "quality": 84
+    "quality": 77
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 72,
     "profit": 81,
-    "quality": 85
+    "quality": 90
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shankar Lal Rampal Dye-Chem Limited is a trading company dealing in dyes, pigments, and textile chemicals.",
+  "segments": [
+   {
+    "name": "Trading of dyes, pigments and textile chemicals",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Energy conservation equipment",
+    "amount_cr": 0,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Laxman Kumar and Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Thin and volatile margins in trading business",
+   "Dependence on supplier reliability",
+   "Price transparency and competitive pressure",
+   "Working capital intensity",
+   "Currency and logistics exposure"
+  ],
+  "dividend_per_share": 0.05
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

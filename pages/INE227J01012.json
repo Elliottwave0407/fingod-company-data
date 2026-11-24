@@ -1,0 +1,140 @@
+{
+ "isin": "INE227J01012",
+ "sym": "KALPATARU",
+ "name": "Kalpataru Limited",
+ "scrip": "544423",
+ "mcap_cr": 4917.53,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 596.89,
+   "ebitda": -19.7,
+   "pat": 20.32,
+   "margin_pct": -3.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 443.2,
+   "ebitda": -27.34,
+   "pat": -51.84,
+   "margin_pct": -6.2,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 793.77,
+   "ebitda": 6.69,
+   "pat": 4.96,
+   "margin_pct": 0.8,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 504.92,
+   "ebitda": -82.35,
+   "pat": -67.04,
+   "margin_pct": -16.3,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 1693.73,
+   "ebitda": 217.42,
+   "pat": 193.87,
+   "margin_pct": 12.8,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 100,
+    "profit": 90,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 472.2,
+   "ebitda": -45.86,
+   "pat": -29.04,
+   "margin_pct": -9.7,
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 36,
+    "profit": -8,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 437.17,
+   "ebitda": -103.03,
+   "pat": -70.67,
+   "margin_pct": -23.6,
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -19,
+    "quality": 0
+   },
+   "capped_by": null
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-11-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kalpataru Limited is an integrated real estate development company engaged in the development of residential, commercial and retail projects, managing the entire development lifecycle from land acquisition to design, construction and sales.",
+  "segments": [
+   {
+    "name": "Real Estate Development",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Rathi & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

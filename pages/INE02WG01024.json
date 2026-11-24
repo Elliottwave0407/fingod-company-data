@@ -3,7 +3,7 @@
  "sym": "WEL",
  "name": "Wonder Electricals Limited",
  "scrip": "543449",
- "mcap_cr": 1110.79,
+ "mcap_cr": 1113.74,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 9,
     "profit": 36,
-    "quality": 21
+    "quality": 23
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 96,
     "profit": 41,
-    "quality": 61
+    "quality": 76
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2024-11-21"
+  "latest_concall": "2024-11-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Wonder Electricals Limited is engaged in the manufacturing of fans and electrical engineering products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Ajay Kumar Singh & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 0.1
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "BAJAJELEC",
  "name": "Bajaj Electricals Limited",
  "scrip": "500031",
- "mcap_cr": 3231.28,
+ "mcap_cr": 3205.89,
  "group": "A",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 64,
     "profit": 86,
-    "quality": 72
+    "quality": 96
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 34,
     "profit": 41,
-    "quality": 57
+    "quality": 79
    },
    "capped_by": null
   }
@@ -109,7 +109,59 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-02"
+  "latest_concall": "2026-11-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bajaj Electricals Limited is a consumer products and lighting solutions company offering appliances, fans, cookware, and lighting for consumer and professional applications, and also operates in EPC power transmission and distribution.",
+  "segments": [
+   {
+    "name": "Consumer Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Lighting Solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Consumer Products capital expenditure",
+    "amount_cr": 182.77,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Lighting Solutions capital expenditure",
+    "amount_cr": 1.51,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Unallocable capital expenditure",
+    "amount_cr": 15.1,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S R B C & CO LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Timing of revenue recognition",
+   "Allowances for aged and obsolete inventories",
+   "Foreign currency risk (net importer, exposure to USD)",
+   "Interest rate risk",
+   "Commodity price risk",
+   "Working capital intensity in EPC business"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "JUNIPER",
  "name": "Juniper Hotels Limited",
  "scrip": "544129",
- "mcap_cr": 4338.8,
+ "mcap_cr": 4402.21,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 30,
     "profit": 20,
-    "quality": 22
+    "quality": 9
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 65,
     "profit": 100,
-    "quality": 57
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Juniper Hotels Limited is an owner and developer of landmark hospitality assets, operating hotels such as Grand Hyatt Mumbai, Westin Bengaluru, and developing properties near Kaziranga National Park, Guwahati, and Dwarka, New Delhi.",
+  "segments": [
+   {
+    "name": "Hospitality",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 5.5348,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S R B C & CO LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Litigations, claims and other contingencies requiring significant management judgement in assessing exposure, likelihood and timing of outflows and estimation of potential losses"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

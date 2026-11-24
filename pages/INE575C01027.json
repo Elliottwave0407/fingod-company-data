@@ -3,7 +3,7 @@
  "sym": "INTLCONV",
  "name": "International Conveyors Limited",
  "scrip": "509709",
- "mcap_cr": 484.93,
+ "mcap_cr": 481.55,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,67 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "International Conveyors Limited is a specialised manufacturer of solid-woven fabric-reinforced PVC impregnated and PVC covered fire-retardant and anti-static conveyor belting for underground mining and material-handling applications, with complementary activities in trading MATO products, renewable power generation, and investments.",
+  "segments": [
+   {
+    "name": "Conveyor Belting",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Trading of MATO products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Generation and sale of power (windmills)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Investment activities",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Installed capacity at Falta SEZ, West Bengal",
+    "amount_cr": null,
+    "timeline": "4,25,000 meters per annum"
+   },
+   {
+    "item": "Installed capacity at Chhatrapati Sambhaji Nagar (Aurangabad), Maharashtra",
+    "amount_cr": null,
+    "timeline": "7,00,000 meters per annum"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Company is hopeful of penetrating the market with new low abrasive belt with thicker covers from second half of financial year 2026-2027",
+    "metric": "Market penetration of new product",
+    "value": "Trials already underway",
+    "by_when": "Second half of FY 2026-27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. G. P. Agrawal & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Dependence on international markets for underground mining applications",
+   "Concentration of investments (59% of total assets) with valuation complexities",
+   "Reliance on specialised product range for mining sector",
+   "Previous impairment of subsidiary investment (CHPL) due to negative net worth"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

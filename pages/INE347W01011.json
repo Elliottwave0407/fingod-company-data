@@ -3,7 +3,7 @@
  "sym": "MAGADSUGAR",
  "name": "Magadh Sugar & Energy Limited",
  "scrip": "540650",
- "mcap_cr": 746.22,
+ "mcap_cr": 733.26,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 78.68,
    "pat": 48.55,
    "margin_pct": 27.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 5,
     "profit": 20,
-    "quality": 26
+    "quality": 0
    },
    "capped_by": null
   },
@@ -95,7 +95,31 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2024-05-21"
+  "latest_concall": "2024-05-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Magadh Sugar & Energy Limited is primarily engaged in the manufacture and sale of sugar and its by-products (molasses, bagasse and press-mud), denatured spirits (including ethanol) and power.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Regulatory and environmental risks",
+   "Supply and demand risk",
+   "Climate related risks"
+  ],
+  "dividend_per_share": 12.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "DYNPRO",
  "name": "Dynemic Products Limited",
  "scrip": "532707",
- "mcap_cr": 273.67,
+ "mcap_cr": 269.07,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 52,
     "profit": 55,
-    "quality": 57
+    "quality": 78
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 12.32,
    "pat": 5.19,
    "margin_pct": 14.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 20,
     "profit": 51,
-    "quality": 29
+    "quality": 45
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 84,
     "profit": 39,
-    "quality": 52
+    "quality": 66
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Dynemic Products Limited manufactures and sells chemical products, including dyes and intermediates, with operations in Ankleshwar and Dahej, Gujarat.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 16.46,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "GANDHAR",
  "name": "Gandhar Oil Refinery (India) Limited",
  "scrip": "544029",
- "mcap_cr": 2451.14,
+ "mcap_cr": 2426.17,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 74,
     "profit": 60,
-    "quality": 74
+    "quality": 83
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 93,
-    "quality": 86
+    "quality": 100
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 92,
-    "quality": 83
+    "quality": 100
    },
    "capped_by": "margin down over 1 pt QoQ"
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-07-28"
+  "latest_concall": "2026-07-28",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gandhar Oil Refinery (India) Limited is one of the largest manufacturers of white oils in India and ranks among the top five global players, approved by US FDA for pharmaceutical-grade mineral oils.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 5,
+  "key_risks": [],
+  "dividend_per_share": 0.75
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

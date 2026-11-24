@@ -3,7 +3,7 @@
  "sym": "EXCELINDUS",
  "name": "Excel Industries Limited",
  "scrip": "500650",
- "mcap_cr": 1240.35,
+ "mcap_cr": 1246.2,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 47,
     "profit": 37,
-    "quality": 34
+    "quality": 28
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 42.41,
    "pat": 29.47,
    "margin_pct": 14.4,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 23,
     "profit": 52,
-    "quality": 40
+    "quality": 21
    },
    "capped_by": null
   }
@@ -99,7 +99,64 @@
   ],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Excel Industries Limited is a backward integrated producer of chemicals, specializing in basic and advanced phosphorous derivatives, agrochemical and specialty intermediates, polymer additives, pharmaceutical intermediates and APIs, and environment and biotechnology solutions for waste management.",
+  "segments": [
+   {
+    "name": "Chemicals",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Dedicated setup at Roha for long-term supply agreement with Indian specialty chemicals company",
+    "amount_cr": null,
+    "timeline": "Commissioned July 2026"
+   },
+   {
+    "item": "New biocide product manufacturing capacity",
+    "amount_cr": null,
+    "timeline": "Expected to go onstream in Q3 of 2026-27"
+   },
+   {
+    "item": "Expansion at Lote for existing biocide product",
+    "amount_cr": null,
+    "timeline": "Commissioned November 2025"
+   },
+   {
+    "item": "Upgraded pilot plants at Roha and Lote",
+    "amount_cr": null,
+    "timeline": "Completed during 2025-26"
+   },
+   {
+    "item": "Sewage Treatment Plant (STP) at Roha site",
+    "amount_cr": null,
+    "timeline": "Expected to be commissioned by September \u2013 October 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Assessment of the valuation of an investment in unquoted equity instrument (Rs. 33,773.74 lakhs) valued at Fair value through Other comprehensive income, involving significant judgements in comparable companies, maintainable EBITDA, and valuation parameters."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions, risks and uncertainties; actual results may differ materially",
+   "Increase in key input material costs impacting profitability",
+   "Valuation of unquoted equity instrument involves significant judgements and subjectivity",
+   "Dependence on mature businesses being reduced through diversification",
+   "Environmental and regulatory compliance risks (EPR, waste management, carbon footprint)"
+  ],
+  "dividend_per_share": 13.75
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

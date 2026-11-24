@@ -3,7 +3,7 @@
  "sym": "DYCL",
  "name": "Dynamic Cables Limited",
  "scrip": "540795",
- "mcap_cr": 1660.92,
+ "mcap_cr": 1636.45,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 40,
     "profit": 43,
-    "quality": 43
+    "quality": 33
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 81,
     "profit": 47,
-    "quality": 71
+    "quality": 62
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 64,
     "profit": 30,
-    "quality": 49
+    "quality": 38
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-10-29"
+  "latest_concall": "2026-10-29",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Dynamic Cables Limited manufactures power cables and conductors including Low Voltage (LV), Medium Voltage (MV), High Voltage (HV), Extra High Voltage (EHV) power cables, control, instrumentation, solar cables, signaling cables, building wires, and conductors.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "AL5",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "LOKESHMACH",
  "name": "Lokesh Machines Limited",
  "scrip": "532740",
- "mcap_cr": 743.81,
+ "mcap_cr": 785.56,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 91,
     "profit": 33,
-    "quality": 50
+    "quality": 90
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 9.6,
    "pat": 1.01,
    "margin_pct": 17.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 48,
     "profit": 39,
-    "quality": 50
+    "quality": 75
    },
    "capped_by": null
   }
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Lokesh Machines Limited designs, develops, and manufactures CNC machines, Special Purpose Machines, auto components, forgings, and indigenous defence systems including small arms and high-precision defence assemblies.",
+  "segments": [
+   {
+    "name": "Machine Tools Division",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Auto Component Division and Forgings",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Defence and Aerospace Division",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Hot-forging lines at Pune facility",
+    "amount_cr": null,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": 271.0,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: OFAC Sanctions \u2013 Continuing Regulatory Uncertainty and Mitigation; designation on SDN list since 30 Oct 2024 restricted foreign-currency transactions through 31 Mar 2026; delisting process advanced but matter unresolved at year end; assessed recoverability of trade receivables and going concern basis."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "OFAC SDN designation restricting foreign-currency transactions and access to certain customers (e.g., Mahindra & Mahindra)",
+   "Concentration in a small number of automotive OEM customers in Auto Component Division",
+   "Continuing regulatory uncertainty and dependence on foreign regulator (OFAC) for delisting outcome",
+   "Potential impact on trade receivables recoverability and going concern assessment due to sanctions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

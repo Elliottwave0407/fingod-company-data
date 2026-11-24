@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 100,
     "profit": 35,
-    "quality": 69
+    "quality": 80
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 80,
     "profit": 85,
-    "quality": 81
+    "quality": 89
    },
    "capped_by": "revenue growth under 20%"
   }
@@ -96,7 +96,55 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shreeoswal Seeds and Chemicals Limited is engaged in processing, sorting, and trading of seeds (Seed segment) and production and processing of psyllium husk (Psyllium segment).",
+  "segments": [
+   {
+    "name": "Seed Segment",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Psyllium Segment",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Seed Segment Capital Expenditure",
+    "amount_cr": 27.339,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Psyllium Segment Capital Expenditure",
+    "amount_cr": 23.6883,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Total Capital Expenditure",
+    "amount_cr": 51.0273,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "H. Sahu & Company, Chartered Accountants, Neemuch (FRN: 036476C)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Revenue recognition risk due to management estimates for sales returns, discounts, and schemes in a highly competitive seed industry",
+   "Pending litigation with Income Tax Department before Commissioner of Appeals regarding certain additions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

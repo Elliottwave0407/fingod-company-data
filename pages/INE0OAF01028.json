@@ -3,7 +3,7 @@
  "sym": "JNKINDIA",
  "name": "JNK India Limited",
  "scrip": "544167",
- "mcap_cr": 1847.04,
+ "mcap_cr": 1869.42,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 81,
-    "quality": 85
+    "quality": 87
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 100,
     "profit": 87,
-    "quality": 60
+    "quality": 76
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   }
  ],
  "completeness": {
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-13"
+  "latest_concall": "2026-11-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "JNK India Limited is a leading Indian company in combustion equipment, offering process-fired heaters and extending into clean energy opportunities through JNK Chemdist Technologies.",
+  "segments": [
+   {
+    "name": "Combustion Equipment",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Right of Use Assets additions",
+    "amount_cr": 0.1054,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Capital work-in-progress additions",
+    "amount_cr": 0.0999,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KELLTONTEC",
  "name": "Kellton Tech Solutions Limited",
  "scrip": "519602",
- "mcap_cr": 612.87,
+ "mcap_cr": 600.11,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 27,
     "profit": 14,
-    "quality": 54
+    "quality": 31
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 30,
     "profit": 30,
-    "quality": 41
+    "quality": 28
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kellton Tech Solutions Limited is engaged in Information Technology & related activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Anant Rao & Malik, Chartered Accountants (Firm Registration No. 006266S)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

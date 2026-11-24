@@ -3,7 +3,7 @@
  "sym": "MANAKCOAT",
  "name": "Manaksia Coated Metals & Industries Limited",
  "scrip": "539046",
- "mcap_cr": 1867.3,
+ "mcap_cr": 1845.94,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 14.35,
    "pat": 5.37,
    "margin_pct": 6.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 31,
     "profit": 27,
-    "quality": 24
+    "quality": 38
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 42,
     "profit": 50,
-    "quality": 30
+    "quality": 32
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 81,
     "profit": 28,
-    "quality": 60
+    "quality": 56
    },
    "capped_by": null
   }
@@ -109,7 +109,46 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 9,
-  "latest_concall": "2026-07-18"
+  "latest_concall": "2026-07-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Manaksia Coated Metals & Industries Limited manufactures pre-painted steel and Alu-Zinc coated steel products.",
+  "segments": [
+   {
+    "name": "Pre-Painted Steel",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Alu-Zinc Steel",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Production capacity expansion",
+    "amount_cr": null,
+    "timeline": "180,000 MTPA"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. S. Bhalotia & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Unprecedented external disruptions testing business resilience",
+   "Capital work-in-progress recoverability and project resumption timing",
+   "Share warrant conversion and subscription money receipt"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "MUNJALSHOW",
  "name": "Munjal Showa Limited",
  "scrip": "520043",
- "mcap_cr": 501.34,
+ "mcap_cr": 496.54,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 79,
     "profit": 34,
-    "quality": 72
+    "quality": 50
    },
    "capped_by": null
   }
@@ -99,7 +99,39 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Munjal Showa Limited manufactures suspension systems and components for the automotive industry, primarily serving Indian OEMs with a focus on premium motorcycle segments and developing capabilities for EV and premium vehicle platforms.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure on property, plant & equipment, capital work-in-progress and intangible assets including capital advances",
+    "amount_cr": 656.47,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Deloitte Haskins & Sells LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Input-cost volatility",
+   "Fixed cost of technology",
+   "Investments in digital infrastructure affecting short-term profitability",
+   "Collaborations with Soben and TFX at early stage and yet to translate into commercial supplies",
+   "Ongoing tax assessments and disputes with amounts paid under protest"
+  ],
+  "dividend_per_share": 4.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SADHNANIQ",
  "name": "Sadhana Nitrochem Limited",
  "scrip": "506642",
- "mcap_cr": 733.79,
+ "mcap_cr": 697.4,
  "group": "B",
  "quarters": [
   {
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 41,
     "profit": 55,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Sep-26",
@@ -105,7 +105,29 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sadhana Nitro Chem Limited is a chemical manufacturing company.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Jayesh Dadia & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding significant losses during the year ended March 31, 2026, indicating material uncertainty that may cast significant doubt on the Company's ability to continue as a going concern. The financial statements have been prepared on a going concern basis considering positive net worth and executable business orders."
+  },
+  "promoter_holding_pct": 28.99,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Material uncertainty related to going concern due to significant losses incurred during the year ended March 31, 2026"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

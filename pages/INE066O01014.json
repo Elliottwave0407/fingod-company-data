@@ -3,7 +3,7 @@
  "sym": "WONDERLA",
  "name": "Wonderla Holidays Limited",
  "scrip": "538268",
- "mcap_cr": 3173.57,
+ "mcap_cr": 3152.95,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 43.81,
    "pat": 16.42,
    "margin_pct": 32.2,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 92,
     "profit": 100,
-    "quality": 52
+    "quality": 70
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 88,
     "profit": 60,
-    "quality": 70
+    "quality": 53
    },
    "capped_by": null
   }
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Wonderla Holidays Limited operates amusement parks and resort hospitality in India, with parks in Bengaluru, Kochi, Hyderabad, Chennai, and Bhubaneswar, and a resort offering at Bengaluru.",
+  "segments": [
+   {
+    "name": "Amusement Parks",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Resort/Hospitality",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Chennai amusement park development",
+    "amount_cr": 351.0,
+    "timeline": "FY2025-26"
+   },
+   {
+    "item": "The ISLE glamping pods at Bengaluru",
+    "amount_cr": null,
+    "timeline": "FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Somy Jacob and Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Higher cost pressures from commissioning of new parks (Chennai park and The ISLE)",
+   "Performance of Bhubaneswar park not aligning with Board-approved financial projections",
+   "Impairment risk for Bhubaneswar park if key assumptions change"
+  ],
+  "dividend_per_share": 2.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

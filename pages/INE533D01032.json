@@ -3,7 +3,7 @@
  "sym": "RAJRILTD",
  "name": "Raj Rayon Industries Limited",
  "scrip": "530699",
- "mcap_cr": 1253.97,
+ "mcap_cr": 1244.51,
  "group": "T",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 16.15,
    "pat": 14.03,
    "margin_pct": 5.5,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 90,
     "profit": 40,
-    "quality": 64
+    "quality": 24
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 27,
     "profit": 64,
-    "quality": 32
+    "quality": 50
    },
    "capped_by": null
   }
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Raj Rayon Industries Limited is engaged in manufacturing of polyester yarn and related products.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Property, Plant and Equipment",
+    "amount_cr": 1.034,
+    "timeline": "Year ended March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Bagaria & Co. LLP",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Management is in the process to obtain details of three inoperative bank accounts which are continuing in the name of the Company from prior to the Corporate Insolvency Resolution Process when the current management was not in charge of the affairs of the Company. Accordingly, we are unable to comment on the impact, if any, on the financial statement arising out of subsequent availability of such pending bank statements."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Commodity price risk",
+   "Foreign exchange risk",
+   "Capitalisation of Property, plant & equipment involves significant judgment and estimates"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

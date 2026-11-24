@@ -3,7 +3,7 @@
  "sym": "NIITMTS",
  "name": "Niit Learning Systems Limited",
  "scrip": "543952",
- "mcap_cr": 2322.49,
+ "mcap_cr": 2260.32,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 116.21,
    "pat": 77.11,
    "margin_pct": 22.1,
-   "verdict_v3": "Blockbuster",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 98,
-    "quality": 80
+    "quality": 52
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 54,
     "profit": 20,
-    "quality": 54
+    "quality": 42
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 29,
     "profit": 12,
-    "quality": 20
+    "quality": 5
    },
    "capped_by": null
   }
@@ -109,7 +109,32 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 10,
-  "latest_concall": "2026-11-04"
+  "latest_concall": "2026-11-04",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "NIIT Learning Systems Limited provides managed learning services, training delivery, and consulting expertise to global corporations, with a focus on outsourcing of proprietary training, GenAI, immersive learning, and advisory services.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition accuracy dependent on confirmation of training delivery from customers",
+   "Significant trade receivables and unbilled revenue balances with judgments involved in assessing recoverability and expected credit losses",
+   "Integration risk from recent acquisitions of MST Group and SweetRush",
+   "Dependence on key customers and related party receivables"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

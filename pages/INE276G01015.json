@@ -3,7 +3,7 @@
  "sym": "ASIANENE",
  "name": "Asian Energy Services Limited",
  "scrip": "530355",
- "mcap_cr": 1775.53,
+ "mcap_cr": 1741.93,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 92,
     "profit": 29,
-    "quality": 79
+    "quality": 58
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 15,
-    "quality": 75
+    "quality": 69
    },
    "capped_by": null
   },
@@ -80,13 +80,13 @@
    "ebitda": 31.34,
    "pat": 17.07,
    "margin_pct": 11.8,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 89,
-    "quality": 41
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -109,7 +109,72 @@
   "missing": [],
   "concalls_found": 6,
   "concalls_read": 5,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Asian Energy Services Limited is an integrated energy and minerals services company with over three decades of experience across upstream oil & gas and mining value chains, providing seismic surveys, integrated field development, EPC, O&M, and enhanced oil recovery services.",
+  "segments": [
+   {
+    "name": "Upstream Oil & Gas",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Mining",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "International Manpower Solutions (Kuiper Group)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Purchase of property, plant and equipment including capital work in progress (from Oilmax Energy)",
+    "amount_cr": 7.54,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Management has indicated confidence in growing the standalone India services business by 30-40% in 2026-27 with improved margins",
+    "metric": "Revenue growth (standalone India services)",
+    "value": "30-40%",
+    "by_when": "FY 2026-27"
+   },
+   {
+    "statement": "Targeted revenue of USD 60-65 Million from Kuiper",
+    "metric": "Revenue from Kuiper Group",
+    "value": "USD 60-65 Million",
+    "by_when": "FY 2026-27"
+   },
+   {
+    "statement": "Merger with Oilmax Energy expected to be completed by September or October 2026, subject to regulatory clearances",
+    "metric": "Merger completion",
+    "value": "Completed",
+    "by_when": "September or October 2026"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Environmental non-compliance could damage reputation and reduce long-term demand for coal",
+   "Growing number of seismic and integrated energy services providers may affect ability to secure new contracts",
+   "Operating across multiple jurisdictions exposes the Company to varying legal, regulatory and approval requirements",
+   "Geopolitical developments, including the ongoing situation in West Asia, weather-related disruptions, and the global shift toward renewable energy sources, pose operational and business continuity risks",
+   "Financial risks (details not fully provided in excerpts)",
+   "Supply chain risks (details not fully provided in excerpts)"
+  ],
+  "dividend_per_share": 1.25
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SECMARK",
  "name": "Secmark Consultancy Limited",
  "scrip": "543234",
- "mcap_cr": 161.93,
+ "mcap_cr": 161.72,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 53,
     "profit": 65,
-    "quality": 52
+    "quality": 45
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 97,
     "profit": 88,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": "net loss"
   },
@@ -109,7 +109,31 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SecMark Consultancy Limited provides consultancy services, with revenue recognition involving service income timing and unearned/unbilled revenue assessment.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter identified regarding revenue recognition timing, including instances where sales invoices raised before March 31, 2026 pertained to services to be rendered beyond year-end, requiring deferral as unearned revenue, and invoices raised in April 2026 for services pertaining to the financial year ended March 31, 2026, requiring recognition of unbilled revenue/accrued income."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Revenue recognition timing risk due to judgment involved in determining appropriate accounting period for service income",
+   "Risk of misstatement in revenue cut-off procedures at year-end",
+   "Risk related to identification and accounting for unearned revenue and unbilled revenue at year end"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

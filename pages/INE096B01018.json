@@ -3,7 +3,7 @@
  "sym": "NUCLEUS",
  "name": "Nucleus Software Exports Limited",
  "scrip": "531209",
- "mcap_cr": 1613.35,
+ "mcap_cr": 1597.81,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 31.86,
    "pat": 34.55,
    "margin_pct": 14.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 12,
     "profit": 11,
-    "quality": 50
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 17.78,
    "pat": 23.87,
    "margin_pct": 8.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 11,
     "profit": 7,
-    "quality": 40
+    "quality": 0
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 15.82,
    "pat": 21.25,
    "margin_pct": 6.9,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 18,
     "profit": 6,
-    "quality": 44
+    "quality": 4
    },
    "capped_by": null
   }
@@ -109,7 +109,54 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nucleus Software Exports Limited provides software products and platforms (FinnOne Neo\u00ae and FinnAxia\u00ae) for lending and transaction banking operations to financial institutions globally.",
+  "segments": [
+   {
+    "name": "Products",
+    "share_of_revenue_pct": 91.7
+   },
+   {
+    "name": "Services",
+    "share_of_revenue_pct": 8.3
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure (Unallocated)",
+    "amount_cr": 43.12,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital expenditure (Unallocated)",
+    "amount_cr": 16.73,
+    "timeline": "FY 2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "ASA & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Technology-led transformation and changing customer expectations",
+   "Regulatory developments and compliance requirements",
+   "Cross-border expansion complexity and regulatory diversity",
+   "Data privacy and security concerns",
+   "Credit risk on trade receivables and unbilled revenue",
+   "Investment in deposits and financial instruments subject to credit ratings"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

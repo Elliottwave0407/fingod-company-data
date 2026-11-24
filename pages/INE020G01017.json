@@ -3,7 +3,7 @@
  "sym": "INSPIRISYS",
  "name": "Inspirisys Solutions Limited",
  "scrip": "532774",
- "mcap_cr": 346.25,
+ "mcap_cr": 349.1,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 39,
     "profit": 20,
-    "quality": 34
+    "quality": 1
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 6.46,
    "pat": 4.07,
    "margin_pct": 6.0,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 37,
     "profit": 5,
-    "quality": 22
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,55 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Inspirisys Solutions Limited provides IT services including Infrastructure, Security, Cloud, Software services, System Integration, and Warranty Management Services (WMS).",
+  "segments": [
+   {
+    "name": "System Integration (SI)",
+    "share_of_revenue_pct": 22.3
+   },
+   {
+    "name": "Services",
+    "share_of_revenue_pct": 75.7
+   },
+   {
+    "name": "WMS",
+    "share_of_revenue_pct": 1.9
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 0.94,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 3.21,
+    "timeline": "FY 2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 69.95,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue concentration from two major customers (Rs 16,965 lakhs in FY 2025-26)",
+   "Voluntary liquidation of multiple subsidiaries (Japan, Dubai, Singapore branch closure)",
+   "Disputed tax demands (Income Tax: Rs 5,540 lakhs, Sales Tax/GST: Rs 17 lakhs, Customs: Rs 236 lakhs, Others: Rs 76 lakhs)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "NAHARSPING",
  "name": "Nahar Spinning Mills Limited",
  "scrip": "500296",
- "mcap_cr": 900.37,
+ "mcap_cr": 882.16,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 25,
     "profit": 26,
-    "quality": 25
+    "quality": 36
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 78,
     "profit": 91,
-    "quality": 71
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   },
   {
    "q": "Sep-26",
@@ -84,9 +84,9 @@
    "pillars": {
     "growth": 75,
     "profit": 91,
-    "quality": 51
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -109,7 +109,55 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nahar Spinning Mills Limited operates in the textile segment, manufacturing and exporting textile products.",
+  "segments": [
+   {
+    "name": "TEXTILE",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Modernization of spinning units",
+    "amount_cr": 170,
+    "timeline": "Expected to be completed by Financial Year 2027-28"
+   },
+   {
+    "item": "Rooftop Solar PV System",
+    "amount_cr": null,
+    "timeline": "Capacity increased to 19.874 M.W. during the year"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Management expects the company to perform reasonably well in the coming periods despite geo-political challenges and U.S. trade tariffs.",
+    "metric": "Performance",
+    "value": "Reasonably well",
+    "by_when": "Coming periods"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "No key audit matters to be communicated; unmodified opinion on financial statements."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geo-political situations and global challenges",
+   "U.S. trade tariff of 10% on imports",
+   "Slowdown in global demand",
+   "Punitive tariff of 50% by United States (August 2025 to February 2026) affecting exports and profitability"
+  ],
+  "dividend_per_share": 1.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

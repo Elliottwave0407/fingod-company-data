@@ -3,7 +3,7 @@
  "sym": "TEXMOPIPES",
  "name": "Texmo Pipes and Products Limited",
  "scrip": "533164",
- "mcap_cr": 130.88,
+ "mcap_cr": 128.46,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 63,
     "profit": 56,
-    "quality": 51
+    "quality": 53
    },
    "capped_by": null
   }
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Texmo Pipes and Products Limited manufactures plastic and polymer pipes and fittings including CPVC, UPVC, SWR, HDPE, agriculture, column pipes, water storage tanks, and related products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding SEBI investigation into GDRs issued in FY 2011-12; penalty of Rs 25 lakhs paid in FY 2022-23 and directions imposed on company and directors."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Uncertain tax positions - direct and indirect tax litigations",
+   "Volatility in raw material prices",
+   "SEBI investigation and regulatory actions related to GDRs"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

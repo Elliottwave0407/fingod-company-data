@@ -3,7 +3,7 @@
  "sym": "PURVA",
  "name": "Puravankara Limited",
  "scrip": "532891",
- "mcap_cr": 4710.98,
+ "mcap_cr": 4625.6,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 301.5,
    "pat": 109.95,
    "margin_pct": 20.1,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 96,
-    "quality": 11
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -66,13 +66,13 @@
    "ebitda": 188.64,
    "pat": 25.23,
    "margin_pct": 22.2,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 98,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Puravankara Limited is a real estate developer operating across India with four brands \u2014 Puravankara (luxury/premium residential), Provident Housing (premium affordable housing), Purva Land (plotted developments), and Purva Streaks (end-to-end interior solutions) \u2014 and has delivered 95 projects covering 57.36 million sq. ft. as of March 31, 2026.",
+  "segments": [
+   {
+    "name": "South region (primarily Bengaluru)",
+    "share_of_revenue_pct": 61
+   },
+   {
+    "name": "Chennai",
+    "share_of_revenue_pct": 13
+   },
+   {
+    "name": "Mumbai and Pune",
+    "share_of_revenue_pct": 20
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of matter on note 38(b)(iv) regarding ongoing legal proceedings related to property, income tax search and other matters; opinion not modified."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Ongoing legal proceedings related to property and income tax search matters"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

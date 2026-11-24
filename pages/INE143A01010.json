@@ -3,7 +3,7 @@
  "sym": "OSWALGREEN",
  "name": "Oswal Greentech Limited",
  "scrip": "539290",
- "mcap_cr": 481.52,
+ "mcap_cr": 477.41,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -106.3,
    "pat": -83.16,
    "margin_pct": -987.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -790,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -66,7 +70,7 @@
    "pillars": {
     "growth": 0,
     "profit": -64,
-    "quality": 55
+    "quality": 67
    },
    "capped_by": null
   }
@@ -95,7 +99,63 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Oswal Greentech Limited is primarily engaged in real estate development and construction activities, along with investment of surplus funds including inter-corporate deposits.",
+  "segments": [
+   {
+    "name": "Real Estate",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Investment",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Trading",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Unallocated",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Unallocated Capital Expenditure",
+    "amount_cr": 0.0519,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company expects to conclude sales of the flagship residential project at Ludhiana in the near term and is confident that the remaining flats will be absorbed swiftly.",
+    "metric": "Project sell-out",
+    "value": "513 of 538 flats sold as on 31st March 2026",
+    "by_when": "near term"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. BGMG & Associates, Chartered Accountants",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to: (A) Arbitration Award - interest income and current assets understated by Rs 4,249.10 lakh and Rs 11,754.57 lakh respectively; arbitration award of Rs 9,717.00 lakh against claim of Rs 47,212.27 lakh challenged in High Court. (B) Non-conformity & uncertainty of ICD and Real-Estate Advances aggregating Rs 1,22,676.83 lakh outstanding as of March 31, 2026, subject to confirmation, recoverability not determinable. Emphasis of Matter: (A) Provisioning of ICD (Rs 7,422.19 lakh) and real estate advance (Rs 2,700 lakh) to Uppal Chadha Hi-Tech Developers and SAS Servizio, reduced to nil. (B) Fraud by employee involving leasehold land at Rishra, West Bengal, conveyance terminated as null and void."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Arbitration award partially in favor, challenged in High Court leading to understatement of interest income and current assets",
+   "ICDs and real estate advances aggregating Rs 1,22,676.83 lakh outstanding, subject to confirmation, recoverability uncertain",
+   "Significant credit risk concentration in loans (ICDs) and interest receivable aggregating Rs 65,778.61 lakh (49.13% of total financial assets)",
+   "Fraud by employee involving leasehold land at Rishra, West Bengal, unauthorized trespass and conveyance dispute",
+   "Provisioning of ICD and real estate advance of Rs 7,422.19 lakh and Rs 2,700 lakh respectively due to recoverability uncertainty"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

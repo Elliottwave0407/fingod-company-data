@@ -3,7 +3,7 @@
  "sym": "MOLDTKPAC",
  "name": "Mold-Tek Packaging Limited",
  "scrip": "533080",
- "mcap_cr": 2333.0,
+ "mcap_cr": 2294.12,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 61,
     "profit": 60,
-    "quality": 46
+    "quality": 59
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 61,
     "profit": 34,
-    "quality": 38
+    "quality": 39
    },
    "capped_by": null
   }
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mold-Tek Packaging Limited is a diversified, technology-driven rigid packaging leader in India with a growing portfolio of products and capabilities.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Property, Plant and Equipment capitalised during FY 2025-26",
+    "amount_cr": 135.3075,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital expenditure contracted but not recognised as liabilities",
+    "amount_cr": 22.3417,
+    "timeline": "As at 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Product range from collaboration with Vibe Generation Holdings will start contributing revenues",
+    "metric": "Revenue contribution",
+    "value": "Not quantified",
+    "by_when": "FY27-28"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Geopolitical uncertainties",
+   "Volatility in crude oil and raw material prices",
+   "Currency depreciation",
+   "Risk of revenue being recorded before control over goods is transferred",
+   "Risk of ineligible costs being capitalised as Property, Plant and Equipment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

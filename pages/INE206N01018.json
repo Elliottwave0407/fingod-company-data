@@ -3,7 +3,7 @@
  "sym": "RELTD",
  "name": "Ravindra Energy Limited",
  "scrip": "504341",
- "mcap_cr": 2636.91,
+ "mcap_cr": 2668.68,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 56,
     "profit": 100,
-    "quality": 18
+    "quality": 40
    },
-   "capped_by": null
+   "capped_by": "profit down YoY"
   },
   {
    "q": "Jun-26",
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ravindra Energy Limited is engaged in energy-related operations with revenue from operations and other income, showing significant growth in standalone and consolidated financials.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter: i. Impairment of Investments in LLPs of \u20b9 (50.00) Mn included in Exceptional items. ii. Granting of Employee Stock Options (ESOPs) under REESOS 2022, with 25% vested after 1 year and 70,000 shares exercised."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

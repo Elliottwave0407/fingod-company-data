@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 100,
     "profit": 59,
-    "quality": 66
+    "quality": 72
    },
    "capped_by": null
   },
@@ -63,11 +63,11 @@
    "ebitda": 3.56,
    "pat": 0.74,
    "margin_pct": 9.9,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 76,
     "profit": 67,
-    "quality": 50
+    "quality": 76
    },
    "capped_by": null
   }
@@ -96,7 +96,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Euro India Fresh Foods Limited is a diversified packaged foods company driven by quality, innovation and consumer trust, backed by integrated manufacturing and an extensive distribution network.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Dhirren R. Dave & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 73.06,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SWELECTES",
  "name": "Swelect Energy Systems Limited",
  "scrip": "532051",
- "mcap_cr": 876.18,
+ "mcap_cr": 871.78,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 42,
     "profit": 88,
-    "quality": 27
+    "quality": 49
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   },
   {
    "q": "Jun-26",
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SWELECT Energy Systems Limited is a renewable energy company providing integrated energy solutions including solar, wind, energy storage systems (BESS), IPP, EPC, and channel-driven products for residential, commercial, industrial, and utility customers.",
+  "segments": [
+   {
+    "name": "Energy sales through IPP portfolio",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Ground-Mounted and rooftop EPC solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Channel-driven products for residential and commercial customers (including home energy and BESS)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Evaluation of impairment of investments in three operating subsidiaries with accumulated losses (Investments net of impairment: Rs. 5,891.91 lakhs; impairment amount: Rs. 3,467.38 lakhs)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment risk on investments in subsidiaries with accumulated losses",
+   "Dependence on management judgment for valuation assumptions (discount rate, growth rate, forecasted revenue)",
+   "Regulatory and tax disputes (Commercial Taxes, Central Excise, VAT)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

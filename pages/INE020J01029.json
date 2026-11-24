@@ -3,7 +3,7 @@
  "sym": "GOKUL",
  "name": "Gokul Refoils and Solvent Limited",
  "scrip": "532980",
- "mcap_cr": 351.14,
+ "mcap_cr": 348.17,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 3.46,
    "pat": 5.85,
    "margin_pct": 0.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 32,
     "profit": 24,
-    "quality": 46
+    "quality": 21
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 51,
     "profit": 35,
-    "quality": 44
+    "quality": 56
    },
    "capped_by": null
   }
@@ -99,7 +99,46 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gokul Refoils & Solvent Limited is engaged in the manufacturing, refining, processing, and marketing of a diversified portfolio of edible oils (groundnut, mustard, cottonseed, soybean, palm, sunflower) and non-edible oils (castor oil) along with organic fertilizers and by-products, catering to domestic and international markets.",
+  "segments": [
+   {
+    "name": "Edible Oils",
+    "share_of_revenue_pct": 65.0
+   },
+   {
+    "name": "Non-Edible Oils and By-products",
+    "share_of_revenue_pct": 34.1
+   },
+   {
+    "name": "Organic Fertilizer",
+    "share_of_revenue_pct": 0.7
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Lower nutrient concentration of organic fertilizers compared to chemical fertilizers increasing transportation, storage, and application costs",
+   "Varying quality and nutrient composition of organic inputs",
+   "Dependence on availability of raw materials for organic fertilizers",
+   "Limited awareness among farming communities regarding long-term benefits of organic soil management",
+   "Revenue recognition pressures due to listed entity status and stakeholder expectations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "GULFPETRO",
  "name": "GP Petroleums Limited",
  "scrip": "532543",
- "mcap_cr": 314.73,
+ "mcap_cr": 302.08,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 16,
     "profit": 38,
-    "quality": 64
+    "quality": 46
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 94,
     "profit": 90,
-    "quality": 85
+    "quality": 99
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 21.04,
    "pat": 14.65,
    "margin_pct": 6.2,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 100,
     "profit": 46,
-    "quality": 83
+    "quality": 74
    },
    "capped_by": null
   }
@@ -109,7 +109,77 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GP Petroleums Limited formulates, manufactures, and markets industrial lubricants, automotive lubricants, rubber process oils, transformer oils, greases, and other specialties under the brand 'IPOL', and also operates in base oil trading and bitumen businesses.",
+  "segments": [
+   {
+    "name": "Industrial Lubricants",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Automotive Lubricants",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Rubber Process Oils",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Transformer Oils",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Greases",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Base Oil Trading",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Bitumen",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Base oil storage capacity",
+    "amount_cr": null,
+    "timeline": "15,000 KL"
+   },
+   {
+    "item": "Blending capacity",
+    "amount_cr": null,
+    "timeline": "80,000 KL annually"
+   },
+   {
+    "item": "Warehouse facility at Raliawas, Haryana",
+    "amount_cr": null,
+    "timeline": "Acquired during FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Fluctuations in crude oil and base oil prices",
+   "Evolving global trade dynamics",
+   "Intense market competition",
+   "Provision for doubtful debts on long-outstanding trade receivables under legal dispute or arbitration"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

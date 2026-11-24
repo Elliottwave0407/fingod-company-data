@@ -3,7 +3,7 @@
  "sym": "WELINV",
  "name": "Welspun Investments and Commercials Limited",
  "scrip": "533252",
- "mcap_cr": 836.88,
+ "mcap_cr": 845.99,
  "group": "B",
  "quarters": [
   {
@@ -97,7 +97,36 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Welspun Investments and Commercials Limited is a Core Investment Company (CIC) registered with the RBI that focuses on trading opportunities and investments in group companies engaged in Line Pipes, Steel, Infrastructure, and Oil & Gas, with revenue primarily from dividends and stock price changes of investee companies.",
+  "segments": [
+   {
+    "name": "Investment and Trading",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Undertaking given to Punjab National Bank towards repayment obligations of MEP Cotton Limited amounting to Rs. 1,070.24 Lakhs, assessed under Ind AS 37 for contingent liability disclosure (Refer Note 21)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue majorly depends on dividends declared and changes in stock market prices of investee companies",
+   "Contingent liability from undertaking to Punjab National Bank for MEP Cotton Limited obligations (Rs. 1,070.24 Lakhs)",
+   "Material related party transaction with promoter group company Indivara Realty Private Limited via subsidiary Vishwakarma Realty Private Limited"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

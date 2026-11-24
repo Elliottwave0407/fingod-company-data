@@ -49,11 +49,11 @@
    "ebitda": 6.32,
    "pat": 2.22,
    "margin_pct": 54.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 26,
     "profit": 20,
-    "quality": 4
+    "quality": 0
    },
    "capped_by": null
   },
@@ -63,11 +63,11 @@
    "ebitda": 7.27,
    "pat": 2.94,
    "margin_pct": 55.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 66,
     "profit": 20,
-    "quality": 25
+    "quality": 16
    },
    "capped_by": null
   }
@@ -96,7 +96,29 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2025-02-18"
+  "latest_concall": "2025-02-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Crown Lifters Limited is engaged in providing crane rental and lifting solutions, recognizing revenue from contracts over time using the percentage-of-completion method.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Vishwas and Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition involves significant management judgment in estimating total contract revenue and costs, determining stage of completion, assessing contract modifications and variable consideration, and evaluating recoverability of costs."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

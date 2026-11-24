@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 55,
     "profit": 82,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -99,7 +99,54 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Diamines and Chemicals Limited is engaged in the manufacturing of Speciality Chemicals and Trading in Fruits and Vegetables.",
+  "segments": [
+   {
+    "name": "Speciality Chemicals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Trading in Fruits and Vegetables",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Speciality Chemicals Capital Expenditure",
+    "amount_cr": 21.3513,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Wind Turbine Generators Capacity",
+    "amount_cr": null,
+    "timeline": "0.75 MW as on March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Litigations and claims pending with multiple tax authorities (Income Tax, Excise/Service Tax, Provident Fund) involving significant amounts and management judgment",
+   "Reduction in sales volume",
+   "Recognition of Expected Credit Loss (ECL) on Trade Receivables of Trading Division",
+   "Write down of inventories at Net Realizable Value (NRV)",
+   "Lower raw material consumption and purchases",
+   "Higher capital employed following share issuance"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

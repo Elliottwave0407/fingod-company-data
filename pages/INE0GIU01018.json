@@ -3,7 +3,7 @@
  "sym": "UMAEXPORTS",
  "name": "Uma Exports Limited",
  "scrip": "543513",
- "mcap_cr": 67.42,
+ "mcap_cr": 68.09,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 85,
-    "quality": 0
+    "quality": 45
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 0,
     "profit": 22,
-    "quality": 0
+    "quality": 18
    },
    "capped_by": null
   }
@@ -99,7 +99,34 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2024-08-26"
+  "latest_concall": "2024-08-26",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Uma Exports Limited is engaged in the export of agricultural and allied products to international markets including North America, Europe, the Middle East, and Southeast Asia.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Mamta Jain & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical tensions and trade disruptions",
+   "Fluctuating freight costs and currency volatility",
+   "Evolving tariff structures",
+   "Climate variability and changing weather patterns",
+   "Input cost pressures and commodity price fluctuations",
+   "Volatility in energy prices impacting transportation and fertilizer costs"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

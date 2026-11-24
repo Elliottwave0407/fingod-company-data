@@ -3,7 +3,7 @@
  "sym": "ATL",
  "name": "Allcargo Terminals Limited",
  "scrip": "543954",
- "mcap_cr": 650.82,
+ "mcap_cr": 633.68,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 44.02,
    "pat": 8.77,
    "margin_pct": 21.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 65,
     "profit": 92,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 47.47,
    "pat": 6.37,
    "margin_pct": 22.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 66,
     "profit": 85,
-    "quality": 0
+    "quality": 7
    },
    "capped_by": null
   }
@@ -99,7 +99,55 @@
   ],
   "concalls_found": 11,
   "concalls_read": 10,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Allcargo Terminals Limited operates as one of India's leading Container Freight Station (CFS) operators, providing container transportation and handling services.",
+  "segments": [
+   {
+    "name": "CFS Operations",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 11.72,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Private Freight Terminal (PFT) at Farukhnagar",
+    "amount_cr": null,
+    "timeline": "Construction commenced Q4 FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Three-year strategic growth plan with expansion agenda",
+    "metric": "Capacity augmentation and market expansion",
+    "value": null,
+    "by_when": "2030 (Aspiration 2030)"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 67.52,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to management incentives",
+   "Cybersecurity threats and data privacy risks",
+   "Dependence on key contracts like Speedy CFS with JNPA",
+   "Regulatory changes in logistics sector"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

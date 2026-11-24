@@ -3,7 +3,7 @@
  "sym": "JTLIND",
  "name": "JTL INDUSTRIES LIMITED",
  "scrip": "534600",
- "mcap_cr": 2922.96,
+ "mcap_cr": 2957.94,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 95,
     "profit": 82,
-    "quality": 80
+    "quality": 82
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 58.71,
    "pat": 35.37,
    "margin_pct": 8.1,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 88,
     "profit": 76,
-    "quality": 75
+    "quality": 82
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "JTL Industries Limited is a premier structural steel solutions provider manufacturing hollow sections, galvanised pipes, and value-added steel products for domestic and global infrastructure markets.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Optimised manufacturing capacity",
+    "amount_cr": null,
+    "timeline": "As of March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "As it moves to double its manufacturing capacity, it is also strengthening its position as a global provider of high-value structural steel solutions",
+    "metric": "Manufacturing capacity",
+    "value": "Double",
+    "by_when": "Not specified"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note 49 regarding balances confirmation of trade receivables, trade payables, advances and other assets/liabilities subject to confirmation/reconciliation; and Note 10 regarding Enforcement Directorate seizure of Rs. 35.00 Lakhs cash."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions, risks and uncertainties",
+   "Balances of trade receivables, trade payables, advances and other assets/liabilities subject to confirmation/reconciliation",
+   "Enforcement Directorate seizure of cash amounting to Rs. 35.00 Lakhs"
+  ],
+  "dividend_per_share": 0.125
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

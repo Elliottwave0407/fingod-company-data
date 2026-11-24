@@ -3,7 +3,7 @@
  "sym": "STARTECK",
  "name": "Starteck Finance Limited",
  "scrip": "512381",
- "mcap_cr": 242.95,
+ "mcap_cr": 246.67,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 45,
     "profit": 100,
-    "quality": 65
+    "quality": 80
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 84,
     "profit": 65,
-    "quality": 42
+    "quality": 31
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Starteck Finance Limited is a Non-Banking Financial Company (NBFC) engaged in lending and investment activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "MKPS & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 0.25
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

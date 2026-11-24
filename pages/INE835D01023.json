@@ -3,7 +3,7 @@
  "sym": "HIRECT",
  "name": "Hind Rectifiers Limited",
  "scrip": "504036",
- "mcap_cr": 3031.36,
+ "mcap_cr": 2985.61,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 30,
     "profit": 5,
-    "quality": 7
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,45 @@
   ],
   "concalls_found": 7,
   "concalls_read": 4,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hind Rectifiers Limited is a technology-led systems provider for railway and industrial sectors, offering advanced power electronics, traction transformers, power converters, and indigenous locomotive propulsion systems.",
+  "segments": [
+   {
+    "name": "Industrial Systems",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Railway Systems",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Research and Development Capital Expenditure",
+    "amount_cr": 9.006,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 49.95,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition timing due to varying contract terms and transfer of control",
+   "Recoverability of trade receivables due to long and complex contract closure conditions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

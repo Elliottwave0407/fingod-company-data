@@ -3,7 +3,7 @@
  "sym": "BSHSL",
  "name": "Bombay Super Hybrid Seeds Limited",
  "scrip": "544757",
- "mcap_cr": 874.23,
+ "mcap_cr": 854.61,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 62,
     "profit": 8,
-    "quality": 47
+    "quality": 19
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 52,
     "profit": 32,
-    "quality": 71
+    "quality": 46
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 65,
     "profit": 4,
-    "quality": 38
+    "quality": 17
    },
    "capped_by": null
   }
@@ -109,7 +109,30 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bombay Super Hybrid Seeds Limited is engaged in the production, processing, and marketing of hybrid seeds for the Indian agricultural sector.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Gautam N Associates, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "There are no qualifications, reservation or adverse remarks made by the statutory auditors in their report."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 55,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Commodity price risk due to fluctuations in prices of commodities beyond the control of the entity",
+   "Competitive and seasonally influenced industry exposed to climatic, regulatory, and market risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

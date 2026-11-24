@@ -3,7 +3,7 @@
  "sym": "PRAKASH",
  "name": "Prakash Industries Limited",
  "scrip": "506022",
- "mcap_cr": 1978.85,
+ "mcap_cr": 1961.84,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 40,
     "profit": 44,
-    "quality": 44
+    "quality": 31
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 31,
     "profit": 53,
-    "quality": 19
+    "quality": 11
    },
    "capped_by": null
   }
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Prakash Industries Limited is an Indian company with operations in plant operations, maintenance, financial exposures, and regulatory compliance, though the specific business description is not explicitly stated in the provided excerpts.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Deferred tax liability of Rs 2,872 lakhs for the year ended March 31, 2026, adjusted against Securities Premium Account per court order; had it been accounted per Ind AS-12, tax expense would be higher by Rs 2,872 lakhs and net profit and total comprehensive income lower by Rs 2,872 lakhs."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Plant operations",
+   "Maintenance",
+   "Financial exposures",
+   "Regulatory compliance"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

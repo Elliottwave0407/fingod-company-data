@@ -63,11 +63,11 @@
    "ebitda": 2.66,
    "pat": 4.2,
    "margin_pct": 11.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 9,
     "profit": 9,
-    "quality": 44
+    "quality": 9
    },
    "capped_by": null
   }
@@ -96,7 +96,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shradha Realty Limited (formerly Shradha Infraprojects Limited) is engaged in the construction of residential and commercial real estate projects.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not specified in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Market dynamics affecting realty/infrastructure sector leading to inadequate profits",
+   "Assessment of net realizable value (NRV) of inventories comprising ongoing and completed projects, unlaunched projects and land stock"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

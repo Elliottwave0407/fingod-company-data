@@ -3,7 +3,7 @@
  "sym": "MSPL",
  "name": "MSP Steel & Power Limited",
  "scrip": "532650",
- "mcap_cr": 1783.14,
+ "mcap_cr": 1733.26,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 54,
     "profit": 38,
-    "quality": 42
+    "quality": 53
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "MSP Steel & Power Limited is engaged in the manufacturing and sale of steel products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding recognition of Deferred Tax Asset on deduction claimed under Section 43B of the Income-tax Act, 1961, pursuant to conversion of Optionally Convertible Debentures (OCDs) into equity shares, based on an independent tax opinion obtained by the management."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

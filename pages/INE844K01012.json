@@ -3,7 +3,7 @@
  "sym": "BEDMUTHA",
  "name": "Bedmutha Industries Limited",
  "scrip": "533270",
- "mcap_cr": 348.45,
+ "mcap_cr": 332.96,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 98,
     "profit": 54,
-    "quality": 62
+    "quality": 69
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 17.75,
    "pat": 6.92,
    "margin_pct": 3.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 100,
     "profit": 33,
-    "quality": 12
+    "quality": 55
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bedmutha Industries Limited is an Indian listed company with an associate company Ashoka Pre-Con Pvt. Ltd., but the excerpts do not specify its core business activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

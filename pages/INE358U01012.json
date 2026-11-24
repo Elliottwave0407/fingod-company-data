@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 70,
     "profit": 24,
-    "quality": 0
+    "quality": 93
    },
    "capped_by": "net loss"
   },
@@ -63,9 +63,13 @@
    "ebitda": -11.59,
    "pat": -43.94,
    "margin_pct": -6.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 50,
+    "profit": -5,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Sep-26",
@@ -77,9 +81,9 @@
    "pillars": {
     "growth": 48,
     "profit": 1,
-    "quality": 0
+    "quality": 34
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -102,7 +106,34 @@
   "missing": [],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-08-20"
+  "latest_concall": "2026-08-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Zota Health Care Limited is a pharmaceutical company engaged in the manufacturing and marketing of healthcare products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical conflicts disrupting energy supply routes",
+   "Commodity price volatility",
+   "Revived inflationary pressures",
+   "Tightened global financial conditions",
+   "Weaker trade momentum",
+   "Elevated geopolitical uncertainty"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -49,11 +49,11 @@
    "ebitda": 36.52,
    "pat": 11.74,
    "margin_pct": 14.2,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 60,
     "profit": 62,
-    "quality": 52
+    "quality": 88
    },
    "capped_by": null
   },
@@ -67,9 +67,9 @@
    "pillars": {
     "growth": 79,
     "profit": 96,
-    "quality": 70
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   }
  ],
  "completeness": {
@@ -96,7 +96,53 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Precot Limited is engaged in the manufacturing and sale of textile products including yarn and technical textiles.",
+  "segments": [
+   {
+    "name": "Spinning",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Technical Textile",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Addition of 8400 spindles in Kanjikode unit",
+    "amount_cr": null,
+    "timeline": "Completed during fourth quarter of FY 2025-26"
+   },
+   {
+    "item": "Installation of cotton buds machines",
+    "amount_cr": null,
+    "timeline": "In progress"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Tariff uncertainty in US market affecting exports",
+   "Geopolitical tensions impacting demand",
+   "Currency risk due to rupee depreciation",
+   "Interest rate risk on floating rate borrowings",
+   "Subdued global demand for yarn"
+  ],
+  "dividend_per_share": 4
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

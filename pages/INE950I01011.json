@@ -3,7 +3,7 @@
  "sym": "DBCORP",
  "name": "D.B.Corp Limited",
  "scrip": "533151",
- "mcap_cr": 2675.85,
+ "mcap_cr": 2642.87,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 51,
     "profit": 76,
-    "quality": 54
+    "quality": 57
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 51,
     "profit": 78,
-    "quality": 70
+    "quality": 67
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 90.87,
    "pat": 68.62,
    "margin_pct": 15.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 10,
     "profit": 13,
-    "quality": 39
+    "quality": 1
    },
    "capped_by": null
   }
@@ -109,7 +109,33 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-21"
+  "latest_concall": "2026-10-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "D.B. Corp Ltd. is India's largest and a diversified Media Group driving its business model from leadership to dominance across all major markets, states, and languages.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Property, plant and equipment (Net of advances)",
+    "amount_cr": 7.258,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

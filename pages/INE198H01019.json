@@ -3,7 +3,7 @@
  "sym": "AAREYDRUGS",
  "name": "Aarey Drugs & Pharmaceuticals Limited",
  "scrip": "524412",
- "mcap_cr": 328.2,
+ "mcap_cr": 311.9,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 4.34,
    "pat": 1.56,
    "margin_pct": 2.3,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 100,
     "profit": 82,
-    "quality": 55
+    "quality": 72
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 3,
     "profit": 47,
-    "quality": 33
+    "quality": 22
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aarey Drugs & Pharmaceuticals Ltd manufactures pharmaceutical intermediates (Mono Methyl Urea, Di Methyl Urea, Ortho Para Nitro Anisole, 2 Bromomethyl 1,3 Dioxalane, Uracile) and Active Pharmaceutical Ingredients (Metformin HCL, Mefenamic Acid, Doxophylline).",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Plant and Machinery acquired but not ready for use",
+    "amount_cr": null,
+    "timeline": "As at 31 March 2026, classified under Capital Work-in-Progress; depreciation to commence when available for use"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Intend to increase capacity of all products based on demand and plans to do backward & forward integration of products such as DMA-HCL, Ortho chloro benzoic acid and further API's like theophylline.",
+    "metric": "Capacity expansion and integration",
+    "value": "Not quantified",
+    "by_when": "Not specified"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Motilal & Associates, Chartered Accountants (Firm Registration No: 106584W)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "1. Plant and Machinery acquired during the year not in location/condition for intended use, classified under CWIP, no depreciation charged. 2. Closing balances of debtors and creditors subject to confirmation due to absence of significant periodic balance confirmation; consequential impact not ascertainable."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Various tax litigations pending before various authorities with material outcomes but not practicable to estimate timing of cash outflows",
+   "Loans provided to directors in non-compliance with Section 185 of Companies Act, 2013",
+   "Debtors and creditors balances subject to confirmation with unascertainable consequential impact"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

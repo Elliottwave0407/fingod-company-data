@@ -3,7 +3,7 @@
  "sym": "HYBRIDFIN",
  "name": "Hybrid Financial Services Limited",
  "scrip": "500262",
- "mcap_cr": 41.21,
+ "mcap_cr": 43.36,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,38 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hybrid Financial Services Limited is engaged in stock broking activities.",
+  "segments": [
+   {
+    "name": "Stock Broking",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S. Ramanand Aiyar & Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note 2.23(13) regarding provision for gratuity based on Gratuity Act instead of Ind AS 19; opinion not modified."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 9,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Contingent risks not currently faced but may be exposed to",
+   "Tougher regulatory conditions",
+   "Global and domestic outlook volatility",
+   "Iran War and Gulf tensions causing market uncertainty",
+   "Disputed tax and other liabilities with uncertain outcomes"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

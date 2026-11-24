@@ -3,7 +3,7 @@
  "sym": "MAXIND",
  "name": "Max India Limited",
  "scrip": "543223",
- "mcap_cr": 816.65,
+ "mcap_cr": 818.34,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -13.42,
    "pat": -19.29,
    "margin_pct": -20.4,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 98,
+    "profit": 64,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -33.85,
    "pat": -36.28,
    "margin_pct": -56.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 100,
+    "profit": -37,
+    "quality": 100
+   },
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -91,7 +99,42 @@
   ],
   "concalls_found": 12,
   "concalls_read": 11,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Max India Limited is a holding company for the Max Group's Senior Care business, operating through subsidiaries Antara Senior Living Limited and Antara Purukul Senior Living Limited (residences for seniors) and Antara Assisted Care Services Limited (care homes, services, AGEasy, and integrated wellness clinics).",
+  "segments": [
+   {
+    "name": "Senior Care - Residences for Seniors",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Senior Care - Care Homes & Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment of investments in subsidiaries",
+   "Liquidity risk",
+   "Market risk - Interest rate and Price risk",
+   "Credit risk",
+   "Foreign currency risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

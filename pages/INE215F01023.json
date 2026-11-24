@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 9,
     "profit": 0,
-    "quality": 0
+    "quality": 5
    },
    "capped_by": null
   }
@@ -96,7 +96,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": null,
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Work in Progress",
+    "amount_cr": 79.78,
+    "timeline": "as at 31st March 2025"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

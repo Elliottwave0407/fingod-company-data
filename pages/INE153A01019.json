@@ -3,7 +3,7 @@
  "sym": "MTNL",
  "name": "Mahanagar Telephone Nigam Limited",
  "scrip": "500108",
- "mcap_cr": 1529.64,
+ "mcap_cr": 1496.88,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 93,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": "net loss"
   },
@@ -66,9 +66,13 @@
    "ebitda": -32.99,
    "pat": -842.35,
    "margin_pct": -15.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 100,
+    "profit": 68,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -95,7 +99,56 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mahanagar Telephone Nigam Limited (MTNL) provides telecommunication services including fixed telephone, mobile, enterprise business, and infrastructure leasing in Delhi and Mumbai circles.",
+  "segments": [
+   {
+    "name": "Basic & Other Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Cellular",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Infrastructure Leasing",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Property, plant and equipment (capital commitments)",
+    "amount_cr": 5.62,
+    "timeline": "As at 31 March 2026"
+   },
+   {
+    "item": "Other Repair & Maintenance (capital commitments)",
+    "amount_cr": 20.4,
+    "timeline": "As at 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s O. P. Bagla & Co. LLP and M/s S.L. Chhajed & Co. LLP",
+   "opinion": "adverse",
+   "emphasis_or_qualification": "Adverse opinion due to material uncertainty related to going concern; net worth fully eroded, current liabilities exceed current assets, accumulated losses, and inability to meet liabilities as they fall due. Internal audit system not commensurate with size and nature of business."
+  },
+  "promoter_holding_pct": 56.25,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Market/Technology risk: Rapidly evolving technology, obsolete network, heavy debt burden and recurring losses leading to financial crunch",
+   "Going concern risk: Accumulated losses, negative net worth, current liabilities exceeding current assets, material uncertainty on ability to meet liabilities",
+   "Internal control risk: Internal audit system not commensurate with size and nature of business; extent of coverage, frequency/quality/timeliness of reporting and follow-up need strengthening",
+   "Regulatory/Compliance risk: Compliance with SEBI LODR, Companies Act, and other statutory provisions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

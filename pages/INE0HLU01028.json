@@ -3,7 +3,7 @@
  "sym": "MOBIKWIK",
  "name": "One Mobikwik Systems Limited",
  "scrip": "544305",
- "mcap_cr": 1677.29,
+ "mcap_cr": 1678.08,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 38,
     "profit": 82,
-    "quality": 52
+    "quality": 80
    },
    "capped_by": null
   },
@@ -99,7 +99,47 @@
   ],
   "concalls_found": 8,
   "concalls_read": 8,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "One MobiKwik Systems Limited operates a digital payments platform with 189.6 million registered users and 4.92 million merchant partners, offering UPI payments, payment gateway services (Zaakpay), and financial services including ZIP EMI personal loans through lending partners.",
+  "segments": [
+   {
+    "name": "Payments",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Financial Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Net payments margin guidance band of 12 to 15 basis points",
+    "metric": "Net payments margin",
+    "value": "12 to 15 basis points",
+    "by_when": "FY26"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Regulatory expectations for lending partners evolved across the industry",
+   "Dependence on banking and NBFC partners for lending products",
+   "Transition from distribution economics to ownership economics with NBFC license"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

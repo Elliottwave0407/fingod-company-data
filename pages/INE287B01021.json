@@ -3,7 +3,7 @@
  "sym": "SUBROS",
  "name": "Subros Limited",
  "scrip": "517168",
- "mcap_cr": 4180.96,
+ "mcap_cr": 4230.86,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 38,
     "profit": 24,
-    "quality": 38
+    "quality": 36
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 40,
     "profit": 22,
-    "quality": 32
+    "quality": 30
    },
    "capped_by": null
   }
@@ -99,7 +99,58 @@
   ],
   "concalls_found": 11,
   "concalls_read": 0,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Subros Limited manufactures thermal management solutions, including automotive air conditioning systems and components, for passenger and commercial vehicles in India.",
+  "segments": [
+   {
+    "name": "Passenger Vehicle Thermal Components",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Commercial Vehicle AC Products (Truck AC, Bus AC)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 0.55,
+    "timeline": "FY26"
+   },
+   {
+    "item": "Capital work-in-progress (CWIP)",
+    "amount_cr": 52.62,
+    "timeline": "As at March 31, 2026"
+   },
+   {
+    "item": "Intangible assets under development (internal development costs capitalised)",
+    "amount_cr": 31.09,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Capitalisation of internal development costs involves significant judgement regarding product vs research classification, direct attribution of costs, and key assumptions like future revenue, margins, and discount rates for cash flow forecasts.",
+   "Foreign currency exposure (unhedged) to JPY, CNH, CHF impacting profit due to exchange rate fluctuations.",
+   "Interest rate risk on variable rate borrowings (Rs. 2,980.54 Lakhs as at March 31, 2026).",
+   "Commodity, currency, and wage-related cost pressures.",
+   "Geopolitical developments and energy price volatility affecting inflation and cost structures."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

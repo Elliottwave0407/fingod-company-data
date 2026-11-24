@@ -3,7 +3,7 @@
  "sym": "TINNARUBR",
  "name": "Tinna Rubber and Infrastructure Limited",
  "scrip": "530475",
- "mcap_cr": 1700.42,
+ "mcap_cr": 1647.0,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 81,
     "profit": 95,
-    "quality": 66
+    "quality": 72
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 80,
     "profit": 97,
-    "quality": 76
+    "quality": 95
    },
    "capped_by": "revenue growth under 20%"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 78,
     "profit": 55,
-    "quality": 67
+    "quality": 70
    },
    "capped_by": null
   }
@@ -109,7 +109,58 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-10-29"
+  "latest_concall": "2026-10-29",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Tinna Rubber and Infrastructure Limited is a fully integrated company engaged in the collection of end-of-life tyres (ELTs) and production of recycled materials, including crumb rubber modifier for bitumen and micronized rubber powder up to 170 mesh.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Tyre crushing capacity expansion in India",
+    "amount_cr": null,
+    "timeline": "FY26"
+   },
+   {
+    "item": "Expansion and upgradation of Manufacturing Facilities at Varle and Gummidipoondi",
+    "amount_cr": 33.4622,
+    "timeline": "Not specified"
+   },
+   {
+    "item": "Re-payment of certain borrowings",
+    "amount_cr": 23.0209,
+    "timeline": "Not specified"
+   },
+   {
+    "item": "General corporate purposes",
+    "amount_cr": 18.9984,
+    "timeline": "Not specified"
+   },
+   {
+    "item": "Issue Expenses",
+    "amount_cr": 3.2181,
+    "timeline": "Not specified"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. S.S. Kothari Mehta & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Challenging business environment in the automobile industry",
+   "Challenging business environment in the rubber goods manufacturing industry",
+   "Geopolitical uncertainties",
+   "Forward-looking statements subject to inherent risks and uncertainties"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

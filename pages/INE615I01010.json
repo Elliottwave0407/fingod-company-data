@@ -3,7 +3,7 @@
  "sym": "GLOBUSSPR",
  "name": "Globus Spirits Limited",
  "scrip": "533104",
- "mcap_cr": 2470.03,
+ "mcap_cr": 2404.27,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 71,
     "profit": 44,
-    "quality": 49
+    "quality": 69
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 47,
     "profit": 21,
-    "quality": 0
+    "quality": 12
    },
    "capped_by": null
   }
@@ -95,7 +95,50 @@
   "missing": [],
   "concalls_found": 13,
   "concalls_read": 12,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Globus Spirits Limited is an integrated alco-beverage company in India with six strategically located manufacturing facilities and a grain-to-glass business model, producing and distributing alcoholic beverages across diverse categories and price points.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "New distillery at West Bengal for enhancement of ethanol distillation capacity or to set up distillers for producing first generation ethanol from feed stocks such as cereals, sugarcane, sugar beet etc.",
+    "amount_cr": null,
+    "timeline": "Moratorium of 1 year and repayment started from July 2022 onwards, repayable in 48 equal instalments"
+   },
+   {
+    "item": "New distillery at Jharkhand for enhancement of ethanol distillation capacity or to set up distillers for producing first generation ethanol from feed stocks such as cereals, sugarcane, sugar beet etc.",
+    "amount_cr": null,
+    "timeline": "Moratorium of 1 year and repayment started from March 2023 onwards, repayable in 48 equal instalments"
+   },
+   {
+    "item": "Grains/molasses/cane juice based Ethanol distillery at Lakhimpur Kheri, Uttar Pradesh",
+    "amount_cr": null,
+    "timeline": "Moratorium of 1 year and repayable in 48 equal instalments"
+   },
+   {
+    "item": "ENA distillation plant of 60 KLPD at Lakhimpur Kheri, Uttar Pradesh",
+    "amount_cr": null,
+    "timeline": "Moratorium of 1 year and repayable in 48 equal instalments"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to multiplicity of products, volume of sales transactions, size of distribution network, nature of customers and varied terms of contracts with different customers"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

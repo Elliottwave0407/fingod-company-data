@@ -3,7 +3,7 @@
  "sym": "ZEELEARN",
  "name": "Zee Learn Limited",
  "scrip": "533287",
- "mcap_cr": 189.3,
+ "mcap_cr": 189.96,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 72,
     "profit": 100,
-    "quality": 70
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   },
   {
    "q": "Jun-26",
@@ -84,9 +84,9 @@
    "pillars": {
     "growth": 47,
     "profit": 100,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -109,7 +109,49 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Zee Learn Limited is a leading education company operating across early childhood (Kidzee preschools), K-12 schooling (Mount Litera Zee Schools), international education (Mount Litera School International), and creative arts/skill development (ZIMA, ZICA).",
+  "segments": [
+   {
+    "name": "Early Childhood Education (Kidzee)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "K-12 Schooling (Mount Litera Zee Schools)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "International Education (Mount Litera School International)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Creative Arts & Skill Development (ZIMA, ZICA)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to possible effects of matters described in 'Basis for qualified opinion' section, including corporate guarantee invocation by Yes Bank Limited, CIRP proceedings, and settlement agreement termination with J.C. Flowers Asset Reconstructions Private Limited."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 486,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Corporate guarantee obligations and litigation with Yes Bank Limited / J.C. Flowers Asset Reconstructions Private Limited",
+   "Corporate Insolvency Resolution Process (CIRP) proceedings risk",
+   "Settlement agreement termination and ongoing financial obligations",
+   "Dependence on franchise model for preschool and school network"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

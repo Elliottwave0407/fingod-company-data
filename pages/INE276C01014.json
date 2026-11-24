@@ -3,7 +3,7 @@
  "sym": "EIHAHOTELS",
  "name": "EIH Associated Hotels Limited",
  "scrip": "523127",
- "mcap_cr": 1783.91,
+ "mcap_cr": 1785.43,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 49.66,
    "pat": 37.63,
    "margin_pct": 39.0,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 14,
     "profit": 20,
-    "quality": 43
+    "quality": 5
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 7.14,
    "pat": 6.89,
    "margin_pct": 10.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 20,
     "profit": 37,
-    "quality": 58
+    "quality": 41
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "EIH Associated Hotels Limited operates luxury hotels under the Oberoi Hotels & Resorts and Trident Hotels brands as a member of The Oberoi Group.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 3.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

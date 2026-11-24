@@ -3,7 +3,7 @@
  "sym": "MODTHREAD",
  "name": "Modern Threads (India) Limited",
  "scrip": "500282",
- "mcap_cr": 178.43,
+ "mcap_cr": 177.35,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 71,
     "profit": 82,
-    "quality": 59
+    "quality": 43
    },
-   "capped_by": "profit growth under 25%"
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 83,
     "profit": 88,
-    "quality": 81
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Modern Threads (India) Limited is engaged in trading derivative financial instruments including equity, currency, and commodity futures and options, and holds investments in mutual funds and debentures.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in the provided text",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to: (i) Non-provision of interest (dividend) on cumulative redeemable preference shares amounting to Rs. 36.13 Lakhs for the year (Rs. 1083.87 Lakhs up to 31.03.2026); (ii) Balances of trade payables and trade receivables subject to confirmation and consequential adjustments. Key Audit Matter: Accounting and Valuation of Derivative Financial Instruments (Futures & Options)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Non-provision of interest on cumulative redeemable preference shares",
+   "Trade payables and receivables subject to confirmation",
+   "High volume and frequency of derivative trading requiring robust internal systems",
+   "Compliance with exchange margining and regulatory provisions for derivatives"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

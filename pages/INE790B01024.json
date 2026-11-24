@@ -3,7 +3,7 @@
  "sym": "KCPSUGIND",
  "name": "KCP Sugar and Industries Corporation Limited",
  "scrip": "533192",
- "mcap_cr": 297.75,
+ "mcap_cr": 296.39,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -4.84,
    "pat": -15.2,
    "margin_pct": -7.0,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 19,
+    "profit": -6,
+    "quality": 100
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -95,7 +99,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "K.C.P Sugar and Industries Corporation Limited is engaged in the manufacturing of sugar and related products, with subsidiaries in engineering (The Eimco-K.C.P. Limited) and agricultural research farms.",
+  "segments": [
+   {
+    "name": "Sugar",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Engineering (The Eimco-K.C.P. Limited)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Agricultural Research Farms",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure (The Eimco-K.C.P. Limited)",
+    "amount_cr": 1.8921,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": 127.875,
+  "auditor": {
+   "name": "B. Purushottam & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Fluctuation in sugar selling prices and government notifications impacting net realizable value of sugar inventory",
+   "Dependence on monthly quota and minimum selling price regulations",
+   "Inventory valuation risk due to significant judgment in determining net realizable value"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

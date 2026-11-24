@@ -3,7 +3,7 @@
  "sym": "UYFINCORP",
  "name": "U. Y. Fincorp Limited",
  "scrip": "530579",
- "mcap_cr": 580.42,
+ "mcap_cr": 585.93,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 84
+    "quality": 100
    },
    "capped_by": "margin down over 1 pt QoQ"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 30,
-    "quality": 88
+    "quality": 69
    },
    "capped_by": "margin down over 2 pts YoY"
   }
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "U.Y. Fincorp Limited is a non-deposit taking NBFC (NBFC-ICC, Base Layer) providing Corporate Loans, Micro-Enterprise Loans, Personal Loans, Loans Against Property, and Equipment Financing across India through branch network and fintech partnerships.",
+  "segments": [
+   {
+    "name": "Industry-Other",
+    "share_of_revenue_pct": 26.59
+   },
+   {
+    "name": "Services - NBFC",
+    "share_of_revenue_pct": 13.58
+   },
+   {
+    "name": "Services - Other Services",
+    "share_of_revenue_pct": 23.41
+   },
+   {
+    "name": "Personal Loans",
+    "share_of_revenue_pct": 36.43
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter: Associate company Purple Advertising Services Private Limited financial statements unavailable for FY2025-26; investment of Rs. 900 lakhs impaired in prior years; results not consolidated per Ind AS 28."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Asset quality and credit risk",
+   "Competition in NBFC sector",
+   "Funding conditions and interest rate movements",
+   "Evolving regulatory environment",
+   "Concentration risk in lending portfolio",
+   "Dependence on associate company financials (Purple Advertising Services Pvt Ltd under liquidation)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

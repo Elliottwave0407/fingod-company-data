@@ -53,9 +53,9 @@
    "pillars": {
     "growth": 79,
     "profit": 100,
-    "quality": 64
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   },
   {
    "q": "Jun-26",
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 80,
     "profit": 9,
-    "quality": 55
+    "quality": 64
    },
    "capped_by": null
   }
@@ -96,7 +96,35 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "MITCON Consultancy & Engineering Services Limited provides consultancy and engineering services.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Work in Progress",
+    "amount_cr": 2.8185,
+    "timeline": "As at 31st March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not specified in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 19,
+  "key_risks": [
+   "Cyber Exposure Risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

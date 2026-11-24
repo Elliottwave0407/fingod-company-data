@@ -3,7 +3,7 @@
  "sym": "VSTIND",
  "name": "VST Industries Limited",
  "scrip": "509966",
- "mcap_cr": 3292.76,
+ "mcap_cr": 3281.72,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 97,
     "profit": 100,
-    "quality": 72
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 50,
     "profit": 5,
-    "quality": 48
+    "quality": 2
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 43.24,
    "pat": 41.04,
    "margin_pct": 5.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 50,
     "profit": 4,
-    "quality": 50
+    "quality": 0
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "VST Industries Limited is engaged in the manufacturing and sale of cigarettes and tobacco products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not specified in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

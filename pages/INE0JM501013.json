@@ -49,11 +49,11 @@
    "ebitda": 3.68,
    "pat": 3.35,
    "margin_pct": 6.4,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 98,
     "profit": 48,
-    "quality": 75
+    "quality": 49
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 98,
     "profit": 77,
-    "quality": 92
+    "quality": 79
    },
    "capped_by": null
   }
@@ -96,7 +96,29 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-08-29"
+  "latest_concall": "2026-08-29",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nupur Recyclers Limited is engaged in trading activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Arun Goel & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risks related to completeness of revenue, improper sales cut off, timing of recognitions, out of period sales"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

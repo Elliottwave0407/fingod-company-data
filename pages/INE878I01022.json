@@ -3,7 +3,7 @@
  "sym": "BAFNAPH",
  "name": "Bafna Pharmaceuticals Limited",
  "scrip": "532989",
- "mcap_cr": 1112.44,
+ "mcap_cr": 1158.69,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 69,
     "profit": 87,
-    "quality": 72
+    "quality": 71
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bafna Pharmaceuticals Limited is a pharmaceutical company engaged in manufacturing and global operations.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s K S Rao & Co., Chartered Accountants, Chennai",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Attention is invited to Note No. 35 to the Financial Statements"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 339,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Talent acquisition and retention for critical responsibilities",
+   "Employee benefit obligation measurement uncertainty",
+   "Income tax assessment variations",
+   "Deferred tax asset recognition uncertainty",
+   "Asset impairment indicator evaluation",
+   "Expected credit losses on receivables",
+   "Useful life estimation of depreciable assets",
+   "Fair value measurement of financial instruments",
+   "Provisions estimation uncertainty",
+   "Lease term determination judgment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

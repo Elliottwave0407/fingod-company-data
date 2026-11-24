@@ -3,7 +3,7 @@
  "sym": "DWARKESH",
  "name": "Dwarikesh Sugar Industries Limited",
  "scrip": "532610",
- "mcap_cr": 794.2,
+ "mcap_cr": 792.72,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 14,
     "profit": 17,
-    "quality": 63
+    "quality": 73
    },
    "capped_by": null
   },
@@ -66,9 +66,13 @@
    "ebitda": -25.71,
    "pat": -25.73,
    "margin_pct": -7.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 8,
+    "profit": -6,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Sep-26",
@@ -76,9 +80,13 @@
    "ebitda": -14.57,
    "pat": -13.12,
    "margin_pct": -5.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 32,
+    "profit": 75,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -101,7 +109,27 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 0,
-  "latest_concall": "2025-05-26"
+  "latest_concall": "2025-05-26",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Dwarikesh Sugar Industries Limited manufactures sugar and ethanol, and operates sugar manufacturing facilities and distilleries in Uttar Pradesh.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Mittal Gupta & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 1455,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

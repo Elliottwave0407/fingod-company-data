@@ -3,7 +3,7 @@
  "sym": "GARUDA",
  "name": "Garuda Construction and Engineering Limited",
  "scrip": "544271",
- "mcap_cr": 1439.82,
+ "mcap_cr": 1404.93,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 77,
-    "quality": 85
+    "quality": 76
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 56.13,
    "pat": 41.53,
    "margin_pct": 32.0,
-   "verdict_v3": "Blockbuster",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 90,
     "profit": 80,
-    "quality": 82
+    "quality": 74
    },
    "capped_by": null
   }
@@ -99,7 +99,55 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Garuda Construction and Engineering Limited is a professionally managed EPC and construction company providing comprehensive civil construction services across residential, commercial, industrial, infrastructure, and hospitality sectors, including O&M, MEP, and finishing works.",
+  "segments": [
+   {
+    "name": "Residential",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Commercial",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Industrial",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Infrastructure",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Hospitality",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Services (O&M, MEP, Finishing)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Agarwal Tibrewal & Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition from engineering and construction contracts involves significant management judgement and estimation in estimating total costs to complete, determining stage of completion, evaluating contract modifications, variations, claims, liquidated damages, variable consideration, and assessing recoverability of contract assets.",
+   "Recoverability and expected credit loss assessment of trade receivables."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

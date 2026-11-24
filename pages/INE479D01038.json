@@ -3,7 +3,7 @@
  "sym": "KRITI",
  "name": "Kriti Industries (India) Limited",
  "scrip": "526423",
- "mcap_cr": 268.38,
+ "mcap_cr": 260.27,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 14.54,
    "pat": 4.01,
    "margin_pct": 10.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 65,
     "profit": 88,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   },
   {
    "q": "Jun-26",
@@ -99,7 +99,70 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-05-13"
+  "latest_concall": "2026-05-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kriti Industries (India) Limited manufactures PVC and PE polymer piping solutions for agriculture, water management, plumbing, infrastructure, and industrial applications.",
+  "segments": [
+   {
+    "name": "Agriculture",
+    "share_of_revenue_pct": 77
+   },
+   {
+    "name": "Building products",
+    "share_of_revenue_pct": 15
+   },
+   {
+    "name": "Industrial solutions",
+    "share_of_revenue_pct": 7
+   },
+   {
+    "name": "Micro-irrigation",
+    "share_of_revenue_pct": 1
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Installed manufacturing capacity",
+    "amount_cr": null,
+    "timeline": "1,49,400 TPA"
+   },
+   {
+    "item": "PVC pipe extrusion lines",
+    "amount_cr": null,
+    "timeline": "25 lines"
+   },
+   {
+    "item": "HDPE & drip irrigation extrusion lines",
+    "amount_cr": null,
+    "timeline": "16 lines"
+   },
+   {
+    "item": "Injection moulding machines",
+    "amount_cr": null,
+    "timeline": "30 machines"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Ajit Jain & Company",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Provisions and Contingent liabilities in respect of certain litigations of Assessment of Direct and Indirect Taxes"
+  },
+  "promoter_holding_pct": 69.07,
+  "promoter_pledge_pct": null,
+  "employees": 498,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "PVC prices remained volatile",
+   "Raw material costs fluctuated sharply",
+   "Geopolitical uncertainties disrupted supply chains and business confidence",
+   "Material uncertain tax positions including other matters under dispute which involves significant judgment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

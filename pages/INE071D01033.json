@@ -3,7 +3,7 @@
  "sym": "MENONBE",
  "name": "Menon Bearings Limited",
  "scrip": "523828",
- "mcap_cr": 1724.07,
+ "mcap_cr": 1646.18,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 91,
     "profit": 100,
-    "quality": 78
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 89,
     "profit": 76,
-    "quality": 83
+    "quality": 87
    },
    "capped_by": "margin down over 1 pt QoQ"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 99,
     "profit": 90,
-    "quality": 88
+    "quality": 95
    },
    "capped_by": "margin down over 1 pt QoQ"
   }
@@ -109,7 +109,36 @@
   "missing": [],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Menon Bearings Limited is engaged in the manufacturing of auto components, including bi-metal bearings, bushes, thrust washers, and through its subsidiary Menon Alkop Limited, aluminium die casting and machining solutions.",
+  "segments": [
+   {
+    "name": "Bi-Metal Division",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Aluminium Die Casting & Machining (Menon Alkop Limited)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. A R N A & ASSOCIATES",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [],
+  "dividend_per_share": 2.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

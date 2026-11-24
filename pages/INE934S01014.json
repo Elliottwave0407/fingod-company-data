@@ -3,7 +3,7 @@
  "sym": "GNA",
  "name": "GNA Axles Limited",
  "scrip": "540124",
- "mcap_cr": 2284.35,
+ "mcap_cr": 2259.23,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 84,
     "profit": 52,
-    "quality": 69
+    "quality": 79
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 85,
     "profit": 24,
-    "quality": 63
+    "quality": 59
    },
    "capped_by": null
   }
@@ -95,7 +95,40 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GNA Axles Limited is a leading manufacturer of automotive transmission components, specializing in precision-engineered driveline solutions for global OEMs.",
+  "segments": [
+   {
+    "name": "Rear Axle Shafts",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Spindles",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Other Shafts",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [],
+  "dividend_per_share": 3
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

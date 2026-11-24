@@ -3,7 +3,7 @@
  "sym": "SIGACHI",
  "name": "Sigachi Industries Limited",
  "scrip": "543389",
- "mcap_cr": 1162.02,
+ "mcap_cr": 1145.97,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 15.26,
    "pat": 7.65,
    "margin_pct": 12.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 10,
     "profit": 10,
-    "quality": 17
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 20,
     "profit": 91,
-    "quality": 32
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   },
   {
    "q": "Sep-26",
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 77,
     "profit": 79,
-    "quality": 19
+    "quality": 7
    },
    "capped_by": null
   }
@@ -109,7 +109,36 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sigachi Industries Limited is a global pharmaceutical excipient manufacturer serving over 500 customers across 65 countries with products used in pharmaceutical, food, nutrition, and healthcare industries.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "New state-of-the-art facility at Dahej",
+    "amount_cr": null,
+    "timeline": "will add 12,000 MTPA of Microcrystalline Cellulose capacity, taking total manufacturing capacity to 30,000 MTPA"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Yelamanchi & Associates, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Assessment of loss due to fire incident at Hyderabad unit production facility resulting in losses of Rs 118.21 crores relating to fixed assets, inventories, compensation, medical expenses and ITC reversal; insurance claims to be recognized upon receipt."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Fire incident at Hyderabad manufacturing facility causing significant damage to property, plant and equipment, inventories and disruption to operations",
+   "Significant management judgment in determination of carrying value of assets damaged, measurement of losses, estimation of recoverable amounts from insurers, and presentation of financial impact"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

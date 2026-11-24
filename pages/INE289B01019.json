@@ -3,7 +3,7 @@
  "sym": "GICHSGFIN",
  "name": "GIC Housing Finance Limited",
  "scrip": "511676",
- "mcap_cr": 700.87,
+ "mcap_cr": 686.06,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 233.77,
    "pat": 53.68,
    "margin_pct": 85.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 27,
     "profit": 67,
-    "quality": 47
+    "quality": 97
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 46,
     "profit": 100,
-    "quality": 40
+    "quality": 66
    },
    "capped_by": null
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GIC Housing Finance Ltd. is a housing finance company providing housing and non-housing loans.",
+  "segments": [
+   {
+    "name": "Housing",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Non Housing",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Mehta & Mehta, Company Secretaries",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Expected Credit Loss \u2013 Impairment of carrying value of loans and advances",
+   "Credit risk characteristics for collective evaluation of impairment",
+   "Loan staging criteria",
+   "Consideration of probability scenarios and forward looking macro-economic factors",
+   "Model estimates \u2013 Probabilities of Default (PD), Loss Given Default (LGD), Exposures at Default (EAD)",
+   "Completeness and accuracy of data used in ECL model"
+  ],
+  "dividend_per_share": 4.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

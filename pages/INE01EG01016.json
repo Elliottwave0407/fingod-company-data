@@ -3,7 +3,7 @@
  "sym": "RITCO",
  "name": "Ritco Logistics Limited",
  "scrip": "542383",
- "mcap_cr": 751.78,
+ "mcap_cr": 741.04,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 27,
     "profit": 11,
-    "quality": 0
+    "quality": 5
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 21.91,
    "pat": 3.47,
    "margin_pct": 6.0,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 22,
     "profit": 25,
-    "quality": 0
+    "quality": 9
    },
    "capped_by": null
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2025-08-21"
+  "latest_concall": "2025-08-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ritco Logistics Limited is an integrated logistics and supply chain solutions provider offering transportation (FTL), 3PL, warehousing, multimodal logistics, dedicated fleet solutions, and technology-enabled logistics services.",
+  "segments": [
+   {
+    "name": "Transportation",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "3PL and Warehousing",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Multimodal Logistics",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Dedicated Fleet Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Technology-enabled Logistics Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "ADFFOODS",
  "name": "ADF Foods Limited",
  "scrip": "519183",
- "mcap_cr": 2400.52,
+ "mcap_cr": 2339.55,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 74,
     "profit": 65,
-    "quality": 87
+    "quality": 86
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 29.65,
    "pat": 17.29,
    "margin_pct": 17.7,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 68,
     "profit": 46,
-    "quality": 48
+    "quality": 37
    },
    "capped_by": null
   }
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "ADF Foods Limited manufactures and exports Indian food products including pickles, chutneys, frozen foods, and ready-to-eat items under brands such as Ashoka, Truly Indian, and ADF Soul across 60+ countries.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Surat factory",
+    "amount_cr": null,
+    "timeline": "newly commenced"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M S K A & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "US trade policy and tariffs impacting largest export market",
+   "West Asia conflict cutting off access to Gulf market",
+   "Freight cost spikes and supply chain disturbances",
+   "Impairment risk for indefinite-lived intangible assets and subsidiary investments"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

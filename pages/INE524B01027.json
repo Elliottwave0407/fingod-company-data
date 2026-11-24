@@ -3,7 +3,7 @@
  "sym": "GANDHITUBE",
  "name": "Gandhi Special Tubes Limited",
  "scrip": "513108",
- "mcap_cr": 1086.15,
+ "mcap_cr": 1068.16,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 19.75,
    "pat": 9.36,
    "margin_pct": 41.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 52,
     "profit": 99,
-    "quality": 18
+    "quality": 3
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 65,
     "profit": 85,
-    "quality": 86
+    "quality": 80
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gandhi Special Tubes Limited manufactures precision steel tubes for automotive, hydraulic, and general engineering applications.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S. V. DOSHI & CO.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

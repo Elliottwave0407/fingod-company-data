@@ -3,7 +3,7 @@
  "sym": "NIBL",
  "name": "NRB Industrial Bearings Limited",
  "scrip": "535458",
- "mcap_cr": 79.72,
+ "mcap_cr": 75.16,
  "group": "B",
  "quarters": [
   {
@@ -66,9 +66,13 @@
    "ebitda": -1.61,
    "pat": -6.59,
    "margin_pct": -8.5,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 28,
+    "profit": 7,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Sep-26",
@@ -76,9 +80,13 @@
    "ebitda": -1.65,
    "pat": -6.5,
    "margin_pct": -7.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 60,
+    "profit": 74,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -101,7 +109,35 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "NRB Industrial Bearings Limited manufactures industrial bearings and precision components for automotive, machine tools, textile, and other industrial sectors.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S R B C & CO LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Decline in demand from specific sectors like textiles and Radial Piston Pumps",
+   "Competition from Chinese manufacturers in agricultural harvester machinery",
+   "Current liabilities exceed current assets by Rs. 1,896.97 lakhs",
+   "Company incurred cash losses of Rs. 2,136.13 lakhs in current financial year",
+   "Negative equity of Rs. (5,165.77) lakhs as at March 31, 2026",
+   "High gearing ratio of 160.96% as at March 31, 2026",
+   "Inventory provisioning for slow and non-moving work in progress and finished goods"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

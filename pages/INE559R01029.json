@@ -3,7 +3,7 @@
  "sym": "LANDMARK",
  "name": "Landmark Cars Limited",
  "scrip": "543714",
- "mcap_cr": 1946.16,
+ "mcap_cr": 1925.42,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 68,
     "profit": 45,
-    "quality": 50
+    "quality": 76
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 72.0,
    "pat": 14.55,
    "margin_pct": 5.5,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 60,
     "profit": 34,
-    "quality": 50
+    "quality": 73
    },
    "capped_by": null
   }
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-20"
+  "latest_concall": "2026-11-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Landmark Cars Limited is India's leading premium automotive retail company providing integrated mobility solutions across passenger and commercial vehicle categories through a diversified multi-brand dealership network.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Ravi Kapoor & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 5120,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to inherent risks and uncertainties",
+   "Assumptions and predictions may not prove accurate",
+   "Several factors could cause actual results to differ materially from forward-looking statements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

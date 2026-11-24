@@ -3,7 +3,7 @@
  "sym": "SARLAPOLY",
  "name": "Sarla Performance Fibers Limited",
  "scrip": "526885",
- "mcap_cr": 717.36,
+ "mcap_cr": 716.08,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,29 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Manufacturing and export of specialty polyester and nylon yarns, covered yarns, high tenacity yarns, and sewing threads.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "CNK & Associates LLP",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified audit opinion on consolidated audited financial statements for the year ended March 31, 2026, relating to the sale by the Company of 11 Non-Cumulative Redeemable Preference Shares held in its wholly owned subsidiary, Sarla Flex Inc. (United States of America), for a consideration of USD 1,21,000, resulting in a loss of Rs 7,713.26 lakhs which has been fully recognised as an Exceptional Item in the financial statements for the year ended March 31, 2026."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Disruption from Emerging Material Technologies: Advancements in alternative materials could challenge existing product relevance and require continuous adaptation."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "ATLASCYCLE",
  "name": "Atlas Cycles (Haryana) Limited",
  "scrip": "505029",
- "mcap_cr": 58.24,
+ "mcap_cr": 57.92,
  "group": "B",
  "quarters": [
   {
@@ -97,7 +97,38 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Atlas Cycles (Haryana) Limited manufactures and sells bicycles in India.",
+  "segments": [
+   {
+    "name": "Bicycles",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Dinesh Nangru & co.",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "The company has not provided for the interest on overdue outstanding payment of creditors including MSMEs and on suits filed by creditors in different courts. Exact quantum of liability is not ascertainable in absence of reconciliations with suppliers and balance confirmations by suppliers; however, the company has disclosed in contingent liability regarding claims of interest filed by creditors in different courts. The company has not provided for deferred tax Liability/ Deferred tax asset."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Non-provision of interest on overdue payments to creditors and MSMEs",
+   "Pending legal suits filed by creditors in courts",
+   "Non-provision for deferred tax liability/asset",
+   "Business revival uncertainty with declining production and sales",
+   "Negative net worth impact due to audit qualifications"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

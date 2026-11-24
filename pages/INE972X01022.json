@@ -49,9 +49,13 @@
    "ebitda": -0.2,
    "pat": 0.38,
    "margin_pct": -0.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Steady",
+   "pillars": {
+    "growth": 11,
+    "profit": 79,
+    "quality": 80
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -63,7 +67,7 @@
    "pillars": {
     "growth": 31,
     "profit": 45,
-    "quality": 81
+    "quality": 59
    },
    "capped_by": null
   }
@@ -92,7 +96,40 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vaishali Pharma Limited is engaged in pharmaceutical trading and export business.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "HD & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "longer than anticipated delay in economic revival",
+   "unfavorable exchange rate fluctuations",
+   "emergence of inflationary conditions",
+   "rise in counterfeits and look-alikes",
+   "unexpected changes in regulatory framework",
+   "regulatory and compliance risks",
+   "product quality-related risks",
+   "market and competitive risks",
+   "foreign exchange fluctuations",
+   "supply chain disruptions",
+   "credit risks",
+   "changes in domestic and international market conditions"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

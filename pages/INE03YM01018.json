@@ -3,7 +3,7 @@
  "sym": "CHEMCON",
  "name": "Chemcon Speciality Chemicals Limited",
  "scrip": "543233",
- "mcap_cr": 682.06,
+ "mcap_cr": 664.11,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 88,
     "profit": 54,
-    "quality": 68
+    "quality": 62
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 83,
     "profit": 99,
-    "quality": 84
+    "quality": 97
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 81,
     "profit": 85,
-    "quality": 69
+    "quality": 62
    },
    "capped_by": null
   }
@@ -109,7 +109,45 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Chemcon Speciality Chemicals Limited manufactures and sells organic and inorganic chemicals, speciality chemicals, chemical intermediates, and solvents for pharmaceutical, agrochemical, and aromatic chemical applications.",
+  "segments": [
+   {
+    "name": "Organic and Inorganic Chemicals",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Integration of Shivam Petrochem Industries acquisition (slump sale)",
+    "amount_cr": null,
+    "timeline": "Coming years"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts (Secretarial Auditor: Rathod & Co.)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 39.6952,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Slower demand across key international markets",
+   "Aggressive competition from Chinese manufacturers",
+   "Inventory corrections",
+   "Volatile raw material prices",
+   "Geopolitical uncertainties",
+   "Sharp increase in raw material costs and input expenses pressuring margins"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

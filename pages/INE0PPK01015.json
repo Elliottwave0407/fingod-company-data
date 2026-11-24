@@ -3,7 +3,7 @@
  "sym": "ORIENTTECH",
  "name": "Orient Technologies Limited",
  "scrip": "544235",
- "mcap_cr": 928.71,
+ "mcap_cr": 909.02,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 18,
     "profit": 32,
-    "quality": 7
+    "quality": 6
    },
    "capped_by": null
   }
@@ -99,7 +99,64 @@
   ],
   "concalls_found": 8,
   "concalls_read": 8,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Orient Technologies Limited provides IT infrastructure solutions including data centre solutions, end user computing, and cybersecurity & digital forensics services.",
+  "segments": [
+   {
+    "name": "IT Infrastructure Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "IT Infrastructure and Application Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure (including intangible assets) - Standalone FY2025-26",
+    "amount_cr": 79.0137,
+    "timeline": "FY2025-26"
+   },
+   {
+    "item": "Capital Expenditure (including intangible assets) - Standalone FY2024-25",
+    "amount_cr": 12.4036,
+    "timeline": "FY2024-25"
+   },
+   {
+    "item": "IPO Funds - Funding Capital Expenditure requirements",
+    "amount_cr": 79.65,
+    "timeline": "As per Prospectus"
+   },
+   {
+    "item": "IPO Funds - Acquisition of office premise at Navi Mumbai",
+    "amount_cr": 10.348,
+    "timeline": "As per Prospectus"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Extension of timeline for utilizing unspent IPO proceeds",
+    "metric": "Utilization period for IPO proceeds",
+    "value": "Extended by one year",
+    "by_when": "March 31, 2027"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "There have been no qualifications, reservation, disclaimer or adverse remarks given in the report."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

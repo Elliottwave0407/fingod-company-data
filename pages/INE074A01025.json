@@ -3,7 +3,7 @@
  "sym": "PRAJIND",
  "name": "Praj Industries Limited",
  "scrip": "522205",
- "mcap_cr": 4296.63,
+ "mcap_cr": 4263.54,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 12,
     "profit": 3,
-    "quality": 5
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 33,
     "profit": 28,
-    "quality": 46
+    "quality": 60
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 52.37,
    "pat": 23.17,
    "margin_pct": 6.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 23,
     "profit": 32,
-    "quality": 42
+    "quality": 53
    },
    "capped_by": null
   }
@@ -109,7 +109,36 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-08-18"
+  "latest_concall": "2026-08-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Praj Industries Limited is engaged in the business of process and project engineering, providing technology solutions for biofuels, breweries, wastewater treatment, and high-purity systems.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "R&D capital expenditure",
+    "amount_cr": 18.1,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M S K A & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition involves significant management judgement in estimating total costs to complete, assessing project progress, and determining timing of revenue and profit recognition, including contingencies for project risks and liquidated damages.",
+   "Expected losses on onerous contracts require significant judgement when such losses become probable based on expected total contract cost."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

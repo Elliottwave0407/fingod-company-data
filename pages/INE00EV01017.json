@@ -3,7 +3,7 @@
  "sym": "HARIOMPIPE",
  "name": "Hariom Pipe Industries Limited",
  "scrip": "543517",
- "mcap_cr": 1068.84,
+ "mcap_cr": 1024.09,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 72,
     "profit": 46,
-    "quality": 64
+    "quality": 80
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 17,
     "profit": 32,
-    "quality": 3
+    "quality": 12
    },
    "capped_by": null
   }
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 8,
   "concalls_read": 8,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hariom Pipe Industries Limited is a vertically integrated steel manufacturer producing sponge iron, billets, pipes, tubes, cold rolled products, galvanised products, and scaffolding systems for infrastructure, construction, renewable energy, agriculture, automotive, engineering, and industrial sectors.",
+  "segments": [
+   {
+    "name": "Core & Intermediate Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Value-added Products",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Renewable Energy Capacity",
+    "amount_cr": null,
+    "timeline": "4.00 MW"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. R Kabra & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

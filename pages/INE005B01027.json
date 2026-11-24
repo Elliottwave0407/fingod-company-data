@@ -3,7 +3,7 @@
  "sym": "AVANTEL",
  "name": "Avantel Limited",
  "scrip": "532406",
- "mcap_cr": 4126.17,
+ "mcap_cr": 3945.44,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 64,
     "profit": 25,
-    "quality": 8
+    "quality": 4
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 17.43,
    "pat": 5.39,
    "margin_pct": 24.8,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 90,
     "profit": 96,
-    "quality": 51
+    "quality": 79
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 20.85,
    "pat": 6.81,
    "margin_pct": 28.0,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 90,
     "profit": 100,
-    "quality": 52
+    "quality": 79
    },
    "capped_by": null
   }
@@ -109,7 +109,71 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Avantel Limited designs, develops, and manufactures Software Defined Radios, Wind Profiler Radar systems, SATCOM ground station systems, and other defence electronics, while its subsidiary Imeds Global Private Limited focuses on indigenous medical devices such as CPAP, BiPAP, ventilators, and patient monitoring systems.",
+  "segments": [
+   {
+    "name": "Defence Electronics & SATCOM",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Medical Devices (Imeds Global)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Unit No. 2 facility at E City, Raviryal Mandal, Tukkuguda (4-acre land, 86,271 sq ft built-up)",
+    "amount_cr": null,
+    "timeline": "Operational from October 2025"
+   },
+   {
+    "item": "Unit No. 3 facility at Kondaparva Village near Vijayawada (9-acre land, ~1,13,660 sq ft built-up) for SATCOM Ground Station Systems",
+    "amount_cr": null,
+    "timeline": "Expected operational by Q3 FY 2026-27"
+   },
+   {
+    "item": "Imeds Global facility at AMTZ, Visakhapatnam (2-acre land, ~36,000 sq ft built-up)",
+    "amount_cr": null,
+    "timeline": "Established during FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Order book of approximately \u20b9720 Crores to be executed across FY 2026-27 and FY 2027-28",
+    "metric": "Order book execution",
+    "value": "\u20b9720 Crores",
+    "by_when": "Across FY 2026-27 and FY 2027-28"
+   },
+   {
+    "statement": "Imeds Global division well-positioned to achieve profitability in the coming financial year",
+    "metric": "Profitability",
+    "value": "Positive",
+    "by_when": "FY 2026-27"
+   }
+  ],
+  "order_book_cr": 720,
+  "auditor": {
+   "name": "Grandhy & Co., Chartered Accountants (ICAI Firm Registration No. 001007S)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "High R&D expenditure impacting near-term profitability",
+   "Dependence on defence sector orders and government policy (Atmanirbhar Bharat)",
+   "Execution risk on large order book (\u20b9720 Cr) across two financial years",
+   "Regulatory and certification delays in medical devices subsidiary (Imeds Global)",
+   "Subsidiary Imeds Global currently loss-making due to planned investments in R&D, regulatory approvals, and manufacturing readiness"
+  ],
+  "dividend_per_share": 0.2
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KKCL",
  "name": "Kewal Kiran Clothing Limited",
  "scrip": "532732",
- "mcap_cr": 2536.18,
+ "mcap_cr": 2526.02,
  "group": "B",
  "quarters": [
   {
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 63,
     "profit": 57,
-    "quality": 70
+    "quality": 54
    },
-   "capped_by": "profit growth under 25%"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 18,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kewal Kiran Clothing Limited (KKCL) is an Indian lifestyle apparel company with an integrated fashion business across design, manufacturing, branding, distribution and retail, operating brands such as Killer, Integriti, Lawman, Easies, Junior Killer and Kraus Casuals.",
+  "segments": [
+   {
+    "name": "Men's casualwear (Killer, Lawman, Integriti, Easies, Junior Killer)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Women's denim and casualwear (Kraus Casuals)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Jain & Trivedi, Chartered Accountants and N.A. Shah Associates LLP, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to risks, uncertainties and inaccurate assumptions; actual results could vary materially"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

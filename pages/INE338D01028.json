@@ -3,7 +3,7 @@
  "sym": "BODALCHEM",
  "name": "Bodal Chemicals Limited",
  "scrip": "524370",
- "mcap_cr": 1858.93,
+ "mcap_cr": 1772.03,
  "group": "T",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 68.57,
    "pat": 32.06,
    "margin_pct": 11.7,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 81,
     "profit": 53,
-    "quality": 64
+    "quality": 84
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 92,
     "profit": 32,
-    "quality": 62
+    "quality": 84
    },
    "capped_by": null
   }
@@ -99,7 +99,65 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2025-08-14"
+  "latest_concall": "2025-08-14",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bodal Chemicals Limited manufactures and sells dye intermediates, dyestuffs, basic chemicals, and chlor-alkali products, and has entered the benzene derivatives segment through its greenfield facility at Saykha, Gujarat.",
+  "segments": [
+   {
+    "name": "Dye Intermediates",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Dyestuffs",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Basic Chemicals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Chlor-Alkali",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Benzene Derivatives",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Greenfield manufacturing facility at Saykha, Gujarat (benzene derivatives: MCB, PNCB, ONCB, MNCB, DCB)",
+    "amount_cr": null,
+    "timeline": "commissioned in FY2025-26"
+   },
+   {
+    "item": "Modernisation and Technology Upgradation with bipolar cells at Unit-XII, Rajpura, Punjab",
+    "amount_cr": 150.09,
+    "timeline": "approved Fixed Capital Investment"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note 26 regarding recognition of government subsidy/incentive income (SGST reimbursement) under Punjab Industrial and Business Development Policy, 2017; considered an adjusting event per Ind AS 10."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Volatility in global chemical industry",
+   "Inflationary headwinds",
+   "Shifting trade dynamics",
+   "Regulatory developments",
+   "Dependence on government subsidy/incentive schemes"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

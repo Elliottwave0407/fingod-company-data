@@ -3,7 +3,7 @@
  "sym": "KRIDHANINF",
  "name": "Kridhan Infra Limited",
  "scrip": "533482",
- "mcap_cr": 22.65,
+ "mcap_cr": 21.87,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kridhan Infra Limited is an Indian listed company engaged in infrastructure business.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "U B Lakhani & Company",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to inability to obtain sufficient appropriate audit evidence regarding the successful implementation and feasibility of Management's plans and the consequential appropriateness of the use of the going concern basis of accounting. Emphasis of matter on reversal of provisions aggregating to Rs. 116.11 lakhs in respect of outstanding trade receivables and other receivables disclosed under Exceptional Items."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Going concern uncertainty due to accumulated losses and erosion of net worth",
+   "Litigation and claims pending with various tax and regulatory authorities not acknowledged as debts",
+   "Dependence on successful implementation of management's plans for financial improvement"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

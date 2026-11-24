@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 7,
     "profit": 6,
-    "quality": 19
+    "quality": 0
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 80,
     "profit": 96,
-    "quality": 79
+    "quality": 77
    },
    "capped_by": null
   },
@@ -77,11 +77,11 @@
    "ebitda": 4.5,
    "pat": 2.63,
    "margin_pct": 16.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 12,
     "profit": 13,
-    "quality": 24
+    "quality": 0
    },
    "capped_by": null
   }
@@ -106,7 +106,31 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Par Drugs and Chemicals Limited manufactures pharmaceutical and chemical products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Sarupria Somani & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Assessment of Going Concern Assumption due to Delay in Strategic Business Restructuring (pending SEBI proceedings on proposed slump sale of principal business undertaking)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Regulatory proceedings by SEBI delaying proposed slump sale and strategic restructuring",
+   "Uncertainty over completion of proposed transaction affecting going concern assessment",
+   "Highly competitive demand environment weighing on margins"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "AERONEU",
  "name": "Aeroflex Neu Limited",
  "scrip": "543743",
- "mcap_cr": 231.34,
+ "mcap_cr": 234.77,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -0.02,
    "pat": -0.87,
    "margin_pct": -0.1,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 13,
+    "profit": 26,
+    "quality": 19
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,7 +70,7 @@
    "pillars": {
     "growth": 50,
     "profit": 44,
-    "quality": 0
+    "quality": 3
    },
    "capped_by": null
   },
@@ -105,7 +109,41 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aeroflex Neu Limited (formerly Sah Polymers Limited) is engaged in the manufacture and export of Flexible Intermediate Bulk Containers (FIBCs) and Polypropylene (PP) woven packaging products.",
+  "segments": [
+   {
+    "name": "FIBCs and PP woven packaging products",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. H.R. Jain & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "volatility in polypropylene resin prices",
+   "fluctuations in crude oil prices",
+   "logistics cost pressures",
+   "evolving environmental regulations",
+   "geopolitical conflicts",
+   "trade fragmentation",
+   "supply chain disruptions",
+   "commodity price volatility"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

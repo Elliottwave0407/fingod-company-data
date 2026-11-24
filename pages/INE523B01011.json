@@ -3,7 +3,7 @@
  "sym": "AKSHOPTFBR",
  "name": "Aksh Optifibre Limited",
  "scrip": "532351",
- "mcap_cr": 108.03,
+ "mcap_cr": 107.38,
  "group": "T",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 6.44,
    "pat": 2.24,
    "margin_pct": 15.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 83,
     "profit": 93,
-    "quality": 6
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -66,13 +66,13 @@
    "ebitda": 11.52,
    "pat": 4.71,
    "margin_pct": 23.1,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 98,
-    "quality": 18
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aksh Optifibre Limited is engaged in the manufacturing and trading of optical fibre, optical fibre cables, and related products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s P.C. Bindal & Co.",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to non-recognition of provision for interest (Rs 2,146.35 lakhs) and cenvatable duty (Rs 840.19 lakhs) under Advance Authorization and EPCG schemes. Emphasis of Matter on foreign currency payables/receivables outstanding beyond regulatory timelines, SARFAESI notices from Union Bank of India (Rs 4,973 lakhs) and HDFC Bank (Rs 3,663 lakhs), and misalignment of UBI outstanding balance."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Company admitted into Corporate Insolvency Resolution Process (CIRP) by NCLT Jaipur Bench order dated June 19, 2026",
+   "Non-recognition of provisions for interest and duty liabilities aggregating Rs 2,986.54 lakhs contrary to Ind AS 37",
+   "Foreign currency payables (Rs 26.79 lakhs >6 months, Rs 1,569.68 lakhs >3 years) and receivables (Rs 4,362.95 lakhs >15 months) outstanding beyond regulatory timelines",
+   "SARFAESI proceedings by Union Bank of India (claim Rs 4,973 lakhs) and HDFC Bank (claim Rs 3,663 lakhs)",
+   "Misalignment of Union Bank of India outstanding balance due to inappropriate adjustment of cutback and simple interest provisioning"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

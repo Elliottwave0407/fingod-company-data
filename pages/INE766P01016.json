@@ -3,7 +3,7 @@
  "sym": "MAHLOG",
  "name": "Mahindra Logistics Limited",
  "scrip": "540768",
- "mcap_cr": 3806.3,
+ "mcap_cr": 3671.28,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 112.35,
    "pat": 22.36,
    "margin_pct": 6.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 69,
     "profit": 50,
-    "quality": 0
+    "quality": 60
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 115.42,
    "pat": 27.83,
    "margin_pct": 5.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 79,
     "profit": 47,
-    "quality": 0
+    "quality": 65
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 123.96,
    "pat": 28.87,
    "margin_pct": 5.9,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 77,
     "profit": 45,
-    "quality": 0
+    "quality": 63
    },
    "capped_by": null
   }
@@ -109,7 +109,35 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-27"
+  "latest_concall": "2026-10-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mahindra Logistics Limited delivers integrated supply chain and mobility solutions through a unified, technology-enabled network, offering services such as integrated warehousing, multi-modal transportation, express logistics, freight forwarding, mobility solutions, and last-mile delivery.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Work-in-Progress",
+    "amount_cr": 24.32,
+    "timeline": "As at 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Nangia Andersen LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "No exceptions with respect to RTA's overall processes; strong internal control system and high degree of compliance at RTA's end."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions, risks, and uncertainties; actual results may differ materially."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

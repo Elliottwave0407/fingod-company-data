@@ -3,7 +3,7 @@
  "sym": "CYBERMEDIA",
  "name": "Cyber Media (India) Limited",
  "scrip": "532640",
- "mcap_cr": 33.74,
+ "mcap_cr": 34.6,
  "group": "T",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 74,
     "profit": 86,
-    "quality": 84
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 85,
     "profit": 16,
-    "quality": 95
+    "quality": 58
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 80,
     "profit": 15,
-    "quality": 58
+    "quality": 31
    },
    "capped_by": null
   }
@@ -109,7 +109,59 @@
   "missing": [],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2025-08-25"
+  "latest_concall": "2025-08-25",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Cyber Media (India) Limited is a B2B media company focused on the technology sector, offering print publications, online platforms, social media, video content, subscription services, bespoke events, and business solutions for ICT vendors.",
+  "segments": [
+   {
+    "name": "Print Publications",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Online Platforms",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Social Media Platforms",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Video Content",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Subscription Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Bespoke and Industry Events",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Business Solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not specified in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition complexity due to discounts, incentives, and rebates across diverse marketing products",
+   "Impairment of trade receivables involving significant judgments in ECL model assumptions and forward-looking estimates"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

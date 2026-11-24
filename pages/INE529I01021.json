@@ -3,7 +3,7 @@
  "sym": "KUANTUM",
  "name": "Kuantum Papers Limited",
  "scrip": "532937",
- "mcap_cr": 575.85,
+ "mcap_cr": 560.67,
  "group": "B",
  "quarters": [
   {
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 25,
     "profit": 43,
-    "quality": 0
+    "quality": 9
    },
    "capped_by": null
   }
@@ -109,7 +109,61 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kuantum Papers Limited manufactures high-quality maplitho, copier, creamwove, and specialty papers using a blended furnish of agro and wood pulp at its fully backward-integrated plant in Saila Khurd, Punjab.",
+  "segments": [
+   {
+    "name": "Paper Manufacturing",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Work in Progress (Projects in progress)",
+    "amount_cr": 262.54,
+    "timeline": "As at March 31, 2026"
+   },
+   {
+    "item": "Upgradation & expansion projects (phased commissioning)",
+    "amount_cr": null,
+    "timeline": "Likely to be completed by 30th September 2026 except Offline Coater Plant which may extend upto 31st March 2027"
+   },
+   {
+    "item": "Capitalised borrowing costs",
+    "amount_cr": 21.12,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Upgradation & expansion projects has been commissioned in a phased manner and is likely to be completed in all respect by 30th September 2026 except Offline Coater Plant which may extend upto 31st March 2027.",
+    "metric": "Project Completion",
+    "value": "Phased completion",
+    "by_when": "30th September 2026 (Offline Coater Plant by 31st March 2027)"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S. K. SIKKA & ASSOCIATES (Company Secretaries for Corporate Governance Certificate); Statutory Auditor name not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Corporate Governance compliance certified; no qualification on financial statements mentioned in excerpts"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Surge in low-priced imports leading to oversupplied market and weakened domestic realizations",
+   "Rising input costs especially for domestic wood and agro residue due to constrained supply chains and floods in Punjab",
+   "Global economic shock from 2026 US-Israel war on Iran triggering surge in oil prices, chemicals and other inputs",
+   "Geopolitical tensions and trade fragmentation",
+   "Health and safety risks across value chain partners"
+  ],
+  "dividend_per_share": 2.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

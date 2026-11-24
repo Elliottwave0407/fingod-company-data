@@ -3,7 +3,7 @@
  "sym": "SUVIDHAA",
  "name": "Suvidhaa Infoserve Limited",
  "scrip": "543281",
- "mcap_cr": 55.39,
+ "mcap_cr": 56.25,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Suvidhaa Infoserve Limited operates a proprietary S-Commerce\u00ae platform connecting banks and service providers with a retail franchisee network to deliver digital financial services and assisted commerce to underserved households, and through a wholly-owned subsidiary runs an enterprise loyalty, rewards and engagement platform for brands across FMCG, building materials, electricals, pharmaceuticals, automotive and financial services.",
+  "segments": [
+   {
+    "name": "S-Commerce\u00ae platform (assisted commerce & digital financial services)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Loyalty, rewards & engagement platform (via wholly-owned subsidiary)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Commoditisation of transaction-led revenue",
+   "Competitive intensity and pricing pressure",
+   "Cyber security and fraud risk inherent in digital commerce",
+   "Extended procurement and settlement cycles of large enterprise mandates",
+   "Information technology and network performance, security and resilience risks",
+   "Deviation from anticipated pace of internet penetration in India constraining merchant acquisition",
+   "Rapid technology innovation affecting relevance and pricing of offerings"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

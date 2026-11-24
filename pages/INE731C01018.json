@@ -3,7 +3,7 @@
  "sym": "KHAITANLTD",
  "name": "Khaitan (India) Limited",
  "scrip": "590068",
- "mcap_cr": 70.75,
+ "mcap_cr": 70.04,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 93,
     "profit": 63,
-    "quality": 56
+    "quality": 6
    },
-   "capped_by": "profit down YoY"
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 81,
     "profit": 34,
-    "quality": 99
+    "quality": 72
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Khaitan (India) Limited is a listed company based in Kolkata, India, with a Board comprising a promoter executive director and independent directors, but the specific business activity is not stated in the provided excerpts.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "K. C. Bhattacharjee & Paul, Chartered Accountants",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "The Companies audit report contains qualification, which has been duly explained at the appropriate place."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

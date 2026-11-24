@@ -3,7 +3,7 @@
  "sym": "KPEL",
  "name": "K.P. Energy Limited",
  "scrip": "539686",
- "mcap_cr": 1162.74,
+ "mcap_cr": 1143.41,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 99,
     "profit": 79,
-    "quality": 75
+    "quality": 77
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 83,
     "profit": 9,
-    "quality": 26
+    "quality": 15
    },
    "capped_by": null
   }
@@ -99,7 +99,55 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "KP Energy Limited is an Indian renewable energy company engaged in wind and solar power generation, EPCC (Engineering, Procurement, Construction and Commissioning) project development, and power transmission infrastructure.",
+  "segments": [
+   {
+    "name": "Wind Energy",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Solar Energy",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "EPCC / Project Development",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Power Transmission",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Guided by an ambitious vision of achieving 10 GW+ of renewable energy capacity by 2030",
+    "metric": "Renewable energy capacity",
+    "value": "10 GW+",
+    "by_when": "2030"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 12,
+  "key_risks": [
+   "Revenue recognition accuracy in fixed-price EPCC development contracts due to customized and complex nature",
+   "Unbilled revenue from sale of power subject to variation pending confirmation from regulatory authority and customers",
+   "Right of Way expenses incurred during EPC contract development involving land ownership verification and authorization trails"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

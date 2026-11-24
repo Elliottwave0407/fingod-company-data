@@ -3,7 +3,7 @@
  "sym": "AGI",
  "name": "AGI Greenpac Limited",
  "scrip": "500187",
- "mcap_cr": 4266.47,
+ "mcap_cr": 4208.56,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 29,
     "profit": 35,
-    "quality": 67
+    "quality": 61
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 57,
     "profit": 66,
-    "quality": 45
+    "quality": 41
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 31,
     "profit": 17,
-    "quality": 21
+    "quality": 11
    },
    "capped_by": null
   }
@@ -109,7 +109,74 @@
   "missing": [],
   "concalls_found": 8,
   "concalls_read": 8,
-  "latest_concall": "2026-02-04"
+  "latest_concall": "2026-02-04",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "AGI Greenpac Limited manufactures container glass, specialty glass, and aluminium beverage cans for the packaging industry.",
+  "segments": [
+   {
+    "name": "Container Glass",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Specialty Glass",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Aluminium Beverage Cans",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Greenfield container glass facility at Gwalior, Madhya Pradesh",
+    "amount_cr": null,
+    "timeline": "Commissioning in March 2027"
+   },
+   {
+    "item": "Container glass capacity increase",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Specialty glass capacity increase",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Gwalior facility will add 500 tonnes per day of container glass production",
+    "metric": "Container glass capacity addition",
+    "value": "500 TPD",
+    "by_when": "March 2027"
+   },
+   {
+    "statement": "Gwalior facility will increase overall capacity by ~25%",
+    "metric": "Overall capacity increase",
+    "value": "~25%",
+    "by_when": "March 2027"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Volatility in fuel and raw material prices",
+   "Geopolitical uncertainty",
+   "Disruptions to global trade and energy supplies",
+   "Evolving consumer preferences and tighter regulation"
+  ],
+  "dividend_per_share": 7
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

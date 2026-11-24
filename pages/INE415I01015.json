@@ -3,7 +3,7 @@
  "sym": "KIRIINDUS",
  "name": "Kiri Industries Limited",
  "scrip": "532967",
- "mcap_cr": 3169.77,
+ "mcap_cr": 3127.09,
  "group": "A",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -115.52,
    "pat": 514.36,
    "margin_pct": -46.1,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 63,
+    "profit": -37,
+    "quality": 100
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -95,7 +99,38 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kiri Industries Limited is engaged in the manufacturing and sale of chemical products, with DyStar Global Holdings (Singapore) Pte. Ltd. as an associate entity.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 14.2047,
+    "timeline": "FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Singapore Judgement award taxability and write-off of receivables; opinion not modified in respect of these matters."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical tensions and trade policy uncertainty",
+   "Energy price volatility due to Middle East conflict",
+   "Taxability of Singapore court award",
+   "Write-off of receivables based on internal review"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

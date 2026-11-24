@@ -3,7 +3,7 @@
  "sym": "COFFEEDAY",
  "name": "Coffee Day Enterprises Limited",
  "scrip": "539436",
- "mcap_cr": 605.87,
+ "mcap_cr": 597.63,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 66,
     "profit": 100,
-    "quality": 65
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -99,7 +99,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Coffee Day Enterprises Limited operates in the coffee business through its subsidiary Coffee Day Global Limited (running Caf\u00e9 Coffee Day outlets) and in the resort/hospitality business.",
+  "segments": [
+   {
+    "name": "Coffee Business",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Resort Business",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure contracted but not recognised as liabilities",
+    "amount_cr": 0,
+    "timeline": "As at 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Venkatesh & Co",
+   "opinion": "disclaimer",
+   "emphasis_or_qualification": "Disclaimer of opinion on consolidated financial statements due to unrecoverable dues from MACEL amounting to \u20b93,357.13 crores, non-compliance with debt covenants, lack of balance confirmations from lenders (\u20b976.98 crores), material uncertainty over going concern for multiple subsidiaries, and doubts on recoverability of capital advance of \u20b9275 crores in a subsidiary."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Recoverability of dues from MACEL (\u20b93,357.13 crores)",
+   "Non-compliance with debt covenants and loan repayment defaults",
+   "Material uncertainty over going concern for multiple subsidiaries",
+   "SEBI penalty of \u20b926 crores under appeal",
+   "Recoverability of capital advance of \u20b9275 crores for land acquisition",
+   "Climate variability and irregular rainfall affecting coffee production",
+   "Rising input costs and labour availability in coffee business"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

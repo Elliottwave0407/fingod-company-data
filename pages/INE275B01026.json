@@ -3,7 +3,7 @@
  "sym": "HUHTAMAKI",
  "name": "Huhtamaki India Limited",
  "scrip": "509820",
- "mcap_cr": 1610.13,
+ "mcap_cr": 1624.85,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 39.96,
    "pat": 25.6,
    "margin_pct": 6.5,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 27,
     "profit": 38,
-    "quality": 32
+    "quality": 25
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 82,
     "profit": 69,
-    "quality": 73
+    "quality": 81
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 41,
     "profit": 12,
-    "quality": 29
+    "quality": 11
    },
    "capped_by": null
   }
@@ -109,7 +109,38 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-02"
+  "latest_concall": "2026-11-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Huhtamaki India Limited creates packaging solutions that combine functionality, aesthetics and protection to make products meaningful and appealing for end consumers, delivering innovative solutions that drive engagement, strengthen partner brands and advance sustainability.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "R&D investments for environmental and social impacts",
+    "amount_cr": 3.93,
+    "timeline": "FY 2025"
+   },
+   {
+    "item": "Capex investments for environmental and social impacts",
+    "amount_cr": 11.24,
+    "timeline": "FY 2025"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

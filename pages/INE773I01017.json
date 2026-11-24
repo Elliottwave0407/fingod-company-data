@@ -3,7 +3,7 @@
  "sym": "ALKALI",
  "name": "Alkali Metals Limited",
  "scrip": "533029",
- "mcap_cr": 76.95,
+ "mcap_cr": 80.75,
  "group": "T",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 76,
     "profit": 97,
-    "quality": 39
+    "quality": 9
    },
-   "capped_by": "profit down YoY"
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -66,9 +66,13 @@
    "ebitda": -0.34,
    "pat": -0.64,
    "margin_pct": -1.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 6,
+    "profit": -2,
+    "quality": 64
+   },
+   "capped_by": null
   },
   {
    "q": "Sep-26",
@@ -76,11 +80,11 @@
    "ebitda": 1.29,
    "pat": 0.58,
    "margin_pct": 4.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 94,
     "profit": 72,
-    "quality": 20
+    "quality": 80
    },
    "capped_by": null
   }
@@ -105,7 +109,29 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Alkali Metals Limited is an ISO 9001 & 14001 certified API company and Export House engaged in the sale of chemical products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition cut-off risk around balance sheet date due to management judgement on transfer of control of goods"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

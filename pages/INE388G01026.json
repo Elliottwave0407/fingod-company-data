@@ -3,7 +3,7 @@
  "sym": "TICL",
  "name": "Twamev Construction and Infrastructure Limited",
  "scrip": "532738",
- "mcap_cr": 109.43,
+ "mcap_cr": 107.88,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 87,
-    "quality": 47
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 32,
     "profit": 49,
-    "quality": 21
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,39 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2025-06-06"
+  "latest_concall": "2025-06-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Twamev Construction and Infrastructure Limited operates as an Engineering, Procurement and Construction (EPC) company providing end-to-end project execution solutions across infrastructure, industrial, institutional and other construction segments.",
+  "segments": [
+   {
+    "name": "EPC (Engineering, Procurement and Construction)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "J Jain and Company",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter: (a) Company in process of making full and final settlement of resolution plan amount of Rs 2100 Lakh subject to account upgradation from NPA per NCLT Kolkata Order dated 14 July 2024. (b) Company initiated reconciliation process with Trade Receivables, Advances to Vendors and Creditors; made provision of Rs Nil (PY Rs 664 Lakh) for estimated credit loss based on management assessment. (c) Exceptional Item of INR -72 Lakh (Previous Year 4433 Lakh) includes provision for Sundry Debtors written back."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Volatility in commodity prices",
+   "Supply chain challenges",
+   "Increasing competition within the infrastructure sector",
+   "Material uncertainty exists as on date of audit report regarding ability to meet liabilities",
+   "Delays in implementation of Approved Resolution Plan and transfer of promoter shares",
+   "Reconciliation of Trade Receivables, Advances to Vendors and Creditors"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

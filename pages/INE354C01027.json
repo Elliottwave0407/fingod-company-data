@@ -3,7 +3,7 @@
  "sym": "BHAGERIA",
  "name": "Bhageria Industries Limited",
  "scrip": "530803",
- "mcap_cr": 1494.81,
+ "mcap_cr": 1432.84,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 61,
     "profit": 9,
-    "quality": 8
+    "quality": 2
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 77,
-    "quality": 92
+    "quality": 100
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 95,
-    "quality": 80
+    "quality": 100
    },
    "capped_by": null
   }
@@ -109,7 +109,76 @@
   "missing": [],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2025-10-30"
+  "latest_concall": "2025-10-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bhageria Industries Limited operates in specialty chemicals (dyes and dye intermediates), solar power generation, pharmaceuticals, and trading/EPC services in the solar sector.",
+  "segments": [
+   {
+    "name": "Chemicals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Solar Power",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Pharma",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Others",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "H-Acid capacity expansion from 400 to 500 MT/month at Tarapur",
+    "amount_cr": null,
+    "timeline": "Plant Under Development"
+   },
+   {
+    "item": "7 MW Solar Power Plant at Pimpalgaon Wagha, Ahilyanagar",
+    "amount_cr": null,
+    "timeline": "Commissioned February 2026"
+   },
+   {
+    "item": "7 MW Solar Power Plant at Bhatkudgaon, Maharashtra",
+    "amount_cr": null,
+    "timeline": "Commissioned March 2026"
+   },
+   {
+    "item": "7 MW solar PV plant at Khanapur, Maharashtra",
+    "amount_cr": null,
+    "timeline": "Online May 2026"
+   },
+   {
+    "item": "Capital expenditure contracted but not recognised (net of advances)",
+    "amount_cr": 2.8245,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Global energy price volatility affecting raw material costs",
+   "Shipping disruptions and fluctuating freight/logistics costs",
+   "Rising domestic logistics costs",
+   "Economic uncertainty and higher borrowing costs impacting investment",
+   "Gap between climate pledges and implementation"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

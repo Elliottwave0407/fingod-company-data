@@ -3,7 +3,7 @@
  "sym": "GUJAPOLLO",
  "name": "Gujarat Apollo Industries Limited",
  "scrip": "522217",
- "mcap_cr": 435.08,
+ "mcap_cr": 421.2,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -2.16,
    "pat": 1.83,
    "margin_pct": -16.8,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 5,
+    "profit": 67,
+    "quality": 80
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -66,7 +70,7 @@
    "pillars": {
     "growth": 17,
     "profit": -28,
-    "quality": 0
+    "quality": 4
    },
    "capped_by": null
   }
@@ -95,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gujarat Apollo Industries Limited is an Indian listed company with registered office in Mehsana, Gujarat and corporate office in Ahmedabad, Gujarat.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 2
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

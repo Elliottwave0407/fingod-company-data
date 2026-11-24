@@ -3,7 +3,7 @@
  "sym": "CHEMFAB",
  "name": "Chemfab Alkalis Limited",
  "scrip": "541269",
- "mcap_cr": 467.36,
+ "mcap_cr": 456.58,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 8.52,
    "pat": 0.48,
    "margin_pct": 11.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 55,
     "profit": 89,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 10.13,
    "pat": 5.73,
    "margin_pct": 13.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 12,
     "profit": 58,
-    "quality": 58
+    "quality": 80
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 48,
     "profit": 61,
-    "quality": 0
+    "quality": 38
    },
    "capped_by": "net loss"
   }
@@ -109,7 +109,54 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Chemfab Alkalis Limited manufactures chlor alkali products (caustic soda, hydrochloric acid, liquid chlorine) and oriented polyvinyl chloride (OPVC) pipes for water distribution networks.",
+  "segments": [
+   {
+    "name": "Chlor Alkali",
+    "share_of_revenue_pct": 68
+   },
+   {
+    "name": "OPVC Pipes",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Chlor alkali installed capacity",
+    "amount_cr": null,
+    "timeline": "65,700 TPA"
+   },
+   {
+    "item": "Capital expenditure - Current Year",
+    "amount_cr": 97.805,
+    "timeline": "FY26"
+   },
+   {
+    "item": "Capital expenditure - Previous Year",
+    "amount_cr": 105.9988,
+    "timeline": "FY25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements may not prove to be precise due to various factors leading to disparities between assumptions and actual results"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

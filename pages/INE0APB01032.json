@@ -3,7 +3,7 @@
  "sym": "MGEL",
  "name": "Mangalam Global Enterprise Limited",
  "scrip": "544273",
- "mcap_cr": 589.25,
+ "mcap_cr": 592.87,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 41,
-    "quality": 68
+    "quality": 71
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 68,
     "profit": 39,
-    "quality": 49
+    "quality": 58
    },
    "capped_by": null
   },
@@ -109,7 +109,41 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mangalam Global Enterprise Limited is engaged in manufacturing, trading, and import of edible oils, non-edible oils, and agricultural products such as soya, mustard, castor, cotton, wheat, and rice, and has recently launched a B2C wellness brand 'Neat Everyday' offering nutraceuticals and personal care products.",
+  "segments": [
+   {
+    "name": "Edible Oil/Non-edible Oil and Agricultural Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Wellness and Nutraceuticals (Neat Everyday)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition timing risk",
+   "Market risk (interest rate, currency, price)",
+   "Credit risk",
+   "Liquidity risk"
+  ],
+  "dividend_per_share": 0.01
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

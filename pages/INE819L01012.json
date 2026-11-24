@@ -49,9 +49,13 @@
    "ebitda": -196.77,
    "pat": -204.05,
    "margin_pct": -227.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 16,
+    "profit": -182,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -63,7 +67,7 @@
    "pillars": {
     "growth": 55,
     "profit": 100,
-    "quality": 98
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   }
@@ -92,7 +96,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Elgi Rubber Company Limited manufactures rubber products including reclaim rubber and operates in the rubber industry.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 441,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Economic conditions affecting demand/supply and price conditions in domestic and overseas markets",
+   "Changes in Government regulations, policies, fiscal laws and other statutes",
+   "Impairment of investment, loans and receivables relating to step-down foreign subsidiary Rubber Resources B.V., Netherlands under liquidation",
+   "Uncertain tax positions involving significant judgment",
+   "Foreign exchange rate risk",
+   "Interest rate risk",
+   "Credit risk from trade receivables and financial instruments",
+   "Liquidity risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

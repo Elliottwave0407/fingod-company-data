@@ -3,7 +3,7 @@
  "sym": "ARVSMART",
  "name": "Arvind SmartSpaces Limited",
  "scrip": "539301",
- "mcap_cr": 2897.36,
+ "mcap_cr": 2875.78,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 61,
     "profit": 100,
-    "quality": 87
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 77
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

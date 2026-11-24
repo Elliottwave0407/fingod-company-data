@@ -3,7 +3,7 @@
  "sym": "KHANDSE",
  "name": "Khandwala Securities Limited",
  "scrip": "531892",
- "mcap_cr": 23.41,
+ "mcap_cr": 24.54,
  "group": "B",
  "quarters": [
   {
@@ -97,7 +97,40 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Khandwala Securities Limited operates in equity broking, wealth and portfolio management, and corporate advisory and merchant banking.",
+  "segments": [
+   {
+    "name": "Equity Broking",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Wealth and Portfolio Management",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Corporate Advisory and Merchant Banking",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion; Board furnished details in Note Nos. 28 and 29 of Standalone Financial Statements and Note Nos. 30 and 31 of Consolidated Financial Statements."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

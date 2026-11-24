@@ -3,7 +3,7 @@
  "sym": "ADSL",
  "name": "Allied Digital Services Limited",
  "scrip": "532875",
- "mcap_cr": 583.22,
+ "mcap_cr": 575.29,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -10.12,
    "pat": -3.4,
    "margin_pct": -3.8,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 75,
+    "profit": 37,
+    "quality": 70
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -62,11 +66,11 @@
    "ebitda": 22.74,
    "pat": 12.39,
    "margin_pct": 8.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 60,
     "profit": 40,
-    "quality": 27
+    "quality": 14
    },
    "capped_by": null
   }
@@ -95,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Allied Digital Services Limited is a global leader in digital transformation, cybersecurity, and digital engineering services.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Singhi & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

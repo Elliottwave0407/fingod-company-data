@@ -3,7 +3,7 @@
  "sym": "HITECH",
  "name": "Hi-Tech Pipes Limited",
  "scrip": "543411",
- "mcap_cr": 1530.82,
+ "mcap_cr": 1742.26,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 88,
     "profit": 17,
-    "quality": 19
+    "quality": 24
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 49.38,
    "pat": 20.04,
    "margin_pct": 3.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 80,
     "profit": 17,
-    "quality": 20
+    "quality": 23
    },
    "capped_by": null
   }
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-16"
+  "latest_concall": "2026-11-16",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hi-Tech Pipes Limited manufactures steel tubes and pipes for infrastructure sectors including construction, water transportation, energy, urban development, and industrial expansion.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Hindupur greenfield manufacturing facility (coated steel products)",
+    "amount_cr": 100,
+    "timeline": "Foundation stone laid; capacity 1,50,000 MTPA"
+   },
+   {
+    "item": "Capital expenditure for expansion of existing and new manufacturing units (from placement document)",
+    "amount_cr": 140,
+    "timeline": "Remaining Rs.44 crore to be utilised up to March 31, 2027"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "A.N. Garg & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 5,
+  "key_risks": [
+   "Inventory maintained at multiple branch locations with complexity and risk factors",
+   "Capex involves complex accounting issues, subjective estimates and significant management judgment",
+   "Confirmation/reconciliation of balances of trade receivables/trade payables (including MSME and capital creditors) pending"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

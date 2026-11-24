@@ -3,7 +3,7 @@
  "sym": "SURYAROSNI",
  "name": "Surya Roshni Limited",
  "scrip": "500336",
- "mcap_cr": 4628.03,
+ "mcap_cr": 4703.11,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 16,
     "profit": 13,
-    "quality": 30
+    "quality": 12
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 85,
     "profit": 48,
-    "quality": 69
+    "quality": 75
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-13"
+  "latest_concall": "2026-11-13",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

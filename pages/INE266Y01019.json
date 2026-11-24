@@ -3,7 +3,7 @@
  "sym": "DPABHUSHAN",
  "name": "D. P. Abhushan Limited",
  "scrip": "544161",
- "mcap_cr": 4193.83,
+ "mcap_cr": 4120.44,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 29,
-    "quality": 86
+    "quality": 72
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 99,
     "profit": 49,
-    "quality": 83
+    "quality": 75
    },
    "capped_by": null
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "D. P. Abhushan Limited is engaged in the business of manufacturing, sale and trading of Gold Jewellery, Diamond Jewellery, Platinum Jewellery, Silver Jewellery and other precious Metals.",
+  "segments": [
+   {
+    "name": "Jewellery",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "New showrooms in Ratlam and Dhar",
+    "amount_cr": null,
+    "timeline": "FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter identified: Inventory Valuation (existence and valuation of high-value gold, silver, platinum inventories)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inventory valuation risk due to high-value items",
+   "Legislative risk (changes to Payment of Gratuity Act)",
+   "Market risk (discount rate fluctuations affecting defined benefit obligations)",
+   "Employee turnover risk (strain on cash flows if key employees resign/retire)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

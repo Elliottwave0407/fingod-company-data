@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 9,
     "profit": 14,
-    "quality": 0
+    "quality": 11
    },
    "capped_by": null
   }
@@ -96,7 +96,42 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ahlada Engineers Limited manufactures steel doors, steel windows (steel-frame), dual desks, green chalk boards, and purified drinking water systems.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Business prospects remain positive because of the growing global demand for steel doors, steel windows, green chalk boards, dual desks and purified drinking water systems etc. Your Company is expected to register decent growth from FY-2026-2027 onwards.",
+    "metric": "growth",
+    "value": "decent growth",
+    "by_when": "FY-2026-2027 onwards"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Kishore & Venkat Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on outstanding supplier advances amounting to \u20b9 6,301.92 Lakhs as of March 31, 2026, including \u20b9 5,995.33 Lakhs to three specific parties; management considers these balances fully secure and recoverable, no provisioning deemed necessary."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Government Policies",
+   "Raw Material Price Volatility",
+   "War in Gulf",
+   "War between Ukraine and Russia",
+   "Supply Chain Disruptions",
+   "Entry of new players",
+   "Variation in margins"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

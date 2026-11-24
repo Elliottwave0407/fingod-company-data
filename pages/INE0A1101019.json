@@ -3,7 +3,7 @@
  "sym": "DCI",
  "name": "Dc Infotech And Communication Limited",
  "scrip": "543636",
- "mcap_cr": 628.94,
+ "mcap_cr": 608.19,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 54,
     "profit": 39,
-    "quality": 46
+    "quality": 42
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 4,
   "concalls_read": 3,
-  "latest_concall": "2026-06-08"
+  "latest_concall": "2026-06-08",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "DC Infotech & Communication Limited specializes in providing innovative networking, unified communication, and data security products and solutions utilizing the latest technology.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company aims to double the share of services revenue in the medium term.",
+    "metric": "services revenue share",
+    "value": "double",
+    "by_when": "medium term"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s D G M S & CO. Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Technology Obsolescence and Rapid Innovation",
+   "Vendor Concentration Risk",
+   "Credit Risk and Receivables Management",
+   "Competitive Intensity",
+   "Regulatory and Compliance Risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

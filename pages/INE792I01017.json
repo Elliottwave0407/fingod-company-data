@@ -3,7 +3,7 @@
  "sym": "CORDSCABLE",
  "name": "Cords Cable Industries Limited",
  "scrip": "532941",
- "mcap_cr": 362.95,
+ "mcap_cr": 360.69,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 45,
     "profit": 34,
-    "quality": 68
+    "quality": 77
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 15.08,
    "pat": 7.8,
    "margin_pct": 6.1,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 42,
     "profit": 38,
-    "quality": 68
+    "quality": 79
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Cords Cable Industries Limited manufactures cables and wires.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Gupta Gulshan & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

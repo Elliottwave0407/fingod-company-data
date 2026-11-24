@@ -3,7 +3,7 @@
  "sym": "BFINVEST",
  "name": "BF Investment Limited",
  "scrip": "533303",
- "mcap_cr": 1681.29,
+ "mcap_cr": 1591.83,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "BF Investment Limited is a Non-Deposit taking Core Investment Company that makes strategic long-term investments primarily in Kalyani Group companies, with its main source of income being dividends from these investments.",
+  "segments": [
+   {
+    "name": "Investments",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "P. G. BHAGWAT LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 2,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Business prospects depend on underlying investee companies",
+   "Valuation of investments (83.89% of total assets) subject to impairment indicators and fair value measurement",
+   "Concentration risk in Kalyani Group companies"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

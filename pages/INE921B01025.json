@@ -3,7 +3,7 @@
  "sym": "DBSTOCKBRO",
  "name": "DB (International) Stock Brokers Limited",
  "scrip": "530393",
- "mcap_cr": 114.59,
+ "mcap_cr": 112.18,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 52,
     "profit": 13,
-    "quality": 26
+    "quality": 6
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 1.17,
    "pat": 0.46,
    "margin_pct": 12.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 30,
     "profit": 10,
-    "quality": 8
+    "quality": 0
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "DB (International) Stock Brokers Limited is a financial services organization specialized in stock broking and investment solutions, offering equity & derivatives trading, mutual fund investments, and IPO assistance to resident investors, NRIs, and institutional participants.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "A T K & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

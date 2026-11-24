@@ -3,7 +3,7 @@
  "sym": "JGCHEM",
  "name": "J.G.Chemicals Limited",
  "scrip": "544138",
- "mcap_cr": 2111.74,
+ "mcap_cr": 1986.54,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 56,
     "profit": 25,
-    "quality": 77
+    "quality": 46
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 94,
     "profit": 56,
-    "quality": 90
+    "quality": 75
    },
    "capped_by": null
   }
@@ -99,7 +99,61 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "J.G. Chemicals Limited manufactures zinc oxide and zinc sulphate through recycling chemistry, primarily serving the rubber and tyre industry which accounts for 85% of revenue.",
+  "segments": [
+   {
+    "name": "Rubber and Tyres",
+    "share_of_revenue_pct": 85
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Dahej greenfield plant (Phase 1)",
+    "amount_cr": 100,
+    "timeline": "Q3 FY27 commissioning"
+   },
+   {
+    "item": "Naidupeta brownfield debottlenecking",
+    "amount_cr": null,
+    "timeline": "By 2029"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Together, the two fronts expand the Company's installed capacity by more than half by 2029.",
+    "metric": "Installed capacity expansion",
+    "value": "more than half",
+    "by_when": "2029"
+   },
+   {
+    "statement": "At full utilisation, the site has revenue potential of \u20b99,000 mn, close to nine times the capital required to build it.",
+    "metric": "Revenue potential at full utilisation (Dahej)",
+    "value": "\u20b99,000 mn",
+    "by_when": null
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Business concentration risk with 85% revenue from rubber and tyre sector",
+   "Geographic concentration risk with negligible supply to western India demand clusters",
+   "Execution risk on Dahej greenfield plant commissioning in Q3 FY27",
+   "Dependence on internal accruals for funding expansion with zero debt raised"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

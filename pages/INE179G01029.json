@@ -3,7 +3,7 @@
  "sym": "DAVANGERE",
  "name": "Davangere Sugar Company Limited",
  "scrip": "543267",
- "mcap_cr": 332.4,
+ "mcap_cr": 334.09,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 52,
     "profit": 8,
-    "quality": 10
+    "quality": 21
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 55,
     "profit": 20,
-    "quality": 1
+    "quality": 3
    },
    "capped_by": null
   }
@@ -99,7 +99,70 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Davangere Sugar Company Limited is an integrated sugar manufacturing company engaged in the production of sugar, ethanol, and co-generation of power in Karnataka.",
+  "segments": [
+   {
+    "name": "Sugar",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Distillery (Ethanol)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Co-generation",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Aviation",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Others",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Sugar crushing capacity",
+    "amount_cr": null,
+    "timeline": "4750 TCD"
+   },
+   {
+    "item": "Ethanol plant capacity",
+    "amount_cr": null,
+    "timeline": "65 KLPD, commissioned Q1 FY23"
+   },
+   {
+    "item": "Co-generation power plant",
+    "amount_cr": null,
+    "timeline": "24.45 MW, commissioned 2004"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "DGMS & Co, Chartered Accountants, Mumbai",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 5255,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Cyclical nature of sugar industry",
+   "Dependence on government policies for sugarcane pricing, export regulations, ethanol procurement prices",
+   "Climatic and water availability risks affecting sugarcane cultivation",
+   "Moderating domestic sugar demand growth (1.5%-2.0% CAGR)",
+   "Challenges in adoption of modern irrigation and emerging technologies like AI/precision agriculture"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

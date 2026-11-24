@@ -3,7 +3,7 @@
  "sym": "VHL",
  "name": "Vardhman Holdings Limited",
  "scrip": "500439",
- "mcap_cr": 1137.14,
+ "mcap_cr": 1137.78,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,34 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vardhman Holdings Limited is an NBFC registered with RBI primarily engaged in investment activities across debt, equity, and real estate asset classes.",
+  "segments": [
+   {
+    "name": "Investment Activities",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 0,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Financial risks and capital market fluctuations"
+  ],
+  "dividend_per_share": 5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

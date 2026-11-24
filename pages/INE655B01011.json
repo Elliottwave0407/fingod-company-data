@@ -3,7 +3,7 @@
  "sym": "BANARBEADS",
  "name": "Banaras Beads Limited",
  "scrip": "526849",
- "mcap_cr": 69.88,
+ "mcap_cr": 67.03,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 59,
     "profit": 100,
-    "quality": 6
+    "quality": 17
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 89,
     "profit": 46,
-    "quality": 47
+    "quality": 36
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 89,
-    "quality": 71
+    "quality": 100
    },
    "capped_by": "margin down over 1 pt QoQ"
   }
@@ -109,7 +109,42 @@
   "missing": [],
   "concalls_found": 3,
   "concalls_read": 1,
-  "latest_concall": "2024-11-05"
+  "latest_concall": "2024-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Manufacturing and export of handicraft items like glass beads, necklaces, and imitation jewellery.",
+  "segments": [
+   {
+    "name": "Manufacturing of Glass Beads",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Manufacturing of other articles of gold silver and other precious and semiprecious metal and stone",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Manufacture of imitation Jewellery, Handicrafts and other related items",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "G D Dubey & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Execution Petition No. 424/2018 before NCLT regarding property at Expo Mart, Greater NOIDA filed by ex-director Mr. Raj Kumar Gupta"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

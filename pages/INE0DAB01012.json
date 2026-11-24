@@ -3,7 +3,7 @@
  "sym": "RVTH",
  "name": "Revathi Equipment India Limited",
  "scrip": "544246",
- "mcap_cr": 203.95,
+ "mcap_cr": 208.86,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 51,
     "profit": 100,
-    "quality": 86
+    "quality": 97
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 90,
     "profit": 90,
-    "quality": 56
+    "quality": 76
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   }
  ],
  "completeness": {
@@ -99,7 +99,35 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Revathi Equipment India Limited manufactures blast hole drills, exploratory drills, and water well drills for construction and mining applications, and provides spares and after-sales services.",
+  "segments": [
+   {
+    "name": "Manufacture of drill equipment",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Volatile geopolitical environment causing customers to defer capital expenditure and order intake",
+   "Lower volume reducing absorption of fixed manufacturing and operating overheads"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

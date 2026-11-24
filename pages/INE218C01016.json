@@ -3,7 +3,7 @@
  "sym": "AUSOMENT",
  "name": "Ausom Enterprise Limited",
  "scrip": "509009",
- "mcap_cr": 184.46,
+ "mcap_cr": 182.49,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 10,
     "profit": 30,
-    "quality": 40
+    "quality": 12
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 15,
-    "quality": 78
+    "quality": 44
    },
    "capped_by": null
   }
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ausom Enterprise Limited is engaged in trading activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Commodity price risk",
+   "Foreign exchange risk"
+  ],
+  "dividend_per_share": 1.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

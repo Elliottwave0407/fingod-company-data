@@ -3,7 +3,7 @@
  "sym": "CCCL",
  "name": "Consolidated Construction Consortium Limited",
  "scrip": "532902",
- "mcap_cr": 463.74,
+ "mcap_cr": 449.89,
  "group": "B",
  "quarters": [
   {
@@ -80,9 +80,13 @@
    "ebitda": -12.44,
    "pat": -12.7,
    "margin_pct": -9.8,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 100,
+    "profit": 14,
+    "quality": 0
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -105,7 +109,9 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

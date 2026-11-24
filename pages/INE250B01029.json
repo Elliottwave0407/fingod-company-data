@@ -3,7 +3,7 @@
  "sym": "VINYLINDIA",
  "name": "Vinyl Chemicals (India) Limited",
  "scrip": "524129",
- "mcap_cr": 447.61,
+ "mcap_cr": 440.92,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 2.84,
    "pat": 4.65,
    "margin_pct": 1.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 16,
     "profit": 1,
-    "quality": 40
+    "quality": 7
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 40,
     "profit": 48,
-    "quality": 76
+    "quality": 70
    },
    "capped_by": "revenue down YoY"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 94,
     "profit": 86,
-    "quality": 82
+    "quality": 90
    },
    "capped_by": null
   }
@@ -109,7 +109,42 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The company is engaged in the trading of chemicals, mainly Vinyl Acetate Monomer (VAM).",
+  "segments": [
+   {
+    "name": "Trading in Chemicals (Vinyl Acetate Monomer)",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company expects to perform reasonably well subject to prevailing market conditions and fluctuations in the exchange rate.",
+    "metric": "Performance",
+    "value": "Reasonably well",
+    "by_when": "Future period"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 50.41,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Fluctuations in exchange rate",
+   "Prevailing market conditions"
+  ],
+  "dividend_per_share": 7
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

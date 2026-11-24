@@ -3,7 +3,7 @@
  "sym": "KRONOX",
  "name": "Kronox Lab Sciences Limited",
  "scrip": "544187",
- "mcap_cr": 657.11,
+ "mcap_cr": 668.43,
  "group": "T",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 44,
     "profit": 100,
-    "quality": 79
+    "quality": 84
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 8.99,
    "pat": 7.3,
    "margin_pct": 31.7,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 51,
     "profit": 40,
-    "quality": 69
+    "quality": 46
    },
    "capped_by": null
   }
@@ -99,7 +99,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kronox Lab Sciences Limited manufactures high purity specialty fine chemicals for pharmaceuticals, nutraceuticals, and food grade applications.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Acquisition of Land for Unit \u2013 II",
+    "amount_cr": null,
+    "timeline": "2014"
+   },
+   {
+    "item": "Expansion of Unit \u2013 I for manufacturing of products for Pharma and Nutraceuticals",
+    "amount_cr": null,
+    "timeline": "2011"
+   },
+   {
+    "item": "Acquisition of Land and Factory Shed of Unit \u2013 I & Unit \u2013 III",
+    "amount_cr": null,
+    "timeline": "2022"
+   },
+   {
+    "item": "Acquisition of Land admeasuring to 20,471 sq.mtr. for Proposed Unit - IV",
+    "amount_cr": null,
+    "timeline": "2023"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Devesh Pathak & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical Risks: Middle East Conflicts disrupting key maritime trade routes"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "ACCURACY",
  "name": "Accuracy Shipping Limited",
  "scrip": "544598",
- "mcap_cr": 59.47,
+ "mcap_cr": 58.87,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 47,
     "profit": 74,
-    "quality": 50
+    "quality": 76
    },
    "capped_by": "revenue down YoY"
   },
@@ -66,11 +66,11 @@
    "ebitda": 6.71,
    "pat": 0.34,
    "margin_pct": 4.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 43,
     "profit": 51,
-    "quality": 4
+    "quality": 20
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2024-06-06"
+  "latest_concall": "2024-06-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Accuracy Shipping Limited is a leading integrated logistics provider offering multimodal transport, sea and air freight forwarding, customs clearance, warehousing, and third-party logistics (3PL) services, with diversification into petroleum products and automobile segments.",
+  "segments": [
+   {
+    "name": "Logistics Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Petroleum Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Automobile",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

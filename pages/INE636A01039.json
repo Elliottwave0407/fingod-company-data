@@ -3,7 +3,7 @@
  "sym": "MAWANASUG",
  "name": "Mawana Sugars Limited",
  "scrip": "523371",
- "mcap_cr": 550.77,
+ "mcap_cr": 528.66,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 41,
     "profit": 52,
-    "quality": 43
+    "quality": 26
    },
    "capped_by": null
   },
@@ -66,9 +66,13 @@
    "ebitda": -16.6,
    "pat": -23.09,
    "margin_pct": -4.0,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 31,
+    "profit": -3,
+    "quality": 11
+   },
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -95,7 +99,38 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mawana Sugars Limited is engaged in the manufacturing of sugar and related products in India.",
+  "segments": [
+   {
+    "name": "Sugar",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 32.87,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "RAMCOIND",
  "name": "Ramco Industries Limited",
  "scrip": "532369",
- "mcap_cr": 2680.8,
+ "mcap_cr": 2723.35,
  "group": "B",
  "quarters": [
   {
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 77,
     "profit": 95,
-    "quality": 76
+    "quality": 68
    },
-   "capped_by": "revenue growth under 20%"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -99,7 +99,39 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ramco Industries Limited manufactures and sells fibre cement sheets, boards, and related building products, and also generates power from windmills and solar plants.",
+  "segments": [
+   {
+    "name": "Building Products Division",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "SRSV & Associates and Ramakrishna Raja and Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical tensions and trade fragmentation",
+   "Elevated public debt levels and policy uncertainties",
+   "Global commodity price volatility",
+   "Depreciation of Rupee affecting raw material costs",
+   "Shortage of fuel leading to price increase of substitutes",
+   "Early signs of Middle East war tension affecting dealer stocking behavior"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

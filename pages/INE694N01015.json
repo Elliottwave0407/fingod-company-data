@@ -3,7 +3,7 @@
  "sym": "HERANBA",
  "name": "Heranba Industries Limited",
  "scrip": "543266",
- "mcap_cr": 579.8,
+ "mcap_cr": 570.59,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -23.28,
    "pat": -58.32,
    "margin_pct": -7.3,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 21,
+    "profit": -5,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -66,9 +70,9 @@
    "pillars": {
     "growth": 55,
     "profit": 90,
-    "quality": 22
+    "quality": 45
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   }
  ],
  "completeness": {
@@ -95,7 +99,56 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2025-02-27"
+  "latest_concall": "2025-02-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Heranba Industries Limited is engaged in the manufacturing and sale of agrochemicals, including herbicides, fungicides, and insecticides, with a focus on domestic and export markets.",
+  "segments": [
+   {
+    "name": "Agro chemicals",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Export Obligation",
+    "amount_cr": 13.15,
+    "timeline": "As at March 31, 2026"
+   },
+   {
+    "item": "Capital Commitment towards Investment with Fireside Ventures Investment Fund",
+    "amount_cr": 1.29,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Our priorities for FY27 are specific: grow domestic sales on the strength of the new marketing and wider portfolio, progress export registrations, scale our digital and farmer partnerships, and draw full value from our new ERP platform.",
+    "metric": "Domestic sales growth, export registrations, digital/farmer partnerships, ERP value realization",
+    "value": "",
+    "by_when": "FY27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition timing and contract terms complexity",
+   "Inventory valuation risk due to obsolescence, expiry, and slow-moving stock",
+   "Foreign currency risk from USD-denominated trade receivables, borrowings, and payables",
+   "Dependence on a single customer (subsidiary) contributing ~14.40% of total revenue",
+   "Unabsorbed tax losses in subsidiaries with deferred tax assets not fully recognized on prudent basis"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

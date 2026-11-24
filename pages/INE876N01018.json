@@ -3,7 +3,7 @@
  "sym": "ORIENTCEM",
  "name": "Orient Cement Limited",
  "scrip": "535754",
- "mcap_cr": 2641.19,
+ "mcap_cr": 2615.5,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 20,
     "profit": 86,
-    "quality": 56
+    "quality": 79
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 4,
     "profit": 78,
-    "quality": 20
+    "quality": 0
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 7,
     "profit": 11,
-    "quality": 11
+    "quality": 7
    },
    "capped_by": null
   }
@@ -109,7 +109,30 @@
   "missing": [],
   "concalls_found": 8,
   "concalls_read": 8,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Orient Cement Limited is a cement manufacturing company and part of the Adani portfolio of companies.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter regarding provisions for legal matters due to magnitude, complexity, and management judgement uncertainty"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Legal matters with uncertain outcomes affecting provisions",
+   "Credit risk and market risk exposures"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

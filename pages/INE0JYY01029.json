@@ -3,7 +3,7 @@
  "sym": "MWL",
  "name": "Mangalam Worldwide Limited",
  "scrip": "544764",
- "mcap_cr": 1298.51,
+ "mcap_cr": 1270.3,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 55,
     "profit": 88,
-    "quality": 71
+    "quality": 89
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 75,
     "profit": 72,
-    "quality": 38
+    "quality": 50
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 39.27,
    "pat": 13.83,
    "margin_pct": 10.9,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 74,
     "profit": 82,
-    "quality": 42
+    "quality": 61
    },
    "capped_by": null
   }
@@ -109,7 +109,54 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mangalam Worldwide Limited manufactures stainless steel billets, ingots, flat bars, round bars, bright bars, and seamless pipes and tubes through a fully integrated facility from scrap melting to finished products.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Unit-I Halol (Steel Melting Shop) - SS Billets & Ingots",
+    "amount_cr": null,
+    "timeline": "66,000 MT per annum installed capacity"
+   },
+   {
+    "item": "Unit-II Changodar (Rolling Mill) - SS Flat/Round Bars",
+    "amount_cr": null,
+    "timeline": "90,000 MT per annum installed rolling capacity"
+   },
+   {
+    "item": "Unit-III Kapadvanj (Bright Bars)",
+    "amount_cr": null,
+    "timeline": "18,000 MT per annum installed manufacturing capacity"
+   },
+   {
+    "item": "Unit-IV Kapadvanj (Seamless Pipes & Tubes)",
+    "amount_cr": null,
+    "timeline": "16,800 MT per annum installed manufacturing capacity"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "N.K. Aswani & Co., Chartered Accountants (FRN: 100738W)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Interest rate risk on borrowings",
+   "Currency risk on foreign currency borrowings",
+   "Compliance with NCD covenants and terms",
+   "Working capital management as net capital turnover ratio declined",
+   "Implementation of new labour codes (Code on Wages, Code on Social Security, Industrial Relations Code, Occupational Safety Code)"
+  ],
+  "dividend_per_share": 0.3
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

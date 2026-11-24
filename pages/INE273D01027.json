@@ -3,7 +3,7 @@
  "sym": "VGL",
  "name": "VARVEE GLOBAL LIMITED",
  "scrip": "514274",
- "mcap_cr": 277.38,
+ "mcap_cr": 280.16,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -5.89,
    "pat": -28.59,
    "margin_pct": -25.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 100,
+    "profit": 60,
+    "quality": 0
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -76,7 +80,7 @@
    "pillars": {
     "growth": 0,
     "profit": 12,
-    "quality": 40
+    "quality": 5
    },
    "capped_by": null
   }
@@ -101,7 +105,32 @@
   "missing": [],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2025-12-23"
+  "latest_concall": "2025-12-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Varvee Global Limited (formerly Aarvee Denims And Exports Limited) is a textile company engaged in denim and fabric manufacturing and exports.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on: 1) Note No. 7 regarding MAT, 2) Note No. 28 regarding Going concern, 3) Note No. 16 regarding Asset held for sale. Opinion not modified in respect of these matters."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Going concern uncertainty highlighted in Note No. 28",
+   "Recoverability of deferred tax assets including MAT credit (Rs. 6,180.05 lakhs) dependent on future taxable profits",
+   "Pending tax litigations with Income Tax and GST authorities",
+   "No working capital limits sanctioned in excess of Rs. 5 crores from banks on security of current assets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

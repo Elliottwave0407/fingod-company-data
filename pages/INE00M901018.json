@@ -3,7 +3,7 @@
  "sym": "INTERARCH",
  "name": "Interarch Building Solutions Limited",
  "scrip": "544232",
- "mcap_cr": 2717.38,
+ "mcap_cr": 2665.92,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 39,
     "profit": 40,
-    "quality": 43
+    "quality": 23
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 64,
     "profit": 42,
-    "quality": 47
+    "quality": 24
    },
-   "capped_by": "profit down YoY"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 9,
   "concalls_read": 8,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

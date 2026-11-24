@@ -3,7 +3,7 @@
  "sym": "RHL",
  "name": "Robust Hotels Limited",
  "scrip": "543901",
- "mcap_cr": 278.57,
+ "mcap_cr": 294.48,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 13.81,
    "pat": 7.75,
    "margin_pct": 34.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 33,
     "profit": 71,
-    "quality": 24
+    "quality": 2
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 35,
     "profit": 75,
-    "quality": 55
+    "quality": 77
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Robust Hotels Limited operates in the hospitality sector, managing hotel operations and related services.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 1.3981,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

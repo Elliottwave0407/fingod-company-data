@@ -3,7 +3,7 @@
  "sym": "VINCOFE",
  "name": "Vintage Coffee And Beverages Limited",
  "scrip": "538920",
- "mcap_cr": 2198.79,
+ "mcap_cr": 2171.69,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 30.57,
    "pat": 21.01,
    "margin_pct": 18.5,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 98,
     "profit": 48,
-    "quality": 72
+    "quality": 45
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 99,
     "profit": 66,
-    "quality": 74
+    "quality": 57
    },
    "capped_by": null
   }
@@ -99,7 +99,47 @@
   ],
   "concalls_found": 5,
   "concalls_read": 5,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vintage Coffee and Beverages Limited manufactures and exports specialised instant coffee, agglomerated coffee, chicory, and customised beverage solutions for global private-label partners.",
+  "segments": [
+   {
+    "name": "Sales - Domestic",
+    "share_of_revenue_pct": 68.1
+   },
+   {
+    "name": "Sales - Export",
+    "share_of_revenue_pct": 31.9
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Freeze Dried Coffee capacity expansion",
+    "amount_cr": null,
+    "timeline": "Upcoming"
+   },
+   {
+    "item": "SD & AGG capacity expansion",
+    "amount_cr": null,
+    "timeline": "+ 5,500 MT"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

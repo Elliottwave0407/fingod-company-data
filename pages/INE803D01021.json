@@ -3,7 +3,7 @@
  "sym": "INDOBORAX",
  "name": "Indo Borax & Chemicals Limited",
  "scrip": "524342",
- "mcap_cr": 1155.08,
+ "mcap_cr": 1111.44,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 73,
     "profit": 62,
-    "quality": 93
+    "quality": 79
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 88,
     "profit": 100,
-    "quality": 93
+    "quality": 94
    },
    "capped_by": null
   }
@@ -99,7 +99,29 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2026-09-08"
+  "latest_concall": "2026-09-08",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Indo Borax & Chemicals Ltd manufactures borax and boron-based chemicals.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Inter Corporate Deposit given to a party that has filed for corporate insolvency resolution process under IBC 2016; interest not provided due to uncertainty in realization pending NCLT decision (Note 47)."
+  },
+  "promoter_holding_pct": 30.8,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Uncertainty in realization of Inter Corporate Deposit due to borrower's insolvency proceedings pending at NCLT"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

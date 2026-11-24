@@ -3,7 +3,7 @@
  "sym": "INDTERRAIN",
  "name": "Indian Terrain Fashions Limited",
  "scrip": "533329",
- "mcap_cr": 146.94,
+ "mcap_cr": 144.5,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 79,
     "profit": 88,
-    "quality": 0
+    "quality": 60
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 79,
     "profit": 86,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Indian Terrain Fashions Limited is engaged in the business of fashion apparel.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "BP & Associates",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Non-compliance with Regulation 17(1) & 19(1)/(2) of the SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 regarding Board composition and Nomination and Remuneration Committee composition from 25th February 2026 to 31st March 2026 due to casual vacancy arising from demise of Independent Director Mr. P. S. Raghavan."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 263,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

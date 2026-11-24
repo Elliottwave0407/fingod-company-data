@@ -3,7 +3,7 @@
  "sym": "PACEDIGITK",
  "name": "Pace Digitek Limited",
  "scrip": "544550",
- "mcap_cr": 3563.71,
+ "mcap_cr": 3604.72,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 86.07,
    "pat": 62.51,
    "margin_pct": 15.5,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 65,
     "profit": 12,
-    "quality": 60
+    "quality": 25
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 97,
     "profit": 68,
-    "quality": 69
+    "quality": 59
    },
    "capped_by": null
   }
@@ -95,7 +95,48 @@
   "missing": [],
   "concalls_found": 5,
   "concalls_read": 5,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Pace Digitek Limited provides integrated infrastructure solutions across telecom and energy sectors, including EPC services, manufacturing, BESS systems, and operations & maintenance.",
+  "segments": [
+   {
+    "name": "Engineering, Procurement and Construction (EPC)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Build, Own and Operate (BOO)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Operations and Maintenance (O&M)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Manufacturing",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 2733,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Estimation of EPC contract cost and revenue recognition involves significant management judgement and inherent risk of fraud",
+   "Complexities in forecasting future costs to complete contracts",
+   "Variable consideration recognition as revenue"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

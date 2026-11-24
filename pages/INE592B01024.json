@@ -3,7 +3,7 @@
  "sym": "TTL",
  "name": "T T Limited",
  "scrip": "514142",
- "mcap_cr": 167.39,
+ "mcap_cr": 165.06,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 2.98,
    "pat": 0.69,
    "margin_pct": 5.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 59,
     "profit": 71,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 2.64,
    "pat": 0.66,
    "margin_pct": 5.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 21,
     "profit": 35,
-    "quality": 47
+    "quality": 71
    },
    "capped_by": null
   }
@@ -99,7 +99,35 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "T T Limited is engaged in the textile business with manufacturing facilities at Avinashi (Tamil Nadu) and Howrah (West Bengal).",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure on fixed assets including capital advances",
+    "amount_cr": 12.41,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Doogar & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Significant receivables against claims/subsidy amounting to Rs. 1316.57 Lacs subject to management judgment on recoverability and satisfaction of conditions in notifications/policies"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

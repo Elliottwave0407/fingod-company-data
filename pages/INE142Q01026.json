@@ -3,7 +3,7 @@
  "sym": "SULA",
  "name": "Sula Vineyards Limited",
  "scrip": "543711",
- "mcap_cr": 1178.46,
+ "mcap_cr": 1169.59,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 30,
     "profit": 26,
-    "quality": 1
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 16.6,
    "pat": 1.06,
    "margin_pct": 13.7,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 23,
     "profit": 25,
-    "quality": 0
+    "quality": 12
    },
    "capped_by": null
   }
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sula Vineyards Limited is India's largest wine company, producing and selling over 1 million cases annually across 50+ labels, and operates wine tourism including three luxury resorts and tasting rooms at its Nashik campus.",
+  "segments": [
+   {
+    "name": "Own Brands Wine",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Wine Tourism & Hospitality",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Winery capacity",
+    "amount_cr": null,
+    "timeline": "19.2 Million litres"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Qualification relating to maintenance of accounts and other matters connected therewith as stated in paragraph 17(b) and 17(h)(vi) on reporting under Section 143(3)(b) and Rule 11(g)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

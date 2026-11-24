@@ -3,7 +3,7 @@
  "sym": "MONTECARLO",
  "name": "Monte Carlo Fashions Limited",
  "scrip": "538836",
- "mcap_cr": 1027.38,
+ "mcap_cr": 1011.62,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 25.81,
    "pat": 5.03,
    "margin_pct": 9.2,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 90,
     "profit": 87,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -66,9 +66,13 @@
    "ebitda": -12.93,
    "pat": -23.42,
    "margin_pct": -8.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 38,
+    "profit": -7,
+    "quality": 0
+   },
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -95,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Monte Carlo Fashions Limited is engaged in the manufacturing and trading of apparel and textiles.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 20.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

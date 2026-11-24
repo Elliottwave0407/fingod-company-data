@@ -3,7 +3,7 @@
  "sym": "BBTCL",
  "name": "B&B Triplewall Containers Limited",
  "scrip": "543668",
- "mcap_cr": 439.15,
+ "mcap_cr": 440.68,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 28.29,
    "pat": 8.9,
    "margin_pct": 17.4,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 75,
     "profit": 94,
-    "quality": 2
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 79,
     "profit": 95,
-    "quality": 61
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   }
  ],
  "completeness": {
@@ -99,7 +99,53 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "B&B Triplewall Containers Limited manufactures high-quality corrugated boxes and boards, offering a broad range of corrugated packaging solutions to major MNCs and packaging companies.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Unit III Capacity Expansion",
+    "amount_cr": null,
+    "timeline": "2024"
+   },
+   {
+    "item": "Unit V Commercial Production",
+    "amount_cr": null,
+    "timeline": "2024"
+   },
+   {
+    "item": "Unit IV Establishment (Hyderabad)",
+    "amount_cr": null,
+    "timeline": "2022"
+   },
+   {
+    "item": "Unit III Plant Area Addition (60,000 sq ft)",
+    "amount_cr": null,
+    "timeline": "2021"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matters: Provisions for taxation, litigation, and other significant provisions; Assessment of contingent liabilities relating to litigations and claims"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Provisions for taxation, litigation, and other significant provisions require management judgements and estimates",
+   "Assessment of contingent liabilities relating to litigations and claims is inherently subjective",
+   "Direct tax, indirect tax, and transfer pricing arrangements scrutiny",
+   "General legal proceedings and environmental issues"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

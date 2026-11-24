@@ -3,7 +3,7 @@
  "sym": "GUJTHEM",
  "name": "Gujarat Themis Biosyn Limited",
  "scrip": "506879",
- "mcap_cr": 4578.09,
+ "mcap_cr": 4485.03,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 19.37,
    "pat": 10.89,
    "margin_pct": 43.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 58,
     "profit": 65,
-    "quality": 30
+    "quality": 9
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 77,
     "profit": 100,
-    "quality": 51
+    "quality": 52
    },
    "capped_by": "profit growth under 25%"
   }
@@ -99,7 +99,60 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-08-14"
+  "latest_concall": "2026-08-14",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gujarat Themis Biosyn Limited is engaged in the manufacturing of fermentation-based pharmaceutical intermediates and APIs.",
+  "segments": [
+   {
+    "name": "Fermentation-based pharmaceutical intermediates and APIs",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Fermentation Block expansion at Vapi facility",
+    "amount_cr": null,
+    "timeline": "Completed during FY 2025-26; capacity enhanced from 450 KL to 990 KL"
+   },
+   {
+    "item": "Multi-purpose synthetic and fermentation-based API facility",
+    "amount_cr": null,
+    "timeline": "Commissioned in May 2025"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Acquisition of 13 established brands in anti-tuberculosis and anti-infective segments from Sanofi",
+    "metric": "Forward integration across intermediates, APIs and finished dosage formulations",
+    "value": "Subject to regulatory approvals and customary closing conditions",
+    "by_when": "April 2026 (agreement executed)"
+   },
+   {
+    "statement": "Acquisition of 100% equity shareholding of MicroBiopharm Japan Co., Ltd. through wholly owned subsidiary",
+    "metric": "Expansion into CDMO services and API manufacturing in Japan",
+    "value": "Subject to regulatory approvals and customary closing conditions",
+    "by_when": "Agreement entered during FY 2025-26"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Revenue recognition cut-off risk",
+   "Capital work-in-progress/PPE capitalization timing and classification risk",
+   "Provisions and contingent liabilities from pending litigations"
+  ],
+  "dividend_per_share": 0.67
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

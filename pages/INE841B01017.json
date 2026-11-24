@@ -3,7 +3,7 @@
  "sym": "INDBANK",
  "name": "Indbank Merchant Banking Services Limited",
  "scrip": "511473",
- "mcap_cr": 120.62,
+ "mcap_cr": 119.51,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 1.82,
    "pat": 1.21,
    "margin_pct": 30.9,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 43,
     "profit": 48,
-    "quality": 48
+    "quality": 32
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 35,
     "profit": 75,
-    "quality": 60
+    "quality": 58
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 20,
     "profit": 20,
-    "quality": 41
+    "quality": 7
    },
    "capped_by": null
   }
@@ -109,7 +109,42 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Indbank Merchant Banking Services Ltd provides merchant banking services, stock broking, and depository participant services as a subsidiary of Indian Bank.",
+  "segments": [
+   {
+    "name": "Merchant Banking Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Broking Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Depository Participant Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Anand & Ponnappan, Chartered Accountants, Chennai",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Disputed income tax dues of Rs 528.86 lakh pending before High Court, Madras for AY 2007-08"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

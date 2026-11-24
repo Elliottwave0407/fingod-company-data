@@ -3,7 +3,7 @@
  "sym": "SAKUMA",
  "name": "Sakuma Exports Limited",
  "scrip": "532713",
- "mcap_cr": 264.94,
+ "mcap_cr": 261.81,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 57,
     "profit": 37,
-    "quality": 88
+    "quality": 66
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 8,
     "profit": 28,
-    "quality": 80
+    "quality": 58
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sakuma Exports Limited is engaged in the business of trading and export of agricultural commodities.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure on fixed assets, including capital advances",
+    "amount_cr": 5.21,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Ramesh M. Sheth & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

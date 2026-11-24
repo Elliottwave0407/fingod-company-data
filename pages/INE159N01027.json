@@ -3,7 +3,7 @@
  "sym": "VIJIFIN",
  "name": "Viji Finance Limited",
  "scrip": "537820",
- "mcap_cr": 329.64,
+ "mcap_cr": 317.86,
  "group": "T",
  "quarters": [
   {
@@ -97,7 +97,32 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Viji Finance Limited is a non-banking financial company (NBFC) engaged in lending activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Dharmendra K Agrawal & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Provision for standard asset lower than RBI prudential norms by 0.036%; repayment of loan accounts of three borrowers amounting to Rs. 145.47 Lac by director/guarantor Mr. Vijay Kothari, source of funds not independently verified, indicating potential stress and evergreening risk."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Provision for standard assets lower than RBI prudential norms",
+   "Repayment of borrower loans by director/guarantor indicating potential stress and evergreening risk",
+   "Economic conditions and government policies",
+   "Dependence on certain businesses"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "RPGLIFE",
  "name": "RPG Life Sciences Limited",
  "scrip": "532983",
- "mcap_cr": 4196.36,
+ "mcap_cr": 4148.32,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 33.93,
    "pat": 29.9,
    "margin_pct": 19.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 32,
     "profit": 15,
-    "quality": 48
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 58,
     "profit": 61,
-    "quality": 62
+    "quality": 48
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 40.42,
    "pat": 28.22,
    "margin_pct": 19.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 31,
     "profit": 15,
-    "quality": 36
+    "quality": 3
    },
    "capped_by": null
   }
@@ -109,7 +109,40 @@
   "missing": [],
   "concalls_found": 8,
   "concalls_read": 0,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "RPG Life Sciences is an integrated pharmaceutical company operating in Domestic and International markets in Branded Formulations, Global Generics, and Synthetic APIs.",
+  "segments": [
+   {
+    "name": "Branded Formulations",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Global Generics",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Synthetic APIs",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S R B C & CO LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 1445,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 24
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

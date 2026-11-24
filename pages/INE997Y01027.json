@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 74,
     "profit": 93,
-    "quality": 6
+    "quality": 22
    },
    "capped_by": null
   },
@@ -92,7 +92,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mittal Life Style Limited acquired 100% of JK Infrasol Private Limited on June 2, 2025, making it a wholly owned subsidiary, and recorded consolidated total income from operations of Rs. 91.45 Crores and profit after tax of Rs. 2.29 Crores for FY 2025-26.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "global economic uncertainties",
+   "geopolitical challenges",
+   "fluctuating market conditions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

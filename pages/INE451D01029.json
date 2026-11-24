@@ -3,7 +3,7 @@
  "sym": "RAJRATAN",
  "name": "Rajratan Global Wire Limited",
  "scrip": "517522",
- "mcap_cr": 2106.74,
+ "mcap_cr": 2056.48,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 40,
     "profit": 7,
-    "quality": 34
+    "quality": 26
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 76,
     "profit": 48,
-    "quality": 71
+    "quality": 81
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 59,
     "profit": 28,
-    "quality": 47
+    "quality": 45
    },
    "capped_by": null
   }
@@ -109,7 +109,40 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 6,
-  "latest_concall": "2026-10-27"
+  "latest_concall": "2026-10-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Rajratan Global Wire Ltd. manufactures high-performance tyre bead wire using premium-grade high-carbon steel, offering customised tensile grades for tyre companies in India and globally.",
+  "segments": [
+   {
+    "name": "Tyre Bead Wire",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital goods imports",
+    "amount_cr": 23.86,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Fadnis & Gupte LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Revenue recognition risk due to variety of terms defining transfer of control and high value transactions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

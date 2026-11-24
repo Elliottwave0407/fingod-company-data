@@ -3,7 +3,7 @@
  "sym": "SURAKSHA",
  "name": "Suraksha Diagnostic Limited",
  "scrip": "544293",
- "mcap_cr": 1624.14,
+ "mcap_cr": 1618.67,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 30.44,
    "pat": 12.85,
    "margin_pct": 34.7,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 66,
     "profit": 72,
-    "quality": 52
+    "quality": 75
    },
    "capped_by": null
   }
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Suraksha Diagnostic Limited operates diagnostic and radiology services through its network of centers and subsidiaries.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work-in-progress additions during FY 2025-26",
+    "amount_cr": 49.44,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Right-of-use asset additions during FY 2025-26",
+    "amount_cr": 59.07,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M S K A & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 5,
+  "key_risks": [],
+  "dividend_per_share": 0.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

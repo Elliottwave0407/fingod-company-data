@@ -52,11 +52,11 @@
    "ebitda": 2.08,
    "pat": 0.36,
    "margin_pct": 6.4,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 8,
     "profit": 5,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 32,
     "profit": 37,
-    "quality": 38
+    "quality": 51
    },
    "capped_by": null
   }
@@ -99,7 +99,34 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Weizmann Limited is engaged in job work and local sales, with a focus on domestic operations rather than exports.",
+  "segments": [
+   {
+    "name": "Job work and local sales",
+    "share_of_revenue_pct": 90.9
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Valuation of unquoted long term investments held at fair value involves significant management judgements and complexity due to limited external evidence and unobservable market data."
+  ],
+  "dividend_per_share": 0.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

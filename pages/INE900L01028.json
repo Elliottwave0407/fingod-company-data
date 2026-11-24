@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 40,
     "profit": 64,
-    "quality": 44
+    "quality": 54
    },
    "capped_by": null
   }
@@ -96,7 +96,33 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-07-20"
+  "latest_concall": "2026-07-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Madhya Bharat Agro Products Limited manufactures fertilizers and chemical products including Single Super Phosphate (SSP), DAP, NPK, and other crop nutrition solutions for the agricultural sector.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work-in-progress",
+    "amount_cr": 277.48,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

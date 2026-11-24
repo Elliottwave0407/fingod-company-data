@@ -3,7 +3,7 @@
  "sym": "DOLPHIN",
  "name": "Dolphin Offshore Enterprises (India) Limited",
  "scrip": "522261",
- "mcap_cr": 2494.49,
+ "mcap_cr": 2439.68,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 20,
-    "quality": 61
+    "quality": 37
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 83,
     "profit": 20,
-    "quality": 62
+    "quality": 30
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Dolphin Offshore Enterprises (India) Limited is an Indian listed company.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Note No. 6.2 regarding recognition of additional deferred tax assets amounting to Rs. 1,065.49 Lakhs on approved carried forward losses and unabsorbed depreciation"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KABRAEXTRU",
  "name": "Kabra Extrusion Technik Limited",
  "scrip": "524109",
- "mcap_cr": 2513.67,
+ "mcap_cr": 2519.79,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 7,
     "profit": 2,
-    "quality": 40
+    "quality": 5
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 88,
     "profit": 84,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": "net loss"
   },
@@ -80,11 +80,11 @@
    "ebitda": 17.38,
    "pat": 3.97,
    "margin_pct": 7.9,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 50,
-    "quality": 40
+    "quality": 64
    },
    "capped_by": null
   }
@@ -109,7 +109,57 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kabra Extrusiontechnik Limited is India's premier manufacturer and exporter of plastic extrusion machineries for pipes and films, and lithium-ion battery packs for electric mobility and energy storage applications under the Geon brand.",
+  "segments": [
+   {
+    "name": "Extrusion Business",
+    "share_of_revenue_pct": 70
+   },
+   {
+    "name": "Battery Division (Geon)",
+    "share_of_revenue_pct": 30
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Battery pack manufacturing capacity",
+    "amount_cr": null,
+    "timeline": "Current"
+   },
+   {
+    "item": "Capital expenditure on property, plant and equipment",
+    "amount_cr": 29.51,
+    "timeline": "FY26"
+   },
+   {
+    "item": "Expenditure on intangibles (including capital advances)",
+    "amount_cr": 7.99,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Kirtane & Pandit LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical tensions",
+   "Supply-chain disruptions",
+   "Inflationary pressures",
+   "Fluctuating commodity prices"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

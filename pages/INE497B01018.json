@@ -3,7 +3,7 @@
  "sym": "SEAMECLTD",
  "name": "Seamec Limited",
  "scrip": "526807",
- "mcap_cr": 3918.88,
+ "mcap_cr": 3714.34,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 79
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 78,
     "profit": 20,
-    "quality": 48
+    "quality": 19
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SEAMEC Limited provides offshore support services through its fleet of Diving Support Vessels (DSVs), an Offshore Support Vessel (OSV), and an Accommodation Barge, and also operates bulk carriers through its subsidiaries.",
+  "segments": [
+   {
+    "name": "Offshore Shipping",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Bulk Carrier",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 22.6735,
+    "timeline": "Year ended 31.03.2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "TR Chadha & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Carrying value, useful life of fleet and fleet equipment, amortization of dry dock cost and cost of modification"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

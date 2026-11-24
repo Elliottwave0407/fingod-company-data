@@ -3,7 +3,7 @@
  "sym": "ARIS",
  "name": "Arisinfra Solutions Limited",
  "scrip": "544419",
- "mcap_cr": 1352.46,
+ "mcap_cr": 1364.32,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 98,
     "profit": 82,
-    "quality": 68
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 30.55,
    "pat": 20.03,
    "margin_pct": 10.5,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 91,
     "profit": 73,
-    "quality": 80
+    "quality": 97
    },
    "capped_by": null
   }
@@ -99,7 +99,67 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Arisinfra Solutions Limited operates as a technology-led orchestration layer for India's infrastructure and real estate ecosystem, digitally integrating procurement, vendor coordination, logistics, and documentation across construction projects through its platform connecting developers, contractors, and suppliers.",
+  "segments": [
+   {
+    "name": "B2B Supply",
+    "share_of_revenue_pct": 44
+   },
+   {
+    "name": "Contract Manufacturing",
+    "share_of_revenue_pct": 47
+   },
+   {
+    "name": "Developer-as-a-Service (DaaS)",
+    "share_of_revenue_pct": 9
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Aggregates Reserved Capacity",
+    "amount_cr": null,
+    "timeline": "6.1 million MT"
+   },
+   {
+    "item": "Ready-Mix Concrete Reserved Capacity",
+    "amount_cr": null,
+    "timeline": "2.7 million MT"
+   },
+   {
+    "item": "Asphalt Reserved Capacity",
+    "amount_cr": null,
+    "timeline": "0.3 million MT"
+   },
+   {
+    "item": "Total Contract Manufacturing Reserved Capacity",
+    "amount_cr": null,
+    "timeline": "9 million+ MTPA"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Expected Credit Loss (ECL) allowance on trade receivables (Rs. 2,571.98 million receivables with Rs. 154.07 million ECL allowance as at March 31, 2026)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Fragmented supply chain with 12,000+ quarry operators",
+   "Unpredictable execution and supply disruptions impacting project timelines",
+   "No standard pricing or quality benchmarks in aggregates ecosystem",
+   "Logistics-heavy and location-dependent operations",
+   "Credit risk on trade receivables (ECL allowance of Rs. 154.07 million on Rs. 2,571.98 million receivables)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

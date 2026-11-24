@@ -3,7 +3,7 @@
  "sym": "CINEVISTA",
  "name": "Cinevista Limited",
  "scrip": "532324",
- "mcap_cr": 80.41,
+ "mcap_cr": 80.01,
  "group": "B",
  "quarters": [
   {
@@ -87,7 +87,31 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Cinevista Limited is engaged in media and entertainment production along with real estate development through joint development agreements.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Raj Niranjan Associates",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to non-impairment of investments and advances in subsidiaries/associates (Rs. 62.35 lakh and Rs. 3.76 crore) and non-impairment of intangible assets (Rs. 21.89 crore) as required by Ind AS 36."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Substantial erosion in net worth of subsidiary and associate companies leading to potential impairment of investments and advances",
+   "Indicators of impairment exist for intangible assets with carrying amount of Rs. 21.89 crore",
+   "Revenue recognition complexity under Ind AS 115 for Joint Development Agreements requiring significant management judgment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "EPACK",
  "name": "EPACK Durable Limited",
  "scrip": "544095",
- "mcap_cr": 1593.86,
+ "mcap_cr": 1489.88,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 52,
     "profit": 15,
-    "quality": 0
+    "quality": 6
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 47,
-    "quality": 0
+    "quality": 97
    },
    "capped_by": "net loss"
   }
@@ -109,7 +109,49 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-04"
+  "latest_concall": "2026-11-04",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "EPACK Durable Limited is India's leading Original Design Manufacturer (ODM) for room air conditioners (RACs) and has diversified into small domestic appliances (SDAs), large domestic appliances (LDAs), and critical components.",
+  "segments": [
+   {
+    "name": "RAC ODM",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Living Appliance ODM",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Induction Cooktop ODM/OEM",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Air Fryer ODM",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Trade receivables include disputed balance of Rs 1,961 lakhs which the Company believes has high probability of recovery"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Global uncertainties and operating challenges",
+   "Seasonal demand softness",
+   "Evolving regulations",
+   "Disputed trade receivables of Rs 1,961 lakhs"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

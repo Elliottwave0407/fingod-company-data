@@ -49,11 +49,11 @@
    "ebitda": 3.59,
    "pat": 3.36,
    "margin_pct": 21.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 46,
     "profit": 17,
-    "quality": 75
+    "quality": 38
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 86,
     "profit": 100,
-    "quality": 95
+    "quality": 100
    },
    "capped_by": null
   }
@@ -96,7 +96,53 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Steel City Securities Limited is a leading retail stock broking company in Southern India with a strong presence in e-governance services, offering capital market services, insurance distribution, and NBFC services through its associate company.",
+  "segments": [
+   {
+    "name": "Capital Market Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Insurance Distribution",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Non-Banking Financial Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "E-Governance Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 0.1425,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/S. Rao & Kumar LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Revenue recognition from broking & related operations due to high volume of transactions and reliance on complex IT systems",
+   "Uncertain tax positions (Indirect Tax) including matters under dispute amounting to Rs.655.06 Lakhs"
+  ],
+  "dividend_per_share": 4.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

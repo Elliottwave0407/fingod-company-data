@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 35,
     "profit": 11,
-    "quality": 45
+    "quality": 21
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 85,
     "profit": 65,
-    "quality": 74
+    "quality": 77
    },
    "capped_by": null
   }
@@ -96,7 +96,60 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Thejo Engineering Limited provides engineering solutions and services to the mining, mineral processing, and bulk material handling sectors globally through its subsidiaries in Australia, Saudi Arabia, Brazil, Chile, and UAE.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Thejo Hatcon Industrial Services Company is expected to effectively leverage emerging business opportunities to accelerate growth.",
+    "metric": "growth",
+    "value": "accelerate",
+    "by_when": "near future"
+   },
+   {
+    "statement": "Thejo Engineering Latino America SpA is expected to capitalise opportunity and move towards growth targets.",
+    "metric": "growth",
+    "value": "move towards growth targets",
+    "by_when": "near future"
+   },
+   {
+    "statement": "Thejo Brasil expecting positive traction ahead.",
+    "metric": "growth",
+    "value": "positive traction",
+    "by_when": "near future"
+   },
+   {
+    "statement": "Thejo Australia Pty Ltd economic environment is expected to improve in the near future.",
+    "metric": "economic environment",
+    "value": "improve",
+    "by_when": "near future"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Change in depreciation method from WDV to SLM effective April 01, 2025, resulting in lower depreciation charge of Rs.737.02 lakhs and higher PAT of Rs.551.51 lakhs for FY26."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 5,
+  "key_risks": [
+   "Geopolitical disruptions affecting energy production and transportation (Middle East conflict)",
+   "Rising costs, capacity constraints, and commodity price volatility in mining sector",
+   "High interest rates, elevated inflation, and tighter financial conditions in Brazil",
+   "Fiscal adjustments and global uncertainty in Chile",
+   "Weak productivity, housing supply imbalances, and global uncertainty in Australia",
+   "Foreign currency exchange rate fluctuations (AUD, EUR, GBP, USD)",
+   "Interest rate risk on working capital and term loan funding"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

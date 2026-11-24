@@ -3,7 +3,7 @@
  "sym": "DBREALTY",
  "name": "Valor Estate Limited",
  "scrip": "533160",
- "mcap_cr": 4504.15,
+ "mcap_cr": 4412.48,
  "group": "A",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -1.06,
    "pat": -58.9,
    "margin_pct": -1.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -1,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -66,7 +70,7 @@
    "pillars": {
     "growth": 0,
     "profit": 98,
-    "quality": 0
+    "quality": 1
    },
    "capped_by": "net loss"
   }
@@ -95,7 +99,45 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Valor Estate Ltd. is a full-service development company specializing in large scale urban regeneration projects across the Mumbai Metro Region.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital commitments (Net of advances)",
+    "amount_cr": 310.63,
+    "timeline": "Not specified"
+   },
+   {
+    "item": "Licence Fees",
+    "amount_cr": 266.29,
+    "timeline": "Not specified"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "N. A. Shah Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "1. Uncertainty relating to future outcome of pending litigations or regulatory actions (Note 49). 2. Reliance on valuer reports and internal assessment for fair valuation of investments, loans, inventories, security deposits and project advances (Note 48)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Uncertainty relating to pending litigations or regulatory actions",
+   "Valuation of inventory and investments dependent on management estimates and valuer reports",
+   "Liquidity risk and dependence on raising fresh debt and recovery from financial assets",
+   "Legal matters involving cases filed by Investigating Authorities with pending appeals",
+   "Project execution risks including approval delays and disputes (e.g., Orchid Ozone, OM Metals)",
+   "Capital commitment obligations and license fee obligations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

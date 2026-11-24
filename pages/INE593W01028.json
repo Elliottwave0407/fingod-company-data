@@ -49,11 +49,11 @@
    "ebitda": 6.12,
    "pat": 2.6,
    "margin_pct": 10.2,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 93,
     "profit": 49,
-    "quality": 60
+    "quality": 79
    },
    "capped_by": null
   },
@@ -63,11 +63,11 @@
    "ebitda": 6.2,
    "pat": 2.87,
    "margin_pct": 12.7,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 72,
     "profit": 66,
-    "quality": 52
+    "quality": 63
    },
    "capped_by": null
   }
@@ -96,7 +96,42 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Focus Lighting and Fixtures Limited manufactures and trades lighting products.",
+  "segments": [
+   {
+    "name": "Sales Manufacturing",
+    "share_of_revenue_pct": 76.5
+   },
+   {
+    "name": "Sales Trading",
+    "share_of_revenue_pct": 23.5
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "CAPEX",
+    "amount_cr": 1.3429,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Patwa And Shah, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 55.43,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

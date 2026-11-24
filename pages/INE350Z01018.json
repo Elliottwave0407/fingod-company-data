@@ -3,7 +3,7 @@
  "sym": "GLOSTERLTD",
  "name": "Gloster Limited",
  "scrip": "542351",
- "mcap_cr": 600.78,
+ "mcap_cr": 582.4,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 40.64,
    "pat": 8.21,
    "margin_pct": 10.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 90,
     "profit": 89,
-    "quality": 0
+    "quality": 61
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 74,
     "profit": 27,
-    "quality": 0
+    "quality": 8
    },
    "capped_by": "net loss"
   }
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gloster Limited manufactures and supplies jute gunny bags, promoting sustainability, rural employment, and eco-friendly packaging solutions.",
+  "segments": [
+   {
+    "name": "Jute Goods",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Cables",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 193.64,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

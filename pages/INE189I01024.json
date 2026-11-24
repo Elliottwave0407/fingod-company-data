@@ -3,7 +3,7 @@
  "sym": "NELCAST",
  "name": "Nelcast Limited",
  "scrip": "532864",
- "mcap_cr": 1274.13,
+ "mcap_cr": 1329.38,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 41,
     "profit": 35,
-    "quality": 38
+    "quality": 44
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 15,
     "profit": 4,
-    "quality": 2
+    "quality": 4
    },
    "capped_by": null
   }
@@ -99,7 +99,54 @@
   ],
   "concalls_found": 10,
   "concalls_read": 0,
-  "latest_concall": "2026-07-30"
+  "latest_concall": "2026-07-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nelcast manufactures iron castings for commercial vehicles, tractors, and other automotive applications in India and exports to global markets.",
+  "segments": [
+   {
+    "name": "Commercial Vehicle",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Tractor",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Pedapariya facility ramp-up for new business wins",
+    "amount_cr": null,
+    "timeline": "FY27"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Domestic demand, particularly in the commercial vehicle segment, is expected to remain supportive, while export markets are showing encouraging signs of recovery.",
+    "metric": "Revenue growth",
+    "value": "Not quantified",
+    "by_when": "FY27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly named in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "VAT/CST disputes: CST \u20b915.34 lakh (2009-10) pending at Commissioner Appeals Vizag; VAT \u20b91.77 lakh (2016-17) pending at Commissioner Appeals (CT)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Export market uncertainty due to US tariffs",
+   "Dependence on commercial vehicle and tractor cycles",
+   "Regulatory changes (emission norms) causing pre-buy volatility",
+   "Pending tax disputes (VAT/CST)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

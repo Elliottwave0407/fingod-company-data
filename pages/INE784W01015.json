@@ -3,7 +3,7 @@
  "sym": "MANOMAY",
  "name": "Manomay Tex India Limited",
  "scrip": "540396",
- "mcap_cr": 497.51,
+ "mcap_cr": 492.1,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 55,
     "profit": 46,
-    "quality": 46
+    "quality": 70
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 42,
     "profit": 14,
-    "quality": 22
+    "quality": 41
    },
    "capped_by": null
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Manomay Tex India Limited manufactures Denim (Cotton) fabric and yarn through spinning and denim facilities.",
+  "segments": [
+   {
+    "name": "Denim",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Spinning",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "plans for the future include diversification of our product portfolio, addition of new capacities, exploring new geographies",
+    "metric": "growth strategy",
+    "value": "diversification, new capacities, new geographies",
+    "by_when": "future"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "quality of power available from Ajmer Vidhut Vitran Nigam Limited causing frequent interruption in manufacturing process",
+   "interest rate risk on floating rate debt obligations",
+   "credit risk from trade receivables",
+   "liquidity risk management"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

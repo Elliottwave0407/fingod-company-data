@@ -3,7 +3,7 @@
  "sym": "SPIC",
  "name": "Southern Petrochemicals Industries Corporation  Limited",
  "scrip": "590030",
- "mcap_cr": 1202.09,
+ "mcap_cr": 1191.5,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 35,
     "profit": 66,
-    "quality": 76
+    "quality": 82
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 20,
     "profit": 6,
-    "quality": 58
+    "quality": 19
    },
    "capped_by": null
   }
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Southern Petrochemical Industries Corporation Limited is engaged in the manufacturing and sale of fertilizers, primarily urea, and related petrochemical products.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Urea plant capacity expansion project at Tuticorin",
+    "amount_cr": 440.07,
+    "timeline": "Expected completion by September 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Subsidy income recognition and recoverability subject to significant judgement and interpretation of government notifications",
+   "Delay in urea revamp project completion from original target of March 2026 to September 2026",
+   "Dependence on government subsidy policies for urea under New Pricing Scheme",
+   "Related party transactions and borrowings from related parties"
+  ],
+  "dividend_per_share": 2.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

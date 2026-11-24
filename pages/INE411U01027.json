@@ -3,7 +3,7 @@
  "sym": "BAJAJHCARE",
  "name": "Bajaj Healthcare Limited",
  "scrip": "539872",
- "mcap_cr": 1077.45,
+ "mcap_cr": 1075.94,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 50,
     "profit": 55,
-    "quality": 41
+    "quality": 48
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 55,
     "profit": 41,
-    "quality": 47
+    "quality": 58
    },
    "capped_by": null
   }
@@ -109,7 +109,56 @@
   "missing": [],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2026-10-27"
+  "latest_concall": "2026-10-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bajaj Healthcare Limited develops and manufactures Active Pharmaceutical Ingredients (APIs), intermediates, and finished dosage formulations for the pharmaceutical, nutraceutical, and food sectors.",
+  "segments": [
+   {
+    "name": "API & Intermediates",
+    "share_of_revenue_pct": 83.09
+   },
+   {
+    "name": "Finished Dosage Formulations",
+    "share_of_revenue_pct": 16.91
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "API and Intermediates manufacturing capacity",
+    "amount_cr": null,
+    "timeline": "As of 31st March 2026"
+   },
+   {
+    "item": "Finished Dosage Formulations manufacturing capacity",
+    "amount_cr": null,
+    "timeline": "As of 31st March 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "BHL aims to position quality as a key differentiator by accelerating digitalization initiatives that strengthen quality systems, improve process reliability, and enhance compliance across operations.",
+    "metric": "Quality digitalization and compliance enhancement",
+    "value": "Not quantified",
+    "by_when": "Not specified"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to focus on revenue as key performance measure creating incentive for overstatement or premature recognition"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

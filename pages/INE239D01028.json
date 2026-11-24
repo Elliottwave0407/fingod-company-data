@@ -3,7 +3,7 @@
  "sym": "OMINFRAL",
  "name": "OM INFRA LIMITED",
  "scrip": "531092",
- "mcap_cr": 621.16,
+ "mcap_cr": 608.35,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 19,
     "profit": 88,
-    "quality": 9
+    "quality": 0
    },
    "capped_by": null
   },
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 5,
   "concalls_read": 5,
-  "latest_concall": "2025-08-20"
+  "latest_concall": "2025-08-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Om Infra Limited is an infrastructure company engaged in engineering, procurement, and construction (EPC) projects, real estate development, and joint operations for water, hydro, and irrigation projects.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Khandelwal Badaya & Co.",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Unbilled revenue of \u20b92885.28 lakhs recognized without necessary approvals from project authorities as at reporting date."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 6,
+  "key_risks": [
+   "Unbilled revenue recognition without project authority approvals",
+   "Liquidity risk management",
+   "Dependence on joint operations and subsidiaries for project execution"
+  ],
+  "dividend_per_share": 0.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

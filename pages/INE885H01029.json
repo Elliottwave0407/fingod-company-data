@@ -3,7 +3,7 @@
  "sym": "SPORTKING",
  "name": "Sportking India Limited",
  "scrip": "539221",
- "mcap_cr": 2815.28,
+ "mcap_cr": 3048.46,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 85.43,
    "pat": 32.76,
    "margin_pct": 13.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 39,
     "profit": 59,
-    "quality": 16
+    "quality": 25
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 132.21,
    "pat": 75.97,
    "margin_pct": 18.8,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 80,
     "profit": 95,
-    "quality": 73
+    "quality": 99
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 83,
     "profit": 96,
-    "quality": 77
+    "quality": 100
    },
    "capped_by": null
   }
@@ -109,7 +109,39 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sportking India Limited is a manufacturing company engaged in the production of textiles, including yarn and fabric, with operations in Ludhiana, Punjab and a new project in Odisha.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Right-of-use asset for industrial land in Odisha",
+    "amount_cr": 55.3,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "raw material availability and its prices",
+   "cyclical demand",
+   "changes in Government regulations",
+   "Tax regimes",
+   "economic developments within India and the countries in which the Company conducts business"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

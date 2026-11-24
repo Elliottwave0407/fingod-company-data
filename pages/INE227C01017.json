@@ -3,7 +3,7 @@
  "sym": "MMFL",
  "name": "MM Forgings Limited",
  "scrip": "522241",
- "mcap_cr": 3123.1,
+ "mcap_cr": 2995.87,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 80.75,
    "pat": 44.74,
    "margin_pct": 18.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 48,
     "profit": 38,
-    "quality": 61
+    "quality": 69
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 74,
     "profit": 100,
-    "quality": 87
+    "quality": 100
    },
    "capped_by": "revenue growth under 20%"
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-08-21"
+  "latest_concall": "2026-08-21",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

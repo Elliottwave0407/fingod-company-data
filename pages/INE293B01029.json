@@ -3,7 +3,7 @@
  "sym": "HAVISHA",
  "name": "Sri Havisha Hospitality and Infrastructure Limited",
  "scrip": "531322",
- "mcap_cr": 19.81,
+ "mcap_cr": 20.42,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sri Havisha Hospitality and Infrastructure Limited operates a hotel on land leased from the Airports Authority of India.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s P. Suryanarayana & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Cross Subsidy Surcharge (CSS) demand from TGSPDCL pending before Telangana High Court",
+   "Litigation with Percept Advertising Limited - appeal dismissed for non-prosecution, restoration petition pending",
+   "Carrying value of right-of-use asset and lease liability measurement under Ind AS 116 with impairment indicators due to losses",
+   "Contingent liabilities including bank guarantees to AAI and duty liability under EPCG scheme"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

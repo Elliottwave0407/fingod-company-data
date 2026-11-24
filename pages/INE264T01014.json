@@ -3,7 +3,7 @@
  "sym": "CAPACITE",
  "name": "Capacite Infraprojects Limited",
  "scrip": "540710",
- "mcap_cr": 1428.54,
+ "mcap_cr": 1384.12,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Capacit'e Infraprojects Limited is an Engineering Procurement and Construction (EPC) company specializing in high-rise and super high-rise construction across residential, commercial, public, and institutional segments.",
+  "segments": [
+   {
+    "name": "Engineering Procurement and Construction (EPC)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified Opinion on standalone financial statements; Key Audit Matter: Revenue recognition for long term construction contracts involving significant judgments in estimation of total revenue and cost to complete."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition estimates for long-term construction contracts are inherently subjective and complex",
+   "Changes in judgements and estimates due to delay in timelines, changes in scope, and consequential revised contract prices",
+   "Accuracy of revenues, onerous obligations and profits may deviate significantly during project execution"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

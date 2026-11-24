@@ -3,7 +3,7 @@
  "sym": "ALOKINDS",
  "name": "Alok Industries Limited",
  "scrip": "521070",
- "mcap_cr": 3927.51,
+ "mcap_cr": 3882.82,
  "group": "A",
  "quarters": [
   {
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 68,
     "profit": 64,
-    "quality": 0
+    "quality": 94
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Sep-26",
@@ -84,9 +84,9 @@
    "pillars": {
     "growth": 25,
     "profit": 27,
-    "quality": 0
+    "quality": 12
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -109,7 +109,51 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Alok Industries Limited is engaged in the manufacturing of textiles including cotton yarn, apparel fabric, home textiles, and polyester yarn.",
+  "segments": [
+   {
+    "name": "Textiles",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Various Projects (mainly pertains to upgrading of plant and machinery)",
+    "amount_cr": 97.58,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company expects to avail all the working capital limits sanctioned to it in FY 26-27.",
+    "metric": "Working capital limits",
+    "value": "All sanctioned limits",
+    "by_when": "FY 26-27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Chaturvedi & Shah LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on accounting of assigned debt at cost per NCLT resolution plan overriding Ind AS fair value requirement"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Credit risk from trade receivables and other financial assets",
+   "Market risk including interest rate risk, currency risk, and other price risk",
+   "Liquidity risk with current liabilities exceeding current assets primarily due to accumulated dividend on Non-Convertible Redeemable Preference shares of Rs 804.27 crore",
+   "Negative net worth leading to inability to calculate debt equity ratio",
+   "Impairment of loans to subsidiaries of Rs 1,465.99 crore fully provided for"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

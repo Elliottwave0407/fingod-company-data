@@ -3,7 +3,7 @@
  "sym": "ABAN",
  "name": "Aban Offshore Limited",
  "scrip": "523204",
- "mcap_cr": 81.48,
+ "mcap_cr": 82.94,
  "group": "T",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 19.25,
    "pat": 1.8,
    "margin_pct": 19.4,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 7,
     "profit": 16,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   },
@@ -99,7 +99,41 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aban Offshore Limited is an offshore drilling services company that owns and operates drilling rigs, currently undergoing Corporate Insolvency Resolution Process (CIRP).",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Ford Rhodes Parks & Co. LLP",
+   "opinion": "disclaimer",
+   "emphasis_or_qualification": "Contingent Liabilities of INR 15,796.19 million; Corporate Insolvency Proceedings under IBC; Non-receipt of bank balance confirmations; Material uncertainty relating to going concern; Investments overdue; Claims submitted by creditors; Non-provision of interest on bank borrowings and dividend on preference shares; Non-reinstatement of foreign currency bank borrowings; Accrual of interest income at reduced rate; Revenue support services accrued at cost; No provision for CSR."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Material uncertainty relating to going concern due to accumulated losses, eroded net worth, current liabilities exceeding current assets, and default on borrowings",
+   "Non-receipt of bank balance confirmations for bank balances of INR 592.98 million and borrowings of INR 4,148.03 million",
+   "Investments in preference shares of INR 94.34 million overdue",
+   "Claims submitted by creditors during CIRP with overall liabilities to be determined",
+   "Non-provision of interest on bank borrowings and dividend on cumulative redeemable preference shares from October 2025 to March 2026",
+   "Non-reinstatement of foreign currency bank borrowings as at 31st March 2026",
+   "Accrual of interest income at reduced rate on inter-corporate loan from 1st October 2025",
+   "Revenue support services accrued at cost instead of agreed rate from 1st October 2025",
+   "No provision for CSR amounting to INR 4.62 million due to CIRP",
+   "Contingent liabilities of INR 15,796.19 million under disputes with government authorities",
+   "Potential repossession of rigs creating material uncertainty for subsidiary operations",
+   "Incompleteness of bank confirmations for group bank balances and borrowings in USD",
+   "Investments in subsidiaries and associates and amounts due from subsidiaries with no impairment assessment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

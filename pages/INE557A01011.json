@@ -3,7 +3,7 @@
  "sym": "BIRLANU",
  "name": "BirlaNu Limited",
  "scrip": "509675",
- "mcap_cr": 918.26,
+ "mcap_cr": 926.29,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 63,
     "profit": 42,
-    "quality": 0
+    "quality": 46
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 72.95,
    "pat": 9.4,
    "margin_pct": 6.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 72,
     "profit": 61,
-    "quality": 0
+    "quality": 52
    },
    "capped_by": null
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "BirlaNu (formerly HIL Limited) is a home and building products and services company serving homeowners, builders and designers with sustainable, innovative solutions across pipes, construction chemicals, putty, roofs, walls and floors.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "brownfield blocks capacity at Chennai",
+    "amount_cr": null,
+    "timeline": "2021-2024"
+   },
+   {
+    "item": "new greenfield",
+    "amount_cr": null,
+    "timeline": "2025-2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R and Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 7000,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "inadequate profits to meet limits under Section 197 of Companies Act, 2013",
+   "rising costs",
+   "geopolitical instability",
+   "price fluctuations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "JYOTISTRUC",
  "name": "Jyoti Structures Limited",
  "scrip": "513250",
- "mcap_cr": 1430.0,
+ "mcap_cr": 1387.03,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 84,
     "profit": 35,
-    "quality": 97
+    "quality": 70
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 78,
-    "quality": 100
+    "quality": 74
    },
    "capped_by": null
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Jyoti Structures Limited is an EPC company involved in power transmission and distribution, including manufacturing of transmission line towers, substation structures, galvanization, and execution of turnkey transmission line projects.",
+  "segments": [
+   {
+    "name": "Transmission and Distribution",
+    "share_of_revenue_pct": 90
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Nashik Plant-2 tower manufacturing capacity",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital expenditure on Property, Plant and Equipment & Intangible Assets",
+    "amount_cr": 41.13,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "SARC & Associates, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

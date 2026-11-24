@@ -3,7 +3,7 @@
  "sym": "BANSALWIRE",
  "name": "Bansal Wire Industries Limited",
  "scrip": "544209",
- "mcap_cr": 4308.42,
+ "mcap_cr": 4300.59,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 47,
     "profit": 26,
-    "quality": 50
+    "quality": 51
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 56.36,
    "pat": 20.46,
    "margin_pct": 4.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 36,
     "profit": 6,
-    "quality": 5
+    "quality": 4
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 73,
     "profit": 46,
-    "quality": 58
+    "quality": 64
    },
    "capped_by": null
   }
@@ -109,7 +109,86 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-10-28"
+  "latest_concall": "2026-10-28",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bansal Wire Industries Limited is India's largest stainless steel wire manufacturer and second largest steel wire manufacturer by volume, producing diverse wire products for automotive, infrastructure, farming, fencing, poultry, and other sectors across domestic and global markets.",
+  "segments": [
+   {
+    "name": "Stainless Steel Wire",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Steel Wire",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "IHT Wires",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Steel Tyre Cord",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "LRPC Strands",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "B2C Portfolio (farming, fencing, poultry wires)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Installed capacity",
+    "amount_cr": null,
+    "timeline": "6,80,000 MTPA"
+   },
+   {
+    "item": "Dadri Plant capacity",
+    "amount_cr": null,
+    "timeline": "India's largest single-location steel wire manufacturing facility"
+   },
+   {
+    "item": "Highest-ever sales volume",
+    "amount_cr": null,
+    "timeline": "4,58,055 MT (32.9% Y-o-Y) in FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Strengthen leadership, enhance profitability and create enduring stakeholder value",
+    "metric": "Business priorities",
+    "value": "Building momentum, delivering excellence",
+    "by_when": "Ongoing"
+   },
+   {
+    "statement": "Growing with stronger execution, better capital discipline and sharper product mix",
+    "metric": "Strategic focus",
+    "value": "Value-accretive categories, resilient enterprise",
+    "by_when": "Ongoing"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Recognition of Supplier Discounts involving significant judgment regarding timing of recognition and measurement, particularly for discounts contingent on achieving purchase volume thresholds"
+  },
+  "promoter_holding_pct": 75.0,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Supplier discount recognition involving significant judgment and risk of premature/incorrect recognition",
+   "Commodity price risk",
+   "Foreign exchange risk",
+   "Forward-looking statements may not be realized"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

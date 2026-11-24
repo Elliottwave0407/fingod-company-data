@@ -3,7 +3,7 @@
  "sym": "MUKKA",
  "name": "Mukka Proteins Limited",
  "scrip": "544135",
- "mcap_cr": 741.6,
+ "mcap_cr": 746.4,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 39,
     "profit": 52,
-    "quality": 60
+    "quality": 63
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 53,
-    "quality": 57
+    "quality": 88
    },
    "capped_by": null
   }
@@ -99,7 +99,47 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mukka Proteins Limited manufactures and exports marine ingredients such as fish meal, fish oil, and fish soluble paste, and has diversified into insect-based products including insect meal, insect oil, insect compost, and humic acid for animal feed and agriculture.",
+  "segments": [
+   {
+    "name": "Marine Ingredients (Fish Meal, Fish Oil, Fish Soluble Paste)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Insect-Based Products (Insect Meal, Insect Oil, Insect Compost, Humic Acid)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Axis Bank Term Loan for new Bangalore plant",
+    "amount_cr": 15.0,
+    "timeline": "Repayment from September 2025 to August 2031"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 73.33,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Foreign exchange risk from international operations and exports",
+   "Commodity price risk (though disclosure noted as not applicable per SEBI circular)",
+   "Dependence on promoter personal guarantees for credit facilities",
+   "Concentration of promoter holding at 73.33%"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "REPRO",
  "name": "Repro India Limited",
  "scrip": "532687",
- "mcap_cr": 431.01,
+ "mcap_cr": 437.46,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 80,
     "profit": 100,
-    "quality": 75
+    "quality": 100
    },
    "capped_by": "turnaround from a loss base"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 82,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": "net loss"
   }
@@ -109,7 +109,48 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Repro India Limited operates a technology-driven platform connecting publisher content to readers, enabling on-demand printing and distribution of books with zero upfront investment, zero inventory, and zero forecasting for publishers.",
+  "segments": [
+   {
+    "name": "E-commerce / Technology Platform for Book Publishing",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Technology development (intangible assets and intangible assets under development)",
+    "amount_cr": 24.56,
+    "timeline": "As on March 31, 2026"
+   },
+   {
+    "item": "Capitalised intangible assets during FY2025-26",
+    "amount_cr": 20.77,
+    "timeline": "FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M S K A & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Raw material availability and prices",
+   "Cyclical demand and pricing in principal markets",
+   "Changes in Government regulations and Tax regimes",
+   "Economic developments in India and countries where the Company operates"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "DHRUV",
  "name": "Dhruv Consultancy Services Limited",
  "scrip": "541302",
- "mcap_cr": 38.1,
+ "mcap_cr": 37.93,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-08-25"
+  "latest_concall": "2026-08-25",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Dhruv Consultancy Services Limited provides engineering consultancy services for infrastructure projects including highways, multimodal logistics, airports, metro systems, railways, ports and public infrastructure.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 19.7,
+    "timeline": "FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Material reversal of unbilled revenue of Rs 37.73 Crores due to revisions in management estimates relating to expected project costs, stage of completion, contractual recoverability and/or customer acceptance criteria for certain contracts."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition involves significant management judgment and estimation including assessment of total estimated costs to complete and evaluation of variable consideration",
+   "Contracted services not delivered may invoke penal clauses by customers impacting revenue accuracy",
+   "High degree of estimation uncertainty in evaluating assumptions and judgments applied by management for revenue recognition"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

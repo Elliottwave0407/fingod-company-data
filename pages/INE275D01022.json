@@ -3,7 +3,7 @@
  "sym": "AMNPLST",
  "name": "Amines & Plasticizers Limited",
  "scrip": "506248",
- "mcap_cr": 843.18,
+ "mcap_cr": 786.79,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 32,
     "profit": 68,
-    "quality": 59
+    "quality": 63
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 44,
     "profit": 47,
-    "quality": 63
+    "quality": 61
    },
    "capped_by": null
   }
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Amines & Plasticizers Limited manufactures and sells chemical products, recognizing revenue upon dispatch of goods to customers.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition timing and complexity under Ind AS 115",
+   "Litigations related to direct and indirect tax and other matters with contingent liabilities"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

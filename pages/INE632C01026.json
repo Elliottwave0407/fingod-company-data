@@ -3,7 +3,7 @@
  "sym": "VIDHIING",
  "name": "Vidhi Specialty Food Ingredients Limited",
  "scrip": "531717",
- "mcap_cr": 1536.31,
+ "mcap_cr": 1505.84,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 38,
     "profit": 30,
-    "quality": 49
+    "quality": 40
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 84,
     "profit": 14,
-    "quality": 70
+    "quality": 42
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 96,
     "profit": 15,
-    "quality": 81
+    "quality": 62
    },
    "capped_by": null
   }
@@ -109,7 +109,49 @@
   "missing": [],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2026-10-30"
+  "latest_concall": "2026-10-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vidhi Specialty Food Ingredients Limited is a leading manufacturer of superior synthetic and natural food grade colours for applications in foods & beverages, confectionaries, pharmaceuticals, feeds, cosmetics, inkjet inks and salt free colours, distributed in over 80 countries across 6 continents.",
+  "segments": [
+   {
+    "name": "Synthetic Water Soluble Colours",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Aluminum Lakes",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "FD&C Colours",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure - Property plant and equipments by geographical location (India)",
+    "amount_cr": 16.0413,
+    "timeline": "Year Ended March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Bhuta Shah & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inventory existence risk due to significance of inventory balance and complexity in determining quantities",
+   "Trade receivables risk due to significant portion of current assets and estimation of allowance for expected credit losses"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

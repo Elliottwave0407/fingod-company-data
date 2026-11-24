@@ -3,7 +3,7 @@
  "sym": "PILITA",
  "name": "PIL ITALICA LIFESTYLE LIMITED",
  "scrip": "500327",
- "mcap_cr": 164.27,
+ "mcap_cr": 160.98,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 20,
     "profit": 26,
-    "quality": 28
+    "quality": 34
    },
    "capped_by": null
   },
@@ -109,7 +109,9 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "CENTEXT",
  "name": "Century Extrusions Limited",
  "scrip": "500083",
- "mcap_cr": 182.27,
+ "mcap_cr": 183.92,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 62,
     "profit": 40,
-    "quality": 27
+    "quality": 40
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 86,
     "profit": 48,
-    "quality": 54
+    "quality": 73
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

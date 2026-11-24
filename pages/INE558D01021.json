@@ -3,7 +3,7 @@
  "sym": "CORALFINAC",
  "name": "Coral India Finance & Housing Limited",
  "scrip": "531556",
- "mcap_cr": 115.99,
+ "mcap_cr": 117.48,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,38 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Company is primarily engaged in two segments viz, Construction, development & maintenance of properties and related services and Investment which includes lending and investments in capital market.",
+  "segments": [
+   {
+    "name": "Construction, development & maintenance of properties and related services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Investment which includes lending and investments in capital market",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 4,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "At present the company has not identified any element of risk which may threaten the existence of the company."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

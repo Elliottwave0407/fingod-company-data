@@ -3,7 +3,7 @@
  "sym": "NURECA",
  "name": "Nureca Limited",
  "scrip": "543264",
- "mcap_cr": 295.56,
+ "mcap_cr": 305.34,
  "group": "T",
  "quarters": [
   {
@@ -80,11 +80,11 @@
    "ebitda": 5.24,
    "pat": 4.05,
    "margin_pct": 9.0,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 98,
     "profit": 42,
-    "quality": 62
+    "quality": 24
    },
    "capped_by": null
   }
@@ -109,7 +109,44 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nureca Limited is a digital-first healthcare company that designs, manufactures, and sells healthcare and wellness products primarily through online channels.",
+  "segments": [
+   {
+    "name": "Ecommerce",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Trade Distribution",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Annual Production capacity",
+    "amount_cr": null,
+    "timeline": "8 Lac Units"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M's A. Arora & Company",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to pressure to achieve performance targets and meeting external expectations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

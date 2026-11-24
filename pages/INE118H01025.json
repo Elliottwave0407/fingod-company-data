@@ -53,9 +53,9 @@
    "pillars": {
     "growth": 100,
     "profit": 20,
-    "quality": 89
+    "quality": 50
    },
-   "capped_by": "margin down over 2 pts YoY"
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 100,
     "profit": 67,
-    "quality": 95
+    "quality": 67
    },
    "capped_by": null
   }
@@ -96,7 +96,29 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-08-10"
+  "latest_concall": "2026-08-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "BSE Limited operates as a stock exchange providing securities trading platform and related services.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "IT systems and controls due to pervasive nature and complexity of IT environment and large volume of transactions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

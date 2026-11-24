@@ -3,7 +3,7 @@
  "sym": "AJMERA",
  "name": "Ajmera Realty & Infra India Limited",
  "scrip": "513349",
- "mcap_cr": 2942.09,
+ "mcap_cr": 3207.77,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 20,
-    "quality": 71
+    "quality": 50
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 59,
     "profit": 36,
-    "quality": 44
+    "quality": 43
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Company is primarily engaged in the activities of Real Estate development.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Machinery for Dust suppression, Mist Machines and air quality monitoring equipment",
+    "amount_cr": null,
+    "timeline": "Current Financial Year"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company aims to achieve a 5x growth trajectory through unlocking of its land bank development potential and through low-capex acquisitions.",
+    "metric": "Growth trajectory",
+    "value": "5x",
+    "by_when": null
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Shreya Shah, Practicing Company Secretary",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 4.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SEJALLTD",
  "name": "Sejal Glass Limited",
  "scrip": "532993",
- "mcap_cr": 1052.51,
+ "mcap_cr": 1019.39,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 62,
-    "quality": 77
+    "quality": 96
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 16.52,
    "pat": 7.22,
    "margin_pct": 14.0,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 89,
     "profit": 28,
-    "quality": 61
+    "quality": 72
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 81,
     "profit": 57,
-    "quality": 75
+    "quality": 86
    },
    "capped_by": null
   }
@@ -109,7 +109,44 @@
   "missing": [],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-10-27"
+  "latest_concall": "2026-10-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sejal Glass Limited is a leading architectural and specialty glass company serving domestic and international markets with manufacturing facilities in India and UAE.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure on fixed assets including capital advances",
+    "amount_cr": 37.97,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Addition of ROU Assets",
+    "amount_cr": 23.47,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Gokhale and Sathe",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matters: 1) Evaluation of Deferred Tax Asset as on 31 March 2026 (Ind AS 12) - Company recognised deferred tax of Rs 903 lakhs in FY 2022-23 on carried forward tax losses, reassessed position as on 31 March 2026 and evaluated derecognition not required. 2) Acquisition of Business Undertaking through Business Transfer Agreement (Ind AS 103, Ind AS 16, Ind AS 38) - acquired business undertakings at Taloja and Erode during the year."
+  },
+  "promoter_holding_pct": 70.29,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Under-utilisation of capacity at newly acquired units (Taloja and Erode) operational only for part of the year",
+   "Unabsorbed overheads and lower absorption of fixed operating costs from under-utilisation",
+   "Financial and operational performance not entirely comparable with previous year due to significant expansion of manufacturing footprint",
+   "Deferred tax asset recognition depends on reasonable certainty of sufficient future taxable income",
+   "Integration and ramp-up challenges of newly acquired facilities"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

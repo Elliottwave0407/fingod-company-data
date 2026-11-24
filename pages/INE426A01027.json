@@ -3,7 +3,7 @@
  "sym": "ALEMBICLTD",
  "name": "Alembic Limited",
  "scrip": "506235",
- "mcap_cr": 2794.04,
+ "mcap_cr": 2688.51,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 14,
     "profit": 20,
-    "quality": 62
+    "quality": 20
    },
    "capped_by": null
   },
@@ -99,7 +99,53 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Alembic Limited is engaged in the business of Active Pharmaceutical Ingredients (API) and Real Estate development.",
+  "segments": [
+   {
+    "name": "API Division",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Real Estate Division",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Property, Plant and Equipments",
+    "amount_cr": 34.56,
+    "timeline": "As at 31st March, 2026"
+   },
+   {
+    "item": "Investment Property",
+    "amount_cr": 13.32,
+    "timeline": "As at 31st March, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on disputed electricity duty liability: aggregate provision of Rs 2,052.13 lakhs made for principal amount; interest not ascertainable and disclosed as contingent liability; Rs 3,500.00 lakhs deposited with Hon'ble Supreme Court on 26th May, 2023; appeal admitted."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Litigations, provisions and contingent liabilities involving significant management judgement",
+   "Disputed electricity duty matter with interest not ascertainable",
+   "Pending tax disputes (Excise Duty, Service Tax, Sales Tax, Green Cess, Export obligation)",
+   "Wage revision and reinstatement demands (unascertained)",
+   "Claims against the Group not acknowledged as debt"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

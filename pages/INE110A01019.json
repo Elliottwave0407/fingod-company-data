@@ -3,7 +3,7 @@
  "sym": "BPL",
  "name": "Bpl Limited",
  "scrip": "500074",
- "mcap_cr": 205.45,
+ "mcap_cr": 200.11,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -9.03,
    "pat": -11.27,
    "margin_pct": -46.0,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 33,
+    "profit": 43,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -95,7 +99,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "BPL Limited is an Indian company with registered office at BPL Works, Palakkad, Kerala, holding its 62nd AGM in September 2026.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly named in excerpts",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Company yet to redeem preference shares amounting to Rs. 16,958.68 lacs due for redemption in August 2019 due to inadequacy of profits; Revenue from brand licensing agreement based on customer confirmation with reconciliation in progress"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Non-redemption of preference shares due to inadequate profits",
+   "Revenue recognition uncertainty from brand licensing agreement pending reconciliation"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

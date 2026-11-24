@@ -3,7 +3,7 @@
  "sym": "OILCOUNTUB",
  "name": "Oil Country Tubular Limited",
  "scrip": "500313",
- "mcap_cr": 320.41,
+ "mcap_cr": 316.41,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The company is engaged in the manufacturing of oil country tubular goods (OCTG) such as casing, tubing, and drill pipes for the oil and gas industry.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Sagar & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 187,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Increase in loss incurred during the year",
+   "Significant decline in sales/income from operations",
+   "Negative profit margins and return ratios",
+   "High variance in key financial ratios (Debt Service Coverage Ratio, Trade Receivables turnover, Net profit ratio)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

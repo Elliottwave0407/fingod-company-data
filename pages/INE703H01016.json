@@ -3,7 +3,7 @@
  "sym": "HUBTOWN",
  "name": "Hubtown Limited",
  "scrip": "532799",
- "mcap_cr": 2420.68,
+ "mcap_cr": 2481.08,
  "group": "A",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 78.48,
    "pat": 26.22,
    "margin_pct": 49.1,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 42
+    "quality": 80
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 28.41,
    "pat": 26.58,
    "margin_pct": 18.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 5,
     "profit": 15,
-    "quality": 40
+    "quality": 0
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 50,
     "profit": 0,
-    "quality": 2
+    "quality": 1
    },
    "capped_by": null
   }
@@ -109,7 +109,45 @@
   "missing": [],
   "concalls_found": 4,
   "concalls_read": 3,
-  "latest_concall": "2026-08-06"
+  "latest_concall": "2026-08-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hubtown Limited is a real estate developer with a focused presence in the Mumbai Metropolitan Region (MMR), engaged in premium residential and commercial developments, rehabilitation and urban renewal projects, and public-private partnership (PPP) projects.",
+  "segments": [
+   {
+    "name": "Residential",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Commercial / Industrial / Infrastructure",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to non-provision of interest expense amounting to \u20b91,751.85 lakhs on certain inter-corporate deposits, leading to understatement of finance cost and overstatement of profit. Emphasis of matters include: recognition of project expenses based on management estimates, realizable value of project costs, corporate guarantees/securities of \u20b981,240.01 lakhs not expected to result in financial liability, fair value measurement of financial guarantee contracts, reliance on management certification for contingent liabilities, balances subject to confirmation/reconciliation, non-charging of interest on advances to group entities, and investments in subsidiaries/JVs/associates with eroded net worth."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Non-provision of interest expense on inter-corporate deposits",
+   "Reliance on management estimates for project cost recognition and realizable value",
+   "Significant corporate guarantees and securities provided (\u20b981,240.01 lakhs)",
+   "Non-measurement of financial guarantee contracts at fair value",
+   "Balances subject to confirmations, reconciliation and adjustments",
+   "Non-charging of interest on advances to group entities",
+   "Investments in subsidiaries/JVs/associates with eroded net worth",
+   "Regulatory and statutory approvals required for proposed mergers and amalgamations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

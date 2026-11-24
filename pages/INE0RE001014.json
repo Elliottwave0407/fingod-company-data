@@ -3,7 +3,7 @@
  "sym": "GALAPREC",
  "name": "Gala Precision Engineering Limited",
  "scrip": "544244",
- "mcap_cr": 1499.56,
+ "mcap_cr": 1441.18,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 71,
     "profit": 53,
-    "quality": 68
+    "quality": 49
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 64,
     "profit": 54,
-    "quality": 65
+    "quality": 57
    },
    "capped_by": null
   }
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 8,
   "concalls_read": 8,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gala Precision Engineering Limited designs and manufactures precision engineering components including high tensile fasteners, disc and strip springs, coil and spiral springs, and wedge-lock washers for sectors such as renewable energy, industrial applications, and mobility.",
+  "segments": [
+   {
+    "name": "Springs Technology",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Special Fastening Solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure requirements towards purchase of equipment, plant and machinery at Wada, Palghar, Maharashtra",
+    "amount_cr": 11.07,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "SCA AND ASSOCIATES",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

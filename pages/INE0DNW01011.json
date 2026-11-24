@@ -3,7 +3,7 @@
  "sym": "FAIRCHEMOR",
  "name": "Fairchem Organics Limited",
  "scrip": "543252",
- "mcap_cr": 824.65,
+ "mcap_cr": 826.23,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 61,
     "profit": 69,
-    "quality": 63
+    "quality": 86
    },
    "capped_by": "revenue down YoY"
   },
@@ -66,11 +66,11 @@
    "ebitda": 17.87,
    "pat": 10.01,
    "margin_pct": 10.1,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 90,
     "profit": 88,
-    "quality": 72
+    "quality": 99
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 96,
     "profit": 88,
-    "quality": 73
+    "quality": 100
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-27"
+  "latest_concall": "2026-10-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Fairchem Organics Limited is engaged in the manufacturing of specialty chemicals, specifically oleochemicals and related products, as indicated by its cost records maintained under Chapters 2915, 2917, 3823, and 3824.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Parikh Dave & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "The Secretarial Audit Report does not contain any qualification/remark."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": 1.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

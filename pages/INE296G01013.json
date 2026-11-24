@@ -3,7 +3,7 @@
  "sym": "MUTHOOTCAP",
  "name": "Muthoot Capital Services Limited",
  "scrip": "511766",
- "mcap_cr": 319.74,
+ "mcap_cr": 310.04,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 59,
     "profit": 37,
-    "quality": 6
+    "quality": 16
    },
    "capped_by": null
   },
@@ -66,13 +66,13 @@
    "ebitda": 84.7,
    "pat": 8.12,
    "margin_pct": 54.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 52,
     "profit": 100,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   }
  ],
  "completeness": {
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 8,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Muthoot Capital Services Limited is a Non-Banking Financial Company (NBFC) providing vehicle finance including two-wheeler loans, new and used car loans, commercial vehicle loans, construction equipment loans, loyalty loans, and accepting fixed deposits.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Sundaram & Srinivasan",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

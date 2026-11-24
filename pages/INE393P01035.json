@@ -3,7 +3,7 @@
  "sym": "DIAMONDYD",
  "name": "Prataap Snacks Limited",
  "scrip": "540724",
- "mcap_cr": 2400.89,
+ "mcap_cr": 2409.99,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 20.59,
    "pat": 1.14,
    "margin_pct": 4.9,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 67,
     "profit": 72,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 47,
     "profit": 30,
-    "quality": 40
+    "quality": 58
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 34,
     "profit": 2,
-    "quality": 0
+    "quality": 9
    },
    "capped_by": null
   }
@@ -109,7 +109,43 @@
   "missing": [],
   "concalls_found": 3,
   "concalls_read": 3,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Prataap Snacks Limited is one of India's largest organised snacking companies, manufacturing and selling a portfolio of over 150 products and variants under the Yellow Diamond and Avadh brands across 27 states and 4 Union Territories.",
+  "segments": [
+   {
+    "name": "Rings",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Extruded Snacks",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Western Savoury Snacks",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to significant estimation involved in rebates and discounts",
+   "Risk of revenue being overstated due to pressure to achieve performance targets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

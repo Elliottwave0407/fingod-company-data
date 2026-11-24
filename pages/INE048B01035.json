@@ -3,7 +3,7 @@
  "sym": "JAGSNPHARM",
  "name": "Jagsonpal Pharmaceuticals Limited",
  "scrip": "507789",
- "mcap_cr": 1371.06,
+ "mcap_cr": 1360.82,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 58,
     "profit": 74,
-    "quality": 79
+    "quality": 74
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 51,
     "profit": 70,
-    "quality": 70
+    "quality": 63
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 50,
     "profit": 14,
-    "quality": 48
+    "quality": 12
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Jagsonpal Pharmaceuticals Limited is an Indian pharmaceutical company with over six decades of experience, focused on a differentiated operating model and well-curated therapeutic portfolio.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

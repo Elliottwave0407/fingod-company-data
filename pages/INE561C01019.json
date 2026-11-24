@@ -3,7 +3,7 @@
  "sym": "BHARATGEAR",
  "name": "Bharat Gears Limited",
  "scrip": "505688",
- "mcap_cr": 150.16,
+ "mcap_cr": 150.8,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 48,
     "profit": 28,
-    "quality": 57
+    "quality": 79
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 8.12,
    "pat": 0.15,
    "margin_pct": 3.8,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 35,
     "profit": 17,
-    "quality": 0
+    "quality": 11
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 29,
     "profit": 5,
-    "quality": 2
+    "quality": 8
    },
    "capped_by": null
   }
@@ -109,7 +109,44 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bharat Gears Limited (BGL) is a leading Indian manufacturer of precision-engineered automotive gears, sub-assemblies, and heat treatment furnaces, serving automotive, agriculture, EV, and clean mobility segments across India and 14 countries globally.",
+  "segments": [
+   {
+    "name": "Automotive Components",
+    "share_of_revenue_pct": 95
+   },
+   {
+    "name": "Gears",
+    "share_of_revenue_pct": 2
+   },
+   {
+    "name": "Furnaces",
+    "share_of_revenue_pct": 3
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly named in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Global uncertainty",
+   "Evolving industry dynamics",
+   "Validity of assumptions for forward-looking statements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

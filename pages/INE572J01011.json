@@ -3,7 +3,7 @@
  "sym": "SPANDANA",
  "name": "Spandana Sphoorty Financial Limited",
  "scrip": "542759",
- "mcap_cr": 1574.09,
+ "mcap_cr": 1559.54,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 120.61,
    "pat": 5.27,
    "margin_pct": 46.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 0,
     "profit": 100,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 132.89,
    "pat": 11.88,
    "margin_pct": 46.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 20,
     "profit": 100,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   },
@@ -80,13 +80,13 @@
    "ebitda": 164.4,
    "pat": 18.24,
    "margin_pct": 50.6,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 85,
     "profit": 100,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -109,7 +109,43 @@
   "missing": [],
   "concalls_found": 12,
   "concalls_read": 12,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Spandana Sphoorty Financial Limited is a non-banking financial company (NBFC) engaged in microfinance lending with a distribution network of 1,297 branches across 19 states and 1 union territory.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "climatic conditions",
+   "global and domestic demand supply conditions",
+   "raw materials cost",
+   "availability and prices of finished goods",
+   "foreign exchange market movements",
+   "changes in Government regulations",
+   "tax structure",
+   "economic and political developments within India",
+   "litigation and industrial relations",
+   "substantial increase in credit losses",
+   "significant management judgment in ECL estimation under Ind AS 109",
+   "data inputs for ECL model",
+   "model estimations for PD, LGD, EAD",
+   "macro-economic variables and scenario selection",
+   "post model adjustments"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

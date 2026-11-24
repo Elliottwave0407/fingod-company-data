@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 45,
     "profit": 10,
-    "quality": 70
+    "quality": 50
    },
    "capped_by": null
   },
@@ -63,11 +63,11 @@
    "ebitda": 3.06,
    "pat": 2.34,
    "margin_pct": 14.4,
-   "verdict_v3": "Blockbuster",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 93,
     "profit": 72,
-    "quality": 89
+    "quality": 82
    },
    "capped_by": null
   }
@@ -96,7 +96,9 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

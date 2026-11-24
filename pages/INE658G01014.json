@@ -3,7 +3,7 @@
  "sym": "SALSTEEL",
  "name": "S.A.L. Steel Limited",
  "scrip": "532604",
- "mcap_cr": 1307.39,
+ "mcap_cr": 1288.13,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 13.55,
    "pat": 3.09,
    "margin_pct": 15.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 0,
     "profit": 92,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,35 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "S.A.L. Steel Limited manufactures and sells Sponge Iron and Ferro Alloys directly to end-use customers.",
+  "segments": [
+   {
+    "name": "Sponge Iron & Ferro Alloys",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk - risk that revenue is recognized before control of goods is transferred",
+   "Litigations and claims pending with multiple tax authorities (Service tax, VAT, Income Tax, Excise, GST & customs) and customer claims not acknowledged as debt"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

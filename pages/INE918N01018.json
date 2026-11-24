@@ -3,7 +3,7 @@
  "sym": "VETO",
  "name": "Veto Switchgears And Cables Limited",
  "scrip": "539331",
- "mcap_cr": 254.13,
+ "mcap_cr": 253.66,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 13.26,
    "pat": 8.8,
    "margin_pct": 9.5,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 80,
     "profit": 12,
-    "quality": 60
+    "quality": 37
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 9.44,
    "pat": 5.85,
    "margin_pct": 10.6,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 87,
     "profit": 49,
-    "quality": 77
+    "quality": 78
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Veto Switchgears and Cables Limited manufactures electrical accessories, wires, cables, switchgears, LED lighting, and has diversified into modular switches, polytech products, and appliances through subsidiaries.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "SGCO & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 5,
+  "key_risks": [],
+  "dividend_per_share": 1
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

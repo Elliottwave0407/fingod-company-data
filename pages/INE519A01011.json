@@ -3,7 +3,7 @@
  "sym": "FOSECOIND",
  "name": "Foseco India Limited",
  "scrip": "500150",
- "mcap_cr": 4450.49,
+ "mcap_cr": 4463.49,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 90,
     "profit": 80,
-    "quality": 87
+    "quality": 80
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 95,
     "profit": 98,
-    "quality": 82
+    "quality": 83
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Foseco India Limited is a global leader in providing high-performance foundry consumables and innovative technologies, driving operational excellence across the foundry process.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "capital expenditure",
+    "amount_cr": 9.6296,
+    "timeline": "year ended December 31, 2025"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

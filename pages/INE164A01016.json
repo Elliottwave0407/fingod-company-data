@@ -3,7 +3,7 @@
  "sym": "BALMLAWRIE",
  "name": "Balmer Lawrie & Company Limited",
  "scrip": "523319",
- "mcap_cr": 2842.08,
+ "mcap_cr": 2792.49,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 113.93,
    "pat": 82.8,
    "margin_pct": 15.3,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 62,
     "profit": 42,
-    "quality": 59
+    "quality": 37
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 99.83,
    "pat": 70.93,
    "margin_pct": 13.3,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 51,
     "profit": 54,
-    "quality": 51
+    "quality": 34
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Balmer Lawrie & Co. Ltd. is a diversified Indian public sector enterprise engaged in manufacturing businesses (industrial packaging, greases & lubricants, leather chemicals) and service businesses (travel & logistics, logistics infrastructure, cold chain).",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Work in Progress (CWIP)",
+    "amount_cr": 34.35,
+    "timeline": "As on 31.03.2026"
+   },
+   {
+    "item": "Intangible assets under development",
+    "amount_cr": 0.1,
+    "timeline": "As on 31.03.2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. B. Chhawchharia & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Board composition non-compliance: insufficient Independent Directors and Woman Director as per Listing Regulations and DPE Guidelines",
+   "Audit Committee and other committee composition non-compliance during periods in FY 2025-26",
+   "Subsidiary Visakhapatnam Port Logistics Park Limited (VPLPL) net worth eroded by ~73% as on 31.03.2026; additional provision of \u20b91,015.25 lakhs made on investment",
+   "VPLPL facing teething problems, delayed CFS license, Covid-19 impact, and challenges in achieving expected growth",
+   "Corporate Guarantee issued to PFCL for VPLPL debt servicing; carrying value of financial guarantee obligation \u20b9695.45 lakhs as on 31.03.2026"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

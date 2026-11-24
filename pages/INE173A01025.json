@@ -3,7 +3,7 @@
  "sym": "SIL",
  "name": "Standard Industries Limited",
  "scrip": "530017",
- "mcap_cr": 95.72,
+ "mcap_cr": 95.34,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -3.95,
    "pat": -7.21,
    "margin_pct": -40.6,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 42,
+    "profit": -16,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -95,7 +99,40 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Standard Industries Limited operates in textile trading and property divisions, with a textile trading turnover of Rs 3068.34 lakhs in FY 2025-26.",
+  "segments": [
+   {
+    "name": "Trading Division",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Property Division",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "R.S. Gokani & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 12,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inflation has been a persistent challenge led by COVID period pump-priming of economies",
+   "Equities mirroring direction of trade policies from the United States, particularly after US presidential election, leading to policy uncertainty impacting global capital flows and currencies",
+   "Wars in Ukraine and Middle East having significant impacts on global energy markets, food prices and supply chains"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

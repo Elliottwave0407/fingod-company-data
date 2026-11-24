@@ -3,7 +3,7 @@
  "sym": "HESTERBIO",
  "name": "Hester Biosciences Limited",
  "scrip": "524669",
- "mcap_cr": 1984.48,
+ "mcap_cr": 1875.89,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 37.26,
    "pat": 16.55,
    "margin_pct": 37.2,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 81,
     "profit": 100,
-    "quality": 62
+    "quality": 100
    },
    "capped_by": null
   },
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hester Biosciences Limited is engaged in the sale of goods, license fees, services, and export incentives, with revenue from operations of INR 2,921.36 million for the year ended 31 March 2026.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure on property, plant and equipment, including capital advances and capital work-in-progress and on intangible assets",
+    "amount_cr": 17.324,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Chandulal M. Shah & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Carrying Value of Trade Receivables",
+   "Valuation of Inventories"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

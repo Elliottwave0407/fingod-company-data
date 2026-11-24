@@ -3,7 +3,7 @@
  "sym": "ANUP",
  "name": "The Anup Engineering Limited",
  "scrip": "542460",
- "mcap_cr": 3530.45,
+ "mcap_cr": 3329.63,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 13,
     "profit": 15,
-    "quality": 39
+    "quality": 16
    },
    "capped_by": null
   },
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 0,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Anup Engineering Limited is an Indian listed company.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Sorab S. Engineer and Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

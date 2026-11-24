@@ -3,7 +3,7 @@
  "sym": "KEYFINSERV",
  "name": "Keynote Financial Services Limited",
  "scrip": "512597",
- "mcap_cr": 115.51,
+ "mcap_cr": 115.67,
  "group": "B",
  "quarters": [
   {
@@ -66,9 +66,9 @@
    "pillars": {
     "growth": 69,
     "profit": 91,
-    "quality": 47
+    "quality": 9
    },
-   "capped_by": "profit down YoY"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -95,7 +95,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Keynote Financial Services Limited provides financial services including investment banking, merchant banking, and corporate advisory services.",
+  "segments": [
+   {
+    "name": "Investment Banking",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Merchant Banking",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Corporate Advisory",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 2.5637,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S M S R & CO LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Accuracy of recognition, measurement, presentation and disclosure of revenues and other related balances in respect of contracts involving critical estimates, as per Ind AS 115"
+  ],
+  "dividend_per_share": 1.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

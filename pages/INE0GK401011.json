@@ -3,7 +3,7 @@
  "sym": "TATVA",
  "name": "Tatva Chintan Pharma Chem Limited",
  "scrip": "543321",
- "mcap_cr": 3742.61,
+ "mcap_cr": 3724.37,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 28.14,
    "pat": 10.32,
    "margin_pct": 21.0,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 83,
     "profit": 97,
-    "quality": 56
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 93,
     "profit": 83,
-    "quality": 68
+    "quality": 93
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   },
   {
    "q": "Sep-26",
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 54,
-    "quality": 69
+    "quality": 81
    },
    "capped_by": null
   }
@@ -109,7 +109,43 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-07-21"
+  "latest_concall": "2026-07-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Tatva Chintan Pharma Chem Limited is a leading integrated specialty chemicals manufacturer with capabilities across niche chemistries, serving demanding global applications through specialized chemistry and innovation at scale.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure on property, plant and equipment and capital work in progress",
+    "amount_cr": null,
+    "timeline": "year ended 31 March 2026"
+   },
+   {
+    "item": "New production block",
+    "amount_cr": null,
+    "timeline": "upcoming"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 793,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Forward-looking statements may differ materially from actual results due to assumptions and expectations of future events",
+   "Significant capital expenditure requires judgement in assessing capitalization criteria per Ind AS 16",
+   "Judgement involved in determining eligibility of costs including borrowing costs for capitalization",
+   "Assessment of recoverability of deferred tax assets requires significant management judgement regarding future taxable profitability"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

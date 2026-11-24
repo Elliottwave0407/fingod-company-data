@@ -3,7 +3,7 @@
  "sym": "PARKHOTELS",
  "name": "Apeejay Surrendra Park Hotels Limited",
  "scrip": "544111",
- "mcap_cr": 2172.79,
+ "mcap_cr": 2187.09,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 36,
     "profit": 43,
-    "quality": 7
+    "quality": 14
    },
    "capped_by": null
   }
@@ -97,9 +97,62 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 10,
-  "concalls_read": 10,
-  "latest_concall": "2026-08-21"
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-24",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The company owns, operates, and manages hotels under brands The Park, The Park Collection, Zone by the Park, Zone Connect by the Park, and Stop by Zone, alongside the F&B brand Flurys.",
+  "segments": [
+   {
+    "name": "Hotel Operations",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Food & Beverages (Flurys)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Keys added in FY 2025-26",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Key additions targeted for FY 2026-27",
+    "amount_cr": null,
+    "timeline": "FY 2026-27"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "472 key additions targeted for FY 2026-27",
+    "metric": "Key additions",
+    "value": "472",
+    "by_when": "FY 2026-27"
+   },
+   {
+    "statement": "200 Flurys stores targeted by 2028",
+    "metric": "Flurys stores",
+    "value": "200",
+    "by_when": "2028"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "CL & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 6,
+  "key_risks": [],
+  "dividend_per_share": 0.75
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "IMAGICAA",
  "name": "Imagicaaworld Entertainment Limited",
  "scrip": "539056",
- "mcap_cr": 2371.52,
+ "mcap_cr": 2351.48,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 64,
     "profit": 78,
-    "quality": 65
+    "quality": 72
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-08-17"
+  "latest_concall": "2026-08-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Imagicaaworld Entertainment Limited operates India's first and only international standard entertainment holiday destination 'IMAGICAA', which includes a theme park, water park, snow park, and a luxury hotel (Novotel Imagicaa Khopoli).",
+  "segments": [
+   {
+    "name": "Theme Park",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Water Park",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Snow Park",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Luxury Hotel (Novotel Imagicaa Khopoli)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

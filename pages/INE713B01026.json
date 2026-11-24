@@ -3,7 +3,7 @@
  "sym": "SURYALAXMI",
  "name": "Suryalakshmi Cotton Mills Limited",
  "scrip": "521200",
- "mcap_cr": 102.32,
+ "mcap_cr": 98.52,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 12.32,
    "pat": 0.83,
    "margin_pct": 5.1,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 15,
     "profit": 23,
-    "quality": 0
+    "quality": 12
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 43,
     "profit": 52,
-    "quality": 50
+    "quality": 73
    },
    "capped_by": null
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Suryalakshmi Cotton Mills Limited is engaged in the manufacturing of cotton yarn, denim fabric, and related textile products.",
+  "segments": [
+   {
+    "name": "Yarn Division",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Denim Division",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Brahmayya & Co, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 60.93,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Trend Related Risks",
+   "Raw Material Risks",
+   "Brand / Technology Risks",
+   "Operational Quality Risks",
+   "Human Resources Risks",
+   "Regulatory Risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KRYSTAL",
  "name": "Krystal Integrated Services Limited",
  "scrip": "544149",
- "mcap_cr": 813.17,
+ "mcap_cr": 820.85,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 16,
     "profit": 38,
-    "quality": 63
+    "quality": 49
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 41,
     "profit": 34,
-    "quality": 56
+    "quality": 36
    },
    "capped_by": null
   }
@@ -99,7 +99,61 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Krystal Integrated Services Limited is one of India's leading integrated facility management service providers, delivering comprehensive services including facility management, manpower and staffing, private security, catering, waste management, and technical facility management across critical infrastructure such as airports, hospitals, metros, government institutions, and commercial establishments.",
+  "segments": [
+   {
+    "name": "Facility Management Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Manpower & Staffing Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Private Security & Manned Guarding",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Catering Services (via Krystal Gourmet Pvt Ltd)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Waste Management",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Technical Facility Management",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Residential Services (via Task Master)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 41676,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition timing and accuracy risk due to contract-based invoicing and unbilled revenue",
+   "Dependence on large customers for significant revenue",
+   "Contract cost overruns vis-\u00e0-vis revenue recognition",
+   "Credit risk from customer acceptances and reversals"
+  ],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

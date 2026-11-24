@@ -3,7 +3,7 @@
  "sym": "JKIL",
  "name": "J.Kumar Infraprojects Limited",
  "scrip": "532940",
- "mcap_cr": 3472.67,
+ "mcap_cr": 3466.99,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 22,
     "profit": 41,
-    "quality": 27
+    "quality": 31
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 214.59,
    "pat": 97.42,
    "margin_pct": 14.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 26,
     "profit": 39,
-    "quality": 23
+    "quality": 27
    },
    "capped_by": null
   }
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 12,
   "concalls_read": 9,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "J. Kumar Infraprojects Limited is an EPC company specializing in complex urban infrastructure projects such as underground and elevated metros, flyovers, bridges, expressways, road tunnels, riverfronts, and water systems.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Evaluation of uncertain tax positions involving significant judgment to determine possible outcomes of disputes."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Uncertain tax positions involving significant judgment and disputes",
+   "Project execution risks in complex urban infrastructure",
+   "Dependence on consortium-based financing arrangements",
+   "Foreign exchange outgo exposure (Rs 180.84 crore)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "FIBERWEB",
  "name": "Fiberweb (India) Limited",
  "scrip": "507910",
- "mcap_cr": 73.13,
+ "mcap_cr": 72.3,
  "group": "B",
  "quarters": [
   {
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 56,
     "profit": 8,
-    "quality": 10
+    "quality": 0
    },
    "capped_by": null
   }
@@ -109,7 +109,45 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Fiberweb (India) Ltd. is a prominent player in the nonwoven fabric industry, producing spun bond nonwoven fabrics and melt-blown nonwoven fabrics, serving global markets including the USA, Europe, and Australia.",
+  "segments": [
+   {
+    "name": "Nonwoven Fabrics (Spunbond & Melt-blown)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Spunbond Manufacturing Capacity",
+    "amount_cr": null,
+    "timeline": "5,000 MTPA"
+   },
+   {
+    "item": "Melt Blown Manufacturing Capacity",
+    "amount_cr": null,
+    "timeline": "3,000 MTPA"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to risks, uncertainties, and inaccurate assumptions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "TVTODAY",
  "name": "TV Today Network Limited",
  "scrip": "532515",
- "mcap_cr": 614.53,
+ "mcap_cr": 598.42,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 57,
     "profit": 52,
-    "quality": 76
+    "quality": 61
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 66,
     "profit": 75,
-    "quality": 57
+    "quality": 56
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -99,7 +99,53 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "T.V. Today Network Limited operates in the media and entertainment sector, running news television channels, digital news platforms, radio broadcasting, and other media properties including India Today, Aaj Tak, Business Today, and The Lallantop.",
+  "segments": [
+   {
+    "name": "Television Broadcasting",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Digital Media",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Radio Broadcasting",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Events and Other Media Operations",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Changes in economic conditions",
+   "Government policies",
+   "Technology changes",
+   "Exposure to market risks",
+   "AI-generated search summaries and standalone AI applications reshaping audience discovery",
+   "Decline in online news platform reach",
+   "Geopolitical instability",
+   "Energy market disruptions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

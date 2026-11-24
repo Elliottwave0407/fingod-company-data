@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 42,
     "profit": 30,
-    "quality": 14
+    "quality": 7
    },
    "capped_by": null
   }
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Modi Rubber Limited is a company that previously operated in multiple jurisdictions but has had its operations closed since August 2001 due to illegal strikes, and is now pursuing a joint venture in the salon and beauty business under the Marco Aldany brand while also seeking to amend its object clause to include health, beauty, and wellness services.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "P N A M & CO. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Evaluation of contingencies & uncertain tax positions",
+   "Prior to closure of operations by illegal strikes of the workers in August 2001, the Company operated in multiple jurisdictions and subjected to periodic challenges by local tax authorities, income tax authorities, labour law authorities & other statutory authorities on a range of various tax & other matters during the normal course of business."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

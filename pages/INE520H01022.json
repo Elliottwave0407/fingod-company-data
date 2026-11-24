@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 52,
     "profit": 67,
-    "quality": 81
+    "quality": 92
    },
    "capped_by": "revenue down YoY"
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 24,
     "profit": 10,
-    "quality": 23
+    "quality": 15
    },
    "capped_by": null
   }
@@ -96,7 +96,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Beardsell Limited is an Indian listed company with registered office in Chennai, engaged in business activities as per its CIN L65991TN1936PLC001428.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "G Balu Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 0.1
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

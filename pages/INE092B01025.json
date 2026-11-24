@@ -3,7 +3,7 @@
  "sym": "INDNIPPON",
  "name": "India Nippon Electricals Limited",
  "scrip": "532240",
- "mcap_cr": 2626.57,
+ "mcap_cr": 2591.06,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 85,
     "profit": 94,
-    "quality": 84
+    "quality": 76
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 83,
     "profit": 44,
-    "quality": 72
+    "quality": 37
    },
    "capped_by": null
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "India Nippon Electricals Limited manufactures ignition systems, integrated starter generators (ISG), DC-DC converters, advanced sensors, controllers, and other electronic components for the automotive industry, primarily two-wheeler and three-wheeler segments.",
+  "segments": [
+   {
+    "name": "Automotive Electrical/Electronic Components",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure (R&D)",
+    "amount_cr": 3.41,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Estimated capital contracts remaining",
+    "amount_cr": 26.35,
+    "timeline": "As at 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Fair Valuation of unquoted equity investments (carrying value Rs. 26,412 lakhs) due to inherent subjectivity and dependence on unobservable estimates."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "High dependence on estimates and unobservable inputs for fair valuation of unquoted equity investments (Rs. 26,412 lakhs)",
+   "Contingent liabilities from disputed tax demands (Income tax: Rs. 1,490 lakhs, GST: Rs. 130 lakhs, Service tax: Rs. 3 lakhs)",
+   "Transition risk from legacy ICE platforms to advanced electronics and emerging mobility solutions",
+   "Execution risk in calibrated diversification strategy and technology investments"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

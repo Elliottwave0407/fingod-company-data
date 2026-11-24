@@ -3,7 +3,7 @@
  "sym": "CENTENKA",
  "name": "Century Enka Limited",
  "scrip": "500280",
- "mcap_cr": 1009.5,
+ "mcap_cr": 993.76,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 70,
     "profit": 89,
-    "quality": 82
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 91,
     "profit": 92,
-    "quality": 85
+    "quality": 100
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 56,
     "profit": 17,
-    "quality": 27
+    "quality": 11
    },
    "capped_by": null
   }
@@ -109,7 +109,38 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-31"
+  "latest_concall": "2026-10-31",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Century Enka Limited manufactures nylon tyre cord fabric, nylon filament yarn, and polyester filament yarn at its plants in Pune (Maharashtra) and Bharuch (Gujarat).",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital investments on energy conservation equipment",
+    "amount_cr": 12.2432,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note 45(b) regarding Excise department demand of Rs 22,927 lacs (2013), CESTAT order (2019), Commissioner re-determination to Rs 730 lacs (2020), Department appeal pending at Supreme Court, Company appeal pending, Rs 730 lacs deposited under protest, no provision considered necessary based on legal advice."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Excise duty demand contingency (Rs 730 lacs confirmed, appeal pending at Supreme Court)",
+   "Foreign currency exposure on imports (caprolactam, no hedging available for main raw material)",
+   "Commodity price risk on caprolactam (main raw material, no hedging facility available)",
+   "Energy cost volatility (mitigated by conservation measures and biomass heaters)"
+  ],
+  "dividend_per_share": 11
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

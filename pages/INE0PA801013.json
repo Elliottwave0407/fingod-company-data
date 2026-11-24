@@ -3,7 +3,7 @@
  "sym": "GHCLTEXTIL",
  "name": "Ghcl Textiles Limited",
  "scrip": "543918",
- "mcap_cr": 1376.44,
+ "mcap_cr": 1379.3,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 75,
     "profit": 46,
-    "quality": 81
+    "quality": 86
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 97,
     "profit": 94,
-    "quality": 72
+    "quality": 98
    },
    "capped_by": null
   }
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GHCL Textiles Limited is engaged in the manufacturing and sale of textiles, including cotton yarn and home textiles, with operations at Madurai and Manaparai units in Tamil Nadu.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Commodity price risk (cotton exposure of \u20b9806.27 crore with no hedging through derivatives)",
+   "Foreign exchange risk on import/export exposures"
+  ],
+  "dividend_per_share": 0.6
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

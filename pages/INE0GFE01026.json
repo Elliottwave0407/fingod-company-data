@@ -3,7 +3,7 @@
  "sym": "EXXARO",
  "name": "Exxaro Tiles Limited",
  "scrip": "543327",
- "mcap_cr": 273.37,
+ "mcap_cr": 272.92,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 62,
     "profit": 26,
-    "quality": 50
+    "quality": 77
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 91,
     "profit": 23,
-    "quality": 54
+    "quality": 76
    },
    "capped_by": null
   }
@@ -109,7 +109,29 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Exxaro Tiles Limited is engaged in the manufacturing and sale of tiles.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "H. B. Kalaria & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter: The Company has committed to invest 100% of the paid-up share capital in a UAE-registered entity, which will subsequently be recognized as a wholly-owned subsidiary."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inventory existence and valuation"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

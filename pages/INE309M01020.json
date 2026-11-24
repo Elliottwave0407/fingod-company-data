@@ -3,7 +3,7 @@
  "sym": "PREMIERPOL",
  "name": "Premier Polyfilm Limited",
  "scrip": "514354",
- "mcap_cr": 866.53,
+ "mcap_cr": 842.65,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 65,
     "profit": 73,
-    "quality": 78
+    "quality": 83
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 82,
     "profit": 49,
-    "quality": 80
+    "quality": 73
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 70,
     "profit": 20,
-    "quality": 68
+    "quality": 44
    },
    "capped_by": null
   }
@@ -109,7 +109,49 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The company is engaged in the manufacture of vinyl flooring, sheeting and artificial leather cloth.",
+  "segments": [
+   {
+    "name": "Vinyl flooring, sheeting and artificial leather cloth",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Unit II at Sikandrabad Industrial Area for Soft Touch Cushion type Artificial PVC Leather cloth, PVC Sheeting's and Films, Knitted Fabric",
+    "amount_cr": null,
+    "timeline": "Commercial production commenced"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Expected to perform well in the current financial year barring unforeseen circumstances",
+    "metric": "Overall performance",
+    "value": "Improve profitability",
+    "by_when": "Current financial year"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s A D V And Co LLP, Chartered Accountants (Firm's Registration No. 003467N/N500463)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Ongoing GST dispute regarding tax classification and applicable rate on one product (FY 2017-18 to 17.06.2022). Appellate Authority partially allowed appeal: Section 74 invocation set aside, classification under HSN 3921 (18% GST) upheld, demand restricted to FY 2020-21, 2021-22, 2022-23 (till 17.06.2022) at \u20b998.58 Lakhs plus interest and penalty. Company intends to appeal to GSTAT; demand treated as contingent liability, no provision made. \u20b918.30 Lakhs deposited as pre-deposit."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Availability of imported finished goods at cheaper rates due to dumping by foreign companies may adversely affect profitability",
+   "PVC resin supply disruption risk: demand increasing but supply inadequate; few manufacturers for certain grades; any disruption may adversely affect operations",
+   "GST classification dispute with tax authorities (contingent liability of \u20b998.58 Lakhs plus interest and penalty)"
+  ],
+  "dividend_per_share": 0.15
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

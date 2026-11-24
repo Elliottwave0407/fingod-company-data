@@ -3,7 +3,7 @@
  "sym": "BHANDARI",
  "name": "Bhandari Hosiery Exports Limited",
  "scrip": "512608",
- "mcap_cr": 86.9,
+ "mcap_cr": 86.57,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 6.99,
    "pat": 1.89,
    "margin_pct": 7.8,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 23,
     "profit": 32,
-    "quality": 1
+    "quality": 15
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 14,
     "profit": 57,
-    "quality": 4
+    "quality": 24
    },
    "capped_by": null
   }
@@ -99,7 +99,52 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bhandari Hosiery Exports Limited is a fully integrated manufacturer of knitted fabrics and garments, offering design, fabric dyeing, printing, and garment stitching for women's, men's, and kids' wear.",
+  "segments": [
+   {
+    "name": "Fabrics",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Garments",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Fabric Dyeing",
+    "amount_cr": null,
+    "timeline": "15 tons per day"
+   },
+   {
+    "item": "Rotary Fabric Printing",
+    "amount_cr": null,
+    "timeline": "6 tons per day"
+   },
+   {
+    "item": "Garments Stitching & Finishing",
+    "amount_cr": null,
+    "timeline": "10,000 pieces per day"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/S Raj Gupta & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "AKSHAR",
  "name": "Akshar Spintex Limited",
  "scrip": "541303",
- "mcap_cr": 35.44,
+ "mcap_cr": 34.65,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 46,
     "profit": 83,
-    "quality": 0
+    "quality": 58
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 2.19,
    "pat": 0.6,
    "margin_pct": 7.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 50,
     "profit": 86,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   },
@@ -80,13 +80,13 @@
    "ebitda": 1.93,
    "pat": 0.3,
    "margin_pct": 5.4,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 84,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -109,7 +109,37 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Akshar Spintex Limited is engaged in the manufacturing and trading of cotton yarn and related textile products.",
+  "segments": [
+   {
+    "name": "Textile - Cotton Yarn",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "H. B. Kalaria & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on trade receivables, trade payables and other balances being subject to confirmation and reconciliation; Key Audit Matter on inventory existence and valuation due to non-physical verification by management."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Non-physical verification of inventory by management leading to risk of material misstatement in existence and valuation",
+   "Outstanding statutory dues including professional tax unpaid for more than six months",
+   "Disputed income tax demand of Rs. 119.16 lakhs for A.Y. 2018-19 pending before Commissioner of Income Tax (Appeals)",
+   "Trade receivables, trade payables and other balances subject to confirmation and reconciliation"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

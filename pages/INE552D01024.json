@@ -3,7 +3,7 @@
  "sym": "CONFIPET",
  "name": "Confidence Petroleum India Limited",
  "scrip": "526829",
- "mcap_cr": 2226.01,
+ "mcap_cr": 2144.95,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 95.31,
    "pat": 34.39,
    "margin_pct": 7.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 55,
     "profit": 18,
-    "quality": 39
+    "quality": 53
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 21,
-    "quality": 61
+    "quality": 75
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-08-27"
+  "latest_concall": "2026-08-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Confidence Petroleum India Limited operates in the LPG value chain including bulk LPG supply, packed cylinder distribution, bottling, logistics, and related infrastructure for household, commercial, industrial, and automotive segments.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Singhi & Co., Mumbai and M/s. Katariya and Munot, Pune",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 4000,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical developments creating volatility in global energy markets",
+   "Supply constraints and market volatility in LPG industry",
+   "Changes in economic conditions, demand and supply dynamics",
+   "Government policies and regulations, taxation",
+   "Natural calamities, geopolitical developments and other unforeseen events"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

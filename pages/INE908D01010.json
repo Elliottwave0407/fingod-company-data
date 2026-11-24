@@ -3,7 +3,7 @@
  "sym": "SHAKTIPUMP",
  "name": "Shakti Pumps (India) Limited",
  "scrip": "531431",
- "mcap_cr": 4421.97,
+ "mcap_cr": 4425.67,
  "group": "A",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 83.15,
    "pat": 38.33,
    "margin_pct": 9.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 36,
     "profit": 8,
-    "quality": 13
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 82.86,
    "pat": 51.59,
    "margin_pct": 9.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 41,
     "profit": 8,
-    "quality": 27
+    "quality": 0
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 64.03,
    "pat": 38.51,
    "margin_pct": 8.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 23,
     "profit": 7,
-    "quality": 25
+    "quality": 0
    },
    "capped_by": null
   }
@@ -109,7 +109,48 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 4,
-  "latest_concall": "2026-10-31"
+  "latest_concall": "2026-10-31",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shakti Pumps (India) Limited manufactures and supplies solar water pumps, providing sustainable water solutions with a focus on solar energy, and holds an estimated 25% market share under the PM-KUSUM Scheme.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work in progress (Standalone)",
+    "amount_cr": 3.37,
+    "timeline": "As at March 31, 2026"
+   },
+   {
+    "item": "Right-of-use assets additions - Leasehold land (Standalone)",
+    "amount_cr": 18.35,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital work in progress (Consolidated)",
+    "amount_cr": 12.09,
+    "timeline": "As at March 31, 2026"
+   },
+   {
+    "item": "Right-of-use assets additions - Leasehold land (Consolidated)",
+    "amount_cr": 37.44,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 1
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

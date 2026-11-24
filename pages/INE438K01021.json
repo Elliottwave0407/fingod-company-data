@@ -3,7 +3,7 @@
  "sym": "KALAMANDIR",
  "name": "Sai Silks (Kalamandir) Limited",
  "scrip": "543989",
- "mcap_cr": 1355.3,
+ "mcap_cr": 1372.32,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 61.22,
    "pat": 32.64,
    "margin_pct": 14.6,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 33,
     "profit": 43,
-    "quality": 69
+    "quality": 97
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 21,
     "profit": 30,
-    "quality": 23
+    "quality": 19
    },
    "capped_by": null
   }
@@ -99,7 +99,49 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sai Silks Kalamandir Limited operates as a multi-brand ethnic wear retailer in South India with a portfolio of five distinct brands (Kalamandir, Mandir, Varamahalakshmi Silks, Valli Silks, and KLM Fashion Mall) across 81 stores following a Company-Owned Company-Operated (COCO) model.",
+  "segments": [
+   {
+    "name": "Ethnic wear retail",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Store expansion - 14 new stores opened in FY 2025-26",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "We expect the trend to continue in the ensuing years and reward our stakeholders in a better manner",
+    "metric": "Business performance trend",
+    "value": "Continue growth trajectory",
+    "by_when": "Ensuing years"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note no. 38,39 regarding trade receivables and trade payables subject to confirmation/reconciliation and consequential adjustment"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inventory obsolescence risk due to long holding periods",
+   "Trade receivables and payables subject to confirmation/reconciliation",
+   "Dependence on South India market concentration"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

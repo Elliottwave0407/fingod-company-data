@@ -3,7 +3,7 @@
  "sym": "DCW",
  "name": "DCW Limited",
  "scrip": "500117",
- "mcap_cr": 1378.96,
+ "mcap_cr": 1340.0,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 50,
     "profit": 43,
-    "quality": 50
+    "quality": 75
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 25,
     "profit": 5,
-    "quality": 80
+    "quality": 75
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 47.45,
    "pat": 10.36,
    "margin_pct": 7.2,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 37,
     "profit": 6,
-    "quality": 2
+    "quality": 12
    },
    "capped_by": null
   }
@@ -109,7 +109,52 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "DCW Limited is an integrated chemical company with capabilities spanning Basic Chemicals, Specialty Chemicals and chemical intermediates, operating two integrated manufacturing facilities in Dhrangadhra, Gujarat, and Sahupuram, Tamil Nadu.",
+  "segments": [
+   {
+    "name": "Basic Chemicals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Specialty Chemicals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Chemical Intermediates",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 93.12,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "V. SANKAR AIYAR & CO.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Estimation of Provision & Contingent Liabilities",
+   "Deferred Tax recognition and measurement",
+   "Liquidity risk",
+   "Credit risk",
+   "Market risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

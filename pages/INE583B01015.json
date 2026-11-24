@@ -3,7 +3,7 @@
  "sym": "SANDESH",
  "name": "The Sandesh Limited",
  "scrip": "526725",
- "mcap_cr": 742.56,
+ "mcap_cr": 728.94,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 68,
     "profit": 3,
-    "quality": 80
+    "quality": 40
    },
    "capped_by": null
   }
@@ -99,7 +99,45 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Sandesh Limited is a media company engaged in newspaper publishing and advertisement revenue generation, with a subsidiary in digital media.",
+  "segments": [
+   {
+    "name": "Print Media / Newspaper Publishing",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Digital Media (via subsidiary Sandesh Digital Private Limited)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 5.9539,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Manubhai & Shah LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Accuracy of recognition, measurement, presentation, and disclosures of advertisement revenue due to complex pricing terms, large number of parties and transactions, and non-standardized pricing on other platforms",
+   "Valuation of investments (other than subsidiary and amortized cost) in equity shares and mutual fund units"
+  ],
+  "dividend_per_share": 5.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

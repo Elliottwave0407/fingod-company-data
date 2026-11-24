@@ -3,7 +3,7 @@
  "sym": "HONDAPOWER",
  "name": "Honda India Power Products Limited",
  "scrip": "522064",
- "mcap_cr": 1944.5,
+ "mcap_cr": 1917.68,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 31.81,
    "pat": 26.92,
    "margin_pct": 12.0,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 13,
     "profit": 10,
-    "quality": 47
+    "quality": 2
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 81,
     "profit": 60,
-    "quality": 53
+    "quality": 37
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Honda India Power Products Limited manufactures and sells portable gensets, water pumps, general purpose engines, lawn mowers, brush cutters, and tillers.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Property, plant and equipment and intangible assets",
+    "amount_cr": 8.08,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Company plans to achieve a further 2.5% reduction in CO2 emissions",
+    "metric": "CO2 emissions reduction",
+    "value": "2.5%",
+    "by_when": "Financial year 2026-27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to significant related party transactions and pressure to meet expectations",
+   "Increase in material cost impacting profitability",
+   "Exceptional items affecting net profit"
+  ],
+  "dividend_per_share": 126.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

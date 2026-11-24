@@ -3,7 +3,7 @@
  "sym": "PSPPROJECT",
  "name": "PSP Projects Limited",
  "scrip": "540544",
- "mcap_cr": 3113.47,
+ "mcap_cr": 3053.21,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 42,
-    "quality": 54
+    "quality": 76
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 53,
-    "quality": 53
+    "quality": 83
    },
    "capped_by": null
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 12,
   "concalls_read": 12,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "PSP Projects Limited is a construction company specializing in end-to-end construction services including MEP and interior fit-outs, delivering turnkey solutions across industrial, institutional, government, and residential segments.",
+  "segments": [
+   {
+    "name": "Industrial",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Institutional",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Government",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Residential",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Chirag Shah & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 34.41,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition involves significant accounting judgements including estimation of costs to complete, determining the stage of completion and timing of revenue recognition",
+   "Estimation of total revenue and total cost to complete contracts is inherently subjective, complex and requires significant management judgment",
+   "Forecast of contract revenue and/or contract cost may get subsequently changed due to change in prevailing circumstances, assumptions, contract variations or any other factor"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

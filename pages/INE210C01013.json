@@ -3,7 +3,7 @@
  "sym": "AROGRANITE",
  "name": "Aro Granite Industries Limited",
  "scrip": "513729",
- "mcap_cr": 35.8,
+ "mcap_cr": 34.07,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aro Granite Industries Limited is engaged in the natural stone industry, manufacturing and exporting granite products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Trade policy changes and tariff structures in largest export market",
+   "Geopolitical conflicts affecting raw material costs",
+   "Uncertainty in tax positions leading to provisions and contingent liabilities",
+   "Related party transactions completeness and disclosure risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

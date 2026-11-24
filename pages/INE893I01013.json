@@ -3,7 +3,7 @@
  "sym": "VASCONEQ",
  "name": "Vascon Engineers Limited",
  "scrip": "533156",
- "mcap_cr": 696.94,
+ "mcap_cr": 690.23,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 3,
-    "quality": 16
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 0,
     "profit": 6,
-    "quality": 7
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,39 @@
   ],
   "concalls_found": 11,
   "concalls_read": 6,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vascon Engineers Limited is an Indian engineering, construction and real estate company with expertise across residential, commercial, industrial, IT parks, hospitality, retail, education, healthcare and public infrastructure sectors.",
+  "segments": [
+   {
+    "name": "EPC (Engineering, Procurement and Construction)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Real Estate Development",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": 2717,
+  "auditor": {
+   "name": "Sharp & Tannan Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on divestment of stake in Vascon Developer LLP (Note 45)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition involves significant judgements on distinct performance obligations, contract cost estimation, and total cost of completion across diverse contracts",
+   "Changes in cost estimates could lead to variances in revenue and profit/loss recognised"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

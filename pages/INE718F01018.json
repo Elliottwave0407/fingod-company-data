@@ -3,7 +3,7 @@
  "sym": "CSLFINANCE",
  "name": "CSL Finance Limited",
  "scrip": "530067",
- "mcap_cr": 539.61,
+ "mcap_cr": 524.11,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 63,
     "profit": 60,
-    "quality": 20
+    "quality": 14
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 53.6,
    "pat": 22.15,
    "margin_pct": 76.6,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 55,
     "profit": 41,
-    "quality": 25
+    "quality": 16
    },
    "capped_by": null
   }
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "CSL Finance Limited is a non-banking financial company (NBFC) providing wholesale loans and SME retail loans across 7 states in India.",
+  "segments": [
+   {
+    "name": "Wholesale Loans",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "SME Loans - Retail",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.P. Chopra & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 469,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Computation of impairment losses on loan assets involves significant management judgement and modelling assumptions",
+   "Asset quality and credit risk in SME portfolio with Stage 2 and Stage 3 assets",
+   "Concentration risk in wholesale loans (single stage portfolio)",
+   "Dependence on wholesale funding from banks and financial institutions",
+   "Interest rate risk on borrowings (7.98% to 12.75% per annum)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KALYANIFRG",
  "name": "Kalyani Forge Limited",
  "scrip": "513509",
- "mcap_cr": 297.08,
+ "mcap_cr": 300.08,
  "group": "T",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 29,
     "profit": 52,
-    "quality": 98
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 66,
     "profit": 93,
-    "quality": 60
+    "quality": 97
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kalyani Forge Limited is an Indian company engaged in forging and manufacturing of engineered components, likely for automotive and industrial sectors.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "PPE",
+    "amount_cr": 86.5,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "CWIP",
+    "amount_cr": 10.3,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": 169,
+  "auditor": {
+   "name": "",
+   "opinion": "disclaimer",
+   "emphasis_or_qualification": "Disclaimer of Opinion due to inability to obtain sufficient appropriate audit evidence; auditor unable to determine if adequate internal financial controls exist; unable to verify if proper books of account maintained; unable to confirm financial statements compliance with accounting standards."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 1000,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Disclaimer of opinion by auditor on financial statements",
+   "Inadequate internal financial controls documentation",
+   "Uncertainty over going concern assumption",
+   "Possible non-compliance with accounting standards and regulatory requirements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "EMMBI",
  "name": "Emmbi Industries Limited",
  "scrip": "533161",
- "mcap_cr": 141.61,
+ "mcap_cr": 143.15,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 10.77,
    "pat": 2.43,
    "margin_pct": 9.2,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 41,
     "profit": 40,
-    "quality": 50
+    "quality": 74
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 42,
     "profit": 37,
-    "quality": 48
+    "quality": 71
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 12.44,
    "pat": 2.51,
    "margin_pct": 9.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 40,
     "profit": 34,
-    "quality": 7
+    "quality": 24
    },
    "capped_by": null
   }
@@ -109,7 +109,58 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Emmbi Industries Limited manufactures woven polymer products including Flexible Intermediate Bulk Containers (FIBC), PWS-based packaging, mulch film, leno bags, water storage tanks, and drip irrigation solutions for industrial, agricultural, and consumer markets across 70+ countries.",
+  "segments": [
+   {
+    "name": "B2B - International",
+    "share_of_revenue_pct": 64.4
+   },
+   {
+    "name": "B2B - Domestic Business",
+    "share_of_revenue_pct": 35.6
+   },
+   {
+    "name": "B2C (Avana)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Cumulative annual capacity",
+    "amount_cr": null,
+    "timeline": "31032 MTPA"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Avana Drip - a newly introduced irrigation vertical within the Avana portfolio - to be a meaningful incremental contributor to revenue in FY 2026-27",
+    "metric": "Revenue contribution",
+    "value": "meaningful incremental contributor",
+    "by_when": "FY 2026-27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition timing and measurement complexities under Ind AS 115",
+   "Domestic market price elasticity and competitive pricing pressure",
+   "Dependence on export markets for higher margin growth",
+   "Inventory optimization and deferred order placements by industrial customers"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

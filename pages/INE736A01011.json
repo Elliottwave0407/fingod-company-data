@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 46,
     "profit": 20,
-    "quality": 36
+    "quality": 4
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 41,
     "profit": 20,
-    "quality": 72
+    "quality": 49
    },
    "capped_by": null
   },
@@ -81,9 +81,9 @@
    "pillars": {
     "growth": 68,
     "profit": 74,
-    "quality": 71
+    "quality": 53
    },
-   "capped_by": "profit growth under 25%"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -106,7 +106,27 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-08-07"
+  "latest_concall": "2026-08-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Central Depository Services (India) Limited operates as a securities depository in India.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s S.R. Batliboi & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

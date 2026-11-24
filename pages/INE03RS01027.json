@@ -3,7 +3,7 @@
  "sym": "DRCSYSTEMS",
  "name": "DRC Systems India Limited",
  "scrip": "543268",
- "mcap_cr": 151.72,
+ "mcap_cr": 158.2,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 89,
     "profit": 20,
-    "quality": 73
+    "quality": 38
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 48,
     "profit": 20,
-    "quality": 82
+    "quality": 55
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 20,
     "profit": 59,
-    "quality": 44
+    "quality": 36
    },
    "capped_by": null
   }
@@ -109,7 +109,9 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "GREENPANEL",
  "name": "Greenpanel Industries Limited",
  "scrip": "542857",
- "mcap_cr": 1858.42,
+ "mcap_cr": 1908.08,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 29.89,
    "pat": 1.23,
    "margin_pct": 8.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 36,
     "profit": 87,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   }
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 17,
   "concalls_read": 11,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Greenpanel Industries Limited manufactures and sells wood panel products including plywood, MDF, and decorative veneers.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Foreign currency exchange rate risk (EUR/USD exposure on borrowings, trade payables, receivables)",
+   "Interest rate risk on floating rate borrowings",
+   "Revenue recognition estimation risk due to variable consideration (rebates, discounts, returns)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "AMJLAND",
  "name": "Amj Land Holdings Limited",
  "scrip": "500343",
- "mcap_cr": 142.31,
+ "mcap_cr": 138.17,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 6.86,
    "pat": 5.42,
    "margin_pct": 44.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 0,
     "profit": 20,
-    "quality": 41
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 15,
     "profit": 17,
-    "quality": 48
+    "quality": 14
    },
    "capped_by": null
   },
@@ -80,13 +80,13 @@
    "ebitda": 5.04,
    "pat": 5.14,
    "margin_pct": 29.1,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 99,
     "profit": 74,
-    "quality": 66
+    "quality": 16
    },
-   "capped_by": "profit growth under 25%"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -109,7 +109,9 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

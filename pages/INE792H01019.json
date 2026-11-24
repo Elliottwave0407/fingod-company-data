@@ -3,7 +3,7 @@
  "sym": "GLOBALVECT",
  "name": "Global Vectra Helicorp Limited",
  "scrip": "532773",
- "mcap_cr": 172.9,
+ "mcap_cr": 171.43,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 46,
     "profit": 56,
-    "quality": 0
+    "quality": 16
    },
    "capped_by": "net loss"
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Global Vectra Helicorp Limited operates helicopters for offshore oil and gas transportation, charter services, and other aviation services.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Right of Use Assets - Helicopters additions",
+    "amount_cr": 212.17,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Property, Plant and Equipment additions",
+    "amount_cr": 16.19,
+    "timeline": "FY2025"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material Uncertainty related to Going Concern - net loss after taxes of \u20b93,228.84 lakhs, net worth of (\u20b9810.31) lakhs, current liabilities exceeded current assets by \u20b927,576.95 lakhs as at March 31, 2026"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Going concern uncertainty due to accumulated losses and negative net worth",
+   "Aircraft maintenance obligations with complex estimates and management judgement",
+   "High current liabilities exceeding current assets",
+   "Dependence on lease arrangements for helicopter fleet"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

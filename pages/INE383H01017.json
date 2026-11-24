@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 74,
     "profit": 69,
-    "quality": 0
+    "quality": 37
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,13 +66,13 @@
    "ebitda": 5.75,
    "pat": 1.28,
    "margin_pct": 4.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 74,
     "profit": 84,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Sep-26",
@@ -80,13 +80,13 @@
    "ebitda": 6.7,
    "pat": 2.49,
    "margin_pct": 5.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 85,
-    "quality": 12
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -109,7 +109,33 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Malu Paper Mills Limited is engaged in the manufacturing of paper and paper products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Demble Ramani & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on net loss of \u20b92,157.00 lakhs and negative net worth of \u20b92,729.17 lakhs as at 31st March 2026; financial statements prepared on going concern basis based on management's turnaround strategy and promoter fund infusion intention."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Prolonged challenging economic and market conditions in the paper industry",
+   "Negative net worth and recurring losses",
+   "Dependence on management's turnaround strategy and promoter fund infusion for going concern",
+   "Related party transactions including indirect acquisition under SEBI Takeover Regulations",
+   "Judgment-intensive areas: deferred tax recognition, impairment of assets, recoverability of trade receivables, fair value measurements, provisions and contingent liabilities"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

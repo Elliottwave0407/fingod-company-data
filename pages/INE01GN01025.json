@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 85,
     "profit": 22,
-    "quality": 68
+    "quality": 60
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 81,
     "profit": 75,
-    "quality": 63
+    "quality": 76
    },
    "capped_by": null
   },
@@ -81,7 +81,7 @@
    "pillars": {
     "growth": 81,
     "profit": 37,
-    "quality": 52
+    "quality": 45
    },
    "capped_by": null
   }
@@ -106,7 +106,50 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-30"
+  "latest_concall": "2026-10-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Iris Clothings Limited designs, manufactures, brands and sells kidswear under the DOREME brand across India and abroad, covering infants, junior boys and girls with products such as summer wear, winter wear, sportswear, loungewear and innerwear.",
+  "segments": [
+   {
+    "name": "Kidswear (DOREME brand)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "New factory (ground broken)",
+    "amount_cr": null,
+    "timeline": "FY26"
+   },
+   {
+    "item": "Capacity per day",
+    "amount_cr": null,
+    "timeline": "36,000 pcs/day (FY26), 34,000 pcs/day (FY25)"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Vision 2030 to become India's largest kidswear brand",
+    "metric": "Market position",
+    "value": "Largest kidswear brand in India",
+    "by_when": "2030"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "AMK & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KAMOPAINTS",
  "name": "Kamdhenu Ventures Limited",
  "scrip": "543747",
- "mcap_cr": 141.14,
+ "mcap_cr": 137.19,
  "group": "B",
  "quarters": [
   {
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 3,
   "concalls_read": 3,
-  "latest_concall": "2025-05-20"
+  "latest_concall": "2025-05-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kamdhenu Ventures Limited is the listed holding company that provides strategic direction, governance oversight, and capital support, while its wholly owned subsidiary Kamdhenu Colour and Coatings Limited operates the decorative paints business under the Kamdhenu Paints brand.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

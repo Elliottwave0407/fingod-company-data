@@ -3,7 +3,7 @@
  "sym": "PTL",
  "name": "PTL Enterprises Limited",
  "scrip": "509220",
- "mcap_cr": 527.13,
+ "mcap_cr": 522.49,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 26,
     "profit": 67,
-    "quality": 96
+    "quality": 97
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 23,
     "profit": 20,
-    "quality": 37
+    "quality": 11
    },
    "capped_by": null
   }
@@ -99,7 +99,39 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "PTL Enterprises Ltd. operates a manufacturing plant at Kalamassery, Kerala, and earns revenue primarily from lease rentals and other income, with CSR activities implemented through Apollo Tyres Foundation.",
+  "segments": [
+   {
+    "name": "Lease Rentals / Plant Operations",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "SCV & Co. LLP, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Trade policy shifts",
+   "Energy price volatility",
+   "Geopolitical developments",
+   "Supply chain disruptions",
+   "Inflation trajectories",
+   "Demand conditions across markets"
+  ],
+  "dividend_per_share": 2.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

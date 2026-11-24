@@ -3,7 +3,7 @@
  "sym": "TRIGYN",
  "name": "Trigyn Technologies Limited",
  "scrip": "517562",
- "mcap_cr": 180.59,
+ "mcap_cr": 180.77,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 3.44,
    "pat": 0.63,
    "margin_pct": 1.4,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 17,
     "profit": 25,
-    "quality": 0
+    "quality": 12
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 47,
     "profit": 57,
-    "quality": 80
+    "quality": 65
    },
    "capped_by": null
   }
@@ -99,7 +99,34 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Trigyn Technologies Limited provides IT services and solutions including e-governance projects, staffing, and infrastructure management.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "V Rohatgi & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on: 1) RBI approvals for wound-up overseas subsidiaries (Note 48); 2) Non-accounting of Quarterly Guaranteed Revenue of Rs 8,000 lakhs (Note 52A); 3) Toll Collection project in Nashik with unamortized capital cost of Rs 352 lakhs and arbitration (Note 52B, 34g); 4) Pending legal suits (Note 34); 5) Foreign subsidiary under voluntary liquidation (Note 64); 6) Advances to United Telecoms Limited and Priyaraja Electronics Limited converted to inter-corporate loans with interest income recognized but formal agreements pending (Note 41)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Delay in completion of APSFL fixed price contract project",
+   "Non-collection of guaranteed revenue of Rs 8,000 lakhs",
+   "Toll collection project termination and arbitration in Nashik",
+   "Pending legal suits filed by and against the company and its subsidiary",
+   "Foreign subsidiary under voluntary liquidation",
+   "Inter-corporate loans to related parties with pending formal documentation"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

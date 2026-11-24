@@ -3,7 +3,7 @@
  "sym": "RPPINFRA",
  "name": "R.P.P. Infra Projects Limited",
  "scrip": "533284",
- "mcap_cr": 253.16,
+ "mcap_cr": 236.05,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 13,
     "profit": 1,
-    "quality": 10
+    "quality": 4
    },
    "capped_by": null
   }
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "RPP Infra Projects Limited is an Engineering, Procurement and Construction (EPC) company executing infrastructure projects such as roads, highways, expressways, irrigation, and buildings for government agencies.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Lakshmmi Subramanian & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical tensions leading to higher project execution costs, supply chain disruptions, and scheduling challenges",
+   "Intense competition and relatively weak order inflows for road-centric contractors",
+   "Dependence on imported equipment or energy-intensive materials",
+   "Arbitration proceedings for receivables from NTECL amounting to Rs.17.84 Crores"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

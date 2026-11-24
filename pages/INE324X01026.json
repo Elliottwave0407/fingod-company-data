@@ -3,7 +3,7 @@
  "sym": "SARVESHWAR",
  "name": "Sarveshwar Foods Limited",
  "scrip": "543688",
- "mcap_cr": 431.07,
+ "mcap_cr": 427.37,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 29,
     "profit": 26,
-    "quality": 22
+    "quality": 23
    },
    "capped_by": null
   },
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2025-08-27"
+  "latest_concall": "2025-08-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sarveshwar Foods Limited is an integrated food company with a 136-year legacy in the rice industry, operating across premium Basmati rice, organic foods, healthy staples, and value-added FMCG products under the Sarveshwar and NIMBARK brands, managing the entire value chain from farmer engagement to retail and exports.",
+  "segments": [
+   {
+    "name": "Premium Basmati and Specialty Rice (Sarveshwar brand)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Organic and Wellness Products (NIMBARK brand)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Inventory Valuation and Physical Verification - Torn bags and spoiled stock found at various outlets included in stock records without apparent adjustments; different grades of rice recorded at uniform rates without differentiation in value. Auditor concluded inventory is fairly stated in all material respects."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical tensions",
+   "Elevated interest rates",
+   "Inflationary pressures",
+   "Supply chain disruptions",
+   "Inventory condition and valuation risks (torn bags, spoiled stock, uniform grading)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

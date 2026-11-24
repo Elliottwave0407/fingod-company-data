@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 0,
     "profit": -3,
-    "quality": 0
+    "quality": 3
    },
    "capped_by": null
   },
@@ -92,7 +92,43 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Priti International Limited is engaged in manufacturing, trading and supplying a diverse range of furniture, home furnishing, lifestyle and d\u00e9cor products for residential, commercial and institutional customers, and has diversified into trading of solar products.",
+  "segments": [
+   {
+    "name": "Furniture, Handicraft and Lifestyle Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Trading of Solar Products",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Subdued demand in international markets",
+   "Uncertainties affecting global trade environment",
+   "Fluctuations in demand",
+   "Changes in trade policies",
+   "Tariff-related developments",
+   "Geopolitical and economic factors"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SUNDRMBRAK",
  "name": "Sundaram Brake Linings Limited",
  "scrip": "590072",
- "mcap_cr": 230.0,
+ "mcap_cr": 232.14,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 60,
     "profit": 88,
-    "quality": 98
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   },
@@ -66,11 +66,11 @@
    "ebitda": 2.09,
    "pat": 0.48,
    "margin_pct": 2.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 50,
     "profit": 40,
-    "quality": 0
+    "quality": 43
    },
    "capped_by": null
   }
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sundaram Brake Linings Limited manufactures brake linings and related friction materials for automotive applications.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "V. Suresh Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "NSE imposed a fine of Rs. 3.28 Lakhs for non-compliance with composition requirements under Regulations 18, 19 and 20 of SEBI LODR; delay of five days in filing Integrated Financial Results for quarter ended 30th June 2025 with BSE; disclosure under Regulation 30 for resignation of Company Secretary not made under Regulation 30 read with Clause 7C of Part A of Schedule III."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Non-compliance with SEBI LODR regulations leading to fines",
+   "Delay in regulatory filings with stock exchanges",
+   "Resignation of key managerial personnel (CFO and Company Secretary)"
+  ],
+  "dividend_per_share": 0.65
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

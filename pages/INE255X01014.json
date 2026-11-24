@@ -3,7 +3,7 @@
  "sym": "MSTCLTD",
  "name": "Mstc Limited",
  "scrip": "542597",
- "mcap_cr": 4615.78,
+ "mcap_cr": 4609.79,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 75.97,
    "pat": 77.22,
    "margin_pct": 63.9,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 89,
     "profit": 100,
-    "quality": 64
+    "quality": 14
    },
-   "capped_by": "profit growth under 25%"
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -99,7 +99,52 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "MSTC Limited operates as a B2B e-commerce platform facilitating digital auctions, government procurement, and marketing of industrial materials including scrap, minerals, and EPR certificates.",
+  "segments": [
+   {
+    "name": "E-commerce and Marketing",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Government Procurement & Tenders",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "EPR Certificate Trading",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 7.86,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S. Guha & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of matter regarding non-availability of balance confirmations for trade receivables, payables, loans, advances, and deposits (Note 38); Key audit matters include recoverability of trade receivables (gross Rs 66,792.80 lakhs, net Rs 22,690.48 lakhs, provision Rs 44,102.32 lakhs), IT systems & controls, and assessment of allowance for bad/doubtful advances and contingent liabilities."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Recoverability of trade receivables with significant credit-impaired balances",
+   "Dependence on IT systems and controls for financial reporting",
+   "Uncertainty in assessment of bad/doubtful advances and contingent liabilities",
+   "Non-compliance with board composition requirements (independent directors, woman director) during part of FY 2025-26",
+   "Lack of balance confirmations for trade receivables, payables, loans, advances, and deposits"
+  ],
+  "dividend_per_share": 8.1
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

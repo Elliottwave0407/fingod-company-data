@@ -3,7 +3,7 @@
  "sym": "IRMENERGY",
  "name": "IRM Energy Limited",
  "scrip": "544004",
- "mcap_cr": 1016.02,
+ "mcap_cr": 1041.07,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 67,
     "profit": 78,
-    "quality": 60
+    "quality": 86
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -66,11 +66,11 @@
    "ebitda": 61.77,
    "pat": 33.81,
    "margin_pct": 17.4,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 83,
     "profit": 94,
-    "quality": 71
+    "quality": 98
    },
    "capped_by": null
   },
@@ -84,9 +84,9 @@
    "pillars": {
     "growth": 86,
     "profit": 77,
-    "quality": 70
+    "quality": 86
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   }
  ],
  "completeness": {
@@ -109,7 +109,46 @@
   "missing": [],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "IRM Energy Limited is a City Gas Distributor operating in the business of CNG and PNG across domestic, commercial, and industrial segments.",
+  "segments": [
+   {
+    "name": "CNG and PNG across domestic, commercial and industrial segments",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Intangible assets additions (Software and Right of Way charges)",
+    "amount_cr": 3.797,
+    "timeline": "FY2025-26"
+   },
+   {
+    "item": "Right to Use Assets additions (Land and Building)",
+    "amount_cr": 8.119,
+    "timeline": "FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Manoj Hurkat & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to risks and opportunities beyond Company's control",
+   "Actual results may differ materially from expected outcomes"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

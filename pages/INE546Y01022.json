@@ -3,7 +3,7 @@
  "sym": "PRAXIS",
  "name": "Praxis Home Retail Limited",
  "scrip": "540901",
- "mcap_cr": 129.49,
+ "mcap_cr": 135.56,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -109.69,
    "pat": -115.3,
    "margin_pct": -443.4,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 17,
+    "profit": -355,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -2.0,
    "pat": -11.06,
    "margin_pct": -7.5,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 48,
+    "profit": 74,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -91,7 +99,55 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Praxis Home Retail Limited operates brick-and-mortar stores under the HomeTown brand and an online portal, selling home furniture, home furnishings, kitchenware, d\u00e9cor, and related accessories, along with services like modular kitchen and home design.",
+  "segments": [
+   {
+    "name": "Retail",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Business to Business (B2B)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "E-commerce",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 2.2965,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Singhi & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material Uncertainty Related to Going Concern: The Company incurred a cash loss of Rs. 4,058.31 lakhs during the year ended March 31, 2026, has negative net worth, current liabilities exceed current assets by Rs. 5,994.33 lakhs, and received a notice under the Insolvency and Bankruptcy Code, 2016 from an operational creditor. These conditions indicate a material uncertainty that may cast significant doubt on the Company's ability to continue as a going concern."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Intense competition from organised retailers, online marketplaces and regional unorganised players",
+   "Economic uncertainty, inflation and consumer confidence impacting discretionary spending",
+   "Raw material cost inflation (wood, plywood, steel, fabrics, foam)",
+   "Supply chain disruptions due to geopolitical developments, transportation bottlenecks and logistics constraints",
+   "Rapidly changing consumer preferences requiring continuous product innovation",
+   "Regulatory changes in taxation, labour laws, environmental regulations",
+   "Material uncertainty related to going concern due to cash losses, negative net worth, current liabilities exceeding current assets, and notice under IBC from operational creditor",
+   "Significant expected credit loss on security deposit of Rs. 10,100 lakhs with Future Enterprises Limited (under CIRP)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

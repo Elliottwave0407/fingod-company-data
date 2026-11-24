@@ -3,7 +3,7 @@
  "sym": "MANGALAM",
  "name": "Mangalam Drugs And Organics Limited",
  "scrip": "532637",
- "mcap_cr": 43.59,
+ "mcap_cr": 43.02,
  "group": "B",
  "quarters": [
   {
@@ -66,9 +66,9 @@
    "pillars": {
     "growth": 25,
     "profit": 81,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -95,7 +95,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mangalam Drugs & Organics Limited manufactures active pharmaceutical ingredients (APIs) and advanced intermediates with a diverse portfolio across multiple therapeutic segments, backed by strong backward integration and state-of-the-art facilities in Vapi.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "V. S. Somani and Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Corporate Governance compliance certification notes non-appointment of independent director per Regulation 17(1)(b) of SEBI LODR after resignation of an independent director."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Regulatory complexities in global pharmaceutical industry",
+   "Inflationary pressures",
+   "Late-stage product setbacks",
+   "Non-compliance with SEBI LODR board composition requirements (independent directors, audit committee, nomination committee) from January 16, 2026 to March 31, 2026",
+   "Structured Digital Database (SDD) software enhancements needed for comprehensive compliance with SEBI PIT Regulations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

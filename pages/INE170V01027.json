@@ -3,7 +3,7 @@
  "sym": "SALASAR",
  "name": "Salasar Techno Engineering Limited",
  "scrip": "540642",
- "mcap_cr": 933.41,
+ "mcap_cr": 912.43,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 9,
     "profit": 22,
-    "quality": 0
+    "quality": 13
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 21.94,
    "pat": 5.14,
    "margin_pct": 7.4,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 13,
     "profit": 11,
-    "quality": 0
+    "quality": 10
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

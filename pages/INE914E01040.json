@@ -3,7 +3,7 @@
  "sym": "ALANKIT",
  "name": "Alankit Limited",
  "scrip": "531082",
- "mcap_cr": 212.59,
+ "mcap_cr": 207.98,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 4.54,
    "pat": 2.39,
    "margin_pct": 4.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 12,
     "profit": 15,
-    "quality": 15
+    "quality": 1
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 6.35,
    "pat": 5.32,
    "margin_pct": 8.2,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 13,
     "profit": 87,
-    "quality": 42
+    "quality": 24
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Alankit Limited is a technology-driven enterprise providing identity consulting, secure printing solutions, and business correspondent services for financial inclusion.",
+  "segments": [
+   {
+    "name": "Identity Consulting and Secure Printing Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Business Correspondent (BC) vertical",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Kanodia Sanyal & Associates, Chartered Accountants, New Delhi (FRN: 08396N)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on: (1) Income tax demand notice of Rs 17,932.61 lakhs for A.Y. 2010-11 to 2020-21 under appeal; (2) Write-back of trade payables Rs 1,084.17 lakhs and write-off of trade receivables Rs 1,312.65 lakhs; (3) Payment of Rs 5,393.00 lakhs for immovable property from related party where legal title not yet transferred."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 6,
+  "key_risks": [
+   "Litigation and contingent liabilities including income tax demand of Rs 17,932.61 lakhs",
+   "Significant write-back of trade payables and write-off of trade receivables impacting results",
+   "Related party transaction for property purchase where legal title not transferred"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

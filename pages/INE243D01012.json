@@ -3,7 +3,7 @@
  "sym": "BFUTILITIE",
  "name": "BF Utilities Limited",
  "scrip": "532430",
- "mcap_cr": 1717.64,
+ "mcap_cr": 1691.46,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 108.92,
    "pat": 42.36,
    "margin_pct": 40.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 38,
     "profit": 20,
-    "quality": 7
+    "quality": 0
    },
    "capped_by": null
   },
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "BF Utilities Limited generates wind power and holds investments in infrastructure subsidiaries.",
+  "segments": [
+   {
+    "name": "Wind Power Generation",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company is taking all efforts to improve wind power generation, reduce cost and improve realization.",
+    "metric": "Wind power generation, cost, realization",
+    "value": "Improve",
+    "by_when": "Current year"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "adverse",
+   "emphasis_or_qualification": "Adverse opinion on consolidated financial statements due to inability to obtain information from component auditors of three subsidiaries (NHDL, NICE, NECE) and possible effects on group functioning; Adverse opinion on internal financial controls over consolidated financial statements."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 7,
+  "subsidiaries_count": 4,
+  "key_risks": [
+   "Highly regulated environment; changes in government policies may adversely affect operations.",
+   "Dependence on service provider for O&M of wind turbines; pending litigations with earlier service providers.",
+   "Single customer for sale of power.",
+   "Arbitration notice from investors of step-down subsidiary NECE alleging failure to provide exit."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

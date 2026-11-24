@@ -3,7 +3,7 @@
  "sym": "AUTOAXLES",
  "name": "Automotive Axles Limited",
  "scrip": "505010",
- "mcap_cr": 2668.65,
+ "mcap_cr": 2684.82,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 61,
     "profit": 45,
-    "quality": 61
+    "quality": 47
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 51,
     "profit": 59,
-    "quality": 74
+    "quality": 65
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Automotive Axles Limited manufactures automotive components including axles, brake assemblies, and related parts for commercial vehicles.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Property, plant and equipment additions",
+    "amount_cr": 58.71,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Capital work-in-progress additions",
+    "amount_cr": 65.69,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S R Batliboi & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Provision for slow-moving/non-moving and obsolete inventories requires critical management judgement"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "IPL",
  "name": "India Pesticides Limited",
  "scrip": "543311",
- "mcap_cr": 1382.54,
+ "mcap_cr": 1335.32,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 74,
     "profit": 48,
-    "quality": 78
+    "quality": 68
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 35.47,
    "pat": 22.77,
    "margin_pct": 14.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 12,
     "profit": 18,
-    "quality": 28
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "India Pesticides Limited is engaged in the manufacturing and supply of crop protection solutions, including technicals and formulations for agriculture.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "IPL's ESG Objective For FY: 2025-26",
+    "metric": "ESG Objective",
+    "value": "Not specified in excerpts",
+    "by_when": "FY 2025-26"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements may differ significantly from actual results due to various factors and uncertainties",
+   "Rebates and discounts involve significant judgement and estimates in recognition and measurement"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

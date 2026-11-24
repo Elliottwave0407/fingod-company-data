@@ -59,11 +59,11 @@
    "ebitda": 5.68,
    "pat": 4.04,
    "margin_pct": 92.7,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 46,
     "profit": 52,
-    "quality": 54
+    "quality": 22
    },
    "capped_by": null
   }
@@ -92,7 +92,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Lakshmi Finance & Industrial Corporation Limited is a non-banking finance company engaged in lending and investment activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Brahmayya & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matters: Deferred Tax Assets not recognized on unused tax losses due to uncertainty of future taxable profits; Unused MAT Credit not recognized due to uncertainty of utilization before expiry."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Uncertainty in estimation and forecasting of future taxable profits affecting utilization of deferred tax assets and MAT credit",
+   "Changes in fiscal policies, industrial scenario, business and market conditions impacting profit forecasts",
+   "Regulatory and compliance risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

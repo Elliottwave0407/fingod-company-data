@@ -3,7 +3,7 @@
  "sym": "VISAKAIND",
  "name": "Visaka Industries Limited",
  "scrip": "509055",
- "mcap_cr": 734.87,
+ "mcap_cr": 719.15,
  "group": "T",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 73,
     "profit": 92,
-    "quality": 70
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 91.37,
    "pat": 52.68,
    "margin_pct": 15.5,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 43,
     "profit": 24,
-    "quality": 36
+    "quality": 24
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Visaka Industries Limited manufactures and sells building products and synthetic blended yarn, and through its subsidiaries provides EPC contracts, turnkey solutions, sustainable products, and EV charging stations.",
+  "segments": [
+   {
+    "name": "Building products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Synthetic blended yarn",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Property, plant and equipment",
+    "amount_cr": 16.8651,
+    "timeline": "As at 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Timing of revenue recognition in the proper period as per Ind AS 115"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

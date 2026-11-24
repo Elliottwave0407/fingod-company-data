@@ -3,7 +3,7 @@
  "sym": "SHAREINDIA",
  "name": "Share India Securities Limited",
  "scrip": "540725",
- "mcap_cr": 3920.26,
+ "mcap_cr": 3813.03,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 66
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 200.58,
    "pat": 124.41,
    "margin_pct": 44.8,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 82,
     "profit": 93,
-    "quality": 72
+    "quality": 84
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-07-31"
+  "latest_concall": "2026-07-31",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Share India Securities Limited is a diversified, technology-driven financial services group offering equity, derivatives, commodities and currency trading, margin funding, wealth management, portfolio management services, and financial distribution.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 1.6
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

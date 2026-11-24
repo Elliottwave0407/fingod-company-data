@@ -3,7 +3,7 @@
  "sym": "DJML",
  "name": "Dj Mediaprint & Logistics Limited",
  "scrip": "543193",
- "mcap_cr": 254.99,
+ "mcap_cr": 259.95,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 57,
-    "quality": 67
+    "quality": 81
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 80,
     "profit": 25,
-    "quality": 38
+    "quality": 44
    },
    "capped_by": null
   }
@@ -99,7 +99,55 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "DJ Mediaprint & Logistics Ltd operates in logistics & cargo solutions, digitisation & document management, premium mobility solutions (Sailinks), security printing, and records management.",
+  "segments": [
+   {
+    "name": "Logistics & Cargo Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Digitisation & Document Management",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Premium Mobility Solutions \u2014 Sailinks",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Security Printing & Identity Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Records Management & Digitisation",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "National Logistics Policy targets reducing logistics costs from 13-14% of GDP to 8% or below",
+    "metric": "Logistics cost as % of GDP",
+    "value": "8% or below",
+    "by_when": "2030"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

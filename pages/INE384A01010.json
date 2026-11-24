@@ -3,7 +3,7 @@
  "sym": "RANEHOLDIN",
  "name": "Rane Holdings Limited",
  "scrip": "505800",
- "mcap_cr": 2166.59,
+ "mcap_cr": 2112.97,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 77,
     "profit": 60,
-    "quality": 80
+    "quality": 98
    },
    "capped_by": null
   },
@@ -97,9 +97,31 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 14,
+  "concalls_found": 15,
   "concalls_read": 0,
-  "latest_concall": "2026-08-27"
+  "latest_concall": "2026-11-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Rane Holdings Limited is an Indian listed company operating in the automotive components sector as a holding company for the Rane Group.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "BSR & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Foreign exchange risk through sales in the United States, European Union and other parts of the world, and purchases from overseas suppliers in different foreign currencies"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

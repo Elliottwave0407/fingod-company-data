@@ -3,7 +3,7 @@
  "sym": "NELCO",
  "name": "NELCO Limited",
  "scrip": "504112",
- "mcap_cr": 1772.19,
+ "mcap_cr": 1732.03,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 5.53,
    "pat": 1.09,
    "margin_pct": 7.0,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 33,
     "profit": 7,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 9.38,
    "pat": 2.34,
    "margin_pct": 11.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 49,
     "profit": 55,
-    "quality": 37
+    "quality": 60
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 9.12,
    "pat": 1.73,
    "margin_pct": 11.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 48,
     "profit": 58,
-    "quality": 15
+    "quality": 31
    },
    "capped_by": null
   }
@@ -109,7 +109,29 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nelco Limited provides satellite communication and network solutions.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Assessment of contingent liabilities and provision for litigations involving high management judgement"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

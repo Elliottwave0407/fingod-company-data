@@ -3,7 +3,7 @@
  "sym": "MANINFRA",
  "name": "Man Infraconstruction Limited",
  "scrip": "533169",
- "mcap_cr": 4242.53,
+ "mcap_cr": 4250.61,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 10,
-    "quality": 40
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,13 +66,13 @@
    "ebitda": 71.51,
    "pat": 62.74,
    "margin_pct": 32.8,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 79,
     "profit": 100,
-    "quality": 67
+    "quality": 19
    },
-   "capped_by": "profit growth under 25%"
+   "capped_by": null
   },
   {
    "q": "Sep-26",
@@ -84,9 +84,9 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 62
+    "quality": 20
    },
-   "capped_by": "profit growth under 25%"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -109,7 +109,53 @@
   "missing": [],
   "concalls_found": 5,
   "concalls_read": 4,
-  "latest_concall": "2026-08-26"
+  "latest_concall": "2026-08-26",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Man Infraconstruction Limited operates a mix of Engineering, Procurement and Construction (EPC) and Asset Ownership/Real Estate development, executing various development and redevelopment projects directly and through subsidiaries, associates, and joint ventures.",
+  "segments": [
+   {
+    "name": "EPC",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Real Estate Development",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Combined sales of \u20b95,000 crores over FY27 and FY28",
+    "metric": "Sales",
+    "value": "5000",
+    "by_when": "FY28"
+   },
+   {
+    "statement": "Launch new projects with combined GDV potential of over \u20b96,700 crores",
+    "metric": "GDV",
+    "value": "6700",
+    "by_when": "FY27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition over time in construction contracts involves significant assumptions and estimates on future outcomes including costs for labour, material, subcontractors and defect liability",
+   "Forecasts may require updated estimates for completed projects and include assessments of claims on customers relating to change or additional orders and deficiencies in tender conditions",
+   "Element of assumptions and estimates means final results may deviate from those now reported"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

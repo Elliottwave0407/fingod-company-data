@@ -3,7 +3,7 @@
  "sym": "MOL",
  "name": "Meghmani Organics Limited",
  "scrip": "543331",
- "mcap_cr": 1346.09,
+ "mcap_cr": 1312.01,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 7,
     "profit": 3,
-    "quality": 7
+    "quality": 6
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 52,
     "profit": 94,
-    "quality": 66
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   }
@@ -99,7 +99,65 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Meghmani Organics Limited is a diversified chemical company engaged in the manufacture and marketing of crop protection chemicals, crop nutrition products, and pigments (phthalocyanine blue/green and titanium dioxide) for agricultural and industrial applications globally.",
+  "segments": [
+   {
+    "name": "Agro Chemicals (Crop Protection & Crop Nutrition)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Pigment Business (Phthalocyanine Blue/Green & Titanium Dioxide)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Crop Protection Total Production Capacity",
+    "amount_cr": null,
+    "timeline": "55,980 MTPA"
+   },
+   {
+    "item": "Crop Nutrition (Nano Urea) Total Production Capacity",
+    "amount_cr": null,
+    "timeline": "5 Crore bottles (500 ml) per annum"
+   },
+   {
+    "item": "Pigment (Phthalocyanine) Total Production Capacity",
+    "amount_cr": null,
+    "timeline": "33,180 MTPA"
+   },
+   {
+    "item": "Titanium Dioxide (Kilburn Chemicals) Total Production Capacity",
+    "amount_cr": null,
+    "timeline": "75 TPD"
+   },
+   {
+    "item": "Segment Capital Expenditure (Within India)",
+    "amount_cr": 44.78,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on investment in wholly owned subsidiary Kilburn Chemicals Limited which has incurred substantial losses over past several years resulting in significant erosion of net worth as at March 31, 2026 (Note No. 54)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition judgment risk due to terms in sales arrangements relating to timing of transfer of control and delivery specifications including incoterms",
+   "Significant erosion of net worth in wholly owned subsidiary Kilburn Chemicals Limited"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

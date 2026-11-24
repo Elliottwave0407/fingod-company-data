@@ -3,7 +3,7 @@
  "sym": "ZUARIIND",
  "name": "ZUARI INDUSTRIES LIMITED",
  "scrip": "500780",
- "mcap_cr": 682.14,
+ "mcap_cr": 680.05,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 18.99,
    "pat": 0.05,
    "margin_pct": 6.1,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 33,
     "profit": 5,
-    "quality": 0
+    "quality": 43
    },
    "capped_by": null
   }
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-08-21"
+  "latest_concall": "2026-08-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Zuari Industries Limited operates a diversified portfolio spanning Sugar, Power & Ethanol, Real Estate, and strategic investments in fertilizers, engineering, and financial services through its subsidiaries, joint ventures, and associates.",
+  "segments": [
+   {
+    "name": "Sugar, Power & Ethanol",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Real Estate",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s V Sankar Aiyar & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 8,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

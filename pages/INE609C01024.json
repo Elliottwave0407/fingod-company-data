@@ -3,7 +3,7 @@
  "sym": "ORIENTLTD",
  "name": "Orient Press Limited",
  "scrip": "526325",
- "mcap_cr": 69.1,
+ "mcap_cr": 70.65,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 2.01,
    "pat": 0.3,
    "margin_pct": 6.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 59,
     "profit": 85,
-    "quality": 0
+    "quality": 56
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   },
   {
    "q": "Jun-26",
@@ -66,9 +66,13 @@
    "ebitda": -0.19,
    "pat": -1.25,
    "margin_pct": -0.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 5,
+    "profit": -1,
+    "quality": 3
+   },
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -95,7 +99,39 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Orient Press Limited operates in the Paper Board Packaging segment and has diversified into Candle Manufacturing during FY 2024-25.",
+  "segments": [
+   {
+    "name": "Paper Board Packaging",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Candle Manufacturing (Other Segment)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Litigations in respect of certain tax matters and other disputes with unpredictable outcomes",
+   "Inventory valuation involving management judgment and risk of obsolescence"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

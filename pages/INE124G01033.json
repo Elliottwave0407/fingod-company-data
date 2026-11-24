@@ -3,7 +3,7 @@
  "sym": "DELTACORP",
  "name": "Delta Corp Limited",
  "scrip": "532848",
- "mcap_cr": 2051.39,
+ "mcap_cr": 1980.17,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 22.21,
    "pat": 16.45,
    "margin_pct": 13.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 8,
     "profit": 11,
-    "quality": 29
+    "quality": 0
    },
    "capped_by": null
   },
@@ -109,7 +109,70 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Delta Corp Limited operates in India's organised gaming and hospitality sector, running land-based and offshore casinos along with associated hospitality assets.",
+  "segments": [
+   {
+    "name": "Gaming",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Hospitality",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Gaming - Capital Expenditure",
+    "amount_cr": 144.81,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Hospitality - Capital Expenditure",
+    "amount_cr": 107.73,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Unallocable - Capital Expenditure",
+    "amount_cr": 0.16,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Total Capital Expenditure",
+    "amount_cr": 252.7,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Upon commencement of operations, the vessel is expected to nearly double our gaming capacity while materially enhancing the overall customer experience.",
+    "metric": "gaming capacity",
+    "value": "nearly double",
+    "by_when": "upon commencement of operations"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter \u2013 Fair Valuation of Investee Companies engaged in real money gaming business: The enactment of the Promotion and Regulation of Online Gaming Act, 2025 prohibits operation of online gaming businesses involving real-money stakes, resulting in Rs 378.34 Crores recorded as cumulative reduction in fair values through OCI during the current year."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Regulatory developments including revised GST regime across gaming businesses",
+   "Enactment of Promotion and Regulation of Online Gaming Act, 2025 prohibiting online real-money gaming",
+   "Supreme Court judgement on retrospective levy of GST on gaming",
+   "Bombay High Court dismissal of licensing petition for casino-style amusement machines at Deltin Hotel, Daman",
+   "Contingent liability for Goods and Service Tax matters"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

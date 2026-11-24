@@ -3,7 +3,7 @@
  "sym": "RBZJEWEL",
  "name": "Rbz Jewellers Limited",
  "scrip": "544060",
- "mcap_cr": 626.2,
+ "mcap_cr": 615.8,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 85,
     "profit": 46,
-    "quality": 62
+    "quality": 60
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 91,
     "profit": 19,
-    "quality": 52
+    "quality": 42
    },
    "capped_by": null
   }
@@ -99,7 +99,63 @@
   ],
   "concalls_found": 12,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "RBZ Jewellers Limited is an organized manufacturer of jewellery in India with a B2B focus and a growing B2C retail presence through Harit Zaveri Jewellers showrooms in Gujarat.",
+  "segments": [
+   {
+    "name": "B2B Jewellery Manufacturing",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "B2C Retail (Harit Zaveri Jewellers)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Showroom in Satellite, Ahmedabad",
+    "amount_cr": 5.48,
+    "timeline": "Not specified"
+   },
+   {
+    "item": "Manufacturing Facility in Ahmedabad",
+    "amount_cr": null,
+    "timeline": "Not specified"
+   },
+   {
+    "item": "Planned expansion of 4 new showrooms across Gujarat",
+    "amount_cr": null,
+    "timeline": "Over the next two financial years"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Planned expansion of 4 new showrooms across Gujarat over the next two financial years",
+    "metric": "Showroom count",
+    "value": "4",
+    "by_when": "Next two financial years"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 315,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Dependence on bridal and occasion-led jewellery as core strength",
+   "Execution risk in expanding into adjacent and higher-frequency purchase categories",
+   "Expansion risk related to new showroom rollouts across Gujarat"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "CCHHL",
  "name": "Country Club Hospitality & Holidays Limited",
  "scrip": "526550",
- "mcap_cr": 201.55,
+ "mcap_cr": 197.3,
  "group": "B",
  "quarters": [
   {
@@ -95,7 +95,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Country Club Hospitality & Holidays Limited operates in the hospitality and holidays sector, managing resorts, clubs, and vacation ownership through its subsidiaries in India and overseas.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "The investments in subsidiary companies are continuing at historical cost and not at its fair values."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 816,
+  "subsidiaries_count": 25,
+  "key_risks": [
+   "Investments in subsidiary companies are continuing at historical cost and not at fair values",
+   "Impairment of plant & equipment and intangible assets based on value-in-use calculations requiring judgment and estimates",
+   "Expected credit losses based on evaluation of collectability of receivables requiring considerable judgment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

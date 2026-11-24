@@ -3,7 +3,7 @@
  "sym": "FMGOETZE",
  "name": "Federal-Mogul Goetze (India) Limited.",
  "scrip": "505744",
- "mcap_cr": 2381.61,
+ "mcap_cr": 2372.43,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 79.71,
    "pat": 50.8,
    "margin_pct": 16.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 23,
     "profit": 13,
-    "quality": 33
+    "quality": 5
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 67.48,
    "pat": 45.33,
    "margin_pct": 12.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 31,
     "profit": 23,
-    "quality": 44
+    "quality": 28
    },
    "capped_by": null
   }
@@ -99,7 +99,35 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Federal-Mogul Goetze India Limited is a world class manufacturer of pistons, piston rings, sintered components, and cylinder liners, delivering advanced engine solutions for automotive and industrial applications across India and global markets.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work-in-progress",
+    "amount_cr": 2.85,
+    "timeline": "As at 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Provisions and contingencies relating to litigations. The Company has recognised provisions aggregating \u20b9 360.24 lacs and disclosed contingent liabilities of \u20b9 10,720.99 lacs related to these litigations as at 31 March 2026."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Provisions and contingencies relating to litigations involving direct taxes, indirect taxes, and labour laws pending with various authorities and courts in India."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

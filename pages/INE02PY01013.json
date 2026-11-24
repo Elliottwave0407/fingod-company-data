@@ -3,7 +3,7 @@
  "sym": "BOROLTD",
  "name": "Borosil Limited",
  "scrip": "543212",
- "mcap_cr": 3920.08,
+ "mcap_cr": 3862.08,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 22,
     "profit": 9,
-    "quality": 12
+    "quality": 22
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 29,
     "profit": 17,
-    "quality": 7
+    "quality": 5
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 63,
     "profit": 91,
-    "quality": 56
+    "quality": 74
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -109,7 +109,47 @@
   "missing": [],
   "concalls_found": 12,
   "concalls_read": 12,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Borosil Limited is one of India's leading consumer products companies, offering thoughtfully designed solutions that enhance everyday living through a diversified portfolio spanning cooking, serving, storage, and hydration categories under the Borosil and Larah brands.",
+  "segments": [
+   {
+    "name": "Consumerware",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 5.48,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Focus will be on improving furnace capacity utilization through adoption of new technology like XiROC throat main blocks and expanding automation to optimize operational cost.",
+    "metric": "Furnace capacity utilization",
+    "value": "improve",
+    "by_when": "Going forward"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Dhrumil M. Shah & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Supply chain dependence and import exposure for certain product categories, exposing the business to supply disruptions, shipping delays, geopolitical developments, and foreign exchange volatility."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "XELPMOC",
  "name": "Xelpmoc Design And Tech Limited",
  "scrip": "542367",
- "mcap_cr": 127.78,
+ "mcap_cr": 122.4,
  "group": "B",
  "quarters": [
   {
@@ -89,9 +89,46 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 5,
-  "concalls_read": 5,
-  "latest_concall": "2026-06-05"
+  "concalls_found": 6,
+  "concalls_read": 6,
+  "latest_concall": "2026-11-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Xelpmoc Design and Tech Limited is a technology-driven company providing consulting, software development, and digital transformation solutions to enterprises, startups, and government organizations, specializing in AI, ML, NLP, and Data Analytics.",
+  "segments": [
+   {
+    "name": "Enterprise AI and Digital Transformation Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "DocuXray \u2013 Enterprise Document Intelligence Platform",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "RELY \u2013 AgeTech Platform for the Senior Living Ecosystem",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Challenging startup funding environment",
+   "Accuracy in revenue recognition under Ind AS 115 involving key judgments on performance obligations and transaction price allocation",
+   "Onerous obligations in contracts"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "POCL",
  "name": "Pondy Oxides & Chemicals Limited",
  "scrip": "532626",
- "mcap_cr": 2831.83,
+ "mcap_cr": 2794.83,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 47,
-    "quality": 79
+    "quality": 75
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 55.83,
    "pat": 35.88,
    "margin_pct": 6.0,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 89,
     "profit": 28,
-    "quality": 72
+    "quality": 61
    },
    "capped_by": null
   }
@@ -99,7 +99,39 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-18"
+  "latest_concall": "2026-11-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Pondy Oxides and Chemicals Limited operates in the global non-ferrous recycling industry, transforming waste into valuable resources through responsible recycling of lead, copper and adjacent non-ferrous metals.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Vision 2030, Growth through Sustainability",
+    "metric": "Target 2030 vision",
+    "value": "Building a future-ready enterprise that balances profitable growth with environmental stewardship",
+    "by_when": "2030"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "L Mukundan and Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Foreign exchange rate risk",
+   "Interest rate risk",
+   "Credit risk from trade receivables and financial instruments",
+   "Liquidity risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

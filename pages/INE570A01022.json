@@ -3,7 +3,7 @@
  "sym": "IONEXCHANG",
  "name": "ION Exchange (India) Limited",
  "scrip": "500214",
- "mcap_cr": 4317.13,
+ "mcap_cr": 4191.0,
  "group": "A",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 19.95,
    "pat": 24.29,
    "margin_pct": 2.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 15,
     "profit": 2,
-    "quality": 40
+    "quality": 0
    },
    "capped_by": null
   },
@@ -99,7 +99,109 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ion Exchange (India) Limited provides integrated water and environmental solutions including water treatment, wastewater recycling, zero liquid discharge, and manufactures resins, membranes, chemicals, and consumer products for domestic and international markets.",
+  "segments": [
+   {
+    "name": "Consumer Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Engineering",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Chemicals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Resins",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Membranes",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Exports",
+    "share_of_revenue_pct": 25
+   },
+   {
+    "name": "Rural",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "International Subsidiaries",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Resin manufacturing expansion at Roha",
+    "amount_cr": null,
+    "timeline": "ongoing"
+   },
+   {
+    "item": "Membrane product line and manufacturing expansion at Goa",
+    "amount_cr": null,
+    "timeline": "ongoing"
+   },
+   {
+    "item": "Manufacturing and blending units in Saudi Arabia and UAE",
+    "amount_cr": null,
+    "timeline": "ongoing"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Convert substantial export base into larger share of revenues driven by new manufacturing capacity and geographical expansion",
+    "metric": "Export revenue share",
+    "value": "increase from current 25%",
+    "by_when": "not specified"
+   },
+   {
+    "statement": "Resin business expected to grow much faster with significant investment in manpower and local distribution",
+    "metric": "Resin business growth",
+    "value": "significant growth",
+    "by_when": "not specified"
+   },
+   {
+    "statement": "Accelerate digital transformation by adopting AI and advanced technologies",
+    "metric": "Digital transformation",
+    "value": "enhance customer experience and operational efficiency",
+    "by_when": "ongoing"
+   },
+   {
+    "statement": "Strengthen presence in APAC region with focus on recurring chemicals and products business",
+    "metric": "APAC revenue",
+    "value": "growth through team development and new country expansions",
+    "by_when": "not specified"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Deloitte Haskins & Sells LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "No incident of fraud requiring reporting under Section 143(12) of the Act"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical instability impacting business in regions like Bangladesh and Middle East",
+   "Changes in US customs duty policies affecting operations and margins",
+   "SEBI regulatory matters regarding land transfer and investor repayments",
+   "Global economic headwinds including war in Middle East and energy crisis risks",
+   "Tariff and immigration law shocks in key markets",
+   "Voluntary winding up of Malaysia subsidiary",
+   "Dependence on government and institutional orders for rural business"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

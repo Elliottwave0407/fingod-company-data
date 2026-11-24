@@ -3,7 +3,7 @@
  "sym": "APCOTEXIND",
  "name": "Apcotex Industries Limited",
  "scrip": "523694",
- "mcap_cr": 2484.41,
+ "mcap_cr": 2469.63,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 67,
     "profit": 70,
-    "quality": 78
+    "quality": 94
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 92,
     "profit": 98,
-    "quality": 81
+    "quality": 100
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 79,
     "profit": 19,
-    "quality": 66
+    "quality": 58
    },
    "capped_by": null
   }
@@ -109,7 +109,42 @@
   "missing": [],
   "concalls_found": 12,
   "concalls_read": 11,
-  "latest_concall": "2026-11-02"
+  "latest_concall": "2026-11-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Apcotex Industries Limited is a leading Indian specialty chemicals company engaged in the manufacture of specialty emulsion polymers, both synthetic latex and synthetic rubber, serving a wide range of industrial applications across domestic and international markets.",
+  "segments": [
+   {
+    "name": "Synthetic Rubber",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Synthetic Latex",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 2.1486,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Manubhai & Shah LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

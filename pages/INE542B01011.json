@@ -3,7 +3,7 @@
  "sym": "AKSHARCHEM",
  "name": "AksharChem India Limited",
  "scrip": "524598",
- "mcap_cr": 282.56,
+ "mcap_cr": 273.13,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 33,
     "profit": 16,
-    "quality": 100
+    "quality": 89
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 94,
     "profit": 93,
-    "quality": 81
+    "quality": 100
    },
    "capped_by": null
   },
@@ -84,9 +84,9 @@
    "pillars": {
     "growth": 100,
     "profit": 90,
-    "quality": 56
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -109,7 +109,50 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aksharchem (India) Limited is a globally recognised integrated chemical company and one of India's leading exporters of Vinyl Sulphone and H-Acid, a frontrunner in CPC Green, and a fast-growing player in Precipitated Silica for diverse applications.",
+  "segments": [
+   {
+    "name": "Vinyl Sulphone & H-Acid",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "CPC Green",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Precipitated Silica",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Precipitated Silica capacity expansion",
+    "amount_cr": null,
+    "timeline": "FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical tensions in the Middle East",
+   "Volatility in oil- and gas-linked input costs",
+   "Demand slowdown and margin squeeze across the industry"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

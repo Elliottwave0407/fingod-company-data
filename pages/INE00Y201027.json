@@ -3,7 +3,7 @@
  "sym": "FLAIR",
  "name": "Flair Writing Industries Limited",
  "scrip": "544030",
- "mcap_cr": 2537.92,
+ "mcap_cr": 2583.24,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 52,
     "profit": 68,
-    "quality": 56
+    "quality": 55
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 41,
     "profit": 41,
-    "quality": 33
+    "quality": 27
    },
    "capped_by": null
   }
@@ -99,7 +99,62 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Flair Writing Industries Limited manufactures and sells writing instruments, creative stationery, steel bottles, and designer houseware across mass, mid-premium, and premium segments.",
+  "segments": [
+   {
+    "name": "Flair World Class Pens",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Hauser Germany",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Pierre Cardin Paris",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Flair Creative",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Flair Electronic Calculators",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Flair Steel Bottles and Designer Houseware",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Installed annual manufacturing capacity",
+    "amount_cr": null,
+    "timeline": "2.4 billion+ pieces"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "KPUB & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical tensions and commodity price volatility",
+   "Elevated public debt levels and financial market instability",
+   "Capital flow volatility and currency headwinds in emerging markets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

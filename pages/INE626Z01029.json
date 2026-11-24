@@ -3,7 +3,7 @@
  "sym": "HARDWYN",
  "name": "Hardwyn India Limited",
  "scrip": "541276",
- "mcap_cr": 607.21,
+ "mcap_cr": 602.42,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 83,
     "profit": 74,
-    "quality": 75
+    "quality": 82
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 8,
     "profit": 40,
-    "quality": 30
+    "quality": 21
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hardwyn India Limited is an Indian listed company with directors Rubaljeet Singh Sayal (Managing Director & CFO), Swaranjeet Singh Sayal (Director & Chairman), and Tanya Sayal (Non-Executive Director).",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 56,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

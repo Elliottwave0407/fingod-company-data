@@ -49,11 +49,11 @@
    "ebitda": 16.24,
    "pat": 10.15,
    "margin_pct": 16.2,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 64,
     "profit": 37,
-    "quality": 55
+    "quality": 44
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 98,
     "profit": 76,
-    "quality": 77
+    "quality": 86
    },
    "capped_by": null
   },
@@ -81,7 +81,7 @@
    "pillars": {
     "growth": 84,
     "profit": 46,
-    "quality": 75
+    "quality": 65
    },
    "capped_by": null
   }
@@ -106,7 +106,43 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-30"
+  "latest_concall": "2026-10-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Macpower CNC Machines Limited manufactures CNC metal cutting machines including Turning Centers, Vertical Machining Centers, Horizontal Machining Centers, Vertical Turret Lathes, Turn Mill Centers, Drill Tap Centers, Twin Spindle VMCs, 5 Axis machines, and Robotic Automation solutions.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Production capacity expansion",
+    "amount_cr": null,
+    "timeline": "30-year lease"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Sustain an annual growth rate of around 20%",
+    "metric": "Annual growth rate",
+    "value": "20%",
+    "by_when": "Not specified"
+   }
+  ],
+  "order_book_cr": 405.83,
+  "auditor": {
+   "name": "M/s. S. C. Makhecha & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note No.48 & 49 relating to non-renewal of expired lease agreements and modification of leases. Opinion not modified."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Global economic slowdown and geopolitical uncertainty",
+   "Non-renewal of expired lease agreements and modification of leases"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -97,9 +97,41 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 4,
-  "concalls_read": 3,
-  "latest_concall": "2026-06-05"
+  "concalls_found": 5,
+  "concalls_read": 4,
+  "latest_concall": "2026-11-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mamata Machinery Limited is a total solutions partner in flexible packaging, delivering integrated machinery solutions spanning co-extrusion, converting, and packaging with in-house R&D and engineering expertise.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "As we enter FY27, we expect growth to return and profitability to normalise.",
+    "metric": "growth and profitability",
+    "value": "return and normalise",
+    "by_when": "FY27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Chirag A. Shah & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "The report of Secretarial Audit does not contain any qualification, reservations, adverse remarks or disclaimer."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "geopolitical tensions such as the conflict in West Asia",
+   "rise in polymer prices",
+   "customer capital expenditure decisions",
+   "foreign currency exchange rate exposure"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

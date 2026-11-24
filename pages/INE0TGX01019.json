@@ -3,7 +3,7 @@
  "sym": "CHEMBONDCH",
  "name": "Chembond Chemicals Limited",
  "scrip": "544450",
- "mcap_cr": 633.95,
+ "mcap_cr": 656.01,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 78,
     "profit": 45,
-    "quality": 92
+    "quality": 76
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 8.34,
    "pat": 3.26,
    "margin_pct": 8.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 41,
     "profit": 7,
-    "quality": 8
+    "quality": 0
    },
    "capped_by": null
   }
@@ -95,7 +95,68 @@
   "missing": [],
   "concalls_found": 3,
   "concalls_read": 3,
-  "latest_concall": "2026-10-29"
+  "latest_concall": "2026-10-29",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Chembond Chemicals Limited operates in water technologies, construction chemicals, industrial cleaning and hygiene solutions, and chemical distribution businesses across India and select international markets.",
+  "segments": [
+   {
+    "name": "Water Technologies",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Construction Chemicals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Industrial Hygiene",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Distribution",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "350 kVA rooftop solar plant at Dudhwada, Gujarat plant",
+    "amount_cr": null,
+    "timeline": "commissioned"
+   },
+   {
+    "item": "50 kVA solar installation at office in Mahape, Maharashtra",
+    "amount_cr": null,
+    "timeline": "existing"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "deepen leadership in water technologies, scale up in high-margin construction chemicals, strengthen cleaning and hygiene, invest in R&D, sustainability, and digital tools, and maintain discipline in capital allocation",
+    "metric": "strategic priorities",
+    "value": "",
+    "by_when": "FY 2026-27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S H B A & CO LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "global macro headwinds",
+   "geopolitical uncertainties",
+   "raw material volatility",
+   "cost pressures from volatile supply chains and rising material costs",
+   "competitive market in construction chemicals"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

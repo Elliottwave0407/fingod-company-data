@@ -49,9 +49,13 @@
    "ebitda": -2.89,
    "pat": 0.63,
    "margin_pct": -6.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Strong",
+   "pillars": {
+    "growth": 54,
+    "profit": 37,
+    "quality": 82
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -59,11 +63,11 @@
    "ebitda": 1.72,
    "pat": 0.08,
    "margin_pct": 2.1,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 33,
     "profit": 13,
-    "quality": 0
+    "quality": 7
    },
    "capped_by": null
   }
@@ -92,7 +96,57 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kothari Sugars and Chemicals Limited is engaged in the manufacturing of sugar, generation of power, and production of alcohol/ethanol.",
+  "segments": [
+   {
+    "name": "Sugar",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Power",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Distillery",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Total Capital Expenditure",
+    "amount_cr": 18.92,
+    "timeline": "2025-26"
+   },
+   {
+    "item": "Total Capital Expenditure",
+    "amount_cr": 1.2,
+    "timeline": "2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "P. Chandrasekar LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Fluctuations in sugar prices and government policies affecting the sugar industry",
+   "Dependence on monsoon for sugarcane availability",
+   "Regulatory risks related to statutory levies (Excise Duty, Service Tax, Electricity taxes) under dispute",
+   "Interest rate risk on gratuity plan obligations",
+   "Investment risk on plan assets for defined benefit obligations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

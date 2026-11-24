@@ -49,11 +49,11 @@
    "ebitda": 1.4,
    "pat": 0.64,
    "margin_pct": 5.0,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 26,
     "profit": 12,
-    "quality": 13
+    "quality": 0
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 0,
     "profit": 95,
-    "quality": 17
+    "quality": 32
    },
    "capped_by": null
   }
@@ -96,7 +96,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Touchwood Entertainment Limited is India's first publicly listed event management company, specializing in planning and executing weddings, milestones, and luxury celebrations across India and globally.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on: (1) Advance to Jaypee Infratech Ltd. for Pent House purchase considered good despite insolvency proceedings since July 2017; (2) Party balances subject to confirmation/reconciliation with unascertainable impact on doubtful debts; (3) Income Tax search & seizure operation from 28-31 Jan 2026, Rs. 21 lacs cash seized, matter under investigation; (4) Write-off of Rs. 99.20 lacs sundry debtor outstanding >5 years, significantly affecting profit."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Advance to Jaypee Infratech Ltd. under insolvency since 2017",
+   "Unconfirmed party balances with unascertainable doubtful debt provision",
+   "Income Tax search/seizure investigation ongoing with potential tax demand",
+   "Significant debtor write-off (Rs. 99.20 lacs) impacting profitability",
+   "Economic fluctuations, technological progress, global uncertainties, event industry evolution"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

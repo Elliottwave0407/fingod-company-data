@@ -88,7 +88,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GVP Infotech Limited operates as a Payment Aggregator for online, physical, and cross-border transactions, facilitating inward and outward payments, and focuses on energy-efficient IT infrastructure and cloud-based collaboration platforms.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in the provided text",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Possible effects of long-outstanding trade receivables and other assets aggregating \u20b9400,000,000 as at balance sheet date, involving significant judgement in impairment assessment and Expected Credit Loss (ECL) provisioning under Ind AS 109."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Significant long-outstanding trade receivables and advances aggregating \u20b9400,000,000 with high estimation uncertainty in impairment assessment",
+   "Subjectivity in Expected Credit Loss (ECL) provisioning involving probability of default, loss given default, and exposure at default",
+   "Risk of material misstatement due to small changes in key assumptions for impairment of financial assets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

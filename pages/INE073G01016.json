@@ -3,7 +3,7 @@
  "sym": "ASALCBR",
  "name": "Associated Alcohols & Breweries Ltd.",
  "scrip": "507526",
- "mcap_cr": 1068.62,
+ "mcap_cr": 1060.48,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 36,
     "profit": 69,
-    "quality": 41
+    "quality": 42
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 29.86,
    "pat": 17.83,
    "margin_pct": 10.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 22,
     "profit": 8,
-    "quality": 27
+    "quality": 5
    },
    "capped_by": null
   }
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Associated Alcohols & Breweries Limited is an integrated alcoholic beverages company engaged in the manufacturing and sale of Extra Neutral Alcohol (ENA), proprietary Indian-Made Foreign Liquor (IMFL) brands across whisky, rum, gin, vodka, brandy, and Ready-to-Drink (RTD) beverages.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "malt spirit plant",
+    "amount_cr": null,
+    "timeline": "commissioned in FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matters: Inventory provisioning and write-offs; Disclosure of Contingency, litigation & Taxation (refer note 43(ii))"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Uncertainty in assessment of likelihood and quantum of liabilities regarding legal and tax matters",
+   "Inventory provisioning and write-off estimates"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "RALLIS",
  "name": "Rallis India Limited",
  "scrip": "500355",
- "mcap_cr": 3634.62,
+ "mcap_cr": 3638.51,
  "group": "A",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 35,
     "profit": 79,
-    "quality": 0
+    "quality": 90
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 51,
     "profit": 72,
-    "quality": 68
+    "quality": 72
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 20,
     "profit": 21,
-    "quality": 31
+    "quality": 13
    },
    "capped_by": null
   }
@@ -109,7 +109,45 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-28"
+  "latest_concall": "2026-10-28",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Rallis India Limited is an Indian company engaged in the agri-inputs business.",
+  "segments": [
+   {
+    "name": "Agri Inputs",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Others",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure incurred",
+    "amount_cr": 41.78,
+    "timeline": "Year ended March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements are subject to risks and uncertainties, some beyond the Company's control",
+   "Evaluation of accrual for sales returns, rebates, discounts and incentives involves challenging assumptions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

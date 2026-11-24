@@ -3,7 +3,7 @@
  "sym": "MAHEPC",
  "name": "Mahindra EPC Irrigation Limited",
  "scrip": "523754",
- "mcap_cr": 279.12,
+ "mcap_cr": 273.92,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 7.04,
    "pat": 4.79,
    "margin_pct": 6.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 24,
     "profit": 5,
-    "quality": 34
+    "quality": 9
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 4.63,
    "pat": 2.23,
    "margin_pct": 6.4,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 95,
     "profit": 72,
-    "quality": 65
+    "quality": 84
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 3,
   "concalls_read": 3,
-  "latest_concall": "2026-04-29"
+  "latest_concall": "2026-04-29",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Company is engaged in the business of manufacture, sale, and marketing of a wide range of drip and sprinkler irrigation systems, automation, and allied agricultural solutions for both individual farmers and community irrigation projects, supported by a strong pan-India network of channel partners and multi-locational manufacturing facilities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Prior approval of the shareholders by way of resolution for material related party transactions in terms of regulation 23(4) of the Securities Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015 has not been obtained."
+  },
+  "promoter_holding_pct": 54.2,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

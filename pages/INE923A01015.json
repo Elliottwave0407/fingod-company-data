@@ -3,7 +3,7 @@
  "sym": "SILINV",
  "name": "SIL Investments Limited",
  "scrip": "521194",
- "mcap_cr": 450.32,
+ "mcap_cr": 442.91,
  "group": "B",
  "quarters": [
   {
@@ -80,7 +80,7 @@
    "pillars": {
     "growth": 82,
     "profit": 59,
-    "quality": 87
+    "quality": 95
    },
    "capped_by": null
   }
@@ -105,7 +105,29 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SIL Investments Limited is a Non-Banking Financial Company (NBFC) engaged in investment activities including quoted and unquoted equity shares, bonds, alternate investment funds, and mutual funds.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not specified in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Valuation of unquoted investments involves significant estimation uncertainty, subjective assumptions and application of significant judgment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

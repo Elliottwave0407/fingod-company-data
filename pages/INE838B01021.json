@@ -3,7 +3,7 @@
  "sym": "BHARATRAS",
  "name": "Bharat Rasayan Limited",
  "scrip": "590021",
- "mcap_cr": 1524.48,
+ "mcap_cr": 1503.13,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 35,
     "profit": 57,
-    "quality": 93
+    "quality": 92
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 15,
     "profit": 39,
-    "quality": 46
+    "quality": 33
    },
    "capped_by": null
   }
@@ -99,7 +99,34 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bharat Rasayan Limited manufactures and sells agrochemical formulations including insecticides, fungicides, herbicides, and plant growth regulators for domestic and international markets.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B.K.Goel & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Dependence on monsoon and weather conditions affecting crop acreages and pest incidence",
+   "Volatility in raw material prices due to geopolitical tensions and supply chain disruptions",
+   "Regulatory changes and compliance requirements leading to delays in approvals",
+   "Seasonal nature of demand and unpredictability of pest attacks",
+   "Global consolidation in crop protection industry and probable ban on select active ingredients",
+   "High inventory provisions amidst falling raw material costs and higher sales returns"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

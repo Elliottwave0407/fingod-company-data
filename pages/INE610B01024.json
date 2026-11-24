@@ -3,7 +3,7 @@
  "sym": "GUJRAFFIA",
  "name": "Gujarat Raffia Industries Limited",
  "scrip": "523836",
- "mcap_cr": 21.46,
+ "mcap_cr": 21.47,
  "group": "T",
  "quarters": [
   {
@@ -66,7 +66,7 @@
    "pillars": {
     "growth": 9,
     "profit": 38,
-    "quality": 58
+    "quality": 74
    },
    "capped_by": null
   }
@@ -95,7 +95,40 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gujarat Raffia Industries Limited manufactures tarpaulin, fabric, and sacks, with significant presence in the fertilizer and agriculture sectors and food-grain packaging.",
+  "segments": [
+   {
+    "name": "Single segment (tarpaulin, fabric, sacks)",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Plant capacity expansions",
+    "amount_cr": null,
+    "timeline": "Completion by year-end 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Competitive pressure from large petrochemical manufacturers supplying raw materials at scale and low cost"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

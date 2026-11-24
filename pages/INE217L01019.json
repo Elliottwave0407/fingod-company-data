@@ -3,7 +3,7 @@
  "sym": "SHRIRAMPPS",
  "name": "Shriram Properties Limited",
  "scrip": "543419",
- "mcap_cr": 1173.76,
+ "mcap_cr": 1167.45,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 99,
     "profit": 59,
-    "quality": 100
+    "quality": 74
    },
    "capped_by": null
   },
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 12,
   "concalls_read": 11,
-  "latest_concall": "2026-11-20"
+  "latest_concall": "2026-11-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shriram Properties Limited is a real estate developer focused on residential projects and plotted developments across key Indian cities, delivering integrated urban living communities.",
+  "segments": [
+   {
+    "name": "Residential and plotted development",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Investment in new growth",
+    "amount_cr": 372,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Abarna & Ananthan, Chartered Accountants (proposed); M/s. Ernst & Young LLP (Internal Auditor)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "No qualification, reservation, adverse remark, or disclaimer of opinion in the Independent Auditors' Reports on Standalone and Consolidated Financial Statements for FY26."
+  },
+  "promoter_holding_pct": 27.89,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements may prove incorrect; actual results could vary materially from anticipated, estimated, or projected results."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

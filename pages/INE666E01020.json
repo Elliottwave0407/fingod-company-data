@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 43,
     "profit": 2,
-    "quality": 0
+    "quality": 94
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Sep-26",
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 87,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": "net loss"
   }
@@ -109,7 +109,38 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Andhra Cements Limited manufactures cement at its Sri Durga Cement Works in Dachepalli, Palnadu district, Andhra Pradesh.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capacity expansion and modernization of existing manufacturing facility at Sri Durga Cement Works",
+    "amount_cr": 470.69,
+    "timeline": "Ongoing"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S S & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material uncertainty related to going concern due to losses and net current liabilities position; reliance on financial support from holding company Sagar Cements Limited"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Going concern uncertainty due to incurred losses and net current liabilities position",
+   "Dependence on financial support from holding company Sagar Cements Limited",
+   "Deviation from financial ratios in loan agreements (waiver obtained)",
+   "Revenue recognition risk related to discounts and rebates estimation"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

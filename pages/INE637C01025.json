@@ -3,7 +3,7 @@
  "sym": "POKARNA",
  "name": "Pokarna Limited",
  "scrip": "532486",
- "mcap_cr": 2185.94,
+ "mcap_cr": 2026.73,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 20,
-    "quality": 22
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 54,
     "profit": 89,
-    "quality": 73
+    "quality": 96
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2025-08-04"
+  "latest_concall": "2025-08-04",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Pokarna Limited is one of India's leading granite exporters and the world's largest quartz exporter, delivering premium surface solutions for residential, commercial, and institutional applications.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Contingent liabilities and commitments from legal and regulatory proceedings",
+   "Inventory valuation risk for raw materials, work-in-progress, and finished goods",
+   "Economic uncertainty and shifting trade landscapes",
+   "Evolving customer expectations",
+   "Financial, operational, sectoral, sustainability (ESG), information, and cyber security risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

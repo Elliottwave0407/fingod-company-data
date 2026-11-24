@@ -3,7 +3,7 @@
  "sym": "ROHLTD",
  "name": "Royal Orchid Hotels Limited",
  "scrip": "532699",
- "mcap_cr": 813.98,
+ "mcap_cr": 809.04,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 3.24,
    "pat": 8.22,
    "margin_pct": 2.9,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 37,
     "profit": 2,
-    "quality": 40
+    "quality": 0
    },
    "capped_by": null
   },
@@ -99,7 +99,39 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Royal Orchid Hotels Limited is principally engaged in the business of owning and operating hotels, generating revenue from room revenue, food and beverages, and other hotel services.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Right-of-use assets - Buildings additions",
+    "amount_cr": 12.35,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to ongoing NCLT petition regarding associate KSDPL and inconsistent legal assessment of its status under Companies Act; Emphasis of Matter on SEBI interim order cum show cause notice regarding alleged incorrect accounting of loss of control of KSDPL"
+  },
+  "promoter_holding_pct": 64.06,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Downtrend in the hospitality sector",
+   "Significant changes in political and economic environment in India or key financial markets abroad",
+   "Tax laws, litigation, labour relations, exchange rate fluctuations, interest and other costs",
+   "Ongoing NCLT petition under Sections 241 and 242 regarding associate KSDPL",
+   "SEBI interim order cum show cause notice regarding accounting of loss of control of KSDPL"
+  ],
+  "dividend_per_share": 2.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

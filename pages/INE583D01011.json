@@ -3,7 +3,7 @@
  "sym": "UGROCAP",
  "name": "Ugro Capital Limited",
  "scrip": "511742",
- "mcap_cr": 1258.61,
+ "mcap_cr": 1260.94,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 91,
     "profit": 42,
-    "quality": 34
+    "quality": 43
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 326.17,
    "pat": 67.87,
    "margin_pct": 65.6,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 64,
     "profit": 83,
-    "quality": 40
+    "quality": 80
    },
    "capped_by": null
   }
@@ -99,7 +99,99 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-13"
+  "latest_concall": "2026-11-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "UGRO Capital Limited is a middle-layer NBFC focused on addressing India's MSME credit gap through a pan-India network of 317 Emerging Market branches and embedded merchant finance via digital platforms, offering secured loan against property and machinery finance to small businesses.",
+  "segments": [
+   {
+    "name": "Emerging Market (Small ticket LAP)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Embedded Merchant Finance",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Machinery Loan",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Acquisition of Profectus Capital Private Limited (100% shares)",
+    "amount_cr": 1399,
+    "timeline": "December 2025"
+   },
+   {
+    "item": "Acquisition of Datasigns Technologies Private Limited (MyShubhLife platform)",
+    "amount_cr": null,
+    "timeline": "March 18, 2026"
+   },
+   {
+    "item": "Rights issue and CCD issue",
+    "amount_cr": 900,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Property, plant and equipment additions",
+    "amount_cr": 12.64,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Right-of-use assets additions",
+    "amount_cr": 34.9,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Progressive shift in portfolio mix towards higher-yielding core segments (Emerging Market secured lending and Embedded Merchant finance) while reducing exposure to intermediated lower yield portfolios",
+    "metric": "Portfolio mix realignment",
+    "value": "Higher-yielding core segments",
+    "by_when": "Ongoing"
+   },
+   {
+    "statement": "Structured cost rationalisation programme linked to exit from non-core verticals to enhance operating efficiency",
+    "metric": "Operating efficiency",
+    "value": "Cost rationalisation",
+    "by_when": "Ongoing"
+   },
+   {
+    "statement": "Intermediated portfolio being run down in orderly manner while share of recurring annuity-led income is increasing",
+    "metric": "Income composition",
+    "value": "Increasing recurring annuity-led income",
+    "by_when": "Ongoing"
+   },
+   {
+    "statement": "Transition expected to strengthen capital adequacy and enable growth supported through internal accruals",
+    "metric": "Capital adequacy and growth funding",
+    "value": "Stronger CAR and internal accrual funded growth",
+    "by_when": "Ongoing"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 2095,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Impairment of loans including Expected Credit Loss (ECL) involving significant management judgement in grouping loan portfolio, estimation of losses for groups with minimal past defaults, and macroeconomic forecasts",
+   "Interest rate risk from variable rate borrowings (48.27% of total borrowings at 9.97% weighted average cost)",
+   "Liquidity risk managed through LCR framework (maintained above 100% regulatory minimum)",
+   "Foreign currency borrowing exposure hedged through currency swaps and forward contracts",
+   "Concentration risk in MSME lending across Tier 2/3/4 geographies",
+   "Execution risk in strategic realignment from scale to profitability focus",
+   "Integration risk from recent acquisitions (Profectus Capital and MyShubhLife)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "ZODIACLOTH",
  "name": "Zodiac Clothing Company Limited",
  "scrip": "521163",
- "mcap_cr": 171.67,
+ "mcap_cr": 176.12,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -0.37,
    "pat": -5.27,
    "margin_pct": -0.8,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 19,
+    "profit": 79,
+    "quality": 0
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -3.24,
    "pat": -8.93,
    "margin_pct": -9.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 13,
+    "profit": 27,
+    "quality": 0
+   },
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -91,7 +99,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Zodiac Clothing Company Limited manufactures and retails clothing, including brands such as ZOD! and Z3, and operates retail stores and international marketing operations.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "MSKA & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 968,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "fluctuation in raw material prices",
+   "weak demand",
+   "increased global and local competition",
+   "currency fluctuations",
+   "sales channel disruptions",
+   "regulatory risks including changes in taxation regime, government policies with respect to textiles and clothing, pollution control, industrial relations issues & failure to comply with regulatory provisions",
+   "rising interest rates",
+   "unwarranted blockage of funds in GST refunds"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

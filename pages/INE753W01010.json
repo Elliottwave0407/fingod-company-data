@@ -88,7 +88,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sanginita Chemicals Limited is engaged in the manufacturing of chemicals, including Copper Sulphate and Cupric Chloride.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impact of New Labour Codes (notified November 21, 2025) on employee benefit valuations not yet assessed as State rules are pending finalization",
+   "Share Swap and Share Purchase Agreement (SSSPA) dated March 20, 2026 for transfer of entire promoter shareholding subject to applicable approvals"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

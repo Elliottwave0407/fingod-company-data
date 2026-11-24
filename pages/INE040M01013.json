@@ -3,7 +3,7 @@
  "sym": "TREEHOUSE",
  "name": "Tree House Education & Accessories Limited",
  "scrip": "533540",
- "mcap_cr": 30.13,
+ "mcap_cr": 26.32,
  "group": "B",
  "quarters": [
   {
@@ -97,7 +97,38 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Tree House Education & Accessories Limited provides education and related services including leasing of education infrastructure.",
+  "segments": [
+   {
+    "name": "providing education and related services including leasing of education infrastructure",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/S. RAKESH SONI & CO.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "No qualifications, reservations or adverse remarks or disclaimers made by M/s. Rakesh Soni & Co. in their Report dated May 15, 2026. Auditors have not reported any fraud under section 143(12). Observations include: confirmation letters sent to majority of debtors/creditors; forensic audit by EOW underway; civil suit by Mira Education Trust against Zebar Realty LLP naming company as defendant; summons received in Vadodara case regarding property sold in FY 2022-23; FIR filed against company, MD, directors and KMPs by Vadodara Crime Branch; independent directors arrested and later granted bail; Gujarat High Court granted interim relief restraining coercive action."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Economic, regulatory, environmental, competitive scenario risks",
+   "Forensic audit by Economic Offence Wing of Mumbai Police for period FY 2011-12 to 2017-18 underway",
+   "Legal cases on various forums including civil suit by Mira Education Trust and FIR by Vadodara Crime Branch",
+   "Provision for bad debts and ECL impacting profitability",
+   "Decline in networth due to ECL provision of Rs.990 lakhs and bad debts written off of Rs.121 lakhs"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

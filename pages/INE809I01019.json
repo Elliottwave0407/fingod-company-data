@@ -3,7 +3,7 @@
  "sym": "ONMOBILE",
  "name": "OnMobile Global Limited",
  "scrip": "532944",
- "mcap_cr": 548.9,
+ "mcap_cr": 543.26,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -41.55,
    "pat": -36.53,
    "margin_pct": -32.5,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 5,
+    "profit": -26,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -105,7 +109,9 @@
   "missing": [],
   "concalls_found": 6,
   "concalls_read": 0,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

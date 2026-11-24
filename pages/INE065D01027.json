@@ -3,7 +3,7 @@
  "sym": "AEROENTER",
  "name": "Aeroflex Enterprises Limited",
  "scrip": "511076",
- "mcap_cr": 1421.91,
+ "mcap_cr": 1369.85,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 69,
     "profit": 52,
-    "quality": 77
+    "quality": 70
    },
    "capped_by": null
   },
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aeroflex Enterprises Limited is a diversified conglomerate with interests in knowledge-based engineering, advanced manufacturing, tech-enabled industrial and utility services, financial services, strategic investments, and emerging ventures.",
+  "segments": [
+   {
+    "name": "Metallic flexible flow solutions (Aeroflex Industries Limited)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "PP Woven Bags, HDPE Box Bags, FIBCs, BOPP Bags (Aeroflex Neu Limited)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Non-Banking Financial Services (Aeroflex Finance Private Limited)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. G H V & Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Forward-looking statements may not materialise as anticipated, posing substantial risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

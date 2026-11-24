@@ -3,7 +3,7 @@
  "sym": "DATAMATICS",
  "name": "Datamatics Global Services Limited",
  "scrip": "532528",
- "mcap_cr": 4096.66,
+ "mcap_cr": 3884.77,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 42,
     "profit": 61,
-    "quality": 31
+    "quality": 30
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 60,
     "profit": 81,
-    "quality": 78
+    "quality": 84
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 13,
   "concalls_read": 7,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Datamatics is a Digital Technologies, Operations, and Experiences company that enables global enterprises to go Deep in Digital to enhance productivity, customer experience, and competitive advantage with an AI-first approach.",
+  "segments": [
+   {
+    "name": "Digital Technologies",
+    "share_of_revenue_pct": 32
+   },
+   {
+    "name": "Digital Operations",
+    "share_of_revenue_pct": 55
+   },
+   {
+    "name": "Digital Experiences",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M L BHUWANIA AND CO LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "delay of 5 days in holding the Risk Management Committee meeting as required under Regulation 21(3C) of the Listing Regulations"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

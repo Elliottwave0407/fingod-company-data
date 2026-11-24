@@ -3,7 +3,7 @@
  "sym": "DIGJAMLMTD",
  "name": "Digjam Limited",
  "scrip": "539979",
- "mcap_cr": 112.08,
+ "mcap_cr": 111.48,
  "group": "T",
  "quarters": [
   {
@@ -105,7 +105,37 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Digjam Limited is engaged in the textile business in India, specialising in PV (Polyester Viscose) and PW (Pure Wool) fabrics, with operations conducted from its unit at Bhiwandi, Maharashtra.",
+  "segments": [
+   {
+    "name": "Specialty and Premium Fabrics",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s K.G. Goyal & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material Uncertainty Related to Going Concern: The Company has incurred a total comprehensive loss of Rs. 97.90 lakhs for the year ended March 31, 2026. As of that date, the Company's current liabilities exceeded its current assets by Rs. 2,191.48 lakhs. Operations at the Company's sole manufacturing facility located at Jamnagar have been discontinued effective March 31, 2025, and related assets classified as 'Non-Current Assets Held for Sale' with a carrying value of Rs. 5,318.53 lakhs."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Subdued global growth and cost volatility may affect demand and margins",
+   "International business environment remains challenging due to uneven demand across major consuming markets and aggressive pricing by overseas suppliers",
+   "Tariff disadvantages in certain geographies can affect ability of Indian manufacturers to compete effectively",
+   "Material uncertainty related to going concern due to accumulated losses, current liabilities exceeding current assets, and discontinuation of Jamnagar manufacturing facility"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

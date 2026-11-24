@@ -3,7 +3,7 @@
  "sym": "HLEGLAS",
  "name": "HLE Glascoat Limited",
  "scrip": "522215",
- "mcap_cr": 2840.35,
+ "mcap_cr": 2761.87,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 42.4,
    "pat": 20.14,
    "margin_pct": 10.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 32,
     "profit": 9,
-    "quality": 15
+    "quality": 0
    },
    "capped_by": null
   },
@@ -99,7 +99,54 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "HLE Glascoat Limited engineers and manufactures process equipment including filtration and drying systems, glass-lined equipment, and heat transfer solutions for chemical, pharmaceutical, agrochemical, and specialty chemical industries globally.",
+  "segments": [
+   {
+    "name": "Filtration, Drying and Other Equipment",
+    "share_of_revenue_pct": 35.06
+   },
+   {
+    "name": "Glass Lined Business",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 75.68,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company continued to maintain a strong order book, providing visibility for future revenue and supporting its positive business outlook.",
+    "metric": "Order book visibility",
+    "value": "10 months for International business and 4 months for Indian business",
+    "by_when": "FY 2025-26"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 7,
+  "key_risks": [
+   "Defined Benefit Obligation valuation depends on actuarial assumptions (discount rate, salary increases, inflation, mortality, attrition) and legislative amendments",
+   "Capital expenditure tracking and monitoring requires attention for accuracy and completeness of financial reporting for Property, Plant and Equipment",
+   "Technical complexities require management estimates/judgements about capitalization, useful life, impairment with material impact on Balance Sheet and operating results",
+   "Related party transactions are significant with increased regulatory compliances and risk of remaining undisclosed"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

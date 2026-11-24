@@ -3,7 +3,7 @@
  "sym": "TVSELECT",
  "name": "TVS Electronics Limited",
  "scrip": "532513",
- "mcap_cr": 695.75,
+ "mcap_cr": 690.25,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 6.99,
    "pat": 2.85,
    "margin_pct": 6.0,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 65,
     "profit": 72,
-    "quality": 14
+    "quality": 61
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   },
   {
    "q": "Jun-26",
@@ -66,9 +66,13 @@
    "ebitda": -2.39,
    "pat": -6.62,
    "margin_pct": -2.3,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 21,
+    "profit": -2,
+    "quality": 6
+   },
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -95,7 +99,44 @@
   ],
   "concalls_found": 5,
   "concalls_read": 5,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "TVS Electronics Limited operates in two segments: Products & Solutions Group (PSG) and Customer Support Services (CSS).",
+  "segments": [
+   {
+    "name": "Products & Solutions Group (PSG)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Customer Support Services (CSS)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 7.27,
+    "timeline": "2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Guru & Jana LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements involve assumptions and are subject to inherent risks and uncertainties; actual results may differ materially."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

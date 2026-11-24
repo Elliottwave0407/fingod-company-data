@@ -52,11 +52,11 @@
    "ebitda": 11.4,
    "pat": 7.5,
    "margin_pct": 33.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 16,
     "profit": 20,
-    "quality": 32
+    "quality": 2
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 42,
     "profit": 61,
-    "quality": 61
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GJS Hotels Limited is a wholly owned subsidiary of Asian Hotels (East) Limited that was developing a hotel property in Odisha under a lease agreement, which has been revoked by the Government of Odisha leading to forfeiture of bank guarantee and ongoing litigation.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 10.79,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "V. SINGHI & ASSOCIATES",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to non-recognition of impairment loss on Capital Work in Progress (CWIP) and right-of-use assets amounting to Rs. 78,179.73 thousand as per Ind AS 36, following forfeiture of bank guarantee and revocation of lease by Government of Odisha."
+  },
+  "promoter_holding_pct": 100,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Litigation risk from revocation of lease deed by Government of Odisha and forfeiture of performance bank guarantee of Rs. 35,000 thousand",
+   "Impairment risk on Capital Work in Progress (CWIP) and right-of-use assets due to surrender of property and uncertain recoverability",
+   "Liquidity risk for Holding Company's investment (equity Rs. 86,085.67 thousand and loans Rs. 48,338.72 thousand) in the Company",
+   "Going concern uncertainty due to loss of hotel property and ongoing legal proceedings"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

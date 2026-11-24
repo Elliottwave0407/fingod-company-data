@@ -49,11 +49,11 @@
    "ebitda": 31.09,
    "pat": 8.55,
    "margin_pct": 34.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 53,
     "profit": 90,
-    "quality": 20
+    "quality": 39
    },
    "capped_by": null
   },
@@ -81,7 +81,7 @@
    "pillars": {
     "growth": 59,
     "profit": 20,
-    "quality": 32
+    "quality": 47
    },
    "capped_by": null
   }
@@ -106,7 +106,38 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-08-10"
+  "latest_concall": "2026-08-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Tara Chand InfraLogistic Solutions Limited is a four decades old integrated infrastructure-logistics platform serving India's heavy industry, capital projects and steel supply chain.",
+  "segments": [
+   {
+    "name": "Equipment Hiring & Projects",
+    "share_of_revenue_pct": 60
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Fleet of machines",
+    "amount_cr": null,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. AVS & Associates, Company Secretaries",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

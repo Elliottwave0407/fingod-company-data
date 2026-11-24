@@ -3,7 +3,7 @@
  "sym": "HEALTHX",
  "name": "Health X Platform Limited",
  "scrip": "533259",
- "mcap_cr": 871.61,
+ "mcap_cr": 868.74,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,47 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-11-21"
+  "latest_concall": "2026-11-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Health X Platform Limited operates as a Core Investment Company with subsidiaries in digital health, e-pharmacy, healthcare network, and financial services.",
+  "segments": [
+   {
+    "name": "Financial Services",
+    "share_of_revenue_pct": 1.0
+   },
+   {
+    "name": "Healthcare Network",
+    "share_of_revenue_pct": 97.3
+   },
+   {
+    "name": "Others",
+    "share_of_revenue_pct": 1.7
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s MKB & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material uncertainty relating to going concern for step-down subsidiary Genu Path Labs Limited (GPL) due to accumulated losses; financial statements prepared on going concern basis."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 2760,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Business and competitive risk: intensifying competition in digital health and e-pharmacy could compress margins or slow customer and retailer acquisition.",
+   "Regulatory risk: changes in laws governing pharmacies, e-commerce of drugs, data protection and foreign investment could affect operating model.",
+   "Execution and integration risk: timely execution of warehousing capacity expansion, automation roll-out, and proposed corporate restructuring (SHBL merger and financial services demerger).",
+   "Liquidity and capital risk: continuing operating losses in certain segments necessitate continued access to capital on acceptable terms.",
+   "Technology and cybersecurity risk: reliance on digital platforms exposes risks around data security, system availability and cyber threats.",
+   "Concentration and counterparty risk: dependence on key suppliers, logistics partners and retail pharmacy relationships."
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

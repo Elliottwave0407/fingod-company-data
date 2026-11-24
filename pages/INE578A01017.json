@@ -3,7 +3,7 @@
  "sym": "HEIDELBERG",
  "name": "HeidelbergCement India Limited",
  "scrip": "500292",
- "mcap_cr": 2688.76,
+ "mcap_cr": 2691.03,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 27,
     "profit": 24,
-    "quality": 28
+    "quality": 20
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 66.81,
    "pat": 30.55,
    "margin_pct": 10.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 19,
     "profit": 9,
-    "quality": 13
+    "quality": 0
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 48.17,
    "pat": 16.77,
    "margin_pct": 8.5,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 28,
     "profit": 9,
-    "quality": 4
+    "quality": 7
    },
    "capped_by": null
   }
@@ -109,7 +109,65 @@
   "missing": [],
   "concalls_found": 3,
   "concalls_read": 3,
-  "latest_concall": "2026-06-03"
+  "latest_concall": "2026-06-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "HeidelbergCement India Limited manufactures and sells cement, operating as a subsidiary of Heidelberg Materials Group.",
+  "segments": [
+   {
+    "name": "Cement",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Dust Collector System at Imlai Cement Grinding Plant",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Alternate Fuels Project at Narsingarh clinker plant",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Cement Blending and Grinding Unit at Sri Singhaji Thermal Power Plant, Dongalia, Khandwa",
+    "amount_cr": null,
+    "timeline": "Proposed"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Target of approximately 1.5 Mn tonnes of fly-ash sourcing for FY27",
+    "metric": "Fly ash sourcing",
+    "value": "1.5 Mn tonnes",
+    "by_when": "FY27"
+   },
+   {
+    "statement": "Maximizing PPC based cement production",
+    "metric": "PPC cement volume",
+    "value": "Not quantified",
+    "by_when": "Ongoing"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.N. Dhawan & CO. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "No qualification, reservation or adverse remarks"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 734,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Economic Risk: Global conflicts, Middle East trade exposure, rupee depreciation",
+   "Supply Risk: External risks (shortage, supply, environmental, business) and internal risks (manufacturing, business, planning, control); unviable import prices driving indigenous demand",
+   "Competition Risk: Increased competition in core markets challenging market share"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

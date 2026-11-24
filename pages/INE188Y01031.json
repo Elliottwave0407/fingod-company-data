@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 54,
     "profit": 60,
-    "quality": 26
+    "quality": 31
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 73,
     "profit": 88,
-    "quality": 40
+    "quality": 43
    },
    "capped_by": null
   }
@@ -96,7 +96,27 @@
   ],
   "concalls_found": 8,
   "concalls_read": 8,
-  "latest_concall": "2026-02-16"
+  "latest_concall": "2026-02-16",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vertoz Limited is an advertising technology company providing digital advertising solutions.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not specified in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

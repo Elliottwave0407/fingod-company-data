@@ -3,7 +3,7 @@
  "sym": "ECOSMOBLTY",
  "name": "Ecos (India) Mobility & Hospitality Limited",
  "scrip": "544239",
- "mcap_cr": 700.2,
+ "mcap_cr": 701.4,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 36,
     "profit": 9,
-    "quality": 36
+    "quality": 10
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 21.85,
    "pat": 14.55,
    "margin_pct": 10.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 40,
     "profit": 22,
-    "quality": 51
+    "quality": 38
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-11-20"
+  "latest_concall": "2026-11-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ecos (India) Mobility & Hospitality Limited provides chauffeured car rentals and employee transportation services to corporate clients across 131 cities in India through an asset-light, technology-enabled model.",
+  "segments": [
+   {
+    "name": "Chauffeured Car Rentals (CCR)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Employee Transportation Services (ETS)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "changes in government regulations",
+   "tax laws",
+   "economic developments within the country and globally",
+   "one time and non-recurring provision for bad and doubtful debts",
+   "increase in employee benefit expense",
+   "change in customer mix toward lower price clients with negotiated pricing",
+   "competitive market condition"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KIRLOSIND",
  "name": "Kirloskar Industries Limited",
  "scrip": "500243",
- "mcap_cr": 3453.18,
+ "mcap_cr": 3454.39,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 29,
     "profit": 35,
-    "quality": 42
+    "quality": 47
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 22,
     "profit": 13,
-    "quality": 16
+    "quality": 17
    },
    "capped_by": null
   }
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kirloskar Industries Limited is a holding company with a material subsidiary Kirloskar Ferrous Industries Limited (KFIL), and evaluates opportunities to invest in group companies and deploy capital to support their investment plans.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure on Property, Plant and Equipment (PPE) including Capital Work in Progress",
+    "amount_cr": null,
+    "timeline": "FY 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Kirtane & Pandit LLP, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Report on Consolidated Financial Statements dated May 19, 2026 having UDIN 26117309NQGXWJ7139 stands cancelled due to amalgamation of ISMT Limited with KFIL effective 8 August 2024; windmill business classified as discontinued operations."
+  },
+  "promoter_holding_pct": 50.01,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 6,
+  "key_risks": [
+   "Business ethics and conduct",
+   "Risk management across segments",
+   "Integration of ESG considerations into risk assessment",
+   "Compliance with regulatory requirements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

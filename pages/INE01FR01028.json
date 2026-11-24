@@ -3,7 +3,7 @@
  "sym": "STYLEBAAZA",
  "name": "Baazar Style Retail Limited",
  "scrip": "544243",
- "mcap_cr": 3858.57,
+ "mcap_cr": 3889.41,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 69,
     "profit": 39,
-    "quality": 16
+    "quality": 31
    },
    "capped_by": null
   }
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-02-17"
+  "latest_concall": "2026-02-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Baazar Style Retail Limited operates as a fashion retailer targeting Gen Z and young millennials in Tier II, III, and IV towns across India, offering contemporary designs, superior quality, and value-driven offerings.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matters include accounting of Right of Use (ROU) Assets and Leases under Ind AS 116, and existence and valuation of Inventories under Ind AS 2."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Volume of lease contracts and judgements in assumptions and estimates for ROU assets and lease liabilities under Ind AS 116",
+   "Existence and valuation of inventories under Ind AS 2"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

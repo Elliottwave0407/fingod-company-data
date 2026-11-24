@@ -3,7 +3,7 @@
  "sym": "UFBL",
  "name": "United Foodbrands Limited",
  "scrip": "543283",
- "mcap_cr": 2146.17,
+ "mcap_cr": 2098.83,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 54.41,
    "pat": -15.07,
    "margin_pct": 15.1,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 46,
     "profit": 12,
-    "quality": 0
+    "quality": 75
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 69.85,
    "pat": 2.31,
    "margin_pct": 16.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 90,
     "profit": 54,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

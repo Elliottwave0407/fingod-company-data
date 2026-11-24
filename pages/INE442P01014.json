@@ -3,7 +3,7 @@
  "sym": "SUYOG",
  "name": "Suyog Telematics Limited",
  "scrip": "537259",
- "mcap_cr": 580.64,
+ "mcap_cr": 567.28,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 41.79,
    "pat": 14.49,
    "margin_pct": 74.6,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 73,
     "profit": 100,
-    "quality": 8
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 51,
     "profit": 20,
-    "quality": 9
+    "quality": 6
    },
    "capped_by": null
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Suyog Telematics Limited is a passive telecom infrastructure provider engaged in building, operating and maintaining telecom towers, poles and Optical Fiber Cable networks, providing ready-to-use infrastructure to telecommunications service providers under long-term Master Service Agreements.",
+  "segments": [
+   {
+    "name": "Passive Telecom Infrastructure",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 93.43,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Amruta Giradkar & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis on provisional revenue recognition for tenancy arrangements pending final reconciliation with telecom operators; loans granted to related parties during the year accounted at arm's length with no impairment considered necessary; MSME dues identification and interest computation subject to ongoing reconciliations and independent confirmations, with no provision created on outstanding MSME creditors."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Provisional revenue recognition pending final reconciliation with telecom operators",
+   "Loans to related parties with recovery dependent on management representation",
+   "MSME dues identification and interest computation subject to ongoing reconciliations",
+   "No provision created on outstanding MSME creditors as per MSMED Act, 2006"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

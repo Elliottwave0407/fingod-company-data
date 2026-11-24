@@ -3,7 +3,7 @@
  "sym": "ANIKINDS",
  "name": "Anik Industries Limited",
  "scrip": "519383",
- "mcap_cr": 107.68,
+ "mcap_cr": 103.35,
  "group": "B",
  "quarters": [
   {
@@ -95,7 +95,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Anik Industries Limited operates in multiple jurisdictions and is subject to periodic challenges by local tax authorities on a range of tax matters including direct and indirect tax matters.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B. Shroff & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Evaluation of uncertain tax positions",
+   "The Company operates in multiple jurisdictions and is subject to periodic challenges by local tax authorities on a range of tax matters during the normal course of business including direct and indirect tax matters."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

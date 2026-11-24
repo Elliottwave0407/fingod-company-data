@@ -3,7 +3,7 @@
  "sym": "RAYMONDREL",
  "name": "Raymond Realty Limited",
  "scrip": "544420",
- "mcap_cr": 4145.37,
+ "mcap_cr": 4076.02,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 92,
     "profit": 89,
-    "quality": 4
+    "quality": 10
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 106.27,
    "pat": 53.06,
    "margin_pct": 14.2,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 45,
     "profit": 54,
-    "quality": 24
+    "quality": 17
    },
    "capped_by": null
   }
@@ -95,7 +95,32 @@
   "missing": [],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-10-30"
+  "latest_concall": "2026-10-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Raymond Realty Limited is a focused, pure-play real estate developer with a diversified residential and retail portfolio across the Mumbai Metropolitan Region (MMR), leveraging owned land in Thane and an asset-light Joint Development Agreement (JDA) model in key micro-markets.",
+  "segments": [
+   {
+    "name": "Residential Real Estate Development",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding the Scheme of Arrangement between Raymond Limited (Demerged Company) and Raymond Realty Limited, approved by NCLT, for demerger of real estate business undertaking effective 01 April 2025, with accounting effect given in current year. Opinion not modified."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

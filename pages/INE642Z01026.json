@@ -91,7 +91,41 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "AKI India Limited operates in the leather and leather goods segment, engaged in manufacturing and export of leather products.",
+  "segments": [
+   {
+    "name": "Leather & Leather Goods",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. R K Parmarthi & Co., Chartered Accountants, Kanpur",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Low-cost Chinese imports",
+   "Rising demand for non-leather substitutes",
+   "Counterfeit products",
+   "Technology obsolescence",
+   "Government policy shifts",
+   "Global economic instability",
+   "Diverse consumer preferences",
+   "Maintaining consistent quality while keeping prices competitive"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

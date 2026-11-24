@@ -3,7 +3,7 @@
  "sym": "AARTIDRUGS",
  "name": "Aarti Drugs Limited",
  "scrip": "524348",
- "mcap_cr": 4422.49,
+ "mcap_cr": 4406.52,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 95.8,
    "pat": 55.26,
    "margin_pct": 13.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 33,
     "profit": 37,
-    "quality": 31
+    "quality": 17
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 66,
     "profit": 54,
-    "quality": 28
+    "quality": 16
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aarti Drugs Limited is engaged in the manufacturing of Active Pharmaceutical Ingredients (APIs), pharmaceutical intermediates, and finished dosages with a focus on regulated markets.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Monthly Capacity",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Mehta & Mehta",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 2200,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

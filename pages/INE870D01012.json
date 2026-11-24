@@ -3,7 +3,7 @@
  "sym": "NFL",
  "name": "National Fertilizers Limited",
  "scrip": "523630",
- "mcap_cr": 3173.55,
+ "mcap_cr": 3112.23,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 52,
     "profit": 59,
-    "quality": 38
+    "quality": 46
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 266.81,
    "pat": 113.38,
    "margin_pct": 5.9,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 85,
     "profit": 70,
-    "quality": 21
+    "quality": 84
    },
    "capped_by": null
   }
@@ -99,7 +99,41 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "National Fertilizers Limited is a public sector undertaking engaged in the manufacturing and marketing of fertilizers (primarily urea) and industrial products.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Estimated amount of contracts remaining to be executed on capital accounts and not provided for (net of advances)",
+    "amount_cr": 290.46,
+    "timeline": "As at 31st March 2026"
+   },
+   {
+    "item": "Unutilized amount of Letter of Credit",
+    "amount_cr": 35.28,
+    "timeline": "As at 31st March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Dassani & Associates LLP and RSPH & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on recognition of subsidy income of Rs 1479.97 Crores on DAP & TSP fertilizers for the year ended 31st March 2026 based on operational guidelines issued by Department of Fertilizers."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to estimation of concession/IPP rates not yet notified by Government",
+   "Non-compliance with SEBI LODR Regulations regarding Board composition, Independent Directors, and Committee constitution during FY 2025-26"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "BCG",
  "name": "Brightcom Group Limited",
  "scrip": "532368",
- "mcap_cr": 1781.83,
+ "mcap_cr": 1737.43,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 57,
-    "quality": 66
+    "quality": 75
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 63,
     "profit": 59,
-    "quality": 54
+    "quality": 55
    },
    "capped_by": null
   }
@@ -99,7 +99,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Brightcom Group Limited operates at the intersection of technology, data, audiences and digital media, with an established AdTech business (Online Media Solutions) and developing capabilities in Services, Defence, and NextGen technology areas.",
+  "segments": [
+   {
+    "name": "AdTech (Online Media Solutions)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Defence",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "NextGen",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s P R Chandra & Co., Chartered Accountants",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualifications include: (1) Investment in Ybrant Media Acquisition Inc. has negative equity/net worth indicating impairment but company has neither impaired nor created provision; (2) Company has not disseminated standalone financial statements of subsidiaries on its website for FY 2014-15 to FY 2021-22; (3) Opening balances of investments, receivables and payables with related parties not reconciled. Secretarial Audit Report also contains qualifications."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inadequate internal financial controls with reference to financial statements",
+   "Impairment risk on investment in Ybrant Media Acquisition Inc. (subsidiary with negative equity)",
+   "Non-compliance with requirement to disseminate subsidiary financial statements on website",
+   "Unreconciled opening balances of investments, receivables and payables with related parties",
+   "Secretarial Audit qualifications/adverse observations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "3IINFOLTD",
  "name": "3i Infotech Limited",
  "scrip": "532628",
- "mcap_cr": 384.71,
+ "mcap_cr": 382.43,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 32,
     "profit": 81,
-    "quality": 45
+    "quality": 17
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 3.29,
    "pat": 6.72,
    "margin_pct": 1.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 32,
     "profit": 80,
-    "quality": 40
+    "quality": 0
    },
    "capped_by": null
   }
@@ -109,7 +109,35 @@
   "missing": [],
   "concalls_found": 7,
   "concalls_read": 0,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "3i Infotech Limited provides IT services comprising software development and related services, and operates the NuRe\u2122 platform ecosystem across industries and geographies.",
+  "segments": [
+   {
+    "name": "US Revenue",
+    "share_of_revenue_pct": 49
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "CKSP and Co. LLP, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on legacy related assets and liabilities which are long outstanding matters; Board constituted High-Powered Committee, filed complaint with Additional Commissioner of Police, Economic Offence Wing, Navi Mumbai Police Commissionerate, presently under investigation; no further adverse financial impact."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions, risks and uncertainties; actual results may differ materially.",
+   "Legacy related assets and liabilities long outstanding matters under investigation."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

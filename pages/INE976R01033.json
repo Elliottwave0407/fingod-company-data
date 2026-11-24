@@ -3,7 +3,7 @@
  "sym": "AGIIL",
  "name": "Agi Infra Limited",
  "scrip": "539042",
- "mcap_cr": 3823.67,
+ "mcap_cr": 3915.54,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 55,
     "profit": 100,
-    "quality": 73
+    "quality": 91
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "AGI Infra Limited is a real estate development company engaged in the construction and sale of residential and commercial properties, primarily in Punjab, using technologies like MIVAN aluminium formwork.",
+  "segments": [
+   {
+    "name": "Real Estate Development",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Investment in Construction of ongoing projects",
+    "amount_cr": 56,
+    "timeline": "QIP proceeds utilization by March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Pipeline of approximately 7.9 million square feet scheduled for launch in the near future",
+    "metric": "Launch Pipeline",
+    "value": "7.9 million sq ft",
+    "by_when": "Near future"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s R.S Kalra & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition timing and control transfer",
+   "Inventory valuation complexities across multiple locations and work-in-progress stages",
+   "Trade receivables ageing and customer repayment ability",
+   "Disputed Service Tax liability of Rs 9.69 crore for 2012-13 to 2016-17 pending at CESTAT",
+   "Properties not held in company's name (held by Managing Director and related party)"
+  ],
+  "dividend_per_share": 0.2
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "RAMRAT",
  "name": "Ram Ratna Wires Limited",
  "scrip": "522281",
- "mcap_cr": 4809.34,
+ "mcap_cr": 4758.47,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 42,
-    "quality": 60
+    "quality": 72
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 41,
-    "quality": 58
+    "quality": 72
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 33,
-    "quality": 58
+    "quality": 70
    },
    "capped_by": null
   }
@@ -109,7 +109,38 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ram Ratna Wires Limited manufactures winding wires, cables, and related products, and is setting up a new manufacturing facility at Bhiwadi, Rajasthan.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "New manufacturing facility at Bhiwadi, Rajasthan and capacity enhancement at existing plants",
+    "amount_cr": 307.17,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Bhagwagar Dalal & Doshi",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on tax demand of \u20b96,790.77 Lakhs (excluding interest of \u20b93,149.05 Lakhs) for AY 2021-22 to 2024-25 pursuant to search and seizure action u/s 132 of Income Tax Act, and reassessment notices u/s 148 for Global Copper Private Limited (merged) for AY 2019-20 and 2020-21. No adjustments made in financial statements."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Tax demands and reassessment proceedings under Income Tax Act",
+   "High capital expenditure and execution risk for new Bhiwadi facility",
+   "Dependence on working capital loans with personal guarantees from promoters",
+   "Interest rate risk on floating rate borrowings linked to REPO/EBLR/MCLR"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

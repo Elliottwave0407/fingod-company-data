@@ -3,7 +3,7 @@
  "sym": "SGL",
  "name": "STL Global Limited",
  "scrip": "532730",
- "mcap_cr": 26.74,
+ "mcap_cr": 26.19,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -0.91,
    "pat": -0.7,
    "margin_pct": -4.4,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 4,
+    "profit": -4,
+    "quality": 14
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -91,7 +95,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "STL Global Limited is a company listed on BSE and NSE with registered office in New Delhi and corporate office in Faridabad, Haryana.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 65.76,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

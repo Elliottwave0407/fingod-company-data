@@ -3,7 +3,7 @@
  "sym": "RTNINDIA",
  "name": "RattanIndia Enterprises Limited",
  "scrip": "534597",
- "mcap_cr": 3360.3,
+ "mcap_cr": 3350.62,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -100.84,
    "pat": -110.1,
    "margin_pct": -5.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 47,
+    "profit": 75,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,7 +70,7 @@
    "pillars": {
     "growth": 5,
     "profit": 2,
-    "quality": 6
+    "quality": 0
    },
    "capped_by": null
   }
@@ -95,7 +99,64 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "RattanIndia Enterprises Limited operates in digital commerce, electric mobility (through Revolt Intellicorp), advanced drone technologies, and consumer brands (through Neobrands Limited).",
+  "segments": [
+   {
+    "name": "Drone Business",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Electric Vehicle Business (Revolt Intellicorp)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Neobrands Limited (Consumer Brands)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Cocoblu Retail Limited (E-commerce seller)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Revolt Intellicorp Manesar facility - 50,000th electric motorcycle rolled out",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Government's vision of making India a global drone manufacturing hub by 2030",
+    "metric": "Drone manufacturing hub",
+    "value": "Global hub",
+    "by_when": "2030"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Rajesh Kumar (Whole-Time Director) and Ashok Kumar Sharma (CFO) certified; Independent Auditor's Report referenced but firm name not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical uncertainty and evolving global supply chains",
+   "Persistent inflationary pressures in advanced economies",
+   "Dependence on imported defence technologies and vulnerabilities in global supply chains",
+   "Impairment indicators in respect of subsidiary (Revolt Intellicorp) requiring recoverability assessment",
+   "Inventory existence and valuation risks at fulfilment centres managed by third-party marketplace platforms",
+   "Significant management judgement and estimates for inventory loss provisions and net realisable value"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

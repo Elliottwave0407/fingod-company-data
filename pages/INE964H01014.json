@@ -3,7 +3,7 @@
  "sym": "SEPC",
  "name": "SEPC Limited",
  "scrip": "532945",
- "mcap_cr": 787.39,
+ "mcap_cr": 776.02,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 50,
     "profit": 3,
-    "quality": 73
+    "quality": 33
    },
    "capped_by": null
   },
@@ -99,7 +99,34 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SEPC Limited is engaged in the Turnkey EPC business covering engineering, procurement and construction activities with principal areas of operation including municipal and water infrastructure, water and wastewater treatment projects, roads, metallurgical and process plants and other infrastructure projects.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": 10000,
+  "auditor": {
+   "name": "M S K A & Associates LLP",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion on: (i) Carrying value of Deferred Tax Asset (DTA) of Rs.28,187.76 lakhs recognized on carried forward business losses due to insufficient audit evidence for future taxable profits; (ii) Non-Current Contract Assets include overdue balances of Rs.9,037.98 lakhs and Non-Current Trade Receivables include overdue balances of Rs.5,844.92 lakhs relating to stalled projects/disputes where recoverability could not be corroborated."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Performance risk like achievability of guaranteed parameters, time schedule, warranty and defect liability obligations",
+   "Interfacing risks like coordination with multiple agencies for approvals and clearance",
+   "Geographic risks like unfavorable weather conditions, earthquake floods etc.",
+   "Competition risks in the intensely competitive infrastructure industry",
+   "Occupational Health & Safety (OHS) risks",
+   "Foreign exchange and commodity price risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

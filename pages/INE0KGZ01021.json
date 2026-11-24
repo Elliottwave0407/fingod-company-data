@@ -3,7 +3,7 @@
  "sym": "SIGNPOST",
  "name": "Signpost India Limited",
  "scrip": "544117",
- "mcap_cr": 1198.62,
+ "mcap_cr": 1157.99,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 42.54,
    "pat": 21.1,
    "margin_pct": 26.3,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 94,
     "profit": 100,
-    "quality": 66
+    "quality": 100
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 34.31,
    "pat": 18.66,
    "margin_pct": 22.5,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 41,
     "profit": 44,
-    "quality": 52
+    "quality": 59
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Signpost India Limited finances, builds, and maintains public transit amenities at zero capital cost to municipal bodies, securing exclusive multi-year operating rights for out-of-home advertising.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

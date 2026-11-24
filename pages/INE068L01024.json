@@ -3,7 +3,7 @@
  "sym": "CANTABIL",
  "name": "Cantabil Retail India Limited",
  "scrip": "533267",
- "mcap_cr": 2063.77,
+ "mcap_cr": 2032.4,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 78.1,
    "pat": 29.23,
    "margin_pct": 30.8,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 65,
     "profit": 91,
-    "quality": 43
+    "quality": 64
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 59.38,
    "pat": 16.33,
    "margin_pct": 33.2,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 54,
     "profit": 75,
-    "quality": 22
+    "quality": 41
    },
    "capped_by": null
   }
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Cantabil Retail India Limited designs, manufactures, sources, brands and retails apparel and accessories under the Cantabil name through company-operated stores, franchise outlets and online marketplaces across 308 cities in 21 states.",
+  "segments": [
+   {
+    "name": "Apparel and accessories retail",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Retail area",
+    "amount_cr": null,
+    "timeline": "FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

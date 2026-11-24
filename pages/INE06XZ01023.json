@@ -3,7 +3,7 @@
  "sym": "GEMAROMA",
  "name": "Gem Aromatics Limited",
  "scrip": "544491",
- "mcap_cr": 722.44,
+ "mcap_cr": 717.22,
  "group": "B",
  "quarters": [
   {
@@ -95,7 +95,33 @@
   "missing": [],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2026-08-20"
+  "latest_concall": "2026-08-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gem Aromatics Limited is an Indian specialty ingredients manufacturer of essential oils, aroma chemicals, and value-added derivatives catering to the flavour, fragrance, personal care, wellness, and pharmaceutical industries.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Total Capacity",
+    "amount_cr": null,
+    "timeline": "16,171 MTPA"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

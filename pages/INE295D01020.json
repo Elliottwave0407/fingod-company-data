@@ -3,7 +3,7 @@
  "sym": "NACLIND",
  "name": "NACL Industries Limited",
  "scrip": "524709",
- "mcap_cr": 2747.67,
+ "mcap_cr": 2737.13,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 83,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": "net loss"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 26,
     "profit": 63,
-    "quality": 67
+    "quality": 86
    },
    "capped_by": null
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "NACL Industries Limited is a crop protection company with manufacturing capabilities, a diversified product portfolio, and a formulations business, now part of the Murugappa Group following Coromandel International's acquisition of a controlling stake.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work-in-progress additions",
+    "amount_cr": 16.64,
+    "timeline": "FY2025-26"
+   },
+   {
+    "item": "Capital work-in-progress capitalisations",
+    "amount_cr": 18.92,
+    "timeline": "FY2025-26"
+   },
+   {
+    "item": "Right of use assets additions (Buildings)",
+    "amount_cr": 11.54,
+    "timeline": "FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Concentration of sales to dealers/distributors (45% of total sales in FY26)",
+   "High related party transaction exposure (100% of loans/advances and investments with related parties)",
+   "Inherent limitations of internal financial controls including possibility of collusion or management override",
+   "Transition and integration risks following acquisition by Coromandel International/Murugappa Group"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

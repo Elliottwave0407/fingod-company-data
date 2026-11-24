@@ -3,7 +3,7 @@
  "sym": "NATCAPSUQ",
  "name": "Natural Capsules Limited",
  "scrip": "524654",
- "mcap_cr": 130.61,
+ "mcap_cr": 130.19,
  "group": "T",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 69,
     "profit": 50,
-    "quality": 0
+    "quality": 47
    },
    "capped_by": "net loss"
   }
@@ -97,9 +97,54 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 6,
-  "concalls_read": 6,
-  "latest_concall": "2026-06-03"
+  "concalls_found": 7,
+  "concalls_read": 7,
+  "latest_concall": "2026-11-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Natural Capsules Limited manufactures hard gelatin capsules, HPMC vegetarian capsules, and specialty capsule variants, and through its subsidiary Natural Biogenex Private Limited, produces complex steroidal active pharmaceutical ingredients.",
+  "segments": [
+   {
+    "name": "Capsules",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Steroidal APIs",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "API facility at Tumkur",
+    "amount_cr": null,
+    "timeline": "FY26"
+   },
+   {
+    "item": "New HPMC line in capsules",
+    "amount_cr": null,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Uncertain tax positions",
+   "Trade receivables impairment risk",
+   "Temporary disruption at one facility",
+   "Reported loss during the year"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

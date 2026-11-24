@@ -3,7 +3,7 @@
  "sym": "NILKAMAL",
  "name": "Nilkamal Limited",
  "scrip": "523385",
- "mcap_cr": 3133.06,
+ "mcap_cr": 3014.8,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 95.95,
    "pat": 41.69,
    "margin_pct": 9.9,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 43,
     "profit": 44,
-    "quality": 42
+    "quality": 54
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 45,
     "profit": 64,
-    "quality": 52
+    "quality": 77
    },
    "capped_by": "revenue down YoY"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 76,
     "profit": 72,
-    "quality": 67
+    "quality": 86
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nilkamal Limited manufactures and sells plastic furniture, material handling products, and related items through its plants across India.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S R B C & CO LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 20
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

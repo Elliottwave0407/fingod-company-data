@@ -3,7 +3,7 @@
  "sym": "CARYSIL",
  "name": "CARYSIL LIMITED",
  "scrip": "524091",
- "mcap_cr": 2645.45,
+ "mcap_cr": 2605.91,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 61,
     "profit": 69,
-    "quality": 70
+    "quality": 80
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 53.4,
    "pat": 32.05,
    "margin_pct": 20.4,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 57,
     "profit": 59,
-    "quality": 67
+    "quality": 75
    },
    "capped_by": null
   }
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Carysil Limited is a manufacturer of quartz sinks and integrated kitchen and bathroom solutions, including appliances, faucets, and surfaces, with proprietary German-engineered technology.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Ambition to build India's largest integrated kitchen hub and create a globally admired Indian brand with a clear pathway towards becoming a USD 1 Billion company.",
+    "metric": "Revenue",
+    "value": "USD 1 Billion",
+    "by_when": "Not specified"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "PARK & COMPANY",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 4,
+  "key_risks": [
+   "Forward-looking statements subject to inherent risks and uncertainties; assumptions and predictions may not prove accurate."
+  ],
+  "dividend_per_share": 3
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

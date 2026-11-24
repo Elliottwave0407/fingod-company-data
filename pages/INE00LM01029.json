@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 100,
     "profit": 40,
-    "quality": 68
+    "quality": 65
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 100,
     "profit": 48,
-    "quality": 74
+    "quality": 76
    },
    "capped_by": null
   },
@@ -81,7 +81,7 @@
    "pillars": {
     "growth": 100,
     "profit": 7,
-    "quality": 79
+    "quality": 70
    },
    "capped_by": null
   }
@@ -106,7 +106,31 @@
   "missing": [],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2026-10-30"
+  "latest_concall": "2026-10-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sonam Limited manufactures quartz surfaces at its plant in Morbi, Gujarat.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on note 46 regarding non-provision of interest payable to MSME suppliers as per MSMED Act, 2006; auditor unable to quantify effect pending confirmation/reconciliation."
+  },
+  "promoter_holding_pct": 57.55,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Non-provision of interest payable to MSME suppliers may affect financial statements",
+   "Foreign exchange risk exposure",
+   "Commodity price risk (though stated as not material)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

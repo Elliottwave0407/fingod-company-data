@@ -3,7 +3,7 @@
  "sym": "MODISONLTD",
  "name": "MODISON LIMITED",
  "scrip": "506261",
- "mcap_cr": 1036.62,
+ "mcap_cr": 1066.63,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 94,
-    "quality": 83
+    "quality": 100
    },
    "capped_by": "margin down over 1 pt QoQ"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 95,
-    "quality": 82
+    "quality": 100
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 31,
-    "quality": 81
+    "quality": 72
    },
    "capped_by": null
   }
@@ -109,7 +109,40 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Modison Limited is engaged in the manufacturing of electrical contacts.",
+  "segments": [
+   {
+    "name": "Manufacturing of Electrical Contacts",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Addition Fixed Assets",
+    "amount_cr": 13.66,
+    "timeline": "2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M L BHUWANIA AND CO LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inventory valuation risk due to high inventory levels (43.72% of total assets)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

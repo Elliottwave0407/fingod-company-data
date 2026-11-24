@@ -3,7 +3,7 @@
  "sym": "GATEWAY",
  "name": "Gateway Distriparks Limited",
  "scrip": "543489",
- "mcap_cr": 2347.83,
+ "mcap_cr": 2392.79,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 25,
     "profit": 98,
-    "quality": 40
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 25,
     "profit": 48,
-    "quality": 16
+    "quality": 12
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 126.06,
    "pat": 58.53,
    "margin_pct": 21.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 31,
     "profit": 55,
-    "quality": 21
+    "quality": 17
    },
    "capped_by": null
   }
@@ -109,7 +109,42 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-04"
+  "latest_concall": "2026-11-04",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gateway Distriparks Limited operates as a container logistics company providing rail transportation, container handling, inland container depot (ICD) services, and multimodal logistics solutions for EXIM and domestic cargo in India.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "New ICD at Indore (Pithampur)",
+    "amount_cr": 150,
+    "timeline": "Under development"
+   },
+   {
+    "item": "MMLP Ankleshwar container train operations",
+    "amount_cr": null,
+    "timeline": "15-year agreement"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Co. LLP",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion on advances of Rs. 866.25 lakhs for land acquisition under Benami Property Transactions Act attachment; Emphasis of Matter on SEIS benefits demand of Rs. 18,409.94 lakhs"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 4,
+  "key_risks": [
+   "Regulatory proceedings under Prohibition of Benami Property Transactions Act, 1988 affecting land advances of Rs. 866.25 lakhs",
+   "Demand orders/notices of Rs. 18,409.94 lakhs challenging SEIS benefits availed for FY 2015-16 to 2018-19",
+   "Climate-related transition risks impacting asset values, fair value measurements, and decommissioning liabilities"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

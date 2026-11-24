@@ -3,7 +3,7 @@
  "sym": "AMBIKCO",
  "name": "Ambika Cotton Mills Limited",
  "scrip": "531978",
- "mcap_cr": 843.92,
+ "mcap_cr": 830.7,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 95,
     "profit": 37,
-    "quality": 80
+    "quality": 66
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 84,
     "profit": 57,
-    "quality": 79
+    "quality": 80
    },
    "capped_by": null
   }
@@ -99,7 +99,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ambika Cotton Mills Limited is engaged in the manufacturing of cotton yarn and knitted fabrics with spinning and knitting segments, utilizing renewable energy for captive consumption.",
+  "segments": [
+   {
+    "name": "Spinning",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Knitting",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Wind power capacity",
+    "amount_cr": null,
+    "timeline": "Installed"
+   },
+   {
+    "item": "Roof Top Solar capacity",
+    "amount_cr": null,
+    "timeline": "Installed"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly named in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Volatility in input prices affecting inventory valuation",
+   "Significant judgement involved in determining cost of inventories, particularly work-in-progress and finished goods"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

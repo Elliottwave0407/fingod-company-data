@@ -3,7 +3,7 @@
  "sym": "TERASOFT",
  "name": "Tera Software Limited",
  "scrip": "533982",
- "mcap_cr": 376.04,
+ "mcap_cr": 363.28,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 64,
-    "quality": 87
+    "quality": 75
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 57,
     "profit": 11,
-    "quality": 42
+    "quality": 12
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Tera Software Limited is a pure-play Indian e-Governance company providing end-to-end technology solutions including project conceptualization, design, development, implementation, system integration, operations & maintenance, and facility management services to Central and State Governments across 22 states.",
+  "segments": [
+   {
+    "name": "e-Governance and IT-enabled solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure on Projects Div",
+    "amount_cr": 10.8288,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "RPR & ASSOCIATES",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Dependence on Government and Public Sector projects where execution and revenue realization may be affected by administrative approvals and procedural delays",
+   "Lengthy receivable cycles and working capital requirements associated with large infrastructure and e-Governance projects",
+   "Intense competition from established domestic and multinational IT companies leading to pricing pressures and competitive bidding",
+   "Rapid technological advancements requiring continuous investments in technology, innovation and skilled human resources",
+   "Changes in Government policies, regulatory framework, contractual terms or project implementation schedules that may impact business operations and project timelines"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

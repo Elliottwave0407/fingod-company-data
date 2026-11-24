@@ -3,7 +3,7 @@
  "sym": "GOYALALUM",
  "name": "Goyal Aluminiums Limited",
  "scrip": "541152",
- "mcap_cr": 81.07,
+ "mcap_cr": 80.5,
  "group": "B",
  "quarters": [
   {
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 70,
     "profit": 51,
-    "quality": 100
+    "quality": 82
    },
-   "capped_by": "revenue growth under 10%"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Goyal Aluminiums Limited operates a manufacturing facility for aluminium products in Ballabgarh, Haryana.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. V.N. Purohit & Company",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "soaring energy costs",
+   "volatile trade policies",
+   "regulatory hurdles",
+   "geopolitical shocks",
+   "supply-demand imbalance"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

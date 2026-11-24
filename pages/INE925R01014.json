@@ -3,7 +3,7 @@
  "sym": "CMSINFO",
  "name": "CMS Info Systems Limited",
  "scrip": "543441",
- "mcap_cr": 3263.69,
+ "mcap_cr": 3294.91,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 27,
     "profit": 48,
-    "quality": 20
+    "quality": 5
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 168.85,
    "pat": 83.68,
    "margin_pct": 26.6,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 32,
     "profit": 66,
-    "quality": 24
+    "quality": 17
    },
    "capped_by": null
   }
@@ -99,7 +99,75 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-18"
+  "latest_concall": "2026-11-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "CMS Info Systems is India's leading unified Business Services Platform operating across 97% of India's geography, managing cash replenishment and reconciliation across 70,000+ ATMs, servicing over 65,000 retail touchpoints, operating approximately 1,400 currency-in-transit routes across 20,000 bank branches, monitoring over 50,000 sites in real time through its HAWKAI Vision AI platform, and powering ATM software on 65,000 machines through its ALGO MVS platform, processing approximately Rs 14 lakh Cr through its network annually.",
+  "segments": [
+   {
+    "name": "ATM Management Solutions",
+    "share_of_revenue_pct": 58
+   },
+   {
+    "name": "Technology and Payment Solutions",
+    "share_of_revenue_pct": 7
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Technology investment in FY26",
+    "amount_cr": 40,
+    "timeline": "FY26"
+   },
+   {
+    "item": "FSS Managed Services acquisition",
+    "amount_cr": 115,
+    "timeline": "Expected closure in H1 FY27"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Management targets EBITDA margins to return to 26%+ in FY27",
+    "metric": "EBITDA margin",
+    "value": "26%+",
+    "by_when": "FY27"
+   },
+   {
+    "statement": "FSS Managed Services acquisition expected to contribute approximately 4% to FY27 services revenue",
+    "metric": "Services revenue contribution",
+    "value": "4%",
+    "by_when": "FY27"
+   },
+   {
+    "statement": "Pipeline of 6,000 to 8,000 ATM units in active RFP stages",
+    "metric": "ATM units pipeline",
+    "value": "6,000 to 8,000",
+    "by_when": "Not specified"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "AGS disruption causing near-term revenue and margin pressure",
+   "Competitor exit leading to market consolidation but near-term capital pressure on smaller providers",
+   "Private banks cutting ATM sites and delaying payments",
+   "Outsourced ATM base contraction from 140,000 to 120,000 machines",
+   "Wage and fuel inflation impacting costs",
+   "Lower network utilization in H1 FY26",
+   "One-time investment in new delivery models",
+   "Transaction-linked contract bids avoided leading to lower short-term revenue"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "TFL",
  "name": "Transwarranty Finance Limited",
  "scrip": "532812",
- "mcap_cr": 61.23,
+ "mcap_cr": 60.08,
  "group": "B",
  "quarters": [
   {
@@ -87,7 +87,46 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Transwarranty Finance Limited is a non-banking financial company engaged in trade finance, fees and commission income, DP operations, and professional charges.",
+  "segments": [
+   {
+    "name": "Trade Finance",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Fees and Commission",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "DP Operations",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Professional Charges",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Pravesh Palod & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment of financial assets using Expected Credit Loss (ECL) approach involves significant management judgment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

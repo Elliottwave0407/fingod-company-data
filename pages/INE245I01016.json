@@ -3,7 +3,7 @@
  "sym": "NAGREEKCAP",
  "name": "Nagreeka Capital & Infrastructure Limited",
  "scrip": "532895",
- "mcap_cr": 30.15,
+ "mcap_cr": 28.6,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 7.25,
    "pat": 3.55,
    "margin_pct": 27.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 70,
     "profit": 20,
-    "quality": 28
+    "quality": 12
    },
    "capped_by": null
   }
@@ -99,7 +99,35 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nagreeka Capital & Infrastructure Limited is a Non-deposit taking Systemically Important Non-Banking Financial Company (NBFC-ND-SI) engaged in lending and investment activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. M&A Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on deferred tax assets of \u20b92359.31 Lakhs recognised on carry forward business losses based on management's assertion of virtual certainty of future profits."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Credit risk exposure from loans and advances",
+   "Complexity and judgement in ECL model for impairment loss allowance",
+   "Interest rate risk on gratuity obligation",
+   "Liquidity risk for gratuity payouts",
+   "Salary escalation risk on defined benefit plan",
+   "Demographic risk from mortality and attrition assumptions",
+   "Regulatory risk from changes in Gratuity Act"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

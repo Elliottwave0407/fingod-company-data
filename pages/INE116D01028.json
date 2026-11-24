@@ -3,7 +3,7 @@
  "sym": "BAGFILMS",
  "name": "B.A.G Films and Media Limited",
  "scrip": "532507",
- "mcap_cr": 86.73,
+ "mcap_cr": 86.08,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 15,
     "profit": 12,
-    "quality": 7
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 71,
     "profit": 62,
-    "quality": 66
+    "quality": 83
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "B.A.G. Films and Media Limited is primarily engaged in the business of content productions, broadcasting of TV Channels, distribution and allied activities and leasing, and also provides infrastructural support for content production.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Joy Mukherjee & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 49.37,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 4,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

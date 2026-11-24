@@ -3,7 +3,7 @@
  "sym": "HMVL",
  "name": "Hindustan Media Ventures Limited",
  "scrip": "533217",
- "mcap_cr": 662.53,
+ "mcap_cr": 707.25,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 64.2,
    "pat": 27.48,
    "margin_pct": 29.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 37,
     "profit": 100,
-    "quality": 11
+    "quality": 0
    },
    "capped_by": null
   },
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-13"
+  "latest_concall": "2026-11-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hindustan Media Ventures Limited is engaged in printing and publishing of newspapers and periodicals, primarily the Hindustan brand, across northern India including Delhi NCR, Uttar Pradesh, Uttarakhand, Bihar, and Jharkhand.",
+  "segments": [
+   {
+    "name": "Printing and publishing of newspaper & periodicals",
+    "share_of_revenue_pct": 98.6
+   },
+   {
+    "name": "Unallocated",
+    "share_of_revenue_pct": 1.4
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Printing and publishing of newspaper & periodicals",
+    "amount_cr": 1.77,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Unallocated",
+    "amount_cr": 77.7,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment of brand value (INR 6,696 lakhs) due to sensitivity in projected revenue growth, operating margin, long-term growth rate, and discount rates",
+   "Dependence on print advertising revenue amid shifting news consumption habits",
+   "Concentration in northern Indian markets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

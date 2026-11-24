@@ -3,7 +3,7 @@
  "sym": "JAYSREETEA",
  "name": "Jayshree Tea & Industries Limited",
  "scrip": "509715",
- "mcap_cr": 234.72,
+ "mcap_cr": 228.83,
  "group": "B",
  "quarters": [
   {
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 40,
     "profit": 63,
-    "quality": 0
+    "quality": 63
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -99,7 +99,58 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Jay Shree Tea & Industries Limited is engaged in the manufacturing and selling of tea, fertiliser, and sugar.",
+  "segments": [
+   {
+    "name": "Tea",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Fertiliser",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Sugar",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Segment Capital Expenditure (India)",
+    "amount_cr": 25.48,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Segment Capital Expenditure (Rest of the World)",
+    "amount_cr": 1.47,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Total Capital Expenditure",
+    "amount_cr": 26.95,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Singhi & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 5,
+  "key_risks": [
+   "Pending case under Section 58(A) of the Companies Act, 1956 relating to acceptance of a small amount during the period of approval of form by the Board and its filing with ROC, matter is subjudice"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

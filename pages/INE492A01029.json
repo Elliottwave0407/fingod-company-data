@@ -3,7 +3,7 @@
  "sym": "SUDARCOLOR",
  "name": "Sudarshan Colorants India Limited",
  "scrip": "506390",
- "mcap_cr": 848.14,
+ "mcap_cr": 836.83,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 53,
     "profit": 56,
-    "quality": 66
+    "quality": 49
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 34,
     "profit": 40,
-    "quality": 71
+    "quality": 56
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 34.48,
    "pat": 24.13,
    "margin_pct": 12.8,
-   "verdict_v3": "Blockbuster",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 95,
     "profit": 75,
-    "quality": 79
+    "quality": 66
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sudarshan Colorants India Limited manufactures pigments and preparations serving industries such as paints and coatings, plastics, corrosion protection, pharmaceuticals, and seed coloration.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M S K A & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

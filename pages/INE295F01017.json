@@ -3,7 +3,7 @@
  "sym": "BUTTERFLY",
  "name": "Butterfly Gandhimathi Appliances Limited",
  "scrip": "517421",
- "mcap_cr": 1030.04,
+ "mcap_cr": 1006.8,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 58,
     "profit": 42,
-    "quality": 58
+    "quality": 57
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 31.51,
    "pat": 20.18,
    "margin_pct": 9.5,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 48,
     "profit": 40,
-    "quality": 57
+    "quality": 51
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Butterfly Gandhimathi Appliances Limited manufactures and sells kitchen appliances such as mixer grinders and cooktops for Indian households.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

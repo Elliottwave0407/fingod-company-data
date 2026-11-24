@@ -3,7 +3,7 @@
  "sym": "KERNEX",
  "name": "Kernex Microsystems (India) Limited",
  "scrip": "532686",
- "mcap_cr": 2762.01,
+ "mcap_cr": 2666.4,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 105.12,
    "pat": 68.25,
    "margin_pct": 41.3,
-   "verdict_v3": "Blockbuster",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 79
+    "quality": 50
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 81
+    "quality": 100
    },
    "capped_by": "margin down over 1 pt QoQ"
   }
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kernex Microsystems (India) Limited is engaged in the supply, installation, testing, commissioning, and maintenance of Kavach (Train Collision Avoidance System) and other railway signaling and safety systems for Indian Railways and its production units.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "NSVR & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on recoverability of trade receivables (\u20b9422.73 lakhs, ECL provision \u20b9309.59 lakhs), margin money deposits (\u20b9265.03 lakhs), advances to Kernex TCAS JV (\u20b9637.87 lakhs, ECL allowance \u20b9403.07 lakhs), and impairment loss on investment in Avant-Garde Infosystems Inc."
+  },
+  "promoter_holding_pct": 60.07,
+  "promoter_pledge_pct": 8.83,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Recoverability of trade receivables from a customer (\u20b9422.73 lakhs) with ECL provision of \u20b9309.59 lakhs",
+   "Recoverability of margin money deposits with banks (\u20b9265.03 lakhs) against bank guarantees where arbitration/conciliation proceedings are pending",
+   "Recoverability of advances including interest accrued (\u20b9637.87 lakhs) to Kernex TCAS JV with ECL allowance of \u20b9403.07 lakhs",
+   "Impairment loss recognised on investment in wholly owned subsidiary Avant-Garde Infosystems Inc., USA"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

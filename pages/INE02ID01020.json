@@ -3,7 +3,7 @@
  "sym": "RAYMONDLSL",
  "name": "Raymond Lifestyle Limited",
  "scrip": "544240",
- "mcap_cr": 3373.04,
+ "mcap_cr": 3306.63,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 79,
     "profit": 55,
-    "quality": 0
+    "quality": 41
    },
    "capped_by": "net loss"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 45,
     "profit": 42,
-    "quality": 0
+    "quality": 39
    },
    "capped_by": "net loss"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 36,
     "profit": 25,
-    "quality": 7
+    "quality": 18
    },
    "capped_by": null
   }
@@ -109,7 +109,49 @@
   "missing": [],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-11-04"
+  "latest_concall": "2026-11-04",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Raymond Lifestyle Limited is a leading fashion and lifestyle company with a diversified portfolio of apparel and fabric brands across branded textiles, branded apparel, garmenting, and high-value cotton shirting, distributed through over 1,650 exclusive and multi-brand outlets, large-format retail, and digital channels.",
+  "segments": [
+   {
+    "name": "Branded Textile",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Branded Apparel",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Garmenting",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "High-Value Cotton Shirting",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "DM & Associates Company Secretaries LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "US tariffs and deferred orders affecting garmenting revenues",
+   "Elevated wool and linen fibre prices increasing input costs",
+   "Dependence on wedding and festive season demand for branded textiles",
+   "Consumer demand fluctuations in domestic and international markets"
+  ],
+  "dividend_per_share": 1
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

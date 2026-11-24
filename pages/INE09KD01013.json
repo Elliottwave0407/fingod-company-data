@@ -3,7 +3,7 @@
  "sym": "ATAM",
  "name": "Atam Valves Limited",
  "scrip": "543236",
- "mcap_cr": 57.21,
+ "mcap_cr": 56.28,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 1.6,
    "pat": 0.86,
    "margin_pct": 12.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 8,
     "profit": 10,
-    "quality": 20
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 1.08,
    "pat": 0.64,
    "margin_pct": 8.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 12,
     "profit": 7,
-    "quality": 24
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 3,
   "concalls_read": 2,
-  "latest_concall": "2024-07-22"
+  "latest_concall": "2024-07-22",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Atam Valves Limited manufactures industrial and plumbing valves, fittings, steam traps, boiler mountings and accessories for applications across oil & gas, refining, petrochemicals, chemicals, pharmaceuticals, marine, mining, water and wastewater, textiles, sugar, HVAC and several other industries.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Sohan & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 191,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 0.35
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

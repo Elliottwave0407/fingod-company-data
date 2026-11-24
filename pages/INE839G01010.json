@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 96,
     "profit": 43,
-    "quality": 72
+    "quality": 75
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 23,
     "profit": 34,
-    "quality": 34
+    "quality": 32
    },
    "capped_by": null
   }
@@ -96,7 +96,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Jocil Limited manufactures fatty acids, toilet soap and soap products, and generates power from biomass and wind sources.",
+  "segments": [
+   {
+    "name": "Fatty Acids",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Toilet Soap & Soap products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Biomass Power",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Wind Power",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "NEKKANTI S.R.V.V.S. NARAYANA & CO.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 731,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "raw materials availability and its prices",
+   "demand and pricing in the markets",
+   "changes in Government regulations",
+   "tax regimes",
+   "economic developments"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

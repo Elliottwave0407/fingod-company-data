@@ -3,7 +3,7 @@
  "sym": "SHEMAROO",
  "name": "Shemaroo Entertainment Limited",
  "scrip": "538685",
- "mcap_cr": 259.87,
+ "mcap_cr": 255.27,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -87.2,
    "pat": -71.97,
    "margin_pct": -62.5,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -50,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -1.82,
    "pat": -8.07,
    "margin_pct": -1.4,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 20,
+    "profit": 79,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -91,7 +99,50 @@
   ],
   "concalls_found": 20,
   "concalls_read": 8,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shemaroo Entertainment Limited is one of India's leading entertainment companies with a robust presence across OTT, digital video platforms, broadcasting and syndication, backed by a content library of 10,000+ hours across 8+ languages reaching 300 million viewers monthly.",
+  "segments": [
+   {
+    "name": "OTT",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Digital Video Platforms",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Broadcasting",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Syndication",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note 33.6 regarding search operation carried out during earlier year and demand raised by GST Department"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 5,
+  "key_risks": [
+   "Valuation & amortization estimate of inventory of copyrights involving management estimates of market conditions & demand",
+   "Revenue recognition policies",
+   "Dynamic market conditions affecting content valuation",
+   "Consumer behaviour evolution and business model pressure",
+   "Pace of disruption in media and entertainment industry"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "EKC",
  "name": "Everest Kanto Cylinder Limited",
  "scrip": "532684",
- "mcap_cr": 1128.02,
+ "mcap_cr": 1140.82,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 47.38,
    "pat": 30.16,
    "margin_pct": 13.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 8,
     "profit": 11,
-    "quality": 28
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-06-10"
+  "latest_concall": "2026-06-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Everest Kanto Cylinder Limited manufactures and sells cylinders and related products, with operations including a Dubai branch that was closed in March 2026.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Suresh Surana & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 0.7
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

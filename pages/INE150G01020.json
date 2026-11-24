@@ -3,7 +3,7 @@
  "sym": "LUXIND",
  "name": "Lux Industries Limited",
  "scrip": "539542",
- "mcap_cr": 3431.18,
+ "mcap_cr": 3423.81,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 24,
     "profit": 16,
-    "quality": 48
+    "quality": 29
    },
    "capped_by": null
   },
@@ -99,7 +99,52 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Lux Industries Limited manufactures and sells innerwear, outerwear, and related apparel products under multiple brands in India and internationally.",
+  "segments": [
+   {
+    "name": "Vertical A",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Vertical B",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Vertical C",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Rooftop solar systems at Avinashi facility (300 kW) and Tiruppur office and facility (400 kW)",
+    "amount_cr": null,
+    "timeline": "FY 2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s MR & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 4500,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Capex related risks through informed capital allocation",
+   "Financial uncertainty from capital expenditure for acquisition, modernization, or expansion of assets",
+   "Higher advertisement spends for new brand launches impacting profitability",
+   "Increased working capital requirements for newly launched brands",
+   "Cybersecurity risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

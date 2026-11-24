@@ -3,7 +3,7 @@
  "sym": "KSOLVES",
  "name": "Ksolves India Limited",
  "scrip": "543599",
- "mcap_cr": 485.91,
+ "mcap_cr": 488.88,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 81,
     "profit": 88,
-    "quality": 89
+    "quality": 100
    },
    "capped_by": "margin down over 1 pt QoQ"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 55,
     "profit": 90,
-    "quality": 79
+    "quality": 93
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 15,
     "profit": 20,
-    "quality": 44
+    "quality": 13
    },
    "capped_by": null
   }
@@ -109,7 +109,45 @@
   "missing": [],
   "concalls_found": 13,
   "concalls_read": 11,
-  "latest_concall": "2026-10-30"
+  "latest_concall": "2026-10-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "KSOLVES INDIA LIMITED is an IT company providing software development and related services.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Additions to Property, Plant and Equipment (including Right of Use Assets)",
+    "amount_cr": 1.59,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Additions to Property, Plant and Equipment (including Right of Use Assets)",
+    "amount_cr": 7.23,
+    "timeline": "FY 2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Trade receivables concentration risk (Rs. 3042.17 Lakhs, 49.46% of total assets) with increasing default risks in IT industry",
+   "Impairment assessment of trade receivables requiring significant judgements and assumptions",
+   "Fair value measurement of financial instruments using valuation techniques with unobservable inputs",
+   "Provision for income tax and deferred tax assets dependent on future taxable profits",
+   "Contingent liabilities assessment requiring significant judgements",
+   "Post-retirement benefit plan obligations sensitive to actuarial assumptions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

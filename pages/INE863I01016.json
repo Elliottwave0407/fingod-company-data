@@ -3,7 +3,7 @@
  "sym": "BANG",
  "name": "Bang Overseas Limited",
  "scrip": "532946",
- "mcap_cr": 38.44,
+ "mcap_cr": 38.85,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 2.33,
    "pat": 2.52,
    "margin_pct": 4.0,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 52,
     "profit": 32,
-    "quality": 94
+    "quality": 69
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 59,
     "profit": 35,
-    "quality": 0
+    "quality": 1
    },
    "capped_by": null
   }
@@ -99,7 +99,29 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Company is engaged in the manufacturing and/or trading of men's garments and related apparel products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "CA B. Gupta & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Raw Material Price Risk: Fluctuations in cotton, polyester, viscose and other fabric and accessory prices may affect production costs and operating margins."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

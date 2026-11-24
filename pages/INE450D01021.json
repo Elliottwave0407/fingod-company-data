@@ -3,7 +3,7 @@
  "sym": "PITTIENG",
  "name": "Pitti Engineering Limited",
  "scrip": "513519",
- "mcap_cr": 3311.82,
+ "mcap_cr": 3224.65,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 33,
     "profit": 37,
-    "quality": 4
+    "quality": 6
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 86.38,
    "pat": 29.5,
    "margin_pct": 16.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 51,
     "profit": 43,
-    "quality": 39
+    "quality": 59
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 56,
     "profit": 35,
-    "quality": 13
+    "quality": 9
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-27"
+  "latest_concall": "2026-10-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Company is engaged in the manufacture of high-precision engineering products primarily made from iron and steel, including electrical steel laminations, castings, die-cast rotors, sub-assemblies for motor and generator cores, and fully machined and fabricated components such as shafts.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Talati & Talati LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 2.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KNRCON",
  "name": "KNR Constructions Limited",
  "scrip": "532942",
- "mcap_cr": 2925.12,
+ "mcap_cr": 2859.31,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 48,
     "profit": 99,
-    "quality": 70
+    "quality": 92
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 36,
     "profit": 100,
-    "quality": 7
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,79 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-20"
+  "latest_concall": "2026-11-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "KNR Constructions Limited is an infrastructure developer engaged in the construction of highways, irrigation systems, urban corridors, and commercial mining assets across twelve states in India.",
+  "segments": [
+   {
+    "name": "Highways",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Irrigation",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Urban Corridors",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Commercial Mining",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Tangible Assets Additions",
+    "amount_cr": 5.97,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital Work-in-Progress Additions",
+    "amount_cr": 0.49,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Aim to add more business verticals in the fields of construction of Elevated Metro Rail and Railway Projects",
+    "metric": "Business Verticals",
+    "value": "Elevated Metro Rail and Railway Projects",
+    "by_when": null
+   },
+   {
+    "statement": "Focus on securing EPC contracts from reputed clients and concessionaire",
+    "metric": "Order Book",
+    "value": "EPC Contracts",
+    "by_when": null
+   },
+   {
+    "statement": "Execute all the projects on time or ahead of schedule",
+    "metric": "Project Execution",
+    "value": "On time or ahead of schedule",
+    "by_when": null
+   }
+  ],
+  "order_book_cr": 867.25,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding dues aggregating to Rs. 1,36,331.90 Lakhs relating to Kaleswaram Package 4 considered good for recovery by management based on contractual terms and internal assessments. Opinion not modified in respect of this matter."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 2500,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions, risks and uncertainties",
+   "Revenue recognition involves high level of management judgement in project estimates",
+   "Recovery of dues aggregating to Rs. 1,36,331.90 Lakhs relating to Kaleswaram Package 4",
+   "Dependence on government agencies and public sector clients"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

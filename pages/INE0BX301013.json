@@ -3,7 +3,7 @@
  "sym": "PROSTARM",
  "name": "Prostarm Info Systems Limited",
  "scrip": "544410",
- "mcap_cr": 738.88,
+ "mcap_cr": 739.46,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 46,
     "profit": 8,
-    "quality": 63
+    "quality": 43
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 91,
     "profit": 53,
-    "quality": 67
+    "quality": 69
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Prostarm Info Systems Limited is a leading provider of integrated power solutions, specialising in the design, manufacturing, assembly, supply and servicing of energy storage and power conditioning equipment, and also offers System Integration Solutions and Solar EPC services.",
+  "segments": [
+   {
+    "name": "Power Solutions (UPS, Inverters, BESS, Stabilizers, Transformers)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "System Integration Solutions (IT Infrastructure)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Solar EPC (Rooftop Solar Projects)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Value-Added Services (Installation, Rental, AMC, After-sales Support)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 467,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

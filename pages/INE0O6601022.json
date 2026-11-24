@@ -3,7 +3,7 @@
  "sym": "KROSS",
  "name": "Kross Limited",
  "scrip": "544253",
- "mcap_cr": 1791.43,
+ "mcap_cr": 1789.49,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 65,
     "profit": 48,
-    "quality": 68
+    "quality": 62
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 80,
     "profit": 48,
-    "quality": 57
+    "quality": 50
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 60,
-    "quality": 79
+    "quality": 84
    },
    "capped_by": null
   }
@@ -109,7 +109,70 @@
   "missing": [],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-10-22"
+  "latest_concall": "2026-10-22",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kross Limited is a leading manufacturer of safety-critical components for the commercial vehicle and farm equipment sectors, specializing in trailer axle and suspension assemblies with a fully backward-integrated model spanning design, forging, casting, machining, and assembly.",
+  "segments": [
+   {
+    "name": "Trailer Axle and Suspension Assemblies",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Trailer Axle and Suspension Assemblies Manufacturing Capacity",
+    "amount_cr": null,
+    "timeline": "7,500 per Month"
+   },
+   {
+    "item": "Capital Expenditure (IPO Proceeds)",
+    "amount_cr": 700.0,
+    "timeline": "Not specified"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "To be customer's first choice in all its product",
+    "metric": "Customer Preference",
+    "value": "First Choice",
+    "by_when": "Not specified"
+   },
+   {
+    "statement": "To be an aggregate manufacturer in its product line",
+    "metric": "Manufacturing Scope",
+    "value": "Aggregate Manufacturer",
+    "by_when": "Not specified"
+   },
+   {
+    "statement": "To develop new technologies for enhancing its product lines",
+    "metric": "Technology Development",
+    "value": "New Technologies",
+    "by_when": "Not specified"
+   },
+   {
+    "statement": "To grow with its team members and have near zero attrition",
+    "metric": "Employee Attrition",
+    "value": "Near Zero",
+    "by_when": "Not specified"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S K Naredi & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter: Favourable order from Hon'ble Jharkhand High Court quashing levy of electricity duty on net charges, disclosed as Contingent Asset pending finality of legal proceeding. Opinion not modified."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions, risks and uncertainties; actual results may differ materially"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

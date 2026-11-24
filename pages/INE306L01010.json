@@ -3,7 +3,7 @@
  "sym": "QUICKHEAL",
  "name": "Quick Heal Technologies Limited",
  "scrip": "539678",
- "mcap_cr": 787.83,
+ "mcap_cr": 778.34,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -29.32,
    "pat": -19.94,
    "margin_pct": -60.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 4,
+    "profit": -48,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -17.57,
    "pat": -5.28,
    "margin_pct": -39.1,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 7,
+    "profit": -31,
+    "quality": 12
+   },
+   "capped_by": null
   },
   {
    "q": "Sep-26",
@@ -76,7 +84,7 @@
    "pillars": {
     "growth": 3,
     "profit": 3,
-    "quality": 41
+    "quality": 14
    },
    "capped_by": null
   }
@@ -101,7 +109,41 @@
   "missing": [],
   "concalls_found": 9,
   "concalls_read": 1,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Quick Heal Technologies Ltd. operates as a globally recognised leader in the cybersecurity domain, delivering a comprehensive suite of security solutions designed to protect and defend digital assets across an extensive array of devices and platforms for consumers, SMEs, government entities, and large corporate organisations.",
+  "segments": [
+   {
+    "name": "Consumer",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Enterprise (Seqrite)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M S K A & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition involves significant management judgments relating to identification of separate performance obligations and allocation of transaction price",
+   "Company incurred cash losses of Rs 2.52 Crore in current financial year",
+   "Trade receivables include credit impaired amounts of Rs 55.62 Crore",
+   "Cybersecurity threats including AI-powered attacks, hybrid warfare operations, and ransomware evolution"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "REFEX",
  "name": "Refex Industries Limited",
  "scrip": "532884",
- "mcap_cr": 2919.54,
+ "mcap_cr": 2879.74,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 96,
     "profit": 94,
-    "quality": 74
+    "quality": 85
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 59,
-    "quality": 75
+    "quality": 81
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 94,
     "profit": 11,
-    "quality": 58
+    "quality": 50
    },
    "capped_by": null
   }
@@ -109,7 +109,75 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 10,
-  "latest_concall": "2026-11-02"
+  "latest_concall": "2026-11-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Refex Industries Limited operates a diversified portfolio comprising coal and ash handling services for thermal power plants, wind energy solutions through its subsidiary Venwind Refex Power Limited, and premium corporate mobility services through its subsidiary Refex Green Mobility Limited.",
+  "segments": [
+   {
+    "name": "Coal & Ash Handling",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Wind Energy Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Premium Corporate Mobility",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure for purchase of tipper lorries, JCBs, excavators, wheel loader and other vehicles",
+    "amount_cr": 19.68,
+    "timeline": "Preferential issue proceeds allocation (revised to \u20b90.62 crore)"
+   },
+   {
+    "item": "Working Capital needs",
+    "amount_cr": 96.0,
+    "timeline": "Preferential issue proceeds allocation (revised to \u20b9115.06 crore)"
+   },
+   {
+    "item": "General Corporate Purpose for repaying existing working capital loans and term loans",
+    "amount_cr": 54.0,
+    "timeline": "Preferential issue proceeds allocation"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Venwind became the first company to receive ALMM certification for a 5.3 MW wind turbine platform",
+    "metric": "ALMM certification",
+    "value": "5.3 MW wind turbine platform",
+    "by_when": "FY2025-26"
+   },
+   {
+    "statement": "Confirmed order book of over 400 MW secured within first year of operations",
+    "metric": "Order book",
+    "value": "400 MW",
+    "by_when": "FY2025-26"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on discontinuation of Power Trading and Refrigerant Gases business segments (Note 44) and Scheme of Amalgamation and Arrangement (Note 14)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Discontinuation of Power Trading and Refrigerant Gases business segments",
+   "Execution risk in Scheme of Amalgamation and Arrangement for mobility business demerger",
+   "Dependence on thermal power generation for ash handling business",
+   "Regulatory changes in ash utilisation norms",
+   "Competition and pricing pressures in refrigerant gases business (now discontinued)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

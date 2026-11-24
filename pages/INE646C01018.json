@@ -49,9 +49,13 @@
    "ebitda": -17.1,
    "pat": -19.01,
    "margin_pct": -175.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -140,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -63,7 +67,7 @@
    "pillars": {
     "growth": 85,
     "profit": 94,
-    "quality": 73
+    "quality": 80
    },
    "capped_by": null
   }
@@ -92,7 +96,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Grob Tea Company Limited is engaged in the cultivation, production, and sale of tea, including CTC and Orthodox varieties, from its tea estates in Assam and Cachar.",
+  "segments": [
+   {
+    "name": "Tea Cultivation and Manufacturing",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "New Orthodox Factory at Pathemara T.E.",
+    "amount_cr": null,
+    "timeline": "Expected to go into production by end of August 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Current season 2026 crop ahead in all gardens; Doyang and Dessoi gardens ahead by 64% and 66% respectively",
+    "metric": "Crop production increase",
+    "value": "64% and 66%",
+    "by_when": "Current season 2026"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B Nath & Company, Chartered Accountants (Firm Registration No. 307075E)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter: The Company has entered into the business of LED Lights in an earlier year with no sale of LED products during last four years. The total investment in the said LED Light Business as on March 31, 2026 is 119.77 Lakhs which includes only stocks at Net Realisable Value. The management is confident of recovery of the said amount in due course and no further provision is considered necessary for any possible losses that may arise in this behalf."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Erratic weather conditions and global warming impacting tea production and quality",
+   "Decline in average sale price realization due to supply-demand dynamics",
+   "Investment in LED Light business with no sales for four years and uncertain recovery",
+   "Significant judgement involved in valuation of biological assets and agricultural produce"
+  ],
+  "dividend_per_share": 2.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

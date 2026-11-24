@@ -3,7 +3,7 @@
  "sym": "ALMONDZ",
  "name": "Almondz Global Securities Limited",
  "scrip": "531400",
- "mcap_cr": 349.74,
+ "mcap_cr": 356.43,
  "group": "T",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 2.91,
    "pat": 5.18,
    "margin_pct": 4.0,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 41,
     "profit": 3,
-    "quality": 45
+    "quality": 5
    },
    "capped_by": null
   },
@@ -109,7 +109,40 @@
   "missing": [],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Almondz Global Securities Limited is a diversified enterprise operating across Financial Services (investment banking, institutional equities, wealth management, equity broking, depository participant services), Infrastructure & Engineering Advisory (project advisory, engineering consultancy, financial modelling, transaction advisory, project management), and Bioenergy (grain-based ethanol, ENA, DDGS manufacturing through Premier Green Innovations Private Limited).",
+  "segments": [
+   {
+    "name": "Financial Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Infrastructure & Engineering Advisory",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Bioenergy",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

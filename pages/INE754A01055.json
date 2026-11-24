@@ -3,7 +3,7 @@
  "sym": "SUBEXLTD",
  "name": "Subex Limited",
  "scrip": "532348",
- "mcap_cr": 982.38,
+ "mcap_cr": 1049.82,
  "group": "B",
  "quarters": [
   {
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 80,
     "profit": 95,
-    "quality": 72
+    "quality": 33
    },
-   "capped_by": "profit growth under 25%"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Subex Limited provides proprietary license, implementation, customization, and managed/support services primarily in the telecom analytics and digital trust space.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 0.0,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment assessment of investments in subsidiaries involves significant management judgement and estimates",
+   "Goodwill impairment testing involves significant judgement in projected revenue growth, operating margins, discount rates, profitability and terminal growth",
+   "Revenue recognition complexities, judgements and estimates in accounting for revenue recognized over time including estimation of total costs/efforts at inception and remaining costs/efforts to completion"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

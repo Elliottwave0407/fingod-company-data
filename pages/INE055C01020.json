@@ -3,7 +3,7 @@
  "sym": "KEEPLEARN",
  "name": "DSJ Keep Learning Limited",
  "scrip": "526677",
- "mcap_cr": 23.98,
+ "mcap_cr": 23.05,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "DSJ Keep Learning Limited provides support services to educational institutions, earning success fees upon student registration/enrolment and revenue from licensing proprietary software to educational institutions.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "NEUEON",
  "name": "Neueon Corporation Limited",
  "scrip": "532887",
- "mcap_cr": 558.09,
+ "mcap_cr": 547.92,
  "group": "T",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -206.46,
    "pat": -206.39,
    "margin_pct": -3346.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 52,
+    "profit": -2677,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -97,7 +101,9 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

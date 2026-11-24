@@ -3,7 +3,7 @@
  "sym": "ORCHASP",
  "name": "Orchasp Limited",
  "scrip": "532271",
- "mcap_cr": 39.49,
+ "mcap_cr": 40.53,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 0,
     "profit": -13,
-    "quality": 0
+    "quality": 40
    },
    "capped_by": null
   }
@@ -99,7 +99,41 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Orchasp Limited delivers technology-led solutions including enterprise applications, technology consulting, cloud enablement, digital transformation, systems integration, and managed technology services, while also operating digital platforms in healthcare (indusayush), logistics (induscargo), healthcare resources (induskare), retail (indusretail), enterprise collaboration (indusnetworx), and creative economy (induscrafts).",
+  "segments": [
+   {
+    "name": "Technology Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Digital Platforms",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "qualified",
+   "emphasis_or_qualification": "1. Carrying value of investments of Rs. 6,825 lakhs in Wholly Owned Subsidiary in Portugal (Cybermate International, Unipessoal, LDA) non-operational for over five years with notice for cancellation of Certificate of Incorporation; unable to comment on appropriateness of carrying value or impairment provision. 2. Trade Receivables and Trade Payables outstanding for more than 6 months without confirmations; unable to comment on recoverability/payability. 3. Company has not paid TDS payments and other statutory dues up to 31st March 2026."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Investment in non-operational subsidiary in Portugal with potential impairment",
+   "Long outstanding trade receivables and payables without confirmations",
+   "Non-payment of TDS and other statutory dues",
+   "Uncertain tax positions with material disputes"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

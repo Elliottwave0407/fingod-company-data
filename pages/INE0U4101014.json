@@ -3,7 +3,7 @@
  "sym": "BLUSPRING",
  "name": "Bluspring Enterprises Limited",
  "scrip": "544414",
- "mcap_cr": 2354.66,
+ "mcap_cr": 2293.96,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 19.64,
    "pat": 3.83,
    "margin_pct": 2.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 38,
     "profit": 58,
-    "quality": 0
+    "quality": 65
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 79,
     "profit": 42,
-    "quality": 0
+    "quality": 39
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -99,7 +99,55 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-11-13"
+  "latest_concall": "2026-11-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bluspring Enterprises Limited is India's only nationally scaled, people-powered, compliance-first, technology-enabled integrated infrastructure services enterprise delivering six service lines \u2014 facility management, food and hospitality, security, engineering, telecom network services, and talent platform \u2014 through a unified operating model.",
+  "segments": [
+   {
+    "name": "Facility Management and Food Services",
+    "share_of_revenue_pct": 58.4
+   },
+   {
+    "name": "Telecom and Industrials",
+    "share_of_revenue_pct": 18.6
+   },
+   {
+    "name": "Security services",
+    "share_of_revenue_pct": 19.0
+   },
+   {
+    "name": "Foundit",
+    "share_of_revenue_pct": 4.0
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 34.44,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 93000,
+  "subsidiaries_count": 9,
+  "key_risks": [
+   "Workforce formalisation and compliance with new Labour Codes",
+   "Dependence on outsourcing intensity across sectors",
+   "Technology enablement and digital transformation execution",
+   "Sustainability and ESG compliance requirements from clients"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

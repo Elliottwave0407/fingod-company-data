@@ -3,7 +3,7 @@
  "sym": "ROML",
  "name": "Raj Oil Mills Limited",
  "scrip": "533093",
- "mcap_cr": 64.91,
+ "mcap_cr": 62.04,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 36,
     "profit": 2,
-    "quality": 14
+    "quality": 1
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 25,
     "profit": 25,
-    "quality": 29
+    "quality": 16
    },
    "capped_by": null
   }
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Raj Oil Mills Limited is engaged in the crushing and filtration operations for edible oil production and develops packaging and products to make them duplicate proof and tamper proof.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Outstanding payments as per NCLT in relation to operational creditors and public fixed deposit holders as on March 31, 2026. The Company has an outstanding amount payable of Rs. 57.73 lakhs as on March 31, 2026 pertaining to unsecured operational creditors & public fixed deposits. The Company has filed an application to the Hon'ble NCLT seeking directions for payments required to be made in relation to the outstanding amount standing in respect of such non traceable unsecured operational creditors & public fixed deposits in the books of accounts as on date vide their letter dated September 30, 2022."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition involving key judgements such as identification of performance obligations, determination of transaction price including variable consideration in the form of rebates and discounts, and assessment of satisfaction of performance obligations",
+   "Outstanding payments to unsecured operational creditors and public fixed deposit holders as per NCLT resolution plan with non-traceable parties",
+   "Dependence on related parties for unsecured loans"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

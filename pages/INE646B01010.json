@@ -3,7 +3,7 @@
  "sym": "MEDICAMEQ",
  "name": "Medicamen Biotech Limited",
  "scrip": "531146",
- "mcap_cr": 388.91,
+ "mcap_cr": 382.74,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 87,
-    "quality": 93
+    "quality": 77
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 32,
     "profit": 21,
-    "quality": 37
+    "quality": 47
    },
    "capped_by": null
   }
@@ -99,7 +99,41 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Medicamen Biotech Limited is an integrated pharmaceutical enterprise dedicated to delivering high-quality and affordable therapeutics globally, with a growing focus on complex oncology and high-value general formulation segments.",
+  "segments": [
+   {
+    "name": "Domestic Brand Business (Medicamen Lifesciences)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "International & CDMO",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Clerical/data-entry errors in Corporate Governance Reports filed with Stock Exchanges",
+   "Discrepancy in omnibus approval limit for Related Party Transactions with Shivalik Rasayan Limited (approved `15 Crores vs disclosed `10 Crores), resulting in non-compliance with Section 177(4), Section 188, and Regulation 23 of SEBI (LODR) Regulations",
+   "CSR budget allocation calculated on Profit After Tax (PAT) instead of Profit Before Tax (PBT) as per Section 135 read with Section 198 of Companies Act, 2013, resulting in shortfall in CSR expenditure",
+   "Non-compliance with POSH Act, 2013 regarding formation of Internal Committee and non-submission of Annual Report for calendar year ended 31 December 2025"
+  ],
+  "dividend_per_share": 1
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "INDOFARM",
  "name": "Indo Farm Equipment Limited",
  "scrip": "544328",
- "mcap_cr": 555.96,
+ "mcap_cr": 552.35,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 29,
     "profit": 40,
-    "quality": 14
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 46,
     "profit": 36,
-    "quality": 24
+    "quality": 33
    },
    "capped_by": null
   }
@@ -99,7 +99,65 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-08-17"
+  "latest_concall": "2026-08-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Indo Farm Equipment Limited manufactures tractors, pick-and-carry cranes, and is expanding into tower cranes, operating as a diversified equipment manufacturer.",
+  "segments": [
+   {
+    "name": "Tractors",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Pick & Carry Cranes",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Tower Cranes",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Setting up new Dedicated Unit for Expansion of Pick & Carry Cranes Manufacturing Capacity",
+    "amount_cr": 70.074,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Repayment and / or prepayment of certain outstanding loans",
+    "amount_cr": 50.0,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Investment in Subsidiary Barota Finance Limited",
+    "amount_cr": 45.0,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "General Corporate Purposes",
+    "amount_cr": 2.993,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Deepak Jindal & Co., Chartered Accountants, Chandigarh",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Disputed tax liabilities (Income Tax, Excise Duty) pending at various forums",
+   "Dependence on infrastructure and construction sector cyclicality for crane business",
+   "Execution risk in new tower crane manufacturing and market entry"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

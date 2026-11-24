@@ -3,7 +3,7 @@
  "sym": "ANTELOPUS",
  "name": "Antelopus Selan Energy Limited",
  "scrip": "530075",
- "mcap_cr": 2948.54,
+ "mcap_cr": 2892.7,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 80
+    "quality": 100
    },
    "capped_by": "margin down over 1 pt QoQ"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 80
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-11-02"
+  "latest_concall": "2026-11-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Antelopus Selan Energy Limited is an upstream oil and gas exploration and production company operating 9 contract areas across 5 hydrocarbon basins in India.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work in progress (total)",
+    "amount_cr": 210.26,
+    "timeline": "As at 31st March 2026"
+   },
+   {
+    "item": "Elao Field development (overdue)",
+    "amount_cr": 12.51,
+    "timeline": "As at 31st March 2026"
+   },
+   {
+    "item": "Duarmara field development (on behalf of Oilmax Energy Private Limited)",
+    "amount_cr": 44.37,
+    "timeline": "As at 31st March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "V. Sankar Aiyar & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 69.93,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Resource and Reservoir Risk",
+   "Commodity Price Risk",
+   "Operational and Project Execution Risk",
+   "Regulatory and Compliance Risk",
+   "Health, Safety and Environmental (HSE) Risk",
+   "Stakeholder and Community Relations Risk",
+   "Customer Concentration Risk (IOCL anchor buyer)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

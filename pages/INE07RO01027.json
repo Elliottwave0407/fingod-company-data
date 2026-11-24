@@ -3,7 +3,7 @@
  "sym": "SUPRIYA",
  "name": "Supriya Lifescience Limited",
  "scrip": "543434",
- "mcap_cr": 4991.95,
+ "mcap_cr": 4905.83,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 90,
     "profit": 37,
-    "quality": 83
+    "quality": 61
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 46,
     "profit": 20,
-    "quality": 17
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 11,
   "concalls_read": 9,
-  "latest_concall": "2026-11-13"
+  "latest_concall": "2026-11-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Supriya Lifescience Limited operates in the regulated lifesciences space, leveraging nearly four decades of pharmaceutical expertise to strengthen its core API franchise, expand into higher-value opportunities like CMO/CDMO and formulations, and invest in capabilities for its next phase of growth.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Planned development at Patalganga",
+    "amount_cr": null,
+    "timeline": "Not specified"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to risks, uncertainties, and inaccurate assumptions",
+   "Achievement of results subject to known or unknown risks or uncertainties materializing",
+   "Underlying assumptions proving inaccurate"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

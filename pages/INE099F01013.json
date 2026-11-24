@@ -3,7 +3,7 @@
  "sym": "SREEL",
  "name": "Sreeleathers Limited",
  "scrip": "535601",
- "mcap_cr": 610.59,
+ "mcap_cr": 639.93,
  "group": "T",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 80,
     "profit": 92,
-    "quality": 90
+    "quality": 100
    },
    "capped_by": "revenue growth under 20%"
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sreeleathers Limited operates a chain of 31 retail stores across 8 states in India, selling footwear and leather accessories sourced locally from Kolkata, Agra, Mumbai, and Delhi, following a 'World Class, Right Price' value proposition with no seasonal sales.",
+  "segments": [
+   {
+    "name": "Retail",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Wholesale",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Property, plant and equipment",
+    "amount_cr": 0,
+    "timeline": "As at 31-Mar-2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Interest Rate risk: fall in interest rates increases gratuity liability",
+   "Liquidity Risk: inability to meet short-term gratuity payouts",
+   "Salary Escalation Risk: deviation in future salary increases affects plan liability",
+   "Demographic Risk: actual mortality/attrition experience worse than assumptions",
+   "Regulatory Risk: changes in Payment of Gratuity Act requiring higher payouts"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

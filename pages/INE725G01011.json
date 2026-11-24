@@ -3,7 +3,7 @@
  "sym": "ICRA",
  "name": "ICRA Limited",
  "scrip": "532835",
- "mcap_cr": 4239.5,
+ "mcap_cr": 4241.23,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 69.56,
    "pat": 52.69,
    "margin_pct": 39.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 63,
     "profit": 20,
-    "quality": 48
+    "quality": 10
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 83,
     "profit": 95,
-    "quality": 88
+    "quality": 59
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "capped_by": null
   },
   {
    "q": "Sep-26",
@@ -80,13 +80,13 @@
    "ebitda": 65.76,
    "pat": 52.44,
    "margin_pct": 37.0,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 77,
     "profit": 66,
-    "quality": 62
+    "quality": 20
    },
-   "capped_by": "profit growth under 25%"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -109,7 +109,67 @@
   "missing": [],
   "concalls_found": 7,
   "concalls_read": 6,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "ICRA Limited is a credit rating agency that provides ratings, research, analytics, and ESG ratings, operating as a knowledge partner and risk navigator for financial markets.",
+  "segments": [
+   {
+    "name": "Rating & ancillary services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Research & analytics",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Rating & ancillary services",
+    "amount_cr": 8.5768,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Research & analytics",
+    "amount_cr": 6.3962,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "ICRA pegs the WPI at ~6.6% and the CPI at ~4.7% in FY2027, with risks tilted to the upside. ICRA expects an extended pause on the policy rates in the near term, followed by back-ended rate hikes towards the end of the fiscal, amid the anticipated slowdown in GDP growth.",
+    "metric": "WPI",
+    "value": "6.6%",
+    "by_when": "FY2027"
+   },
+   {
+    "statement": "ICRA pegs the WPI at ~6.6% and the CPI at ~4.7% in FY2027, with risks tilted to the upside. ICRA expects an extended pause on the policy rates in the near term, followed by back-ended rate hikes towards the end of the fiscal, amid the anticipated slowdown in GDP growth.",
+    "metric": "CPI",
+    "value": "4.7%",
+    "by_when": "FY2027"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Deloitte Haskins & Sells",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 9,
+  "key_risks": [
+   "Geopolitical headwinds including tariff-related uncertainty and West Asia conflict impacting energy prices and corporate profitability",
+   "Disruption to shipping and commodity prices affecting merchandise exports and private capex",
+   "Fiscal slippages due to GST rationalisation leading to hardening of bond yields",
+   "Consistent foreign outflows and tight liquidity conditions",
+   "Slowdown in GDP growth anticipated in FY2027",
+   "Accelerating adoption of automation and Generative AI reshaping client requirements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

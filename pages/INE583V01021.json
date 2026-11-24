@@ -3,7 +3,7 @@
  "sym": "RADHIKAJWE",
  "name": "Radhika Jeweltech Limited",
  "scrip": "540125",
- "mcap_cr": 687.94,
+ "mcap_cr": 681.69,
  "group": "T",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 11.09,
    "pat": 7.53,
    "margin_pct": 5.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 32,
     "profit": 5,
-    "quality": 32
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 78,
     "profit": 16,
-    "quality": 71
+    "quality": 34
    },
    "capped_by": null
   }
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Radhika Jeweltech Limited is principally engaged in the manufacture and sale of gold, diamond and platinum jewellery, serving customers across wedding, festive, gifting and daily-wear segments from its base in Rajkot, Gujarat.",
+  "segments": [
+   {
+    "name": "Jewellery (Gold, Diamond, Platinum)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S. V. Nadiyapara and Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Gold and Precious Metal Price Risk",
+   "Inventory and Working Capital Risk",
+   "Competition and Consumer Preference Risk",
+   "Geographic Concentration and Regulatory Risk",
+   "Cybersecurity Risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

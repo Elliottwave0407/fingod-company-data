@@ -3,7 +3,7 @@
  "sym": "LXCHEM",
  "name": "Laxmi Organic Industries Limited",
  "scrip": "543277",
- "mcap_cr": 4196.51,
+ "mcap_cr": 4142.32,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 24,
     "profit": 27,
-    "quality": 21
+    "quality": 31
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 92,
     "profit": 89,
-    "quality": 74
+    "quality": 94
    },
    "capped_by": null
   }
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-08-04"
+  "latest_concall": "2026-08-04",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Laxmi Organic Industries Limited is primarily engaged in the business of manufacturing acetyl intermediates and specialty chemicals.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure on property, plant and equipment (including capital work in progress and capital advances) and intangible assets",
+    "amount_cr": 602.515,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Target >1.5% reduction in energy consumption in the next year",
+    "metric": "Energy intensity reduction",
+    "value": ">1.5%",
+    "by_when": "next year"
+   },
+   {
+    "statement": "The Company anticipates a progressive improvement in EBITDA margins and return on capital employed (ROCE), supported by stabilization of market conditions and benefits accruing from capacity expansion, process improvements, digital transformation, cost optimization, and pricing discipline.",
+    "metric": "EBITDA margins and ROCE",
+    "value": "progressive improvement",
+    "by_when": "medium term"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Impairment assessment of certain tangible and intangible assets related to Fluorination process used for manufacturing chemicals (carrying value Rs 4,915.74 Million as at March 31, 2026)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions, risks and uncertainties; actual results may differ materially",
+   "Impairment risk on tangible and intangible assets related to Fluorination process (carrying value Rs 4,915.74 Million) due to decline in performance",
+   "Global economic volatility affecting market conditions",
+   "Dependence on stabilization of market conditions for margin improvement"
+  ],
+  "dividend_per_share": 0.3
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

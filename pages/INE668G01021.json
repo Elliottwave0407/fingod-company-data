@@ -3,7 +3,7 @@
  "sym": "ELDEHSG",
  "name": "Eldeco Housing And Industries Limited",
  "scrip": "523329",
- "mcap_cr": 753.8,
+ "mcap_cr": 775.58,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 6.57,
    "pat": 4.85,
    "margin_pct": 10.9,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 75,
     "profit": 9,
-    "quality": 66
+    "quality": 49
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 97
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,45 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Eldeco Housing and Industries Limited is a real estate developer focused on residential and commercial projects in Lucknow, India.",
+  "segments": [
+   {
+    "name": "Sale of residential and commercial units",
+    "share_of_revenue_pct": 94.46
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Construction spend",
+    "amount_cr": 177.7,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "changes in the industry structure",
+   "significant changes in political and economic environment in India and overseas",
+   "tax laws",
+   "import duties",
+   "litigation",
+   "labour relations"
+  ],
+  "dividend_per_share": 9
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 46,
     "profit": 65,
-    "quality": 38
+    "quality": 24
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 24,
     "profit": 27,
-    "quality": 43
+    "quality": 10
    },
    "capped_by": null
   }
@@ -96,7 +96,34 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Geekay Wires Limited manufactures and sells wires.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s M.M. Palod & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "risks inherent in Geekay Wire's growth strategy",
+   "acquisition plans",
+   "dependence on certain businesses",
+   "dependence on availability of qualified and trained manpower",
+   "economic conditions",
+   "government policies"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

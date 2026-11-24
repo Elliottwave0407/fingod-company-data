@@ -3,7 +3,7 @@
  "sym": "DEVIT",
  "name": "Dev Information Technology Limited",
  "scrip": "543462",
- "mcap_cr": 110.21,
+ "mcap_cr": 107.36,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 3.47,
    "pat": 2.11,
    "margin_pct": 7.9,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 26,
     "profit": 34,
-    "quality": 37
+    "quality": 29
    },
    "capped_by": null
   }
@@ -99,7 +99,29 @@
   ],
   "concalls_found": 7,
   "concalls_read": 6,
-  "latest_concall": "2026-06-12"
+  "latest_concall": "2026-06-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Dev Information Technology Limited provides IT services including cloud, blockchain, enterprise applications, managed workplace, data analytics, and public sector solutions.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Trade receivables recoverability and expected credit loss assessment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "JPOLYINVST",
  "name": "Jindal Poly Investment and Finance Company Limited",
  "scrip": "536773",
- "mcap_cr": 942.08,
+ "mcap_cr": 950.49,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 47.15,
    "pat": 35.16,
    "margin_pct": 99.7,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 100,
     "profit": 63,
-    "quality": 37
+    "quality": 0
    },
-   "capped_by": "profit down YoY"
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 8.73,
    "pat": 13.89,
    "margin_pct": 98.9,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 35,
     "profit": 50,
-    "quality": 50
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The company is mainly engaged in the activity of holding investments in group companies.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Suresh Kumar Mittal & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

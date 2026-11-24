@@ -3,7 +3,7 @@
  "sym": "GANGESSECU",
  "name": "Ganges Securities Limited",
  "scrip": "540647",
- "mcap_cr": 106.69,
+ "mcap_cr": 108.09,
  "group": "B",
  "quarters": [
   {
@@ -66,7 +66,7 @@
    "pillars": {
     "growth": 39,
     "profit": 9,
-    "quality": 63
+    "quality": 37
    },
    "capped_by": null
   }
@@ -95,7 +95,42 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ganges Securities Limited is an unregistered Core Investment Company (CIC) with a subsidiary Cinnatolliah Tea Limited engaged in tea business.",
+  "segments": [
+   {
+    "name": "Investing Business",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Tea Business",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Tea Business - Property, Plant and Equipment",
+    "amount_cr": 1.5683,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "J K V S & CO",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

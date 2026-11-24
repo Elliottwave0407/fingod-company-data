@@ -3,7 +3,7 @@
  "sym": "ORIENTALTL",
  "name": "Oriental Trimex Limited",
  "scrip": "532817",
- "mcap_cr": 36.53,
+ "mcap_cr": 36.02,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 2.06,
    "pat": 1.32,
    "margin_pct": 14.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 6,
     "profit": 12,
-    "quality": 28
+    "quality": 0
    },
    "capped_by": null
   },
@@ -95,7 +95,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Oriental Trimex Limited is engaged in the business of processing of marbles.",
+  "segments": [
+   {
+    "name": "Marble Processing",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "CAPEX",
+    "amount_cr": null,
+    "timeline": "near term"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "We have several innovative plans in the pipeline, including export operations to Middle Eastern countries from unit near Chennai Port.",
+    "metric": "Export operations",
+    "value": "Not quantified",
+    "by_when": "Not specified"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Aditya S Jain and Company, Chartered Accountants (Firm Registration No. 021994N)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Real estate slowdown and credit crisis impacting marble and granite sector",
+   "Thousands of unsold luxury flats in major cities causing financial strain on construction companies",
+   "Dependence on luxury apartment segment for demand",
+   "Nationwide construction boom may take a few more years to materialise"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

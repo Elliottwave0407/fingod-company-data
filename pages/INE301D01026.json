@@ -3,7 +3,7 @@
  "sym": "RUBYMILLS",
  "name": "The Ruby Mills Limited",
  "scrip": "503169",
- "mcap_cr": 1503.13,
+ "mcap_cr": 1550.78,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 97,
     "profit": 100,
-    "quality": 2
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 88,
     "profit": 100,
-    "quality": 20
+    "quality": 9
    },
-   "capped_by": "profit down YoY"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -99,7 +99,56 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Ruby Mills Limited is engaged in textile manufacturing and real estate business, operating manufacturing units at Dhamni and Kharsundi in Maharashtra.",
+  "segments": [
+   {
+    "name": "Textile",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Real Estate",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Open Access Solar Power plants for Dhamni and Kharsundi Unit",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital work in progress",
+    "amount_cr": 93.17,
+    "timeline": "As at March 31, 2026"
+   },
+   {
+    "item": "Investment Property additions",
+    "amount_cr": 664.58,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "C N K Associates & LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 74.9,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Commodity price risk and foreign exchange risk - no hedging activities",
+   "Single customer concentration in real estate business (57% and 99% of revenue for FY2026 and FY2025 respectively)",
+   "Title documents for freehold land at Dhamni unit reported untraceable by bank"
+  ],
+  "dividend_per_share": 2.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

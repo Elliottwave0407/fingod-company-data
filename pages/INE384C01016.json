@@ -3,7 +3,7 @@
  "sym": "YUKEN",
  "name": "Yuken India Limited",
  "scrip": "522108",
- "mcap_cr": 1371.1,
+ "mcap_cr": 1299.65,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 29,
     "profit": 27,
-    "quality": 8
+    "quality": 9
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 66,
     "profit": 33,
-    "quality": 40
+    "quality": 56
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Yuken India Limited is a leading manufacturer of high-precision, technology-heavy hydraulic systems and components in India, supported by technical partnership with Yuken Kogyo Company Limited, Japan.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work-in-progress additions",
+    "amount_cr": 70.98,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Walker Chandiok & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 47,
+  "promoter_pledge_pct": null,
+  "employees": 460,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

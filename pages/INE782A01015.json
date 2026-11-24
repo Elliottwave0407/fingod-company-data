@@ -3,7 +3,7 @@
  "sym": "BOSCH-HCIL",
  "name": "BOSCH HOME COMFORT INDIA LIMITED",
  "scrip": "523398",
- "mcap_cr": 4897.35,
+ "mcap_cr": 4757.72,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 18,
     "profit": 11,
-    "quality": 24
+    "quality": 9
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 68,
     "profit": 33,
-    "quality": 67
+    "quality": 68
    },
    "capped_by": null
   }
@@ -99,7 +99,52 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bosch Home Comfort India Limited manufactures and sells room air conditioners (split, window) and commercial air conditioners (VRF, ductable, packaged, telecom) under the 'Hitachi Cooling & Heating' brand.",
+  "segments": [
+   {
+    "name": "Room Air Conditioners",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Commercial Air Conditioners",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Gen-3 VRF manufacturing line setup",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Test lab infrastructure for VRF and commercial products",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S R B C & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Demand disturbances due to delayed/mild summer impacting room AC sales",
+   "Sweeping tariffs affecting demand",
+   "Warranty and litigation provisions",
+   "Dependence on Hitachi brand licensing agreement"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

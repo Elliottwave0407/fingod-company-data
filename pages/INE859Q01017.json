@@ -3,7 +3,7 @@
  "sym": "MANAKALUCO",
  "name": "Manaksia Aluminium Company Limited",
  "scrip": "539045",
- "mcap_cr": 185.59,
+ "mcap_cr": 179.17,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 52,
     "profit": 42,
-    "quality": 50
+    "quality": 74
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 45,
     "profit": 52,
-    "quality": 50
+    "quality": 76
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Manaksia Aluminium Company Limited specializes in the production of aluminium flat rolled products including coils, sheets, roofing sheets, colour coated coils, flooring sheets, embossed coils, and aluminium alloy ingots for auto industry.",
+  "segments": [
+   {
+    "name": "Aluminium Flat Rolled Products",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Annual production capacity",
+    "amount_cr": null,
+    "timeline": "30,000 tonnes per year"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Dangi Jain & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note 46(i) regarding outstanding balances of trade receivables, trade payables and loans and advances subject to confirmation and subsequent adjustments"
+  },
+  "promoter_holding_pct": 74.87,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Defined Benefit Obligation valuation sensitive to actuarial assumptions",
+   "Litigation, Claims and Contingent Liabilities from legal proceedings",
+   "Capex tracking and monitoring requiring attention for accurate financial reporting",
+   "Revenue recognition judgements under Ind AS 115",
+   "Outstanding balances of trade receivables, trade payables and loans and advances subject to confirmation"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

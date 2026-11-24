@@ -3,7 +3,7 @@
  "sym": "MALLCOM",
  "name": "Mallcom (India) Limited",
  "scrip": "539400",
- "mcap_cr": 527.28,
+ "mcap_cr": 502.07,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 13.65,
    "pat": 6.3,
    "margin_pct": 9.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 26,
     "profit": 19,
-    "quality": 13
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 13.66,
    "pat": 6.57,
    "margin_pct": 12.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 11,
     "profit": 21,
-    "quality": 15
+    "quality": 6
    },
    "capped_by": null
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-18"
+  "latest_concall": "2026-11-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mallcom (India) Limited is an integrated manufacturer of personal protective equipment (PPE) offering head-to-toe safety solutions across domestic and international markets.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Rupee Term Loan for movable and immovable fixed assets at Sanand, Gujarat",
+    "amount_cr": 35.0,
+    "timeline": "Repayable in 75 equal monthly instalments after a 9-month moratorium"
+   },
+   {
+    "item": "FCNR B Term Loan for movable and immovable fixed assets at Sanand, Gujarat",
+    "amount_cr": 35.0,
+    "timeline": "Repayable in 75 equal monthly instalments after a 9-month moratorium"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Agarwal Maheswari & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 73.68,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition cut-off risk",
+   "Inventory existence and valuation across multiple geographically spread locations",
+   "Commodity price fluctuation risk",
+   "Foreign exchange risk"
+  ],
+  "dividend_per_share": 3.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

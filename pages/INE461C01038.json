@@ -3,7 +3,7 @@
  "sym": "GREENPLY",
  "name": "Greenply Industries Limited",
  "scrip": "526797",
- "mcap_cr": 3346.13,
+ "mcap_cr": 3338.01,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 78.09,
    "pat": 31.0,
    "margin_pct": 10.1,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 55,
     "profit": 35,
-    "quality": 58
+    "quality": 79
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 59,
     "profit": 39,
-    "quality": 53
+    "quality": 61
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 75,
     "profit": 69,
-    "quality": 65
+    "quality": 88
    },
    "capped_by": null
   }
@@ -109,7 +109,31 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Greenply Industries Limited manufactures a wide portfolio including premium plywood, decorative veneers, MDF boards, PVC/WPC door frames and boards, and various furniture and interior fitting solutions.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Foreign currency exchange rate exposure from foreign currency transactions",
+   "Interest rate risk primarily from current borrowing with floating interest rates",
+   "Credit risk on trade receivables"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

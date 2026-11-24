@@ -3,7 +3,7 @@
  "sym": "ARCHIDPLY",
  "name": "Archidply Industries Limited",
  "scrip": "532994",
- "mcap_cr": 155.68,
+ "mcap_cr": 153.18,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 11.87,
    "pat": 3.15,
    "margin_pct": 6.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 61,
     "profit": 49,
-    "quality": 0
+    "quality": 63
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 13.92,
    "pat": 5.62,
    "margin_pct": 7.4,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 85,
     "profit": 53,
-    "quality": 59
+    "quality": 86
    },
    "capped_by": null
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Archidply Industries Limited manufactures wood panels and building materials including plywood, laminates, and decorative veneers.",
+  "segments": [
+   {
+    "name": "Wood Based Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Paper Based Products",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure during the year",
+    "amount_cr": 6.9981,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "GRV & PK",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Delay in appointment of non-executive independent women director",
+   "Delay in filing Related Party Transactions disclosure",
+   "Raw material price volatility",
+   "Regulatory compliance risks",
+   "Dependence on real estate and construction sector demand"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "ASAL",
  "name": "Automotive Stampings and Assemblies Limited",
  "scrip": "520119",
- "mcap_cr": 701.52,
+ "mcap_cr": 693.35,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 14.11,
    "pat": 4.69,
    "margin_pct": 5.6,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 82,
     "profit": 30,
-    "quality": 53
+    "quality": 72
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 43,
-    "quality": 63
+    "quality": 76
    },
    "capped_by": null
   }
@@ -109,7 +109,32 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Automotive Stampings and Assemblies Limited manufactures automotive stampings and assemblies.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Appointment of Company Secretary and Compliance officer of the Company beyond the timeline specified under regulation 6(1A) of Securities Exchange Board of India (Listing Obligations and Disclosure Requirements) Regulations, 2015."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Elevated energy prices, increasing fuel, power, and logistics costs",
+   "Volatility in metals and commodities, impacting steel, aluminium, and non ferrous inputs",
+   "Selective food price pressures, affecting labour costs through rural inflation trends",
+   "High precious metal prices, influencing two wheeler, electronics, and EV component costs"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

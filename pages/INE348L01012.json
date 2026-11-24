@@ -3,7 +3,7 @@
  "sym": "MASFIN",
  "name": "MAS Financial Services Limited",
  "scrip": "540749",
- "mcap_cr": 4636.13,
+ "mcap_cr": 4584.42,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 62,
     "profit": 20,
-    "quality": 34
+    "quality": 55
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 57,
     "profit": 21,
-    "quality": 35
+    "quality": 61
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 59,
     "profit": 20,
-    "quality": 34
+    "quality": 57
    },
    "capped_by": null
   }
@@ -109,7 +109,9 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

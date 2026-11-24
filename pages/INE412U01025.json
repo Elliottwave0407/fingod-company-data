@@ -3,7 +3,7 @@
  "sym": "BIGBLOC",
  "name": "Bigbloc Construction Limited",
  "scrip": "540061",
- "mcap_cr": 493.67,
+ "mcap_cr": 477.96,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 61,
     "profit": 21,
-    "quality": 0
+    "quality": 34
    },
    "capped_by": "net loss"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 92,
     "profit": 86,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": "net loss"
   }
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 12,
   "concalls_read": 10,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "BigBloc Construction Limited is among India's leading manufacturers of sustainable building materials, specifically Autoclaved Aerated Concrete (AAC) blocks, serving residential, commercial, industrial, and infrastructure sectors.",
+  "segments": [
+   {
+    "name": "AAC Blocks and Construction Solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition complexity due to discounts, incentives, and rebates",
+   "Trade receivables concentration and ageing with significant disputed amounts",
+   "Forward-looking statement uncertainties including business environment changes, market dynamics, regulatory shifts, and assumption inaccuracies"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

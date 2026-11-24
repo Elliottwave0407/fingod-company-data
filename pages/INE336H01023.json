@@ -3,7 +3,7 @@
  "sym": "GAYAPROJ",
  "name": "Gayatri Projects Limited",
  "scrip": "532767",
- "mcap_cr": 845.95,
+ "mcap_cr": 827.85,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gayatri Projects Limited is an infrastructure construction company engaged in engineering, procurement, and construction (EPC) of highways, irrigation, industrial, and power projects.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Atmakuri & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matters: (i) Impairment provision of Rs 13,342.95 lakhs on CCCPS investment; (ii) Write-off of Rs 13,411.00 lakhs subordinate debt to associate; (iii) Write-off of entire interest receivable on Inter Corporate Loan and recognition of Rs 15,455.00 lakhs as Collateral Security Enforcement under SARFAESI; (iv) Work advances to sub-contractor pending recovery; (v) Recovery of work & other advances and receivables delayed from one sub-contractor."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Recovery delays of work advances and receivables from sub-contractors",
+   "Impairment of investments in preference shares",
+   "Write-off of subordinate debt and interest receivable from associate company",
+   "Enforcement of collateral security under SARFAESI Act",
+   "Pending recovery of inter-corporate loans and advances"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

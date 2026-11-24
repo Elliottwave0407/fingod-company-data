@@ -3,7 +3,7 @@
  "sym": "INVENTURE",
  "name": "Inventure Growth & Securities Limited",
  "scrip": "533506",
- "mcap_cr": 93.45,
+ "mcap_cr": 94.5,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -7.15,
    "pat": -5.34,
    "margin_pct": -67.4,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -54,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -66,7 +70,7 @@
    "pillars": {
     "growth": 5,
     "profit": 58,
-    "quality": 45
+    "quality": 53
    },
    "capped_by": null
   }
@@ -95,7 +99,55 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Inventure Growth & Securities Limited is a financial services company engaged in stock broking, algorithmic trading, securities lending and borrowing, and through its subsidiaries, investment banking, wealth management, portfolio management services, alternative investment funds, and debt products.",
+  "segments": [
+   {
+    "name": "Stock Broking & Algo Trading",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Securities Lending and Borrowing (SLBM)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Investment Banking (IPO Lead Management)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Wealth Management, PMS, AIF & Debt Products",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Building",
+    "amount_cr": 18.945,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "CGCA & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding a composite Scheme of Arrangement filed on May 01, 2025 for amalgamation of fellow subsidiaries and demerger of Lending Business Undertaking, which is not yet effective and no accounting effect given."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "High dependence on IT systems for financial reporting and stock broking operations",
+   "Regulatory and compliance risks in capital markets",
+   "Market volatility impacting brokerage and investment income",
+   "Execution risk related to the pending Scheme of Arrangement"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

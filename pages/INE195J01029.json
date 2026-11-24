@@ -3,7 +3,7 @@
  "sym": "PNCINFRA",
  "name": "PNC Infratech Limited",
  "scrip": "539150",
- "mcap_cr": 3336.29,
+ "mcap_cr": 3299.09,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 14,
     "profit": 14,
-    "quality": 50
+    "quality": 77
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 31,
     "profit": 20,
-    "quality": 31
+    "quality": 3
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 278.84,
    "pat": 114.68,
    "margin_pct": 21.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 28,
     "profit": 17,
-    "quality": 9
+    "quality": 0
    },
    "capped_by": null
   }
@@ -109,7 +109,60 @@
   "missing": [],
   "concalls_found": 14,
   "concalls_read": 12,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "PNC Infratech Limited is an integrated infrastructure investment, development, construction and management company delivering complex projects across roads, highways, water supply, canals, irrigation, railways, airport infrastructure, industrial areas, power transmission, renewable energy and coal mining.",
+  "segments": [
+   {
+    "name": "EPC Construction",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "BOT/HAM Road Assets",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Coal Mining",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Solar Power with Battery Storage",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Equipment base",
+    "amount_cr": 1450,
+    "timeline": "As at March 31, 2026"
+   },
+   {
+    "item": "Capital Work in Progress additions",
+    "amount_cr": 51.29,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": 18000,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements may not prove accurate",
+   "Slower awarding year for projects",
+   "Liquidity risk management",
+   "Capital management and gearing ratio"
+  ],
+  "dividend_per_share": 0.6
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

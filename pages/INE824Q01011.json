@@ -3,7 +3,7 @@
  "sym": "MANAKSTEEL",
  "name": "Manaksia Steels Limited",
  "scrip": "539044",
- "mcap_cr": 798.2,
+ "mcap_cr": 834.58,
  "group": "T",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 37.97,
    "pat": 19.32,
    "margin_pct": 11.4,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 100,
     "profit": 89,
-    "quality": 67
+    "quality": 91
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 96,
     "profit": 88,
-    "quality": 81
+    "quality": 94
    },
    "capped_by": "margin down over 1 pt QoQ"
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Manaksia Steels Limited is a multi-product light engineering company based in Kolkata that specialises in producing value-added flat steel products such as galvanized, Alu-Zinc coated and colour-coated steel for India's housing, infrastructure, industrial and warehousing sectors.",
+  "segments": [
+   {
+    "name": "Value-added flat steel products (galvanized, Alu-Zinc coated, colour-coated)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure (Estimated) (Net of Advances)",
+    "amount_cr": 30.74,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital Expenditure (Estimated) (Net of Advances)",
+    "amount_cr": 265.87,
+    "timeline": "FY 2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S K AGRAWAL AND CO CHARTERED ACCOUNTANTS LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

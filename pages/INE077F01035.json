@@ -3,7 +3,7 @@
  "sym": "GOCLCORP",
  "name": "GOCL Corporation Limited",
  "scrip": "506480",
- "mcap_cr": 1661.93,
+ "mcap_cr": 1632.18,
  "group": "B",
  "quarters": [
   {
@@ -101,7 +101,47 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GOCL Corporation Limited, part of the Hinduja Group, is an industry leader in Energetics and Commercial Explosives with a diversified portfolio spanning Electronics Manufacturing Services (EMS), Realty, and Energy.",
+  "segments": [
+   {
+    "name": "Energetics and Commercial Explosives",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Electronics Manufacturing Services (EMS)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Realty",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Energy",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Haribhakti & Co. LLP",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Corporate guarantees aggregating Rs. 131,610 lakhs issued during earlier and current financial year were not processed as Related Party Transactions; prior approval of Audit Committee, Board and shareholders not obtained as required. Transactions ratified subsequently and post-facto shareholders' approval obtained on July 7, 2026."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Non-compliance with Related Party Transaction regulations regarding corporate guarantees",
+   "Regulatory action risk from SEBI regarding regularization of corporate guarantees"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

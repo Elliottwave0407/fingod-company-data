@@ -3,7 +3,7 @@
  "sym": "ZEEMEDIA",
  "name": "Zee Media Corporation Limited",
  "scrip": "532794",
- "mcap_cr": 460.77,
+ "mcap_cr": 453.56,
  "group": "T",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -14.14,
    "pat": -26.53,
    "margin_pct": -9.0,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 27,
+    "profit": 58,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,9 +70,9 @@
    "pillars": {
     "growth": 22,
     "profit": 14,
-    "quality": 0
+    "quality": 20
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -95,7 +99,55 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Zee Media Corporation Limited operates as an integrated multi-platform news and media enterprise in India, delivering trusted journalism across television, digital, and social media platforms in multiple languages.",
+  "segments": [
+   {
+    "name": "Advertisement",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Subscription",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Sale / Licence - Content",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Channel management fee",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "capital expenditure",
+    "amount_cr": 1.069,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material uncertainty related to going concern due to significant accumulated losses and negative working capital as at 31 March 2026; however, financial statements prepared on going concern basis considering Board-approved business plan, capital infusion, monetization through new revenue streams, and cost rationalisation measures."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 4,
+  "key_risks": [
+   "Material uncertainty related to going concern due to significant accumulated losses and negative working capital",
+   "Dependence on advertising revenue in a dynamic media environment",
+   "Regulatory and compliance risks in the media sector",
+   "Technology disruption and shifting audience consumption patterns"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

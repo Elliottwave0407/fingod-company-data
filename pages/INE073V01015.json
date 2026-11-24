@@ -3,7 +3,7 @@
  "sym": "COMSYN",
  "name": "Commercial Syn Bags Limited",
  "scrip": "539986",
- "mcap_cr": 1079.64,
+ "mcap_cr": 1186.2,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 31,
     "profit": 43,
-    "quality": 23
+    "quality": 11
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 73,
     "profit": 65,
-    "quality": 72
+    "quality": 83
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Commercial Syn Bags Limited manufactures FIBC, UN FIBC, Ventilated Bags, FIBC Liners, Poly Tarpauline, Container Bags, UN Tarpauline, Geomembrane and Vermibed.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Commitments",
+    "amount_cr": 13.9517,
+    "timeline": "2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Ishan Jain & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

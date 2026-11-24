@@ -3,7 +3,7 @@
  "sym": "63MOONS",
  "name": "63 moons technologies limited",
  "scrip": "526881",
- "mcap_cr": 4277.24,
+ "mcap_cr": 4200.06,
  "group": "A",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 18.38,
    "pat": 25.14,
    "margin_pct": 13.7,
-   "verdict_v3": "Blockbuster",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 100,
     "profit": 91,
-    "quality": 80
+    "quality": 40
    },
    "capped_by": null
   },
@@ -66,9 +66,13 @@
    "ebitda": -71.73,
    "pat": -47.56,
    "margin_pct": -52.3,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 100,
+    "profit": 38,
+    "quality": 0
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -95,7 +99,61 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "63 moons technologies limited is a technology company providing computer programming, consultancy, and related services, focused on securing digital life through cybersecurity platforms (CYBX, CSF, CyberDome), exchange technology, risk solutions, and LegalTech (QiLegal).",
+  "segments": [
+   {
+    "name": "Exchange Technology",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Risk Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Cybersecurity (63SATS)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "LegalTech (QiLegal)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Property, plant and equipment and other Intangible assets including capital advances",
+    "amount_cr": -9.18,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Property, plant and equipment and other Intangible assets including capital advances",
+    "amount_cr": -10.26,
+    "timeline": "FY 2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Chaturvedi Sohan & Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 414,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Legal proceedings related to NSEL payment default",
+   "Regulatory actions by MCA, EOW, SFIO, ED",
+   "Asset attachments under MPID Act and PMLA",
+   "Dividend distribution restrained by court order",
+   "Dependence on judicial orders for dividend payment and asset release"
+  ],
+  "dividend_per_share": 2
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

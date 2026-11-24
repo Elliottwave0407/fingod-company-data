@@ -3,7 +3,7 @@
  "sym": "VIMTALABS",
  "name": "Vimta Labs Limited",
  "scrip": "524394",
- "mcap_cr": 2084.35,
+ "mcap_cr": 2100.67,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 37.32,
    "pat": 21.04,
    "margin_pct": 34.2,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 44,
     "profit": 49,
-    "quality": 44
+    "quality": 42
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 43,
     "profit": 54,
-    "quality": 36
+    "quality": 28
    },
    "capped_by": null
   }
@@ -109,7 +109,38 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-04"
+  "latest_concall": "2026-11-04",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vimta Labs Limited provides testing and analysis services, including lab setup services under service concession arrangements.",
+  "segments": [
+   {
+    "name": "Testing and Analysis Services",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Energy conservation through HVAC systems",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Gattamaneni & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "PAKKA",
  "name": "PAKKA LIMITED",
  "scrip": "516030",
- "mcap_cr": 334.96,
+ "mcap_cr": 337.44,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 70,
     "profit": 66,
-    "quality": 11
+    "quality": 22
    },
    "capped_by": null
   },
@@ -66,13 +66,13 @@
    "ebitda": 15.3,
    "pat": 5.89,
    "margin_pct": 13.1,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 93,
     "profit": 90,
-    "quality": 14
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Sep-26",
@@ -80,13 +80,13 @@
    "ebitda": 12.93,
    "pat": 2.88,
    "margin_pct": 10.4,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 88,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 8,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Pakka Limited is a regenerative packaging innovator focused on compostable, fibre-based packaging solutions, expanding its pulp and paper manufacturing capabilities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "CNK & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

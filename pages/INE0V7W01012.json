@@ -3,7 +3,7 @@
  "sym": "CARRARO",
  "name": "Carraro India Limited",
  "scrip": "544320",
- "mcap_cr": 2597.83,
+ "mcap_cr": 2676.85,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 43.95,
    "pat": 31.39,
    "margin_pct": 8.1,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 31,
     "profit": 21,
-    "quality": 54
+    "quality": 38
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 8,
   "concalls_read": 8,
-  "latest_concall": "2026-11-14"
+  "latest_concall": "2026-11-14",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Carraro India Limited manufactures driveline technologies, transmission platforms, and off-highway mobility solutions for agricultural and construction equipment OEMs.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Deloitte Haskins & Sells LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [],
+  "dividend_per_share": 6.75
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

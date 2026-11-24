@@ -3,7 +3,7 @@
  "sym": "RIIL",
  "name": "Reliance Industrial Infrastructure Limited",
  "scrip": "523445",
- "mcap_cr": 1035.11,
+ "mcap_cr": 1035.71,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 68,
-    "quality": 21
+    "quality": 50
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 0,
     "profit": -30,
-    "quality": 14
+    "quality": 47
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 0,
     "profit": -25,
-    "quality": 14
+    "quality": 47
    },
    "capped_by": null
   }
@@ -109,7 +109,38 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Company continues to provide infrastructure facilities and support services which include pipelines for transportation of petroleum products, natural gas & raw water and other infrastructure support services mainly to Reliance Industries Limited.",
+  "segments": [
+   {
+    "name": "transportation services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "infrastructure support services and other operating income",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Chaturvedi & Shah LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Ongoing conflicts in the Middle East and Eastern Europe continued to disrupt freight corridors and commodity markets, with no clear resolution in sight."
+  ],
+  "dividend_per_share": 3.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

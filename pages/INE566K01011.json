@@ -3,7 +3,7 @@
  "sym": "ISFT",
  "name": "Intrasoft Technologies Limited",
  "scrip": "533181",
- "mcap_cr": 193.54,
+ "mcap_cr": 198.51,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 37,
     "profit": 36,
-    "quality": 80
+    "quality": 63
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 33,
     "profit": 32,
-    "quality": 72
+    "quality": 42
    },
    "capped_by": null
   }
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "IntraSoft Technologies is a technology-driven, multi-channel online retailer serving the U.S. market, acting as an e-commerce partner to small and medium-sized vendors by enabling products to be listed, marketed, sold, and fulfilled across leading online marketplaces through its proprietary platform.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Recoverability of Minimum Alternate Tax (MAT) Credit amounting to \u20b91,529.46 Lacs recognised as deferred tax assets, based on management's estimate of future taxable profits and business plans."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements involve known or unknown risks and uncertainties; actual outcomes may differ materially from management's current plans, expectations, and assumptions.",
+   "Recoverability of MAT credit depends on management's estimates of future taxable profits, price assumptions, business plans, and tax adjustments, involving significant judgement and subjectivity."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "RUSTOMJEE",
  "name": "Keystone Realtors Limited",
  "scrip": "543669",
- "mcap_cr": 4592.96,
+ "mcap_cr": 4626.45,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 4,
-    "quality": 51
+    "quality": 10
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 94,
-    "quality": 78
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Keystone Realtors Limited is a real estate development company focused on residential projects, primarily redevelopment and cluster redevelopment in Mumbai.",
+  "segments": [
+   {
+    "name": "Revenue from Operations - At a point in time",
+    "share_of_revenue_pct": 91.7
+   },
+   {
+    "name": "Revenue from Operations - Over time",
+    "share_of_revenue_pct": 8.3
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company added 5 projects during the year, all redevelopment, with a combined estimated gross development value (GDV) of \u20b910,420 crore, equivalent to 1.74 times the guidance for the year and 118% higher than FY25.",
+    "metric": "New Project Additions GDV",
+    "value": "10,420 crore",
+    "by_when": "FY26"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Revenue recognition involves significant management judgement in identifying performance obligations and determining when control is transferred",
+   "Estimation of costs to complete for projects where revenue is recognised over time using percentage of completion method",
+   "Interest rate risk on variable rate borrowings (\u20b914,041 crore as at March 31, 2026)",
+   "Changes in economic conditions, real estate market dynamics, regulatory developments, pace of project approvals and execution"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "DHUNINV",
  "name": "Dhunseri Investments Limited",
  "scrip": "533336",
- "mcap_cr": 571.31,
+ "mcap_cr": 559.66,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -79.76,
    "pat": 3.5,
    "margin_pct": -149.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 72,
+    "profit": -40,
+    "quality": 100
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -95,7 +99,29 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Company is primarily engaged in the business of making investments in shares and securities and is registered as an NBFC under the RBI Act, 1934.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 74.95,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "any slowdown of the economic growth or volatility in global financial market could adversely affect the Company's business"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "AVG",
  "name": "AVG Logistics Limited",
  "scrip": "543910",
- "mcap_cr": 300.45,
+ "mcap_cr": 302.7,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 17,
     "profit": 7,
-    "quality": 73
+    "quality": 72
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 23,
     "profit": 12,
-    "quality": 39
+    "quality": 62
    },
    "capped_by": null
   }
@@ -99,7 +99,52 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-08-29"
+  "latest_concall": "2026-08-29",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "AVG Logistics Limited is a multi-modal logistics solutions provider specialising in integrated services including Cold Chain Logistics, Industrial Liquid Logistics, Third-party Logistics (3PL), Warehousing, Distribution, and Supply chain management solutions.",
+  "segments": [
+   {
+    "name": "Cold Chain Logistics",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Industrial Liquid Logistics",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Third-party Logistics (3PL)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Warehousing",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Distribution",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Supply chain management solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

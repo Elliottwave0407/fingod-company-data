@@ -3,7 +3,7 @@
  "sym": "CHEMPLASTS",
  "name": "Chemplast Sanmar Limited",
  "scrip": "543336",
- "mcap_cr": 3958.27,
+ "mcap_cr": 3843.64,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 51,
     "profit": 38,
-    "quality": 0
+    "quality": 54
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,9 +66,13 @@
    "ebitda": -114.55,
    "pat": -175.58,
    "margin_pct": -10.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 14,
+    "profit": -8,
+    "quality": 0
+   },
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -95,7 +99,44 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Chemplast Sanmar Limited is a leading speciality chemicals company and India's largest producer of Speciality Paste PVC, also engaged in Suspension PVC, Chloromethanes, and custom chemical manufacturing for global pharmaceutical and agrochemical applications.",
+  "segments": [
+   {
+    "name": "Speciality Chemicals",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital commitments (contracts remaining to be executed on capital account, net of advances)",
+    "amount_cr": 301.74,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Timing of revenue recognition due to various shipment terms and pressure to meet expectations",
+   "Impairment assessment of long-term investments in subsidiary (Chemplast Cuddalore Vinyls Limited)",
+   "Contingent liabilities on account of direct taxes (Rs 55.23 Cr), indirect taxes (Rs 21.98 Cr), and other disputes (Rs 15.97 Cr)",
+   "Corporate guarantee exposure of Rs 76.79 Cr (out of total guarantee of Rs 331.86 Cr) for subsidiary's soft loan",
+   "Pledged entire investment in equity shares of TCI Sanmar Chemicals S.A.E. in favour of investee's lenders"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

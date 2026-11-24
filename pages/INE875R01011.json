@@ -3,7 +3,7 @@
  "sym": "BALKRISHNA",
  "name": "Balkrishna Paper Mills Limited",
  "scrip": "539251",
- "mcap_cr": 48.39,
+ "mcap_cr": 50.36,
  "group": "B",
  "quarters": [
   {
@@ -97,7 +97,40 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The company has discontinued manufacturing of paper and paper board and is currently engaged in trading activities in plastic and packaging materials, with plans to commence real estate development and allied activities.",
+  "segments": [
+   {
+    "name": "Trading - Plastic and Packaging Materials",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Real Estate Development (Planned)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "D S M R & CO",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Transition risk from manufacturing to trading and planned real estate development",
+   "Execution risk in new real estate business",
+   "Dependence on trading activities for current revenue"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

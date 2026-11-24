@@ -3,7 +3,7 @@
  "sym": "PIXTRANS",
  "name": "Pix Transmissions Limited",
  "scrip": "500333",
- "mcap_cr": 2310.63,
+ "mcap_cr": 2277.66,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 27,
     "profit": 25,
-    "quality": 38
+    "quality": 14
    },
    "capped_by": null
   },
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "PIX Transmissions Limited manufactures industrial belts, agricultural belts, automotive belts, lawn mower belts, pulleys & bushes, tensioners and idlers.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work in progress additions",
+    "amount_cr": 29.36,
+    "timeline": "FY 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s SGCO & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 4,
+  "key_risks": [],
+  "dividend_per_share": 9
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

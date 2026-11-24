@@ -3,7 +3,7 @@
  "sym": "GENUSPAPER",
  "name": "Genus Paper & Boards Limited",
  "scrip": "538961",
- "mcap_cr": 260.73,
+ "mcap_cr": 254.04,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 19.01,
    "pat": 3.8,
    "margin_pct": 8.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 33,
     "profit": 47,
-    "quality": 0
+    "quality": 61
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 18.96,
    "pat": 3.52,
    "margin_pct": 8.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 17,
     "profit": 47,
-    "quality": 36
+    "quality": 59
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 28,
     "profit": 38,
-    "quality": 51
+    "quality": 78
    },
    "capped_by": null
   }
@@ -109,7 +109,37 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Genus Paper & Boards Limited manufactures paper and boards with plants in Moradabad and Muzaffarnagar, Uttar Pradesh.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 883,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "demand and supply for Company's product and services",
+   "changes in government regulations",
+   "tax laws",
+   "forex volatility",
+   "environmental laws",
+   "raw material availability and prices",
+   "cyclical demand",
+   "litigation",
+   "industrial relations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

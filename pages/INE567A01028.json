@@ -3,7 +3,7 @@
  "sym": "NIPPOBATRY",
  "name": "Indo-National Limited",
  "scrip": "504058",
- "mcap_cr": 226.91,
+ "mcap_cr": 232.16,
  "group": "B",
  "quarters": [
   {
@@ -66,7 +66,7 @@
    "pillars": {
     "growth": 11,
     "profit": 8,
-    "quality": 100
+    "quality": 75
    },
    "capped_by": null
   }
@@ -95,7 +95,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Indo National Limited manufactures dry cell batteries and related products under the Nippo brand.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "G. Balu Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 65.35,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Commodity price risk on procurement of commodities",
+   "Foreign exchange risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

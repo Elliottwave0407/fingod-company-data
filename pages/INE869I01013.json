@@ -3,7 +3,7 @@
  "sym": "GTPL",
  "name": "GTPL Hathway Limited",
  "scrip": "540602",
- "mcap_cr": 598.87,
+ "mcap_cr": 603.14,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 18,
     "profit": 7,
-    "quality": 0
+    "quality": 2
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 104.67,
    "pat": 1.38,
    "margin_pct": 10.3,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 35,
     "profit": 24,
-    "quality": 0
+    "quality": 12
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 44,
     "profit": 23,
-    "quality": 0
+    "quality": 13
    },
    "capped_by": "net loss"
   }
@@ -109,7 +109,62 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-19"
+  "latest_concall": "2026-10-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GTPL Hathway Limited is a Multi-System Operator (MSO) providing Digital TV, Broadband, and OTT services across 26 states and 5 Union Territories in India, connecting 12 Mn+ households.",
+  "segments": [
+   {
+    "name": "Digital TV Business",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Broadband Business",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 129.38,
+    "timeline": "Year Ended March 31, 2026"
+   },
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 145.77,
+    "timeline": "Year Ended March 31, 2025"
+   },
+   {
+    "item": "Capex Mix",
+    "amount_cr": null,
+    "timeline": "50% through Redeployment and 50% through Fresh Purchase of STBs"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Becoming India's No. 1 Multi-System Operator (MSO)",
+    "metric": "Market Position",
+    "value": "No. 1",
+    "by_when": "Not specified"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "CS Chirag Shah (Partner)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note 30(A)(ii) regarding demand from DOT aggregating to Rs. 9,754.15 million for license fees; Company confident of defending, no provision recognized."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions, risks and uncertainties",
+   "Demand from DOT for license fees aggregating Rs. 9,754.15 million (contingent liability)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

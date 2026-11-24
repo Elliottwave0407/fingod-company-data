@@ -3,7 +3,7 @@
  "sym": "NCLIND",
  "name": "NCL Industries Limited",
  "scrip": "502168",
- "mcap_cr": 767.83,
+ "mcap_cr": 753.35,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 66,
     "profit": 90,
-    "quality": 94
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 17,
     "profit": 9,
-    "quality": 18
+    "quality": 20
    },
    "capped_by": null
   }
@@ -99,7 +99,57 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-11-18"
+  "latest_concall": "2026-11-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "NCL Industries Limited is a diversified building materials company with operations in cement, cement bonded particle boards, ready mix concrete, and renewable (hydel) energy.",
+  "segments": [
+   {
+    "name": "Cement",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Cement Bonded Particle Boards",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Ready Mix Concrete",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Renewable (Hydel) Energy",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "130 MW solar and wind hybrid project",
+    "amount_cr": null,
+    "timeline": "commenced during the year"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "The Auditor's report does not contain any qualification, reservation, or adverse remark."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 825,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "volatility in prices of key inputs such as coal, petcoke, steel and freight",
+   "limited pricing power amid large industry capacity additions and consolidation",
+   "availability of new limestone at reasonable cost",
+   "regional demand and monsoon variability",
+   "steep movements in input costs",
+   "global events affecting market stability"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

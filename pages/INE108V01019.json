@@ -3,7 +3,7 @@
  "sym": "AWFIS",
  "name": "Awfis Space Solutions Limited",
  "scrip": "544181",
- "mcap_cr": 1979.08,
+ "mcap_cr": 1982.66,
  "group": "A",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 151.71,
    "pat": 23.25,
    "margin_pct": 37.0,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 68,
     "profit": 80,
-    "quality": 40
+    "quality": 68
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 162.28,
    "pat": 23.96,
    "margin_pct": 38.2,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 70,
     "profit": 56,
-    "quality": 40
+    "quality": 69
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Awfis Space Solutions Limited provides flexible workspace solutions including coworking spaces, managed offices, and design & build services for enterprises and Global Capability Centres across India.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

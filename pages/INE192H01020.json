@@ -3,7 +3,7 @@
  "sym": "GRMOVER",
  "name": "GRM Overseas Limited",
  "scrip": "531449",
- "mcap_cr": 1706.79,
+ "mcap_cr": 1686.9,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 59,
     "profit": 4,
-    "quality": 52
+    "quality": 17
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 82,
     "profit": 49,
-    "quality": 46
+    "quality": 35
    },
    "capped_by": null
   }
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GRM Overseas Limited is engaged in the business of rice milling, processing, and export of basmati and non-basmati rice.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "fluctuations in earnings",
+   "ability to manage growth",
+   "intense competition",
+   "factors affecting cost advantage",
+   "wage increases",
+   "ability to attract and retain highly skilled professionals",
+   "natural calamities",
+   "epidemics and pandemics",
+   "political instability",
+   "regulatory changes",
+   "currency risks",
+   "legal restrictions on raising capital or acquiring companies outside India",
+   "unauthorised use of intellectual property",
+   "general economic conditions affecting the industry"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SYMPHONY",
  "name": "Symphony Limited",
  "scrip": "517385",
- "mcap_cr": 3748.43,
+ "mcap_cr": 3727.14,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 92,
     "profit": 40,
-    "quality": 58
+    "quality": 11
    },
-   "capped_by": "profit down YoY"
+   "capped_by": null
   },
   {
    "q": "Sep-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 50,
-    "quality": 57
+    "quality": 35
    },
    "capped_by": null
   }
@@ -95,7 +95,56 @@
   "missing": [],
   "concalls_found": 12,
   "concalls_read": 12,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Symphony Limited is the world's No. 1 air cooler brand globally (excluding China) engaged in developing energy-efficient and environmentally responsible cooling solutions across residential, commercial, and industrial segments through its subsidiaries in India, USA, Mexico, China, Australia, and Brazil.",
+  "segments": [
+   {
+    "name": "Symphony India",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Bonaire USA",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "IMPCO Mexico",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "GSK China",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "CTPL Australia",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "SCL Brazil",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Impairment testing of goodwill accounted on acquisition of Climate Holdings Pty Limited (Australia)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to risks, uncertainties, and inaccurate assumptions",
+   "Impairment risk of goodwill due to complexity and significant judgement in valuation assumptions",
+   "Dependency on external factors for business forecasting accuracy"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

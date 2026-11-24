@@ -3,7 +3,7 @@
  "sym": "JAYBARMARU",
  "name": "Jay Bharat Maruti Limited",
  "scrip": "520066",
- "mcap_cr": 1401.84,
+ "mcap_cr": 1396.97,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 83,
     "profit": 65,
-    "quality": 98
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 34,
     "profit": 21,
-    "quality": 14
+    "quality": 25
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

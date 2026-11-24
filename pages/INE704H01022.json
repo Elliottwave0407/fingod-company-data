@@ -3,7 +3,7 @@
  "sym": "CINELINE",
  "name": "Cineline India Limited",
  "scrip": "532807",
- "mcap_cr": 325.05,
+ "mcap_cr": 322.07,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 13.77,
    "pat": 3.32,
    "margin_pct": 22.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 48,
     "profit": 98,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 87,
     "profit": 88,
-    "quality": 0
+    "quality": 71
    },
    "capped_by": "net loss"
   }
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Cineline India Limited operates a national multiplex chain under the MovieMAX brand, delivering premium yet accessible cinema experiences across India through a capital-light expansion strategy using Operations and Maintenance (O&M) and revenue-sharing partnerships.",
+  "segments": [
+   {
+    "name": "Cinema Exhibition",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

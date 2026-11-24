@@ -3,7 +3,7 @@
  "sym": "HAPPSTMNDS",
  "name": "Happiest Minds Technologies Limited",
  "scrip": "543227",
- "mcap_cr": 4514.95,
+ "mcap_cr": 4437.29,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 68,
     "profit": 90,
-    "quality": 73
+    "quality": 93
    },
    "capped_by": null
   },
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Happiest Minds Technologies Limited provides Product and Digital Engineering Services (PDES), Generative AI Business Services (GBS), and Infrastructure Management and Security Services (IMSS) across industries.",
+  "segments": [
+   {
+    "name": "Product and Digital Engineering Services (PDES)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Generative AI Business Services (GBS)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Infrastructure Management and Security Services (IMSS)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Deloitte Haskins & Sells",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 37,
     "profit": 22,
-    "quality": 19
+    "quality": 7
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 74,
     "profit": 60,
-    "quality": 68
+    "quality": 100
    },
    "capped_by": null
   },
@@ -81,7 +81,7 @@
    "pillars": {
     "growth": 69,
     "profit": 63,
-    "quality": 69
+    "quality": 96
    },
    "capped_by": null
   }
@@ -106,7 +106,30 @@
   "missing": [],
   "concalls_found": 4,
   "concalls_read": 3,
-  "latest_concall": "2026-08-21"
+  "latest_concall": "2026-08-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aaron Industries Limited is a company that maintains inventory of raw materials and finished goods at multiple locations, with closing inventory of Rs. 2442.12 lakhs as at March 31, 2026, constituting approximately 26.78% of total assets.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Dhirren R Dave & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Inventory valuation and physical verification - closing inventory of Rs. 2442.12 lakhs as at March 31, 2026, constituting 26.78% of total assets, with considerable increase at year-end, kept at multiple locations requiring significant judgements and assumptions for physical verification and valuation per Ind AS 2."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inventory valuation and physical verification risk due to large number of items kept at multiple locations with significant judgements and assumptions involved",
+   "Considerable increase in inventory at year-end"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

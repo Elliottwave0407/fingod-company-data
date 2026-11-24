@@ -3,7 +3,7 @@
  "sym": "INDIAGLYCO",
  "name": "India Glycols Limited",
  "scrip": "500201",
- "mcap_cr": 1773.86,
+ "mcap_cr": 1988.35,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 44,
     "profit": 42,
-    "quality": 59
+    "quality": 65
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 53,
     "profit": 33,
-    "quality": 61
+    "quality": 60
    },
    "capped_by": null
   }
@@ -97,9 +97,44 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 10,
-  "concalls_read": 10,
-  "latest_concall": "2026-08-20"
+  "concalls_found": 11,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-24",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "India Glycols Limited manufactures bio-based chemicals including glycols, ethylene oxide, ethanol, and specialty chemicals using sustainable raw materials like molasses and damaged rice.",
+  "segments": [
+   {
+    "name": "Chemicals",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 773.99,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "K.N. GUTGUTIA & CO.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 49.77,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Regulatory and tax disputes including classification of RAB under Central Excise Tariff and transitional ITC claims",
+   "Dependence on bio-based raw materials availability and pricing",
+   "Environmental compliance and emissions-related risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

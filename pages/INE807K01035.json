@@ -3,7 +3,7 @@
  "sym": "SCHAND",
  "name": "S Chand And Company Limited",
  "scrip": "540497",
- "mcap_cr": 421.33,
+ "mcap_cr": 434.38,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 57,
     "profit": 67,
-    "quality": 63
+    "quality": 55
    },
    "capped_by": null
   },
@@ -66,9 +66,13 @@
    "ebitda": -9.68,
    "pat": -18.73,
    "margin_pct": -8.5,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 45,
+    "profit": 30,
+    "quality": 5
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -95,7 +99,29 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-08-13"
+  "latest_concall": "2026-08-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "S Chand And Company Limited is an Indian listed company with significant investments in subsidiaries.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment risk on investments in subsidiaries amounting to Rs 5,761.78 million as at 31 March 2026, dependent on operational performance of subsidiaries"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

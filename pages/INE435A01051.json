@@ -3,7 +3,7 @@
  "sym": "ANDHRAPAP",
  "name": "ANDHRA PAPER LIMITED",
  "scrip": "502330",
- "mcap_cr": 1239.04,
+ "mcap_cr": 1223.92,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 25.11,
    "pat": 7.72,
    "margin_pct": 4.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 69,
     "profit": 34,
-    "quality": 10
+    "quality": 23
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 57,
     "profit": 79,
-    "quality": 56
+    "quality": 62
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   },
   {
    "q": "Sep-26",
@@ -80,11 +80,11 @@
    "ebitda": 28.84,
    "pat": 4.27,
    "margin_pct": 6.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 56,
     "profit": 85,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   }
@@ -109,7 +109,81 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Andhra Paper Limited manufactures paper, paperboard, and pulp, and is entering the tissue and hygiene segment.",
+  "segments": [
+   {
+    "name": "Paper and Paperboard",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Pulp",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Tissue and Hygiene",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Modernisation of manufacturing facilities across both operating units (Rajahmundry and Kadiam)",
+    "amount_cr": 915,
+    "timeline": "Over the past four years"
+   },
+   {
+    "item": "Tissue facility at Rajahmundry",
+    "amount_cr": null,
+    "timeline": "Upcoming"
+   },
+   {
+    "item": "Capital Work in Progress (CWIP) additions during FY26",
+    "amount_cr": 328.95,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Wood inventory will be increased from 30 days to 50 days when wood availability is good.",
+    "metric": "Wood inventory days",
+    "value": "50 days",
+    "by_when": "When wood availability is good"
+   },
+   {
+    "statement": "Maturing plantation cycles will ease wood costs in FY2026-27, benefiting the Company's input cost structure.",
+    "metric": "Wood cost",
+    "value": "Ease",
+    "by_when": "FY2026-27"
+   },
+   {
+    "statement": "EPR target for plastic waste collection for FY 2025-26 is 1268 tons.",
+    "metric": "Plastic waste collection",
+    "value": "1268 tons",
+    "by_when": "FY 2025-26"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "The Report of Auditors for the financial Year 2025-26 does not have any qualifications, reservations or adverse remarks. Unmodified opinion on IFC was given by them."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 6366,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Raw material risk: Structural wood fibre deficit, supply gaps impacting margins",
+   "Threat from cheaper imports: Rising cheaper imports from ASEAN countries and China at zero or reduced duty under FTA constraining domestic pricing power and realisations",
+   "Demand shifts: Structural changes from digitalisation and evolving consumption patterns moderating demand growth in writing and printing segments",
+   "Regulatory risk: Delayed compliance with Regulation 17(1A) of SEBI (LODR) Regulations, 2015 resulting in fines",
+   "Input cost volatility: Volatile input costs including wood, pulp, and chemical prices"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

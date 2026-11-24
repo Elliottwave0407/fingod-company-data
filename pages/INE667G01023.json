@@ -3,7 +3,7 @@
  "sym": "SAKSOFT",
  "name": "Saksoft Limited",
  "scrip": "590051",
- "mcap_cr": 1560.0,
+ "mcap_cr": 1496.25,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 49,
     "profit": 76,
-    "quality": 71
+    "quality": 62
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 45.4,
    "pat": 29.29,
    "margin_pct": 18.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 25,
     "profit": 45,
-    "quality": 37
+    "quality": 21
    },
    "capped_by": null
   }
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Saksoft Limited provides digital transformation services including Digital Commerce, Data Analytics & AI, and cloud modernization for global enterprises.",
+  "segments": [
+   {
+    "name": "Digital Commerce",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Data, Analytics & AI",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Impairment test analysis on Equity investments in subsidiaries (carrying amount Rs.2379 million, 46% of total assets)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment risk on equity investments in subsidiaries"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

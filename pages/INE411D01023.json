@@ -3,7 +3,7 @@
  "sym": "SKMEGGPROD",
  "name": "SKM Egg Products Export (India) Limited",
  "scrip": "532143",
- "mcap_cr": 1129.29,
+ "mcap_cr": 1137.46,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 77
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 51,
     "profit": 73,
-    "quality": 83
+    "quality": 87
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   },
   {
    "q": "Sep-26",
@@ -80,11 +80,11 @@
    "ebitda": 30.72,
    "pat": 17.81,
    "margin_pct": 16.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 15,
     "profit": 20,
-    "quality": 24
+    "quality": 1
    },
    "capped_by": null
   }
@@ -109,7 +109,9 @@
   "missing": [],
   "concalls_found": 3,
   "concalls_read": 3,
-  "latest_concall": "2026-10-27"
+  "latest_concall": "2026-10-27",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

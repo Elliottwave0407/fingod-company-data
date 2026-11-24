@@ -3,7 +3,7 @@
  "sym": "IRIS",
  "name": "IRIS RegTech Solutions Limited",
  "scrip": "540735",
- "mcap_cr": 415.38,
+ "mcap_cr": 406.53,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 42,
     "profit": 34,
-    "quality": 83
+    "quality": 78
    },
    "capped_by": null
   },
@@ -95,7 +95,40 @@
   ],
   "concalls_found": 8,
   "concalls_read": 6,
-  "latest_concall": "2026-11-13"
+  "latest_concall": "2026-11-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "IRIS RegTech Solutions Limited provides regulatory technology (RegTech), supervisory technology (SupTech), and data technology (DataTech) solutions for regulatory reporting and compliance.",
+  "segments": [
+   {
+    "name": "RegTech",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "SupTech",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "DataTech",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. M.P. Chitale & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

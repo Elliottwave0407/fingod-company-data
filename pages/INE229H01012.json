@@ -3,7 +3,7 @@
  "sym": "NITINSPIN",
  "name": "Nitin Spinners Limited",
  "scrip": "532698",
- "mcap_cr": 3963.23,
+ "mcap_cr": 3928.65,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 34,
     "profit": 53,
-    "quality": 44
+    "quality": 60
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 63,
     "profit": 83,
-    "quality": 65
+    "quality": 91
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 175.47,
    "pat": 88.66,
    "margin_pct": 17.8,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 86,
     "profit": 92,
-    "quality": 67
+    "quality": 97
    },
    "capped_by": null
   }
@@ -109,7 +109,29 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nitin Spinners Limited is an integrated textile manufacturer engaged in the production of yarn, fabric, and garments from fibre to finished fabric.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inventory valuation risk due to volatile consumer demand and seasonal trends leading to potential carrying value exceeding net realisable value"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

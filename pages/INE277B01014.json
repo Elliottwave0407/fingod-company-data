@@ -3,7 +3,7 @@
  "sym": "PUNJABCHEM",
  "name": "Punjab Chemicals & Crop Protection Limited",
  "scrip": "506618",
- "mcap_cr": 1094.52,
+ "mcap_cr": 1077.29,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 51,
     "profit": 69,
-    "quality": 57
+    "quality": 79
    },
    "capped_by": null
   },
@@ -99,7 +99,50 @@
   ],
   "concalls_found": 20,
   "concalls_read": 0,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Punjab Chemicals and Crop Protection Limited manufactures agro chemicals, specialty chemicals, and pharmaceuticals.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work-in-progress additions",
+    "amount_cr": 39.32,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Capital work-in-progress balance",
+    "amount_cr": 17.45,
+    "timeline": "As at 31 March 2026"
+   },
+   {
+    "item": "Right-of-use asset additions",
+    "amount_cr": 9.71,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Capitalised expenses (salaries, power, finance costs)",
+    "amount_cr": 3.48,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R & CO. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to pressure to achieve performance targets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "USK",
  "name": "Udayshivakumar Infra Limited",
  "scrip": "543861",
- "mcap_cr": 107.61,
+ "mcap_cr": 104.4,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 100,
-    "quality": 78
+    "quality": 100
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 7.08,
    "pat": 2.46,
    "margin_pct": 15.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 8,
     "profit": 92,
-    "quality": 8
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Udayshivakumar Infra Limited is an infrastructure company engaged in construction and engineering projects.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "NBT & Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Credit risk",
+   "Liquidity risk",
+   "Market risk (including currency and interest rate risk)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

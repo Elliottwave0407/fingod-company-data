@@ -3,7 +3,7 @@
  "sym": "NPST",
  "name": "Network People Services Technologies Limited",
  "scrip": "544396",
- "mcap_cr": 3598.22,
+ "mcap_cr": 3529.48,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 95,
     "profit": 17,
-    "quality": 80
+    "quality": 40
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 92,
     "profit": 20,
-    "quality": 89
+    "quality": 55
    },
    "capped_by": null
   }
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-16"
+  "latest_concall": "2026-11-16",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Network People Services Technologies Limited is one of India's leading digital banking and payments infrastructure providers, offering a comprehensive suite of banking and payment solutions to help banks, fintechs, payment aggregators, NBFCs, enterprises and public institutions build secure, scalable and efficient financial ecosystems.",
+  "segments": [
+   {
+    "name": "Technology Service Provider (TSP)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Payment Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Digital Banking Solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Targeting 300%+ improvement in revenue per employee over the next three years",
+    "metric": "Revenue per employee improvement",
+    "value": "300%+",
+    "by_when": "Next three years"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Sameer Mahajan (Partner), Firm Registration No: 302049E",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Market Risk",
+   "Credit Risk",
+   "Liquidity Risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

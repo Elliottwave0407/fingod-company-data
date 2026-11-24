@@ -3,7 +3,7 @@
  "sym": "ORBTEXP",
  "name": "Orbit Exports Limited",
  "scrip": "512626",
- "mcap_cr": 638.15,
+ "mcap_cr": 633.27,
  "group": "B",
  "quarters": [
   {
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 94,
     "profit": 100,
-    "quality": 95
+    "quality": 90
    },
    "capped_by": "margin down over 1 pt QoQ"
   }
@@ -109,7 +109,43 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Orbit Exports is one of India's leading exporters of fashion fabrics, seasonal ribbons and made-up products, serving customers across the United States, Latin America, Africa, the Middle East and Europe.",
+  "segments": [
+   {
+    "name": "Fashion fabrics, seasonal ribbons and made-up products",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Dedicated execution leadership at Sarigam facility",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Nayan Parikh & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "No qualification, reservation or adverse remarks; no instances of fraud reported under Section 143(12)"
+  },
+  "promoter_holding_pct": 66.05,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Global demand volatility and slower order placement by buyers",
+   "Order re-costing due to changing market conditions",
+   "Currency and commodity price risk",
+   "Dependence on international textile trade policies and trade agreements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

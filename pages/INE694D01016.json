@@ -1,0 +1,148 @@
+{
+ "isin": "INE694D01016",
+ "sym": "VADILALIND",
+ "name": "Vadilal Industries Limited",
+ "scrip": "519156",
+ "mcap_cr": 4952.49,
+ "group": "B",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 274.47,
+   "ebitda": 38.77,
+   "pat": 22.0,
+   "margin_pct": 14.1,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 505.91,
+   "ebitda": 99.76,
+   "pat": 66.98,
+   "margin_pct": 19.7,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 341.3,
+   "ebitda": 51.27,
+   "pat": 33.42,
+   "margin_pct": 15.0,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 238.02,
+   "ebitda": 10.64,
+   "pat": -0.15,
+   "margin_pct": 4.5,
+   "verdict_v3": null,
+   "pillars": {},
+   "capped_by": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 415.83,
+   "ebitda": 89.93,
+   "pat": 59.73,
+   "margin_pct": 21.6,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 97,
+    "profit": 97,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 680.06,
+   "ebitda": 166.18,
+   "pat": 130.91,
+   "margin_pct": 24.4,
+   "verdict_v3": "Blockbuster",
+   "pillars": {
+    "growth": 90,
+    "profit": 97,
+    "quality": 100
+   },
+   "capped_by": null
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 462.56,
+   "ebitda": 83.81,
+   "pat": 54.82,
+   "margin_pct": 18.1,
+   "verdict_v3": "Excellent",
+   "pillars": {
+    "growth": 90,
+    "profit": 77,
+    "quality": 83
+   },
+   "capped_by": "margin down over 1 pt QoQ"
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vadilal Industries Limited is engaged in manufacturing of ice cream and processing frozen food.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Pundhra Plant capital expenditure program",
+    "amount_cr": 120,
+    "timeline": "Not specified"
+   },
+   {
+    "item": "Routine capital expenditure requirements",
+    "amount_cr": 50,
+    "timeline": "Not specified"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/S Walker Chandiok & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition involving significant management judgement due to varied terms of contracts, large volume of sales to related parties, and ensuring arm's length pricing"
+  ],
+  "dividend_per_share": null
+ },
+ "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+}

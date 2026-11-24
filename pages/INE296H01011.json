@@ -3,7 +3,7 @@
  "sym": "EMKAY",
  "name": "Emkay Global Financial Services Limited",
  "scrip": "532737",
- "mcap_cr": 705.28,
+ "mcap_cr": 700.31,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 87,
-    "quality": 10
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 84,
     "profit": 85,
-    "quality": 73
+    "quality": 72
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 83
+    "quality": 100
    },
    "capped_by": null
   }
@@ -109,7 +109,35 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Emkay Global Financial Services Limited is a financial services company providing brokerage, wealth advisory, investment banking, and related financial services.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure (Including capital work in progress)",
+    "amount_cr": 8.7616,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "IT Systems and controls - financial accounting and reporting systems fundamentally reliant on IT systems and IT controls to process significant transaction volumes"
+  ],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

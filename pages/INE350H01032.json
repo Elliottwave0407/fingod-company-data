@@ -3,7 +3,7 @@
  "sym": "BLKASHYAP",
  "name": "B. L. Kashyap and Sons Limited",
  "scrip": "532719",
- "mcap_cr": 1254.12,
+ "mcap_cr": 1241.5,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -10.9,
    "pat": -12.52,
    "margin_pct": -3.0,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 32,
+    "profit": -2,
+    "quality": 9
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -62,11 +66,11 @@
    "ebitda": 28.58,
    "pat": 10.0,
    "margin_pct": 8.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 36,
     "profit": 44,
-    "quality": 13
+    "quality": 27
    },
    "capped_by": null
   }
@@ -95,7 +99,42 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "B. L. Kashyap and Sons Limited is engaged in construction contracts, recognizing revenue using the percentage of completion method.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Work in Progress additions",
+    "amount_cr": 0.0907,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Computer Software additions",
+    "amount_cr": 0.0543,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on: (a) Provident Fund dues pending before Hon'ble High Court of Delhi with \u20b915.00 crores held as deposit; (b) Right of Recompense with CDR lenders not yet quantified, provision of \u20b935 crores made; (c) Exceptional items of \u20b937.82 crores including additional provision of \u20b920.00 crores for Right of Recompense and write-off of \u20b917.80 crores from contract assets."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition on construction contracts involves significant judgement in estimating total contract costs, stage of completion, variations, claims and liquidated damages",
+   "Recoverability of contract assets and trade receivables, including balances under dispute and amounts outstanding for extended periods, involves significant management judgement",
+   "Measurement of expected credit loss on trade receivables and contract assets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

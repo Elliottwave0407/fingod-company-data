@@ -3,7 +3,7 @@
  "sym": "PNC",
  "name": "Pritish Nandy Communications Limited",
  "scrip": "532387",
- "mcap_cr": 23.36,
+ "mcap_cr": 24.3,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -2.05,
    "pat": -2.06,
    "margin_pct": -82.3,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -66,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -95,7 +99,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "PNC Media and Entertainment Limited (formerly Pritish Nandy Communications Limited) is engaged in media and entertainment business including content creation and production.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note 35(a) regarding legal proceedings for recovery of advance of Rs 150 lakhs considered good and fully recoverable by management"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Legal proceedings for recovery of advance of Rs 150 lakhs",
+   "Revenue recognition complexity due to unique contract terms and timing differences",
+   "Estimation uncertainty in useful life of intangible inventory and amortization"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

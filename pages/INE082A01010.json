@@ -3,7 +3,7 @@
  "sym": "KOPRAN",
  "name": "Kopran Limited",
  "scrip": "524280",
- "mcap_cr": 1269.53,
+ "mcap_cr": 1280.16,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 32.95,
    "pat": 18.87,
    "margin_pct": 14.1,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 90,
     "profit": 83,
-    "quality": 73
+    "quality": 85
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 47,
     "profit": 38,
-    "quality": 19
+    "quality": 21
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2025-03-27"
+  "latest_concall": "2025-03-27",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kopran Limited operates through two complementary pharmaceutical business verticals comprising Active Pharmaceutical Ingredients (APIs) and Formulations, developing active pharmaceutical ingredients and manufacturing high-quality finished dosage forms across the pharmaceutical value chain.",
+  "segments": [
+   {
+    "name": "API",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Formulations",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Volatility in prices of raw materials (especially Amoxicillin Trihydrate) impacting inventory valuation",
+   "Foreign currency risk on imported raw materials",
+   "Recoverability of overdue trade receivables requiring significant judgement for allowance estimation"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

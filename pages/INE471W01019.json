@@ -3,7 +3,7 @@
  "sym": "PALASHSECU",
  "name": "Palash Securities Limited",
  "scrip": "540648",
- "mcap_cr": 79.82,
+ "mcap_cr": 82.03,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -0.37,
    "pat": -4.14,
    "margin_pct": -308.3,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -247,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -95,7 +99,46 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Palash Securities Limited is an investment holding company with an investing business segment earning interest and dividend income, and through its former subsidiary Morton Foods Limited, was also engaged in food processing of canned fruits, vegetables, jams, jellies, squashes and juices until November 18, 2025.",
+  "segments": [
+   {
+    "name": "Investing Business",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Food Processing Business",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure - Property, Plant and Equipment (Food Processing Business)",
+    "amount_cr": 1.893,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Agrawal Subodh & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 4,
+  "key_risks": [
+   "Loss of control over material subsidiary Morton Foods Limited which became an associate",
+   "Going concern uncertainty for associate Morton Foods Limited",
+   "Non-compliance with QR code requirement in Hindi newspaper advertisement of financial results"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

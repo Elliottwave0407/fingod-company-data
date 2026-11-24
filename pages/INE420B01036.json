@@ -3,7 +3,7 @@
  "sym": "ARIHANTCAP",
  "name": "Arihant Capital Markets Limited",
  "scrip": "511605",
- "mcap_cr": 992.65,
+ "mcap_cr": 965.14,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 97,
     "profit": 100,
-    "quality": 76
+    "quality": 86
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 84,
     "profit": 99,
-    "quality": 74
+    "quality": 98
    },
    "capped_by": null
   }
@@ -109,7 +109,32 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Arihant Capital Markets Limited is a financial services company providing broking, wealth management, investment banking, and research services to over 250,000 clients across 120 cities in India.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Industry-wide yield compression",
+   "Regulatory adjustments in derivatives trading",
+   "Global market volatility",
+   "Foreign portfolio realignments"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

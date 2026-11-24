@@ -3,7 +3,7 @@
  "sym": "GEOJITFSL",
  "name": "Geojit Financial Services Limited",
  "scrip": "532285",
- "mcap_cr": 1980.93,
+ "mcap_cr": 2033.13,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 36.66,
    "pat": 17.47,
    "margin_pct": 19.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 18,
     "profit": 16,
-    "quality": 15
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 31.75,
    "pat": 19.83,
    "margin_pct": 19.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 17,
     "profit": 16,
-    "quality": 27
+    "quality": 0
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 30.34,
    "pat": 16.28,
    "margin_pct": 18.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 15,
     "profit": 15,
-    "quality": 20
+    "quality": 0
    },
    "capped_by": null
   }
@@ -109,7 +109,36 @@
   "missing": [],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-11-02"
+  "latest_concall": "2026-11-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Geojit Financial Services Limited is an integrated investment services and wealth management firm evolving into a distribution-led, annuity-driven platform with presence across India and the GCC.",
+  "segments": [
+   {
+    "name": "Mutual Fund Distribution",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Asset Management",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 3345,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

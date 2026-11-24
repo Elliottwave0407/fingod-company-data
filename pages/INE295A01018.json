@@ -3,7 +3,7 @@
  "sym": "EVERESTIND",
  "name": "Everest Industries Limited",
  "scrip": "508906",
- "mcap_cr": 634.23,
+ "mcap_cr": 636.21,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 57,
     "profit": 100,
-    "quality": 88
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   },
@@ -80,11 +80,11 @@
    "ebitda": 20.82,
    "pat": 2.07,
    "margin_pct": 6.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 32,
     "profit": 85,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   }
@@ -109,7 +109,40 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Everest Industries Limited operates across Roofing, Boards & Panels, and Pre-Engineered Steel Buildings segments.",
+  "segments": [
+   {
+    "name": "Roofing",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Boards & Panels",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Pre-Engineered Steel Buildings",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S R B C & CO LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

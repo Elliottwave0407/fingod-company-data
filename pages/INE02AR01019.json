@@ -3,7 +3,7 @@
  "sym": "ANMOL",
  "name": "Anmol India Limited",
  "scrip": "542437",
- "mcap_cr": 62.04,
+ "mcap_cr": 60.5,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 12,
     "profit": 27,
-    "quality": 79
+    "quality": 57
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 15,
     "profit": 38,
-    "quality": 42
+    "quality": 39
    },
    "capped_by": null
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Anmol India Limited is one of India's leading importers and suppliers of coal, providing comprehensive sourcing, trading, logistics and supply chain solutions to customers across diverse industrial sectors.",
+  "segments": [
+   {
+    "name": "Coal Trading",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s KR Aggarwal & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Fluctuating global commodity prices",
+   "Evolving trade patterns",
+   "Supply chain disruptions",
+   "Changing energy market dynamics",
+   "Geopolitical developments",
+   "Changes in international trade flows",
+   "Freight rate fluctuations",
+   "Currency movements",
+   "Shifting energy policies across regions",
+   "Revenue recognition fraud risk due to management pressure to achieve performance targets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

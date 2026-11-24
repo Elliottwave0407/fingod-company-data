@@ -3,7 +3,7 @@
  "sym": "MASTEK",
  "name": "Mastek Limited",
  "scrip": "523704",
- "mcap_cr": 4466.18,
+ "mcap_cr": 4506.18,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 27,
     "profit": 33,
-    "quality": 82
+    "quality": 72
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 151.36,
    "pat": 105.88,
    "margin_pct": 15.4,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 40,
     "profit": 48,
-    "quality": 59
+    "quality": 50
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 39,
     "profit": 44,
-    "quality": 51
+    "quality": 40
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-28"
+  "latest_concall": "2026-10-28",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mastek Limited is an AI-native enterprise providing digital engineering and technology solutions, focused on delivering tangible business outcomes through AI integration across the engineering lifecycle.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter \u2013 Restatement pursuant to the scheme of Amalgamation between the Company and Mastek Enterprise Solutions Private Limited, wholly owned subsidiary, as approved by NCLT vide order dated 02 May 2025, with appointed date 01 April 2024."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

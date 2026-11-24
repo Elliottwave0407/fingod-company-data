@@ -3,7 +3,7 @@
  "sym": "DGCONTENT",
  "name": "Digicontent Limited",
  "scrip": "542685",
- "mcap_cr": 116.56,
+ "mcap_cr": 115.86,
  "group": "B",
  "quarters": [
   {
@@ -66,13 +66,13 @@
    "ebitda": 1.88,
    "pat": -1.93,
    "margin_pct": 1.5,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 27,
     "profit": 27,
-    "quality": 0
+    "quality": 47
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Digicontent Limited operates the Mint brand, providing financial journalism and digital personal finance solutions including Mint Money for credit scores, loans, credit cards, and personalized financial insights, and Mint Horizons for global investing education.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "macroeconomic shifts",
+   "evolving global conflicts",
+   "market volatility",
+   "inflation",
+   "currency fluctuations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

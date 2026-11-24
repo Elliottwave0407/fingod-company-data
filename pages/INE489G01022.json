@@ -3,7 +3,7 @@
  "sym": "ANUHPHR",
  "name": "Anuh Pharma Limited",
  "scrip": "506260",
- "mcap_cr": 795.58,
+ "mcap_cr": 791.57,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 32,
     "profit": 44,
-    "quality": 34
+    "quality": 26
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 65,
     "profit": 67,
-    "quality": 74
+    "quality": 70
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 55,
     "profit": 66,
-    "quality": 75
+    "quality": 77
    },
    "capped_by": "revenue down YoY"
   }
@@ -109,7 +109,9 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

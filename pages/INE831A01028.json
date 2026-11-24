@@ -3,7 +3,7 @@
  "sym": "ONIDA",
  "name": "Onida Electronics Limited",
  "scrip": "500279",
- "mcap_cr": 919.75,
+ "mcap_cr": 913.47,
  "group": "B",
  "quarters": [
   {
@@ -66,9 +66,13 @@
    "ebitda": -11.43,
    "pat": -14.18,
    "margin_pct": -6.3,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 73,
+    "profit": 21,
+    "quality": 54
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -95,7 +99,57 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "MIRC Electronics Limited operates primarily in the consumer electronics and home-appliance segment under the Onida brand, with principal product categories including LED/Smart Televisions and Air Conditioners.",
+  "segments": [
+   {
+    "name": "Sale of Products - Finished Goods",
+    "share_of_revenue_pct": 38.2
+   },
+   {
+    "name": "Sale of Products - Contract Manufactured Goods",
+    "share_of_revenue_pct": 39.3
+   },
+   {
+    "name": "Revenue from contract sale",
+    "share_of_revenue_pct": 22.0
+   },
+   {
+    "name": "Sale of Services - Job work charges",
+    "share_of_revenue_pct": 0.0
+   },
+   {
+    "name": "Other operating revenue",
+    "share_of_revenue_pct": 0.6
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 13.61,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Employee benefits valuation depends on actuarial assumptions (discount rates, salary increases, inflation, mortality, attrition) and legislative amendments",
+   "Inventory valuation and provisioning risk for raw materials, finished goods, contract manufactured goods, semi-finished goods and materials in transit"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "CONTROLPR",
  "name": "Control Print Limited",
  "scrip": "522295",
- "mcap_cr": 975.89,
+ "mcap_cr": 974.45,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 54,
     "profit": 54,
-    "quality": 10
+    "quality": 0
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 57,
     "profit": 16,
-    "quality": 13
+    "quality": 0
    },
    "capped_by": null
   }
@@ -109,7 +109,48 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Control Print Limited is engaged in coding and marking solutions, track and trace solutions, and packaging solutions, evolving from a hardware provider into an architect of supply chain intelligence and scalable packaging solutions.",
+  "segments": [
+   {
+    "name": "Coding and Marking",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Track and Trace Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "V-Shapes Packaging",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Infrastructure in Assam for expansion",
+    "amount_cr": null,
+    "timeline": "Not specified"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Jhawar Mantri and Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements may not prove accurate due to inherent risks and uncertainties"
+  ],
+  "dividend_per_share": 10
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SMLT",
  "name": "Sarthak Metals Limited",
  "scrip": "540393",
- "mcap_cr": 95.98,
+ "mcap_cr": 99.94,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 86,
     "profit": 47,
-    "quality": 74
+    "quality": 76
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 37,
     "profit": 24,
-    "quality": 64
+    "quality": 43
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2025-11-14"
+  "latest_concall": "2025-11-14",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sarthak Metals Limited is among India's foremost manufacturers of cored wires and aluminium flipping coils, with an emerging presence in welding consumables through flux cored wires.",
+  "segments": [
+   {
+    "name": "Cored wires",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Aluminium flipping coils",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Flux cored wires (welding consumables)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 149,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

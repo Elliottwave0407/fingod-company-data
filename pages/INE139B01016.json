@@ -3,7 +3,7 @@
  "sym": "UCAL",
  "name": "UCAL LIMITED",
  "scrip": "500464",
- "mcap_cr": 311.25,
+ "mcap_cr": 317.44,
  "group": "T",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 55,
     "profit": 62,
-    "quality": 0
+    "quality": 97
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,13 +66,13 @@
    "ebitda": 19.39,
    "pat": 5.84,
    "margin_pct": 9.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 66,
     "profit": 81,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   },
   {
    "q": "Sep-26",
@@ -80,13 +80,13 @@
    "ebitda": 22.87,
    "pat": 8.18,
    "margin_pct": 9.9,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 67,
     "profit": 68,
-    "quality": 10
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   }
  ],
  "completeness": {
@@ -109,7 +109,51 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "UCAL Limited is a leading manufacturer of fuel management systems and critical automotive components, serving as a global solutions partner in mechatronics and advanced technologies for automotive and non-automotive industries worldwide.",
+  "segments": [
+   {
+    "name": "Automotive Components",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Land and Building",
+    "amount_cr": 1.0738,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Plant and Machinery",
+    "amount_cr": 0.6523,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Others",
+    "amount_cr": 0.0524,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on write down in carrying amount of investments in erstwhile wholly owned foreign subsidiary UCAL Holdings Inc., USA (UHI USA) consequent to dilution in controlling interest from 100% to 10% (Note No. 29(b))"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Valuation of inventories (carrying amount Rs. 6,357.68 lakhs, 10.09% of total assets) valued at lower of cost and net realisable value",
+   "Write down in carrying amount of investments in foreign subsidiary due to dilution of controlling interest from 100% to 10%"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

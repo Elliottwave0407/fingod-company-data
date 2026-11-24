@@ -3,7 +3,7 @@
  "sym": "GUJALKALI",
  "name": "Gujarat Alkalies and Chemicals Limited",
  "scrip": "530001",
- "mcap_cr": 4349.3,
+ "mcap_cr": 4273.29,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 28,
     "profit": 31,
-    "quality": 40
+    "quality": 59
    },
    "capped_by": null
   },
@@ -66,13 +66,13 @@
    "ebitda": 221.68,
    "pat": 54.98,
    "margin_pct": 17.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 73,
     "profit": 94,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -99,7 +99,29 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gujarat Alkalies and Chemicals Limited is engaged in the manufacturing of chemicals such as caustic soda, chlorine, and other alkali products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Y. S. Thakar & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note no. 7.1 regarding the sanction of the Composite Scheme of Amalgamation and Arrangement by MCA vide order dated 8th April, 2026."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Litigations and claims pending with multiple tax and regulatory authorities and claims from vendors/suppliers and employees not acknowledged as debt, involving significant management judgment and estimation uncertainty."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

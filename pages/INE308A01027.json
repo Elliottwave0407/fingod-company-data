@@ -3,7 +3,7 @@
  "sym": "NAHARPOLY",
  "name": "Nahar Poly Films Limited",
  "scrip": "523391",
- "mcap_cr": 587.04,
+ "mcap_cr": 567.49,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 57,
     "profit": 82,
-    "quality": 74
+    "quality": 83
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 5,
     "profit": 8,
-    "quality": 31
+    "quality": 6
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 89,
     "profit": 36,
-    "quality": 93
+    "quality": 73
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nahar Poly Films Limited is engaged in the manufacturing and sale of polyester films.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "YAPL & Company",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

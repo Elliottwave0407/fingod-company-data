@@ -49,11 +49,11 @@
    "ebitda": 3.0,
    "pat": 1.24,
    "margin_pct": 1.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 50,
     "profit": 1,
-    "quality": 8
+    "quality": 0
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 45,
     "profit": 41,
-    "quality": 0
+    "quality": 15
    },
    "capped_by": null
   }
@@ -96,7 +96,46 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kalyani Commercials Limited is engaged in trading of vehicles and spare parts, and operates a BPCL fuel filling station and vehicle service center.",
+  "segments": [
+   {
+    "name": "Trading of Vehicles and Spare Parts",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "BPCL Fuel Filling Station",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Vehicle Service Center",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "K. Prasad & Company",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "domestic demand and supply conditions affecting selling prices",
+   "new capacity additions",
+   "availability of materials and their cost",
+   "changes in government policies and tax laws",
+   "economic development of the country"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "5PAISA",
  "name": "5Paisa Capital Limited",
  "scrip": "540776",
- "mcap_cr": 1588.14,
+ "mcap_cr": 1616.73,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 61,
     "profit": 56,
-    "quality": 29
+    "quality": 30
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 40,
     "profit": 21,
-    "quality": 25
+    "quality": 21
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 33,
     "profit": 20,
-    "quality": 4
+    "quality": 2
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-23"
+  "latest_concall": "2026-10-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "5paisa Capital Limited is a digital financial services company providing broking, trading, and investment platforms with AI-powered features for retail investors in India.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "V. Sankar Aiyar & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 4,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

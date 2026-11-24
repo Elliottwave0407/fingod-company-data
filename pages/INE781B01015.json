@@ -3,7 +3,7 @@
  "sym": "NOIDATOLL",
  "name": "Noida Toll Bridge Company Limited",
  "scrip": "532481",
- "mcap_cr": 69.45,
+ "mcap_cr": 70.57,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 19,
     "profit": 18,
-    "quality": 60
+    "quality": 10
    },
    "capped_by": null
   },
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2025-01-22"
+  "latest_concall": "2025-01-22",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Noida Toll Bridge Company Limited operates the DND Flyway, an 8-lane, 7.5 km access-controlled expressway across the Yamuna River connecting Noida to South Delhi, along with a 1.7 km Mayur Vihar link, on a Build-Own-Operate-Transfer (BOOT) basis.",
+  "segments": [
+   {
+    "name": "Advertisement and licence income",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Functional maintenance requirement through FY2031",
+    "amount_cr": 20,
+    "timeline": "Through FY2031"
+   },
+   {
+    "item": "Maintenance work already carried out",
+    "amount_cr": 6.5,
+    "timeline": "Completed"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Kumar Wadhwa & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Board of Directors not duly constituted; Company under investigation by Central Government under Section 242 of Companies Act, 2013 pertaining to IL&FS group"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Going concern and resolution process: Classified as 'Red' entity under IL&FS Resolution Framework, debt unserviced since Oct 15, 2018",
+   "Revenue concentration: User fee collection permanently discontinued; revenues concentrated in advertisement and licence income; NOIDA sought to stop advertisement displays and recover >Rs 100 crore",
+   "Income tax matters: Residual uncertainty from remanded matters and potential appeals by Revenue; historical demands of Rs 1,340.03 crore and Rs 10,893.30 crore",
+   "Contractual claims: Arbitration claims against NOIDA stayed by Supreme Court; timing and outcome uncertain"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

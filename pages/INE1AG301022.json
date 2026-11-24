@@ -3,7 +3,7 @@
  "sym": "GKENERGY",
  "name": "GK Energy Limited",
  "scrip": "544525",
- "mcap_cr": 1934.07,
+ "mcap_cr": 1901.82,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 92,
     "profit": 31,
-    "quality": 85
+    "quality": 72
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 26,
     "profit": 43,
-    "quality": 49
+    "quality": 40
    },
    "capped_by": null
   }
@@ -95,7 +95,55 @@
   "missing": [],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GK Energy Limited is a decentralized renewable energy infrastructure company focused on solar-powered agricultural pumping systems, rooftop solar systems, and distributed clean energy solutions across rural India.",
+  "segments": [
+   {
+    "name": "Solar-powered agricultural pumping systems",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Rooftop solar systems",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Distributed renewable infrastructure",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Emerging clean energy solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": 710,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Competitive intensity from organised and unorganised players in the solar pump industry, which could pressure margins and market share",
+   "Fluctuations in earnings",
+   "Ability to manage growth",
+   "Competition (both domestic and international)",
+   "Economic growth in India and target countries worldwide",
+   "Ability to attract and retain highly skilled professionals",
+   "Time and cost overruns on contracts",
+   "Ability to manage international operations",
+   "Government policies and actions with respect to investments",
+   "Fiscal deficits, regulations, interest and other fiscal costs generally prevailing in the economy"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

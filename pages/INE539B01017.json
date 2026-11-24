@@ -3,7 +3,7 @@
  "sym": "VIRINCHI",
  "name": "Virinchi Limited",
  "scrip": "532372",
- "mcap_cr": 148.89,
+ "mcap_cr": 148.44,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 7,
     "profit": 17,
-    "quality": 22
+    "quality": 43
    },
    "capped_by": null
   }
@@ -99,7 +99,49 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Virinchi Limited operates a SaaS platform (QFund), IT-enabled services, and IDC & IT Services through its subsidiary KSoft Systems Inc., and holds a 51% stake in Virinchi Health Care Private Limited which runs Virinchi Hospitals.",
+  "segments": [
+   {
+    "name": "QFund SaaS platform",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "IT-enabled services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "IDC & IT Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Healthcare (Virinchi Hospitals)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "P. Murali & Co",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "One-time write-off at standalone level",
+   "Consolidated loss of \u20b926.12 crore",
+   "Aged receivables written off",
+   "Healthcare ownership restructuring"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

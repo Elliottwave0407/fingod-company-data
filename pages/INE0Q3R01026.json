@@ -3,7 +3,7 @@
  "sym": "SUNCLAY",
  "name": "Sundaram Clayton Limited",
  "scrip": "544066",
- "mcap_cr": 2349.46,
+ "mcap_cr": 2369.96,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 58,
     "profit": 100,
-    "quality": 88
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 28,
     "profit": 21,
-    "quality": 0
+    "quality": 56
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -99,7 +99,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sundaram-Clayton Limited manufactures automotive components including die-casting and machined parts for two-wheeler and commercial vehicle segments, and has recently monetized surplus land assets.",
+  "segments": [
+   {
+    "name": "Automotive Components",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure Payables",
+    "amount_cr": 46.05,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Class 8 truck market is expected to recover by 8-10% in FY2026\u201327",
+    "metric": "Class 8 truck market recovery",
+    "value": "8-10%",
+    "by_when": "FY2026\u201327"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Overseas equity investments impairment risk",
+   "Dependence on automotive industry cycles",
+   "Customer preference shift from die-casting to machined components",
+   "Capital investment required for modernization"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

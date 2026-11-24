@@ -3,7 +3,7 @@
  "sym": "PLATIND",
  "name": "Platinum Industries Limited",
  "scrip": "544134",
- "mcap_cr": 1160.84,
+ "mcap_cr": 1147.38,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 91,
     "profit": 72,
-    "quality": 100
+    "quality": 98
    },
    "capped_by": "margin down over 1 pt QoQ"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 18,
     "profit": 33,
-    "quality": 50
+    "quality": 19
    },
    "capped_by": null
   }
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Platinum Industries Limited is a diversified specialty chemicals company focused on developing customised solutions for polymer and industrial applications, including PVC and CPVC additives, metallic soaps, specialised lubricants, and other performance chemicals.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Palghar Facility / Working capital requirements of the Company / General Corporate Purpose",
+    "amount_cr": null,
+    "timeline": ""
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to fire incident at subsidiary M/s. Platinum Polymers and Additives on 7th July 2025; insurance claim receivable of Rs 98.19 million recognised but claim does not meet virtual certainty of realisation as at 31st March 2026, unable to determine adjustments required to gross carrying amount of investment in subsidiary of Rs 100.00 million and loan to subsidiary of Rs 6.00 million."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Fire incident at subsidiary factory premises affecting net assets and investment carrying value",
+   "Insurance claim uncertainty for subsidiary's fire damage",
+   "Revenue recognition risk due to potential manipulation of timing of transfer of control"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

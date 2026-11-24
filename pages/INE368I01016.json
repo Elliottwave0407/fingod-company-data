@@ -3,7 +3,7 @@
  "sym": "NIRAJ",
  "name": "Niraj Cement Structurals Limited",
  "scrip": "532986",
- "mcap_cr": 161.12,
+ "mcap_cr": 153.53,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 4.4,
    "pat": 5.65,
    "margin_pct": 3.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 5,
     "profit": 11,
-    "quality": 40
+    "quality": 11
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 43,
     "profit": 54,
-    "quality": 80
+    "quality": 68
    },
    "capped_by": null
   }
@@ -99,7 +99,39 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Niraj Cement Structurals Limited is engaged in construction and infrastructure development, executing projects through joint venture entities under its supervision and control.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure on fixed assets, including capital advances",
+    "amount_cr": 2.5727,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Chaturvedi Sohan & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matters: (a) Turnover and costs related to joint venture entities booked in company's books; (b) DGGI search and seizure proceedings challenged in Gujarat High Court, \u20b9108.40 Lacs deposited under protest; (c) Balances of trade payables, receivables, advances, GST, and tax assets subject to reconciliation; (d) \u20b92,769.36 lakh ECL provision made in prior year, \u20b9162.93 lakh recovered during year; (e) Income Tax Assets (Net) of \u20b92,068.82 Lakhs pending appeal orders; (f) Audit trail (edit log) feature not activated throughout the year for all relevant transactions."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Ongoing DGGI search and seizure proceedings with uncertain financial liabilities",
+   "Unreconciled balances of trade payables, receivables, advances, GST liabilities/credits, and tax assets",
+   "Significant Expected Credit Loss provisions against disputed receivables under litigation/arbitration",
+   "Pending income tax appeal orders affecting recognition of tax assets",
+   "Audit trail (edit log) not activated for all transactions during the year"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

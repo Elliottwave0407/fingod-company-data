@@ -3,7 +3,7 @@
  "sym": "XPROINDIA",
  "name": "Xpro India Limited",
  "scrip": "590013",
- "mcap_cr": 2863.5,
+ "mcap_cr": 2824.54,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 52,
     "profit": 90,
-    "quality": 93
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   },
@@ -66,11 +66,11 @@
    "ebitda": 15.84,
    "pat": 7.63,
    "margin_pct": 9.1,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 60,
     "profit": 87,
-    "quality": 30
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,59 @@
   ],
   "concalls_found": 4,
   "concalls_read": 4,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Xpro India Limited manufactures coextruded sheets, thermoformed refrigerator liners, and cast coextruded films for consumer durables, medical disposables, hygiene products, and specialized packaging applications.",
+  "segments": [
+   {
+    "name": "Coextruded Sheets & Thermoformed Refrigerator Liners",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Cast Coextruded Films",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "New dielectric film line at Barjora, West Bengal",
+    "amount_cr": 212.34,
+    "timeline": "Commissioned March 27, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Walker Chandiok & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 239,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "economic conditions",
+   "input costs",
+   "price realization",
+   "supply chain or logistical disruptions",
+   "changes in government regulations",
+   "tax regimes",
+   "public-health related impacts",
+   "demand-supply conditions",
+   "extraordinary policy actions",
+   "geopolitical developments",
+   "feedstock availability and pricing",
+   "power tariffs",
+   "cyclical market conditions",
+   "natural events",
+   "litigation",
+   "labour matters"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

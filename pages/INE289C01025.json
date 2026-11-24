@@ -3,7 +3,7 @@
  "sym": "TEAMGTY",
  "name": "Team India Guaranty Limited",
  "scrip": "511559",
- "mcap_cr": 208.6,
+ "mcap_cr": 208.15,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,42 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Team India Guaranty Limited is an NBFC-ICC registered with RBI, engaged in investment and lending activities out of its own funds, including investing in safe debt instruments/eligible deposits and undertaking lending operations commenced in June 2025.",
+  "segments": [
+   {
+    "name": "Investment activities",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Lending activities",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "No key audit matters reported; comparative financial information for year ended March 31, 2025 audited by another firm with unmodified opinion"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Global economic uncertainties and financial market volatility",
+   "Regulatory developments and compliance requirements",
+   "Funding conditions and liquidity management",
+   "Asset quality and credit risk in lending operations",
+   "Capital adequacy requirements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "HITECHCORP",
  "name": "Hitech Corporation Limited",
  "scrip": "526217",
- "mcap_cr": 706.09,
+ "mcap_cr": 706.01,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 70,
     "profit": 79,
-    "quality": 59
+    "quality": 98
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 64,
     "profit": 16,
-    "quality": 47
+    "quality": 68
    },
    "capped_by": null
   }
@@ -99,7 +99,67 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hitech Corporation Ltd is a leading provider of rigid plastic packaging solutions in India, serving industries such as FMCG, agrochemicals, pharmaceuticals, nutraceuticals, lubricants, paints, personal and home care.",
+  "segments": [
+   {
+    "name": "FMCG - Personal Care",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "FMCG - Nutraceuticals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Agrochemicals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Pharmaceuticals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Lubricants",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Paints",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Personal and Home Care",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 1.965,
+    "timeline": "Year ended March 31, 2026"
+   },
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 2.3309,
+    "timeline": "Year ended March 31, 2025"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Kalyaniwalla & Mistry LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

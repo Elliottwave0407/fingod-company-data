@@ -3,7 +3,7 @@
  "sym": "MPSLTD",
  "name": "MPS Limited",
  "scrip": "532440",
- "mcap_cr": 3667.32,
+ "mcap_cr": 3601.54,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 67.87,
    "pat": 47.04,
    "margin_pct": 33.1,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 44,
     "profit": 42,
-    "quality": 45
+    "quality": 13
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 78,
     "profit": 100,
-    "quality": 73
+    "quality": 85
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

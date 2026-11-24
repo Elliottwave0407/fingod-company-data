@@ -3,7 +3,7 @@
  "sym": "TCIEXP",
  "name": "TCI Express Limited",
  "scrip": "540212",
- "mcap_cr": 1823.79,
+ "mcap_cr": 1863.58,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 29.25,
    "pat": 16.03,
    "margin_pct": 8.9,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 40,
     "profit": 43,
-    "quality": 26
+    "quality": 16
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 43,
     "profit": 42,
-    "quality": 46
+    "quality": 35
    },
    "capped_by": null
   }
@@ -99,7 +99,47 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "TCI Express Limited provides multimodal logistics services including surface, rail, air, and international express solutions across India and globally.",
+  "segments": [
+   {
+    "name": "Surface Express",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Rail Express",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Domestic Air Express",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "International Air Express",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "GST Demand on account of GST payable on reverse charge mechanism, amounting to \u20b9 51.36 Crores along with applicable interest and penalty. Appeal rejected by Commissioner (Appeals) on 30th December 2025; Company intends to appeal to Appellate Authority. Management confident of prevailing and no adjustments envisaged."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "GST demand and litigation risk on reverse charge mechanism",
+   "Implementation of New Labour Codes impacting employee benefit obligations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

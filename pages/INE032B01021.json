@@ -3,7 +3,7 @@
  "sym": "PRIMESECU",
  "name": "Prime Securities Limited",
  "scrip": "500337",
- "mcap_cr": 1028.77,
+ "mcap_cr": 1017.22,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 1,
     "profit": 15,
-    "quality": 1
+    "quality": 0
    },
    "capped_by": null
   }
@@ -99,7 +99,49 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Prime Securities Limited is a financial services company providing corporate advisory, investment banking, wealth management, and asset management services through its subsidiaries in India, UK, and UAE.",
+  "segments": [
+   {
+    "name": "Corporate Advisory & Investment Banking",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Wealth Management",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Asset Management / AIF",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Overseas Advisory (UK & UAE)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of matter on recognition of Minimum Alternate Tax (MAT) credit for the first time based on future utilization projections (Note 17.1)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 130,
+  "subsidiaries_count": 5,
+  "key_risks": [
+   "Revenue recognition involves significant management judgement in identifying performance obligations and allocation of consideration",
+   "New businesses (wealth management, asset management, overseas subsidiaries) are in initial stages with expenses debited to P&L",
+   "Dependence on lumpy advisory revenues vs steady fee-based income",
+   "Forward-looking statements subject to risks and uncertainties beyond company's control"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

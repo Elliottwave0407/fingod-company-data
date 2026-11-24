@@ -3,7 +3,7 @@
  "sym": "KAUSHALYA",
  "name": "Kaushalya Infrastructure Development Corporation Limited",
  "scrip": "532925",
- "mcap_cr": 28.87,
+ "mcap_cr": 28.03,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kaushalya Infrastructure Development Corporation Limited is engaged in infrastructure development activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "KASG & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 48.59,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

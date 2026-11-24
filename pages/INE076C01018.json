@@ -3,7 +3,7 @@
  "sym": "IFBAGRO",
  "name": "IFB Agro Industries Limited",
  "scrip": "507438",
- "mcap_cr": 854.98,
+ "mcap_cr": 838.17,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 92,
     "profit": 57,
-    "quality": 59
+    "quality": 81
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 77,
     "profit": 45,
-    "quality": 58
+    "quality": 47
    },
    "capped_by": null
   }
@@ -99,7 +99,59 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "IFB Agro Industries Limited is engaged in the business of alcohol (distillery and bottling), marine shrimp processing, and aquaculture feed (shrimp and fish feed) manufacturing.",
+  "segments": [
+   {
+    "name": "Spirit, liquor, spirituous beverages",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Marine",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 136.11,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "With the integration of the newly acquired Aqua Feed business, we expect to strengthen our market presence in all the states, improve margins, and generate sustainable value for our stakeholders. We will also focus on optimising capacity utilisation of the acquired facilities and exploring further expansion opportunities.",
+    "metric": "Market presence and margins",
+    "value": "Improve margins",
+    "by_when": "FY 2026-27"
+   },
+   {
+    "statement": "During the current financial year, focus will be to grow the business and achieve break even.",
+    "metric": "Break-even",
+    "value": "Achieve break-even",
+    "by_when": "FY 2026-27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M S K A & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Intermittent stoppage of production at Distillery due to high stock and reluctance of customers to lift material due to illegal methods adopted by State Excise authorities",
+   "Adverse impact on IML business due to illegal interference of Excise Authorities at District level",
+   "Margin pressure in Aqua Feed business due to abnormal increase in raw material prices which could not be passed on due to price control from AP Government"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

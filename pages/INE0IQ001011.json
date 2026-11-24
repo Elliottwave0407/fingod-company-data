@@ -3,7 +3,7 @@
  "sym": "VERANDA",
  "name": "Veranda Learning Solutions Limited",
  "scrip": "543514",
- "mcap_cr": 251.21,
+ "mcap_cr": 238.66,
  "group": "T",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 76,
     "profit": 100,
-    "quality": 56
+    "quality": 97
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 61,
     "profit": 100,
-    "quality": 79
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -99,7 +99,60 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2026-11-16"
+  "latest_concall": "2026-11-16",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Veranda Learning Solutions Ltd. is a listed education company operating across three core verticals: Commerce Test prep, Academics, and Government Competition Test Preparation, while also retaining a 50% stake in its partnership with SNVA Veranda Limited focused on vocational and global higher education.",
+  "segments": [
+   {
+    "name": "Commerce Test prep",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Academics",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Government Competition Test Preparation",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Vocational and Global Higher Education (Partnership with SNVA EduTech)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure on property, plant and equipment and other intangible assets",
+    "amount_cr": 0.4224,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Veranda enters FY27 with four clear priorities: geographic expansion, portfolio diversification, deepening presence across the education value chain, and strengthening existing verticals.",
+    "metric": "Geographic Expansion",
+    "value": "Expand into Karnataka using localised content, faculty capabilities and offline coaching infrastructure; stronger offline presence across North and West India, particularly in Uttar Pradesh, Bihar, Rajasthan and Gujarat; around 15 new offline college locations planned to accelerate growth in commerce education ecosystem.",
+    "by_when": "FY27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Deloitte Haskins & Sells Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements involve assumptions and are subject to inherent risks and uncertainties; assumptions, predictions, and other forward-looking statements may not prove to be accurate.",
+   "Several factors could cause assumptions, actual future results and events to differ materially from those expressed in the forward-looking statements."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

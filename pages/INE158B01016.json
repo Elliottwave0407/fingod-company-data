@@ -3,7 +3,7 @@
  "sym": "EIMCOELECO",
  "name": "Eimco Elecon (India) Limited",
  "scrip": "523708",
- "mcap_cr": 1423.9,
+ "mcap_cr": 1389.49,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 12.93,
    "pat": 6.36,
    "margin_pct": 19.3,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 16,
     "profit": 15,
-    "quality": 16
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 14.25,
    "pat": 15.38,
    "margin_pct": 18.4,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 51,
     "profit": 48,
-    "quality": 68
+    "quality": 27
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 10.74,
    "pat": 7.83,
    "margin_pct": 18.9,
-   "verdict_v3": "Blockbuster",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 78,
-    "quality": 80
+    "quality": 49
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Eimco Elecon (India) Limited designs, manufactures, and services high-performance underground mining equipment and construction equipment.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

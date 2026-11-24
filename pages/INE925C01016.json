@@ -3,7 +3,7 @@
  "sym": "MADHAV",
  "name": "Madhav Marbles and Granites Limited",
  "scrip": "515093",
- "mcap_cr": 29.95,
+ "mcap_cr": 28.51,
  "group": "B",
  "quarters": [
   {
@@ -95,7 +95,34 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Madhav Marbles and Granites Limited is engaged in the manufacturing, processing, and trading of natural stone surfaces including granite and marble, along with real estate activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Nyati & Associates",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to non-assessment of impairment for investments and loans in subsidiaries Madhav Ashok Ventures Private Limited (Rs. 3,00,00,000 investment and Rs. 23,80,40,364 loans) and Madhav Natural Stone Surfaces Private Limited (Rs. 86,00,000 investment and Rs. 6,00,79,718 loans), and associate Madhav Surface LLC (Rs. 4,44,68,248 investment), where net worth has been fully eroded."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical developments and changing tariff regimes affecting international trade",
+   "Higher logistics costs and disruptions in global shipping routes",
+   "Competition from other stone-producing countries and alternative surface materials",
+   "Customer focus on landed cost, delivery timelines, and supply reliability",
+   "Impairment risk in subsidiaries and associate with fully eroded net worth",
+   "Dependence on single geography (US market mentioned)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

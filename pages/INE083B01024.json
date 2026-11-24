@@ -3,7 +3,7 @@
  "sym": "THEMISMED",
  "name": "Themis Medicare Limited",
  "scrip": "530199",
- "mcap_cr": 876.61,
+ "mcap_cr": 866.29,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 16,
     "profit": 100,
-    "quality": 51
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,87 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Themis Medicare Limited is a pharmaceutical company engaged in formulations, API, hospital, and trade businesses.",
+  "segments": [
+   {
+    "name": "Formulations",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "API",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Hospital Business",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Trade Business",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Additional Term Loan from Union Bank of India",
+    "amount_cr": 2.32,
+    "timeline": "36 monthly instalments from December 2023"
+   },
+   {
+    "item": "Additional Term Loan from Bank of Baroda",
+    "amount_cr": 2.74,
+    "timeline": "36 monthly instalments from December 2023"
+   },
+   {
+    "item": "Capex Term Loan from Bank of Baroda",
+    "amount_cr": 13.75,
+    "timeline": "24 Step up Quarterly instalments after 12 months from first disbursement"
+   },
+   {
+    "item": "Capex Term Loan from Union Bank of India",
+    "amount_cr": 16.25,
+    "timeline": "24 Step up Quarterly instalments after 12 months from first disbursement"
+   },
+   {
+    "item": "Capex Term Loan (TCI Pump) from Union Bank of India",
+    "amount_cr": 11.25,
+    "timeline": ""
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Further strengthen presence in high-potential therapeutic areas, deepen hospital reach and fast-track high-value product launches",
+    "metric": "",
+    "value": "",
+    "by_when": ""
+   },
+   {
+    "statement": "Emphasizing cost rationalization, optimizing field force productivity, enhanced working capital management and selective investments in high-margin brands",
+    "metric": "",
+    "value": "",
+    "by_when": ""
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. R. Nanabhoy & Co. (Cost Accountants)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Pricing pressures in China and domestic players for API business",
+   "Market headwinds and macro-economic challenges",
+   "Revenue recognition complexity due to numerous customers with different terms"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

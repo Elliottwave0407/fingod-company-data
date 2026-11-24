@@ -3,7 +3,7 @@
  "sym": "VPRPL",
  "name": "Vishnu Prakash R Punglia Limited",
  "scrip": "543974",
- "mcap_cr": 321.21,
+ "mcap_cr": 319.84,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2025-11-18"
+  "latest_concall": "2025-11-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Company specializes in executing infrastructure projects on an Engineering, Procurement, and Construction (EPC) basis.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "GMJ & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material Uncertainty Relating to Going Concern due to delayed realization of receivables resulting in severe cash crunch"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Delayed realization of receivables resulting in severe cash crunch",
+   "Going concern uncertainty due to cash flow constraints"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

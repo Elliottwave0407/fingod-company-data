@@ -49,11 +49,11 @@
    "ebitda": 89.48,
    "pat": 83.08,
    "margin_pct": 11.8,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 99,
     "profit": 41,
-    "quality": 100
+    "quality": 94
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 80,
     "profit": 47,
-    "quality": 67
+    "quality": 75
    },
    "capped_by": null
   }
@@ -96,7 +96,33 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-07-18"
+  "latest_concall": "2026-07-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Krishana Phoschem Limited is engaged in the manufacturing and trading of fertilizers and related agrochemical products such as SSP, GSSP, NPK, DAP, and phosphoric acid.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work-in-progress",
+    "amount_cr": 1.23,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

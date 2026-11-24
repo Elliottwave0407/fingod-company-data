@@ -3,7 +3,7 @@
  "sym": "SICALLOG",
  "name": "Sical Logistics Limited",
  "scrip": "520086",
- "mcap_cr": 566.47,
+ "mcap_cr": 574.53,
  "group": "B",
  "quarters": [
   {
@@ -66,13 +66,13 @@
    "ebitda": 42.36,
    "pat": 21.24,
    "margin_pct": 32.0,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 90,
     "profit": 100,
-    "quality": 34
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -99,7 +99,64 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sical Logistics Limited provides integrated logistics services with a primary focus on mining logistics including overburden removal, excavation, coal transportation, and mine development, along with container freight station operations, warehousing, and third-party logistics solutions.",
+  "segments": [
+   {
+    "name": "Mining Logistics",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Terminals (CFS)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Warehousing and 3PL",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "CFS aggregate handling capacity",
+    "amount_cr": null,
+    "timeline": "0.4 million TEUs"
+   },
+   {
+    "item": "CFS facility area",
+    "amount_cr": null,
+    "timeline": "325,000 square metres"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Received Letter of Acceptance from South Eastern Coalfields Limited",
+    "metric": "Project value",
+    "value": "Rs. 4,03,800 lakh (inclusive of GST)",
+    "by_when": "Porda Chimtapani, Chhattisgarh project"
+   }
+  ],
+  "order_book_cr": 4038,
+  "auditor": {
+   "name": "SRSV & Associates Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter on contingent liabilities: all pre-CIRP litigations deemed extinguished per resolution plan approved by NCLT on January 11, 2023 (except bank guarantees); no disputed tax dues as at March 31, 2026"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Competitive intensity in fragmented logistics market",
+   "Dependence on mining activity and bulk cargo logistics",
+   "Volatility in EXIM trade affecting CFS operations",
+   "Rising operating costs (diesel, manpower, equipment maintenance, financing)",
+   "Regulatory and environmental risks (mining laws, port regulations, transportation policies, labour legislation)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

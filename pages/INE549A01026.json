@@ -3,7 +3,7 @@
  "sym": "HCC",
  "name": "Hindustan Construction Company Limited",
  "scrip": "500185",
- "mcap_cr": 4309.02,
+ "mcap_cr": 4222.58,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 1,
     "profit": 14,
-    "quality": 4
+    "quality": 16
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 9,
     "profit": 8,
-    "quality": 23
+    "quality": 29
    },
    "capped_by": null
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 11,
   "concalls_read": 0,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hindustan Construction Company Limited is an Indian engineering and construction company engaged in EPC (Engineering, Procurement and Construction) projects across transportation, water, energy, and urban infrastructure sectors.",
+  "segments": [
+   {
+    "name": "EPC",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Work-in-Progress additions",
+    "amount_cr": 71.6,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": 12971,
+  "auditor": {
+   "name": "Mukund M Chitale & Co.",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion on standalone financial statements due to inability to obtain sufficient audit evidence regarding carrying value of investment in HCC Concessions Limited and recognition of net deferred tax assets of Rs 173.91 crore based on projected future taxable profits."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "History of losses affecting deferred tax asset recognition",
+   "Carrying value of investment in HCC Concessions Limited uncertain",
+   "High debt levels despite reduction",
+   "Dependence on order book execution and project completion"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

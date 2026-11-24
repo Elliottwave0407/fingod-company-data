@@ -3,7 +3,7 @@
  "sym": "AURUM",
  "name": "Aurum PropTech Limited",
  "scrip": "539289",
- "mcap_cr": 1646.8,
+ "mcap_cr": 1625.78,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 30.28,
    "pat": 16.44,
    "margin_pct": 24.4,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 74,
-    "quality": 32
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -80,11 +80,11 @@
    "ebitda": 33.86,
    "pat": 4.29,
    "margin_pct": 26.0,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 99,
     "profit": 55,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   }
@@ -109,7 +109,65 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-22"
+  "latest_concall": "2026-10-22",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aurum PropTech is a PropTech company building an integrated digital real estate ecosystem across Rental, Distribution, and Capital verticals, embedding AI and automation into platforms like HelloWorld, NestAway, Sell.Do, PropTiger, and Aurum Analytica.",
+  "segments": [
+   {
+    "name": "Rental",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Distribution",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Capital",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Software development (intangible assets under development)",
+    "amount_cr": 1.35,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Full strategic impact of AI deployments expected to reflect in performance",
+    "metric": "AI-driven initiatives impact",
+    "value": "Full impact expected",
+    "by_when": "2026-27"
+   },
+   {
+    "statement": "Migration of PropTiger operations onto in-house Sell.Do technology stack expected to unlock cost efficiencies and integration synergies",
+    "metric": "Platform migration benefits",
+    "value": "Additional cost efficiencies and stronger integration synergies",
+    "by_when": "2026-27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Scheme of Merger of two wholly owned subsidiaries (Aurum Softwares and Solutions Private Limited with Liv Real Solutions Private Limited) approved by Regional Director, Western Region, Ministry of Corporate Affairs, vide order dated May 15, 2026; no financial impact on standalone financial statements"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment assessment of intangible assets involves significant estimates and assumptions including forecasted future cash flows and discount rates",
+   "Value of intangible assets closely linked to performance of underlying business initiatives which are still evolving",
+   "Execution risk in AI deployment across platforms",
+   "Regulatory changes in GST on co-living and residential leasing",
+   "Integration risk in migration of PropTiger operations onto Sell.Do stack"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

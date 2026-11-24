@@ -3,7 +3,7 @@
  "sym": "MVGJL",
  "name": "Manoj Vaibhav Gems N Jewellers Limited",
  "scrip": "543995",
- "mcap_cr": 792.31,
+ "mcap_cr": 776.92,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 24,
     "profit": 21,
-    "quality": 54
+    "quality": 37
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 73,
     "profit": 37,
-    "quality": 62
+    "quality": 60
    },
    "capped_by": null
   }
@@ -99,7 +99,35 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2025-06-09"
+  "latest_concall": "2025-06-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Manoj Vaibhav Gems 'N' Jewellers Limited is a leading regional jewellery retailer in South India with a network of 21 showrooms across Andhra Pradesh and Telangana, offering gold, diamond, silver, and precious stone jewellery.",
+  "segments": [
+   {
+    "name": "Jewellery Retail",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 1113,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "High value and nature of inventory could lead to significant risk of loss",
+   "Inventory held at various locations in Andhra Pradesh, Telangana and third-party job workers"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

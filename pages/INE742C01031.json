@@ -3,7 +3,7 @@
  "sym": "JINDRILL",
  "name": "Jindal Drilling And Industries Limited",
  "scrip": "511034",
- "mcap_cr": 1463.26,
+ "mcap_cr": 1438.62,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 74.16,
    "pat": 45.38,
    "margin_pct": 28.2,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 25,
     "profit": 20,
-    "quality": 26
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 103.65,
    "pat": 47.14,
    "margin_pct": 37.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 31,
     "profit": 20,
-    "quality": 13
+    "quality": 1
    },
    "capped_by": null
   }
@@ -97,9 +97,43 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 9,
-  "concalls_read": 9,
-  "latest_concall": "2026-08-14"
+  "concalls_found": 10,
+  "concalls_read": 10,
+  "latest_concall": "2026-11-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Jindal Drilling and Industries Limited operates jack-up rigs, directional drilling equipment, and mud logging services for offshore and onshore oil and gas exploration, primarily in India.",
+  "segments": [
+   {
+    "name": "Drilling Services",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Kanodia Sanyal & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Customer concentration risk \u2014 substantially the whole of the Company's revenue is derived from a single customer.",
+   "Contract renewal and re-tendering risk \u2014 charters are awarded for fixed terms and are subject to competitive re-tender on expiry.",
+   "Day-rate risk \u2014 day rates are fixed for the contract term, so cost inflation during the term cannot be passed on.",
+   "Geopolitical and supply chain risk \u2014 situation in the Middle East, including disruption to shipping through the Strait of Hormuz, affects movement of rigs, equipment and spares, insurance costs and mobilisation timelines.",
+   "Asset and operational risk \u2014 drilling operations are inherently hazardous and equipment-intensive.",
+   "Human resource risk \u2014 the availability and retention of qualified offshore crew is critical to operations.",
+   "Currency risk \u2014 a portion of the Company's revenues and costs are denominated in US dollars, exposing it to exchange rate movements.",
+   "Regulatory and compliance risk \u2014 the Company is subject to an extensive framework of maritime, environmental, safety and taxation regulation."
+  ],
+  "dividend_per_share": 1
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

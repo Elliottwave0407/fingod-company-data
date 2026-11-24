@@ -3,7 +3,7 @@
  "sym": "REMSONSIND",
  "name": "Remsons Industries Limited",
  "scrip": "530919",
- "mcap_cr": 297.59,
+ "mcap_cr": 302.61,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 47,
     "profit": 21,
-    "quality": 32
+    "quality": 35
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 42,
     "profit": 19,
-    "quality": 8
+    "quality": 21
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 4,
   "concalls_read": 2,
-  "latest_concall": "2026-02-16"
+  "latest_concall": "2026-02-16",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Remsons Industries Limited manufactures automotive components including control cables, gear shift systems, and other mechanical components for the automotive industry.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 27.59,
+    "timeline": "2025-26"
+   },
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 48.93,
+    "timeline": "2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Provision for slow moving and non-moving inventories"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Provision for slow moving and non-moving inventories"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

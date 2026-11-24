@@ -3,7 +3,7 @@
  "sym": "TASTYBITE",
  "name": "Tasty Bite Eatables Limited",
  "scrip": "519091",
- "mcap_cr": 2664.39,
+ "mcap_cr": 2553.16,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 11.17,
    "pat": 6.01,
    "margin_pct": 9.5,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 22,
     "profit": 53,
-    "quality": 25
+    "quality": 27
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 46,
     "profit": 8,
-    "quality": 35
+    "quality": 26
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Tasty Bite Eatables Limited develops, manufactures, and markets a diversified portfolio of ready-to-eat meals, sauces, frozen foods, and culinary accompaniments for retail and foodservice customers worldwide.",
+  "segments": [
+   {
+    "name": "Retail Offerings",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Foodservice Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Affiliate Business",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Tasty Bite Food Solution Business",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 98,
     "profit": 15,
-    "quality": 97
+    "quality": 47
    },
    "capped_by": null
   },
@@ -63,11 +63,11 @@
    "ebitda": 71.27,
    "pat": 124.95,
    "margin_pct": 23.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 97,
     "profit": 20,
-    "quality": 54
+    "quality": 4
    },
    "capped_by": null
   }
@@ -96,7 +96,54 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "TSF Investments Limited (formerly Sundaram Finance Holdings Limited) is an investment holding company with subsidiaries in business process outsourcing, forging, and axle manufacturing, and associates in automotive components.",
+  "segments": [
+   {
+    "name": "Investments",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Business Process Outsourcing (Sundaram Business Services)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Forging (Forge 2000)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Axle Manufacturing (Axles India)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 8.8392,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Fair valuation of unquoted equity investments involves significant management judgment and estimation",
+   "Foreign currency exposure on monetary assets and liabilities",
+   "Concentration risk with investment portfolio representing 85.67% of total assets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

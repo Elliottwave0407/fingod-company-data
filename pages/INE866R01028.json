@@ -3,7 +3,7 @@
  "sym": "MATRIMONY",
  "name": "Matrimony.Com Limited",
  "scrip": "540704",
- "mcap_cr": 1057.34,
+ "mcap_cr": 1077.6,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 69,
     "profit": 90,
-    "quality": 48
+    "quality": 43
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 74,
     "profit": 96,
-    "quality": 86
+    "quality": 100
    },
    "capped_by": "revenue growth under 20%"
   }
@@ -99,7 +99,77 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-16"
+  "latest_concall": "2026-11-16",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Matrimony.com Limited operates as India's leading online matchmaking company, providing matchmaking services through platforms like BharatMatrimony and CommunityMatrimony, along with adjacent offerings such as wedding services, personalized matchmaking, and relationship-focused apps.",
+  "segments": [
+   {
+    "name": "Matchmaking Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Adjacent Services (WeddingGiftBox, Mandap, ManyJobs, MeraLuv.com, Luv.com, WedAssist, AstroChat)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Drive high growth in personalised matchmaking services, building on the strong momentum demonstrated during FY 2025-26.",
+    "metric": "Personalised matchmaking services growth",
+    "value": "High growth",
+    "by_when": "FY 2026-27"
+   },
+   {
+    "statement": "Transform into an AI-first organisation, leveraging AI for greater operational efficiency, enhanced customer experience, and faster speed of delivery.",
+    "metric": "AI-first transformation",
+    "value": "Operational efficiency, enhanced customer experience, faster delivery",
+    "by_when": "FY 2026-27"
+   },
+   {
+    "statement": "Set up additional Elite Matrimony Experience Centres, building on the success seen in initial markets.",
+    "metric": "Elite Matrimony Experience Centres expansion",
+    "value": "Additional centres",
+    "by_when": "FY 2026-27"
+   },
+   {
+    "statement": "Scale WeddingGiftBox by achieving the desired success rate for partners in South India, followed by a phased roll-out across India.",
+    "metric": "WeddingGiftBox scaling",
+    "value": "Phased roll-out across India after South India success",
+    "by_when": "FY 2026-27"
+   },
+   {
+    "statement": "Establish Mandap and ManyJobs as successful propositions in Tamil Nadu before scaling to additional States.",
+    "metric": "Mandap and ManyJobs establishment",
+    "value": "Successful propositions in Tamil Nadu",
+    "by_when": "FY 2026-27"
+   },
+   {
+    "statement": "Continue to leverage the momentum in newly launched offerings \u2014 including MeraLuv.com, Luv.com, WedAssist, and AstroChat \u2014 to capture adjacent consumer opportunities.",
+    "metric": "New offerings momentum",
+    "value": "Capture adjacent consumer opportunities",
+    "by_when": "FY 2026-27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R & Co LLP",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to delay in filling CFO vacancy beyond the 3-month period required under Regulation 26A(2) of SEBI LODR. The previous CFO ceased employment on 17 February 2025, and the vacancy was filled on 08 July 2025, i.e., after 4 months and 21 days."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 2571,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Business & Market Risk: Changes in consumer preferences among younger, digitally-native users and evolving attitudes toward arranged matrimony may impact subscription growth. Regulations affecting digital platforms could influence profitability and expansion.",
+   "Data Protection & Privacy Risk: Operationalisation of the Digital Personal Data Protection (DPDP) Act imposes substantive obligations. Non-compliance could result in regulatory action, financial penalties, and reputational damage given sensitive matrimonial data.",
+   "Cybersecurity Risk: Technology failures, IT system breakdowns, cybersecurity breaches, and threats such as phishing and social engineering attacks could disrupt operations and harm reputation. Growing incidence of AI-generated threats."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

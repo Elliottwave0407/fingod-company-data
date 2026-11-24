@@ -3,7 +3,7 @@
  "sym": "EMAMIPAP",
  "name": "Emami Paper Mills Limited",
  "scrip": "533208",
- "mcap_cr": 673.35,
+ "mcap_cr": 670.33,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 66,
     "profit": 90,
-    "quality": 66
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -66,11 +66,11 @@
    "ebitda": 82.94,
    "pat": 38.61,
    "margin_pct": 14.8,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 81,
     "profit": 92,
-    "quality": 64
+    "quality": 100
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 92.97,
    "pat": 44.43,
    "margin_pct": 15.8,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 87,
     "profit": 93,
-    "quality": 65
+    "quality": 100
    },
    "capped_by": null
   }
@@ -109,7 +109,9 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

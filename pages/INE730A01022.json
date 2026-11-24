@@ -3,7 +3,7 @@
  "sym": "ORICONENT",
  "name": "Oricon Enterprises Limited",
  "scrip": "513121",
- "mcap_cr": 895.17,
+ "mcap_cr": 900.98,
  "group": "B",
  "quarters": [
   {
@@ -66,7 +66,7 @@
    "pillars": {
     "growth": 0,
     "profit": -166,
-    "quality": 62
+    "quality": 71
    },
    "capped_by": null
   }
@@ -95,7 +95,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Oricon Enterprises Limited is a listed Indian company with no manufacturing unit as of March 31, 2026, engaged in trading, investments, and related activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "SGN& Co., Chartered Accountants (FRN No. 134565W)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 0.2
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

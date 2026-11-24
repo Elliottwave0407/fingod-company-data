@@ -3,7 +3,7 @@
  "sym": "ENIL",
  "name": "Entertainment Network (India) Limited",
  "scrip": "532700",
- "mcap_cr": 379.93,
+ "mcap_cr": 373.12,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 9.05,
    "pat": 8.27,
    "margin_pct": 6.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 8,
     "profit": 5,
-    "quality": 50
+    "quality": 8
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 41,
     "profit": 53,
-    "quality": 0
+    "quality": 29
    },
    "capped_by": "net loss"
   }
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Entertainment Network (India) Limited operates in the media and entertainment sector, primarily known for its radio broadcasting brand 'Mirchi' and music streaming service 'Gaana', along with live events and digital content.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Property, plant and equipment",
+    "amount_cr": 3.2251,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Walker Chandiok & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment assessment of property, plant and equipment, right-to-use assets and intangible assets involving significant judgement and management estimates",
+   "Recoverability assessment of deferred tax assets (including MAT credit) based on projected future taxable profits and significant judgement regarding likelihood of realization within specified period"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

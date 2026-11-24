@@ -3,7 +3,7 @@
  "sym": "IZMO",
  "name": "IZMO Limited",
  "scrip": "532341",
- "mcap_cr": 1114.46,
+ "mcap_cr": 1086.45,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 88,
     "profit": 11,
-    "quality": 100
+    "quality": 96
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 76,
     "profit": 100,
-    "quality": 87
+    "quality": 100
    },
    "capped_by": "revenue growth under 20%"
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 5,
   "concalls_read": 5,
-  "latest_concall": "2026-06-08"
+  "latest_concall": "2026-06-08",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "izmo Limited operates two complementary technology businesses: Digital Intelligence providing automotive visual-content platforms, digital retail technology, and AI-powered dealership analytics globally, and izmo Microsystems developing advanced semiconductor packaging and silicon photonics capabilities within India's emerging semiconductor ecosystem.",
+  "segments": [
+   {
+    "name": "Digital Intelligence",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "izmo Microsystems",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Acquisition of immovable properties",
+    "amount_cr": 2.0,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding inquiries from Indian regulatory authorities with uncertain scope, duration, or outcome (Notes 41 & 43)"
+  },
+  "promoter_holding_pct": 34.79,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Material uncertain tax positions including transfer pricing disputes across multiple assessment years",
+   "Ongoing inquiries from Indian regulatory authorities with uncertain scope, duration, or outcome",
+   "Significant contingent liabilities related to income tax and transfer pricing demands",
+   "Dependence on export revenues (93% of consolidated revenue)",
+   "Concentration in automotive technology sector"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

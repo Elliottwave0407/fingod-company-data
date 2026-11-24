@@ -3,7 +3,7 @@
  "sym": "AFIL",
  "name": "Akme Fintrade (India) Limited",
  "scrip": "544200",
- "mcap_cr": 358.36,
+ "mcap_cr": 357.46,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 82,
     "profit": 20,
-    "quality": 59
+    "quality": 87
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 77,
     "profit": 75,
-    "quality": 36
+    "quality": 35
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 70,
     "profit": 20,
-    "quality": 33
+    "quality": 32
    },
    "capped_by": null
   }
@@ -109,7 +109,34 @@
   "missing": [],
   "concalls_found": 4,
   "concalls_read": 3,
-  "latest_concall": "2025-02-13"
+  "latest_concall": "2025-02-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Akme Fintrade (India) Limited is a financial services company providing finance to low and middle income segments in semi-urban and rural India across 5 states through a network of 27 branches and 40 digital locations.",
+  "segments": [
+   {
+    "name": "Financial Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Valawat & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Impairment of financial assets (expected credit losses)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

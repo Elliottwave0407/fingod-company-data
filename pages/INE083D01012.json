@@ -3,7 +3,7 @@
  "sym": "BALPHARMA",
  "name": "Bal Pharma Limited",
  "scrip": "524824",
- "mcap_cr": 132.94,
+ "mcap_cr": 129.99,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 56,
     "profit": 74,
-    "quality": 3
+    "quality": 5
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 77,
     "profit": 37,
-    "quality": 50
+    "quality": 76
    },
    "capped_by": null
   }
@@ -99,7 +99,41 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bal Pharma Limited is a pharmaceutical company engaged in manufacturing and selling pharmaceutical formulations and active pharmaceutical ingredients (APIs).",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capex at Unit-6",
+    "amount_cr": 4.0,
+    "timeline": "As at 31 March 2026"
+   },
+   {
+    "item": "Fresh Loan sanctioned by HDFC Bank Limited for Capex at Unit-I & II",
+    "amount_cr": 5.0,
+    "timeline": "As at 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on recoverability of outstanding receivables from subsidiary companies (Note 61)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Recoverability of outstanding receivables from subsidiary companies",
+   "Related party transactions identification and disclosure"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

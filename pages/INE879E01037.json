@@ -3,7 +3,7 @@
  "sym": "KANANIIND",
  "name": "Kanani Industries Limited",
  "scrip": "506184",
- "mcap_cr": 30.08,
+ "mcap_cr": 29.88,
  "group": "B",
  "quarters": [
   {
@@ -76,7 +76,7 @@
    "pillars": {
     "growth": 48,
     "profit": 23,
-    "quality": 67
+    "quality": 40
    },
    "capped_by": null
   }
@@ -101,7 +101,32 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kanani Industries Limited is engaged in diamond trading and manufacturing operations at its factory in Surat Special Economic Zone.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/S. JMMK & CO.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Income tax disputes pending for AY 2005-06 (Rs 5.00 lakhs), AY 2020-21 (Rs 0.026 lakhs), and AY 2012-13 (Rs 0.462 lakhs) before Commissioner of Income Tax (Appeals)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Significant revenue volatility (Net Sales dropped from Rs 4,682.29 lakhs in FY2024 to Rs 1,020.46 lakhs in FY2026)",
+   "Pending income tax disputes",
+   "No dividend paid/proposed for three consecutive years",
+   "Low profit margins (Operating Profit Margin 3.41% in FY2026)"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

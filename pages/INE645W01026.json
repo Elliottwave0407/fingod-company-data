@@ -3,7 +3,7 @@
  "sym": "AIRAN",
  "name": "Airan Limited",
  "scrip": "543811",
- "mcap_cr": 179.03,
+ "mcap_cr": 174.9,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 5.51,
    "pat": 2.02,
    "margin_pct": 17.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 54,
     "profit": 57,
-    "quality": 11
+    "quality": 100
    },
    "capped_by": null
   },
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Airan Limited is a company whose specific business activities are not described in the provided excerpts.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Deora Maheshwari & Co., Chartered Accountants, Ahmedabad (FRN: 123009W)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

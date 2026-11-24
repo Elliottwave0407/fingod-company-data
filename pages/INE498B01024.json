@@ -3,7 +3,7 @@
  "sym": "SHOPERSTOP",
  "name": "Shoppers Stop Limited",
  "scrip": "532638",
- "mcap_cr": 4184.65,
+ "mcap_cr": 4119.63,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 42,
     "profit": 33,
-    "quality": 0
+    "quality": 10
    },
    "capped_by": "net loss"
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 42,
     "profit": 41,
-    "quality": 0
+    "quality": 43
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Sep-26",
@@ -80,11 +80,11 @@
    "ebitda": 196.28,
    "pat": 3.11,
    "margin_pct": 14.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 46,
     "profit": 52,
-    "quality": 0
+    "quality": 50
    },
    "capped_by": null
   }
@@ -109,7 +109,52 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-21"
+  "latest_concall": "2026-10-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shoppers Stop Limited operates a chain of department stores in India offering premium national and international brands across categories like apparel, beauty, and home, along with loyalty programs and omnichannel retail.",
+  "segments": [
+   {
+    "name": "Retail",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "New store additions (27 stores)",
+    "amount_cr": 114,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital expenditure commitments",
+    "amount_cr": 21.82,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "PricewaterhouseCoopers Services LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on non-provision of retrospective service tax levy of Rs 16.60 crores for June 2007 to March 2010 on renting of immovable properties, pending Supreme Court appeal."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Challenging consumption environment",
+   "Global supply chain disruptions",
+   "Inflationary pressures",
+   "Change in customer demographic leading to impairment in certain CGUs",
+   "Pending indirect tax disputes (Service tax, VAT, Customs, GST)",
+   "Liquidity risk from lease liabilities and borrowings",
+   "Cybersecurity and data privacy risks",
+   "Regulatory changes including New Labour Codes increasing employee benefit provisions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

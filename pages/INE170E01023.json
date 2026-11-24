@@ -3,7 +3,7 @@
  "sym": "SATIA",
  "name": "Satia Industries Limited",
  "scrip": "539201",
- "mcap_cr": 574.1,
+ "mcap_cr": 572.4,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 12,
     "profit": 3,
-    "quality": 4
+    "quality": 0
    },
    "capped_by": null
   },
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2025-05-30"
+  "latest_concall": "2025-05-30",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

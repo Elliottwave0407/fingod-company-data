@@ -3,7 +3,7 @@
  "sym": "DVL",
  "name": "Dhunseri Ventures Limited",
  "scrip": "523736",
- "mcap_cr": 1079.81,
+ "mcap_cr": 1043.74,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -60.65,
    "pat": 24.36,
    "margin_pct": -85.5,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 31,
+    "profit": -68,
+    "quality": 100
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -95,7 +99,29 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Dhunseri Ventures Limited is an investment holding company with investments in subsidiaries and associate companies.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment assessment of investments in subsidiaries involves significant management judgment and estimates"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

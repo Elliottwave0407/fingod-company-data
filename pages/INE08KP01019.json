@@ -3,7 +3,7 @@
  "sym": "DCMNVL",
  "name": "DCM Nouvelle Limited",
  "scrip": "542729",
- "mcap_cr": 319.2,
+ "mcap_cr": 309.21,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 20,
     "profit": 38,
-    "quality": 2
+    "quality": 20
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 74,
     "profit": 94,
-    "quality": 72
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   },
   {
    "q": "Sep-26",
@@ -80,13 +80,13 @@
    "ebitda": 34.92,
    "pat": 17.4,
    "margin_pct": 11.0,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 89,
     "profit": 89,
-    "quality": 33
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -109,7 +109,37 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "DCM Nouvelle Limited is a textile company manufacturing and exporting cotton yarns including combed, carded, compact, and double yarns under brands DINERO and CCY, along with BCI and sustainable yarns, to 16 countries across Asia, Europe, Africa, Latin America, and the Middle East.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Phase-II expansion capex",
+    "amount_cr": null,
+    "timeline": "FY2027"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Valuation of inventories involves management judgement and estimation in allocation of production and administration overheads",
+   "Impairment assessment of Chemicals CGU is sensitive to weighted average cost of capital, terminal growth rate, and projected revenue and EBITDA margins with limited headroom",
+   "Contingent liabilities including income tax matters and claims by employees and capital creditors"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

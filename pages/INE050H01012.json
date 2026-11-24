@@ -3,7 +3,7 @@
  "sym": "RML",
  "name": "Rane (Madras) Limited",
  "scrip": "532661",
- "mcap_cr": 3215.72,
+ "mcap_cr": 3134.88,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 95.57,
    "pat": 36.96,
    "margin_pct": 9.1,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 70,
     "profit": 56,
-    "quality": 57
+    "quality": 87
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 86.84,
    "pat": 30.1,
    "margin_pct": 8.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 56,
     "profit": 38,
-    "quality": 54
+    "quality": 75
    },
    "capped_by": null
   }
@@ -97,9 +97,31 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 14,
+  "concalls_found": 15,
   "concalls_read": 0,
-  "latest_concall": "2026-08-27"
+  "latest_concall": "2026-11-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Rane (Madras) Limited is an automotive ancillary company operating globally, engaged in manufacturing components for the automotive industry.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Foreign exchange risk through sales in the United States, European Union and other parts of the world, and purchases from overseas suppliers in different foreign currencies"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

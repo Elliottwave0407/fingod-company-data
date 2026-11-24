@@ -3,7 +3,7 @@
  "sym": "CARERATING",
  "name": "CARE Ratings Limited",
  "scrip": "534804",
- "mcap_cr": 4729.61,
+ "mcap_cr": 4690.99,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 65,
     "profit": 84,
-    "quality": 80
+    "quality": 61
    },
    "capped_by": "profit growth under 25%"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 62,
     "profit": 67,
-    "quality": 83
+    "quality": 61
    },
    "capped_by": "profit growth under 25%"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 63,
     "profit": 66,
-    "quality": 81
+    "quality": 68
    },
    "capped_by": null
   }
@@ -109,7 +109,49 @@
   "missing": [],
   "concalls_found": 3,
   "concalls_read": 0,
-  "latest_concall": "2026-05-21"
+  "latest_concall": "2026-05-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "CARE Ratings Limited is India's second-largest credit rating agency providing credit ratings, analytics, advisory, ESG assessments, and global rating solutions to corporates, financial institutions, investors, and regulators.",
+  "segments": [
+   {
+    "name": "Credit Ratings",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Analytics and Advisory",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "ESG Ratings",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Global Rating Solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 6,
+  "key_risks": [
+   "Geopolitical uncertainty and trade tensions",
+   "Elevated credit risk across market segments",
+   "Currency depreciation pressure",
+   "External sector pressures from US tariffs and West Asia crisis"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

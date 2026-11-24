@@ -3,7 +3,7 @@
  "sym": "ANDHRSUGAR",
  "name": "The Andhra Sugars Limited",
  "scrip": "590062",
- "mcap_cr": 1032.64,
+ "mcap_cr": 1027.49,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 41,
     "profit": 15,
-    "quality": 9
+    "quality": 23
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 61,
     "profit": 73,
-    "quality": 78
+    "quality": 90
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Andhra Sugars Limited is engaged in the manufacturing of sugar, chlor-alkali products, and other chemicals.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 1801,
+  "subsidiaries_count": 3,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

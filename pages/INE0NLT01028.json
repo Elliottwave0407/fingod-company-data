@@ -3,7 +3,7 @@
  "sym": "BLSE",
  "name": "BLS E-Services Limited",
  "scrip": "544107",
- "mcap_cr": 2709.34,
+ "mcap_cr": 2668.45,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 20.47,
    "pat": 18.24,
    "margin_pct": 6.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 57,
     "profit": 18,
-    "quality": 66
+    "quality": 26
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 21.22,
    "pat": 18.63,
    "margin_pct": 7.0,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 63,
     "profit": 35,
-    "quality": 66
+    "quality": 31
    },
    "capped_by": null
   }
@@ -99,7 +99,55 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "BLS E-Services Limited is a leading digital service provider enabling last-mile access to banking, financial, government, and digital commerce services through a network of over 1,55,000 touchpoints across rural and semi-urban India.",
+  "segments": [
+   {
+    "name": "Business Correspondent Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Loan Disbursement",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "E-Governance",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Assisted E-Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "GPS devices deployed",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "mATM devices deployed",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. S. S. Kothari Mehta & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

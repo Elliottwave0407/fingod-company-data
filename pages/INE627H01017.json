@@ -3,7 +3,7 @@
  "sym": "CTE",
  "name": "Cambridge Technology Enterprises Limited",
  "scrip": "532801",
- "mcap_cr": 77.54,
+ "mcap_cr": 81.35,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 54,
     "profit": 91,
-    "quality": 72
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 61,
     "profit": 96,
-    "quality": 87
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   }
@@ -99,7 +99,46 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Cambridge Technology Enterprises Limited is a business and technology services company that builds and delivers custom AI solutions, data engineering services, enterprise application development, and managed technology services to enterprise and Fortune 500 clients globally.",
+  "segments": [
+   {
+    "name": "Artificial Intelligence and Machine Learning",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Agentic AI",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Data Engineering",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Enterprise Applications",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B R A N D & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 55.75,
+  "promoter_pledge_pct": null,
+  "employees": 250,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Foreign exchange risk primarily relating to fluctuations in US Dollars against functional currencies, not hedged during the financial year"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

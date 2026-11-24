@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 94,
     "profit": 86,
-    "quality": 85
+    "quality": 100
    },
    "capped_by": null
   },
@@ -63,11 +63,11 @@
    "ebitda": 5.75,
    "pat": 3.75,
    "margin_pct": 41.0,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 21,
     "profit": 55,
-    "quality": 37
+    "quality": 16
    },
    "capped_by": null
   }
@@ -96,7 +96,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Global Education Limited is a diversified education solutions provider in India offering technology-enabled services across educational training and development, educational business support, placement services, digital content delivery, professional training, skill development, and human capital development.",
+  "segments": [
+   {
+    "name": "Educational Training and Development Activities",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Educational Business Support Activities",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

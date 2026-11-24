@@ -3,7 +3,7 @@
  "sym": "PONNIERODE",
  "name": "Ponni Sugars (Erode) Limited",
  "scrip": "532460",
- "mcap_cr": 272.74,
+ "mcap_cr": 274.25,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 60,
     "profit": 100,
-    "quality": 60
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   },
@@ -66,9 +66,13 @@
    "ebitda": -1.78,
    "pat": -1.23,
    "margin_pct": -1.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 94,
+    "profit": 73,
+    "quality": 78
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Sep-26",
@@ -76,11 +80,11 @@
    "ebitda": 33.49,
    "pat": 21.69,
    "margin_pct": 21.0,
-   "verdict_v3": "Blockbuster",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 92,
     "profit": 92,
-    "quality": 75
+    "quality": 71
    },
    "capped_by": null
   }
@@ -105,7 +109,44 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ponni Sugars (Erode) Limited manufactures and sells sugar, bagasse, molasses, and power.",
+  "segments": [
+   {
+    "name": "Sugar",
+    "share_of_revenue_pct": 66.0
+   },
+   {
+    "name": "Bagasse",
+    "share_of_revenue_pct": 9.1
+   },
+   {
+    "name": "Molasses",
+    "share_of_revenue_pct": 10.8
+   },
+   {
+    "name": "Power",
+    "share_of_revenue_pct": 14.1
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

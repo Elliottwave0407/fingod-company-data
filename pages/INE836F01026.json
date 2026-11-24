@@ -3,7 +3,7 @@
  "sym": "DISHTV",
  "name": "Dish TV India Limited",
  "scrip": "532839",
- "mcap_cr": 368.25,
+ "mcap_cr": 364.57,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -143.52,
    "pat": -303.95,
    "margin_pct": -59.0,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 1,
+    "profit": 33,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -108.72,
    "pat": -286.31,
    "margin_pct": -40.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 4,
+    "profit": -33,
+    "quality": 0
+   },
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -91,7 +99,55 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Dish TV India Limited provides direct-to-home (DTH) satellite TV broadcasting services and has diversified into smart TVs (VZY brand), OTT content aggregation (Watcho app), B2B e-commerce (ShopZop platform), and content trade hub (Content India).",
+  "segments": [
+   {
+    "name": "DTH Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Smart TV & Devices (VZY)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "OTT & Content (Watcho, FLIQS)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "B2B E-commerce (ShopZop)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Content Trade Hub (Content India)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material Uncertainty Related to Going Concern (Note 4(b)) - conditions exist that may cast significant doubt on the Company's ability to continue as a going concern, but financial statements prepared on going concern basis; opinion not modified."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Going concern uncertainty due to accumulated losses and negative net worth",
+   "Impairment of investments and loans in subsidiaries (Rs 59,209 lacs impairment recognized in FY26)",
+   "Regulatory and tax contingencies with significant contingent liabilities",
+   "Declining subscription revenue and ARPUs in core DTH business (25.84% revenue decline in FY26)",
+   "High finance costs (Rs 269.80 crore) and lease liabilities",
+   "Dependence on DTH license renewals from Ministry of Information and Broadcasting"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

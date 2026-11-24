@@ -3,7 +3,7 @@
  "sym": "AHCL",
  "name": "Anlon Healthcare Limited",
  "scrip": "544497",
- "mcap_cr": 1336.23,
+ "mcap_cr": 1309.12,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 36,
-    "quality": 69
+    "quality": 62
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 100,
     "profit": 25,
-    "quality": 82
+    "quality": 59
    },
-   "capped_by": "margin down over 2 pts YoY"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -95,7 +95,9 @@
   "missing": [],
   "concalls_found": 5,
   "concalls_read": 5,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

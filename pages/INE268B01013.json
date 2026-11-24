@@ -3,7 +3,7 @@
  "sym": "KREBSBIO",
  "name": "Krebs Biochemicals and Industries Limited",
  "scrip": "524518",
- "mcap_cr": 123.63,
+ "mcap_cr": 119.77,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -0.86,
    "pat": -2.34,
    "margin_pct": -12.6,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 45,
+    "profit": 70,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,9 +70,9 @@
    "pillars": {
     "growth": 70,
     "profit": 90,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Sep-26",
@@ -101,7 +105,37 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Krebs Biochemicals & Industries Limited is a pharmaceutical company engaged in manufacturing and research & development, with plants in Andhra Pradesh.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Additions to Property, Plant & Equipment (including Capital Work in Progress)",
+    "amount_cr": 4.41,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Bhavani & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Material uncertainty related to going concern due to accumulated losses and negative net worth",
+   "Dependence on promoter Ipca Laboratories Ltd. for financial support",
+   "Ongoing tax, indirect tax and labour litigation with material potential impact"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

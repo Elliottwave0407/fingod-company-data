@@ -3,7 +3,7 @@
  "sym": "SURAJLTD",
  "name": "Suraj Limited",
  "scrip": "531638",
- "mcap_cr": 352.68,
+ "mcap_cr": 365.35,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 42,
     "profit": 93,
-    "quality": 59
+    "quality": 80
    },
    "capped_by": "revenue down YoY"
   },
@@ -84,9 +84,9 @@
    "pillars": {
     "growth": 72,
     "profit": 90,
-    "quality": 64
+    "quality": 95
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   }
  ],
  "completeness": {
@@ -109,7 +109,36 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Suraj Limited manufactures stainless steel seamless pipes, tubes, and U-tubes for sectors such as oil & gas, petrochemicals, power generation, fertilizers, pharmaceuticals, infrastructure, and process industries.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Rinkesh Shah & Co. - Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 75.0,
+  "promoter_pledge_pct": 0.0,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "volatility in raw material prices",
+   "pressure on margins",
+   "fluctuating steel demand in certain sectors",
+   "higher energy and logistics costs",
+   "competitive market conditions",
+   "global economic uncertainties",
+   "foreign exchange fluctuations",
+   "competitive pricing pressures"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

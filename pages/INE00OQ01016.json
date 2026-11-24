@@ -3,7 +3,7 @@
  "sym": "DHARMAJ",
  "name": "Dharmaj Crop Guard Limited",
  "scrip": "543687",
- "mcap_cr": 820.09,
+ "mcap_cr": 801.84,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 10.62,
    "pat": 3.97,
    "margin_pct": 4.5,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 72,
     "profit": 62,
-    "quality": 10
+    "quality": 60
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 40,
     "profit": 56,
-    "quality": 58
+    "quality": 54
    },
    "capped_by": null
   }
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Dharmaj Crop Guard Limited operates across the agrochemical value chain with a formulations unit and is building a dedicated Herbicides Formulations unit at Kerala GIDC.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Herbicides Formulations unit at Kerala GIDC",
+    "amount_cr": null,
+    "timeline": "FY27"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition cut-off risks due to various contractual terms across regions",
+   "Complex estimation of discounts, incentives, rebates and rebate reversal",
+   "Forward-looking statements subject to assumptions, risks and uncertainties"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

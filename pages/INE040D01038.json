@@ -3,7 +3,7 @@
  "sym": "MAYURUNIQ",
  "name": "Mayur Uniquoters Ltd",
  "scrip": "522249",
- "mcap_cr": 3066.23,
+ "mcap_cr": 3015.83,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 70,
     "profit": 100,
-    "quality": 76
+    "quality": 93
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 74,
     "profit": 69,
-    "quality": 91
+    "quality": 73
    },
    "capped_by": null
   }
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mayur Uniquoters Limited is engaged in the manufacturing and supply/trading of artificial leather (PVC Vinyl/Synthetic Leather) in India and globally through its subsidiaries.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Recoverability of carrying value of assets of the cash generating unit (CGU) Gwalior Plant (carrying value Rs. 10,272.36 lakhs as at 31 March 2026) due to operating losses and lower economic performance than budgets; impairment assessment performed using external valuation expert."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Impairment risk for Gwalior Plant CGU due to operating losses and economic performance significantly lower than budgets",
+   "Recoverability of carrying value of non-financial assets dependent on operational performance of CGU"
+  ],
+  "dividend_per_share": 6.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

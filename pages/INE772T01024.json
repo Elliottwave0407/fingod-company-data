@@ -3,7 +3,7 @@
  "sym": "PVSL",
  "name": "Popular Vehicles and Services Limited",
  "scrip": "544144",
- "mcap_cr": 630.1,
+ "mcap_cr": 627.47,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 85,
     "profit": 46,
-    "quality": 0
+    "quality": 49
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 57.92,
    "pat": 1.37,
    "margin_pct": 3.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 94,
     "profit": 40,
-    "quality": 0
+    "quality": 39
    },
    "capped_by": null
   }
@@ -99,7 +99,56 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-18"
+  "latest_concall": "2026-11-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Popular Vehicles and Services Limited is a diversified automotive retail enterprise dealing in passenger vehicles, commercial vehicles, and electric mobility through dealerships of Maruti Suzuki, Tata Motors, Honda, JLR, Bharat Benz, Audi, and Ather, supported by sales and service networks across multiple states.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Reduce Kerala revenue to below 50%; target double-digit growth from new geographies",
+    "metric": "Kerala revenue share",
+    "value": "below 50%",
+    "by_when": "FY27"
+   },
+   {
+    "statement": "Scale Audi volumes; explore further luxury brand additions; target high-ASP premiumisation",
+    "metric": "Luxury segment growth",
+    "value": "high-ASP premiumisation",
+    "by_when": "FY27"
+   },
+   {
+    "statement": "Deepen Ather network; evaluate 4W EV OEM partnerships; e-Vitara readiness underway",
+    "metric": "EV ecosystem expansion",
+    "value": "Ather network deepening and 4W EV partnerships",
+    "by_when": "FY27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "No fraud reported under Section 143(12); Secretarial Audit Report contains no qualification, reservation, adverse remark or disclaimer"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 8,
+  "key_risks": [
+   "Elevated debt from expansion & acquisitions leading to higher interest burden and elevated Debt/EBITDA",
+   "IndAS acquisition adjustments impacting reported profitability in FY26 (one-time in nature)",
+   "MSIL supply constraints in Kerala causing volume pressure",
+   "Service segment volume decline (mid-single digit in FY26)",
+   "West Asia geopolitical conflict causing CV supply disruptions, fuel price volatility, and freight rate impact",
+   "Kerala geographic concentration exposing to region-specific macro and political risks",
+   "OEM alliancing risk including high MSIL dependence and risk of missing OEM targets",
+   "EV disruption from shift in customer preferences, new entrant competition",
+   "Cybersecurity risks including data theft and business disruption"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "TARMAT",
  "name": "Tarmat Limited",
  "scrip": "532869",
- "mcap_cr": 132.21,
+ "mcap_cr": 130.74,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 93,
     "profit": 61,
-    "quality": 77
+    "quality": 79
    },
    "capped_by": null
   }
@@ -99,7 +99,29 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Tarmat Limited is an Indian company with joint venture investments, though the specific business activity is not stated in the provided excerpts.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Hegde & Associates",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Unable to determine fair value of investment in Backbone-Tarmat-Al Fara'a (JC) due to non-availability of financial information of the Joint Venture; carrying value of investment amounts to Rs 783.02 Lakhs"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Unable to determine fair value of joint venture investment due to non-availability of financial information"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

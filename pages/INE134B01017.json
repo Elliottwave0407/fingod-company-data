@@ -3,7 +3,7 @@
  "sym": "KECL",
  "name": "Kirloskar Electric Company Limited",
  "scrip": "533193",
- "mcap_cr": 694.69,
+ "mcap_cr": 687.05,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 84,
     "profit": 68,
-    "quality": 0
+    "quality": 72
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kirloskar Electric Company Limited manufactures a diversified range of electrical equipment and engineered solutions including rotating machines, transformers, switchgear, AC/DC motors, EV motors, traction equipment, AC generators, DG sets, and customised engineering solutions for industrial and infrastructure sectors.",
+  "segments": [
+   {
+    "name": "India",
+    "share_of_revenue_pct": 95.5
+   },
+   {
+    "name": "Outside India",
+    "share_of_revenue_pct": 4.5
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 307.86,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "No modification in respect of unaudited subsidiary (total assets \u20b91.25 lakhs), associate Kirloskar (Malaysia) Sdn Bhd, and Ajman Branch office audited by branch auditor"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Commodity price fluctuations",
+   "Supply chain disruptions",
+   "Competitive pricing pressures",
+   "Geopolitical uncertainties",
+   "Exchange rate volatility",
+   "Fluctuations in commodity prices",
+   "Imported input costs",
+   "Logistics expenses"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

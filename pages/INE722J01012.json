@@ -3,7 +3,7 @@
  "sym": "RKDL",
  "name": "Ravi Kumar Distilleries Limited",
  "scrip": "533294",
- "mcap_cr": 41.06,
+ "mcap_cr": 40.61,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ravi Kumar Distilleries Limited is engaged in the distillery business, with disputes regarding investments in Liquor India Limited and amounts recoverable from Lemonade Shares & Securities Private Limited.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Ramanand & Associates",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to: 1) Rs. 2,900.25 Lakhs recoverable under dispute with no ECL provision; 2) Disputed investment in Liquor India Limited and amount from Lemonade Shares & Securities with no adjustment for diminution/credit loss; 3) Confirmations not obtained for sundry debtors/creditors with short ECL provision of Rs. 451.54 Lakhs; 4) Statutory dues of Rs. 266.49 Lakhs pending with no interest provision."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Unrecoverable disputed amounts of Rs. 2,900.25 Lakhs classified as Other Non-Current Assets",
+   "Disputed investment in Liquor India Limited and transaction with Lemonade Shares & Securities under litigation",
+   "Lack of confirmations from sundry debtors and creditors with inadequate expected credit loss provisions",
+   "Pending statutory dues of Rs. 266.49 Lakhs with unprovided interest liability",
+   "Multiple ongoing legal proceedings in NCLT, NCLAT, Supreme Court, and with SEBI/ED/Police"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "IITL",
  "name": "Industrial Investment Trust Limited",
  "scrip": "501295",
- "mcap_cr": 235.73,
+ "mcap_cr": 220.18,
  "group": "B",
  "quarters": [
   {
@@ -66,7 +66,7 @@
    "pillars": {
     "growth": 98,
     "profit": 20,
-    "quality": 73
+    "quality": 41
    },
    "capped_by": null
   },
@@ -101,7 +101,37 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Industrial Investment Trust Limited is a Non-Deposit taking Non-Banking Financial Company (NBFC-ICC) classified as a Base Layer NBFC, primarily operating as a holding company with investments in equity shares, mutual funds, fixed deposits, treasury bills, and corporate loans.",
+  "segments": [
+   {
+    "name": "Investment and Credit Activities",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Maharaj N R Suresh and Co., LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on investment in subsidiary IITL Projects Limited (Rs 1361.23 lakhs) where net worth is fully eroded and financial statements prepared on non-going concern basis; Key Audit Matters on investments in mutual funds/equity shares (Rs 23078.57 lakhs), contingent liabilities for income tax (Rs 840.01 lakhs), and loans advanced (Rs 14657.61 lakhs)"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Investment in subsidiary IITL Projects Limited with negative net worth and non-going concern status",
+   "Contingent liabilities on account of income tax aggregating to Rs 840.01 lakhs",
+   "Concentration of investments in mutual funds and equity shares (Rs 23078.57 lakhs)",
+   "Loan book of Rs 14657.61 lakhs advanced to various parties"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

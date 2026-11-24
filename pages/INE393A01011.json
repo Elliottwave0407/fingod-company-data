@@ -3,7 +3,7 @@
  "sym": "DELTAMAGNT",
  "name": "Delta Manufacturing Limited",
  "scrip": "504286",
- "mcap_cr": 58.76,
+ "mcap_cr": 57.02,
  "group": "B",
  "quarters": [
   {
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 78,
     "profit": 87,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -99,7 +99,56 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Delta Manufacturing Limited manufactures textiles and previously operated hard ferrites and soft ferrites divisions which have been discontinued.",
+  "segments": [
+   {
+    "name": "Textile",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Hard Ferrites (discontinued)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Soft Ferrites (discontinued)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Textile capital expenditure",
+    "amount_cr": 12.5228,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Hard Ferrites capital expenditure (discontinued)",
+    "amount_cr": 0.0189,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Total capital expenditure",
+    "amount_cr": 12.5417,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

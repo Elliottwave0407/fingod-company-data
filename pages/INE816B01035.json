@@ -3,7 +3,7 @@
  "sym": "FILATEX",
  "name": "Filatex India Limited",
  "scrip": "526227",
- "mcap_cr": 4909.95,
+ "mcap_cr": 4797.61,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 33,
     "profit": 56,
-    "quality": 25
+    "quality": 33
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 33,
     "profit": 31,
-    "quality": 57
+    "quality": 52
    },
    "capped_by": null
   }
@@ -99,7 +99,54 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Filatex India Limited is engaged in the manufacturing of polyester chips, polyester filament yarn, and polypropylene multifilament yarn.",
+  "segments": [
+   {
+    "name": "Polyester Chips",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Polyester Filament Yarn",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Polypropylene Multifilament Yarn",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "R&D Capital Expenditure on Plant & Machinery",
+    "amount_cr": 0.1431,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "R&D Capital Expenditure on Intangible assets under development",
+    "amount_cr": 1.5335,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Litigation, claims and other contingencies with contingent liabilities of Rs 35,878.48 lakhs relating to tax and legal claims",
+   "Allowance for inventories with significant inventories of Rs 42,536.02 lakhs representing 17.30% of total assets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

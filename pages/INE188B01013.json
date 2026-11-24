@@ -3,7 +3,7 @@
  "sym": "IGARASHI",
  "name": "Igarashi Motors India Limited",
  "scrip": "517380",
- "mcap_cr": 1122.4,
+ "mcap_cr": 1076.13,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 19.26,
    "pat": 1.59,
    "margin_pct": 8.5,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 41,
     "profit": 19,
-    "quality": 0
+    "quality": 14
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 65,
     "profit": 42,
-    "quality": 50
+    "quality": 79
    },
    "capped_by": null
   }
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Igarashi Motors India Limited manufactures actuator motors for automotive systems (including ETC, EGR, WGA, VTG, CCV, ETV, EPB, PLA, GBA, ABS, TOCD, Seat, HRA) and energy-efficient BLDC motors and driver electronics for non-automotive applications such as ceiling fans.",
+  "segments": [
+   {
+    "name": "Automotive",
+    "share_of_revenue_pct": 88
+   },
+   {
+    "name": "Non-Automotive",
+    "share_of_revenue_pct": 12
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 2.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

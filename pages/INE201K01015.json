@@ -3,7 +3,7 @@
  "sym": "EXPLEOSOL",
  "name": "Expleo Solutions Limited",
  "scrip": "533121",
- "mcap_cr": 1210.85,
+ "mcap_cr": 1194.79,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 66,
     "profit": 74,
-    "quality": 92
+    "quality": 93
    },
    "capped_by": null
   }
@@ -97,9 +97,46 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 5,
+  "concalls_found": 6,
   "concalls_read": 0,
-  "latest_concall": "2026-05-21"
+  "latest_concall": "2026-11-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Expleo Solutions Limited provides software validation, verification, development, engineering, and consultancy services as part of the Expleo Group, focusing on digital assurance and quality engineering across BFSI, automotive, aerospace, retail, manufacturing, energy, and healthcare sectors.",
+  "segments": [
+   {
+    "name": "Software Validation, Verification, Development and Engineering/Consultancy & other services",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Estimated amount of contracts remaining to be executed on capital account (net of advance)",
+    "amount_cr": 5.695,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "AI deployment outpacing AI governance",
+   "Regulatory frameworks such as EU AI Act, India's Digital Personal Data Protection Act, NIST AI Risk Management Framework",
+   "Geopolitical headwinds like supply chain disruptions, energy price volatility, policy uncertainties around tariffs and regulations",
+   "Cautious enterprise spending and longer decision cycles in parts of the IT sector",
+   "Contingent liabilities related to Service Tax, VAT, GST, Income Tax, and other matters"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

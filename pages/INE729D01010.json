@@ -3,7 +3,7 @@
  "sym": "KILITCH",
  "name": "Kilitch Drugs (India) Limited",
  "scrip": "524500",
- "mcap_cr": 782.09,
+ "mcap_cr": 755.52,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 91,
     "profit": 61,
-    "quality": 75
+    "quality": 64
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 24,
     "profit": 26,
-    "quality": 31
+    "quality": 17
    },
    "capped_by": null
   }
@@ -99,7 +99,46 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2024-06-14"
+  "latest_concall": "2024-06-14",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kilitch Drugs (India) Limited is engaged in the manufacturing, marketing and distribution of a diversified portfolio of pharmaceutical products across domestic and international markets.",
+  "segments": [
+   {
+    "name": "Pharmaceutical business",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Greenfield pharmaceutical manufacturing facility at Pen, Raigad, Maharashtra",
+    "amount_cr": 140.02,
+    "timeline": "As on 31st March 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "foreign exchange fluctuations",
+   "geopolitical developments",
+   "changing trade regulations",
+   "contractual and legal disputes",
+   "credit risk",
+   "liquidity risk",
+   "evolving statutory compliance requirements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

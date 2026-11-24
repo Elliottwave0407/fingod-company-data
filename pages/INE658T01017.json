@@ -3,7 +3,7 @@
  "sym": "WEALTH",
  "name": "Wealth First Portfolio Managers Limited",
  "scrip": "544536",
- "mcap_cr": 852.4,
+ "mcap_cr": 859.86,
  "group": "B",
  "quarters": [
   {
@@ -95,7 +95,27 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2026-06-05"
+  "latest_concall": "2026-06-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Wealth First Portfolio Managers Limited is a wealth management firm providing portfolio management services, asset management, and insurance broking to client families.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

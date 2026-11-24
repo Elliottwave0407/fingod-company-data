@@ -3,8 +3,8 @@
  "sym": "RUSHIL",
  "name": "Rushil Decor Limited",
  "scrip": "533470",
- "mcap_cr": 645.22,
- "group": "B",
+ "mcap_cr": 613.24,
+ "group": "T",
  "quarters": [
   {
    "q": "Mar-25",
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 30,
     "profit": 47,
-    "quality": 11
+    "quality": 17
    },
    "capped_by": null
   },
@@ -66,13 +66,13 @@
    "ebitda": 18.33,
    "pat": 1.98,
    "margin_pct": 8.0,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 70,
     "profit": 86,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -99,7 +99,46 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Rushil Decor Limited is one of India's leading manufacturers of laminates, MDF boards, and allied decor products, serving customers in over 57 countries.",
+  "segments": [
+   {
+    "name": "Decorative Laminates",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Eco-friendly MDF and Pre-laminated Boards",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "PVC and WPC Boards",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Plywood",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 55.1,
+  "promoter_pledge_pct": null,
+  "employees": 3000,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk - revenue may be recognized before control of goods is transferred"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

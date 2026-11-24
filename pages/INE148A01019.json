@@ -3,7 +3,7 @@
  "sym": "TNPETRO",
  "name": "Tamilnadu PetroProducts Limited",
  "scrip": "500777",
- "mcap_cr": 994.18,
+ "mcap_cr": 986.99,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 92,
-    "quality": 10
+    "quality": 24
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 92,
-    "quality": 80
+    "quality": 86
    },
    "capped_by": null
   }
@@ -99,7 +99,55 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Tamilnadu Petroproducts Limited manufactures and sells petrochemical products including Linear Alkyl Benzene, Propylene Oxide, and Caustic Soda Lye.",
+  "segments": [
+   {
+    "name": "Linear Alkyl Benzene",
+    "share_of_revenue_pct": 85.9
+   },
+   {
+    "name": "Propylene Oxide",
+    "share_of_revenue_pct": 3.0
+   },
+   {
+    "name": "Caustic Soda Lye",
+    "share_of_revenue_pct": 7.5
+   },
+   {
+    "name": "Others",
+    "share_of_revenue_pct": 3.6
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Expansion of Linear Alkyl Benzene (LAB) and Heavy Chemical Division (HCD) projects",
+    "amount_cr": 578.65,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding expiry of lease agreement with Government of Tamilnadu for leasehold land as of 12th June 2020; renewal awaited, no adjustments made in financial statements for potential impact of non-renewal."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Expiry of lease agreement with Government of Tamilnadu for leasehold land; renewal awaited, potential impact unascertainable",
+   "Litigations comprising tax matters, legal compliances, and other disputes; financial impact depends on appellate authorities' decisions",
+   "Interest rate risk on variable rate borrowings",
+   "Liquidity risk from supplier finance arrangements and concentration of funding sources"
+  ],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

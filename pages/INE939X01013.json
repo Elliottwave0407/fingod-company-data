@@ -3,7 +3,7 @@
  "sym": "MANBA",
  "name": "Manba Finance Limited",
  "scrip": "544262",
- "mcap_cr": 709.88,
+ "mcap_cr": 683.26,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 60.7,
    "pat": 11.13,
    "margin_pct": 65.0,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 86,
     "profit": 91,
-    "quality": 42
+    "quality": 62
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 60.84,
    "pat": 13.26,
    "margin_pct": 65.7,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 83,
     "profit": 57,
-    "quality": 40
+    "quality": 59
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 63.38,
    "pat": 13.73,
    "margin_pct": 64.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 66,
     "profit": 39,
-    "quality": 30
+    "quality": 46
    },
    "capped_by": null
   }
@@ -109,7 +109,37 @@
   "missing": [],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-10-31"
+  "latest_concall": "2026-10-31",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Manba Finance Limited is a non-banking financial company (NBFC) providing vehicle loans to individuals and small businesses across 6 states and over 130 locations in India.",
+  "segments": [
+   {
+    "name": "Vehicle Loans",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note 40 regarding expected credit loss on loans, reconciliation of loss allowance provisions and reconciliation of gross carrying amount. Opinion not modified in respect of this matter."
+  },
+  "promoter_holding_pct": 74.97,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Credit risk on loan portfolio",
+   "Liquidity risk",
+   "IT and general controls risk due to pervasive use of IT systems",
+   "Macroeconomic risk (GDP growth, inflation, unemployment, interest rates)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

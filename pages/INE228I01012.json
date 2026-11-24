@@ -3,7 +3,7 @@
  "sym": "ASAHISONG",
  "name": "Asahi Songwon Colors Limited",
  "scrip": "532853",
- "mcap_cr": 430.53,
+ "mcap_cr": 409.02,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 35,
     "profit": 66,
-    "quality": 70
+    "quality": 87
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 84,
     "profit": 93,
-    "quality": 75
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 6,
   "concalls_read": 4,
-  "latest_concall": "2026-11-21"
+  "latest_concall": "2026-11-21",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Asahi Songwon Colors Limited is engaged in the manufacturing and sale of pigments and related products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

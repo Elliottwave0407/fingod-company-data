@@ -3,7 +3,7 @@
  "sym": "NSIL",
  "name": "Nalwa Sons Investments Limited",
  "scrip": "532256",
- "mcap_cr": 2473.27,
+ "mcap_cr": 2470.65,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 42
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 25,
     "profit": 100,
-    "quality": 56
+    "quality": 65
    },
    "capped_by": null
   }
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Nalwa Sons Investments Limited is a Non-Banking Financial Company (NBFC) engaged in investment activities, holding investments in equity and preference shares of various companies.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpt",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Disputed Income Tax Demands relating to disallowances of certain deductions and expenses under litigation",
+   "Valuation uncertainty of investments in unquoted equity and preference shares measured at fair value (Level 2 and 3 hierarchy)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "DAMODARIND",
  "name": "Damodar Industries Limited",
  "scrip": "521220",
- "mcap_cr": 63.05,
+ "mcap_cr": 62.35,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 11.27,
    "pat": 2.69,
    "margin_pct": 7.4,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 91,
     "profit": 39,
-    "quality": 26
+    "quality": 43
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 9.18,
    "pat": 1.23,
    "margin_pct": 5.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 62,
     "profit": 27,
-    "quality": 15
+    "quality": 30
    },
    "capped_by": null
   }
@@ -109,7 +109,32 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Damodar Industries Limited is engaged in manufacturing and export of textile products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical unrest affecting trade and economics",
+   "Continuous rise in commodity prices",
+   "Increase in logistics costs",
+   "Export-heavy business model vulnerability"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

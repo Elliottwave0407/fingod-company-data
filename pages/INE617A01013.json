@@ -3,7 +3,7 @@
  "sym": "SEMAC",
  "name": "Semac Construction Limited",
  "scrip": "505368",
- "mcap_cr": 67.99,
+ "mcap_cr": 73.93,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 0,
     "profit": 33,
-    "quality": 19
+    "quality": 12
    },
    "capped_by": null
   }
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Semac Construction Limited provides Design and Build Services for industrial clients, executing engineering, procurement and construction (EPC) projects for manufacturing facilities.",
+  "segments": [
+   {
+    "name": "Design and Build Services for industrial clients",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Economic and Investment Cycles: The construction industry remains sensitive to changes in the broader economic climate. A slowdown in capital expenditure may impact the pace of new projects.",
+   "Raw Material Price Volatility: The prices of key inputs such as steel, cement and aggregates are subject to market fluctuations, which may impact our margins in fixed price contracts.",
+   "Regulatory Landscape: The business is subject to multiple regulatory compliances, including mining, environment, safety and labour. Any changes in laws could have an impact on project timelines and costs.",
+   "Supply Chain Disruptions: Delays or constraints in the availability and logistics of key materials or equipment due to external factors such as geopolitical tensions, transport bottlenecks or vendor-side challenges may pose risks to timely execution."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

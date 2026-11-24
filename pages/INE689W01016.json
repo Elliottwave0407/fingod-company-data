@@ -3,7 +3,7 @@
  "sym": "PRINCEPIPE",
  "name": "Prince Pipes And Fittings Limited",
  "scrip": "542907",
- "mcap_cr": 3150.99,
+ "mcap_cr": 3134.41,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 78,
     "profit": 90,
-    "quality": 68
+    "quality": 90
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 67,
     "profit": 90,
-    "quality": 61
+    "quality": 98
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Prince Pipes and Fittings Limited is one of India's largest integrated providers of piping solutions, water tanks, and bathware, marketing products under the Prince, Trubore, and Aquel brands.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Total installed capacity",
+    "amount_cr": null,
+    "timeline": "Approx 4,35,222 MTPA"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. N.A. Shah Associates LLP, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 2234,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements involve known and unknown risks, uncertainties, and other factors that may cause actual results to differ materially",
+   "Foreign currency exchange rate risk on unhedged exposure",
+   "Interest rate risk on floating rate borrowings"
+  ],
+  "dividend_per_share": 1.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

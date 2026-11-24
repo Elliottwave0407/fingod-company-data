@@ -3,7 +3,7 @@
  "sym": "SUPERSPIN",
  "name": "Super Spinning Mills Limited",
  "scrip": "521180",
- "mcap_cr": 37.84,
+ "mcap_cr": 39.27,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The company is engaged only in the business of real estate activities.",
+  "segments": [
+   {
+    "name": "Real Estate Activities",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "CSK Prabhu & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Interest rate risk",
+   "Credit risk",
+   "Liquidity risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

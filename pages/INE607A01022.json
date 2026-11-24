@@ -3,7 +3,7 @@
  "sym": "PRIMO",
  "name": "Primo Chemicals Limited",
  "scrip": "506852",
- "mcap_cr": 478.63,
+ "mcap_cr": 473.54,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 19.03,
    "pat": 6.07,
    "margin_pct": 13.1,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 14,
     "profit": 18,
-    "quality": 3
+    "quality": 75
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 20.8,
    "pat": 4.68,
    "margin_pct": 14.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 26,
     "profit": 48,
-    "quality": 20
+    "quality": 38
    },
    "capped_by": null
   }
@@ -99,7 +99,58 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Primo Chemicals Limited manufactures and sells chemicals, primarily caustic soda and chlorine, along with value-added products such as stable bleaching powder (SBP), aluminum chloride, and flakes, operating an integrated chlor-alkali facility in Naya Nangal, Punjab.",
+  "segments": [
+   {
+    "name": "Manufacturing of Chemicals",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Caustic Soda Plant Capacity Expansion Project",
+    "amount_cr": null,
+    "timeline": "FY26"
+   },
+   {
+    "item": "SBP Plant",
+    "amount_cr": null,
+    "timeline": "Operational"
+   },
+   {
+    "item": "Flaker Plant",
+    "amount_cr": null,
+    "timeline": "Operational"
+   },
+   {
+    "item": "Aluminum Chloride Plant",
+    "amount_cr": null,
+    "timeline": "Operational"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. S K Patodia & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 125,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Asymmetry in chlor-alkali economics where caustic soda drives investment but chlorine must be managed as a co-product, sometimes at a cost",
+   "Power cost, source, and reliability materially affect margins in chlor-alkali manufacturing",
+   "Future changes in market conditions, chlorine consumption, or performance expectations could impact carrying value of investments",
+   "Dependence on North India market with no export turnover"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "HATHWAY",
  "name": "Hathway Cable & Datacom Limited",
  "scrip": "533162",
- "mcap_cr": 1621.42,
+ "mcap_cr": 1614.34,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 75.4,
    "pat": 24.56,
    "margin_pct": 13.3,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 25,
     "profit": 11,
-    "quality": 5
+    "quality": 11
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 18,
     "profit": 8,
-    "quality": 0
+    "quality": 7
    },
    "capped_by": null
   }
@@ -109,7 +109,51 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hathway Cable and Datacom Limited provides broadband internet services and cable television services in India.",
+  "segments": [
+   {
+    "name": "Broadband Business",
+    "share_of_revenue_pct": 46.3
+   },
+   {
+    "name": "Cable Television",
+    "share_of_revenue_pct": 53.7
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Additions to Property, Plant & Equipment",
+    "amount_cr": 141.85,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "Additions to Intangible assets",
+    "amount_cr": 15.71,
+    "timeline": "FY2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Nayan Parikh & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 7,
+  "key_risks": [
+   "Product & Technology Risk: Traditional cable customer preferences changing slowly towards non-linear content consumption; rapid technology advancements leading to obsolescence of existing assets.",
+   "Competition Risk: Low entry barriers and multiple players in broadband and cable business verticals across geographies.",
+   "Awareness Risk: Delay in updating/onboarding Local Cable Operators (LCOs) on latest initiatives negating first mover advantage."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

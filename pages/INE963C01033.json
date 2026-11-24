@@ -3,7 +3,7 @@
  "sym": "FAZE3Q",
  "name": "Faze Three Limited",
  "scrip": "530079",
- "mcap_cr": 1445.86,
+ "mcap_cr": 1438.85,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 79,
     "profit": 48,
-    "quality": 46
+    "quality": 35
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 26,
     "profit": 15,
-    "quality": 12
+    "quality": 8
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Faze Three Limited manufactures and exports home textile products.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital work-in-progress (projects in progress)",
+    "amount_cr": 12.43,
+    "timeline": "As at 31 March 2026 (less than 1 year)"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Management remains optimistic that margins will continue to improve as revenues scale further.",
+    "metric": "EBITDA margin",
+    "value": "improve",
+    "by_when": "not specified"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. MSKA & Associates LLP, Chartered Accountants, Mumbai",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Tariff disruptions impacting industry and global markets (April 2025\u2013February 2026)",
+   "USD/INR exchange rate volatility causing mark-to-market losses on forward contracts",
+   "Trade-related policy volatility affecting margins"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "BHAGCHEM",
  "name": "Bhagiradha Chemicals & Industries Limited",
  "scrip": "531719",
- "mcap_cr": 2343.12,
+ "mcap_cr": 2295.79,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 19.43,
    "pat": 4.07,
    "margin_pct": 12.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 86,
     "profit": 90,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 30.53,
    "pat": 13.33,
    "margin_pct": 15.7,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 99,
     "profit": 93,
-    "quality": 61
+    "quality": 92
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bhagiradha Chemicals & Industries Limited is a globally recognized manufacturer of high-quality technical-grade agrochemicals and their intermediates.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Approved production capacity",
+    "amount_cr": null,
+    "timeline": "3,250 tonnes per annum"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

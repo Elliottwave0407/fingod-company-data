@@ -3,7 +3,7 @@
  "sym": "DBEIL",
  "name": "Deepak Builders & Engineers India Limited",
  "scrip": "544276",
- "mcap_cr": 285.07,
+ "mcap_cr": 280.88,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 46,
     "profit": 54,
-    "quality": 56
+    "quality": 64
    },
    "capped_by": null
   },
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

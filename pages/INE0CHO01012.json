@@ -91,7 +91,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Archidply D\u00e9cor Limited is engaged in the manufacturing and trading of plywood, laminates, and related decorative products.",
+  "segments": [
+   {
+    "name": "Plywood and Allied Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Laminates and Allied Products",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure at Chintamani Unit",
+    "amount_cr": 0.4303,
+    "timeline": "FY 2011-12"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "GRV & PK",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Fluctuations in raw material prices",
+   "Availability of raw materials",
+   "Competition from domestic and international players",
+   "Changes in consumer demand",
+   "Foreign exchange fluctuations",
+   "Interest rate movements",
+   "Changes in regulatory requirements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

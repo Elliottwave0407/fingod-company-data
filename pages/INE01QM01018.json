@@ -3,7 +3,7 @@
  "sym": "EMUDHRA",
  "name": "eMudhra Limited",
  "scrip": "543533",
- "mcap_cr": 2803.19,
+ "mcap_cr": 2807.09,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 68,
     "profit": 28,
-    "quality": 65
+    "quality": 42
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 80,
     "profit": 76,
-    "quality": 64
+    "quality": 54
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 13,
   "concalls_read": 13,
-  "latest_concall": "2026-11-09"
+  "latest_concall": "2026-11-09",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "eMudhra Limited provides digital trust and PKI solutions, including certificate authority platforms, certificate lifecycle management, identity and access management, and digital signing solutions for enterprises and governments globally.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

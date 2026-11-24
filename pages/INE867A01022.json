@@ -3,7 +3,7 @@
  "sym": "MANUGRAPH",
  "name": "Manugraph India Limited",
  "scrip": "505324",
- "mcap_cr": 39.97,
+ "mcap_cr": 39.51,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 17,
     "profit": 64,
-    "quality": 0
+    "quality": 24
    },
    "capped_by": "net loss"
   },
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Manugraph India Limited manufactures web offset printing presses, primarily for newspaper and commercial printing, with a focus on the domestic Indian market and government education contracts.",
+  "segments": [
+   {
+    "name": "Web offset printing presses",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Desai Shah & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 190,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "High costs of production",
+   "Geographical concentration",
+   "Competition risk"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

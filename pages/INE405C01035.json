@@ -3,7 +3,7 @@
  "sym": "LINCOLN",
  "name": "Lincoln Pharmaceuticals Limited",
  "scrip": "531633",
- "mcap_cr": 1023.62,
+ "mcap_cr": 1012.9,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 32,
     "profit": 15,
-    "quality": 27
+    "quality": 28
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 51,
     "profit": 45,
-    "quality": 70
+    "quality": 58
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 37,
     "profit": 10,
-    "quality": 61
+    "quality": 24
    },
    "capped_by": null
   }
@@ -109,7 +109,48 @@
   "missing": [],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2026-02-23"
+  "latest_concall": "2026-02-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Lincoln Pharmaceuticals Limited develops, manufactures, and markets pharmaceutical formulations across multiple therapeutic areas including acute, chronic, lifestyle, and specialized segments, with manufacturing facilities for sterile dosage forms, non-sterile dosage forms, and cephalosporins.",
+  "segments": [
+   {
+    "name": "Sterile Dosage Forms",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Non-Sterile Dosage Forms",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Cephalosporins",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Work in Progress Unit 1",
+    "amount_cr": 5.23,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition timing risk due to variety of shipment terms across operating markets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

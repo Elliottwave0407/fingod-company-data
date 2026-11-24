@@ -3,7 +3,7 @@
  "sym": "AGARIND",
  "name": "Agarwal Industrial Corporation Limited",
  "scrip": "531921",
- "mcap_cr": 612.07,
+ "mcap_cr": 588.81,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": 54,
-    "quality": 15
+    "quality": 21
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 6,
     "profit": 46,
-    "quality": 8
+    "quality": 25
    },
    "capped_by": null
   }
@@ -99,7 +99,43 @@
   ],
   "concalls_found": 5,
   "concalls_read": 4,
-  "latest_concall": "2025-08-26"
+  "latest_concall": "2025-08-26",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Agarwal Industrial Corporation Limited is engaged in manufacturing and trading of bitumen and allied products, providing logistics for bulk bitumen and LPG through specialized tankers, and generating power through wind mills.",
+  "segments": [
+   {
+    "name": "Bitumen and Allied Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Logistics (Bulk Bitumen and LPG Transportation)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Power Generation (Wind Mills)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Singhal Sanklecha & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 57.1972,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 5,
+  "key_risks": [
+   "Revenue is susceptible to misstatement due to cut-off issues in revenue recognition",
+   "Businesses are of seasonal nature due to which revenue gets varied"
+  ],
+  "dividend_per_share": 3.3
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

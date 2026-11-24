@@ -3,7 +3,7 @@
  "sym": "UNICHEMLAB",
  "name": "Unichem Laboratories Limited",
  "scrip": "506690",
- "mcap_cr": 3305.9,
+ "mcap_cr": 3281.61,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 12,
     "profit": 5,
-    "quality": 1
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 80,
     "profit": 89,
-    "quality": 49
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Unichem Laboratories Limited is a pharmaceutical company engaged in the manufacturing and marketing of Active Pharmaceutical Ingredients (APIs) and formulations, with a significant export orientation.",
+  "segments": [
+   {
+    "name": "Domestic",
+    "share_of_revenue_pct": 6.1
+   },
+   {
+    "name": "Export",
+    "share_of_revenue_pct": 93.9
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "N. A. Shah Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 70.2,
+  "promoter_pledge_pct": null,
+  "employees": 1878,
+  "subsidiaries_count": 5,
+  "key_risks": [],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

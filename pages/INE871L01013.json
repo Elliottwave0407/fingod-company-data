@@ -3,7 +3,7 @@
  "sym": "TVVISION",
  "name": "TV Vision Limited",
  "scrip": "540083",
- "mcap_cr": 8.95,
+ "mcap_cr": 9.38,
  "group": "T",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -9.59,
    "pat": -13.29,
    "margin_pct": -6393.3,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -5115,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -95,7 +99,37 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "TV Vision Limited operates television broadcasting channels and related media business.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. P. Parikh & Associates",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to: (i) understatement of finance costs by Rs.26.16 crore and liabilities by Rs.195.50 crore due to unrecognized interest on PNB loan; (ii) no provision for diminution in value of investments in subsidiaries (Rs.300 lakh) and associate (Rs.3,012 lakh); (iii) impairment of Business and Commercial Rights of Rs.1,250.39 lakh not provided; (iv) non-provision of interest on late payment of carriage fees and operational costs; (v) no actuarial valuation for leave encashment and gratuity; (vi) no reconciliation of ITC per GSTR-2B. Emphasis of matter on PNB petition under Section 7 of IBC. Material uncertainty related to going concern due to negative total equity of Rs.14,425.49 lakh."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Corporate Insolvency Resolution Process (CIRP) initiated by Punjab National Bank",
+   "Negative total equity of Rs.14,425.49 lakh indicating going concern uncertainty",
+   "Unrecognized interest on secured loans leading to understatement of finance costs and liabilities",
+   "Impairment of Business and Commercial Rights not provided for",
+   "Non-provision for diminution in value of investments in subsidiaries and associate",
+   "Non-provision of interest on overdue carriage fees and operational costs",
+   "Lack of actuarial valuation for employee benefit obligations",
+   "Unreconciled input tax credit differences with GSTR-2B",
+   "Trade creditors and loan balances subject to confirmation/reconciliation"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "MAHASTEEL",
  "name": "Mahamaya Steel Industries Limited",
  "scrip": "513554",
- "mcap_cr": 2302.95,
+ "mcap_cr": 2215.69,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 36,
     "profit": 31,
-    "quality": 20
+    "quality": 17
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 53,
     "profit": 28,
-    "quality": 37
+    "quality": 51
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mahamaya Steel Industries Limited is engaged in the manufacturing of steel products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matters reported: 1) Internal Control effectiveness and efficiency needs improvement regarding physical verification of inventories, parties confirmation, recoveries of old dues and related party transactions. 2) Stores inventory accounting and physical verification system are not adequate; provision for slow moving and non-moving inventory has not been made. 3) Electricity duty receivable of Rs.1105.69 lakhs recognized in preceding financial years; in absence of reasonable certainty of ultimate collection, the receivable amount is not yet crystallized, accordingly current assets for year ended 31st March 2026 should have been reduced to that extent. Opinion not modified in respect of these matters."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 908,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Economic conditions affecting demand and supply and price conditions in domestic and international market",
+   "Changes in Government regulations, tax regimes, economic developments",
+   "Internal control effectiveness and efficiency needs improvement regarding physical verification of inventories, parties confirmation, recoveries of old dues and related party transactions",
+   "Stores inventory accounting and physical verification system are not adequate; provision for slow moving and non-moving inventory has not been made",
+   "Electricity duty receivable of Rs.1105.69 lakhs recognized in preceding financial years; in absence of reasonable certainty of ultimate collection, the receivable amount is not yet crystallized"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

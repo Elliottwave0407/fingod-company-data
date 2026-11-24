@@ -3,7 +3,7 @@
  "sym": "WSI",
  "name": "W S Industries (I) Limited",
  "scrip": "504220",
- "mcap_cr": 571.26,
+ "mcap_cr": 553.88,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 3.62,
    "pat": 2.59,
    "margin_pct": 17.4,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 0,
     "profit": 94,
-    "quality": 55
+    "quality": 80
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 0,
     "profit": -450,
-    "quality": 60
+    "quality": 70
    },
    "capped_by": null
   }
@@ -99,7 +99,45 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "W.S. Industries (India) Limited is engaged in infrastructure development and construction contracts, including the development of integrated townships comprising logistics and industrial infrastructure.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Interest-free advance to wholly owned subsidiary WSI-P&C Verticals Private Limited for acquiring land and developing integrated township",
+    "amount_cr": 45.5,
+    "timeline": "As on 31.03.2026 (during the year Rs 25.50 Crores)"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Management expects that around 90% - 95% of the transaction price allocated to unsatisfied contracts as of 31st March 2025 will be recognised as revenue during next reporting period",
+    "metric": "Revenue recognition from unsatisfied performance obligations",
+    "value": "90% - 95%",
+    "by_when": "Next reporting period (FY 2025-26)"
+   }
+  ],
+  "order_book_cr": 747.21,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter: (a) Note No. 34 - Amount payable to overseas customers/suppliers aggregating to Rs 5.55 crores written back during earlier years pertains to erstwhile Electro-porcelain products division (since discontinued) and management is in the process of obtaining necessary approvals from competent authorities. Impact not ascertainable. (b) Note No. 49 - Company engaged in implementation of construction contracts with cost budgets as management estimates; current process for arriving at project outcomes may be susceptible to deviations, impact ascertainable only upon completion of projects, hence no adjustments made."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 71,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Subjective nature of construction cost estimation and revenue recognition for fixed-price contracts (Key Audit Matter)",
+   "Related party transactions with wholly owned subsidiary",
+   "Write back of amounts payable to overseas customers/suppliers pending regulatory approvals",
+   "Deviations in project cost budgets and outcomes ascertainable only upon project completion"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

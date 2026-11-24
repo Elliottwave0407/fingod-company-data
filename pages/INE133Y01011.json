@@ -3,7 +3,7 @@
  "sym": "IFGLEXPOR",
  "name": "IFGL Refractories Limited",
  "scrip": "540774",
- "mcap_cr": 1286.24,
+ "mcap_cr": 1280.84,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 45,
     "profit": 44,
-    "quality": 56
+    "quality": 77
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 38,
     "profit": 30,
-    "quality": 63
+    "quality": 75
    },
    "capped_by": null
   }
@@ -97,9 +97,43 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 17,
-  "concalls_read": 10,
-  "latest_concall": "2026-08-17"
+  "concalls_found": 18,
+  "concalls_read": 11,
+  "latest_concall": "2026-11-23",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "IFGL Refractories Limited is an Indian multinational company providing refractory solutions for the iron & steel, foundry, cement, lime, and coal gasification industries worldwide.",
+  "segments": [
+   {
+    "name": "Refractories",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure (Net)",
+    "amount_cr": 74.55,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Shareholders' approval for appointment of Mr. M P Bajoria as Additional Director on 24th May 2025 was obtained 4 days subsequent to expiry of stipulated period under Regulation 17(1C) of SEBI LODR Regulations."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Delay in obtaining shareholders' approval for director appointment beyond regulatory timeline",
+   "Concentration of revenue from two external customers contributing more than 10% each at standalone level"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

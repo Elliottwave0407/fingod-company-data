@@ -3,7 +3,7 @@
  "sym": "KARMAENG",
  "name": "Karma Energy Limited",
  "scrip": "533451",
- "mcap_cr": 42.16,
+ "mcap_cr": 40.65,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,38 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Karma Energy Limited generates and sells wind power to state utilities in India.",
+  "segments": [
+   {
+    "name": "Wind Power Generation",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Considerable delay in processing or decision making by state utilities and State Electricity Regulatory Commission and higher judicial authorities resulting in strain on sustainability of small wind farms",
+   "Inordinate delays in adjudication of matters by Electricity Regulatory Commission, Appellate Tribunal for Electricity and High Courts resulting in acute pressure due to huge mismatch in inflow and outflow of funds",
+   "Higher Operation and Maintenance Costs and repairs to wind mills at different sites affecting margins",
+   "Regulatory changes adversely affecting revenues",
+   "Erratic payments from state utilities where the company sells power"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

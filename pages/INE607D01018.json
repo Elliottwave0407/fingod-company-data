@@ -3,7 +3,7 @@
  "sym": "ORIENTBELL",
  "name": "Orient Bell Limited",
  "scrip": "530365",
- "mcap_cr": 533.01,
+ "mcap_cr": 525.34,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 65,
     "profit": 55,
-    "quality": 63
+    "quality": 79
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   },
   {
    "q": "Jun-26",
@@ -66,13 +66,13 @@
    "ebitda": 16.59,
    "pat": 8.32,
    "margin_pct": 8.1,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 93,
     "profit": 83,
-    "quality": 34
+    "quality": 92
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Orient Bell Limited manufactures and sells tiles, leveraging digital tools like InstaLook for visualization and OBL Executive App for sales enablement to differentiate customer experience.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "CENTRUM",
  "name": "Centrum Capital Limited",
  "scrip": "501150",
- "mcap_cr": 998.53,
+ "mcap_cr": 986.07,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,56 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Centrum Capital Limited is a diversified financial services company operating through subsidiaries in investment banking, wealth management, alternatives (Modulus Alternatives), securities broking, and banking (Unity Bank), with a strategic focus on scaling responsibly and sustainably.",
+  "segments": [
+   {
+    "name": "Investment Banking",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Wealth Management",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Alternatives (Modulus Alternatives)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Securities Broking (Centrum Broking Limited)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Banking (Unity Bank)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "SHARP & TANNAN",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical uncertainties",
+   "Changing trade dynamics",
+   "Fluctuating capital flows",
+   "Regulatory and compliance risks across diversified financial services",
+   "Execution risk in scaling diversified businesses",
+   "Technology and digital adoption risks",
+   "Credit and market risks in lending and broking subsidiaries"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

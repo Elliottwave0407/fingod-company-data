@@ -3,7 +3,7 @@
  "sym": "CHEVIOT",
  "name": "Cheviot Company Limited",
  "scrip": "526817",
- "mcap_cr": 619.41,
+ "mcap_cr": 620.99,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 61,
     "profit": 10,
-    "quality": 79
+    "quality": 68
    },
    "capped_by": null
   }
@@ -99,7 +99,49 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Cheviot Company Limited is engaged in the manufacturing and sale of jute goods.",
+  "segments": [
+   {
+    "name": "Within India",
+    "share_of_revenue_pct": 72.7
+   },
+   {
+    "name": "Outside India",
+    "share_of_revenue_pct": 27.3
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company's performance during the current year will depend largely to the extent of availability of the raw jute crop. Albeit, we expect a much better crop compared to the previous season. However, the year is likely to remain challenging, particularly during the months of July and August, when uncertainty regarding raw jute availability may persist. Other income remains uncertain, as it may be influenced by the outcome of West Asia conflict. However, we believe that the overall outlook for the current year would be stable.",
+    "metric": "Overall outlook",
+    "value": "Stable",
+    "by_when": "Current year (FY 2026-27)"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 74.87,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "High raw jute and wage costs affecting pricing competitiveness",
+   "Lack of significant modernization impacting efficiency",
+   "Shift of farmers from raw jute to maize cultivation due to increased global focus on ethanol production",
+   "Supply uncertainties and high jute product prices leading to shift towards alternative packaging materials",
+   "Shortage of workers as labourers find opportunities closer to home regions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

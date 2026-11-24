@@ -3,7 +3,7 @@
  "sym": "LAXMIDENTL",
  "name": "Laxmi Dental Limited",
  "scrip": "544339",
- "mcap_cr": 1031.8,
+ "mcap_cr": 1030.43,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 72,
     "profit": 65,
-    "quality": 87
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 55,
     "profit": 58,
-    "quality": 67
+    "quality": 59
    },
    "capped_by": null
   }
@@ -99,7 +99,38 @@
   ],
   "concalls_found": 8,
   "concalls_read": 8,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Laxmi Dental Limited is an integrated dental products company serving dental professionals across India and international markets with capabilities across dental laboratory offerings, clear aligners, aligner materials and equipment, paediatric dental products and intraoral scanners.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "capital expenditure requirements for purchase of new machinery for our Company",
+    "amount_cr": 43.507,
+    "timeline": ""
+   },
+   {
+    "item": "Investments in Subsidiary, Bizdent Devices Private Limited, for the capital expenditure requirements for the purchase of new machinery",
+    "amount_cr": 25.004,
+    "timeline": ""
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M S K A & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "AARTISURF",
  "name": "Aarti Surfactants Limited",
  "scrip": "543210",
- "mcap_cr": 457.09,
+ "mcap_cr": 450.74,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 35,
     "profit": 4,
-    "quality": 1
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 84,
     "profit": 58,
-    "quality": 62
+    "quality": 82
    },
    "capped_by": null
   }
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Aarti Surfactants Limited manufactures high-performance ionic, non-ionic, and specialty surfactants with a strategic focus on expanding into the high-margin skin care market.",
+  "segments": [
+   {
+    "name": "Domestic",
+    "share_of_revenue_pct": 82
+   },
+   {
+    "name": "International",
+    "share_of_revenue_pct": 18
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

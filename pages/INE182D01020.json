@@ -3,7 +3,7 @@
  "sym": "MARATHON",
  "name": "Marathon Nextgen Realty Limited",
  "scrip": "503101",
- "mcap_cr": 2991.17,
+ "mcap_cr": 2920.69,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 86,
     "profit": 18,
-    "quality": 58
+    "quality": 18
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 88,
     "profit": 67,
-    "quality": 56
+    "quality": 6
    },
-   "capped_by": "profit down YoY"
+   "capped_by": null
   },
   {
    "q": "Sep-26",
@@ -80,11 +80,11 @@
    "ebitda": 45.08,
    "pat": 45.19,
    "margin_pct": 35.0,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 40,
     "profit": 41,
-    "quality": 50
+    "quality": 0
    },
    "capped_by": null
   }
@@ -109,7 +109,48 @@
   "missing": [],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Company is primarily engaged in the activities of Real Estate construction and Development.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Qualified Institutional Placement (QIP)",
+    "amount_cr": 900,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Acquisition of controlling interest in six residential projects at Kanjurmarg",
+    "amount_cr": 840,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Acquisition of 90% stake in Sunset Spaces Private Limited",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions and inherent risks and uncertainties",
+   "Significant risk that assumptions, predictions, and forward-looking statements may not prove accurate",
+   "Impairment assessment of investments in subsidiaries and joint ventures (Rs.48,883.18 lakhs as at March 31, 2026 representing 22.14% of Total assets)",
+   "Timing, quantity and estimation of projected cash flows of real estate projects"
+  ],
+  "dividend_per_share": 1.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "AVONMORE",
  "name": "Avonmore Capital & Management Services  Limited",
  "scrip": "511589",
- "mcap_cr": 322.25,
+ "mcap_cr": 313.51,
  "group": "B",
  "quarters": [
   {
@@ -99,7 +99,50 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Avonmore Capital & Management Services Limited is a holding company with subsidiaries engaged in financial services, securities broking, infrastructure consulting, real estate development, and other diversified businesses.",
+  "segments": [
+   {
+    "name": "Financial Services (Almondz Global Securities, Almondz Finanz)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Infrastructure Consulting (Almondz Global Infra-Consultant)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Real Estate & Development (Premier Green Innovations, Avonmore Developers, Acrokx Reality)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Other Investments & Holdings",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 9,
+  "key_risks": [
+   "Concentration risk in subsidiary Premier Green Innovations contributing majority of consolidated revenue",
+   "Several subsidiaries reporting losses (Avonmore Developers, Red Solutions, Glow Apparels, Acrokx Reality, Apricot Infosoft)",
+   "High finance costs on standalone basis (Rs 526.32 lakhs)",
+   "Declining standalone total income (from Rs 2450.85 lakhs to Rs 1079.82 lakhs)",
+   "Pledged securities with lenders (Bajaj Finance, Axis Bank)"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "ORIENTELEC",
  "name": "Orient Electric Limited",
  "scrip": "541301",
- "mcap_cr": 4292.92,
+ "mcap_cr": 4298.26,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 75.87,
    "pat": 40.28,
    "margin_pct": 8.0,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 45,
     "profit": 41,
-    "quality": 55
+    "quality": 60
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 73,
     "profit": 43,
-    "quality": 67
+    "quality": 76
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 79,
     "profit": 48,
-    "quality": 65
+    "quality": 79
    },
    "capped_by": null
   }
@@ -109,7 +109,52 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-22"
+  "latest_concall": "2026-10-22",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Orient Electric Limited manufactures and sells electrical consumer durables, lighting, and switchgear products primarily in India.",
+  "segments": [
+   {
+    "name": "Electrical Consumer Durables",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Lighting & Switchgear",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure including capital advances - Electrical Consumer Durables",
+    "amount_cr": 24.57,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital Expenditure including capital advances - Lighting & Switchgear",
+    "amount_cr": 2.95,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital Expenditure including capital advances - Other unallocated",
+    "amount_cr": 5.49,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "DMCC",
  "name": "DMCC SPECIALITY CHEMICALS LIMITED",
  "scrip": "506405",
- "mcap_cr": 619.51,
+ "mcap_cr": 614.02,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 70,
     "profit": 17,
-    "quality": 39
+    "quality": 43
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 34.13,
    "pat": 20.4,
    "margin_pct": 13.5,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 45,
-    "quality": 75
+    "quality": 82
    },
    "capped_by": null
   },
@@ -109,7 +109,56 @@
   "missing": [],
   "concalls_found": 6,
   "concalls_read": 6,
-  "latest_concall": "2026-11-20"
+  "latest_concall": "2026-11-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "DMCC Speciality Chemicals Limited is an integrated speciality chemicals manufacturer with expertise across sulphur, boron and ethanol chemistry, catering to industries such as pharmaceuticals, detergents, dyes, pigments, cosmetics, water treatment and industrial applications.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Boric Acid production capacity increase at Dahej plant",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Production line capacity increase at Roha plant",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Waste heat recovery system in oleum section (pinch technology)",
+    "amount_cr": null,
+    "timeline": "Planned"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company carries no major capital expenditure obligations and has the assets, capabilities and capacity to grow as conditions normalise.",
+    "metric": "Capital expenditure",
+    "value": "No major obligations",
+    "by_when": "Ongoing"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Litigations and claims pending with multiple tax authorities (Income Tax, Excise, GST, Customs) and labour law cases, plus litigation filed by Shipping Corporation of India Limited claiming \u20b92.48 crore plus interest."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Commodity price volatility",
+   "Geopolitical events reshaping supply chains",
+   "Uneven demand recovery across regions",
+   "Pending litigations and claims with tax authorities and labour law cases",
+   "Litigation by Shipping Corporation of India Limited claiming \u20b92.48 crore plus interest"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

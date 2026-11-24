@@ -3,7 +3,7 @@
  "sym": "BTML",
  "name": "Bodhi Tree Multimedia Limited",
  "scrip": "543767",
- "mcap_cr": 110.11,
+ "mcap_cr": 109.38,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 24,
     "profit": 67,
-    "quality": 33
+    "quality": 51
    },
    "capped_by": null
   },
@@ -99,7 +99,56 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2026-06-12"
+  "latest_concall": "2026-06-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bodhi Tree Multimedia Limited is a content creation and production company for television, OTT platforms, and digital distribution across 100+ countries.",
+  "segments": [
+   {
+    "name": "Television production",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "OTT and digital content",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Regional expansion",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Proprietary IP development",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/S Anil A. Masand & Co, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 8,
+  "key_risks": [
+   "changes in economic conditions",
+   "industry dynamics",
+   "consumer preferences",
+   "competition",
+   "content demand",
+   "talent costs",
+   "technological developments",
+   "regulatory and taxation policies",
+   "intellectual property risks",
+   "platform strategies",
+   "foreign exchange movements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

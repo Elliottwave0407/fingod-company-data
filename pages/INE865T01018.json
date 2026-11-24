@@ -3,7 +3,7 @@
  "sym": "PDMJEPAPER",
  "name": "Pudumjee Paper Products Limited",
  "scrip": "539785",
- "mcap_cr": 824.74,
+ "mcap_cr": 821.98,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 59,
     "profit": 85,
-    "quality": 40
+    "quality": 36
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 35.58,
    "pat": 33.72,
    "margin_pct": 17.5,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 33,
     "profit": 50,
-    "quality": 60
+    "quality": 17
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 42,
     "profit": 44,
-    "quality": 75
+    "quality": 71
    },
    "capped_by": null
   }
@@ -109,7 +109,34 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Pudumjee Paper Products Limited is engaged in the manufacturing and sale of paper products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "SIUT & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Intercorporate Loans - outstanding balance of Rs 9.45 crores as of March 31, 2026 (original disbursed principal: Rs 20 crores) from an unlisted corporate entity at 15% p.a. interest, secured by charge over specific real estate premises. Frequent maturity extensions (latest up to June 30, 2026), persistent interest servicing delays (normal interest outstanding Rs 1.08 crores since July 2025), and management's decision not to levy/recognise penal interest of 2% per month on delayed payments. Management classified loan as not SICR but 'considered good' with nil ECL provision based on collateral sufficiency."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Intercorporate loan recoverability risk with frequent maturity extensions and interest servicing delays",
+   "Credit risk evaluation and expected credit loss provisioning uncertainty",
+   "Global trade policy uncertainty and tariff shocks",
+   "Currency volatility (rupee depreciation of 9.88% in FY26)",
+   "Elevated energy prices and subsidy pressures on government spending",
+   "Uncertainty in global demand"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

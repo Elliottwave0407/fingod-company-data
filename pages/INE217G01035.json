@@ -3,7 +3,7 @@
  "sym": "EQUIPPP",
  "name": "Equippp Social Impact Technologies Limited",
  "scrip": "590057",
- "mcap_cr": 220.83,
+ "mcap_cr": 219.59,
  "group": "T",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 1.49,
    "pat": 0.97,
    "margin_pct": 12.0,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 50,
     "profit": 10,
-    "quality": 29
+    "quality": 0
    },
    "capped_by": null
   },
@@ -95,7 +95,42 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "EQUIPPP Social Impact Technologies Limited is a technology-led company focused on enabling cross-sector collaboration between governments, enterprises, social enterprises, non-profit organisations, CSR institutions, investors and other stakeholders through digital platforms, social-tech professionals and an impact assessment marketplace.",
+  "segments": [
+   {
+    "name": "PPP & Cross Sector Collaboration Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "GCC & Talent Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Tech for Good",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Balaramakrishna & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 87.35,
+  "promoter_pledge_pct": null,
+  "employees": 14,
+  "subsidiaries_count": 7,
+  "key_risks": [
+   "Technology consumption patterns can vary across periods, influenced by changes in economic conditions, the regulatory and policy environment, geopolitical developments, and the pace of technological innovation."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

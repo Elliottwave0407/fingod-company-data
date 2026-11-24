@@ -3,7 +3,7 @@
  "sym": "MANCREDIT",
  "name": "Mangal Credit and Fincorp Limited",
  "scrip": "505850",
- "mcap_cr": 545.37,
+ "mcap_cr": 544.53,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 17.33,
    "pat": 5.48,
    "margin_pct": 81.4,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 100,
     "profit": 100,
-    "quality": 51
+    "quality": 100
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 18.18,
    "pat": 5.69,
    "margin_pct": 82.0,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 97,
     "profit": 100,
-    "quality": 51
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Mangal Credit and Fincorp Limited operates a Gold Loan business offering customers a simple way to unlock the value of their gold assets with quick disbursal, minimal documentation, competitive interest rates, and flexible repayment options.",
+  "segments": [
+   {
+    "name": "Gold Loan",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/S. Bhagwagar Dalal & Doshi, Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 55.25,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 0.75
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

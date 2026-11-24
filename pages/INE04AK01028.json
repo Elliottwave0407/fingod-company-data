@@ -3,7 +3,7 @@
  "sym": "SBC",
  "name": "SBC Exports Limited",
  "scrip": "542725",
- "mcap_cr": 3266.19,
+ "mcap_cr": 3240.0,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 5.91,
    "pat": 8.22,
    "margin_pct": 4.2,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 81,
     "profit": 29,
-    "quality": 80
+    "quality": 64
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 73,
-    "quality": 86
+    "quality": 89
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 14.82,
    "pat": 11.38,
    "margin_pct": 9.0,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 94,
     "profit": 7,
-    "quality": 52
+    "quality": 13
    },
    "capped_by": null
   }
@@ -109,7 +109,32 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SBC Exports Limited operates through its wholly owned subsidiary Mauji Trip Limited, which provides comprehensive travel and tourism solutions including leisure travel, corporate travel, specialized travel services, and travel advisory.",
+  "segments": [
+   {
+    "name": "Travel and Tourism Services (via Mauji Trip Limited)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Kumar Mandal & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

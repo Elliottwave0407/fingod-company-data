@@ -3,7 +3,7 @@
  "sym": "MUNJALAU",
  "name": "Munjal Auto Industries Limited",
  "scrip": "520059",
- "mcap_cr": 938.6,
+ "mcap_cr": 916.2,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 30,
     "profit": 2,
-    "quality": 0
+    "quality": 4
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 66,
     "profit": 19,
-    "quality": 59
+    "quality": 53
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Munjal Auto Industries Limited is an Indian listed company engaged in manufacturing auto components, as indicated by its name and industrial relations at its manufacturing units.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Devesh Pathak & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Delay in re-filing Annual Secretarial Compliance Report (ASCR) in XBRL form for year ended March 31, 2025 due to original filing not appearing on BSE portal"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

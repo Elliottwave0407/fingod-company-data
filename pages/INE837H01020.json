@@ -3,7 +3,7 @@
  "sym": "ADVENZYMES",
  "name": "Advanced Enzyme Technologies Limited",
  "scrip": "540025",
- "mcap_cr": 3261.87,
+ "mcap_cr": 3161.09,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 73,
     "profit": 89,
-    "quality": 85
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 23,
     "profit": 20,
-    "quality": 49
+    "quality": 21
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 57,
     "profit": 63,
-    "quality": 59
+    "quality": 42
    },
    "capped_by": null
   }
@@ -109,7 +109,44 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Advanced Enzyme Technologies Limited is a research-driven, integrated leader in the development, manufacturing and marketing of proprietary enzyme products and probiotics with a strong global presence.",
+  "segments": [
+   {
+    "name": "Human Nutrition",
+    "share_of_revenue_pct": 63
+   },
+   {
+    "name": "Animal Nutrition",
+    "share_of_revenue_pct": 13
+   },
+   {
+    "name": "Industrial Bio-Processing",
+    "share_of_revenue_pct": 16
+   },
+   {
+    "name": "Specialised Manufacturing",
+    "share_of_revenue_pct": 8
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

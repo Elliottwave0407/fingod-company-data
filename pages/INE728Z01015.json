@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 96,
     "profit": 97,
-    "quality": 50
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 64,
     "profit": 51,
-    "quality": 17
+    "quality": 33
    },
    "capped_by": null
   }
@@ -99,7 +99,32 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SoftTech Engineers Limited is in the business of software development, sale of software products and software as a service.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 18.88,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 2,
+  "key_risks": [
+   "Quarterly returns/statements filed with banks not in agreement with unaudited books of account",
+   "Delay in compliance with SEBI LODR regulations resulting in fines",
+   "Foreign exchange risk",
+   "Inventory of software licenses remaining unsold"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "PENIND",
  "name": "Pennar Industries Limited",
  "scrip": "513228",
- "mcap_cr": 2232.98,
+ "mcap_cr": 2265.5,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 40,
     "profit": 54,
-    "quality": 33
+    "quality": 48
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 34,
     "profit": 46,
-    "quality": 29
+    "quality": 44
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 12,
   "concalls_read": 10,
-  "latest_concall": "2026-11-20"
+  "latest_concall": "2026-11-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Pennar Industries Limited is an Indian engineering company engaged in manufacturing and selling engineered steel products, precision tubes, cold rolled steel strips, and other industrial components across diverse end markets.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M S K A & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 42.99,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

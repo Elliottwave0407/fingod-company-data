@@ -3,7 +3,7 @@
  "sym": "DIGIDRIVE",
  "name": "Digidrive Distributors Limited",
  "scrip": "544079",
- "mcap_cr": 68.45,
+ "mcap_cr": 65.21,
  "group": "B",
  "quarters": [
   {
@@ -105,7 +105,40 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Digidrive Distributors Limited operates a technology-enabled digital distribution platform for consumer products, including the Carvaan music player, across e-commerce marketplaces.",
+  "segments": [
+   {
+    "name": "Trading Business",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Digital Marketplace and Distribution Solutions",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Customisable Storefront Solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

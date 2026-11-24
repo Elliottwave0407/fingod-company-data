@@ -3,7 +3,7 @@
  "sym": "WINDLAS",
  "name": "Windlas Biotech Limited",
  "scrip": "543329",
- "mcap_cr": 2034.99,
+ "mcap_cr": 1992.77,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 40,
     "profit": 19,
-    "quality": 39
+    "quality": 23
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 41,
     "profit": 21,
-    "quality": 43
+    "quality": 24
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-13"
+  "latest_concall": "2026-11-13",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Windlas Biotech Limited is one of India's leading generic formulations CDMO partners, serving 926 CDMO customers with a portfolio of over 4,393 complex generic products across 10 countries through five WHO-GMP compliant manufacturing facilities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s J C Bhalla & Co., Chartered Accountants (Firm Registration Number: 001111N)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

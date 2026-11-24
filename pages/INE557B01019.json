@@ -3,7 +3,7 @@
  "sym": "LIBERTSHOE",
  "name": "Liberty Shoes Limited",
  "scrip": "526596",
- "mcap_cr": 413.82,
+ "mcap_cr": 393.2,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 28,
     "profit": 8,
-    "quality": 10
+    "quality": 27
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 13.36,
    "pat": 0.68,
    "margin_pct": 7.9,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 17,
     "profit": 23,
-    "quality": 0
+    "quality": 10
    },
    "capped_by": null
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Liberty Shoes Ltd manufactures and retails footwear in India through diversified product portfolio, retail network, digital channels and institutional business.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure (excluding leasehold rights)",
+    "amount_cr": 20.95,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Leasehold rights recognised under Ind AS 116",
+    "amount_cr": 25.99,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Pardeep Tayal & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 59.1,
+  "promoter_pledge_pct": 0.15,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Raw Material Risk: Volatility in prices of leather, synthetic materials, rubber, EVA, chemicals and other inputs may affect margins.",
+   "Demand Risk: Changes in consumer sentiment, inflation and discretionary spending can affect demand, particularly in price-sensitive segments.",
+   "Competition Risk: Increasing competition from organised domestic brands, international brands, private labels and digital-first players may exert pressure on market share and margins.",
+   "Regulatory Risk: Changes in BIS standards, quality control requirements, environmental regulations, labour regulations and other statutory requirements may increase compliance costs.",
+   "Foreign Exchange Risk: Changes in foreign exchange rates may affect the Company's export revenues, imported inputs and overall competitiveness.",
+   "Trade Risk: Changes in tariff policies, FTAs, rules of origin and geopolitical developments may affect international trade.",
+   "Inventory Risk: Rapid changes in fashion and consumer preferences can lead to shorter product life cycles and inventory obsolescence.",
+   "Sustainability Risk: Increasing environmental expectations and regulatory requirements may require investment in sustainable materials and processes.",
+   "Technology and Cyber Risk: Increasing dependence on digital commerce, technology and data systems exposes businesses to cybersecurity and technology-related risks."
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

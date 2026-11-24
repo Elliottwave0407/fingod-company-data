@@ -3,7 +3,7 @@
  "sym": "PRAENG",
  "name": "Prajay Engineers Syndicate Limited",
  "scrip": "531746",
- "mcap_cr": 122.39,
+ "mcap_cr": 116.72,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -8.22,
    "pat": -8.06,
    "margin_pct": -115.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -93,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -3.0,
    "pat": -2.57,
    "margin_pct": -61.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -49,
+    "quality": 0
+   },
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -91,7 +99,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Prajay Engineers Syndicate Limited is engaged in construction and development of property and hospitality (hotels & resorts) in India.",
+  "segments": [
+   {
+    "name": "Construction and Development of Property",
+    "share_of_revenue_pct": 47.41
+   },
+   {
+    "name": "Hospitality - Hotels & Resorts",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 29.1673,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matters: (a) NCLT mediation and settlement with Investor Entities; (b) Arbitration with Government of Telangana over lease agreements; (c) Trade receivables of Rs.6336.11 lakhs outstanding >6 months with provision of Rs.1246.96 lakhs and write-off of Rs.947.81 lakhs; (d) Loans & Advances of Rs.5260.59 lakhs for land/development and Rs.437.63 lakhs to suppliers with provision of Rs.700 lakhs."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Market risk, credit risk, liquidity risk",
+   "Uncertain realization of long-outstanding trade receivables (Rs.6336.11 lakhs)",
+   "Uncertain realization of loans & advances for land/development (Rs.5260.59 lakhs)",
+   "Ongoing arbitration with Government of Telangana",
+   "Past NCLT proceedings with investor entities (now settled)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

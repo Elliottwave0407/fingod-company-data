@@ -3,7 +3,7 @@
  "sym": "SAMBHAAV",
  "name": "Sambhaav Media Limited",
  "scrip": "511630",
- "mcap_cr": 105.49,
+ "mcap_cr": 107.6,
  "group": "B",
  "quarters": [
   {
@@ -72,11 +72,11 @@
    "ebitda": 1.41,
    "pat": -0.25,
    "margin_pct": 12.8,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 24,
     "profit": 10,
-    "quality": 0
+    "quality": 51
    },
    "capped_by": null
   }
@@ -101,7 +101,48 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sambhaav Media Limited is a Gujarat-based media house operating across print (newspaper and magazine), FM radio, television channel marketing rights, in-transit media, online portals, social media, and mobile applications.",
+  "segments": [
+   {
+    "name": "Print Publication",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "FM Radio",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Television Channel Marketing Rights",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "In Transit Media",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Digital Media (Online Portals, Social Media, Mobile Applications)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

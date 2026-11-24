@@ -3,7 +3,7 @@
  "sym": "BIRLACABLE",
  "name": "Birla Cable Limited",
  "scrip": "500060",
- "mcap_cr": 885.75,
+ "mcap_cr": 843.6,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 20.25,
    "pat": 10.8,
    "margin_pct": 9.5,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 91,
     "profit": 82,
-    "quality": 69
+    "quality": 95
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 96,
     "profit": 94,
-    "quality": 81
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,48 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Birla Cable Limited manufactures telecommunication cables, primarily optical fibre cables, and operates in the telecom sector.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "V. Sankar Aiyar & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 280,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Non-availability of low-cost financing",
+   "Logistical bottlenecks",
+   "Policy uncertainties",
+   "Taxation issues",
+   "Shortage of skilled manpower",
+   "Foreign exchange fluctuations",
+   "High workforce turnover",
+   "Adverse movements in raw material prices",
+   "Warranty and security obligations",
+   "Working capital management",
+   "Interest rate fluctuations",
+   "Contingent liabilities",
+   "Technological obsolescence of copper cables",
+   "Cut-throat competition and margin pressure",
+   "Inferior technology products affecting network standards",
+   "Low capacity utilization",
+   "Un-remunerative prices",
+   "Highly concentrated customer base",
+   "Shorter delivery schedules and liquidated damages",
+   "Credit risk from customer financial decline"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

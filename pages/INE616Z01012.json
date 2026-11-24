@@ -3,7 +3,7 @@
  "sym": "YASHO",
  "name": "Yasho Industries Limited",
  "scrip": "541167",
- "mcap_cr": 4222.21,
+ "mcap_cr": 4093.75,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 80,
     "profit": 46,
-    "quality": 50
+    "quality": 84
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 73.1,
    "pat": 36.05,
    "margin_pct": 23.8,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 98,
     "profit": 99,
-    "quality": 66
+    "quality": 100
    },
    "capped_by": null
   },
@@ -84,9 +84,9 @@
    "pillars": {
     "growth": 100,
     "profit": 76,
-    "quality": 64
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "margin down over 1 pt QoQ"
   }
  ],
  "completeness": {
@@ -109,7 +109,60 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-03"
+  "latest_concall": "2026-11-03",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Yasho Industries Limited is a specialty chemicals company with a consumer division and industrial business, engaged in manufacturing, R&D, and export of chemical products.",
+  "segments": [
+   {
+    "name": "Industrial Business",
+    "share_of_revenue_pct": 87
+   },
+   {
+    "name": "Consumer Division",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Two new manufacturing lines commercialised",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "R&D laboratory at Pakhajan facility",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "With improving market conditions, progressive ramp-up of recently expanded capacities, continued focus on differentiated products and export-led growth, the Company expects a gradual improvement in productivity and profitability going forward.",
+    "metric": "Productivity and profitability",
+    "value": "Gradual improvement",
+    "by_when": "Going forward"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Aneja Assurance Private Limited",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Valuation of Inventory"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical uncertainties",
+   "Trade restrictions",
+   "Pricing pressures",
+   "Shifting demand patterns",
+   "Inventory valuation judgment (NRV, slow-moving, obsolete inventory)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

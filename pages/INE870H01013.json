@@ -3,7 +3,7 @@
  "sym": "NETWORK18",
  "name": "Network18 Media & Investments Limited",
  "scrip": "532798",
- "mcap_cr": 3927.47,
+ "mcap_cr": 3853.46,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 71,
     "profit": 48,
-    "quality": 0
+    "quality": 45
    },
    "capped_by": "net loss"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 41,
     "profit": 69,
-    "quality": 86
+    "quality": 65
    },
    "capped_by": null
   }
@@ -109,7 +109,50 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Network18 Media & Investments Limited operates a diversified media ecosystem spanning television channels, digital destinations, and strategic stakes in media ventures across genres, languages, and platforms in India.",
+  "segments": [
+   {
+    "name": "Advertisement and Subscription Revenue",
+    "share_of_revenue_pct": 97.8
+   },
+   {
+    "name": "Sale of Products",
+    "share_of_revenue_pct": 0.1
+   },
+   {
+    "name": "Other Operating Revenue",
+    "share_of_revenue_pct": 2.1
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 13.03,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Pramod Chauhan & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to inherent risks and uncertainties",
+   "Assumptions, predictions, and forward-looking statements may not prove accurate",
+   "Several factors could cause actual results to differ materially from forward-looking statements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

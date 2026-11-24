@@ -3,7 +3,7 @@
  "sym": "URAVIDEF",
  "name": "Uravi Defence and Technology Limited",
  "scrip": "543930",
- "mcap_cr": 114.23,
+ "mcap_cr": 112.86,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 15,
     "profit": 5,
-    "quality": 88
+    "quality": 67
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2024-11-26"
+  "latest_concall": "2024-11-26",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Uravi Defence and Technology Limited (formerly Uravi T & Wedge Lamps Limited) is engaged in manufacturing and trading activities, with investments in subsidiaries and associates.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Qualified opinion on Consolidated Financial Statements due to recognition of Group's share of profit of \u20b972.05 Lakhs in associate Spafax International Holding Limited based on unaudited financial information"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

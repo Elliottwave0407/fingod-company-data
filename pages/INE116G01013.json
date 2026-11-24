@@ -81,7 +81,7 @@
    "pillars": {
     "growth": 85,
     "profit": 84,
-    "quality": 100
+    "quality": 85
    },
    "capped_by": "margin down over 1 pt QoQ"
   }
@@ -106,7 +106,38 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vardhman Acrylics Ltd. manufactures and sells acrylic fiber.",
+  "segments": [
+   {
+    "name": "Acrylic Fiber",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Ashok K Singla & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 318,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Global acrylic fiber industry overcapacity hurting margins",
+   "Dumping of acrylic fiber in India from few countries",
+   "Dependence on imports for Acrylonitrile (primary raw material) affected by crude oil prices and exchange rate variations",
+   "Geopolitical concerns and trade disruptions (US-Iran-Israel war) causing supply chain disruptions and price volatility",
+   "Shift in consumer preferences towards alternative fibers"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KSCL",
  "name": "Kaveri Seed Company Limited",
  "scrip": "532899",
- "mcap_cr": 3644.46,
+ "mcap_cr": 3585.56,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -16.23,
    "pat": -27.81,
    "margin_pct": -15.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 58,
+    "profit": 51,
+    "quality": 32
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,7 +70,7 @@
    "pillars": {
     "growth": 14,
     "profit": 54,
-    "quality": 56
+    "quality": 24
    },
    "capped_by": null
   },
@@ -80,9 +84,9 @@
    "pillars": {
     "growth": 45,
     "profit": 63,
-    "quality": 0
+    "quality": 86
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -105,7 +109,44 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 8,
-  "latest_concall": "2026-11-02"
+  "latest_concall": "2026-11-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Kaveri Seed Company Limited is engaged in the production, processing, and sale of hybrid seeds and agricultural inputs.",
+  "segments": [
+   {
+    "name": "Seeds",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 149.4,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 1452,
+  "subsidiaries_count": 6,
+  "key_risks": [
+   "Weather-related uncertainties",
+   "Fluctuations in input costs",
+   "Regulatory changes",
+   "Management estimate of provision for sales return and discount & schemes",
+   "Valuation and classification of investments"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

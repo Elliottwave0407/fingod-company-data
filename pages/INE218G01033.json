@@ -3,7 +3,7 @@
  "sym": "PALREDTEC",
  "name": "Palred Technologies Limited",
  "scrip": "532521",
- "mcap_cr": 56.26,
+ "mcap_cr": 53.46,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -1.25,
    "pat": -1.23,
    "margin_pct": -5.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 66,
+    "profit": 75,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -0.59,
    "pat": -1.37,
    "margin_pct": -2.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 100,
+    "profit": 78,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -91,7 +99,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Palred Technologies Limited is a listed company with key intangible assets including brands PALRED, PTRON, #BELOUDBEPROUD, DaZon, Xmate and LATESTONE, and has subsidiaries including Palred Electronics Private Limited.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 29.82,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Impairment of investments in subsidiaries",
+   "Estimation uncertainty in valuation of investments",
+   "Dependence on key intangible assets/brands"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

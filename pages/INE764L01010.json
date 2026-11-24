@@ -3,7 +3,7 @@
  "sym": "SADBHIN",
  "name": "Sadbhav Infrastructure Project Limited",
  "scrip": "539346",
- "mcap_cr": 103.2,
+ "mcap_cr": 100.03,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 63,
     "profit": 100,
-    "quality": 53
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -66,11 +66,11 @@
    "ebitda": 136.84,
    "pat": 52.95,
    "margin_pct": 68.3,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 36,
     "profit": 40,
-    "quality": 57
+    "quality": 100
    },
    "capped_by": null
   }
@@ -99,7 +99,51 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sadbhav Infrastructure Project Limited is an infrastructure developer specializing in construction and management of roadways and highways through BOT and HAM models with in-house O&M capabilities.",
+  "segments": [
+   {
+    "name": "Toll / check post operation services",
+    "share_of_revenue_pct": 96.4
+   },
+   {
+    "name": "Construction services",
+    "share_of_revenue_pct": 3.0
+   },
+   {
+    "name": "Other operating revenue",
+    "share_of_revenue_pct": 0.6
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. S G D G & Associates LLP",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion on standalone financial statements due to inability to corroborate carrying value of investments/loans/advances to Rohtak Panipat Tollway and Rohtak Hissar Tollway subsidiaries aggregating INR 8,043.91 million; Emphasis of Matter on trade payables under evaluation; Material uncertainty related to going concern due to significant reduction in revenue and substantial losses."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Traffic and revenue underperformance",
+   "Construction disputes",
+   "Delayed annuity payments",
+   "Land acquisition issues",
+   "Refinancing pressure",
+   "Concession-related disputes",
+   "Extreme weather events",
+   "Bureaucratic hurdles and litigation",
+   "Material uncertainty related to going concern",
+   "Impairment risk on investments in terminated subsidiaries"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

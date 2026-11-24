@@ -3,7 +3,7 @@
  "sym": "DAMCAPITAL",
  "name": "Dam Capital Advisors Limited",
  "scrip": "544316",
- "mcap_cr": 1025.65,
+ "mcap_cr": 1003.74,
  "group": "B",
  "quarters": [
   {
@@ -95,7 +95,54 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "DAM Capital Advisors Limited is a leading Indian full-service investment bank providing integrated capital market solutions and advisory services spanning equity capital markets, institutional equities, mergers & acquisitions, private equity advisory, and structured finance.",
+  "segments": [
+   {
+    "name": "Stock Broking (Institutional Equities)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Investment Banking (Merchant Banking)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Stock Broking capital expenditure (including CWIP)",
+    "amount_cr": 10.18,
+    "timeline": "FY26"
+   },
+   {
+    "item": "Investment Banking capital expenditure (including CWIP)",
+    "amount_cr": 7.88,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 130,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Forward-looking statements subject to assumptions, risks and uncertainties; actual results may differ materially",
+   "Regulatory and compliance risks in capital markets and securities regulations",
+   "Market volatility and cyclicality affecting ECM, M&A and broking activity",
+   "Concentration risk in deal-based revenue model",
+   "Technology and cyber security risks in digital platforms",
+   "Talent retention and key person risk in advisory business"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "IFBIND",
  "name": "IFB Industries Limited",
  "scrip": "505726",
- "mcap_cr": 4517.44,
+ "mcap_cr": 4460.71,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 58,
     "profit": 42,
-    "quality": 71
+    "quality": 79
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 71,
     "profit": 45,
-    "quality": 65
+    "quality": 75
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 34,
     "profit": 20,
-    "quality": 13
+    "quality": 14
    },
    "capped_by": null
   }
@@ -109,7 +109,50 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "IFB Industries Ltd. is primarily engaged in the business of home appliances, engineering (fine blanked components and stamping), motor and steel.",
+  "segments": [
+   {
+    "name": "Home Appliances",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Engineering (Fine Blanked Components and Stamping)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Motor",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Steel",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 124.59,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

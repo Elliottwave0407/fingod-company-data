@@ -3,7 +3,7 @@
  "sym": "BANSWRAS",
  "name": "Banswara Syntex Limited",
  "scrip": "503722",
- "mcap_cr": 346.6,
+ "mcap_cr": 337.19,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 58,
     "profit": 58,
-    "quality": 53
+    "quality": 79
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 22.17,
    "pat": 4.61,
    "margin_pct": 7.0,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 49,
     "profit": 50,
-    "quality": 0
+    "quality": 51
    },
    "capped_by": null
   }
@@ -99,7 +99,58 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Banswara Syntex Limited manufactures and sells textile products including yarn, fabric, and garments, and provides job work services.",
+  "segments": [
+   {
+    "name": "Sale of goods",
+    "share_of_revenue_pct": 99.6
+   },
+   {
+    "name": "Job Work Income",
+    "share_of_revenue_pct": 0.4
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure contracted but not recognised as liabilities",
+    "amount_cr": 28.96,
+    "timeline": "As at 31 March 2026"
+   },
+   {
+    "item": "Future Export obligation against EPCG licenses",
+    "amount_cr": 165.48,
+    "timeline": "As at 31 March 2026"
+   },
+   {
+    "item": "Capital Work in Progress additions during FY 2025-26",
+    "amount_cr": 97.52,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "K G Somani & Co LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Inventory valuation and provision for obsolescence of slow and non-moving inventory requires significant judgment and estimates",
+   "Dependence on global textile demand and trade dynamics",
+   "Fluctuations in raw material prices, particularly cotton",
+   "Regulatory changes including Quality Control Orders and GST rationalization",
+   "Sustainability and circular economy compliance requirements"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

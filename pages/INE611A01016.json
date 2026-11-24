@@ -3,7 +3,7 @@
  "sym": "RSWM",
  "name": "RSWM Limited",
  "scrip": "500350",
- "mcap_cr": 921.31,
+ "mcap_cr": 909.06,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 20,
     "profit": 41,
-    "quality": 52
+    "quality": 70
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 45,
     "profit": 54,
-    "quality": 50
+    "quality": 76
    },
    "capped_by": "revenue down YoY"
   }
@@ -99,7 +99,68 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "RSWM Limited is a textile manufacturing company producing yarn and fabric with operations in India and exports to global markets.",
+  "segments": [
+   {
+    "name": "Yarn",
+    "share_of_revenue_pct": 76.4
+   },
+   {
+    "name": "Fabric",
+    "share_of_revenue_pct": 23.6
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Knit business expansion including printing facility",
+    "amount_cr": 92,
+    "timeline": "FY26"
+   },
+   {
+    "item": "Behind the meter 9.6 MW solar power facility",
+    "amount_cr": 25,
+    "timeline": "FY26"
+   },
+   {
+    "item": "Power supply agreement with Adani Green Energy Limited and subsidiaries",
+    "amount_cr": 60,
+    "timeline": "FY26"
+   },
+   {
+    "item": "Modernization capex across various units",
+    "amount_cr": 53.28,
+    "timeline": "Previous year, ongoing in FY26"
+   },
+   {
+    "item": "Capital expenditure in Jammu & Kashmir",
+    "amount_cr": 740,
+    "timeline": "Planned, non-viable"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 55.69,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Geopolitical risks including Ukraine-Russia war and US-Iran conflict",
+   "High tariffs imposed by USA (50% in August 2026) impacting exports",
+   "Recessionary conditions in Europe",
+   "Operational inefficiency in spinning division at Chhata units",
+   "Non-viability of planned capex in Jammu & Kashmir"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

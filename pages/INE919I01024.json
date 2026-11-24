@@ -3,7 +3,7 @@
  "sym": "RADIOCITY",
  "name": "Music Broadcast Limited",
  "scrip": "540366",
- "mcap_cr": 194.28,
+ "mcap_cr": 198.08,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -47.48,
    "pat": -47.96,
    "margin_pct": -116.4,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 4,
+    "profit": -93,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -105,7 +109,58 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-30"
+  "latest_concall": "2026-10-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Music Broadcast Limited operates Radio City, India's leading private FM radio network with 39 stations across 12 states, offering integrated audio advertising solutions across on-air, digital, on-ground, and experiential platforms.",
+  "segments": [
+   {
+    "name": "Radio Broadcasting (FM)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Digital Channels (social media, website, influencers, third-party tie-ups)",
+    "share_of_revenue_pct": 7
+   },
+   {
+    "name": "Satellite Locations",
+    "share_of_revenue_pct": 6
+   },
+   {
+    "name": "International and National IPs, Big-ticket Campaigns, CI, Local and Regional Initiatives, Festive Campaigns",
+    "share_of_revenue_pct": 11
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Radio industry revenues expected to remain largely flat in the near term and potentially decline to Rs 2,200 crore by 2028 if structural challenges persist.",
+    "metric": "Radio Industry Revenue",
+    "value": "2200 crore",
+    "by_when": "2028"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Structural decline in radio advertising revenue due to shift to digital audio platforms and streaming",
+   "Lower ad yields (down 9%) and transition of inventory from high-yield metro markets to smaller towns",
+   "Shutdown of private FM stations due to financial unviability",
+   "High license fees and fixed cost structure impacting profitability",
+   "Impairment losses on non-financial and financial assets",
+   "Dependence on advertising revenue with cyclical and seasonal fluctuations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

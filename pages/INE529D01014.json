@@ -3,7 +3,7 @@
  "sym": "PATINTLOG",
  "name": "Patel Integrated Logistics Limited",
  "scrip": "526381",
- "mcap_cr": 78.05,
+ "mcap_cr": 76.7,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 3.69,
    "pat": 2.98,
    "margin_pct": 3.8,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 73,
     "profit": 49,
-    "quality": 92
+    "quality": 76
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 81,
     "profit": 31,
-    "quality": 97
+    "quality": 68
    },
    "capped_by": null
   }
@@ -99,7 +99,44 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-05-14"
+  "latest_concall": "2026-05-14",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Patel Integrated Logistics Limited provides co-loading of air freight and other logistics services.",
+  "segments": [
+   {
+    "name": "Co-loading of Air Freight",
+    "share_of_revenue_pct": 99.0
+   },
+   {
+    "name": "Others",
+    "share_of_revenue_pct": 1.0
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 1.36,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Disputed claims against the company under various non-tax matters pending at various courts/forums"
+  ],
+  "dividend_per_share": 0.2
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

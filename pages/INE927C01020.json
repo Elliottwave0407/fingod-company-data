@@ -3,7 +3,7 @@
  "sym": "DIGISPICE",
  "name": "DiGiSPICE Technologies Limited",
  "scrip": "517214",
- "mcap_cr": 359.05,
+ "mcap_cr": 339.88,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 6.49,
    "pat": 6.6,
    "margin_pct": 6.0,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 21,
     "profit": 45,
-    "quality": 48
+    "quality": 27
    },
    "capped_by": null
   }
@@ -99,7 +99,29 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Company is not engaged in any business.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment assessment of its investment in subsidiaries and associates"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

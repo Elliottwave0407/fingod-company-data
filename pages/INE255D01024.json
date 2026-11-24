@@ -3,7 +3,7 @@
  "sym": "GULPOLY",
  "name": "Gulshan Polyols Limited",
  "scrip": "532457",
- "mcap_cr": 962.38,
+ "mcap_cr": 948.03,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 68,
     "profit": 90,
-    "quality": 72
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 69,
     "profit": 91,
-    "quality": 78
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 7,
   "concalls_read": 6,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gulshan Polyols Limited is engaged in the manufacturing and sale of polyols and related chemical products.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "TVA & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [],
+  "dividend_per_share": 1.5
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

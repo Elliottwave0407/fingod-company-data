@@ -3,7 +3,7 @@
  "sym": "AXITA",
  "name": "Axita Cotton Limited",
  "scrip": "542285",
- "mcap_cr": 275.14,
+ "mcap_cr": 274.38,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -4.16,
    "pat": -2.34,
    "margin_pct": -6.8,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -5,
+    "quality": 7
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -80,7 +84,7 @@
    "pillars": {
     "growth": 69,
     "profit": 88,
-    "quality": 92
+    "quality": 100
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -105,7 +109,43 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Axita Cotton Limited is principally engaged in the manufacturing of cotton bales and in the trading and export of raw cotton bales, cotton yarn, cotton seeds and other agricultural commodities.",
+  "segments": [
+   {
+    "name": "Cotton",
+    "share_of_revenue_pct": 85
+   },
+   {
+    "name": "Other agricultural commodities (sesame seeds, groundnut oil, cotton seed, gold, copper)",
+    "share_of_revenue_pct": 15
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Premnarayan",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "cotton-price volatility",
+   "crop conditions",
+   "international demand",
+   "freight costs",
+   "trade policy",
+   "competition from other textile-producing countries"
+  ],
+  "dividend_per_share": 0.05
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

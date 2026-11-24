@@ -88,7 +88,44 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Uniinfo Telecom Services Limited provides contractual technical services relating to installation, testing, and commissioning for clients in telecom, EV charging infrastructure development, and e-surveillance.",
+  "segments": [
+   {
+    "name": "Telecom services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "EV charging infrastructure development",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "E-surveillance",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Accuracy of revenue recognition and estimation of work-in-progress in respect of onerous obligations on service contracts involves significant judgment",
+   "High inherent uncertainties in estimating work-in-progress under various contracts",
+   "Significant judgment required in estimating cost to complete and amount of variation orders to be recognized"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

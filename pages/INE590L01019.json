@@ -3,7 +3,7 @@
  "sym": "VASWANI",
  "name": "Vaswani Industries Limited",
  "scrip": "533576",
- "mcap_cr": 144.96,
+ "mcap_cr": 140.02,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 20.69,
    "pat": 5.39,
    "margin_pct": 14.4,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 83,
     "profit": 92,
-    "quality": 50
+    "quality": 83
    },
    "capped_by": null
   },
@@ -99,7 +99,61 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vaswani Industries Limited is engaged in the manufacturing of steel products including sponge iron and billets, and operates a solar power generation portfolio.",
+  "segments": [
+   {
+    "name": "Steel Manufacturing (Sponge Iron & Billets)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Renewable Energy (Solar Power)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Billet manufacturing capacity expansion from 66,000 MT to 1,50,000 MT per annum",
+    "amount_cr": null,
+    "timeline": "Completed in June 2025"
+   },
+   {
+    "item": "Solar power capacity of 66.25 MWp (16.25 MWp at Gandai and 50.00 MWp at Mohbhatta, Chhattisgarh)",
+    "amount_cr": null,
+    "timeline": "Fully operational by December 2025"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Focus on improving utilisation of the expanded billet capacity, optimising manufacturing operations and deriving greater benefits from renewable energy integration",
+    "metric": "Capacity utilisation and operational efficiency",
+    "value": "Progressive improvement",
+    "by_when": "Going forward"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Amitabh Agrawal & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Note No. 28 regarding disclosures relating to Micro/Small/Medium Enterprises"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Fluctuations in coal and iron ore prices",
+   "Geopolitical tensions",
+   "Global trade restrictions and tariff measures",
+   "Changes in regulatory requirements",
+   "Volatility in raw material prices",
+   "Uncertain tax positions under dispute"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

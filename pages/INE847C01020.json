@@ -3,7 +3,7 @@
  "sym": "ROSSELLIND",
  "name": "Rossell India Limited",
  "scrip": "533168",
- "mcap_cr": 185.58,
+ "mcap_cr": 183.62,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -24.74,
    "pat": -23.79,
    "margin_pct": -149.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 100,
+    "profit": -39,
+    "quality": 100
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -62,11 +66,11 @@
    "ebitda": 6.57,
    "pat": 3.81,
    "margin_pct": 17.9,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 6,
     "profit": 14,
-    "quality": 23
+    "quality": 0
    },
    "capped_by": null
   }
@@ -95,7 +99,29 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Rossell India Limited is engaged in tea plantation and manufacturing operations.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not specified in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 7790,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Misappropriation of funds at Romai Tea Estate"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

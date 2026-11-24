@@ -3,7 +3,7 @@
  "sym": "GRPLTD",
  "name": "GRP Limited",
  "scrip": "509152",
- "mcap_cr": 996.67,
+ "mcap_cr": 941.97,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 16.9,
    "pat": 4.2,
    "margin_pct": 10.8,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 84,
     "profit": 68,
-    "quality": 50
+    "quality": 78
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 87,
     "profit": 63,
-    "quality": 55
+    "quality": 84
    },
    "capped_by": null
   }
@@ -109,7 +109,73 @@
   "missing": [],
   "concalls_found": 14,
   "concalls_read": 11,
-  "latest_concall": "2026-11-05"
+  "latest_concall": "2026-11-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GRP Limited is engaged in the production and marketing of reclaim rubber products, along with other segments including windmill, solar energy, custom die forms, engineering plastics, polymer composite products, crumb rubber, recovered steel, tyre pyrolysis oil, and recovered carbon black.",
+  "segments": [
+   {
+    "name": "Reclaim Rubber",
+    "share_of_revenue_pct": 88.3
+   },
+   {
+    "name": "Others",
+    "share_of_revenue_pct": 11.7
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure incurred on Equipments & Machinery",
+    "amount_cr": 0.0578,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital Expenditure incurred on Buildings, Furniture, office equipments & Computer Hardware",
+    "amount_cr": 0.0036,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Total Capital Expenditure (Reclaim Rubber segment)",
+    "amount_cr": 15.281,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Total Capital Expenditure (Others segment)",
+    "amount_cr": 25.2687,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Total Capital Expenditure (Unallocable)",
+    "amount_cr": 1.8187,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Total Capital Expenditure (Company)",
+    "amount_cr": 42.3684,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Rajendra & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 40.04,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Strategic risks",
+   "Operational risks",
+   "Market risks",
+   "People risks",
+   "Financial risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "TBZ",
  "name": "Tribhovandas Bhimji Zaveri Limited",
  "scrip": "534369",
- "mcap_cr": 3708.22,
+ "mcap_cr": 3545.73,
  "group": "T",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 99,
     "profit": 91,
-    "quality": 75
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 80,
     "profit": 40,
-    "quality": 60
+    "quality": 69
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 15,
     "profit": 7,
-    "quality": 1
+    "quality": 3
    },
    "capped_by": null
   }
@@ -109,7 +109,61 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Tribhovandas Bhimji Zaveri Limited (TBZ) is one of India's most trusted and iconic jewellery brands, crafting 100% BIS hallmarked 22 karat gold jewellery and ethically sourced certified natural diamond jewellery since 1864.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure on property, plant and equipment and intangible assets",
+    "amount_cr": 14.047,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital Expenditure on property, plant and equipment and intangible assets",
+    "amount_cr": 11.4107,
+    "timeline": "FY 2024-25"
+   },
+   {
+    "item": "Capital Work in Progress",
+    "amount_cr": 0.0516,
+    "timeline": "As at 31 March 2026"
+   },
+   {
+    "item": "Capital Work in Progress",
+    "amount_cr": 0.8474,
+    "timeline": "As at 31 March 2025"
+   },
+   {
+    "item": "Right-of-use assets additions (Buildings)",
+    "amount_cr": 29.9383,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Right-of-use assets additions (Buildings)",
+    "amount_cr": 29.2152,
+    "timeline": "FY 2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Chaturvedi & Shah LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Non-compliance with Regulation 17(1A) of SEBI LODR leading to fines from BSE and NSE",
+   "Ongoing judicial proceedings before Hon'ble Supreme Court of India regarding Regulation 17(1A) compliance"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

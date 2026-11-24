@@ -3,7 +3,7 @@
  "sym": "ONEPOINT",
  "name": "One Point One Solutions Limited",
  "scrip": "544748",
- "mcap_cr": 1852.92,
+ "mcap_cr": 1790.07,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 93,
     "profit": 91,
-    "quality": 42
+    "quality": 32
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 35.79,
    "pat": 16.31,
    "margin_pct": 22.6,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 100,
     "profit": 58,
-    "quality": 63
+    "quality": 50
    },
    "capped_by": null
   }
@@ -99,7 +99,29 @@
   ],
   "concalls_found": 3,
   "concalls_read": 3,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "One Point One Solutions Limited provides business process management and customer experience solutions.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. SIGMAC & CO., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to long-term and short-term customer contracts and unbilled receivables"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

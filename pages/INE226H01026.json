@@ -3,7 +3,7 @@
  "sym": "SADBHAV",
  "name": "Sadbhav Engineering Limited",
  "scrip": "532710",
- "mcap_cr": 120.44,
+ "mcap_cr": 121.47,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 20,
     "profit": 100,
-    "quality": 17
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   },
   {
    "q": "Jun-26",
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 20,
     "profit": 83,
-    "quality": 47
+    "quality": 95
    },
    "capped_by": null
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sadbhav Engineering Limited is an Indian infrastructure construction company engaged in engineering, procurement, and construction (EPC) of roads, highways, irrigation, and mining projects.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Manubhai & Shah LLP",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion on standalone financial statements due to inability to corroborate recoverability of Rs 20,178.30 lakhs from step-down subsidiary Rohtak Panipat Tollway Private Limited, Rs 54,864.44 lakhs investment and Rs 32,938.49 lakhs loan to Sadbhav Infrastructure Project Limited, and Rs 35,019.32 lakhs contract assets from closed/suspended projects. Emphasis of matter on vendor legal proceedings and going concern."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Recoverability of loans, trade receivables, and investments in subsidiaries with eroded net worth",
+   "Uncertainty in recovery of contract assets from closed/suspended projects under arbitration/litigation",
+   "Debt restructuring implementation risk and default history with lenders",
+   "Ongoing insolvency proceedings by operational and financial creditors",
+   "Dependence on successful execution of Master Restructuring Agreement and NCD issuance"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "VSSL",
  "name": "Vardhman Special Steels Limited",
  "scrip": "534392",
- "mcap_cr": 3674.68,
+ "mcap_cr": 3674.19,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 63,
     "profit": 67,
-    "quality": 86
+    "quality": 87
    },
    "capped_by": "revenue growth under 10%"
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 73,
     "profit": 87,
-    "quality": 84
+    "quality": 94
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 20%"
   },
   {
    "q": "Sep-26",
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 89,
     "profit": 52,
-    "quality": 85
+    "quality": 71
    },
    "capped_by": null
   }
@@ -109,7 +109,73 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-02"
+  "latest_concall": "2026-11-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vardhman Special Steels Limited manufactures special steel bars and billets for automotive and engineering applications, with capabilities in precision rolling, heat treatment, and digital manufacturing integration.",
+  "segments": [
+   {
+    "name": "Special Steel Products",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capex for existing plant",
+    "amount_cr": 100.0,
+    "timeline": "FY2025-26"
+   },
+   {
+    "item": "Capex for new plant",
+    "amount_cr": 134.91,
+    "timeline": "FY2025-26"
+   },
+   {
+    "item": "Rolling Mill capacity expansion to 270,000 tonnes per annum",
+    "amount_cr": null,
+    "timeline": "Commissioned in Q4 FY2025-26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "The Kocks block reached full operation faster than the schedule asked. Stabilised within the year, it reset what the rolling mill could promise.",
+    "metric": "Rolling mill stabilisation",
+    "value": "Achieved within FY2025-26",
+    "by_when": "FY2025-26"
+   },
+   {
+    "statement": "On 1 July 2025, the Company moved to SAP S/4HANA. The migration consolidated planning, finance, production, costing, maintenance and quality into a single platform.",
+    "metric": "SAP S/4HANA implementation",
+    "value": "Go-live completed",
+    "by_when": "1 July 2025"
+   },
+   {
+    "statement": "The successful commissioning of the walking-beam Reheating Furnace in the fourth quarter has increased the Rolling Mill's capacity to 270,000 tonnes per annum.",
+    "metric": "Rolling Mill capacity",
+    "value": "270,000 tonnes per annum",
+    "by_when": "Q4 FY2025-26"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B S R & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Heavy build cycle execution risk",
+   "Dependence on automotive sector demand",
+   "Technology migration risks (SAP S/4HANA)",
+   "Raw material price volatility",
+   "Regulatory and compliance risks"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

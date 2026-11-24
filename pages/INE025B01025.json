@@ -3,7 +3,7 @@
  "sym": "GOLDIAM",
  "name": "Goldiam International Limited",
  "scrip": "526729",
- "mcap_cr": 4442.19,
+ "mcap_cr": 4313.46,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 69,
     "profit": 77,
-    "quality": 88
+    "quality": 95
    },
    "capped_by": null
   },
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 13,
   "concalls_read": 9,
-  "latest_concall": "2026-08-12"
+  "latest_concall": "2026-08-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Goldiam International Limited is engaged in the gems and jewellery business, operating from SEEPZ, Andheri East, Mumbai.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Pulindra Patel & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": 2.75
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

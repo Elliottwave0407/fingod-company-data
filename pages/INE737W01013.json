@@ -92,7 +92,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Akash Infra-Projects Limited is engaged in road construction projects.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "A R P A N And Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matters include: 1) Increase in revenue from operations due to higher execution of road construction projects with corresponding rise in cost of materials consumed. 2) Other Comprehensive Income includes Rs. 3.35 lakhs for remeasurement of net defined benefit gratuity obligation. 3) Trade receivables outstanding over 180 days aggregate to Rs. 143.99 Crores, major portion sub-judice. 4) Previous statutory auditor M/s. RRS & Associates resigned after carrying out unaudited limited review up to quarter ended September 30, 2025. 5) Company provided interest on unsecured loan at year-end only."
+  },
+  "promoter_holding_pct": 74.59,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 4,
+  "key_risks": [
+   "Trade receivables outstanding for over 180 days aggregate to Rs. 143.99 Crores, major portion sub-judice",
+   "Previous statutory auditor resigned due to fee disagreement",
+   "Interest on unsecured loan provided only at year-end"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

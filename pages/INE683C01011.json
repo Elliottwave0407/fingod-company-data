@@ -3,7 +3,7 @@
  "sym": "MAITHANALL",
  "name": "Maithan Alloys Limited",
  "scrip": "590078",
- "mcap_cr": 2369.97,
+ "mcap_cr": 2343.63,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 77,
     "profit": 62,
-    "quality": 0
+    "quality": 49
    },
    "capped_by": "net loss"
   },
@@ -66,13 +66,13 @@
    "ebitda": 90.83,
    "pat": 395.72,
    "margin_pct": 16.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 48,
     "profit": 93,
-    "quality": 41
+    "quality": 1
    },
-   "capped_by": "profit down YoY"
+   "capped_by": null
   }
  ],
  "completeness": {
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Maithan Alloys Limited manufactures and sells manganese-based ferro alloys for the steel industry.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Singhi & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on Notes 2 and 57 regarding Basis of Preparation due to merger of Impex Metal & Ferro Alloys Limited with appointed date March 31, 2024, effective June 30, 2026."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Manganese ore price volatility due to demand/supply changes; over 90% of manganese ore imported.",
+   "No commodity hedging activities undertaken."
+  ],
+  "dividend_per_share": 17
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

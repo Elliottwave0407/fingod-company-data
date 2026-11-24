@@ -3,7 +3,7 @@
  "sym": "COMPUSOFT",
  "name": "Compucom Software Limited",
  "scrip": "532339",
- "mcap_cr": 101.6,
+ "mcap_cr": 99.86,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 39,
     "profit": 99,
-    "quality": 47
+    "quality": 68
    },
    "capped_by": "revenue down YoY"
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 34,
     "profit": 100,
-    "quality": 27
+    "quality": 36
    },
-   "capped_by": null
+   "capped_by": "revenue down YoY"
   }
  ],
  "completeness": {
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Compucom Software Limited is an Indian listed company engaged in software and IT services.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s S. Misra & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

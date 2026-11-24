@@ -3,7 +3,7 @@
  "sym": "SRM",
  "name": "SRM Contractors Limited",
  "scrip": "544158",
- "mcap_cr": 974.55,
+ "mcap_cr": 975.36,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 63,
-    "quality": 86
+    "quality": 80
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 38.21,
    "pat": 19.71,
    "margin_pct": 19.5,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 91,
     "profit": 96,
-    "quality": 66
+    "quality": 75
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 3,
   "concalls_read": 3,
-  "latest_concall": "2026-06-02"
+  "latest_concall": "2026-06-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SRM Contractors Limited is a company based in India, but the excerpts do not specify its business activities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/S Rohit KC Jain & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

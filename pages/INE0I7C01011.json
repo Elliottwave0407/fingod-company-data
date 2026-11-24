@@ -3,7 +3,7 @@
  "sym": "LATENTVIEW",
  "name": "Latent View Analytics Limited",
  "scrip": "543398",
- "mcap_cr": 3994.64,
+ "mcap_cr": 4082.65,
  "group": "A",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 67.53,
    "pat": 55.06,
    "margin_pct": 23.4,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Steady",
    "pillars": {
     "growth": 65,
     "profit": 48,
-    "quality": 62
+    "quality": 19
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 56.68,
    "pat": 47.1,
    "margin_pct": 19.8,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 54,
     "profit": 31,
-    "quality": 54
+    "quality": 10
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 43,
     "profit": 33,
-    "quality": 60
+    "quality": 29
    },
    "capped_by": null
   }
@@ -109,7 +109,27 @@
   "missing": [],
   "concalls_found": 12,
   "concalls_read": 12,
-  "latest_concall": "2026-11-06"
+  "latest_concall": "2026-11-06",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "LatentView Analytics Limited is an integrated analytics partner delivering consulting-led, technology-enabled solutions across the data value chain from strategy to execution for recognized enterprises globally.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding disagreement between Holding Company and selling shareholders of Decision Point Private Limited on computation of purchase consideration for remaining 20% equity interest; outcome not determinable pending resolution per SPA process."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "BIL",
  "name": "Bhartiya International Limited",
  "scrip": "526666",
- "mcap_cr": 1293.64,
+ "mcap_cr": 1309.66,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 77,
     "profit": 40,
-    "quality": 66
+    "quality": 87
    },
    "capped_by": null
   }
@@ -99,7 +99,41 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Bhartiya International Limited is engaged in the manufacturing and export of leather garments, leather goods, and textile apparel, operating as a design-led manufacturer for global brands.",
+  "segments": [
+   {
+    "name": "Accessories Group",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Production capacity expansion in Accessories Group",
+    "amount_cr": null,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "AS Poddar & Associates (formerly M/s Sushi I Poddar & Co.)",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to timing of control transfer and management performance pressure",
+   "Challenging tariff environment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

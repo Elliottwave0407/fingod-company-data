@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 62,
     "profit": 100,
-    "quality": 31
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   }
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GTL Infrastructure Limited is an IP-1 registered entity engaged in providing passive telecom infrastructure on a shared basis to mobile telecommunications service providers for hosting active network equipment.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. C.V.K & Associates / CVK & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material Uncertainty Related to Going Concern"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Unauthorized dismantling/theft of unoccupied sites (362 sites dismantled in FY 2025-26)",
+   "Substantial costs and liabilities on unoccupied towers without revenue",
+   "Landowner legal actions and blocked site access",
+   "Non-receipt of rental amounts from operators",
+   "Going concern uncertainty dependent on debt resolution and sector recovery"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

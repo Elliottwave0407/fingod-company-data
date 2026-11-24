@@ -3,7 +3,7 @@
  "sym": "HINDWAREAP",
  "name": "Hindware Home Innovation Limited",
  "scrip": "542905",
- "mcap_cr": 1309.07,
+ "mcap_cr": 1319.52,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 60,
     "profit": 80,
-    "quality": 0
+    "quality": 48
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 50.95,
    "pat": 4.37,
    "margin_pct": 8.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 56,
     "profit": 87,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   }
@@ -99,7 +99,62 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-05-26"
+  "latest_concall": "2026-05-26",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Hindware Home Innovation Limited is a diversified consumer products company operating across two distinct businesses: Building Products (bathware, faucets, premium tiles, plastic pipes and fittings) and Consumer Products (kitchen appliances including chimneys, cooktops, hobs, sinks, and water heaters).",
+  "segments": [
+   {
+    "name": "Building Products",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Consumer Products",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Bathware - Sanitaryware",
+    "amount_cr": null,
+    "timeline": "Annual capacity of 3.85 million pieces"
+   },
+   {
+    "item": "Bathware - Faucets",
+    "amount_cr": null,
+    "timeline": "Annual capacity of 3.7 million units"
+   },
+   {
+    "item": "Pipes Business - Plastic pipes and fittings",
+    "amount_cr": null,
+    "timeline": "Annual capacity of over 78,500 tonnes"
+   },
+   {
+    "item": "Capital expenditure (Consolidated)",
+    "amount_cr": 132.29,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Capital expenditure (Consolidated)",
+    "amount_cr": 246.71,
+    "timeline": "FY 2024-25"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 52.7,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

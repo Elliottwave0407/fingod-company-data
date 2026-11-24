@@ -3,7 +3,7 @@
  "sym": "SWARAJENG",
  "name": "Swaraj Engines Limited",
  "scrip": "500407",
- "mcap_cr": 4187.63,
+ "mcap_cr": 4180.71,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 61,
     "profit": 44,
-    "quality": 66
+    "quality": 50
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 56,
     "profit": 34,
-    "quality": 57
+    "quality": 36
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 69,
     "profit": 44,
-    "quality": 65
+    "quality": 49
    },
    "capped_by": null
   }
@@ -109,7 +109,35 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Swaraj Engines Limited manufactures and sells diesel engines, with significant revenue from related party transactions.",
+  "segments": [
+   {
+    "name": "Diesel Engines",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "B.K. Khare & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter on related party transactions and arm's length pricing"
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Related party transactions and arm's length pricing risks",
+   "Concentration of revenue from related parties"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

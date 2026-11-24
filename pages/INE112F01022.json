@@ -3,7 +3,7 @@
  "sym": "LAMBODHARA",
  "name": "Lambodhara Textiles Limited",
  "scrip": "590075",
- "mcap_cr": 117.12,
+ "mcap_cr": 110.06,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 46,
     "profit": 52,
-    "quality": 57
+    "quality": 80
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 29,
     "profit": 60,
-    "quality": 71
+    "quality": 88
    },
    "capped_by": null
   }
@@ -99,7 +99,72 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Lambodhara Textiles Limited manufactures customized fancy yarns and specialty fibre fancy yarns, generates renewable power through wind and solar assets, and earns rental income from a commercial real estate property.",
+  "segments": [
+   {
+    "name": "Textile Division",
+    "share_of_revenue_pct": 94.8
+   },
+   {
+    "name": "Power Generation",
+    "share_of_revenue_pct": 6.6
+   },
+   {
+    "name": "Real Estate",
+    "share_of_revenue_pct": 0.8
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Wind Mills",
+    "amount_cr": null,
+    "timeline": "Existing: 4.75 MW capacity (three wind mills)"
+   },
+   {
+    "item": "Grid Tied Roof Top Solar Power Plant",
+    "amount_cr": null,
+    "timeline": "Existing: 1.0 MW and 1.4 MW capacity (total 2.4 MW)"
+   },
+   {
+    "item": "On-Ground Solar PV Power Project at Kamudi, Ramnad District",
+    "amount_cr": null,
+    "timeline": "Existing: 3.3 MW capacity"
+   },
+   {
+    "item": "Capital Work in Progress",
+    "amount_cr": 1.05,
+    "timeline": "As at 31 March 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "The Company will meet 95% of its Power requirement by Captive Power.",
+    "metric": "Captive power consumption share",
+    "value": "95%",
+    "by_when": "Ongoing"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Market conditions, timing, inflation, long term economic conditions",
+   "Revenue recognition risk (risk of revenue being recorded before control is transferred)",
+   "Litigations and contingencies with various authorities and third parties"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

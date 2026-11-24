@@ -3,7 +3,7 @@
  "sym": "ELECTCAST",
  "name": "Electrosteel Castings Limited",
  "scrip": "500128",
- "mcap_cr": 4028.71,
+ "mcap_cr": 3987.29,
  "group": "A",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 9,
     "profit": 6,
-    "quality": 12
+    "quality": 4
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 11,
   "concalls_read": 10,
-  "latest_concall": "2026-11-19"
+  "latest_concall": "2026-11-19",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

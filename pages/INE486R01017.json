@@ -3,7 +3,7 @@
  "sym": "GPTHEALTH",
  "name": "GPT Healthcare Limited",
  "scrip": "544131",
- "mcap_cr": 1096.25,
+ "mcap_cr": 1083.53,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 57,
     "profit": 26,
-    "quality": 51
+    "quality": 36
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 70,
     "profit": 76,
-    "quality": 69
+    "quality": 88
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-14"
+  "latest_concall": "2026-11-14",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "GPT Healthcare Limited operates ILS Hospitals in Salt Lake and Agartala, providing healthcare services.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "S.R. Batliboi & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

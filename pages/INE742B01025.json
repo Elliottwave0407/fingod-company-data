@@ -3,7 +3,7 @@
  "sym": "GUFICBIO",
  "name": "Gufic Biosciences Limited",
  "scrip": "509079",
- "mcap_cr": 4192.81,
+ "mcap_cr": 4156.71,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 47.21,
    "pat": 21.9,
    "margin_pct": 18.7,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 82,
     "profit": 95,
-    "quality": 64
+    "quality": 100
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 69,
     "profit": 76,
-    "quality": 65
+    "quality": 87
    },
    "capped_by": null
   }
@@ -99,7 +99,87 @@
   ],
   "concalls_found": 17,
   "concalls_read": 3,
-  "latest_concall": "2026-11-20"
+  "latest_concall": "2026-11-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Gufic Biosciences Limited is a pharmaceutical company engaged in the manufacturing and marketing of complex injectables, reproductive medicine, therapeutic toxins, natural products, nutraceuticals, and contract development and manufacturing services.",
+  "segments": [
+   {
+    "name": "Pharmaceutical",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "R&D Capital Expenditure (Plant & Machinery)",
+    "amount_cr": 1.03,
+    "timeline": "FY26"
+   },
+   {
+    "item": "R&D Capital Expenditure (Furniture, Fixtures, Computer & Others)",
+    "amount_cr": 0.07,
+    "timeline": "FY26"
+   },
+   {
+    "item": "Capital Work in Progress (Tangible)",
+    "amount_cr": 8.88,
+    "timeline": "As at March 31, 2026"
+   },
+   {
+    "item": "Capital Work in Progress (Intangible)",
+    "amount_cr": 13.27,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "Scale the new facility; continue product transfers on a defined calendar; direct complex formats - depot, liposomal and suspensions - to the new site",
+    "metric": "Facility Utilisation",
+    "value": "Scale output across settled cost base",
+    "by_when": "FY27"
+   },
+   {
+    "statement": "Convert regulatory pipeline into market access; sequence European market entry as certifications arrive; advance US ANDA filings",
+    "metric": "International Market Entry",
+    "value": "Sequence market entry as certifications arrive",
+    "by_when": "FY27"
+   },
+   {
+    "statement": "Build newer platforms - aesthetics, chronic women's health, gastrointestinal therapy and advanced delivery formats - into meaningful contributors",
+    "metric": "New Platform Revenue",
+    "value": "Meaningful contributors",
+    "by_when": "FY27"
+   },
+   {
+    "statement": "Launch obesity portfolio (GLP-1 agonists) under capital expenditure model with product imported and marketed under international brand",
+    "metric": "Product Launch",
+    "value": "Launch targeted",
+    "by_when": "FY27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Mittal Agarwal & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 4,
+  "key_risks": [
+   "Pricing and market-access pressures",
+   "Patent expiries",
+   "Regulatory developments",
+   "Geopolitical uncertainties",
+   "Supply-chain considerations",
+   "Working capital pressure from direct hospital billing model (now transitioned)",
+   "Concentration of external supply chains for active pharmaceutical ingredients",
+   "Cybersecurity threats and data breaches"
+  ],
+  "dividend_per_share": 0.1
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

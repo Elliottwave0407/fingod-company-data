@@ -3,7 +3,7 @@
  "sym": "PVP",
  "name": "PVP Ventures Limited",
  "scrip": "517556",
- "mcap_cr": 1165.05,
+ "mcap_cr": 1217.65,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 100,
     "profit": 88,
-    "quality": 0
+    "quality": 100
    },
    "capped_by": "net loss"
   },
@@ -99,7 +99,33 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "PVP Ventures Limited is an Indian listed company that acquires equity interests in entities classified as subsidiaries and associates, with investments carried at cost in standalone financial statements.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "CNGSN & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Significant judgment involved in assessment of control over acquired subsidiaries",
+   "Delays in submission of financial results to stock exchanges leading to fines from NSE and BSE",
+   "Non-compliance with SEBI LODR Regulations regarding board meeting quorum and timely filing",
+   "Past non-compliances requiring condonation/compounding/adjudication applications",
+   "Differences between consolidated balance sheet figures under Regulation 33 and the Act due to recasting/reclassification"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

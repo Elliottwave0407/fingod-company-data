@@ -3,7 +3,7 @@
  "sym": "RAMANEWS",
  "name": "Shree Rama Newsprint Limited",
  "scrip": "500356",
- "mcap_cr": 379.87,
+ "mcap_cr": 379.72,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -1.74,
    "pat": -37.91,
    "margin_pct": -22.1,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -18,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -0.74,
    "pat": -10.5,
    "margin_pct": -7.6,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 18,
+    "profit": -6,
+    "quality": 89
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -91,7 +99,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shree Rama Newsprint Limited is engaged in the manufacturing of newsprint and writing & printing paper, with its paper division currently classified as a discontinued operation and assets held for sale.",
+  "segments": [
+   {
+    "name": "Paper Division (Discontinued Operations)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Batliboi & Purohit",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material uncertainty related to going concern; Emphasis of Matter on classification of paper division as discontinued operations and impairment loss of Rs. 2,784.33 lakhs recognized during the year ended March 31, 2026."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Material uncertainty related to going concern due to accumulated losses and current liabilities exceeding current assets",
+   "Dependence on disposal of non-core assets of discontinued paper division to generate cash flows",
+   "Further impairment risk on assets held for sale due to fair value reassessment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

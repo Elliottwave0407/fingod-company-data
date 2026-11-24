@@ -3,7 +3,7 @@
  "sym": "FMNL",
  "name": "Future Market Networks Limited",
  "scrip": "533296",
- "mcap_cr": 41.66,
+ "mcap_cr": 43.98,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 11.33,
    "pat": 1.95,
    "margin_pct": 44.6,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 34,
     "profit": 100,
-    "quality": 0
+    "quality": 80
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 19,
     "profit": 20,
-    "quality": 25
+    "quality": 48
    },
    "capped_by": null
   }
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Future Market Networks Limited earns revenue from leasing out commercial units/shops and recognizes lease rent on a straight-line basis over the lease term under Ind AS 116.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Bakliwal & Co., Chartered Accountants, Mumbai",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition for lease rents and contingent rent",
+   "Allowance for credit losses based on historical loss experience and future economic conditions",
+   "Contingent liabilities related to corporate guarantees, assets pledged as security, and dispute related to a shopping mall"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "YATRA",
  "name": "Yatra Online Limited",
  "scrip": "543992",
- "mcap_cr": 1398.28,
+ "mcap_cr": 1350.11,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 10.88,
    "pat": 8.2,
    "margin_pct": 5.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 7,
     "profit": 15,
-    "quality": 30
+    "quality": 2
    },
    "capped_by": null
   },
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-17"
+  "latest_concall": "2026-11-17",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Yatra Online Limited is an Indian online travel company providing travel services to consumers and corporate clients, including flights, hotels, packages, and expense management solutions.",
+  "segments": [
+   {
+    "name": "Consumer Business",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Corporate Business",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter regarding queries from NSE and SEBI on IPO proceeds utilization of INR 3,391.44 million till June 30, 2024; management asserts compliance with Offer Document."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Foreign currency risk due to exchange rate fluctuations",
+   "Contingent liabilities from consumer claims, service tax, income tax, and GST demands",
+   "Goodwill impairment risk following reallocation to Air and Hotel & Packages CGUs",
+   "Dependence on key personnel and management team",
+   "Regulatory and compliance risks in travel industry"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

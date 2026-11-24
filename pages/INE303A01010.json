@@ -3,7 +3,7 @@
  "sym": "DICIND",
  "name": "DIC India Limited",
  "scrip": "500089",
- "mcap_cr": 442.2,
+ "mcap_cr": 454.36,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 60,
     "profit": 39,
-    "quality": 66
+    "quality": 73
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 22.45,
    "pat": 14.27,
    "margin_pct": 7.9,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 84,
     "profit": 75,
-    "quality": 78
+    "quality": 89
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

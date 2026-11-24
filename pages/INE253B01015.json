@@ -3,7 +3,7 @@
  "sym": "21STCENMGM",
  "name": "21st Century Management Services Limited",
  "scrip": "526921",
- "mcap_cr": 48.05,
+ "mcap_cr": 50.24,
  "group": "T",
  "quarters": [
   {
@@ -97,7 +97,29 @@
   "missing": [],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Twentyfirst Century Management Services Ltd is engaged in investment and trading in equities.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Shankar & Kishor",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 55.4566,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 1,
+  "key_risks": [
+   "Fluctuations in the capital market"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "COSMOFIRST",
  "name": "COSMO FIRST LIMITED",
  "scrip": "508814",
- "mcap_cr": 2128.46,
+ "mcap_cr": 2097.22,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 113.37,
    "pat": 36.91,
    "margin_pct": 11.1,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 91,
     "profit": 58,
-    "quality": 43
+    "quality": 60
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 89,
     "profit": 43,
-    "quality": 42
+    "quality": 49
    },
    "capped_by": null
   }
@@ -99,7 +99,57 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Cosmo First is the world's largest producer of thermal lamination films and second-largest producer of specialty label films globally, also operating in BOPP films, technical films, rigid packaging, synthetic paper, premium window films (Cosmo Sunshield), paint protection films (Cosmo PPF), and petcare (Zigly).",
+  "segments": [
+   {
+    "name": "Packaging Films (BOPP, Thermal Lamination, Specialty Label, Technical Films, Rigid Packaging, Synthetic Paper)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Consumer Products (Cosmo Sunshield Window Films, Cosmo PPF Paint Protection Films)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Petcare (Zigly)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "R&D capital expenditure (gross)",
+    "amount_cr": 3.33,
+    "timeline": "FY2026"
+   },
+   {
+    "item": "R&D capital expenditure (gross)",
+    "amount_cr": 4.53,
+    "timeline": "FY2025"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 650,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Global economic disruption from Middle East conflict",
+   "Rising commodity prices",
+   "Firmer inflation expectations",
+   "Tighter financial conditions",
+   "Price risk from investments classified at fair value through OCI or FVTPL"
+  ],
+  "dividend_per_share": 4
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

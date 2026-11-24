@@ -3,7 +3,7 @@
  "sym": "MOTOGENFIN",
  "name": "The Motor & General Finance Limited",
  "scrip": "501343",
- "mcap_cr": 91.74,
+ "mcap_cr": 95.42,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The Motor & General Finance Limited is a non-banking finance company engaged in investment activities, including investments in associates, other entities, and investment properties, and providing loans and advances.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter: During the financial year ended 31st March, 2026 quoted investments in equity shares of an Associate Company were sold by the Company based on the valuation obtained from an independent valuer. (Refer Note no 43)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Recoverability of carrying amounts of investments in associates and other entities",
+   "Valuation and impairment of investment properties",
+   "Related party transactions and advances from related parties",
+   "Contingent liabilities and commitments"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

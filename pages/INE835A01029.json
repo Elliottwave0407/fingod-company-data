@@ -3,7 +3,7 @@
  "sym": "VARDMNPOLY",
  "name": "Vardhman Polytex Limited",
  "scrip": "514175",
- "mcap_cr": 254.21,
+ "mcap_cr": 253.7,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 8,
     "profit": 82,
-    "quality": 21
+    "quality": 23
    },
    "capped_by": null
   },
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vardhman Polytex Limited is engaged in the manufacturing of textiles.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Ramanath Iyer & Company",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Key audit matter: Evaluation of uncertain tax positions including matters under dispute which involves significant judgment to determine the possible outcome of these disputes."
+  },
+  "promoter_holding_pct": 28.64,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Material uncertain tax positions including matters under dispute involving significant judgment",
+   "Default in repayment of dues to Phoenix ARC of Rs. 37.06 Cr (paid as on date of signing financial statements)",
+   "Pending conversion of 2,54,00,000 convertible warrants"
+  ],
+  "dividend_per_share": 0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

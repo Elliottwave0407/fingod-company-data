@@ -3,7 +3,7 @@
  "sym": "INSECTICID",
  "name": "Insecticides (India) Limited",
  "scrip": "532851",
- "mcap_cr": 1555.28,
+ "mcap_cr": 1656.39,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 37,
     "profit": 16,
-    "quality": 19
+    "quality": 18
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 12,
     "profit": 28,
-    "quality": 31
+    "quality": 14
    },
    "capped_by": null
   }
@@ -99,7 +99,9 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

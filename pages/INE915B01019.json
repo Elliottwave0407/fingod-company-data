@@ -3,7 +3,7 @@
  "sym": "INDSWFTLAB",
  "name": "Ind-Swift Laboratories Limited",
  "scrip": "532305",
- "mcap_cr": 2756.25,
+ "mcap_cr": 2729.72,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 15.43,
    "pat": 15.11,
    "margin_pct": 9.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 32,
     "profit": 7,
-    "quality": 50
+    "quality": 0
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 84,
     "profit": 94,
-    "quality": 87
+    "quality": 100
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 99,
     "profit": 95,
-    "quality": 89
+    "quality": 100
    },
    "capped_by": null
   }
@@ -109,7 +109,36 @@
   "missing": [],
   "concalls_found": 2,
   "concalls_read": 2,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ind-Swift Laboratories Limited is a formulation-led pharmaceutical company focused on developing and commercializing complex generic formulations for regulated markets including Europe, Australia, Canada, and Brazil.",
+  "segments": [
+   {
+    "name": "Formulations",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Rattan Kaur & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Legal proceedings involving receivables, payables, intellectual property disputes, employment claims, compliance matters, and tax matters",
+   "Complex legal issues without precedents making financial impact difficult to estimate",
+   "Title deeds of immovable properties not in the name of the company (held in erstwhile merged entities)"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

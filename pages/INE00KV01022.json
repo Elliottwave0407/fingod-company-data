@@ -53,7 +53,7 @@
    "pillars": {
     "growth": 0,
     "profit": 80,
-    "quality": 65
+    "quality": 81
    },
    "capped_by": null
   },
@@ -67,7 +67,7 @@
    "pillars": {
     "growth": 0,
     "profit": 71,
-    "quality": 10
+    "quality": 65
    },
    "capped_by": null
   }
@@ -96,7 +96,32 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Rajnandini Metal Limited is engaged in the trading of metal products, with significant transactions involving Viraj Technology India Limited.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to unresolved GST demand of Rs. 290.70 crores and Income Tax demand of Rs. 10.68 crore; pending legal proceedings prevent determination of financial impact."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "GST demand of Rs. 290.70 crores (including interest and penalty) alleging ineligible input credit",
+   "Income Tax demand of Rs. 10.68 crore",
+   "Uncertainty regarding outcome of appellate proceedings for both tax demands",
+   "High concentration of sales and purchases with related party Viraj Technology India Limited"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

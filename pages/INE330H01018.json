@@ -3,7 +3,7 @@
  "sym": "RCOM",
  "name": "Reliance Communications Limited",
  "scrip": "532712",
- "mcap_cr": 221.24,
+ "mcap_cr": 218.48,
  "group": "T",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -280.0,
    "pat": -3098.0,
    "margin_pct": -345.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 19,
+    "profit": -277,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -66,9 +70,9 @@
    "pillars": {
     "growth": 16,
     "profit": 100,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -95,7 +99,9 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": null
  },
+ "annual_report": null,
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

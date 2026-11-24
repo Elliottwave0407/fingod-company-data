@@ -3,7 +3,7 @@
  "sym": "TAINWALCHM",
  "name": "Tainwala Chemical and Plastic (I) Limited",
  "scrip": "507785",
- "mcap_cr": 184.94,
+ "mcap_cr": 190.74,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 0,
     "profit": -90,
-    "quality": 58
+    "quality": 69
    },
    "capped_by": null
   },
@@ -95,7 +95,29 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "The company is engaged in plastics processing and manufacturing of industrial products, as well as trading of commodities including gold, silver, gems, jewellery, bullion, diamonds, precious stones, and other precious metals.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "GMJ & CO",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key Audit Matter: Valuation of Investments in Samsonite South Asia Private Limited and Periwinkle Fashions Private Limited could not be performed at fair value as per Ind AS 113 due to non-availability of latest financial information of investee companies; valued based on latest available financial statements (December 2024 for Samsonite and March 2025 for Periwinkle)."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Valuation of investments in unlisted entities (Samsonite South Asia Private Limited and Periwinkle Fashions Private Limited) based on outdated financial statements due to non-availability of latest financial information, leading to potential fair value measurement uncertainty under Ind AS 113."
+  ],
+  "dividend_per_share": 3.0
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

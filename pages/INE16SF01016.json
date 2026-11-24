@@ -3,7 +3,7 @@
  "sym": "BORANA",
  "name": "Borana Weaves Limited",
  "scrip": "544404",
- "mcap_cr": 693.44,
+ "mcap_cr": 683.98,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 81,
     "profit": 88,
-    "quality": 80
+    "quality": 89
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 80,
     "profit": 96,
-    "quality": 68
+    "quality": 69
    },
    "capped_by": null
   }
@@ -99,7 +99,31 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-02-02"
+  "latest_concall": "2026-02-02",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Borana Weaves Limited is a textile manufacturing company engaged in weaving operations.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Foreign currency exchange rate risk",
+   "Credit risk from trade receivables and financial assets",
+   "Technological obsolescence"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

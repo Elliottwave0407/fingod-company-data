@@ -3,7 +3,7 @@
  "sym": "SVLL",
  "name": "Shree Vasu Logistics Limited",
  "scrip": "544997",
- "mcap_cr": 878.92,
+ "mcap_cr": 856.28,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 18.09,
    "pat": 4.0,
    "margin_pct": 29.0,
-   "verdict_v3": "Excellent",
+   "verdict_v3": "Blockbuster",
    "pillars": {
     "growth": 97,
     "profit": 78,
-    "quality": 50
+    "quality": 93
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 16.7,
    "pat": 3.25,
    "margin_pct": 25.8,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 76,
     "profit": 60,
-    "quality": 50
+    "quality": 78
    },
    "capped_by": null
   }
@@ -99,7 +99,29 @@
   ],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2026-11-07"
+  "latest_concall": "2026-11-07",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Shree Vasu Logistics Limited is engaged in the business of Carrying & Forwarding Agents, Warehouse Renting, and allied Transporting business.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in the provided text",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition complexity due to variety and complexity of contractual terms and ongoing negotiations with customers requiring significant judgment to estimate tariff rates"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

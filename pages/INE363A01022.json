@@ -3,7 +3,7 @@
  "sym": "ASIANHOTNR",
  "name": "Asian Hotels (North) Limited",
  "scrip": "500023",
- "mcap_cr": 1398.37,
+ "mcap_cr": 1339.32,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 15.54,
    "pat": 31.3,
    "margin_pct": 15.1,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 23,
     "profit": 12,
-    "quality": 50
+    "quality": 0
    },
    "capped_by": null
   },
@@ -66,13 +66,13 @@
    "ebitda": 13.57,
    "pat": -3.54,
    "margin_pct": 17.5,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 30,
     "profit": 14,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Asian Hotels (North) Limited operates in the hospitality industry, owning and managing hotels in India.",
+  "segments": [
+   {
+    "name": "Hospitality",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material Uncertainty related to Going Concern: The Company has loss before exceptional items and tax during the year ended 31 March 2026 and current liabilities exceeded current assets as on 31 March 2026. Emphasis of Matter: Default in repayment of principal and interest with respect to borrowings and issuance of fresh equity shares on preferential basis utilized for repayment of aforementioned borrowings."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Material uncertainty related to going concern due to losses and current liabilities exceeding current assets",
+   "Default in repayment of borrowings (principal and interest)",
+   "Significant ongoing litigation and claims relating to direct tax, indirect tax, and other legal matters",
+   "Dependence on domestic tourism and business travel demand"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

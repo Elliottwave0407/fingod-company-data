@@ -3,7 +3,7 @@
  "sym": "SANSTAR",
  "name": "Sanstar Limited",
  "scrip": "544217",
- "mcap_cr": 1940.0,
+ "mcap_cr": 1899.35,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 15.38,
    "pat": 9.21,
    "margin_pct": 7.5,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 63,
     "profit": 86,
-    "quality": 50
+    "quality": 96
    },
    "capped_by": null
   }
@@ -99,7 +99,42 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sanstar Limited is one of India's largest manufacturers of plant-based specialty products and ingredient solutions, built around maize processing with two state-of-the-art facilities at Dhule (Maharashtra) and Kutch (Gujarat).",
+  "segments": [
+   {
+    "name": "Maize-based specialty products and ingredient solutions",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Combined installed capacity expansion",
+    "amount_cr": null,
+    "timeline": "Commissioned during FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Keyur J. Shah & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Chinese starch exports pressuring pricing in Southeast Asia",
+   "Input cost fluctuations and competitive pricing in the industry",
+   "Inventory valuation judgment involving joint cost allocation and net realizable value estimation"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

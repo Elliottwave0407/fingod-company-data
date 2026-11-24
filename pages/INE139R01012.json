@@ -3,7 +3,7 @@
  "sym": "FUSION",
  "name": "Fusion Finance Limited",
  "scrip": "543652",
- "mcap_cr": 2489.39,
+ "mcap_cr": 2448.92,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 59,
     "profit": 100,
-    "quality": 65
+    "quality": 100
    },
    "capped_by": "revenue down YoY"
   },
@@ -66,13 +66,13 @@
    "ebitda": 213.85,
    "pat": 62.41,
    "margin_pct": 46.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Strong",
    "pillars": {
     "growth": 67,
     "profit": 100,
-    "quality": 0
+    "quality": 100
    },
-   "capped_by": null
+   "capped_by": "revenue growth under 10%"
   }
  ],
  "completeness": {
@@ -99,7 +99,52 @@
   ],
   "concalls_found": 11,
   "concalls_read": 1,
-  "latest_concall": "2026-11-10"
+  "latest_concall": "2026-11-10",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Fusion Finance Limited is a non-banking financial company (NBFC) focused on microfinance and MSME financing, providing income-generating loans, loan against property, working capital, and business expansion funding to self-employed borrowers, while also distributing insurance products.",
+  "segments": [
+   {
+    "name": "Microfinance",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "MSME and Self-Employed Borrower Financing",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Insurance Distribution",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "In MFI, we will accelerate calibrated volume growth through improved origination infrastructure",
+    "metric": "MFI volume growth",
+    "value": "calibrated",
+    "by_when": "FY27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": null,
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 0,
+  "key_risks": [
+   "Borrower overleveraging in certain geographies",
+   "Rural income pressures and inflation",
+   "Regulatory and compliance changes relating to lending practices, provisioning norms, customer protection, governance standards, and data privacy",
+   "RBI's emphasis on responsible lending and borrower-level exposure norms"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "PFS",
  "name": "PTC India Financial Services Limited",
  "scrip": "533344",
- "mcap_cr": 1574.24,
+ "mcap_cr": 1555.61,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 107.34,
    "pat": 45.5,
    "margin_pct": 90.1,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 6,
     "profit": 20,
-    "quality": 14
+    "quality": 21
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 1,
     "profit": 20,
-    "quality": 11
+    "quality": 0
    },
    "capped_by": null
   },
@@ -80,11 +80,11 @@
    "ebitda": 49.35,
    "pat": 44.04,
    "margin_pct": 44.8,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 6,
     "profit": 20,
-    "quality": 49
+    "quality": 0
    },
    "capped_by": null
   }
@@ -109,7 +109,29 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-30"
+  "latest_concall": "2026-10-30",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "PTC India Financial Services Limited is a registered Non-Banking Finance Company (NBFC) with Infrastructure Finance Company (IFC) status, providing total financing solutions to the energy value chain including power generation, transmission, distribution, fuel resources, and road infrastructure projects.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Ravi Rajan & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Impairment of Loans and Advances (Expected Credit Loss Allowance) involving significant management judgement in staging, probability of default, loss given default, and forward-looking estimates"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

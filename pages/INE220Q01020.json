@@ -3,7 +3,7 @@
  "sym": "MUFTI",
  "name": "Credo Brands Marketing Limited",
  "scrip": "544058",
- "mcap_cr": 482.61,
+ "mcap_cr": 475.81,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 31,
     "profit": 39,
-    "quality": 27
+    "quality": 43
    },
    "capped_by": null
   },
@@ -99,7 +99,30 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Credo Brands Marketing Limited owns and operates MUFTI, a leading Indian lifestyle menswear brand offering casualwear, accessories, and fashion merchandise.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Key audit matter: Existence and Valuation of Inventory (Rs. 1,103.54 Million as at March 31, 2026) involving significant management judgment for provisions and risk relating to physical existence and completeness across multiple locations."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inventory valuation involves significant management judgment for provisions at lower of cost and net realisable value",
+   "Large volume of inventory items geographically dispersed across multiple locations creates inherent risk relating to physical existence and completeness of inventory records"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

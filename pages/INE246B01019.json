@@ -3,7 +3,7 @@
  "sym": "RAMCOSYS",
  "name": "Ramco Systems Limited",
  "scrip": "532370",
- "mcap_cr": 2012.95,
+ "mcap_cr": 2029.33,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 49,
     "profit": 26,
-    "quality": 72
+    "quality": 100
    },
    "capped_by": null
   },
@@ -66,11 +66,11 @@
    "ebitda": 25.46,
    "pat": 0.56,
    "margin_pct": 14.7,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 26,
     "profit": 12,
-    "quality": 0
+    "quality": 14
    },
    "capped_by": null
   },
@@ -109,7 +109,57 @@
   "missing": [],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2024-05-28"
+  "latest_concall": "2024-05-28",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ramco Systems Limited is an enterprise software company providing SaaS, product support, application maintenance, managed services, and fixed-price contract solutions across aviation, logistics, HR, and payroll domains.",
+  "segments": [
+   {
+    "name": "SaaS services, product support, and application maintenance",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Managed services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Fixed-price contracts",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure towards tangible & intangible assets",
+    "amount_cr": 200.0,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "General corporate purposes",
+    "amount_cr": 325.0,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M S Jagannathan & N Krishnaswami",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 17,
+  "key_risks": [
+   "Impairment risk for intangible assets (Product Software and Technology Platform) due to rapidly evolving technology environment",
+   "Useful life and amortisation estimation uncertainty for intangible assets",
+   "Capitalisation judgment risk distinguishing capital expenditure from revenue expenditure per Ind AS 38",
+   "Revenue recognition complexity across multiple streams (SaaS, managed services, fixed-price contracts)",
+   "Trade receivables credit risk and ECL provisioning adequacy"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

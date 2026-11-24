@@ -3,7 +3,7 @@
  "sym": "NINSYS",
  "name": "Nintec Systems Limited",
  "scrip": "539843",
- "mcap_cr": 1763.23,
+ "mcap_cr": 1793.7,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 82,
     "profit": 100,
-    "quality": 56
+    "quality": 45
    },
    "capped_by": "profit growth under 25%"
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 71,
     "profit": 92,
-    "quality": 70
+    "quality": 52
    },
    "capped_by": "profit growth under 25%"
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 62,
     "profit": 79,
-    "quality": 82
+    "quality": 78
    },
    "capped_by": null
   }
@@ -109,7 +109,37 @@
   "missing": [],
   "concalls_found": 1,
   "concalls_read": 1,
-  "latest_concall": "2024-06-05"
+  "latest_concall": "2024-06-05",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "NINtec Systems Limited is an AI-first software engineering company providing consulting, technology, outsourcing, and digital services to global enterprises across nine industry verticals including Healthcare & Life Sciences, Automotive & Aftermarket, Logistics & Supply Chain, Fintech & Banking, and Retail & E-Commerce.",
+  "segments": [
+   {
+    "name": "Software Engineering Services",
+    "share_of_revenue_pct": 100
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not specified in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Increasingly competitive IT support services environment",
+   "Performance and integration challenges with existing applications",
+   "Need to expand operational scope to remain competitive",
+   "Dependence on emerging technology areas"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

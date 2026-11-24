@@ -3,7 +3,7 @@
  "sym": "VRAJ",
  "name": "Vraj Iron and Steel Limited",
  "scrip": "544204",
- "mcap_cr": 428.28,
+ "mcap_cr": 425.31,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 69,
     "profit": 82,
-    "quality": 75
+    "quality": 84
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 88,
     "profit": 47,
-    "quality": 70
+    "quality": 69
    },
    "capped_by": null
   }
@@ -99,7 +99,64 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Vraj Iron and Steel Limited operates integrated steel manufacturing facilities producing Sponge Iron, MS Billets, TMT Bars, and Captive Power in Chhattisgarh, catering to infrastructure, construction, and engineering sectors.",
+  "segments": [
+   {
+    "name": "Iron and Steel & Power",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "TMT Bar manufacturing capacity expansion",
+    "amount_cr": null,
+    "timeline": "FY 2026-27"
+   },
+   {
+    "item": "Captive Power generation capacity expansion",
+    "amount_cr": null,
+    "timeline": "FY 2026-27"
+   },
+   {
+    "item": "Greenfield Integrated Steel Project at Bastar (first stage)",
+    "amount_cr": null,
+    "timeline": "Proposed"
+   },
+   {
+    "item": "Capital expenditure towards Expansion Project at Bilaspur Plant (IPO proceeds)",
+    "amount_cr": 59.5,
+    "timeline": "As per IPO utilization"
+   },
+   {
+    "item": "Estimated capital contracts remaining to be executed",
+    "amount_cr": 60.91,
+    "timeline": "As at March 31, 2026"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Amitabh Agrawal & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Raw material price volatility",
+   "Dependence on long-term fuel supply arrangements",
+   "Regulatory and tax disputes",
+   "Trademark infringement litigation",
+   "Environmental and water charges liabilities"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

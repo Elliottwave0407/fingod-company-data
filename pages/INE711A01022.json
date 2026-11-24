@@ -3,7 +3,7 @@
  "sym": "WALCHANNAG",
  "name": "Walchandnagar Industries Limited",
  "scrip": "507410",
- "mcap_cr": 1242.48,
+ "mcap_cr": 1229.22,
  "group": "B",
  "quarters": [
   {
@@ -52,13 +52,13 @@
    "ebitda": 4.83,
    "pat": 2.94,
    "margin_pct": 5.2,
-   "verdict_v3": "Strong",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 84,
-    "quality": 41
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   },
   {
    "q": "Jun-26",
@@ -66,13 +66,13 @@
    "ebitda": 7.34,
    "pat": 1.18,
    "margin_pct": 8.1,
-   "verdict_v3": "Steady",
+   "verdict_v3": "Excellent",
    "pillars": {
     "growth": 100,
     "profit": 86,
-    "quality": 0
+    "quality": 80
    },
-   "capped_by": null
+   "capped_by": "turnaround from a loss base"
   }
  ],
  "completeness": {
@@ -99,7 +99,45 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Walchandnagar Industries Limited is an Indian industrial company focused on Defence, Nuclear, and Aerospace sectors, engaged in manufacturing and project execution.",
+  "segments": [
+   {
+    "name": "Domestic",
+    "share_of_revenue_pct": 79.0
+   },
+   {
+    "name": "Export",
+    "share_of_revenue_pct": 21.0
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure",
+    "amount_cr": 33.06,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Jayesh Sanghrajka & Co. LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Recoverability of Trade Receivables involving significant estimates and judgements",
+   "Revenue Recognition involving significant accounting judgements in estimating revenue on contracts with custom specifications"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

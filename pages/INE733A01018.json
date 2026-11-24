@@ -3,7 +3,7 @@
  "sym": "STARPAPER",
  "name": "Star Paper Mills Limited",
  "scrip": "516022",
- "mcap_cr": 237.25,
+ "mcap_cr": 234.2,
  "group": "B",
  "quarters": [
   {
@@ -66,11 +66,11 @@
    "ebitda": 2.79,
    "pat": 11.01,
    "margin_pct": 2.7,
-   "verdict_v3": "Weak",
+   "verdict_v3": "Poor",
    "pillars": {
     "growth": 14,
     "profit": 2,
-    "quality": 45
+    "quality": 11
    },
    "capped_by": null
   }
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Star Paper Mills Limited manufactures paper products at its mill in Saharanpur, Uttar Pradesh.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Lodha & Co., LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Cheap imports impacting the Indian paper industry",
+   "Changes in GST rates affecting the notebook segment",
+   "Rising energy costs",
+   "Potential export market disruptions due to geopolitical tensions in West Asia",
+   "Steep depreciation of Indian Rupee",
+   "Loss of export markets",
+   "Stagflationary pressures from Middle East conflict",
+   "Significant management judgement required for provisions and contingent liabilities"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

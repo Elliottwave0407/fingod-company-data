@@ -3,7 +3,7 @@
  "sym": "ZIMLAB",
  "name": "Zim Laboratories Limited",
  "scrip": "541400",
- "mcap_cr": 793.88,
+ "mcap_cr": 765.17,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 11,
     "profit": 5,
-    "quality": 17
+    "quality": 13
    },
    "capped_by": null
   },
@@ -70,9 +70,9 @@
    "pillars": {
     "growth": 37,
     "profit": 2,
-    "quality": 0
+    "quality": 18
    },
-   "capped_by": null
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -99,7 +99,55 @@
   ],
   "concalls_found": 9,
   "concalls_read": 9,
-  "latest_concall": "2026-11-11"
+  "latest_concall": "2026-11-11",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "ZIM Laboratories Limited is a globally recognised provider of innovative Drug Delivery Solutions, specialising in the development, manufacturing, and supply of differentiated and complex generic products in oral solid dosage forms using Novel Drug Delivery Techniques (NDDS) and proprietary, non-infringing manufacturing technologies.",
+  "segments": [
+   {
+    "name": "Pharmaceuticals",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Nutraceuticals",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Purchases of property, plant and equipment and intangible assets",
+    "amount_cr": 44.39,
+    "timeline": "FY26"
+   }
+  ],
+  "guidance_or_targets": [
+   {
+    "statement": "We remain confident of restoring full business momentum in these regions once conditions stabilise. We believe revenue growth will materially improve.",
+    "metric": "Revenue growth",
+    "value": "Materially improve",
+    "by_when": "Once conditions stabilise"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Deloitte Haskins & Sells LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Temporary pause in EU-GMP accreditation",
+   "Geopolitical disruptions in the Middle East and South Asia",
+   "Rising costs in manpower, materials, utilities, and logistics",
+   "Regulatory approval delays for marketing rights",
+   "Impairment risk on capitalized marketing rights and intangible assets under development"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

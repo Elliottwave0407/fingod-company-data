@@ -3,7 +3,7 @@
  "sym": "AHLUCONT",
  "name": "Ahluwalia Contracts (India) Limited",
  "scrip": "532811",
- "mcap_cr": 3531.25,
+ "mcap_cr": 3410.0,
  "group": "A",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 34,
     "profit": 32,
-    "quality": 41
+    "quality": 28
    },
    "capped_by": null
   },
@@ -99,7 +99,60 @@
   ],
   "concalls_found": 10,
   "concalls_read": 10,
-  "latest_concall": "2026-08-20"
+  "latest_concall": "2026-08-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ahluwalia Contracts (India) Limited is an integrated construction company delivering turnkey EPC solutions across residential, commercial, institutional, hospital, hotel, and infrastructure projects in India and overseas.",
+  "segments": [
+   {
+    "name": "Residential",
+    "share_of_revenue_pct": 39.7
+   },
+   {
+    "name": "Infrastructure",
+    "share_of_revenue_pct": 29.9
+   },
+   {
+    "name": "Commercial",
+    "share_of_revenue_pct": 17.6
+   },
+   {
+    "name": "Hospital",
+    "share_of_revenue_pct": 6.3
+   },
+   {
+    "name": "Institutional",
+    "share_of_revenue_pct": 5.9
+   },
+   {
+    "name": "Hotel",
+    "share_of_revenue_pct": 0.6
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "CAPEX",
+    "amount_cr": 264.64,
+    "timeline": "FYE 26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": 29675.7,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition for long-term construction contracts involves significant judgements in assessment of stage of completion, estimated total contract costs and revenues, changes in scope and consequential revision in contract price, and recognition of liability for loss making contracts"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

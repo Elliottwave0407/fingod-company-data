@@ -3,7 +3,7 @@
  "sym": "RVHL",
  "name": "Ravinder Heights Limited",
  "scrip": "543251",
- "mcap_cr": 248.06,
+ "mcap_cr": 251.31,
  "group": "B",
  "quarters": [
   {
@@ -91,7 +91,27 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Ravinder Heights Limited is a real estate development company that, through its wholly owned subsidiary Radhika Heights Limited and step-down subsidiaries, owns land and develops affordable plotted colonies under the DDJAY scheme in Gurugram, Haryana.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 6,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

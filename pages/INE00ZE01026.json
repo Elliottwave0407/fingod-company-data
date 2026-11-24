@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 50,
     "profit": 0,
-    "quality": 0
+    "quality": 1
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 34,
-    "quality": 80
+    "quality": 70
    },
    "capped_by": null
   }
@@ -99,7 +99,27 @@
   ],
   "concalls_found": 5,
   "concalls_read": 5,
-  "latest_concall": "2025-08-12"
+  "latest_concall": "2025-08-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Abans Financial Services Limited is a diversified financial services entity with presence across broking, NBFC operations, agri-commodities, asset management, and international remittance.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "C N K & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 177,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

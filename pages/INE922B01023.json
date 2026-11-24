@@ -3,7 +3,7 @@
  "sym": "PANACEABIO",
  "name": "Panacea Biotec Limited",
  "scrip": "531349",
- "mcap_cr": 2059.56,
+ "mcap_cr": 2025.26,
  "group": "B",
  "quarters": [
   {
@@ -56,9 +56,9 @@
    "pillars": {
     "growth": 84,
     "profit": 60,
-    "quality": 0
+    "quality": 51
    },
-   "capped_by": null
+   "capped_by": "net loss"
   },
   {
    "q": "Jun-26",
@@ -66,11 +66,11 @@
    "ebitda": 8.41,
    "pat": 2.2,
    "margin_pct": 4.2,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 35,
     "profit": 15,
-    "quality": 0
+    "quality": 9
    },
    "capped_by": null
   }
@@ -99,7 +99,37 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Panacea Biotec Limited is a pharmaceutical company engaged in the research, development, manufacturing, and marketing of pharmaceutical formulations and vaccines.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 20.91,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s Suresh Surana & Associates LLP",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Material Uncertainty Related to Going Concern: The Company has incurred losses (including other comprehensive income) amounting to \u20b9287.60 million for the year ended March 31, 2026, and the retained earnings are negative to the extent of \u20b92,178.43 million as on March 31, 2026. These conditions indicate that a material uncertainty exists that may cast significant doubt on the Company's ability to continue as a going concern."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": 1149,
+  "subsidiaries_count": 5,
+  "key_risks": [
+   "Material uncertainty related to going concern due to accumulated losses and negative retained earnings",
+   "Revenue recognition risk due to judgment in timing of transfer of control across various geographies and Incoterms",
+   "Impairment risk of property, plant and equipment"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

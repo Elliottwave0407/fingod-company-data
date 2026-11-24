@@ -3,7 +3,7 @@
  "sym": "MADHUCON",
  "name": "Madhucon Projects Limited",
  "scrip": "531497",
- "mcap_cr": 30.03,
+ "mcap_cr": 30.62,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -30.14,
    "pat": -96.15,
    "margin_pct": -24.0,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 17,
+    "profit": 35,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -95,7 +99,52 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Madhucon Projects Limited executes infrastructure projects across transportation (highways, tunnels, railways, flyovers), irrigation (canals, dams, tunnels, spillways, pump houses, lift irrigation), and industrial projects (coal handling plants) across India.",
+  "segments": [
+   {
+    "name": "Transportation Division",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Irrigation Projects",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Industrial Projects",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": 5263,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "qualified",
+   "emphasis_or_qualification": "Qualified opinion due to: 1) Unable to comment on carrying value of equity investments (Rs 36,657.07 lakhs) and other investments (Rs 6,426.85 lakhs) in subsidiaries with eroded net worth/going concern issues; 2) Partial write-offs in Madhucon Infra Limited (75% written off) and Madurai Tuticorin Expressways Limited (66.66% written off) without proper justification; 3) Default in payment to Punjab National Bank with interest not provided; 4) Recognition of Rs 15,252.71 lakhs advance as revenue without proper justification; 5) Write-back of trade payables Rs 14,279.73 lakhs; 6) Write-off of advances Rs 13.90 lakhs; 7) Unpaid dividend Rs 4.46 lakhs not transferred to IEPF; 8) GST reconciliation pending; 9) Internal audit not conducted; 10) Title deeds not produced for certain lands; 11) Managerial remuneration Rs 74.50 lakhs without lender approval; 12) Undisputed statutory dues outstanding (DDT Rs 139.93 lakhs, PF Rs 63.95 lakhs); 13) CBI FIR against step-down subsidiary Ranchi Expressways Ltd."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Investments in subsidiaries with substantially eroded net worth and going concern issues (Madhucon Infra Limited, Madurai Tuticorin Expressways Limited)",
+   "Default in payment of dues to Punjab National Bank classified as NPA",
+   "Recognition of advances received in earlier years as revenue without proper justification",
+   "Write-back of trade payables and write-off of advances",
+   "Non-transfer of unpaid dividend to IEPF",
+   "GST reconciliation pending with returns filed",
+   "Internal audit not conducted for FY 2025-26",
+   "Title deeds not produced for certain immovable properties",
+   "Managerial remuneration paid without prior lender approval",
+   "Outstanding undisputed statutory dues (Dividend Distribution Tax, Provident Fund)",
+   "CBI FIR against step-down subsidiary Ranchi Expressways Ltd under Prevention of Corruption Act"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

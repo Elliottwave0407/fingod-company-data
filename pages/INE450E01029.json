@@ -3,7 +3,7 @@
  "sym": "SUKHJITS",
  "name": "Sukhjit Starch & Chemicals Limited",
  "scrip": "524542",
- "mcap_cr": 489.59,
+ "mcap_cr": 481.78,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 70,
     "profit": 54,
-    "quality": 58
+    "quality": 70
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 68,
     "profit": 62,
-    "quality": 59
+    "quality": 81
    },
    "capped_by": "revenue growth under 10%"
   }
@@ -99,7 +99,45 @@
   ],
   "concalls_found": 7,
   "concalls_read": 7,
-  "latest_concall": "2025-11-18"
+  "latest_concall": "2025-11-18",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Sukhjit Starch and Chemicals Limited is one of India's oldest and leading manufacturers of starch and starch derivatives, offering products such as Native Starch, Dextrines, Pre-gel Starch, liquid glucose, Malto-dextrin Powder, Dextrose Monohydrate, Sorbitol, Dextrose Anhydrous and allied by-products.",
+  "segments": [
+   {
+    "name": "Starch and starch derivatives",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Maize Grind Capacity",
+    "amount_cr": null,
+    "timeline": "1600+ TPD"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Y K Sud & Co., Chartered Accountants",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Raw material price volatility, particularly maize",
+   "Competing uses of maize such as biofuel/ethanol production",
+   "Climatic conditions impacting agricultural output",
+   "Capacity constraints",
+   "Geopolitical tensions and trade frictions",
+   "Inflationary pressures and energy price volatility"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

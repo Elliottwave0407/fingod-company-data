@@ -3,7 +3,7 @@
  "sym": "ROSSARI",
  "name": "Rossari Biotech Limited",
  "scrip": "543213",
- "mcap_cr": 2329.6,
+ "mcap_cr": 2311.6,
  "group": "B",
  "quarters": [
   {
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 64,
     "profit": 31,
-    "quality": 28
+    "quality": 29
    },
    "capped_by": null
   },
@@ -84,7 +84,7 @@
    "pillars": {
     "growth": 60,
     "profit": 44,
-    "quality": 29
+    "quality": 32
    },
    "capped_by": null
   }
@@ -109,7 +109,42 @@
   "missing": [],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-10-22"
+  "latest_concall": "2026-10-22",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Rossari Biotech Limited manufactures and sells specialty chemical products across Home, Personal Care and Performance Chemicals (HPPC), Textile Specialty Chemicals (TSC), and Animal Health and Nutrition (AHN) segments.",
+  "segments": [
+   {
+    "name": "Home, Personal Care and Performance Chemicals (HPPC)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Textile Specialty Chemicals (TSC)",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Animal Health and Nutrition (AHN)",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Revenue recognition risk due to volume of transactions, diverse contract terms, and pressure to achieve performance targets"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

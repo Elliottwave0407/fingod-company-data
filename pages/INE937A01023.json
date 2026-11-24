@@ -3,7 +3,7 @@
  "sym": "SPMLINFRA",
  "name": "SPML Infra Limited",
  "scrip": "500402",
- "mcap_cr": 1163.21,
+ "mcap_cr": 1159.39,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 97,
     "profit": 54,
-    "quality": 100
+    "quality": 88
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 100,
     "profit": 86,
-    "quality": 95
+    "quality": 71
    },
    "capped_by": null
   }
@@ -99,7 +99,40 @@
   ],
   "concalls_found": 12,
   "concalls_read": 11,
-  "latest_concall": "2026-11-20"
+  "latest_concall": "2026-11-20",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SPML Infra Limited engineers water infrastructure systems including sourcing, treatment, transmission, distribution, and wastewater management, having executed over 700 projects since 1981.",
+  "segments": [
+   {
+    "name": "Water Infrastructure",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Power Infrastructure",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Battery Energy Storage Systems",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

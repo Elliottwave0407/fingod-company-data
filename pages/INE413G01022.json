@@ -3,7 +3,7 @@
  "sym": "TPLPLASTEH",
  "name": "TPL Plastech Limited",
  "scrip": "526582",
- "mcap_cr": 572.15,
+ "mcap_cr": 552.26,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 57,
     "profit": 30,
-    "quality": 55
+    "quality": 46
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 64,
     "profit": 18,
-    "quality": 52
+    "quality": 44
    },
    "capped_by": null
   }
@@ -99,7 +99,29 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "TPL Plastech Limited is engaged in the manufacturing of polymer-based products, exposed to fluctuations in polymer prices.",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Raman S. Shah & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "The Company is exposed to fluctuations in polymer prices which are determined by the supply and demand in the Indian and international markets. Since polymers are crude derivatives, the prices also tend to follow crude prices which are volatile and this volatility has an effect on Company's income and net profit."
+  ],
+  "dividend_per_share": 1.3
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SECURKLOUD",
  "name": "SECUREKLOUD TECHNOLOGIES LIMITED",
  "scrip": "512161",
- "mcap_cr": 43.87,
+ "mcap_cr": 41.76,
  "group": "B",
  "quarters": [
   {
@@ -52,9 +52,13 @@
    "ebitda": -3.82,
    "pat": -7.2,
    "margin_pct": -44.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Poor",
+   "pillars": {
+    "growth": 0,
+    "profit": -36,
+    "quality": 0
+   },
+   "capped_by": null
   },
   {
    "q": "Jun-26",
@@ -62,9 +66,13 @@
    "ebitda": -0.84,
    "pat": -1.68,
    "margin_pct": -6.2,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "no profit base"
+   "verdict_v3": "Weak",
+   "pillars": {
+    "growth": 63,
+    "profit": 75,
+    "quality": 100
+   },
+   "capped_by": "net loss"
   }
  ],
  "completeness": {
@@ -91,7 +99,40 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "SecureKloud Technologies Limited provides AI, Cloud, SaaS, and Digital Transformation solutions, with a focus on its AI-powered document automation platform DocuGenie.AI\u2122 and Cloud Managed Services (iCMS).",
+  "segments": [],
+  "capacity_or_capex": [],
+  "guidance_or_targets": [
+   {
+    "statement": "Management has identified the ensuing three quarters of the Financial Year 2026\u201327 as the critical period to evaluate the Company's operational and financial turnaround.",
+    "metric": "Operational and financial turnaround evaluation",
+    "value": "Critical period identified",
+    "by_when": "Three quarters of FY 2026-27"
+   }
+  ],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Veena & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": "Emphasis of Matter on: (a) Bankruptcy of overseas subsidiary SecureKloud Technologies Inc., USA under Chapter 7 and consequential financial impact (Note 41); (b) Contingent liabilities relating to disputes under GST and Income Tax laws (Note 30). Material Uncertainty Related to Going Concern: Current liabilities exceeded total assets by \u20b91,567 lakhs as at March 31, 2026; potential liabilities from legal/regulatory proceedings; management represents promoter financial support and reassessment of going concern assumption in FY 2026-27."
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Material uncertainty related to going concern: current liabilities exceeded total assets by \u20b91,567 lakhs as at March 31, 2026",
+   "Potential liabilities from legal and regulatory proceedings by statutory authorities",
+   "Bankruptcy of overseas subsidiary SecureKloud Technologies Inc., USA under Chapter 7",
+   "Contingent liabilities from disputes under GST and Income Tax laws",
+   "Dependence on promoter financial support to meet obligations"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

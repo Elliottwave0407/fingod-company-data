@@ -3,7 +3,7 @@
  "sym": "JAYAGROGN",
  "name": "Jayant Agro Organics Limited",
  "scrip": "524330",
- "mcap_cr": 675.0,
+ "mcap_cr": 662.55,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 59,
     "profit": 52,
-    "quality": 71
+    "quality": 77
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 64,
     "profit": 40,
-    "quality": 53
+    "quality": 55
    },
    "capped_by": null
   }
@@ -99,7 +99,41 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Jayant Agro-Organics Limited is engaged in the manufacturing and trading of castor oil and its derivatives.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital Expenditure other than Building",
+    "amount_cr": 4.23,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Total Capital Expenditure",
+    "amount_cr": 4.54,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "Not explicitly stated in excerpts",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Fluctuations in raw material prices",
+   "Global demand conditions"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

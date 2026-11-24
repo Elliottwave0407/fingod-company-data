@@ -3,7 +3,7 @@
  "sym": "HPL",
  "name": "HPL Electric & Power Limited",
  "scrip": "540136",
- "mcap_cr": 1584.69,
+ "mcap_cr": 1546.43,
  "group": "B",
  "quarters": [
   {
@@ -56,7 +56,7 @@
    "pillars": {
     "growth": 33,
     "profit": 43,
-    "quality": 10
+    "quality": 15
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 60,
     "profit": 11,
-    "quality": 13
+    "quality": 25
    },
    "capped_by": null
   }
@@ -99,7 +99,53 @@
   ],
   "concalls_found": 11,
   "concalls_read": 11,
-  "latest_concall": "2026-11-12"
+  "latest_concall": "2026-11-12",
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "HPL Electric & Power Limited operates as a two-engine electrical platform comprising Metering, Systems & Services and Consumer, Industrial & Services segments.",
+  "segments": [
+   {
+    "name": "Metering, Systems & Services",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Consumer, Industrial & Services",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Metering, Systems & Services",
+    "amount_cr": 123.32,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Consumer, Industrial & Services",
+    "amount_cr": 52.13,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "M/s. Sakshi & Associates",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": 72.66,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": 3,
+  "key_risks": [
+   "Tax litigations with significant judgement involved in assessment of outcomes",
+   "Economic fluctuations influencing demand and supply dynamics and pricing",
+   "Modifications in governmental regulations and policies, taxation norms",
+   "Availability and cost of raw materials",
+   "Competitive challenges"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }

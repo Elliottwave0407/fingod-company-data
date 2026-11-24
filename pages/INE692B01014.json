@@ -3,7 +3,7 @@
  "sym": "MURUDCERA",
  "name": "Murudeshwar Ceramics Limited",
  "scrip": "515037",
- "mcap_cr": 163.77,
+ "mcap_cr": 157.72,
  "group": "B",
  "quarters": [
   {
@@ -52,11 +52,11 @@
    "ebitda": 9.71,
    "pat": 1.58,
    "margin_pct": 15.5,
-   "verdict_v3": "Poor",
+   "verdict_v3": "Weak",
    "pillars": {
     "growth": 18,
     "profit": 32,
-    "quality": 0
+    "quality": 3
    },
    "capped_by": null
   },
@@ -70,7 +70,7 @@
    "pillars": {
     "growth": 49,
     "profit": 64,
-    "quality": 0
+    "quality": 3
    },
    "capped_by": null
   }
@@ -99,7 +99,36 @@
   ],
   "concalls_found": 0,
   "concalls_read": 0,
-  "latest_concall": null
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "Murudeshwar Ceramics Ltd. manufactures ceramic tiles.",
+  "segments": [],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure (allocable)",
+    "amount_cr": 401.2804,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "K G RAO & Co.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "Inventory valuation risk due to significant inventory balance (18.61% of total assets) requiring management judgment on net realizable value",
+   "Property, Plant and Equipment capitalization risk from inappropriate timing or classification of project capitalization affecting depreciation and results"
+  ],
+  "dividend_per_share": null
  },
  "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
 }
