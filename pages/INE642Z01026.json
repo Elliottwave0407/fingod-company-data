@@ -56,23 +56,6 @@
    "ebitda": -1.41,
    "pat": 0.76,
    "margin_pct": -3.9,
-   "verdict": "Strong",
-   "verdict_version": "v2.1",
-   "tags": {
-    "vs_expectation": null,
-    "momentum": null,
-    "acceleration": null
-   },
-   "verdict_notes": [
-    "small base"
-   ]
-  },
-  {
-   "q": "Jun-26",
-   "revenue": 29.04,
-   "ebitda": -0.11,
-   "pat": 0.51,
-   "margin_pct": -0.4,
    "verdict": "Steady",
    "verdict_version": "v2.1",
    "tags": {
@@ -81,8 +64,27 @@
     "acceleration": null
    },
    "verdict_notes": [
+    "small base",
+    "net profit fell more than 10% QoQ"
+   ]
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 29.04,
+   "ebitda": -0.11,
+   "pat": 0.51,
+   "margin_pct": -0.4,
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
     "revenue fell more than 5% QoQ (seasonally adjusted)",
-    "small base"
+    "small base",
+    "net profit fell more than 10% QoQ"
    ]
   }
  ],

@@ -88,7 +88,7 @@
    "ebitda": 9.12,
    "pat": 1.73,
    "margin_pct": 11.7,
-   "verdict": "Weak",
+   "verdict": "Poor",
    "verdict_version": "v2.1",
    "tags": {
     "vs_expectation": "In line",
@@ -98,7 +98,8 @@
    "verdict_notes": [
     "revenue and profit both fell QoQ with profit barely up YoY",
     "revenue growth under 15% YoY without 30%+ profit growth",
-    "margin fell QoQ"
+    "margin fell QoQ",
+    "net profit fell more than 10% QoQ"
    ]
   }
  ],

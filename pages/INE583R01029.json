@@ -56,7 +56,7 @@
    "ebitda": 16.65,
    "pat": 4.77,
    "margin_pct": 12.0,
-   "verdict": "Steady",
+   "verdict": "Weak",
    "verdict_version": "v2.1",
    "tags": {
     "vs_expectation": null,
@@ -65,7 +65,8 @@
    },
    "verdict_notes": [
     "margin fell QoQ",
-    "margin fell QoQ and is not up YoY"
+    "margin fell QoQ and is not up YoY",
+    "net profit fell more than 10% QoQ"
    ]
   },
   {

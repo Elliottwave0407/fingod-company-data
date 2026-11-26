@@ -74,14 +74,16 @@
    "ebitda": 26.87,
    "pat": 22.68,
    "margin_pct": 9.5,
-   "verdict": "Blockbuster",
+   "verdict": "Excellent",
    "verdict_version": "v2.1",
    "tags": {
     "vs_expectation": "Ahead",
     "momentum": "Mixed",
     "acceleration": 74.9
    },
-   "verdict_notes": []
+   "verdict_notes": [
+    "net profit fell more than 10% QoQ"
+   ]
   }
  ],
  "completeness": {

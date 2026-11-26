@@ -56,7 +56,7 @@
    "ebitda": 15.59,
    "pat": 8.28,
    "margin_pct": 17.8,
-   "verdict": "Excellent",
+   "verdict": "Strong",
    "verdict_version": "v2.1",
    "tags": {
     "vs_expectation": null,
@@ -66,7 +66,8 @@
    "verdict_notes": [
     "margin fell QoQ",
     "margin fell QoQ and is not up YoY",
-    "margin not holding (Blockbuster needs margin flat or up)"
+    "margin not holding (Blockbuster needs margin flat or up)",
+    "net profit fell more than 10% QoQ"
    ]
   },
   {

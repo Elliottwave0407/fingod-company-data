@@ -56,7 +56,7 @@
    "ebitda": 112.38,
    "pat": 67.64,
    "margin_pct": 13.5,
-   "verdict": "Steady",
+   "verdict": "Weak",
    "verdict_version": "v2.1",
    "tags": {
     "vs_expectation": null,
@@ -64,7 +64,8 @@
     "acceleration": null
    },
    "verdict_notes": [
-    "revenue fell more than 5% QoQ (seasonally adjusted)"
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "net profit fell more than 10% QoQ"
    ]
   },
   {
@@ -73,7 +74,7 @@
    "ebitda": 72.31,
    "pat": 33.92,
    "margin_pct": 8.6,
-   "verdict": "Steady",
+   "verdict": "Weak",
    "verdict_version": "v2.1",
    "tags": {
     "vs_expectation": "Behind",
@@ -83,7 +84,8 @@
    "verdict_notes": [
     "revenue fell more than 5% QoQ (seasonally adjusted)",
     "margin fell QoQ",
-    "EBITDA or profit fell 30%+ QoQ"
+    "EBITDA or profit fell 30%+ QoQ",
+    "net profit fell more than 10% QoQ"
    ]
   },
   {

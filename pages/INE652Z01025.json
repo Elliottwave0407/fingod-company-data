@@ -56,14 +56,16 @@
    "ebitda": 0.65,
    "pat": 0.98,
    "margin_pct": 2.4,
-   "verdict": "Excellent",
+   "verdict": "Strong",
    "verdict_version": "v2.1",
    "tags": {
     "vs_expectation": null,
     "momentum": "Mixed",
     "acceleration": null
    },
-   "verdict_notes": []
+   "verdict_notes": [
+    "net profit fell more than 10% QoQ"
+   ]
   },
   {
    "q": "Jun-26",
