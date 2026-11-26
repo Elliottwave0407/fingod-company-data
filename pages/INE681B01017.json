@@ -3,7 +3,7 @@
  "sym": "INDRAMEDCO",
  "name": "Indraprastha Medical Corporation Limited",
  "scrip": "532150",
- "mcap_cr": 3255.77,
+ "mcap_cr": 3196.18,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 61.32,
    "pat": 41.01,
    "margin_pct": 18.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 73.15,
    "pat": 51.46,
    "margin_pct": 20.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 71.31,
    "pat": 49.46,
    "margin_pct": 18.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 61.95,
    "pat": 41.0,
    "margin_pct": 16.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 60.51,
    "pat": 41.7,
    "margin_pct": 16.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 32,
-    "profit": 26,
-    "quality": 28
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,16 @@
    "ebitda": 79.81,
    "pat": 55.85,
    "margin_pct": 19.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 42,
-    "profit": 44,
-    "quality": 37
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 6.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,18 @@
    "ebitda": 77.44,
    "pat": 53.58,
    "margin_pct": 18.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 39,
-    "profit": 47,
-    "quality": 40
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": -0.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -148,5 +165,6 @@
   "latest_guidance": [],
   "ledger": "claims/INE681B01017.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "XELPMOC",
  "name": "Xelpmoc Design And Tech Limited",
  "scrip": "542367",
- "mcap_cr": 122.4,
+ "mcap_cr": 122.04,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -1.69,
    "pat": -1.86,
    "margin_pct": -238.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -1.73,
    "pat": -1.88,
    "margin_pct": -219.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -1.85,
    "pat": -1.93,
    "margin_pct": -243.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -2.02,
    "pat": -2.0,
    "margin_pct": -180.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,9 +56,17 @@
    "ebitda": -1.8,
    "pat": -1.78,
    "margin_pct": -166.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -62,9 +74,19 @@
    "ebitda": -1.71,
    "pat": -2.2,
    "margin_pct": -178.1,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -168,5 +190,6 @@
   ],
   "ledger": "claims/INE01P501012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

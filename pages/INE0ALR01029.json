@@ -3,7 +3,7 @@
  "sym": "ATALREAL",
  "name": "Atal Realtech Limited",
  "scrip": "543911",
- "mcap_cr": 172.59,
+ "mcap_cr": 169.99,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 2.12,
    "pat": 0.49,
    "margin_pct": 4.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 1.11,
    "pat": 0.66,
    "margin_pct": 10.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 2.55,
    "pat": 1.04,
    "margin_pct": 12.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 2.86,
    "pat": 1.71,
    "margin_pct": 9.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 4.67,
    "pat": 3.08,
    "margin_pct": 7.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 91,
-    "profit": 67,
-    "quality": 94
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,18 @@
    "ebitda": 1.93,
    "pat": 1.0,
    "margin_pct": 17.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 65,
-    "profit": 94,
-    "quality": 84
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -21.9
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -141,5 +153,6 @@
   ],
   "ledger": "claims/INE0ALR01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

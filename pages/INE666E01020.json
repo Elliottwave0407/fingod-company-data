@@ -3,7 +3,7 @@
  "sym": "ACL",
  "name": "Andhra Cements Limited",
  "scrip": "532141",
- "mcap_cr": 365.0,
+ "mcap_cr": 358.64,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -11.56,
    "pat": -49.91,
    "margin_pct": -12.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 6.64,
    "pat": -29.62,
    "margin_pct": 6.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -4.5,
    "pat": -41.94,
    "margin_pct": -5.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 5.07,
    "pat": -44.14,
    "margin_pct": 4.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 8.83,
    "pat": 48.52,
    "margin_pct": 5.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 85,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,20 @@
    "ebitda": 3.74,
    "pat": -35.93,
    "margin_pct": 2.6,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 43,
-    "profit": 2,
-    "quality": 94
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +95,18 @@
    "ebitda": 14.22,
    "pat": -28.35,
    "margin_pct": 8.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 100,
-    "profit": 87,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -150,5 +170,34 @@
   "latest_guidance": [],
   "ledger": "claims/INE666E01020.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G25",
+  "group_name": "cement, clinker, cement clinker",
+  "subgroup": "G25.0",
+  "subgroup_name": "cement, clinker, cement clinker",
+  "terms": [
+   "cement",
+   "clinker",
+   "cement clinker",
+   "limestone",
+   "fuels",
+   "clinker cement"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE071F01012",
+    "name": "Anjani Portland Cement Limited"
+   },
+   {
+    "isin": "INE583C01021",
+    "name": "Deccan Cements Limited"
+   },
+   {
+    "isin": "INE626A01014",
+    "name": "Saurashtra Cement Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

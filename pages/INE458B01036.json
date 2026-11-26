@@ -3,7 +3,7 @@
  "sym": "BHAGYANGR",
  "name": "Bhagyanagar India Limited",
  "scrip": "512296",
- "mcap_cr": 277.82,
+ "mcap_cr": 272.29,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 11.36,
    "pat": 4.58,
    "margin_pct": 2.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 16.19,
    "pat": 7.57,
    "margin_pct": 3.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 25.21,
    "pat": 11.27,
    "margin_pct": 4.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 28.59,
    "pat": 12.84,
    "margin_pct": 5.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 36.15,
    "pat": 18.49,
    "margin_pct": 4.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 60,
-    "quality": 79
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 38.29,
    "pat": 20.25,
    "margin_pct": 5.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 94,
-    "profit": 57,
-    "quality": 78
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -34.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   }
  ],
  "completeness": {
@@ -97,9 +107,9 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 4,
-  "concalls_read": 4,
-  "latest_concall": "2026-07-30",
+  "concalls_found": 5,
+  "concalls_read": 5,
+  "latest_concall": "2026-11-25",
   "annual_report_fy": 2026
  },
  "annual_report": {
@@ -165,5 +175,6 @@
   ],
   "ledger": "claims/INE458B01036.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

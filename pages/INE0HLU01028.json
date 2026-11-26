@@ -3,7 +3,7 @@
  "sym": "MOBIKWIK",
  "name": "One Mobikwik Systems Limited",
  "scrip": "544305",
- "mcap_cr": 1678.08,
+ "mcap_cr": 1652.78,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -56.5,
    "pat": -56.04,
    "margin_pct": -21.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -41.44,
    "pat": -41.92,
    "margin_pct": -15.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -27.32,
    "pat": -28.61,
    "margin_pct": -10.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 6.7,
    "pat": 4.05,
    "margin_pct": 2.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 6.33,
    "pat": 4.38,
    "margin_pct": 2.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 38,
-    "profit": 82,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,18 @@
    "ebitda": 8.1,
    "pat": 7.62,
    "margin_pct": 2.9,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 31,
-    "profit": 82,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -179,5 +194,6 @@
   ],
   "ledger": "claims/INE0HLU01028.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

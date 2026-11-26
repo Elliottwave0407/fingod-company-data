@@ -3,7 +3,7 @@
  "sym": "GLOSTERLTD",
  "name": "Gloster Limited",
  "scrip": "542351",
- "mcap_cr": 582.4,
+ "mcap_cr": 569.1,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 14.43,
    "pat": -2.32,
    "margin_pct": 5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 30.04,
    "pat": 3.0,
    "margin_pct": 9.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 39.52,
    "pat": 7.67,
    "margin_pct": 11.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 36.85,
    "pat": -0.74,
    "margin_pct": 9.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 40.64,
    "pat": 8.21,
    "margin_pct": 10.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 90,
-    "profit": 89,
-    "quality": 61
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,19 @@
    "ebitda": 37.16,
    "pat": -2.34,
    "margin_pct": 8.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 74,
-    "profit": 27,
-    "quality": 8
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -64.0
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -144,5 +155,38 @@
   "latest_guidance": [],
   "ledger": "claims/INE350Z01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G15",
+  "group_name": "bags, jute, woven",
+  "subgroup": "G15.0",
+  "subgroup_name": "bags, jute, woven",
+  "terms": [
+   "bags",
+   "jute",
+   "woven",
+   "packaging",
+   "hdpe",
+   "fibc"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE035801013",
+    "name": "Aeroflex Neu Limited"
+   },
+   {
+    "isin": "INE065D01027",
+    "name": "Aeroflex Enterprises Limited"
+   },
+   {
+    "isin": "INE073V01015",
+    "name": "Commercial Syn Bags Limited"
+   },
+   {
+    "isin": "INE974B01016",
+    "name": "Cheviot Company Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

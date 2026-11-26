@@ -3,7 +3,7 @@
  "sym": "PLASTIBLEN",
  "name": "Plastiblends India Limited",
  "scrip": "523648",
- "mcap_cr": 449.35,
+ "mcap_cr": 435.58,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 14.44,
    "pat": 9.57,
    "margin_pct": 7.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 13.48,
    "pat": 8.92,
    "margin_pct": 6.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 10.86,
    "pat": 7.44,
    "margin_pct": 5.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 9.68,
    "pat": 6.47,
    "margin_pct": 5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 19.0,
    "pat": 13.86,
    "margin_pct": 9.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 55,
-    "profit": 57,
-    "quality": 75
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,14 @@
    "ebitda": 21.98,
    "pat": 14.95,
    "margin_pct": 9.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 72,
-    "profit": 71,
-    "quality": 84
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 14.9
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +88,16 @@
    "ebitda": 16.14,
    "pat": 10.65,
    "margin_pct": 7.1,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 74,
-    "profit": 52,
-    "quality": 68
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -5.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -147,5 +158,30 @@
   "latest_guidance": [],
   "ledger": "claims/INE083C01022.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G32",
+  "group_name": "masterbatches, packaging automotive, plastics",
+  "subgroup": "G32.0",
+  "subgroup_name": "masterbatches, packaging automotive, plastics",
+  "terms": [
+   "masterbatches",
+   "packaging automotive",
+   "plastics",
+   "masterbatch",
+   "packaging",
+   "resins"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE371C01013",
+    "name": "Poddar Pigments Limited"
+   },
+   {
+    "isin": "INE535F01024",
+    "name": "Rajoo Engineers Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

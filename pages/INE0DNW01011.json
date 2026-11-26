@@ -3,7 +3,7 @@
  "sym": "FAIRCHEMOR",
  "name": "Fairchem Organics Limited",
  "scrip": "543252",
- "mcap_cr": 826.23,
+ "mcap_cr": 814.64,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 4.42,
    "pat": 0.59,
    "margin_pct": 3.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 5.24,
    "pat": 1.17,
    "margin_pct": 4.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 4.19,
    "pat": 0.77,
    "margin_pct": 3.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 3.29,
    "pat": -0.1,
    "margin_pct": 3.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 8.03,
    "pat": 3.69,
    "margin_pct": 6.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 61,
-    "profit": 69,
-    "quality": 86
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,14 @@
    "ebitda": 17.87,
    "pat": 10.01,
    "margin_pct": 10.1,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 90,
-    "profit": 88,
-    "quality": 99
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 73.3
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +88,14 @@
    "ebitda": 17.53,
    "pat": 10.17,
    "margin_pct": 10.5,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 96,
-    "profit": 88,
-    "quality": 100
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Flat",
+    "acceleration": 33.3
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -169,5 +178,6 @@
   ],
   "ledger": "claims/INE0DNW01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

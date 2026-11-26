@@ -3,7 +3,7 @@
  "sym": "ASHAPURMIN",
  "name": "Ashapura Minechem Limited",
  "scrip": "527001",
- "mcap_cr": 4077.05,
+ "mcap_cr": 3929.47,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 84.45,
    "pat": 78.55,
    "margin_pct": 15.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 181.79,
    "pat": 113.9,
    "margin_pct": 13.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 130.68,
    "pat": 105.98,
    "margin_pct": 13.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 109.81,
    "pat": 75.95,
    "margin_pct": 11.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 128.02,
    "pat": 120.64,
    "margin_pct": 6.5,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 97,
-    "profit": 5,
-    "quality": 38
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,18 @@
    "ebitda": 181.3,
    "pat": 108.31,
    "margin_pct": 11.2,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 42,
-    "profit": 18,
-    "quality": 19
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -90.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit slightly down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -209,5 +222,6 @@
   ],
   "ledger": "claims/INE348A01023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

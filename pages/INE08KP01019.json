@@ -3,7 +3,7 @@
  "sym": "DCMNVL",
  "name": "DCM Nouvelle Limited",
  "scrip": "542729",
- "mcap_cr": 309.21,
+ "mcap_cr": 311.64,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 18.58,
    "pat": 5.3,
    "margin_pct": 6.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 15.68,
    "pat": 1.6,
    "margin_pct": 6.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 9.12,
    "pat": -2.42,
    "margin_pct": 3.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 10.26,
    "pat": -1.51,
    "margin_pct": 3.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 17.55,
    "pat": 3.97,
    "margin_pct": 6.7,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 20,
-    "profit": 38,
-    "quality": 20
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,16 @@
    "ebitda": 48.87,
    "pat": 27.53,
    "margin_pct": 17.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 74,
-    "profit": 94,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 99.2
    },
-   "capped_by": "revenue growth under 20%"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,17 @@
    "ebitda": 34.92,
    "pat": 17.4,
    "margin_pct": 11.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 89,
-    "profit": 89,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Flat",
+    "acceleration": 26.3
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": [
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -149,5 +164,54 @@
   "latest_guidance": [],
   "ledger": "claims/INE08KP01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G1",
+  "group_name": "yarn, cotton, textile",
+  "subgroup": "G1.0",
+  "subgroup_name": "bci, organic, recycled",
+  "terms": [
+   "bci",
+   "organic",
+   "recycled",
+   "international",
+   "garment",
+   "global"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE02EZ01022",
+    "name": "Axita Cotton Limited"
+   },
+   {
+    "isin": "INE08PH01015",
+    "name": "ABC Industries India Limited"
+   },
+   {
+    "isin": "INE290A01027",
+    "name": "Nahar Spinning Mills Limited"
+   },
+   {
+    "isin": "INE540G01014",
+    "name": "Ambika Cotton Mills Limited"
+   },
+   {
+    "isin": "INE784W01015",
+    "name": "Manomay Tex India Limited"
+   },
+   {
+    "isin": "INE835A01029",
+    "name": "Vardhman Polytex Limited"
+   },
+   {
+    "isin": "INE875G01048",
+    "name": "Nandan Denim Limited"
+   },
+   {
+    "isin": "INE882A01013",
+    "name": "Maral Overseas Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

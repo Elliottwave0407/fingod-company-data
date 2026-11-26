@@ -3,7 +3,7 @@
  "sym": "CARRARO",
  "name": "Carraro India Limited",
  "scrip": "544320",
- "mcap_cr": 2676.85,
+ "mcap_cr": 2759.01,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 45.29,
    "pat": 23.73,
    "margin_pct": 10.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 47.85,
    "pat": 29.12,
    "margin_pct": 9.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 52.44,
    "pat": 31.71,
    "margin_pct": 8.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 45.72,
    "pat": 28.07,
    "margin_pct": 8.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 63.45,
    "pat": 41.69,
    "margin_pct": 10.5,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 83,
-    "profit": 43,
-    "quality": 80
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,21 @@
    "ebitda": 43.95,
    "pat": 31.39,
    "margin_pct": 8.1,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 31,
-    "profit": 21,
-    "quality": 38
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -28.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +172,6 @@
   ],
   "ledger": "claims/INE0V7W01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

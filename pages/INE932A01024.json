@@ -3,7 +3,7 @@
  "sym": "PENIND",
  "name": "Pennar Industries Limited",
  "scrip": "513228",
- "mcap_cr": 2265.5,
+ "mcap_cr": 2215.36,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 91.15,
    "pat": 35.72,
    "margin_pct": 10.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 85.79,
    "pat": 31.96,
    "margin_pct": 10.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 81.39,
    "pat": 32.28,
    "margin_pct": 9.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 82.58,
    "pat": 33.55,
    "margin_pct": 8.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 105.16,
    "pat": 41.04,
    "margin_pct": 11.4,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 40,
-    "profit": 54,
-    "quality": 48
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 92.66,
    "pat": 35.41,
    "margin_pct": 10.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 34,
-    "profit": 46,
-    "quality": 44
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": -3.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +170,6 @@
   ],
   "ledger": "claims/INE932A01024.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

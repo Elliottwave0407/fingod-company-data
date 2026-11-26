@@ -3,7 +3,7 @@
  "sym": "GARUDA",
  "name": "Garuda Construction and Engineering Limited",
  "scrip": "544271",
- "mcap_cr": 1404.93,
+ "mcap_cr": 1387.25,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 24.22,
    "pat": 18.03,
    "margin_pct": 29.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 36.43,
    "pat": 28.0,
    "margin_pct": 29.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 34.43,
    "pat": 27.12,
    "margin_pct": 29.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 45.11,
    "pat": 32.9,
    "margin_pct": 32.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 47.97,
    "pat": 34.46,
    "margin_pct": 32.2,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 77,
-    "quality": 76
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "sequential momentum is flat"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,16 @@
    "ebitda": 56.13,
    "pat": 41.53,
    "margin_pct": 32.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 90,
-    "profit": 80,
-    "quality": 74
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -29.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -175,5 +186,38 @@
   ],
   "ledger": "claims/INE0JVO01026.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G2",
+  "group_name": "real, real estate, estate",
+  "subgroup": "G2.1",
+  "subgroup_name": "infrastructure, industrial, epc",
+  "terms": [
+   "infrastructure",
+   "industrial",
+   "epc",
+   "government",
+   "civil",
+   "entities"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE00S901012",
+    "name": "Nila Spaces Limited"
+   },
+   {
+    "isin": "INE100D01014",
+    "name": "W S Industries (I) Limited"
+   },
+   {
+    "isin": "INE350H01032",
+    "name": "B. L. Kashyap and Sons Limited"
+   },
+   {
+    "isin": "INE937C01029",
+    "name": "Nila Infrastructures Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

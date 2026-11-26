@@ -3,7 +3,7 @@
  "sym": "WEIZMANIND",
  "name": "Weizmann Limited",
  "scrip": "523011",
- "mcap_cr": 100.71,
+ "mcap_cr": 96.37,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 5.05,
    "pat": -8.68,
    "margin_pct": 13.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 3.39,
    "pat": 1.2,
    "margin_pct": 11.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 4.01,
    "pat": 1.99,
    "margin_pct": 11.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 4.77,
    "pat": 2.37,
    "margin_pct": 16.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 2.08,
    "pat": 0.36,
    "margin_pct": 6.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 8,
-    "profit": 5,
-    "quality": 100
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,16 @@
    "ebitda": 3.47,
    "pat": 1.42,
    "margin_pct": 10.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 32,
-    "profit": 37,
-    "quality": 51
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 37.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -129,5 +142,6 @@
   "dividend_per_share": 0.5
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

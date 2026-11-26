@@ -3,7 +3,7 @@
  "sym": "DIVGIITTS",
  "name": "Divgi Torqtransfer Systems Limited",
  "scrip": "543812",
- "mcap_cr": 2340.82,
+ "mcap_cr": 2328.13,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 8.66,
    "pat": 5.35,
    "margin_pct": 14.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 14.0,
    "pat": 8.93,
    "margin_pct": 19.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 16.63,
    "pat": 10.75,
    "margin_pct": 20.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 17.71,
    "pat": 11.77,
    "margin_pct": 19.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 21.66,
    "pat": 15.48,
    "margin_pct": 20.1,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 96,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,14 @@
    "ebitda": 37.02,
    "pat": 25.24,
    "margin_pct": 27.0,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 10.6
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -141,5 +147,6 @@
   ],
   "ledger": "claims/INE753U01022.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

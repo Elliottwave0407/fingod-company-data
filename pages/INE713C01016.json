@@ -12,9 +12,10 @@
    "ebitda": -2.16,
    "pat": -5.92,
    "margin_pct": -3.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 4.85,
    "pat": 2.74,
    "margin_pct": 9.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 3.67,
    "pat": 0.83,
    "margin_pct": 7.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 5.18,
    "pat": 1.38,
    "margin_pct": 8.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": 2.42,
    "pat": 2.52,
    "margin_pct": 5.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 3,
-    "profit": 84,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,16 @@
    "ebitda": 6.43,
    "pat": 3.59,
    "margin_pct": 16.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 42,
-    "profit": 93,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +95,16 @@
    "ebitda": 6.94,
    "pat": 3.25,
    "margin_pct": 12.5,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 72,
-    "profit": 90,
-    "quality": 95
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 28.9
    },
-   "capped_by": "revenue growth under 20%"
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -141,5 +159,30 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G33",
+  "group_name": "tubes, seamless, seamless pipes",
+  "subgroup": "G33.0",
+  "subgroup_name": "tubes, seamless, seamless pipes",
+  "terms": [
+   "tubes",
+   "seamless",
+   "seamless pipes",
+   "pipes tubes",
+   "steel",
+   "pipes"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE0JYY01029",
+    "name": "Mangalam Worldwide Limited"
+   },
+   {
+    "isin": "INE524B01027",
+    "name": "Gandhi Special Tubes Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

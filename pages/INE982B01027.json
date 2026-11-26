@@ -3,7 +3,7 @@
  "sym": "ADFFOODS",
  "name": "ADF Foods Limited",
  "scrip": "519183",
- "mcap_cr": 2339.55,
+ "mcap_cr": 2397.22,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 24.68,
    "pat": 16.44,
    "margin_pct": 15.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 23.53,
    "pat": 15.24,
    "margin_pct": 17.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 35.76,
    "pat": 26.39,
    "margin_pct": 22.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 30.24,
    "pat": 22.38,
    "margin_pct": 15.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 34.3,
    "pat": 25.91,
    "margin_pct": 17.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 74,
-    "profit": 65,
-    "quality": 86
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,17 @@
    "ebitda": 29.65,
    "pat": 17.29,
    "margin_pct": 17.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 68,
-    "profit": 46,
-    "quality": 37
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": -6.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -170,5 +179,6 @@
   ],
   "ledger": "claims/INE982B01027.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

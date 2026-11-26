@@ -3,7 +3,7 @@
  "sym": "UNIDT",
  "name": "United Drilling Tools Limited",
  "scrip": "522014",
- "mcap_cr": 322.62,
+ "mcap_cr": 305.56,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 5.06,
    "pat": 3.89,
    "margin_pct": 16.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 6.07,
    "pat": 2.96,
    "margin_pct": 19.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 9.12,
    "pat": 5.75,
    "margin_pct": 16.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 9.01,
    "pat": 5.47,
    "margin_pct": 17.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 7.45,
    "pat": 4.79,
    "margin_pct": 17.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 87,
-    "profit": 55,
-    "quality": 42
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 7.33,
    "pat": 4.3,
    "margin_pct": 21.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 51,
-    "profit": 70,
-    "quality": 83
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -18.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -147,5 +159,30 @@
   "latest_guidance": [],
   "ledger": "claims/INE961D01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G38",
+  "group_name": "oil gas, exploration, gas",
+  "subgroup": "G38.0",
+  "subgroup_name": "oil gas, exploration, gas",
+  "terms": [
+   "oil gas",
+   "exploration",
+   "gas",
+   "oil",
+   "drilling",
+   "gas exploration"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE569C01020",
+    "name": "ORIENT CERATECH LIMITED"
+   },
+   {
+    "isin": "INE591A01010",
+    "name": "Oil Country Tubular Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

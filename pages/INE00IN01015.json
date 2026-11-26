@@ -3,7 +3,7 @@
  "sym": "STOVEKRAFT",
  "name": "Stove Kraft Limited",
  "scrip": "543260",
- "mcap_cr": 2456.07,
+ "mcap_cr": 2472.62,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 29.47,
    "pat": 1.45,
    "margin_pct": 9.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 35.61,
    "pat": 10.43,
    "margin_pct": 10.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 56.77,
    "pat": 21.36,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 34.28,
    "pat": 4.15,
    "margin_pct": 9.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 39.46,
    "pat": 6.05,
    "margin_pct": 9.5,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 78,
-    "profit": 41,
-    "quality": 76
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,14 @@
    "ebitda": 53.76,
    "pat": 17.06,
    "margin_pct": 11.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 89,
-    "profit": 48,
-    "quality": 73
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 10.0
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -184,5 +190,6 @@
   ],
   "ledger": "claims/INE00IN01015.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

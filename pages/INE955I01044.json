@@ -3,7 +3,7 @@
  "sym": "SEJALLTD",
  "name": "Sejal Glass Limited",
  "scrip": "532993",
- "mcap_cr": 1019.39,
+ "mcap_cr": 1007.3,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 9.53,
    "pat": 3.78,
    "margin_pct": 14.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 11.88,
    "pat": 4.42,
    "margin_pct": 15.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 16.82,
    "pat": 8.12,
    "margin_pct": 16.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 14.59,
    "pat": 5.08,
    "margin_pct": 14.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 18.18,
    "pat": 11.42,
    "margin_pct": 15.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 62,
-    "quality": 96
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,18 @@
    "ebitda": 16.52,
    "pat": 7.22,
    "margin_pct": 14.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 89,
-    "profit": 28,
-    "quality": 72
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -28.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,14 @@
    "ebitda": 23.9,
    "pat": 14.42,
    "margin_pct": 17.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 81,
-    "profit": 57,
-    "quality": 86
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -2.2
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -186,5 +197,6 @@
   ],
   "ledger": "claims/INE955I01044.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

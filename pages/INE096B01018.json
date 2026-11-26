@@ -3,7 +3,7 @@
  "sym": "NUCLEUS",
  "name": "Nucleus Software Exports Limited",
  "scrip": "531209",
- "mcap_cr": 1597.81,
+ "mcap_cr": 1580.97,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 74.5,
    "pat": 64.77,
    "margin_pct": 32.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 33.98,
    "pat": 35.2,
    "margin_pct": 15.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 23.41,
    "pat": 26.29,
    "margin_pct": 11.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 14.37,
    "pat": 20.7,
    "margin_pct": 6.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 31.86,
    "pat": 34.55,
    "margin_pct": 14.2,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 12,
-    "profit": 11,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,21 @@
    "ebitda": 17.78,
    "pat": 23.87,
    "margin_pct": 8.4,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 11,
-    "profit": 7,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": 19.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +96,19 @@
    "ebitda": 15.82,
    "pat": 21.25,
    "margin_pct": 6.9,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 18,
-    "profit": 6,
-    "quality": 4
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 13.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -196,5 +218,6 @@
   ],
   "ledger": "claims/INE096B01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "BIL",
  "name": "Bhartiya International Limited",
  "scrip": "526666",
- "mcap_cr": 1309.66,
+ "mcap_cr": 1314.96,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 18.8,
    "pat": 14.91,
    "margin_pct": 7.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 27.11,
    "pat": 5.58,
    "margin_pct": 9.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 40.1,
    "pat": 9.94,
    "margin_pct": 10.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 28.67,
    "pat": 6.7,
    "margin_pct": 7.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": 24.31,
    "pat": -8.77,
    "margin_pct": 7.8,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 73,
-    "profit": 38,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,14 @@
    "ebitda": 36.04,
    "pat": 17.76,
    "margin_pct": 9.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 77,
-    "profit": 40,
-    "quality": 87
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": null,
+    "acceleration": 2.5
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -170,5 +183,34 @@
   ],
   "ledger": "claims/INE828A01016.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G26",
+  "group_name": "footwear, leather, accessories",
+  "subgroup": "G26.0",
+  "subgroup_name": "footwear, leather, accessories",
+  "terms": [
+   "footwear",
+   "leather",
+   "accessories",
+   "leather goods",
+   "footwear leather",
+   "footwear accessories"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE099F01013",
+    "name": "Sreeleathers Limited"
+   },
+   {
+    "isin": "INE557B01019",
+    "name": "Liberty Shoes Limited"
+   },
+   {
+    "isin": "INE771A01026",
+    "name": "Mirza International Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

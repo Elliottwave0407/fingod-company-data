@@ -9,9 +9,10 @@
    "ebitda": 0.08,
    "pat": -0.01,
    "margin_pct": 1.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -19,9 +20,10 @@
    "ebitda": -0.24,
    "pat": -0.38,
    "margin_pct": -4.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -29,9 +31,10 @@
    "ebitda": 0.29,
    "pat": 0.18,
    "margin_pct": 4.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -39,9 +42,10 @@
    "ebitda": -0.56,
    "pat": -0.67,
    "margin_pct": -9.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -49,9 +53,21 @@
    "ebitda": -1.01,
    "pat": -1.12,
    "margin_pct": -19.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -59,13 +75,21 @@
    "ebitda": -1.02,
    "pat": -0.51,
    "margin_pct": -1700.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": -1360,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -122,5 +146,6 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

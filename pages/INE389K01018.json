@@ -3,7 +3,7 @@
  "sym": "WELINV",
  "name": "Welspun Investments and Commercials Limited",
  "scrip": "533252",
- "mcap_cr": 845.99,
+ "mcap_cr": 806.91,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -0.03,
    "pat": 0.0,
    "margin_pct": -50.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -0.2,
    "pat": -0.2,
    "margin_pct": -500.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 4.57,
    "pat": 3.49,
    "margin_pct": 93.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -0.16,
    "pat": -0.13,
    "margin_pct": -123.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,9 +56,19 @@
    "ebitda": -0.18,
    "pat": -0.13,
    "margin_pct": -138.5,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -62,9 +76,17 @@
    "ebitda": -0.15,
    "pat": -0.15,
    "margin_pct": -115.4,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "small base"
+   ]
   },
   {
    "q": "Sep-26",
@@ -72,9 +94,14 @@
    "ebitda": 11.69,
    "pat": 8.76,
    "margin_pct": 82.8,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -129,5 +156,21 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G65",
+  "group_name": "realty, convertible, holding wholly",
+  "subgroup": "G65.0",
+  "subgroup_name": "realty, convertible, holding wholly",
+  "terms": [
+   "realty",
+   "convertible",
+   "holding wholly",
+   "infrastructure oil",
+   "steel infrastructure",
+   "pipes steel"
+  ],
+  "peer_basis": "no true peers",
+  "peers": []
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

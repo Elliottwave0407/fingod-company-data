@@ -3,7 +3,7 @@
  "sym": "HGS",
  "name": "Hinduja Global Solutions Limited",
  "scrip": "532859",
- "mcap_cr": 1534.7,
+ "mcap_cr": 1532.84,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 142.5,
    "pat": -1.69,
    "margin_pct": 12.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 28.72,
    "pat": 11.16,
    "margin_pct": 2.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 26.06,
    "pat": -26.99,
    "margin_pct": 2.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 12.47,
    "pat": 34.35,
    "margin_pct": 1.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 22.38,
    "pat": -13.58,
    "margin_pct": 2.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 10,
-    "profit": 2,
-    "quality": 20
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,20 @@
    "ebitda": -34.49,
    "pat": -66.26,
    "margin_pct": -3.3,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 12,
-    "profit": -3,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": null,
+    "acceleration": -39.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -141,5 +157,6 @@
   ],
   "ledger": "claims/INE170I01016.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

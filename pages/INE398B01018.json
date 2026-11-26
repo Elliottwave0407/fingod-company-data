@@ -3,7 +3,7 @@
  "sym": "UMIYA-MRO",
  "name": "UMIYA BUILDCON LIMITED",
  "scrip": "532376",
- "mcap_cr": 179.48,
+ "mcap_cr": 175.67,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 3.31,
    "pat": 0.33,
    "margin_pct": 25.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 0.8,
    "pat": 31.43,
    "margin_pct": 6.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 11.5,
    "pat": 6.71,
    "margin_pct": 55.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 4.74,
    "pat": 1.01,
    "margin_pct": 32.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 5.15,
    "pat": 0.63,
    "margin_pct": 24.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 98,
-    "profit": 39,
-    "quality": 73
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,19 @@
    "ebitda": 4.56,
    "pat": 0.24,
    "margin_pct": 27.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 85,
-    "profit": 100,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Flat",
+    "acceleration": 166.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +95,17 @@
    "ebitda": 5.63,
    "pat": 1.85,
    "margin_pct": 30.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 9,
-    "profit": 20,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -266.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -193,5 +212,42 @@
   ],
   "ledger": "claims/INE398B01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G13",
+  "group_name": "telecom, networking, wireless",
+  "subgroup": "G13.0",
+  "subgroup_name": "telecom, networking, wireless",
+  "terms": [
+   "telecom",
+   "networking",
+   "wireless",
+   "enterprise",
+   "telecommunications",
+   "data"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE153A01019",
+    "name": "Mahanagar Telephone Nigam Limited"
+   },
+   {
+    "isin": "INE178C01020",
+    "name": "Smartlink Holdings Limited"
+   },
+   {
+    "isin": "INE221H01019",
+    "name": "GTL Infrastructure Limited"
+   },
+   {
+    "isin": "INE250K01012",
+    "name": "D-Link (India) Limited"
+   },
+   {
+    "isin": "INE800A01015",
+    "name": "Birla Cable Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KNRCON",
  "name": "KNR Constructions Limited",
  "scrip": "532942",
- "mcap_cr": 2859.31,
+ "mcap_cr": 2853.41,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 117.51,
    "pat": 75.19,
    "margin_pct": 13.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 182.95,
    "pat": 123.41,
    "margin_pct": 29.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 192.56,
    "pat": 104.64,
    "margin_pct": 29.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 166.71,
    "pat": 102.72,
    "margin_pct": 22.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 169.12,
    "pat": 106.1,
    "margin_pct": 24.3,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 48,
-    "profit": 99,
-    "quality": 92
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,18 @@
    "ebitda": 209.6,
    "pat": 80.72,
    "margin_pct": 35.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 36,
-    "profit": 100,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -12.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -211,5 +224,6 @@
   ],
   "ledger": "claims/INE634I01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

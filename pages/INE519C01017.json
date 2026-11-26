@@ -3,7 +3,7 @@
  "sym": "SUMMITSEC",
  "name": "Summit Securities Limited",
  "scrip": "533306",
- "mcap_cr": 1455.61,
+ "mcap_cr": 1496.05,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -4.85,
    "pat": -4.64,
    "margin_pct": -49.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 26.58,
    "pat": 20.19,
    "margin_pct": 96.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 118.5,
    "pat": 90.66,
    "margin_pct": 99.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 20.33,
    "pat": 17.02,
    "margin_pct": 93.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": -25.84,
    "pat": -23.24,
    "margin_pct": -226.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 54,
-    "profit": -181,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,14 @@
    "ebitda": 39.63,
    "pat": 35.29,
    "margin_pct": 96.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 91,
-    "profit": 56,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -122,5 +135,122 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G0",
+  "group_name": "financial, loans, investment",
+  "subgroup": "G0.2",
+  "subgroup_name": "measured, funds investment, financial activities",
+  "terms": [
+   "measured",
+   "funds investment",
+   "financial activities",
+   "pension",
+   "assets",
+   "investment equity"
+  ],
+  "peer_basis": "group",
+  "peers": [
+   {
+    "isin": "INE032B01021",
+    "name": "Prime Securities Limited"
+   },
+   {
+    "isin": "INE284H01025",
+    "name": "Dam Capital Advisors Limited"
+   },
+   {
+    "isin": "INE296H01011",
+    "name": "Emkay Global Financial Services Limited"
+   },
+   {
+    "isin": "INE323B01024",
+    "name": "Avonmore Capital & Management Services Limited"
+   },
+   {
+    "isin": "INE337M01021",
+    "name": "Indo Thai Securities Limited"
+   },
+   {
+    "isin": "INE420B01036",
+    "name": "Arihant Capital Markets Limited"
+   },
+   {
+    "isin": "INE538A01037",
+    "name": "GFL Limited"
+   },
+   {
+    "isin": "INE660C01027",
+    "name": "Centrum Capital Limited"
+   },
+   {
+    "isin": "INE677D01037",
+    "name": "Master Trust Limited"
+   },
+   {
+    "isin": "INE709A01018",
+    "name": "VLS Finance Limited"
+   },
+   {
+    "isin": "INE859A01011",
+    "name": "PNB Gilts Limited"
+   },
+   {
+    "isin": "INE865C01022",
+    "name": "Aditya Birla Money Limited"
+   },
+   {
+    "isin": "INE912L01015",
+    "name": "Onelife Capital Advisors Limited"
+   },
+   {
+    "isin": "INE924D01017",
+    "name": "The Investment Trust Of India Limited"
+   },
+   {
+    "isin": "INE966A01022",
+    "name": "Dolat Algotech Limited"
+   },
+   {
+    "isin": "INE049I01012",
+    "name": "Nahar Capital and Financial Services Limited"
+   },
+   {
+    "isin": "INE152C01025",
+    "name": "U. Y. Fincorp Limited"
+   },
+   {
+    "isin": "INE159N01027",
+    "name": "Viji Finance Limited"
+   },
+   {
+    "isin": "INE289B01019",
+    "name": "GIC Housing Finance Limited"
+   },
+   {
+    "isin": "INE289C01025",
+    "name": "Team India Guaranty Limited"
+   },
+   {
+    "isin": "INE345H01024",
+    "name": "Capital India Finance Limited"
+   },
+   {
+    "isin": "INE521J01018",
+    "name": "CP Capital Limited"
+   },
+   {
+    "isin": "INE545L01039",
+    "name": "Mangal Credit and Fincorp Limited"
+   },
+   {
+    "isin": "INE886A01014",
+    "name": "Industrial Investment Trust Limited"
+   },
+   {
+    "isin": "INE923A01015",
+    "name": "SIL Investments Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "INDIANCARD",
  "name": "Indian Card Clothing Company Limited",
  "scrip": "509692",
- "mcap_cr": 106.67,
+ "mcap_cr": 108.31,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 7.23,
    "pat": 17.48,
    "margin_pct": 70.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -2.86,
    "pat": 2.29,
    "margin_pct": -29.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -3.35,
    "pat": 5.41,
    "margin_pct": -31.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -3.34,
    "pat": -0.61,
    "margin_pct": -32.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": -4.8,
    "pat": -3.38,
    "margin_pct": -42.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 21,
-    "profit": -34,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,18 @@
    "ebitda": -3.04,
    "pat": 4.56,
    "margin_pct": -31.1,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 27,
-    "profit": -8,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -147,5 +162,6 @@
   "latest_guidance": [],
   "ledger": "claims/INE061A01014.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

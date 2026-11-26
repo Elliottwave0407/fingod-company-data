@@ -3,7 +3,7 @@
  "sym": "INDIGOPNTS",
  "name": "Indigo Paints Limited",
  "scrip": "543258",
- "mcap_cr": 4730.54,
+ "mcap_cr": 4702.38,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 87.41,
    "pat": 57.4,
    "margin_pct": 22.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 44.3,
    "pat": 26.06,
    "margin_pct": 14.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 46.55,
    "pat": 25.25,
    "margin_pct": 14.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 62.21,
    "pat": 37.14,
    "margin_pct": 17.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 95.59,
    "pat": 59.16,
    "margin_pct": 22.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 41,
-    "profit": 49,
-    "quality": 29
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 62.02,
    "pat": 41.7,
    "margin_pct": 16.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 72,
-    "profit": 69,
-    "quality": 87
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": 18.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,21 @@
    "ebitda": 30.97,
    "pat": 13.39,
    "margin_pct": 8.6,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 25,
-    "profit": 7,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -40.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -175,5 +193,6 @@
   ],
   "ledger": "claims/INE09VQ01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

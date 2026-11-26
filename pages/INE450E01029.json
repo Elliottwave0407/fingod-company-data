@@ -3,7 +3,7 @@
  "sym": "SUKHJITS",
  "name": "Sukhjit Starch & Chemicals Limited",
  "scrip": "524542",
- "mcap_cr": 481.78,
+ "mcap_cr": 484.13,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 16.92,
    "pat": 2.8,
    "margin_pct": 4.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 19.04,
    "pat": 5.01,
    "margin_pct": 5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 18.21,
    "pat": 4.3,
    "margin_pct": 5.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 19.53,
    "pat": 3.13,
    "margin_pct": 5.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 25.82,
    "pat": 14.59,
    "margin_pct": 6.4,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 70,
-    "profit": 54,
-    "quality": 70
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 30.15,
    "pat": 12.15,
    "margin_pct": 7.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 68,
-    "profit": 62,
-    "quality": 81
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 1.6
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -177,5 +187,6 @@
   ],
   "ledger": "claims/INE450E01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

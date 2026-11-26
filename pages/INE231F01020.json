@@ -3,7 +3,7 @@
  "sym": "SASKEN",
  "name": "Sasken Technologies Limited",
  "scrip": "532663",
- "mcap_cr": 2855.47,
+ "mcap_cr": 2793.26,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 7.08,
    "pat": 11.51,
    "margin_pct": 4.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 14.65,
    "pat": 10.01,
    "margin_pct": 5.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 15.0,
    "pat": 10.5,
    "margin_pct": 5.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 17.32,
    "pat": 9.14,
    "margin_pct": 6.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 33.17,
    "pat": 29.0,
    "margin_pct": 9.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 88,
-    "quality": 61
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,17 @@
    "ebitda": 32.12,
    "pat": 23.52,
    "margin_pct": 9.5,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 83,
-    "profit": 79,
-    "quality": 90
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -124.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +89,14 @@
    "ebitda": 41.26,
    "pat": 25.59,
    "margin_pct": 12.9,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 84,
-    "profit": 90,
-    "quality": 93
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 24.4
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -194,5 +204,6 @@
   ],
   "ledger": "claims/INE231F01020.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

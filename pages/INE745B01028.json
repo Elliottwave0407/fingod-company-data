@@ -3,7 +3,7 @@
  "sym": "KHAICHEM",
  "name": "Khaitan Chemicals & Fertilizers Limited",
  "scrip": "507794",
- "mcap_cr": 461.18,
+ "mcap_cr": 446.44,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 10.58,
    "pat": 8.63,
    "margin_pct": 6.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 31.72,
    "pat": 21.41,
    "margin_pct": 13.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 31.1,
    "pat": 21.48,
    "margin_pct": 10.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 32.55,
    "pat": 20.44,
    "margin_pct": 12.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 17.65,
    "pat": 1.26,
    "margin_pct": 9.1,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 80,
-    "profit": 65,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,17 @@
    "ebitda": 23.58,
    "pat": 10.91,
    "margin_pct": 10.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 12,
-    "profit": 10,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -49.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -188,5 +203,38 @@
   ],
   "ledger": "claims/INE745B01028.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G20",
+  "group_name": "fertilizer, fertilizers, urea",
+  "subgroup": "G20.0",
+  "subgroup_name": "fertilizer, fertilizers, urea",
+  "terms": [
+   "fertilizer",
+   "fertilizers",
+   "urea",
+   "agriculture fertilizer",
+   "farmers",
+   "subsidy"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE147A01011",
+    "name": "Southern Petrochemicals Industries Corporation  Limited"
+   },
+   {
+    "isin": "INE414A01015",
+    "name": "Madras Fertilizers Limited"
+   },
+   {
+    "isin": "INE809A01032",
+    "name": "Rama Phosphates Limited"
+   },
+   {
+    "isin": "INE840M01016",
+    "name": "Zuari Agro Chemicals Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

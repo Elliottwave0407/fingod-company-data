@@ -3,7 +3,7 @@
  "sym": "ADVANIHOTR",
  "name": "Advani Hotels & Resorts (India) Limited",
  "scrip": "523269",
- "mcap_cr": 423.18,
+ "mcap_cr": 420.69,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 15.11,
    "pat": 11.47,
    "margin_pct": 45.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 2.96,
    "pat": 2.35,
    "margin_pct": 14.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -1.22,
    "pat": -0.98,
    "margin_pct": -8.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 14.04,
    "pat": 10.78,
    "margin_pct": 38.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 15.47,
    "pat": 11.71,
    "margin_pct": 43.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 32,
-    "profit": 36,
-    "quality": 26
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,22 @@
    "ebitda": 1.65,
    "pat": 1.39,
    "margin_pct": 7.8,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 17,
-    "profit": 6,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -24.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -126,5 +142,58 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G7",
+  "group_name": "beverages, food, hotel",
+  "subgroup": "G7.0",
+  "subgroup_name": "beverages, food, hotel",
+  "terms": [
+   "beverages",
+   "food",
+   "hotel",
+   "food beverages",
+   "hospitality",
+   "leisure"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE102A01024",
+    "name": "HLV LIMITED"
+   },
+   {
+    "isin": "INE335K01011",
+    "name": "Coffee Day Enterprises Limited"
+   },
+   {
+    "isin": "INE363A01022",
+    "name": "Asian Hotels (North) Limited"
+   },
+   {
+    "isin": "INE508K01013",
+    "name": "Robust Hotels Limited"
+   },
+   {
+    "isin": "INE652F01027",
+    "name": "Country Club Hospitality & Holidays Limited"
+   },
+   {
+    "isin": "INE704H01022",
+    "name": "Cineline India Limited"
+   },
+   {
+    "isin": "INE915K01010",
+    "name": "Asian Hotels (West) Limited"
+   },
+   {
+    "isin": "INE926K01017",
+    "name": "Asian Hotels (East) Limited"
+   },
+   {
+    "isin": "INE985A01022",
+    "name": "Sinclairs Hotels Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

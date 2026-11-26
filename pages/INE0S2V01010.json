@@ -3,7 +3,7 @@
  "sym": "VRAJ",
  "name": "Vraj Iron and Steel Limited",
  "scrip": "544204",
- "mcap_cr": 425.31,
+ "mcap_cr": 400.57,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 16.37,
    "pat": 10.01,
    "margin_pct": 10.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 13.22,
    "pat": 7.59,
    "margin_pct": 9.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 13.41,
    "pat": 7.75,
    "margin_pct": 10.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 5.17,
    "pat": 1.1,
    "margin_pct": 3.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 24.91,
    "pat": 15.57,
    "margin_pct": 14.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 69,
-    "profit": 82,
-    "quality": 84
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 19.87,
    "pat": 11.51,
    "margin_pct": 10.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 88,
-    "profit": 47,
-    "quality": 69
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 4.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -166,5 +174,26 @@
   "latest_guidance": [],
   "ledger": "claims/INE0S2V01010.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G44",
+  "group_name": "tmt, iron, tmt bars",
+  "subgroup": "G44.0",
+  "subgroup_name": "tmt, iron, tmt bars",
+  "terms": [
+   "tmt",
+   "iron",
+   "tmt bars",
+   "bars",
+   "billets",
+   "sponge"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE822G01016",
+    "name": "Electrotherm (India) Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

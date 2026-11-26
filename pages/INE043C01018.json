@@ -3,7 +3,7 @@
  "sym": "IVP",
  "name": "IVP Limited",
  "scrip": "507580",
- "mcap_cr": 173.69,
+ "mcap_cr": 168.47,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 7.77,
    "pat": 3.83,
    "margin_pct": 5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 4.25,
    "pat": 1.19,
    "margin_pct": 3.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 8.1,
    "pat": 4.0,
    "margin_pct": 5.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 8.19,
    "pat": 4.63,
    "margin_pct": 5.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 13.7,
    "pat": 8.86,
    "margin_pct": 8.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 71,
-    "profit": 69,
-    "quality": 87
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 20.59,
    "pat": 14.02,
    "margin_pct": 13.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 73,
-    "profit": 91,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 119.2
    },
-   "capped_by": "revenue growth under 20%"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -176,5 +184,6 @@
   ],
   "ledger": "claims/INE043C01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

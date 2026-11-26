@@ -3,7 +3,7 @@
  "sym": "JUBLCPL",
  "name": "Jubilant Agri and Consumer Products Limited",
  "scrip": "544355",
- "mcap_cr": 2659.26,
+ "mcap_cr": 2647.82,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 27.16,
    "pat": 16.01,
    "margin_pct": 6.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 62.08,
    "pat": 44.13,
    "margin_pct": 14.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 63.91,
    "pat": 42.28,
    "margin_pct": 12.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 35.42,
    "pat": 21.52,
    "margin_pct": 7.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 31.34,
    "pat": 19.93,
    "margin_pct": 6.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 57,
-    "profit": 33,
-    "quality": 54
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,14 @@
    "ebitda": 67.96,
    "pat": 46.11,
    "margin_pct": 13.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 49,
-    "profit": 31,
-    "quality": 29
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -4.3
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -176,5 +185,6 @@
   ],
   "ledger": "claims/INE03CC01015.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

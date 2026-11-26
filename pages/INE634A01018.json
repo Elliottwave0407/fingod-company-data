@@ -3,7 +3,7 @@
  "sym": "HONDAPOWER",
  "name": "Honda India Power Products Limited",
  "scrip": "522064",
- "mcap_cr": 1917.68,
+ "mcap_cr": 1895.32,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 43.4,
    "pat": 36.16,
    "margin_pct": 16.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 8.44,
    "pat": 9.48,
    "margin_pct": 5.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 11.33,
    "pat": 11.17,
    "margin_pct": 6.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 20.15,
    "pat": 16.67,
    "margin_pct": 7.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 31.81,
    "pat": 26.92,
    "margin_pct": 12.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 13,
-    "profit": 10,
-    "quality": 2
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,18 @@
    "ebitda": 14.43,
    "pat": 11.1,
    "margin_pct": 7.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 81,
-    "profit": 60,
-    "quality": 37
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Fading",
+    "acceleration": 51.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -153,5 +166,6 @@
   ],
   "ledger": "claims/INE634A01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

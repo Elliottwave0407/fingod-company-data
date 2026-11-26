@@ -3,7 +3,7 @@
  "sym": "SAKSOFT",
  "name": "Saksoft Limited",
  "scrip": "590051",
- "mcap_cr": 1496.25,
+ "mcap_cr": 1459.38,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 36.4,
    "pat": 30.03,
    "margin_pct": 15.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 45.83,
    "pat": 32.35,
    "margin_pct": 18.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 50.63,
    "pat": 35.97,
    "margin_pct": 19.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 40.51,
    "pat": 29.02,
    "margin_pct": 16.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 45.26,
    "pat": 35.93,
    "margin_pct": 18.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 49,
-    "profit": 76,
-    "quality": 62
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,18 @@
    "ebitda": 45.4,
    "pat": 29.29,
    "margin_pct": 18.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 25,
-    "profit": 45,
-    "quality": 21
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -14.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -170,5 +182,6 @@
   ],
   "ledger": "claims/INE667G01023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

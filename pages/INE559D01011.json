@@ -12,9 +12,10 @@
    "ebitda": 20.22,
    "pat": 7.92,
    "margin_pct": 42.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 42.42,
    "pat": 25.95,
    "margin_pct": 67.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 11.86,
    "pat": 3.73,
    "margin_pct": 40.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 20.64,
    "pat": 11.31,
    "margin_pct": 58.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 16.8,
    "pat": 8.55,
    "margin_pct": 52.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 5,
-    "profit": 100,
-    "quality": 69
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,18 @@
    "ebitda": 22.04,
    "pat": 11.47,
    "margin_pct": 72.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 0,
-    "profit": 100,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -24.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -189,5 +204,46 @@
   ],
   "ledger": "claims/INE559D01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G2",
+  "group_name": "real, real estate, estate",
+  "subgroup": "G2.0",
+  "subgroup_name": "properties, realty, leasing",
+  "terms": [
+   "properties",
+   "realty",
+   "leasing",
+   "retail",
+   "tenants",
+   "commercial property"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE05ST01028",
+    "name": "Suratwwala Business Group Limited"
+   },
+   {
+    "isin": "INE138A01028",
+    "name": "Peninsula Land Limited"
+   },
+   {
+    "isin": "INE195N01013",
+    "name": "Prozone Realty Limited"
+   },
+   {
+    "isin": "INE572G01025",
+    "name": "Lancor Holdings Limited"
+   },
+   {
+    "isin": "INE778K01012",
+    "name": "Emami Realty Limited"
+   },
+   {
+    "isin": "INE916G01016",
+    "name": "GeeCee Ventures Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

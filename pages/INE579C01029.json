@@ -3,7 +3,7 @@
  "sym": "VIMTALABS",
  "name": "Vimta Labs Limited",
  "scrip": "524394",
- "mcap_cr": 2100.67,
+ "mcap_cr": 2155.87,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 33.04,
    "pat": 18.32,
    "margin_pct": 35.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 33.69,
    "pat": 18.89,
    "margin_pct": 34.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 34.22,
    "pat": 19.92,
    "margin_pct": 33.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 32.62,
    "pat": 17.59,
    "margin_pct": 33.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 39.37,
    "pat": 21.11,
    "margin_pct": 36.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 55,
-    "profit": 63,
-    "quality": 45
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,18 @@
    "ebitda": 37.32,
    "pat": 21.04,
    "margin_pct": 34.2,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 44,
-    "profit": 49,
-    "quality": 42
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": -6.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,17 @@
    "ebitda": 37.88,
    "pat": 20.61,
    "margin_pct": 33.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 43,
-    "profit": 54,
-    "quality": 28
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 0.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -180,5 +194,6 @@
   ],
   "ledger": "claims/INE579C01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

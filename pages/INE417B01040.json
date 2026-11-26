@@ -3,7 +3,7 @@
  "sym": "DSSL",
  "name": "Dynacons Systems & Solutions Limited",
  "scrip": "532365",
- "mcap_cr": 1310.2,
+ "mcap_cr": 1279.25,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 29.49,
    "pat": 18.2,
    "margin_pct": 9.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 31.78,
    "pat": 19.65,
    "margin_pct": 9.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 37.23,
    "pat": 22.68,
    "margin_pct": 10.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 40.61,
    "pat": 23.49,
    "margin_pct": 11.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 36.31,
    "pat": 18.99,
    "margin_pct": 9.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 64,
-    "profit": 40,
-    "quality": 31
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 40.18,
    "pat": 19.8,
    "margin_pct": 12.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 45,
-    "profit": 73,
-    "quality": 35
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -3.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +170,6 @@
   ],
   "ledger": "claims/INE417B01040.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

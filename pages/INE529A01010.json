@@ -3,7 +3,7 @@
  "sym": "FMGOETZE",
  "name": "Federal-Mogul Goetze (India) Limited.",
  "scrip": "505744",
- "mcap_cr": 2372.43,
+ "mcap_cr": 2339.61,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 97.22,
    "pat": 61.43,
    "margin_pct": 21.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 70.57,
    "pat": 45.15,
    "margin_pct": 14.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 81.61,
    "pat": 51.31,
    "margin_pct": 16.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 53.37,
    "pat": 30.74,
    "margin_pct": 10.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 79.71,
    "pat": 50.8,
    "margin_pct": 16.3,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 23,
-    "profit": 13,
-    "quality": 5
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,18 @@
    "ebitda": 67.48,
    "pat": 45.33,
    "margin_pct": 12.8,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 31,
-    "profit": 23,
-    "quality": 28
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 10.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -137,5 +150,6 @@
   "latest_guidance": [],
   "ledger": "claims/INE529A01010.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

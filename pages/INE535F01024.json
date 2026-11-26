@@ -3,7 +3,7 @@
  "sym": "RAJOOENG",
  "name": "Rajoo Engineers Limited",
  "scrip": "522257",
- "mcap_cr": 968.96,
+ "mcap_cr": 973.24,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 18.57,
    "pat": 15.02,
    "margin_pct": 21.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 18.31,
    "pat": 14.1,
    "margin_pct": 19.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 22.27,
    "pat": 17.48,
    "margin_pct": 25.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 1.55,
    "pat": 1.83,
    "margin_pct": 2.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,14 @@
    "ebitda": 21.71,
    "pat": 17.35,
    "margin_pct": 17.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 71,
-    "profit": 14,
-    "quality": 26
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -66,13 +71,22 @@
    "ebitda": 9.94,
    "pat": 8.26,
    "margin_pct": 9.8,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 21,
-    "profit": 8,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -42.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -147,5 +161,30 @@
   ],
   "ledger": "claims/INE535F01024.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G32",
+  "group_name": "masterbatches, packaging automotive, plastics",
+  "subgroup": "G32.0",
+  "subgroup_name": "masterbatches, packaging automotive, plastics",
+  "terms": [
+   "masterbatches",
+   "packaging automotive",
+   "plastics",
+   "masterbatch",
+   "packaging",
+   "resins"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE083C01022",
+    "name": "Plastiblends India Limited"
+   },
+   {
+    "isin": "INE371C01013",
+    "name": "Poddar Pigments Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

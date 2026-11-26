@@ -3,7 +3,7 @@
  "sym": "AUTOAXLES",
  "name": "Automotive Axles Limited",
  "scrip": "505010",
- "mcap_cr": 2684.82,
+ "mcap_cr": 2646.14,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 62.63,
    "pat": 45.93,
    "margin_pct": 11.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 47.86,
    "pat": 35.72,
    "margin_pct": 9.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 48.29,
    "pat": 35.95,
    "margin_pct": 10.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 51.89,
    "pat": 38.81,
    "margin_pct": 9.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 77.02,
    "pat": 53.89,
    "margin_pct": 11.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 61,
-    "profit": 45,
-    "quality": 47
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,18 @@
    "ebitda": 59.9,
    "pat": 45.6,
    "margin_pct": 11.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 51,
-    "profit": 59,
-    "quality": 65
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": -1.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -172,5 +182,6 @@
   ],
   "ledger": "claims/INE449A01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

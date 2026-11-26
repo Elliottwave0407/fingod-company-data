@@ -3,7 +3,7 @@
  "sym": "MARALOVER",
  "name": "Maral Overseas Limited",
  "scrip": "521018",
- "mcap_cr": 232.44,
+ "mcap_cr": 223.31,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 10.41,
    "pat": -0.23,
    "margin_pct": 3.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 1.63,
    "pat": -12.57,
    "margin_pct": 0.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 9.08,
    "pat": -2.78,
    "margin_pct": 3.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 18.79,
    "pat": 5.3,
    "margin_pct": 7.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 18.29,
    "pat": 13.31,
    "margin_pct": 7.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 60,
-    "profit": 70,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 16.72,
    "pat": 5.98,
    "margin_pct": 6.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 77,
-    "profit": 85,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Flat",
+    "acceleration": 309.0
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": [
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,16 @@
    "ebitda": 18.16,
    "pat": 7.0,
    "margin_pct": 6.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 80,
-    "profit": 60,
-    "quality": 65
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -292.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -204,5 +219,54 @@
   ],
   "ledger": "claims/INE882A01013.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G1",
+  "group_name": "yarn, cotton, textile",
+  "subgroup": "G1.0",
+  "subgroup_name": "bci, organic, recycled",
+  "terms": [
+   "bci",
+   "organic",
+   "recycled",
+   "international",
+   "garment",
+   "global"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE02EZ01022",
+    "name": "Axita Cotton Limited"
+   },
+   {
+    "isin": "INE08KP01019",
+    "name": "DCM Nouvelle Limited"
+   },
+   {
+    "isin": "INE08PH01015",
+    "name": "ABC Industries India Limited"
+   },
+   {
+    "isin": "INE290A01027",
+    "name": "Nahar Spinning Mills Limited"
+   },
+   {
+    "isin": "INE540G01014",
+    "name": "Ambika Cotton Mills Limited"
+   },
+   {
+    "isin": "INE784W01015",
+    "name": "Manomay Tex India Limited"
+   },
+   {
+    "isin": "INE835A01029",
+    "name": "Vardhman Polytex Limited"
+   },
+   {
+    "isin": "INE875G01048",
+    "name": "Nandan Denim Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "TEMBO",
  "name": "Tembo Global Industries Limited",
  "scrip": "544987",
- "mcap_cr": 957.5,
+ "mcap_cr": 974.53,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 28.85,
    "pat": 15.62,
    "margin_pct": 10.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 28.18,
    "pat": 19.35,
    "margin_pct": 11.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 34.29,
    "pat": 21.94,
    "margin_pct": 14.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 43.87,
    "pat": 26.13,
    "margin_pct": 17.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 40.53,
    "pat": 30.07,
    "margin_pct": 11.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 76,
-    "profit": 53,
-    "quality": 88
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 49.24,
    "pat": 31.2,
    "margin_pct": 16.3,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 81,
-    "profit": 92,
-    "quality": 86
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 16.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   }
  ],
  "completeness": {
@@ -141,5 +151,6 @@
   ],
   "ledger": "claims/INE869Y01028.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

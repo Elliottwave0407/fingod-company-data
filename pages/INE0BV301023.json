@@ -3,7 +3,7 @@
  "sym": "MAPMYINDIA",
  "name": "C.E. Info Systems Limited",
  "scrip": "543425",
- "mcap_cr": 4519.98,
+ "mcap_cr": 4477.22,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 58.04,
    "pat": 49.02,
    "margin_pct": 40.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 55.87,
    "pat": 45.81,
    "margin_pct": 45.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 28.12,
    "pat": 18.52,
    "margin_pct": 24.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 26.76,
    "pat": 18.76,
    "margin_pct": 28.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 64.76,
    "pat": 50.93,
    "margin_pct": 44.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 36,
-    "profit": 93,
-    "quality": 42
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,19 @@
    "ebitda": 56.12,
    "pat": 49.74,
    "margin_pct": 40.2,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 38,
-    "profit": 20,
-    "quality": 26
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -14.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +172,6 @@
   ],
   "ledger": "claims/INE0BV301023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

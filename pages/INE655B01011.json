@@ -3,7 +3,7 @@
  "sym": "BANARBEADS",
  "name": "Banaras Beads Limited",
  "scrip": "526849",
- "mcap_cr": 67.03,
+ "mcap_cr": 67.22,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 0.95,
    "pat": 0.66,
    "margin_pct": 13.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 0.92,
    "pat": 0.61,
    "margin_pct": 14.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 0.31,
    "pat": 0.04,
    "margin_pct": 6.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 1.08,
    "pat": 0.58,
    "margin_pct": 14.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 1.71,
    "pat": 0.55,
    "margin_pct": 26.3,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 59,
-    "profit": 100,
-    "quality": 17
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,16 @@
    "ebitda": 1.36,
    "pat": 0.72,
    "margin_pct": 15.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 89,
-    "profit": 46,
-    "quality": 36
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -11.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +93,17 @@
    "ebitda": 1.83,
    "pat": 1.0,
    "margin_pct": 11.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 89,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 220.5
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   }
  ],
  "completeness": {
@@ -166,5 +183,6 @@
   ],
   "ledger": "claims/INE655B01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

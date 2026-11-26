@@ -3,7 +3,7 @@
  "sym": "RSYSTEMS",
  "name": "R Systems International Limited",
  "scrip": "532735",
- "mcap_cr": 2820.8,
+ "mcap_cr": 2789.99,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 70.54,
    "pat": 38.59,
    "margin_pct": 15.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 70.19,
    "pat": 75.85,
    "margin_pct": 15.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 72.07,
    "pat": 35.34,
    "margin_pct": 14.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 68.95,
    "pat": 36.41,
    "margin_pct": 12.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 100.58,
    "pat": 65.41,
    "margin_pct": 17.5,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 80,
-    "profit": 62,
-    "quality": 86
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 110.66,
    "pat": 55.57,
    "margin_pct": 18.4,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 86,
-    "profit": 78,
-    "quality": 1
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 7.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY"
+   ]
   }
  ],
  "completeness": {
@@ -192,5 +200,6 @@
   ],
   "ledger": "claims/INE411H01032.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

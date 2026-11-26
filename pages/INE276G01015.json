@@ -3,7 +3,7 @@
  "sym": "ASIANENE",
  "name": "Asian Energy Services Limited",
  "scrip": "530355",
- "mcap_cr": 1741.93,
+ "mcap_cr": 1682.44,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 31.48,
    "pat": 22.55,
    "margin_pct": 14.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 11.46,
    "pat": 5.63,
    "margin_pct": 9.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 2.5,
    "pat": -3.03,
    "margin_pct": 2.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 27.96,
    "pat": 17.53,
    "margin_pct": 11.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 44.96,
    "pat": 32.65,
    "margin_pct": 13.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 92,
-    "profit": 29,
-    "quality": 58
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,18 @@
    "ebitda": 21.14,
    "pat": 12.76,
    "margin_pct": 7.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 100,
-    "profit": 15,
-    "quality": 69
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Fading",
+    "acceleration": 40.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,14 @@
    "ebitda": 31.34,
    "pat": 17.07,
    "margin_pct": 11.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 89,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 400.6
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -214,5 +225,6 @@
   ],
   "ledger": "claims/INE276G01015.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "STARTECK",
  "name": "Starteck Finance Limited",
  "scrip": "512381",
- "mcap_cr": 246.67,
+ "mcap_cr": 248.65,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 6.2,
    "pat": 1.41,
    "margin_pct": 73.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 7.18,
    "pat": 3.54,
    "margin_pct": 91.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 7.67,
    "pat": 7.36,
    "margin_pct": 81.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 9.51,
    "pat": 7.48,
    "margin_pct": 93.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 7.74,
    "pat": 5.23,
    "margin_pct": 93.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 45,
-    "profit": 100,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,16 @@
    "ebitda": 10.16,
    "pat": 4.32,
    "margin_pct": 93.1,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 84,
-    "profit": 65,
-    "quality": 31
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -7.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -122,5 +135,62 @@
   "dividend_per_share": 0.25
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G0",
+  "group_name": "financial, loans, investment",
+  "subgroup": "G0.1",
+  "subgroup_name": "loan, rbi, nbfc",
+  "terms": [
+   "loan",
+   "rbi",
+   "nbfc",
+   "msme",
+   "term",
+   "property"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE049I01012",
+    "name": "Nahar Capital and Financial Services Limited"
+   },
+   {
+    "isin": "INE152C01025",
+    "name": "U. Y. Fincorp Limited"
+   },
+   {
+    "isin": "INE159N01027",
+    "name": "Viji Finance Limited"
+   },
+   {
+    "isin": "INE289B01019",
+    "name": "GIC Housing Finance Limited"
+   },
+   {
+    "isin": "INE289C01025",
+    "name": "Team India Guaranty Limited"
+   },
+   {
+    "isin": "INE345H01024",
+    "name": "Capital India Finance Limited"
+   },
+   {
+    "isin": "INE521J01018",
+    "name": "CP Capital Limited"
+   },
+   {
+    "isin": "INE545L01039",
+    "name": "Mangal Credit and Fincorp Limited"
+   },
+   {
+    "isin": "INE886A01014",
+    "name": "Industrial Investment Trust Limited"
+   },
+   {
+    "isin": "INE923A01015",
+    "name": "SIL Investments Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

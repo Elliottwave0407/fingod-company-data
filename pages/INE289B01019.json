@@ -3,7 +3,7 @@
  "sym": "GICHSGFIN",
  "name": "GIC Housing Finance Limited",
  "scrip": "511676",
- "mcap_cr": 686.06,
+ "mcap_cr": 681.75,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 228.86,
    "pat": 35.2,
    "margin_pct": 84.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 155.27,
    "pat": 7.42,
    "margin_pct": 58.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 236.46,
    "pat": 50.03,
    "margin_pct": 87.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 230.62,
    "pat": 43.69,
    "margin_pct": 84.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 233.77,
    "pat": 53.68,
    "margin_pct": 85.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 27,
-    "profit": 67,
-    "quality": 97
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,18 @@
    "ebitda": 193.91,
    "pat": 10.08,
    "margin_pct": 72.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 46,
-    "profit": 100,
-    "quality": 66
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Fading",
+    "acceleration": 27.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -152,5 +162,62 @@
   ],
   "ledger": "claims/INE289B01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G0",
+  "group_name": "financial, loans, investment",
+  "subgroup": "G0.1",
+  "subgroup_name": "loan, rbi, nbfc",
+  "terms": [
+   "loan",
+   "rbi",
+   "nbfc",
+   "msme",
+   "term",
+   "property"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE049I01012",
+    "name": "Nahar Capital and Financial Services Limited"
+   },
+   {
+    "isin": "INE152C01025",
+    "name": "U. Y. Fincorp Limited"
+   },
+   {
+    "isin": "INE159N01027",
+    "name": "Viji Finance Limited"
+   },
+   {
+    "isin": "INE289C01025",
+    "name": "Team India Guaranty Limited"
+   },
+   {
+    "isin": "INE345H01024",
+    "name": "Capital India Finance Limited"
+   },
+   {
+    "isin": "INE521J01018",
+    "name": "CP Capital Limited"
+   },
+   {
+    "isin": "INE545L01039",
+    "name": "Mangal Credit and Fincorp Limited"
+   },
+   {
+    "isin": "INE886A01014",
+    "name": "Industrial Investment Trust Limited"
+   },
+   {
+    "isin": "INE923A01015",
+    "name": "SIL Investments Limited"
+   },
+   {
+    "isin": "INE992I01013",
+    "name": "Starteck Finance Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

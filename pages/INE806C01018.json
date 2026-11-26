@@ -3,7 +3,7 @@
  "sym": "TIL",
  "name": "TIL Limited",
  "scrip": "505196",
- "mcap_cr": 1671.05,
+ "mcap_cr": 1602.26,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 12.12,
    "pat": 9.76,
    "margin_pct": 11.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -6.75,
    "pat": -6.22,
    "margin_pct": -10.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 0.08,
    "pat": -7.73,
    "margin_pct": 0.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 1.22,
    "pat": -6.85,
    "margin_pct": 1.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 4.31,
    "pat": -9.97,
    "margin_pct": 4.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 19,
-    "profit": 3,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,18 @@
    "ebitda": 6.58,
    "pat": -5.45,
    "margin_pct": 5.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 100,
-    "profit": 84,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -207,5 +220,6 @@
   ],
   "ledger": "claims/INE806C01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

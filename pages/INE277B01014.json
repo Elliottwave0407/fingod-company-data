@@ -3,7 +3,7 @@
  "sym": "PUNJABCHEM",
  "name": "Punjab Chemicals & Crop Protection Limited",
  "scrip": "506618",
- "mcap_cr": 1077.29,
+ "mcap_cr": 1060.74,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 21.33,
    "pat": 7.05,
    "margin_pct": 10.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 34.36,
    "pat": 20.63,
    "margin_pct": 10.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 26.24,
    "pat": 18.54,
    "margin_pct": 10.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 27.49,
    "pat": 13.81,
    "margin_pct": 11.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 27.52,
    "pat": 10.98,
    "margin_pct": 13.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 51,
-    "profit": 69,
-    "quality": 79
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 40.81,
    "pat": 22.07,
    "margin_pct": 11.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 49,
-    "profit": 51,
-    "quality": 38
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": -4.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -180,5 +192,6 @@
   ],
   "ledger": "claims/INE277B01014.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

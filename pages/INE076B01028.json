@@ -3,7 +3,7 @@
  "sym": "SIYSIL",
  "name": "Siyaram Silk Mills Limited",
  "scrip": "503811",
- "mcap_cr": 2380.57,
+ "mcap_cr": 2368.55,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 111.28,
    "pat": 72.05,
    "margin_pct": 15.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 20.78,
    "pat": 4.64,
    "margin_pct": 5.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 107.29,
    "pat": 86.7,
    "margin_pct": 15.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 67.86,
    "pat": 41.77,
    "margin_pct": 10.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 136.91,
    "pat": 97.78,
    "margin_pct": 16.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 58,
-    "profit": 54,
-    "quality": 71
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,20 @@
    "ebitda": 18.07,
    "pat": 11.01,
    "margin_pct": 4.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 32,
-    "profit": 22,
-    "quality": 62
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -16.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,16 @@
    "ebitda": 116.1,
    "pat": 74.5,
    "margin_pct": 14.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 45,
-    "profit": 33,
-    "quality": 7
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 8.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY"
+   ]
   }
  ],
  "completeness": {
@@ -169,5 +184,6 @@
   ],
   "ledger": "claims/INE076B01028.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

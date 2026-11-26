@@ -3,7 +3,7 @@
  "sym": "HTMEDIA",
  "name": "HT Media Limited",
  "scrip": "532662",
- "mcap_cr": 553.77,
+ "mcap_cr": 558.66,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 19.82,
    "pat": 51.36,
    "margin_pct": 3.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -29.55,
    "pat": -11.37,
    "margin_pct": -7.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -4.49,
    "pat": -4.34,
    "margin_pct": -1.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -25.31,
    "pat": -23.7,
    "margin_pct": -5.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 9.86,
    "pat": -9.66,
    "margin_pct": 1.9,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 12,
-    "profit": 13,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,18 @@
    "ebitda": 31.48,
    "pat": 43.51,
    "margin_pct": 7.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 35,
-    "profit": 86,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -204,5 +217,6 @@
   ],
   "ledger": "claims/INE501G01024.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

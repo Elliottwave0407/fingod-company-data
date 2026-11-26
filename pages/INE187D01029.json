@@ -3,7 +3,7 @@
  "sym": "TALBROAUTO",
  "name": "Talbros Automotive Components Limited",
  "scrip": "505160",
- "mcap_cr": 2460.18,
+ "mcap_cr": 2408.94,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 34.72,
    "pat": 26.58,
    "margin_pct": 16.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 31.05,
    "pat": 22.2,
    "margin_pct": 15.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 31.81,
    "pat": 23.1,
    "margin_pct": 14.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 32.9,
    "pat": 27.2,
    "margin_pct": 15.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 40.87,
    "pat": 31.62,
    "margin_pct": 17.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 53,
-    "profit": 50,
-    "quality": 52
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 38.97,
    "pat": 30.02,
    "margin_pct": 16.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 59,
-    "profit": 58,
-    "quality": 72
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 4.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +169,6 @@
   ],
   "ledger": "claims/INE187D01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

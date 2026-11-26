@@ -9,9 +9,10 @@
    "ebitda": -1.96,
    "pat": -3.37,
    "margin_pct": -19.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -19,9 +20,10 @@
    "ebitda": 9.48,
    "pat": 7.85,
    "margin_pct": 56.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -29,9 +31,10 @@
    "ebitda": -3.64,
    "pat": -5.12,
    "margin_pct": -34.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -39,9 +42,10 @@
    "ebitda": 3.62,
    "pat": 0.41,
    "margin_pct": 20.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -49,13 +53,21 @@
    "ebitda": -8.76,
    "pat": -9.81,
    "margin_pct": -72.4,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 62,
-    "profit": -58,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -63,13 +75,14 @@
    "ebitda": 11.89,
    "pat": 9.9,
    "margin_pct": 57.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 66,
-    "profit": 62,
-    "quality": 61
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -150,5 +163,6 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

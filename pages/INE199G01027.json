@@ -3,7 +3,7 @@
  "sym": "JAGRAN",
  "name": "Jagran Prakashan Limited",
  "scrip": "532705",
- "mcap_cr": 1312.89,
+ "mcap_cr": 1324.86,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -66.22,
    "pat": -51.46,
    "margin_pct": -13.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 63.79,
    "pat": 66.76,
    "margin_pct": 13.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 66.58,
    "pat": 56.94,
    "margin_pct": 14.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 71.42,
    "pat": 55.17,
    "margin_pct": 15.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 47.82,
    "pat": 6.06,
    "margin_pct": 10.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 23,
-    "profit": 88,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,17 @@
    "ebitda": 70.03,
    "pat": 61.23,
    "margin_pct": 14.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 41,
-    "profit": 45,
-    "quality": 14
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -179,5 +194,54 @@
   ],
   "ledger": "claims/INE199G01027.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G9",
+  "group_name": "television, media, digital",
+  "subgroup": "G9.0",
+  "subgroup_name": "television, media, digital",
+  "terms": [
+   "television",
+   "media",
+   "digital",
+   "news",
+   "advertisement",
+   "broadcasting"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE038F01029",
+    "name": "TV Today Network Limited"
+   },
+   {
+    "isin": "INE155G01029",
+    "name": "New Delhi Television Limited"
+   },
+   {
+    "isin": "INE416A01051",
+    "name": "Aqylon Nexus Limited"
+   },
+   {
+    "isin": "INE583B01015",
+    "name": "The Sandesh Limited"
+   },
+   {
+    "isin": "INE836F01026",
+    "name": "Dish TV India Limited"
+   },
+   {
+    "isin": "INE947J01015",
+    "name": "Den Networks Limited"
+   },
+   {
+    "isin": "INE966H01019",
+    "name": "Zee Media Corporation Limited"
+   },
+   {
+    "isin": "INE982F01036",
+    "name": "Hathway Cable & Datacom Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

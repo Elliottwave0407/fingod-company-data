@@ -3,7 +3,7 @@
  "sym": "WCIL",
  "name": "Western Carriers (India) Limited",
  "scrip": "544258",
- "mcap_cr": 793.21,
+ "mcap_cr": 765.07,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 24.95,
    "pat": 14.08,
    "margin_pct": 5.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 20.79,
    "pat": 10.79,
    "margin_pct": 5.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 18.83,
    "pat": 8.95,
    "margin_pct": 4.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 23.92,
    "pat": 10.83,
    "margin_pct": 5.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 21.43,
    "pat": 8.26,
    "margin_pct": 4.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 33,
-    "profit": 19,
-    "quality": 9
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,19 @@
    "ebitda": 18.68,
    "pat": 8.69,
    "margin_pct": 4.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 31,
-    "profit": 25,
-    "quality": 20
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 0.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -180,5 +195,6 @@
   ],
   "ledger": "claims/INE0CJF01024.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

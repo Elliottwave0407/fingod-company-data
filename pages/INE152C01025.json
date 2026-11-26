@@ -3,7 +3,7 @@
  "sym": "UYFINCORP",
  "name": "U. Y. Fincorp Limited",
  "scrip": "530579",
- "mcap_cr": 585.93,
+ "mcap_cr": 564.25,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 2.32,
    "pat": 1.09,
    "margin_pct": 15.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 8.35,
    "pat": 5.97,
    "margin_pct": 38.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 11.32,
    "pat": 8.09,
    "margin_pct": 41.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 22.5,
    "pat": 16.78,
    "margin_pct": 53.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 24.77,
    "pat": 17.44,
    "margin_pct": 35.2,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,16 @@
    "ebitda": 26.08,
    "pat": 19.62,
    "margin_pct": 36.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 100,
-    "profit": 30,
-    "quality": 69
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -342.6
    },
-   "capped_by": "margin down over 2 pts YoY"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   }
  ],
  "completeness": {
@@ -146,5 +157,62 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G0",
+  "group_name": "financial, loans, investment",
+  "subgroup": "G0.1",
+  "subgroup_name": "loan, rbi, nbfc",
+  "terms": [
+   "loan",
+   "rbi",
+   "nbfc",
+   "msme",
+   "term",
+   "property"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE049I01012",
+    "name": "Nahar Capital and Financial Services Limited"
+   },
+   {
+    "isin": "INE159N01027",
+    "name": "Viji Finance Limited"
+   },
+   {
+    "isin": "INE289B01019",
+    "name": "GIC Housing Finance Limited"
+   },
+   {
+    "isin": "INE289C01025",
+    "name": "Team India Guaranty Limited"
+   },
+   {
+    "isin": "INE345H01024",
+    "name": "Capital India Finance Limited"
+   },
+   {
+    "isin": "INE521J01018",
+    "name": "CP Capital Limited"
+   },
+   {
+    "isin": "INE545L01039",
+    "name": "Mangal Credit and Fincorp Limited"
+   },
+   {
+    "isin": "INE886A01014",
+    "name": "Industrial Investment Trust Limited"
+   },
+   {
+    "isin": "INE923A01015",
+    "name": "SIL Investments Limited"
+   },
+   {
+    "isin": "INE992I01013",
+    "name": "Starteck Finance Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "PONNIERODE",
  "name": "Ponni Sugars (Erode) Limited",
  "scrip": "532460",
- "mcap_cr": 274.25,
+ "mcap_cr": 272.91,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 11.84,
    "pat": 4.53,
    "margin_pct": 12.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -3.84,
    "pat": -2.68,
    "margin_pct": -6.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 18.79,
    "pat": 14.56,
    "margin_pct": 16.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 9.31,
    "pat": 9.47,
    "margin_pct": 6.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 63.12,
    "pat": 26.68,
    "margin_pct": 70.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 60,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,19 @@
    "ebitda": -1.78,
    "pat": -1.23,
    "margin_pct": -1.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 94,
-    "profit": 73,
-    "quality": 78
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +94,14 @@
    "ebitda": 33.49,
    "pat": 21.69,
    "margin_pct": 21.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 92,
-    "profit": 92,
-    "quality": 71
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -149,5 +164,54 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G10",
+  "group_name": "sugar, ethanol, molasses",
+  "subgroup": "G10.0",
+  "subgroup_name": "sugar, ethanol, molasses",
+  "terms": [
+   "sugar",
+   "ethanol",
+   "molasses",
+   "bagasse",
+   "alcohol",
+   "co-generation"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE157H01023",
+    "name": "K.M.Sugar Mills Limited"
+   },
+   {
+    "isin": "INE179G01029",
+    "name": "Davangere Sugar Company Limited"
+   },
+   {
+    "isin": "INE190H01024",
+    "name": "Sakuma Exports Limited"
+   },
+   {
+    "isin": "INE623A01011",
+    "name": "Sakthi Sugars Limited"
+   },
+   {
+    "isin": "INE636A01039",
+    "name": "Mawana Sugars Limited"
+   },
+   {
+    "isin": "INE786F01031",
+    "name": "Uttam Sugar Mills Limited"
+   },
+   {
+    "isin": "INE790B01024",
+    "name": "KCP Sugar and Industries Corporation Limited"
+   },
+   {
+    "isin": "INE843D01027",
+    "name": "DCM Shriram Industries Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

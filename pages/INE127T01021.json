@@ -3,7 +3,7 @@
  "sym": "KPEL",
  "name": "K.P. Energy Limited",
  "scrip": "539686",
- "mcap_cr": 1143.41,
+ "mcap_cr": 1118.67,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 70.44,
    "pat": 45.79,
    "margin_pct": 17.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 48.5,
    "pat": 25.42,
    "margin_pct": 22.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 65.8,
    "pat": 35.94,
    "margin_pct": 21.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 74.63,
    "pat": 41.35,
    "margin_pct": 21.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 130.93,
    "pat": 78.69,
    "margin_pct": 20.7,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 99,
-    "profit": 79,
-    "quality": 77
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,19 @@
    "ebitda": 60.54,
    "pat": 26.08,
    "margin_pct": 11.7,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 83,
-    "profit": 9,
-    "quality": 15
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -14.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -187,5 +200,6 @@
   ],
   "ledger": "claims/INE127T01021.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "MANBA",
  "name": "Manba Finance Limited",
  "scrip": "544262",
- "mcap_cr": 683.26,
+ "mcap_cr": 668.69,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 41.43,
    "pat": 8.02,
    "margin_pct": 61.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 43.71,
    "pat": 9.75,
    "margin_pct": 65.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 51.28,
    "pat": 11.4,
    "margin_pct": 66.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 60.45,
    "pat": 13.08,
    "margin_pct": 67.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 60.7,
    "pat": 11.13,
    "margin_pct": 65.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 86,
-    "profit": 91,
-    "quality": 62
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,14 @@
    "ebitda": 60.84,
    "pat": 13.26,
    "margin_pct": 65.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 83,
-    "profit": 57,
-    "quality": 59
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -7.6
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +88,17 @@
    "ebitda": 63.38,
    "pat": 13.73,
    "margin_pct": 64.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 66,
-    "profit": 39,
-    "quality": 46
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -12.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -179,5 +191,6 @@
   ],
   "ledger": "claims/INE939X01013.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

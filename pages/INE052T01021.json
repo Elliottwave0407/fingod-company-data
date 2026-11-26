@@ -3,7 +3,7 @@
  "sym": "BESTAGRO",
  "name": "Best Agrolife Limited",
  "scrip": "539660",
- "mcap_cr": 507.89,
+ "mcap_cr": 501.15,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 4.36,
    "pat": -21.89,
    "margin_pct": 1.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 45.82,
    "pat": 19.92,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 77.51,
    "pat": 38.93,
    "margin_pct": 15.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 3.75,
    "pat": -12.74,
    "margin_pct": 1.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": -27.0,
    "pat": -37.24,
    "margin_pct": -17.3,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": -14,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,14 @@
    "ebitda": 77.73,
    "pat": 40.65,
    "margin_pct": 19.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 66,
-    "profit": 96,
-    "quality": 100
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 332.4
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +93,17 @@
    "ebitda": 100.51,
    "pat": 57.46,
    "margin_pct": 24.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 40,
-    "profit": 100,
-    "quality": 95
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -19.7
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY"
+   ]
   }
  ],
  "completeness": {
@@ -191,5 +208,6 @@
   ],
   "ledger": "claims/INE052T01021.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

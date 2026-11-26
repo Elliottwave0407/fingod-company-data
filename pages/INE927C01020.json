@@ -3,7 +3,7 @@
  "sym": "DIGISPICE",
  "name": "DiGiSPICE Technologies Limited",
  "scrip": "517214",
- "mcap_cr": 339.88,
+ "mcap_cr": 333.54,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -13.01,
    "pat": -12.25,
    "margin_pct": -11.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 6.4,
    "pat": 6.93,
    "margin_pct": 5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 6.92,
    "pat": 7.16,
    "margin_pct": 5.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 1.9,
    "pat": 2.41,
    "margin_pct": 1.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 1.18,
    "pat": 2.76,
    "margin_pct": 1.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 18,
-    "profit": 81,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,17 @@
    "ebitda": 6.49,
    "pat": 6.6,
    "margin_pct": 6.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 21,
-    "profit": 45,
-    "quality": 27
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit slightly down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -161,5 +176,6 @@
   ],
   "ledger": "claims/INE927C01020.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

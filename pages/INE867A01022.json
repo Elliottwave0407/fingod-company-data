@@ -3,7 +3,7 @@
  "sym": "MANUGRAPH",
  "name": "Manugraph India Limited",
  "scrip": "505324",
- "mcap_cr": 39.51,
+ "mcap_cr": 39.48,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -0.46,
    "pat": -1.15,
    "margin_pct": -1.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 7.68,
    "pat": 6.83,
    "margin_pct": 24.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -0.82,
    "pat": -1.08,
    "margin_pct": -5.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 0.93,
    "pat": 0.44,
    "margin_pct": 5.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": 0.38,
    "pat": -1.23,
    "margin_pct": 1.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 17,
-    "profit": 64,
-    "quality": 24
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,16 @@
    "ebitda": 6.84,
    "pat": 7.46,
    "margin_pct": 26.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 13,
-    "profit": 75,
-    "quality": 70
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -131,5 +146,6 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

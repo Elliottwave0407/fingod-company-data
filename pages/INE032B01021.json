@@ -3,7 +3,7 @@
  "sym": "PRIMESECU",
  "name": "Prime Securities Limited",
  "scrip": "500337",
- "mcap_cr": 1017.22,
+ "mcap_cr": 1032.34,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 0.79,
    "pat": 0.8,
    "margin_pct": 6.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 16.38,
    "pat": 10.48,
    "margin_pct": 35.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 6.24,
    "pat": 13.77,
    "margin_pct": 20.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 4.0,
    "pat": 2.1,
    "margin_pct": 13.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": -16.95,
    "pat": -13.22,
    "margin_pct": -56.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 50,
-    "profit": -45,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,17 @@
    "ebitda": 6.4,
    "pat": 2.01,
    "margin_pct": 19.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 1,
-    "profit": 15,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 773.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -144,5 +158,78 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G0",
+  "group_name": "financial, loans, investment",
+  "subgroup": "G0.0",
+  "subgroup_name": "broking, advisory, wealth",
+  "terms": [
+   "broking",
+   "advisory",
+   "wealth",
+   "brokerage",
+   "banking",
+   "wealth management"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE284H01025",
+    "name": "Dam Capital Advisors Limited"
+   },
+   {
+    "isin": "INE296H01011",
+    "name": "Emkay Global Financial Services Limited"
+   },
+   {
+    "isin": "INE323B01024",
+    "name": "Avonmore Capital & Management Services Limited"
+   },
+   {
+    "isin": "INE337M01021",
+    "name": "Indo Thai Securities Limited"
+   },
+   {
+    "isin": "INE420B01036",
+    "name": "Arihant Capital Markets Limited"
+   },
+   {
+    "isin": "INE538A01037",
+    "name": "GFL Limited"
+   },
+   {
+    "isin": "INE660C01027",
+    "name": "Centrum Capital Limited"
+   },
+   {
+    "isin": "INE677D01037",
+    "name": "Master Trust Limited"
+   },
+   {
+    "isin": "INE709A01018",
+    "name": "VLS Finance Limited"
+   },
+   {
+    "isin": "INE859A01011",
+    "name": "PNB Gilts Limited"
+   },
+   {
+    "isin": "INE865C01022",
+    "name": "Aditya Birla Money Limited"
+   },
+   {
+    "isin": "INE912L01015",
+    "name": "Onelife Capital Advisors Limited"
+   },
+   {
+    "isin": "INE924D01017",
+    "name": "The Investment Trust Of India Limited"
+   },
+   {
+    "isin": "INE966A01022",
+    "name": "Dolat Algotech Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

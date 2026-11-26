@@ -3,7 +3,7 @@
  "sym": "RADIOCITY",
  "name": "Music Broadcast Limited",
  "scrip": "540366",
- "mcap_cr": 198.08,
+ "mcap_cr": 193.58,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -45.4,
    "pat": -38.03,
    "margin_pct": -83.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 0.94,
    "pat": -2.17,
    "margin_pct": 1.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -5.48,
    "pat": -6.88,
    "margin_pct": -14.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 7.61,
    "pat": 3.68,
    "margin_pct": 16.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,22 @@
    "ebitda": -47.48,
    "pat": -47.96,
    "margin_pct": -116.4,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 4,
-    "profit": -93,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +79,16 @@
    "ebitda": 8.92,
    "pat": 9.22,
    "margin_pct": 20.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 58,
-    "profit": 96,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +96,19 @@
    "ebitda": 6.15,
    "pat": 6.68,
    "margin_pct": 15.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 39,
-    "profit": 92,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -200,5 +222,6 @@
   ],
   "ledger": "claims/INE919I01024.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

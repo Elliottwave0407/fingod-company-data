@@ -3,7 +3,7 @@
  "sym": "HILTON",
  "name": "Hilton Metal Forging Limited",
  "scrip": "532847",
- "mcap_cr": 76.22,
+ "mcap_cr": 77.2,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 2.3,
    "pat": 4.53,
    "margin_pct": 5.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 1.87,
    "pat": 0.15,
    "margin_pct": 8.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 3.4,
    "pat": 1.74,
    "margin_pct": 3.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 3.46,
    "pat": 1.42,
    "margin_pct": 5.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 2.55,
    "pat": 0.14,
    "margin_pct": 5.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 46,
-    "profit": 35,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,16 @@
    "ebitda": 4.08,
    "pat": 1.81,
    "margin_pct": 6.9,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 21,
-    "quality": 85
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 89.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   }
  ],
  "completeness": {
@@ -145,5 +159,6 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

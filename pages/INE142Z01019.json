@@ -3,7 +3,7 @@
  "sym": "ORIENTELEC",
  "name": "Orient Electric Limited",
  "scrip": "541301",
- "mcap_cr": 4298.26,
+ "mcap_cr": 4194.77,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 66.82,
    "pat": 31.26,
    "margin_pct": 7.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 46.08,
    "pat": 17.52,
    "margin_pct": 6.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 37.93,
    "pat": 12.06,
    "margin_pct": 5.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 59.02,
    "pat": 25.98,
    "margin_pct": 6.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 75.87,
    "pat": 40.28,
    "margin_pct": 8.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 45,
-    "profit": 41,
-    "quality": 60
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 62.64,
    "pat": 31.49,
    "margin_pct": 6.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 73,
-    "profit": 43,
-    "quality": 76
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 13.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,16 @@
    "ebitda": 56.79,
    "pat": 27.06,
    "margin_pct": 6.5,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 79,
-    "profit": 48,
-    "quality": 79
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": 6.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -194,5 +207,6 @@
   ],
   "ledger": "claims/INE142Z01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

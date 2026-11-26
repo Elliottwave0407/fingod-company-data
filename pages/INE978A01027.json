@@ -3,7 +3,7 @@
  "sym": "HERITGFOOD",
  "name": "Heritage Foods Limited",
  "scrip": "519552",
- "mcap_cr": 3459.43,
+ "mcap_cr": 3410.25,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 69.64,
    "pat": 38.17,
    "margin_pct": 6.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 73.89,
    "pat": 40.55,
    "margin_pct": 6.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 86.54,
    "pat": 50.99,
    "margin_pct": 7.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 63.04,
    "pat": 34.6,
    "margin_pct": 5.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 53.01,
    "pat": 23.94,
    "margin_pct": 4.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 24,
-    "profit": 14,
-    "quality": 10
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,16 @@
    "ebitda": 61.86,
    "pat": 24.97,
    "margin_pct": 4.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 34,
-    "profit": 16,
-    "quality": 9
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 5.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +94,16 @@
    "ebitda": 73.96,
    "pat": 30.86,
    "margin_pct": 5.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 35,
-    "profit": 13,
-    "quality": 5
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 0.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY"
+   ]
   }
  ],
  "completeness": {
@@ -151,5 +168,6 @@
   ],
   "ledger": "claims/INE978A01027.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

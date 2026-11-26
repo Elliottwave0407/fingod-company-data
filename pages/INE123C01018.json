@@ -12,9 +12,10 @@
    "ebitda": 0.55,
    "pat": 0.55,
    "margin_pct": 10.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -0.04,
    "pat": 2.81,
    "margin_pct": -4.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 0.31,
    "pat": 3.88,
    "margin_pct": 5.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 1.68,
    "pat": 3.39,
    "margin_pct": 16.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": -1.5,
    "pat": 0.71,
    "margin_pct": -112.8,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": -90,
-    "quality": 69
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,9 +77,20 @@
    "ebitda": -0.05,
    "pat": 0.03,
    "margin_pct": -5.3,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -120,5 +142,30 @@
   "dividend_per_share": 3.0
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G35",
+  "group_name": "jewellery, gold, diamonds",
+  "subgroup": "G35.0",
+  "subgroup_name": "jewellery, gold, diamonds",
+  "terms": [
+   "jewellery",
+   "gold",
+   "diamonds",
+   "gold jewellery",
+   "gold silver",
+   "precious"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE218C01016",
+    "name": "Ausom Enterprise Limited"
+   },
+   {
+    "isin": "INE583V01021",
+    "name": "Radhika Jeweltech Ltd"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

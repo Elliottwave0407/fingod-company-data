@@ -3,7 +3,7 @@
  "sym": "IDEAFORGE",
  "name": "Ideaforge Technology Limited",
  "scrip": "543932",
- "mcap_cr": 3515.05,
+ "mcap_cr": 3505.6,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -21.84,
    "pat": -25.71,
    "margin_pct": -107.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -19.08,
    "pat": -23.56,
    "margin_pct": -149.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -11.28,
    "pat": -19.62,
    "margin_pct": -27.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -26.52,
    "pat": -33.85,
    "margin_pct": -84.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 61.72,
    "pat": 59.99,
    "margin_pct": 43.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,21 @@
    "ebitda": 2.34,
    "pat": -2.59,
    "margin_pct": 3.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 100,
-    "profit": 83,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +175,6 @@
   ],
   "ledger": "claims/INE349Y01013.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

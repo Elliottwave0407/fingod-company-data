@@ -3,7 +3,7 @@
  "sym": "CHEMCON",
  "name": "Chemcon Speciality Chemicals Limited",
  "scrip": "543233",
- "mcap_cr": 664.11,
+ "mcap_cr": 653.31,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 5.79,
    "pat": 3.95,
    "margin_pct": 10.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 7.77,
    "pat": 6.39,
    "margin_pct": 14.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 6.85,
    "pat": 5.75,
    "margin_pct": 12.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 6.65,
    "pat": 5.09,
    "margin_pct": 11.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 8.88,
    "pat": 6.37,
    "margin_pct": 11.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 88,
-    "profit": 54,
-    "quality": 62
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 15.43,
    "pat": 10.96,
    "margin_pct": 23.2,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 83,
-    "profit": 99,
-    "quality": 97
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 22.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +88,17 @@
    "ebitda": 11.03,
    "pat": 7.52,
    "margin_pct": 16.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 81,
-    "profit": 85,
-    "quality": 62
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -20.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -185,5 +197,30 @@
   ],
   "ledger": "claims/INE03YM01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G28",
+  "group_name": "fine, pharmaceutical, chemical",
+  "subgroup": "G28.0",
+  "subgroup_name": "fine, pharmaceutical, chemical",
+  "terms": [
+   "fine",
+   "pharmaceutical",
+   "chemical",
+   "chemicals fine",
+   "chemicals",
+   "laboratory"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE02L001032",
+    "name": "Borosil Scientific Limited"
+   },
+   {
+    "isin": "INE0ATZ01017",
+    "name": "Kronox Lab Sciences Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

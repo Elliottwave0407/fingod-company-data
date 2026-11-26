@@ -3,7 +3,7 @@
  "sym": "AWFIS",
  "name": "Awfis Space Solutions Limited",
  "scrip": "544181",
- "mcap_cr": 1982.66,
+ "mcap_cr": 1949.38,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 116.09,
    "pat": 11.23,
    "margin_pct": 34.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 126.53,
    "pat": 9.98,
    "margin_pct": 37.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 132.31,
    "pat": 15.97,
    "margin_pct": 36.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 139.22,
    "pat": 21.66,
    "margin_pct": 36.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 151.71,
    "pat": 23.25,
    "margin_pct": 37.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 68,
-    "profit": 80,
-    "quality": 68
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "sequential momentum is flat"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 162.28,
    "pat": 23.96,
    "margin_pct": 38.2,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 70,
-    "profit": 56,
-    "quality": 69
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -2.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "sequential momentum is flat"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +169,6 @@
   ],
   "ledger": "claims/INE108V01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

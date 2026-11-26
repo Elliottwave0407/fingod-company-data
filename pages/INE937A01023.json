@@ -3,7 +3,7 @@
  "sym": "SPMLINFRA",
  "name": "SPML Infra Limited",
  "scrip": "500402",
- "mcap_cr": 1159.39,
+ "mcap_cr": 1156.85,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 10.29,
    "pat": 12.01,
    "margin_pct": 5.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 7.22,
    "pat": 12.12,
    "margin_pct": 4.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 8.8,
    "pat": 15.04,
    "margin_pct": 4.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 24.8,
    "pat": 20.34,
    "margin_pct": 10.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 20.62,
    "pat": 27.18,
    "margin_pct": 7.1,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 97,
-    "profit": 54,
-    "quality": 88
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,14 @@
    "ebitda": 26.87,
    "pat": 22.68,
    "margin_pct": 9.5,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 86,
-    "quality": 71
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 74.9
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -172,5 +181,6 @@
   ],
   "ledger": "claims/INE937A01023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

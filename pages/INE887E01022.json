@@ -3,7 +3,7 @@
  "sym": "NGLFINE",
  "name": "NGL Fine-Chem Limited",
  "scrip": "524774",
- "mcap_cr": 1668.68,
+ "mcap_cr": 1699.08,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 6.32,
    "pat": 0.54,
    "margin_pct": 6.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 10.98,
    "pat": 9.24,
    "margin_pct": 10.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 17.15,
    "pat": 9.63,
    "margin_pct": 14.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 22.31,
    "pat": 15.69,
    "margin_pct": 17.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 21.41,
    "pat": 13.49,
    "margin_pct": 14.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 99,
-    "profit": 91,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,16 @@
    "ebitda": 23.29,
    "pat": 18.4,
    "margin_pct": 16.7,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 89,
-    "profit": 93,
-    "quality": 96
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -54.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   }
  ],
  "completeness": {
@@ -175,5 +186,6 @@
   ],
   "ledger": "claims/INE887E01022.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

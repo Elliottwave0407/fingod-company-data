@@ -3,7 +3,7 @@
  "sym": "LOKESHMACH",
  "name": "Lokesh Machines Limited",
  "scrip": "532740",
- "mcap_cr": 785.56,
+ "mcap_cr": 765.72,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 7.32,
    "pat": 0.13,
    "margin_pct": 18.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 8.61,
    "pat": 0.46,
    "margin_pct": 17.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 9.6,
    "pat": 0.63,
    "margin_pct": 19.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 9.52,
    "pat": 0.63,
    "margin_pct": 18.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 10.5,
    "pat": 2.15,
    "margin_pct": 17.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 91,
-    "profit": 33,
-    "quality": 90
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,19 @@
    "ebitda": 9.6,
    "pat": 1.01,
    "margin_pct": 17.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 48,
-    "profit": 39,
-    "quality": 75
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -23.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -182,5 +196,38 @@
   ],
   "ledger": "claims/INE397H01017.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G19",
+  "group_name": "precision, defence, components",
+  "subgroup": "G19.0",
+  "subgroup_name": "precision, defence, components",
+  "terms": [
+   "precision",
+   "defence",
+   "components",
+   "aerospace",
+   "auto",
+   "gears"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE127B01011",
+    "name": "The Hi-Tech Gears Limited"
+   },
+   {
+    "isin": "INE274C01019",
+    "name": "Wendt (India) Limited"
+   },
+   {
+    "isin": "INE637H01024",
+    "name": "Shivam Autotech Limited"
+   },
+   {
+    "isin": "INE711A01022",
+    "name": "Walchandnagar Industries Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

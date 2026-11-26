@@ -3,7 +3,7 @@
  "sym": "GEMAROMA",
  "name": "Gem Aromatics Limited",
  "scrip": "544491",
- "mcap_cr": 717.22,
+ "mcap_cr": 714.87,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 14.86,
    "pat": 7.98,
    "margin_pct": 17.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 3.05,
    "pat": -2.58,
    "margin_pct": 3.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 7.02,
    "pat": -4.99,
    "margin_pct": 8.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 15.71,
    "pat": 1.01,
    "margin_pct": 14.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,22 @@
    "ebitda": 3.31,
    "pat": -7.87,
    "margin_pct": 3.3,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 24,
-    "profit": 3,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +79,16 @@
    "ebitda": 7.86,
    "pat": -7.01,
    "margin_pct": 7.6,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 77,
-    "profit": 78,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 110.2
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss"
+   ]
   }
  ],
  "completeness": {
@@ -161,5 +177,6 @@
   ],
   "ledger": "claims/INE06XZ01023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

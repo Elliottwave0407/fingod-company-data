@@ -3,7 +3,7 @@
  "sym": "HARRMALAYA",
  "name": "Harrisons  Malayalam Limited",
  "scrip": "500467",
- "mcap_cr": 265.2,
+ "mcap_cr": 265.3,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 6.58,
    "pat": 5.19,
    "margin_pct": 4.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 8.2,
    "pat": 5.96,
    "margin_pct": 7.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -0.68,
    "pat": 6.42,
    "margin_pct": -0.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 8.77,
    "pat": 7.64,
    "margin_pct": 6.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 8.59,
    "pat": 9.11,
    "margin_pct": 5.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 56,
-    "profit": 47,
-    "quality": 68
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,22 @@
    "ebitda": 5.68,
    "pat": 3.93,
    "margin_pct": 4.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 19,
-    "profit": 9,
-    "quality": 5
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -26.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -168,5 +184,38 @@
   "latest_guidance": [],
   "ledger": "claims/INE544A01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G16",
+  "group_name": "tea, tea market, leaves",
+  "subgroup": "G16.0",
+  "subgroup_name": "tea, tea market, leaves",
+  "terms": [
+   "tea",
+   "tea market",
+   "leaves",
+   "leaf",
+   "tea leaves",
+   "market"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE047B01011",
+    "name": "Gillanders Arbuthnot & Company Limited"
+   },
+   {
+    "isin": "INE364A01020",
+    "name": "Jayshree Tea & Industries Limited"
+   },
+   {
+    "isin": "INE847C01020",
+    "name": "Rossell India Limited"
+   },
+   {
+    "isin": "INE942G01012",
+    "name": "Mcleod Russel India Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

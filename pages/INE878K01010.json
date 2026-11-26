@@ -3,7 +3,7 @@
  "sym": "BFINVEST",
  "name": "BF Investment Limited",
  "scrip": "533303",
- "mcap_cr": 1591.83,
+ "mcap_cr": 1550.4,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 21.52,
    "pat": -3.33,
    "margin_pct": 81.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 8.03,
    "pat": 38.44,
    "margin_pct": 85.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 16.64,
    "pat": 39.95,
    "margin_pct": 86.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 8.99,
    "pat": 89.38,
    "margin_pct": 88.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 30.35,
    "pat": 114.23,
    "margin_pct": 81.1,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 85,
-    "profit": 49,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 10.2,
    "pat": 145.99,
    "margin_pct": 90.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 64,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -4.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -131,5 +143,26 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G45",
+  "group_name": "investment, investment financing, finance investment",
+  "subgroup": "G45.0",
+  "subgroup_name": "investment, investment financing, finance investment",
+  "terms": [
+   "investment",
+   "investment financing",
+   "finance investment",
+   "finance",
+   "financing",
+   "financing investment"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE147P01019",
+    "name": "Jindal Poly Investment and Finance Company Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

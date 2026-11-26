@@ -3,7 +3,7 @@
  "sym": "HCL-INSYS",
  "name": "HCL Infosystems Limited",
  "scrip": "500179",
- "mcap_cr": 375.3,
+ "mcap_cr": 388.47,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -8.28,
    "pat": -3.9,
    "margin_pct": -178.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -10.13,
    "pat": -4.5,
    "margin_pct": -144.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -17.41,
    "pat": -5.5,
    "margin_pct": -343.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -17.04,
    "pat": -9.75,
    "margin_pct": -403.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,9 +56,18 @@
    "ebitda": -16.26,
    "pat": -13.17,
    "margin_pct": -308.0,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -62,13 +75,21 @@
    "ebitda": -13.71,
    "pat": -16.68,
    "margin_pct": -328.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": -262,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -142,5 +163,26 @@
   "latest_guidance": [],
   "ledger": "claims/INE236A01020.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G47",
+  "group_name": "listed holding, holdings listed, holding",
+  "subgroup": "G47.0",
+  "subgroup_name": "listed holding, holdings listed, holding",
+  "terms": [
+   "listed holding",
+   "holdings listed",
+   "holding",
+   "holdings",
+   "rendering",
+   "listed"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE577L01016",
+    "name": "Stel Holdings Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

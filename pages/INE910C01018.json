@@ -3,7 +3,7 @@
  "sym": "TTKHLTCARE",
  "name": "TTK Healthcare Limited",
  "scrip": "507747",
- "mcap_cr": 1504.67,
+ "mcap_cr": 1503.26,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 6.14,
    "pat": 16.15,
    "margin_pct": 3.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 2.67,
    "pat": 13.0,
    "margin_pct": 1.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 5.34,
    "pat": 20.39,
    "margin_pct": 2.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -0.44,
    "pat": 10.53,
    "margin_pct": -0.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 14.54,
    "pat": 21.76,
    "margin_pct": 6.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 75,
-    "profit": 71,
-    "quality": 55
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 14.74,
    "pat": 21.28,
    "margin_pct": 5.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 74,
-    "profit": 80,
-    "quality": 68
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 111.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,16 @@
    "ebitda": 251.95,
    "pat": 222.97,
    "margin_pct": 108.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 75,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 1609.6
    },
-   "capped_by": "revenue growth under 20%"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -158,5 +171,26 @@
   "dividend_per_share": 10
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G43",
+  "group_name": "devices, healthcare, medical devices",
+  "subgroup": "G43.0",
+  "subgroup_name": "devices, healthcare, medical devices",
+  "terms": [
+   "devices",
+   "healthcare",
+   "medical devices",
+   "protective",
+   "foods",
+   "million"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE0DSF01015",
+    "name": "Nureca Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

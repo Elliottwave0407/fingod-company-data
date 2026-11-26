@@ -3,7 +3,7 @@
  "sym": "XCHANGING",
  "name": "Xchanging Solutions Limited",
  "scrip": "532616",
- "mcap_cr": 637.12,
+ "mcap_cr": 614.28,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 17.35,
    "pat": 14.65,
    "margin_pct": 34.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 16.36,
    "pat": 13.77,
    "margin_pct": 32.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 17.01,
    "pat": 16.26,
    "margin_pct": 32.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 16.08,
    "pat": 13.18,
    "margin_pct": 32.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 19.07,
    "pat": 16.24,
    "margin_pct": 37.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 34,
-    "profit": 81,
-    "quality": 59
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 17.99,
    "pat": 15.12,
    "margin_pct": 33.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 40,
-    "profit": 60,
-    "quality": 45
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -1.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,17 @@
    "ebitda": 18.43,
    "pat": 15.19,
    "margin_pct": 34.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 33,
-    "profit": 76,
-    "quality": 15
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -0.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -132,5 +147,54 @@
   "dividend_per_share": 2
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G8",
+  "group_name": "software, technology, cloud",
+  "subgroup": "G8.0",
+  "subgroup_name": "software, technology, cloud",
+  "terms": [
+   "software",
+   "technology",
+   "cloud",
+   "cmmi",
+   "information",
+   "analytics"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE020G01017",
+    "name": "Inspirisys Solutions Limited"
+   },
+   {
+    "isin": "INE110B01017",
+    "name": "Mindteck (India) Limited"
+   },
+   {
+    "isin": "INE214A01019",
+    "name": "Cybertech Systems And Software Limited"
+   },
+   {
+    "isin": "INE482B01010",
+    "name": "Tera Software Limited"
+   },
+   {
+    "isin": "INE512B01022",
+    "name": "FCS Software Solutions Limited"
+   },
+   {
+    "isin": "INE727B01026",
+    "name": "Genesys International Corporation Limited"
+   },
+   {
+    "isin": "INE805A01014",
+    "name": "AION-TECH SOLUTIONS LIMITED"
+   },
+   {
+    "isin": "INE948A01012",
+    "name": "Trigyn Technologies Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

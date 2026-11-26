@@ -3,7 +3,7 @@
  "sym": "SUPREMEINF",
  "name": "Supreme Infrastructure India Limited",
  "scrip": "532904",
- "mcap_cr": 604.7,
+ "mcap_cr": 574.51,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -12.73,
    "pat": -372.75,
    "margin_pct": -57.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -2.88,
    "pat": -399.92,
    "margin_pct": -34.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 6462.45,
    "pat": 6305.92,
    "margin_pct": 47870.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 6.92,
    "pat": -49.22,
    "margin_pct": 23.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": -2.54,
    "pat": -60.35,
    "margin_pct": -18.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 0,
-    "profit": 65,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,18 @@
    "ebitda": 1.29,
    "pat": -59.17,
    "margin_pct": 5.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 100,
-    "profit": 84,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -134,5 +151,50 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G11",
+  "group_name": "roads, highways, water",
+  "subgroup": "G11.0",
+  "subgroup_name": "roads, highways, water",
+  "terms": [
+   "roads",
+   "highways",
+   "water",
+   "urban",
+   "construction",
+   "irrigation"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE050001010",
+    "name": "Prakash Pipes Limited"
+   },
+   {
+    "isin": "INE323C01030",
+    "name": "Indian Hume Pipe Company Limited"
+   },
+   {
+    "isin": "INE324L01013",
+    "name": "R.P.P. Infra Projects Limited"
+   },
+   {
+    "isin": "INE336H01023",
+    "name": "Gayatri Projects Limited"
+   },
+   {
+    "isin": "INE863T01013",
+    "name": "JITF Infralogistics Limited"
+   },
+   {
+    "isin": "INE912H01013",
+    "name": "MBL Infrastructure Limited"
+   },
+   {
+    "isin": "INE964H01014",
+    "name": "SEPC Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

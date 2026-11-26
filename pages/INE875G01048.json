@@ -3,7 +3,7 @@
  "sym": "NDL",
  "name": "Nandan Denim Limited",
  "scrip": "532641",
- "mcap_cr": 347.39,
+ "mcap_cr": 345.95,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 34.4,
    "pat": 10.63,
    "margin_pct": 3.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 32.41,
    "pat": 11.2,
    "margin_pct": 3.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 23.44,
    "pat": 9.45,
    "margin_pct": 3.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 21.04,
    "pat": 2.97,
    "margin_pct": 4.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 13.03,
    "pat": 9.51,
    "margin_pct": 2.4,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": 25,
-    "quality": 26
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,16 @@
    "ebitda": 24.38,
    "pat": 14.8,
    "margin_pct": 3.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 2,
-    "profit": 43,
-    "quality": 66
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 18.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -137,5 +151,54 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G1",
+  "group_name": "yarn, cotton, textile",
+  "subgroup": "G1.0",
+  "subgroup_name": "bci, organic, recycled",
+  "terms": [
+   "bci",
+   "organic",
+   "recycled",
+   "international",
+   "garment",
+   "global"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE02EZ01022",
+    "name": "Axita Cotton Limited"
+   },
+   {
+    "isin": "INE08KP01019",
+    "name": "DCM Nouvelle Limited"
+   },
+   {
+    "isin": "INE08PH01015",
+    "name": "ABC Industries India Limited"
+   },
+   {
+    "isin": "INE290A01027",
+    "name": "Nahar Spinning Mills Limited"
+   },
+   {
+    "isin": "INE540G01014",
+    "name": "Ambika Cotton Mills Limited"
+   },
+   {
+    "isin": "INE784W01015",
+    "name": "Manomay Tex India Limited"
+   },
+   {
+    "isin": "INE835A01029",
+    "name": "Vardhman Polytex Limited"
+   },
+   {
+    "isin": "INE882A01013",
+    "name": "Maral Overseas Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

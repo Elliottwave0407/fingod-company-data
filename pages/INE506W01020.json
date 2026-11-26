@@ -9,9 +9,10 @@
    "ebitda": 56.29,
    "pat": 32.86,
    "margin_pct": 11.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -19,9 +20,10 @@
    "ebitda": 65.55,
    "pat": 30.58,
    "margin_pct": 16.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -29,9 +31,10 @@
    "ebitda": 73.17,
    "pat": 33.17,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -39,9 +42,10 @@
    "ebitda": 70.14,
    "pat": 33.32,
    "margin_pct": 10.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -49,13 +53,16 @@
    "ebitda": 89.48,
    "pat": 83.08,
    "margin_pct": 11.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 99,
-    "profit": 41,
-    "quality": 94
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   },
   {
    "q": "Jun-26",
@@ -63,13 +70,17 @@
    "ebitda": 88.95,
    "pat": 47.09,
    "margin_pct": 16.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 80,
-    "profit": 47,
-    "quality": 75
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -16.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -162,5 +173,6 @@
   ],
   "ledger": "claims/INE506W01020.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SESHAPAPER",
  "name": "Seshasayee Paper and Boards Limited",
  "scrip": "502450",
- "mcap_cr": 1305.83,
+ "mcap_cr": 1328.22,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 25.22,
    "pat": 27.07,
    "margin_pct": 5.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 21.31,
    "pat": 15.43,
    "margin_pct": 5.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 26.3,
    "pat": 22.41,
    "margin_pct": 7.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 24.71,
    "pat": 18.64,
    "margin_pct": 6.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 23.59,
    "pat": 26.05,
    "margin_pct": 4.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 38,
-    "profit": 24,
-    "quality": 19
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit slightly down YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,16 @@
    "ebitda": 43.91,
    "pat": 31.91,
    "margin_pct": 8.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 85,
-    "profit": 72,
-    "quality": 85
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 49.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,14 @@
    "ebitda": 46.89,
    "pat": 42.31,
    "margin_pct": 9.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 94,
-    "profit": 57,
-    "quality": 82
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -6.1
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -145,5 +158,62 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G4",
+  "group_name": "paper, papers, tissue",
+  "subgroup": "G4.0",
+  "subgroup_name": "paper, papers, tissue",
+  "terms": [
+   "paper",
+   "papers",
+   "tissue",
+   "kraft",
+   "packaging",
+   "writing"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE01EE01011",
+    "name": "B&B Triplewall Containers Limited"
+   },
+   {
+    "isin": "INE107A01015",
+    "name": "Tamil Nadu Newsprint & Papers Limited"
+   },
+   {
+    "isin": "INE196Y01018",
+    "name": "Worth Peripherals Limited"
+   },
+   {
+    "isin": "INE278B01020",
+    "name": "Shree Rama Newsprint Limited"
+   },
+   {
+    "isin": "INE435A01051",
+    "name": "ANDHRA PAPER LIMITED"
+   },
+   {
+    "isin": "INE592A01026",
+    "name": "Orient Paper & Industries Limited"
+   },
+   {
+    "isin": "INE642C01025",
+    "name": "Rubfila International Limited"
+   },
+   {
+    "isin": "INE733A01018",
+    "name": "Star Paper Mills Limited"
+   },
+   {
+    "isin": "INE865T01018",
+    "name": "Pudumjee Paper Products Limited"
+   },
+   {
+    "isin": "INE949P01018",
+    "name": "Genus Paper & Boards Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

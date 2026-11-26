@@ -3,7 +3,7 @@
  "sym": "TPLPLASTEH",
  "name": "TPL Plastech Limited",
  "scrip": "526582",
- "mcap_cr": 552.26,
+ "mcap_cr": 566.77,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 11.32,
    "pat": 6.83,
    "margin_pct": 12.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 10.02,
    "pat": 5.47,
    "margin_pct": 11.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 11.87,
    "pat": 6.85,
    "margin_pct": 11.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 13.52,
    "pat": 8.69,
    "margin_pct": 12.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 12.87,
    "pat": 8.05,
    "margin_pct": 11.3,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 57,
-    "profit": 30,
-    "quality": 46
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 11.29,
    "pat": 6.52,
    "margin_pct": 9.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 64,
-    "profit": 18,
-    "quality": 44
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 3.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -124,5 +136,38 @@
   "dividend_per_share": 1.3
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G18",
+  "group_name": "agrochemicals, chemicals, amines",
+  "subgroup": "G18.0",
+  "subgroup_name": "agrochemicals, chemicals, amines",
+  "terms": [
+   "agrochemicals",
+   "chemicals",
+   "amines",
+   "pharmaceuticals",
+   "agrochemicals pharmaceuticals",
+   "specialty chemicals"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE120D01012",
+    "name": "Hitech Corporation Limited"
+   },
+   {
+    "isin": "INE275D01022",
+    "name": "Amines & Plasticizers Limited"
+   },
+   {
+    "isin": "INE591D01014",
+    "name": "Diamines & Chemicals Limited"
+   },
+   {
+    "isin": "INE760F01028",
+    "name": "Indo Amines Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

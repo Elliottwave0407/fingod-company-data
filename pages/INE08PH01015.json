@@ -3,7 +3,7 @@
  "sym": "ABCOTS",
  "name": "A B Cotspin India Limited",
  "scrip": "544522",
- "mcap_cr": 370.42,
+ "mcap_cr": 365.26,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 7.39,
    "pat": 2.11,
    "margin_pct": 8.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 9.98,
    "pat": 4.18,
    "margin_pct": 15.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 11.25,
    "pat": 3.62,
    "margin_pct": 22.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 9.42,
    "pat": 3.27,
    "margin_pct": 12.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 8.94,
    "pat": 1.96,
    "margin_pct": 8.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 62,
-    "profit": 38,
-    "quality": 26
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,14 @@
    "ebitda": 12.02,
    "pat": 5.11,
    "margin_pct": 11.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 77,
-    "profit": 10,
-    "quality": 43
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 5.5
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -122,5 +133,54 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G1",
+  "group_name": "yarn, cotton, textile",
+  "subgroup": "G1.0",
+  "subgroup_name": "bci, organic, recycled",
+  "terms": [
+   "bci",
+   "organic",
+   "recycled",
+   "international",
+   "garment",
+   "global"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE02EZ01022",
+    "name": "Axita Cotton Limited"
+   },
+   {
+    "isin": "INE08KP01019",
+    "name": "DCM Nouvelle Limited"
+   },
+   {
+    "isin": "INE290A01027",
+    "name": "Nahar Spinning Mills Limited"
+   },
+   {
+    "isin": "INE540G01014",
+    "name": "Ambika Cotton Mills Limited"
+   },
+   {
+    "isin": "INE784W01015",
+    "name": "Manomay Tex India Limited"
+   },
+   {
+    "isin": "INE835A01029",
+    "name": "Vardhman Polytex Limited"
+   },
+   {
+    "isin": "INE875G01048",
+    "name": "Nandan Denim Limited"
+   },
+   {
+    "isin": "INE882A01013",
+    "name": "Maral Overseas Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "ANMOL",
  "name": "Anmol India Limited",
  "scrip": "542437",
- "mcap_cr": 60.5,
+ "mcap_cr": 60.61,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 4.45,
    "pat": 1.6,
    "margin_pct": 1.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 10.15,
    "pat": 5.72,
    "margin_pct": 1.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 0.97,
    "pat": 0.07,
    "margin_pct": 0.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 5.14,
    "pat": 2.94,
    "margin_pct": 1.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 2.8,
    "pat": 2.51,
    "margin_pct": 0.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 12,
-    "profit": 27,
-    "quality": 57
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,16 @@
    "ebitda": 9.88,
    "pat": 6.0,
    "margin_pct": 2.2,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 15,
-    "profit": 38,
-    "quality": 39
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 6.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -138,5 +151,6 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

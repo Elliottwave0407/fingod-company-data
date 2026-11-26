@@ -3,7 +3,7 @@
  "sym": "SPORTKING",
  "name": "Sportking India Limited",
  "scrip": "539221",
- "mcap_cr": 3048.46,
+ "mcap_cr": 2990.64,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 74.35,
    "pat": 36.12,
    "margin_pct": 11.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 70.55,
    "pat": 35.15,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 65.41,
    "pat": 28.27,
    "margin_pct": 10.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 65.64,
    "pat": 24.6,
    "margin_pct": 10.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 85.43,
    "pat": 32.76,
    "margin_pct": 13.4,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 39,
-    "profit": 59,
-    "quality": 25
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,14 @@
    "ebitda": 132.21,
    "pat": 75.97,
    "margin_pct": 18.8,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 80,
-    "profit": 95,
-    "quality": 99
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 39.7
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +89,14 @@
    "ebitda": 154.88,
    "pat": 96.36,
    "margin_pct": 19.8,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 83,
-    "profit": 96,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 22.8
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -181,5 +191,6 @@
   ],
   "ledger": "claims/INE885H01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

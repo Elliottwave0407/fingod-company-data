@@ -3,7 +3,7 @@
  "sym": "PARACABLES",
  "name": "Paramount Communications Limited",
  "scrip": "530555",
- "mcap_cr": 1869.85,
+ "mcap_cr": 1846.29,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 31.7,
    "pat": 18.74,
    "margin_pct": 6.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 15.16,
    "pat": 18.5,
    "margin_pct": 3.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 6.2,
    "pat": 13.25,
    "margin_pct": 1.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 15.14,
    "pat": 7.48,
    "margin_pct": 3.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 29.86,
    "pat": 20.52,
    "margin_pct": 5.2,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 34,
-    "profit": 25,
-    "quality": 40
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 34.74,
    "pat": 19.7,
    "margin_pct": 6.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 78,
-    "profit": 68,
-    "quality": 35
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 55.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue and profit both fell QoQ with profit barely up YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,14 @@
    "ebitda": 40.91,
    "pat": 24.24,
    "margin_pct": 7.3,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 87,
-    "profit": 86,
-    "quality": 78
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 159.5
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -190,5 +201,6 @@
   ],
   "ledger": "claims/INE074B01023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

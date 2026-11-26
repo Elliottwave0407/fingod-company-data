@@ -3,7 +3,7 @@
  "sym": "DCMSRIND",
  "name": "Dcm Shriram Industries Limited",
  "scrip": "523369",
- "mcap_cr": 478.46,
+ "mcap_cr": 479.15,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 48.28,
    "pat": 23.7,
    "margin_pct": 10.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 43.59,
    "pat": 16.87,
    "margin_pct": 8.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 9.57,
    "pat": -3.12,
    "margin_pct": 1.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 25.09,
    "pat": 11.54,
    "margin_pct": 9.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 33.0,
    "pat": 15.91,
    "margin_pct": 12.1,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 0,
-    "profit": 60,
-    "quality": 25
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,20 @@
    "ebitda": 7.18,
    "pat": 1.55,
    "margin_pct": 2.4,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": 2,
-    "quality": 1
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -30.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -137,5 +152,54 @@
   "latest_guidance": [],
   "ledger": "claims/INE843D01027.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G10",
+  "group_name": "sugar, ethanol, molasses",
+  "subgroup": "G10.0",
+  "subgroup_name": "sugar, ethanol, molasses",
+  "terms": [
+   "sugar",
+   "ethanol",
+   "molasses",
+   "bagasse",
+   "alcohol",
+   "co-generation"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE157H01023",
+    "name": "K.M.Sugar Mills Limited"
+   },
+   {
+    "isin": "INE179G01029",
+    "name": "Davangere Sugar Company Limited"
+   },
+   {
+    "isin": "INE190H01024",
+    "name": "Sakuma Exports Limited"
+   },
+   {
+    "isin": "INE623A01011",
+    "name": "Sakthi Sugars Limited"
+   },
+   {
+    "isin": "INE636A01039",
+    "name": "Mawana Sugars Limited"
+   },
+   {
+    "isin": "INE786F01031",
+    "name": "Uttam Sugar Mills Limited"
+   },
+   {
+    "isin": "INE790B01024",
+    "name": "KCP Sugar and Industries Corporation Limited"
+   },
+   {
+    "isin": "INE838E01017",
+    "name": "Ponni Sugars (Erode) Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

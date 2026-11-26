@@ -3,7 +3,7 @@
  "sym": "HARDWYN",
  "name": "Hardwyn India Limited",
  "scrip": "541276",
- "mcap_cr": 602.42,
+ "mcap_cr": 604.48,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 2.98,
    "pat": 1.86,
    "margin_pct": 6.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 5.68,
    "pat": 3.63,
    "margin_pct": 13.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 6.78,
    "pat": 4.35,
    "margin_pct": 13.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 3.03,
    "pat": 1.79,
    "margin_pct": 6.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 5.73,
    "pat": 3.46,
    "margin_pct": 10.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 83,
-    "profit": 74,
-    "quality": 82
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,20 @@
    "ebitda": 4.49,
    "pat": 2.8,
    "margin_pct": 13.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 8,
-    "profit": 40,
-    "quality": 21
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -60.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -135,5 +147,26 @@
   ],
   "ledger": "claims/INE626Z01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G51",
+  "group_name": "kitchen, architectural, appliances",
+  "subgroup": "G51.0",
+  "subgroup_name": "kitchen, architectural, appliances",
+  "terms": [
+   "kitchen",
+   "architectural",
+   "appliances",
+   "hardware",
+   "fittings",
+   "aluminium"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE295F01017",
+    "name": "Butterfly Gandhimathi Appliances Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

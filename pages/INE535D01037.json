@@ -3,7 +3,7 @@
  "sym": "ROTO",
  "name": "Roto Pumps Limited",
  "scrip": "517500",
- "mcap_cr": 1343.24,
+ "mcap_cr": 1313.47,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 20.73,
    "pat": 12.58,
    "margin_pct": 25.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 13.58,
    "pat": 6.3,
    "margin_pct": 20.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 11.68,
    "pat": 5.96,
    "margin_pct": 18.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 13.56,
    "pat": 6.78,
    "margin_pct": 18.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 12.79,
    "pat": 5.73,
    "margin_pct": 15.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 12,
-    "profit": 13,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,16 @@
    "ebitda": 15.18,
    "pat": 9.25,
    "margin_pct": 20.1,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 48,
-    "profit": 42,
-    "quality": 81
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 36.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -154,5 +167,26 @@
   ],
   "ledger": "claims/INE535D01037.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G54",
+  "group_name": "pumps, hydraulic, controls",
+  "subgroup": "G54.0",
+  "subgroup_name": "pumps, hydraulic, controls",
+  "terms": [
+   "pumps",
+   "hydraulic",
+   "controls",
+   "valves",
+   "gear pumps",
+   "pumps gear"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE384C01016",
+    "name": "Yuken India Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

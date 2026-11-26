@@ -3,7 +3,7 @@
  "sym": "IFGLEXPOR",
  "name": "IFGL Refractories Limited",
  "scrip": "540774",
- "mcap_cr": 1280.84,
+ "mcap_cr": 1264.26,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 33.23,
    "pat": 8.43,
    "margin_pct": 7.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 36.0,
    "pat": 10.81,
    "margin_pct": 7.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 37.99,
    "pat": 12.69,
    "margin_pct": 7.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 18.26,
    "pat": -3.08,
    "margin_pct": 3.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 38.52,
    "pat": 14.28,
    "margin_pct": 8.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 45,
-    "profit": 44,
-    "quality": 77
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,17 @@
    "ebitda": 37.0,
    "pat": 17.06,
    "margin_pct": 7.2,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 38,
-    "profit": 30,
-    "quality": 75
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -4.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -173,5 +182,6 @@
   ],
   "ledger": "claims/INE133Y01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

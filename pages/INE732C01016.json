@@ -3,7 +3,7 @@
  "sym": "NCLIND",
  "name": "NCL Industries Limited",
  "scrip": "502168",
- "mcap_cr": 753.35,
+ "mcap_cr": 754.03,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 20.25,
    "pat": 6.93,
    "margin_pct": 5.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 50.68,
    "pat": 20.27,
    "margin_pct": 15.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 39.38,
    "pat": 19.9,
    "margin_pct": 11.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 36.16,
    "pat": 13.24,
    "margin_pct": 10.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 51.04,
    "pat": 41.98,
    "margin_pct": 12.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 66,
-    "profit": 90,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,22 @@
    "ebitda": 39.61,
    "pat": 17.38,
    "margin_pct": 11.5,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 17,
-    "profit": 9,
-    "quality": 20
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -78.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -168,5 +182,6 @@
   ],
   "ledger": "claims/INE732C01016.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

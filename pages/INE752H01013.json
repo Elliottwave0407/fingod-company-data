@@ -3,7 +3,7 @@
  "sym": "CARERATING",
  "name": "CARE Ratings Limited",
  "scrip": "534804",
- "mcap_cr": 4690.99,
+ "mcap_cr": 4598.74,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 47.38,
    "pat": 43.37,
    "margin_pct": 43.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 27.74,
    "pat": 26.5,
    "margin_pct": 29.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 68.4,
    "pat": 57.21,
    "margin_pct": 50.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 40.34,
    "pat": 36.54,
    "margin_pct": 36.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 60.76,
    "pat": 53.45,
    "margin_pct": 46.5,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 65,
-    "profit": 84,
-    "quality": 61
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": "profit growth under 25%"
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,18 @@
    "ebitda": 34.63,
    "pat": 32.99,
    "margin_pct": 31.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 62,
-    "profit": 67,
-    "quality": 61
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": -4.0
    },
-   "capped_by": "profit growth under 25%"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,14 @@
    "ebitda": 84.61,
    "pat": 72.37,
    "margin_pct": 51.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 63,
-    "profit": 66,
-    "quality": 68
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": -0.0
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -187,5 +198,6 @@
   ],
   "ledger": "claims/INE752H01013.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

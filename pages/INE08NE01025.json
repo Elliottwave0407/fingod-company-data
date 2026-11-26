@@ -3,7 +3,7 @@
  "sym": "SANSTAR",
  "name": "Sanstar Limited",
  "scrip": "544217",
- "mcap_cr": 1899.35,
+ "mcap_cr": 1922.78,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -0.49,
    "pat": 5.52,
    "margin_pct": -0.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -1.74,
    "pat": -0.33,
    "margin_pct": -1.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 1.35,
    "pat": 0.63,
    "margin_pct": 0.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 17.89,
    "pat": 13.67,
    "margin_pct": 8.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 19.35,
    "pat": 20.49,
    "margin_pct": 8.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 21,
-    "profit": 87,
-    "quality": 100
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,19 @@
    "ebitda": 15.38,
    "pat": 9.21,
    "margin_pct": 7.5,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 63,
-    "profit": 86,
-    "quality": 96
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -145,5 +159,6 @@
   "latest_guidance": [],
   "ledger": "claims/INE08NE01025.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

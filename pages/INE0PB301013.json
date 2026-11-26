@@ -3,7 +3,7 @@
  "sym": "SCILAL",
  "name": "Shipping Corporation Of India Land And Assets Limited",
  "scrip": "544142",
- "mcap_cr": 1635.89,
+ "mcap_cr": 1653.12,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -3.18,
    "pat": -224.37,
    "margin_pct": -65.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -1.55,
    "pat": 14.34,
    "margin_pct": -27.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -14.87,
    "pat": 4.19,
    "margin_pct": -242.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -4.99,
    "pat": 11.13,
    "margin_pct": -88.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,9 +56,19 @@
    "ebitda": -20.31,
    "pat": -0.84,
    "margin_pct": -349.6,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -62,13 +76,17 @@
    "ebitda": -1.08,
    "pat": 14.02,
    "margin_pct": -13.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 82,
-    "profit": 69,
-    "quality": 9
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit slightly down YoY",
+    "small base"
+   ]
   },
   {
    "q": "Sep-26",
@@ -76,13 +94,18 @@
    "ebitda": -4.05,
    "pat": 11.75,
    "margin_pct": -52.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 67,
-    "profit": 38,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -166,5 +189,30 @@
   "latest_guidance": [],
   "ledger": "claims/INE0PB301013.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G34",
+  "group_name": "training, education, educational",
+  "subgroup": "G34.0",
+  "subgroup_name": "training, education, educational",
+  "terms": [
+   "training",
+   "education",
+   "educational",
+   "course fees",
+   "course",
+   "institute"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE266F01018",
+    "name": "Aptech Limited"
+   },
+   {
+    "isin": "INE565L01011",
+    "name": "Zee Learn Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

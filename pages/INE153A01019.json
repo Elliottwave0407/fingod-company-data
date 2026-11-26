@@ -3,7 +3,7 @@
  "sym": "MTNL",
  "name": "Mahanagar Telephone Nigam Limited",
  "scrip": "500108",
- "mcap_cr": 1496.88,
+ "mcap_cr": 1470.42,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -122.03,
    "pat": -827.88,
    "margin_pct": -71.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -185.52,
    "pat": -943.15,
    "margin_pct": -282.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -108.44,
    "pat": -960.21,
    "margin_pct": -57.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -40.67,
    "pat": -896.94,
    "margin_pct": -20.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 60.1,
    "pat": -306.95,
    "margin_pct": 16.2,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 100,
-    "profit": 93,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,20 @@
    "ebitda": -32.99,
    "pat": -842.35,
    "margin_pct": -15.2,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 100,
-    "profit": 68,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -158,5 +174,42 @@
   "latest_guidance": [],
   "ledger": "claims/INE153A01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G13",
+  "group_name": "telecom, networking, wireless",
+  "subgroup": "G13.0",
+  "subgroup_name": "telecom, networking, wireless",
+  "terms": [
+   "telecom",
+   "networking",
+   "wireless",
+   "enterprise",
+   "telecommunications",
+   "data"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE178C01020",
+    "name": "Smartlink Holdings Limited"
+   },
+   {
+    "isin": "INE221H01019",
+    "name": "GTL Infrastructure Limited"
+   },
+   {
+    "isin": "INE250K01012",
+    "name": "D-Link (India) Limited"
+   },
+   {
+    "isin": "INE398B01018",
+    "name": "UMIYA BUILDCON LIMITED"
+   },
+   {
+    "isin": "INE800A01015",
+    "name": "Birla Cable Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

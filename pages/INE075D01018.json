@@ -3,7 +3,7 @@
  "sym": "GMBREW",
  "name": "GM Breweries Limited",
  "scrip": "507488",
- "mcap_cr": 1952.27,
+ "mcap_cr": 1947.36,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 30.9,
    "pat": 25.86,
    "margin_pct": 4.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 44.81,
    "pat": 34.89,
    "margin_pct": 6.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 52.58,
    "pat": 42.01,
    "margin_pct": 6.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 52.42,
    "pat": 54.07,
    "margin_pct": 6.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,17 @@
    "ebitda": 46.45,
    "pat": 37.74,
    "margin_pct": 5.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 80,
-    "profit": 46,
-    "quality": 68
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +74,14 @@
    "ebitda": 49.91,
    "pat": 39.29,
    "margin_pct": 5.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 52,
-    "profit": 32,
-    "quality": 41
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -17.8
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -118,5 +127,6 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

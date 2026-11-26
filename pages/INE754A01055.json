@@ -3,7 +3,7 @@
  "sym": "SUBEXLTD",
  "name": "Subex Limited",
  "scrip": "532348",
- "mcap_cr": 1049.82,
+ "mcap_cr": 1045.89,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -13.0,
    "pat": -17.6,
    "margin_pct": -18.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 3.93,
    "pat": 12.81,
    "margin_pct": 5.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 6.28,
    "pat": 2.86,
    "margin_pct": 9.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 4.54,
    "pat": 2.93,
    "margin_pct": 6.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 9.0,
    "pat": 9.93,
    "margin_pct": 12.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 31,
-    "profit": 90,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,14 @@
    "ebitda": 15.0,
    "pat": 14.22,
    "margin_pct": 18.9,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 80,
-    "profit": 95,
-    "quality": 33
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -163,5 +173,6 @@
   ],
   "ledger": "claims/INE754A01055.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

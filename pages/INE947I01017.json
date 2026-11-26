@@ -3,7 +3,7 @@
  "sym": "LOTUSEYE",
  "name": "Lotus Eye Hospital and Institute Limited",
  "scrip": "532998",
- "mcap_cr": 210.15,
+ "mcap_cr": 210.67,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -0.16,
    "pat": 0.25,
    "margin_pct": -1.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 1.48,
    "pat": 0.54,
    "margin_pct": 10.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 0.77,
    "pat": 0.12,
    "margin_pct": 5.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 0.65,
    "pat": -0.26,
    "margin_pct": 4.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,9 +56,19 @@
    "ebitda": 0.47,
    "pat": -0.32,
    "margin_pct": 3.5,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "margin fell QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -62,13 +76,16 @@
    "ebitda": 2.95,
    "pat": 0.61,
    "margin_pct": 17.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 84,
-    "profit": 94,
-    "quality": 41
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "profit growth under 25% (Blockbuster needs profit up at least 25%)"
+   ]
   }
  ],
  "completeness": {
@@ -148,5 +165,26 @@
   ],
   "ledger": "claims/INE947I01017.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G53",
+  "group_name": "patients, care, eye",
+  "subgroup": "G53.0",
+  "subgroup_name": "patients, care, eye",
+  "terms": [
+   "patients",
+   "care",
+   "eye",
+   "eye care",
+   "care patients",
+   "diagnostics"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE362A01016",
+    "name": "PVP Ventures Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

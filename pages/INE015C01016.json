@@ -3,7 +3,7 @@
  "sym": "TINNARUBR",
  "name": "Tinna Rubber and Infrastructure Limited",
  "scrip": "530475",
- "mcap_cr": 1647.0,
+ "mcap_cr": 1595.48,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 16.33,
    "pat": 11.68,
    "margin_pct": 12.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 20.79,
    "pat": 11.74,
    "margin_pct": 16.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 21.56,
    "pat": 11.77,
    "margin_pct": 18.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 22.68,
    "pat": 12.81,
    "margin_pct": 16.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 28.51,
    "pat": 16.53,
    "margin_pct": 18.2,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 81,
-    "profit": 95,
-    "quality": 72
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,14 @@
    "ebitda": 33.9,
    "pat": 20.57,
    "margin_pct": 21.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 80,
-    "profit": 97,
-    "quality": 95
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -4.3
    },
-   "capped_by": "revenue growth under 20%"
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +86,16 @@
    "ebitda": 29.45,
    "pat": 17.04,
    "margin_pct": 18.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 78,
-    "profit": 55,
-    "quality": 70
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -12.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -200,5 +209,6 @@
   ],
   "ledger": "claims/INE015C01016.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

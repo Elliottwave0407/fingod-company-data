@@ -3,7 +3,7 @@
  "sym": "DPABHUSHAN",
  "name": "D. P. Abhushan Limited",
  "scrip": "544161",
- "mcap_cr": 4120.44,
+ "mcap_cr": 4095.79,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 41.98,
    "pat": 25.15,
    "margin_pct": 5.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 54.3,
    "pat": 36.42,
    "margin_pct": 10.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 75.72,
    "pat": 51.46,
    "margin_pct": 7.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 105.63,
    "pat": 73.35,
    "margin_pct": 8.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 68.84,
    "pat": 50.6,
    "margin_pct": 5.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 29,
-    "quality": 72
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,16 @@
    "ebitda": 92.76,
    "pat": 64.45,
    "margin_pct": 10.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 99,
-    "profit": 49,
-    "quality": 75
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -5.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   }
  ],
  "completeness": {
@@ -175,5 +187,6 @@
   ],
   "ledger": "claims/INE266Y01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "LORDSCHLO",
  "name": "Lords Chloro Alkali Limited",
  "scrip": "500284",
- "mcap_cr": 387.11,
+ "mcap_cr": 381.1,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 9.95,
    "pat": 2.6,
    "margin_pct": 12.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 20.42,
    "pat": 10.45,
    "margin_pct": 20.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 18.66,
    "pat": 9.04,
    "margin_pct": 19.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 10.73,
    "pat": 4.61,
    "margin_pct": 11.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 13.61,
    "pat": 4.39,
    "margin_pct": 13.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 72,
-    "profit": 58,
-    "quality": 78
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 22.61,
    "pat": 14.95,
    "margin_pct": 21.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 39,
-    "profit": 58,
-    "quality": 85
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -15.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY"
+   ]
   }
  ],
  "completeness": {
@@ -169,5 +177,6 @@
   ],
   "ledger": "claims/INE846D01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

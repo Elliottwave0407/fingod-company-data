@@ -3,7 +3,7 @@
  "sym": "RAJRATAN",
  "name": "Rajratan Global Wire Limited",
  "scrip": "517522",
- "mcap_cr": 2056.48,
+ "mcap_cr": 2048.61,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 33.33,
    "pat": 15.2,
    "margin_pct": 13.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 30.94,
    "pat": 13.52,
    "margin_pct": 12.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 40.02,
    "pat": 20.55,
    "margin_pct": 13.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 40.39,
    "pat": 20.69,
    "margin_pct": 13.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 28.28,
    "pat": 15.43,
    "margin_pct": 9.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 40,
-    "profit": 7,
-    "quality": 26
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,14 @@
    "ebitda": 41.71,
    "pat": 22.96,
    "margin_pct": 13.1,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 76,
-    "profit": 48,
-    "quality": 81
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 26.1
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +89,17 @@
    "ebitda": 45.79,
    "pat": 24.14,
    "margin_pct": 12.3,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 59,
-    "profit": 28,
-    "quality": 45
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -10.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -182,5 +195,6 @@
   ],
   "ledger": "claims/INE451D01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

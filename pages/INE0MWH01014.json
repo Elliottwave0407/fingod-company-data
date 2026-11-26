@@ -3,7 +3,7 @@
  "sym": "TRUALT",
  "name": "TruAlt Bioenergy Limited",
  "scrip": "544545",
- "mcap_cr": 2818.26,
+ "mcap_cr": 2738.51,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 41.54,
    "pat": 4.73,
    "margin_pct": 13.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": -4.56,
    "pat": -37.94,
    "margin_pct": -4.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 134.0,
    "pat": 69.19,
    "margin_pct": 18.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 118.76,
    "pat": 60.95,
    "margin_pct": 19.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,16 @@
    "ebitda": 132.76,
    "pat": 59.27,
    "margin_pct": 21.2,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 97,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "sequential momentum is flat"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +73,19 @@
    "ebitda": 101.16,
    "pat": 34.99,
    "margin_pct": 12.5,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 90,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -137,5 +150,6 @@
   ],
   "ledger": "claims/INE0MWH01014.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

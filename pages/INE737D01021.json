@@ -3,7 +3,7 @@
  "sym": "MODISONLTD",
  "name": "MODISON LIMITED",
  "scrip": "506261",
- "mcap_cr": 1066.63,
+ "mcap_cr": 1041.65,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 15.58,
    "pat": 9.53,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 7.44,
    "pat": 4.81,
    "margin_pct": 5.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 19.48,
    "pat": 11.66,
    "margin_pct": 13.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 30.65,
    "pat": 20.06,
    "margin_pct": 21.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 51.46,
    "pat": 36.0,
    "margin_pct": 17.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 94,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,16 @@
    "ebitda": 49.82,
    "pat": 33.84,
    "margin_pct": 18.4,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 95,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 122.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,18 @@
    "ebitda": 34.68,
    "pat": 23.29,
    "margin_pct": 12.4,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 31,
-    "quality": 72
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -196.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -152,5 +168,30 @@
   "latest_guidance": [],
   "ledger": "claims/INE737D01021.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G36",
+  "group_name": "copper, rods, copper copper",
+  "subgroup": "G36.0",
+  "subgroup_name": "copper, rods, copper copper",
+  "terms": [
+   "copper",
+   "rods",
+   "copper copper",
+   "switchgear",
+   "electrical equipment",
+   "alloys"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE134B01017",
+    "name": "Kirloskar Electric Company Limited"
+   },
+   {
+    "isin": "INE144D01012",
+    "name": "Cubex Tubings Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "MENONBE",
  "name": "Menon Bearings Limited",
  "scrip": "523828",
- "mcap_cr": 1646.18,
+ "mcap_cr": 1620.4,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 10.01,
    "pat": 6.61,
    "margin_pct": 15.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 12.91,
    "pat": 8.43,
    "margin_pct": 19.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 9.79,
    "pat": 6.79,
    "margin_pct": 15.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 14.46,
    "pat": 9.25,
    "margin_pct": 18.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 21.6,
    "pat": 13.78,
    "margin_pct": 24.8,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 91,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 20.12,
    "pat": 14.11,
    "margin_pct": 21.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 89,
-    "profit": 76,
-    "quality": 87
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -30.6
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +88,18 @@
    "ebitda": 19.65,
    "pat": 14.74,
    "margin_pct": 20.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 99,
-    "profit": 90,
-    "quality": 95
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Flat",
+    "acceleration": 25.4
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin not holding (Blockbuster needs margin flat or up)",
+    "sequential momentum is flat"
+   ]
   }
  ],
  "completeness": {
@@ -178,5 +191,6 @@
   ],
   "ledger": "claims/INE071D01033.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

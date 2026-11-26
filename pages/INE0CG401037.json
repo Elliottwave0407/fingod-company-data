@@ -3,7 +3,7 @@
  "sym": "MUKKA",
  "name": "Mukka Proteins Limited",
  "scrip": "544135",
- "mcap_cr": 746.4,
+ "mcap_cr": 749.4,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 29.17,
    "pat": 14.0,
    "margin_pct": 7.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 14.56,
    "pat": 1.59,
    "margin_pct": 8.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 20.71,
    "pat": 6.88,
    "margin_pct": 8.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 45.44,
    "pat": 27.25,
    "margin_pct": 7.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 33.86,
    "pat": 21.36,
    "margin_pct": 8.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 39,
-    "profit": 52,
-    "quality": 63
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,14 @@
    "ebitda": 47.98,
    "pat": 18.63,
    "margin_pct": 9.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 53,
-    "quality": 88
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 140.2
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -173,5 +182,26 @@
   ],
   "ledger": "claims/INE0CG401037.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G41",
+  "group_name": "fish, shrimp, marine",
+  "subgroup": "G41.0",
+  "subgroup_name": "fish, shrimp, marine",
+  "terms": [
+   "fish",
+   "shrimp",
+   "marine",
+   "feed",
+   "seafood",
+   "frozen"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE076C01018",
+    "name": "IFB Agro Industries Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

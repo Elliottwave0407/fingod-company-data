@@ -3,7 +3,7 @@
  "sym": "PTL",
  "name": "PTL Enterprises Limited",
  "scrip": "509220",
- "mcap_cr": 522.49,
+ "mcap_cr": 520.9,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 14.56,
    "pat": 8.75,
    "margin_pct": 90.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 14.61,
    "pat": 9.22,
    "margin_pct": 90.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 14.65,
    "pat": 14.78,
    "margin_pct": 91.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 14.42,
    "pat": 8.93,
    "margin_pct": 89.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 14.8,
    "pat": 13.24,
    "margin_pct": 92.1,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 26,
-    "profit": 67,
-    "quality": 97
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,20 @@
    "ebitda": 14.05,
    "pat": 8.75,
    "margin_pct": 87.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 23,
-    "profit": 20,
-    "quality": 11
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -9.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -134,5 +148,21 @@
   "dividend_per_share": 2.5
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G58",
+  "group_name": "apollo, tyres, tyre",
+  "subgroup": "G58.0",
+  "subgroup_name": "apollo, tyres, tyre",
+  "terms": [
+   "apollo",
+   "tyres",
+   "tyre",
+   "leases",
+   "form",
+   "kerala"
+  ],
+  "peer_basis": "no true peers",
+  "peers": []
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

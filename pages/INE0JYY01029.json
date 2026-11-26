@@ -3,7 +3,7 @@
  "sym": "MWL",
  "name": "Mangalam Worldwide Limited",
  "scrip": "544764",
- "mcap_cr": 1270.3,
+ "mcap_cr": 1282.48,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 16.99,
    "pat": 8.48,
    "margin_pct": 5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 16.04,
    "pat": 10.13,
    "margin_pct": 5.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 20.82,
    "pat": 10.55,
    "margin_pct": 6.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 26.23,
    "pat": 14.09,
    "margin_pct": 7.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 27.73,
    "pat": 15.37,
    "margin_pct": 10.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 55,
-    "profit": 88,
-    "quality": 89
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 29.08,
    "pat": 12.02,
    "margin_pct": 9.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 75,
-    "profit": 72,
-    "quality": 50
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 15.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,16 @@
    "ebitda": 39.27,
    "pat": 13.83,
    "margin_pct": 10.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 74,
-    "profit": 82,
-    "quality": 61
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 3.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY"
+   ]
   }
  ],
  "completeness": {
@@ -174,5 +189,30 @@
   ],
   "ledger": "claims/INE0JYY01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G33",
+  "group_name": "tubes, seamless, seamless pipes",
+  "subgroup": "G33.0",
+  "subgroup_name": "tubes, seamless, seamless pipes",
+  "terms": [
+   "tubes",
+   "seamless",
+   "seamless pipes",
+   "pipes tubes",
+   "steel",
+   "pipes"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE524B01027",
+    "name": "Gandhi Special Tubes Limited"
+   },
+   {
+    "isin": "INE713C01016",
+    "name": "Suraj Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

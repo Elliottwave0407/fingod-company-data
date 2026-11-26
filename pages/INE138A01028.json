@@ -3,7 +3,7 @@
  "sym": "PENINLAND",
  "name": "Peninsula Land Limited",
  "scrip": "503031",
- "mcap_cr": 474.37,
+ "mcap_cr": 467.41,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -12.38,
    "pat": -28.49,
    "margin_pct": -19.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 3.28,
    "pat": -5.03,
    "margin_pct": 8.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -8.01,
    "pat": -18.56,
    "margin_pct": -21.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -3.01,
    "pat": -11.98,
    "margin_pct": -11.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": -120.82,
    "pat": -118.32,
    "margin_pct": -295.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": -236,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,18 @@
    "ebitda": 0.5,
    "pat": -7.72,
    "margin_pct": 2.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": 2,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -147,5 +163,46 @@
   ],
   "ledger": "claims/INE138A01028.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G2",
+  "group_name": "real, real estate, estate",
+  "subgroup": "G2.0",
+  "subgroup_name": "properties, realty, leasing",
+  "terms": [
+   "properties",
+   "realty",
+   "leasing",
+   "retail",
+   "tenants",
+   "commercial property"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE05ST01028",
+    "name": "Suratwwala Business Group Limited"
+   },
+   {
+    "isin": "INE195N01013",
+    "name": "Prozone Realty Limited"
+   },
+   {
+    "isin": "INE559D01011",
+    "name": "Crest Ventures Limited"
+   },
+   {
+    "isin": "INE572G01025",
+    "name": "Lancor Holdings Limited"
+   },
+   {
+    "isin": "INE778K01012",
+    "name": "Emami Realty Limited"
+   },
+   {
+    "isin": "INE916G01016",
+    "name": "GeeCee Ventures Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

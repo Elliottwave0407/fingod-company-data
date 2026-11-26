@@ -3,7 +3,7 @@
  "sym": "SIGACHI",
  "name": "Sigachi Industries Limited",
  "scrip": "543389",
- "mcap_cr": 1145.97,
+ "mcap_cr": 1173.48,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 28.55,
    "pat": 16.17,
    "margin_pct": 22.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -96.9,
    "pat": -100.97,
    "margin_pct": -75.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 12.19,
    "pat": 10.53,
    "margin_pct": 11.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 4.99,
    "pat": -0.02,
    "margin_pct": 4.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 15.26,
    "pat": 7.65,
    "margin_pct": 12.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 10,
-    "profit": 10,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,18 @@
    "ebitda": 16.51,
    "pat": 8.14,
    "margin_pct": 13.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 20,
-    "profit": 91,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +93,16 @@
    "ebitda": 19.12,
    "pat": 8.78,
    "margin_pct": 14.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 77,
-    "profit": 79,
-    "quality": 7
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY"
+   ]
   }
  ],
  "completeness": {
@@ -178,5 +194,6 @@
   ],
   "ledger": "claims/INE0D0K01022.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "IVC",
  "name": "IL&FS Investment Managers Limited",
  "scrip": "511208",
- "mcap_cr": 249.97,
+ "mcap_cr": 248.71,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 1.24,
    "pat": 12.68,
    "margin_pct": 16.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -2.61,
    "pat": 0.23,
    "margin_pct": -45.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 1.08,
    "pat": 3.53,
    "margin_pct": 15.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -4.64,
    "pat": -2.93,
    "margin_pct": -68.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 3.78,
    "pat": 3.96,
    "margin_pct": 10.7,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 100,
-    "profit": 9,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,19 @@
    "ebitda": 0.97,
    "pat": 1.21,
    "margin_pct": 11.9,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 85,
-    "profit": 89,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -126,5 +139,26 @@
   "dividend_per_share": 0.7
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G40",
+  "group_name": "fund management, fund, venture",
+  "subgroup": "G40.0",
+  "subgroup_name": "fund management, fund, venture",
+  "terms": [
+   "fund management",
+   "fund",
+   "venture",
+   "guest",
+   "sand",
+   "joint venture"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE832A01018",
+    "name": "Modi Rubber Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

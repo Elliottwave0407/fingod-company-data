@@ -3,7 +3,7 @@
  "sym": "MASFIN",
  "name": "MAS Financial Services Limited",
  "scrip": "540749",
- "mcap_cr": 4584.42,
+ "mcap_cr": 4740.47,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 313.81,
    "pat": 83.41,
    "margin_pct": 71.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 333.91,
    "pat": 86.59,
    "margin_pct": 71.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 346.37,
    "pat": 91.43,
    "margin_pct": 72.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 358.91,
    "pat": 93.32,
    "margin_pct": 70.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 372.89,
    "pat": 104.48,
    "margin_pct": 68.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 62,
-    "profit": 20,
-    "quality": 55
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 386.55,
    "pat": 110.15,
    "margin_pct": 68.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 57,
-    "profit": 21,
-    "quality": 61
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -2.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,14 @@
    "ebitda": 406.53,
    "pat": 115.12,
    "margin_pct": 69.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 59,
-    "profit": 20,
-    "quality": 57
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 0.9
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -151,5 +164,6 @@
   ],
   "ledger": "claims/INE348L01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

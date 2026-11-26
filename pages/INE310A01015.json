@@ -3,7 +3,7 @@
  "sym": "NILKAMAL",
  "name": "Nilkamal Limited",
  "scrip": "523385",
- "mcap_cr": 3014.8,
+ "mcap_cr": 2903.55,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 85.2,
    "pat": 34.22,
    "margin_pct": 9.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 58.01,
    "pat": 15.33,
    "margin_pct": 6.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 85.28,
    "pat": 33.66,
    "margin_pct": 8.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 74.18,
    "pat": 25.4,
    "margin_pct": 7.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 95.95,
    "pat": 41.69,
    "margin_pct": 9.9,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 43,
-    "profit": 44,
-    "quality": 54
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,19 @@
    "ebitda": 74.63,
    "pat": 24.4,
    "margin_pct": 9.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 45,
-    "profit": 64,
-    "quality": 77
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": 3.5
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +93,14 @@
    "ebitda": 134.71,
    "pat": 67.83,
    "margin_pct": 12.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 76,
-    "profit": 72,
-    "quality": 86
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 19.4
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -132,5 +146,6 @@
   "dividend_per_share": 20
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

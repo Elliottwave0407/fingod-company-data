@@ -3,7 +3,7 @@
  "sym": "AVTNPL",
  "name": "AVT Natural Products Limited",
  "scrip": "519105",
- "mcap_cr": 1531.06,
+ "mcap_cr": 1468.47,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 24.57,
    "pat": 14.36,
    "margin_pct": 15.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 15.9,
    "pat": 12.12,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 14.86,
    "pat": 13.29,
    "margin_pct": 9.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 23.09,
    "pat": 17.37,
    "margin_pct": 11.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 35.69,
    "pat": 22.02,
    "margin_pct": 15.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 88,
-    "profit": 46,
-    "quality": 71
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,14 @@
    "ebitda": 39.96,
    "pat": 31.1,
    "margin_pct": 16.6,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 89,
-    "quality": 93
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 57.0
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -202,5 +208,26 @@
   ],
   "ledger": "claims/INE488D01021.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G56",
+  "group_name": "animal health, animal, nutrition",
+  "subgroup": "G56.0",
+  "subgroup_name": "animal health, animal, nutrition",
+  "terms": [
+   "animal health",
+   "animal",
+   "nutrition",
+   "additives",
+   "health",
+   "feed additives"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE995D01025",
+    "name": "Chembond Material Technologies Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

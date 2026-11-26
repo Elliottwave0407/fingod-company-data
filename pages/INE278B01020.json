@@ -12,9 +12,10 @@
    "ebitda": 1.81,
    "pat": -5.35,
    "margin_pct": 16.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 1.01,
    "pat": -10.28,
    "margin_pct": 11.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 0.22,
    "pat": -10.2,
    "margin_pct": 3.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 0.73,
    "pat": -10.15,
    "margin_pct": 8.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": -1.74,
    "pat": -37.91,
    "margin_pct": -22.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": -18,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,17 @@
    "ebitda": -0.74,
    "pat": -10.5,
    "margin_pct": -7.6,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 18,
-    "profit": -6,
-    "quality": 89
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 50.0
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -131,5 +147,62 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G4",
+  "group_name": "paper, papers, tissue",
+  "subgroup": "G4.0",
+  "subgroup_name": "paper, papers, tissue",
+  "terms": [
+   "paper",
+   "papers",
+   "tissue",
+   "kraft",
+   "packaging",
+   "writing"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE01EE01011",
+    "name": "B&B Triplewall Containers Limited"
+   },
+   {
+    "isin": "INE107A01015",
+    "name": "Tamil Nadu Newsprint & Papers Limited"
+   },
+   {
+    "isin": "INE196Y01018",
+    "name": "Worth Peripherals Limited"
+   },
+   {
+    "isin": "INE435A01051",
+    "name": "ANDHRA PAPER LIMITED"
+   },
+   {
+    "isin": "INE592A01026",
+    "name": "Orient Paper & Industries Limited"
+   },
+   {
+    "isin": "INE630A01024",
+    "name": "Seshasayee Paper and Boards Limited"
+   },
+   {
+    "isin": "INE642C01025",
+    "name": "Rubfila International Limited"
+   },
+   {
+    "isin": "INE733A01018",
+    "name": "Star Paper Mills Limited"
+   },
+   {
+    "isin": "INE865T01018",
+    "name": "Pudumjee Paper Products Limited"
+   },
+   {
+    "isin": "INE949P01018",
+    "name": "Genus Paper & Boards Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

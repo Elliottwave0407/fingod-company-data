@@ -9,9 +9,10 @@
    "ebitda": -78.17,
    "pat": -1.87,
    "margin_pct": -52.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -19,9 +20,10 @@
    "ebitda": 5.77,
    "pat": 3.81,
    "margin_pct": 3.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -29,9 +31,10 @@
    "ebitda": 6.77,
    "pat": 3.78,
    "margin_pct": 3.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -39,9 +42,10 @@
    "ebitda": -6.31,
    "pat": 1.85,
    "margin_pct": -4.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -49,13 +53,17 @@
    "ebitda": -2.82,
    "pat": 4.14,
    "margin_pct": -1.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 43,
-    "profit": 79,
-    "quality": 85
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -63,13 +71,16 @@
    "ebitda": 10.23,
    "pat": 4.22,
    "margin_pct": 5.5,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 75,
-    "profit": 56,
-    "quality": 41
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -101,5 +112,6 @@
  },
  "annual_report": null,
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

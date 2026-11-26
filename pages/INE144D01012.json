@@ -3,7 +3,7 @@
  "sym": "CUBEXTUB",
  "name": "Cubex Tubings Limited",
  "scrip": "526027",
- "mcap_cr": 303.13,
+ "mcap_cr": 297.12,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 2.95,
    "pat": 2.3,
    "margin_pct": 3.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 2.38,
    "pat": 1.23,
    "margin_pct": 4.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 3.26,
    "pat": 1.74,
    "margin_pct": 4.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 3.67,
    "pat": 3.11,
    "margin_pct": 4.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": -2.73,
    "pat": 1.37,
    "margin_pct": -3.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 18,
-    "profit": -2,
-    "quality": 10
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,17 @@
    "ebitda": 1.42,
    "pat": 1.32,
    "margin_pct": 2.2,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 37,
-    "profit": 6,
-    "quality": 29
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 67.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +95,14 @@
    "ebitda": 7.15,
    "pat": 4.57,
    "margin_pct": 8.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 73,
-    "profit": 79,
-    "quality": 89
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 59.9
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -132,5 +148,30 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G36",
+  "group_name": "copper, rods, copper copper",
+  "subgroup": "G36.0",
+  "subgroup_name": "copper, rods, copper copper",
+  "terms": [
+   "copper",
+   "rods",
+   "copper copper",
+   "switchgear",
+   "electrical equipment",
+   "alloys"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE134B01017",
+    "name": "Kirloskar Electric Company Limited"
+   },
+   {
+    "isin": "INE737D01021",
+    "name": "MODISON LIMITED"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

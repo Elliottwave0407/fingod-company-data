@@ -3,7 +3,7 @@
  "sym": "VLSFINANCE",
  "name": "VLS Finance Limited",
  "scrip": "511333",
- "mcap_cr": 657.12,
+ "mcap_cr": 642.5,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -54.38,
    "pat": -39.83,
    "margin_pct": 111.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 93.49,
    "pat": 71.14,
    "margin_pct": 94.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 4.95,
    "pat": 7.1,
    "margin_pct": 47.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 22.94,
    "pat": 18.05,
    "margin_pct": 78.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,9 +56,19 @@
    "ebitda": -104.46,
    "pat": -74.54,
    "margin_pct": 105.7,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -62,13 +76,16 @@
    "ebitda": 118.15,
    "pat": 95.99,
    "margin_pct": 95.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 68,
-    "profit": 60,
-    "quality": 90
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -126,5 +143,78 @@
   "dividend_per_share": 1.5
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G0",
+  "group_name": "financial, loans, investment",
+  "subgroup": "G0.0",
+  "subgroup_name": "broking, advisory, wealth",
+  "terms": [
+   "broking",
+   "advisory",
+   "wealth",
+   "brokerage",
+   "banking",
+   "wealth management"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE032B01021",
+    "name": "Prime Securities Limited"
+   },
+   {
+    "isin": "INE284H01025",
+    "name": "Dam Capital Advisors Limited"
+   },
+   {
+    "isin": "INE296H01011",
+    "name": "Emkay Global Financial Services Limited"
+   },
+   {
+    "isin": "INE323B01024",
+    "name": "Avonmore Capital & Management Services Limited"
+   },
+   {
+    "isin": "INE337M01021",
+    "name": "Indo Thai Securities Limited"
+   },
+   {
+    "isin": "INE420B01036",
+    "name": "Arihant Capital Markets Limited"
+   },
+   {
+    "isin": "INE538A01037",
+    "name": "GFL Limited"
+   },
+   {
+    "isin": "INE660C01027",
+    "name": "Centrum Capital Limited"
+   },
+   {
+    "isin": "INE677D01037",
+    "name": "Master Trust Limited"
+   },
+   {
+    "isin": "INE859A01011",
+    "name": "PNB Gilts Limited"
+   },
+   {
+    "isin": "INE865C01022",
+    "name": "Aditya Birla Money Limited"
+   },
+   {
+    "isin": "INE912L01015",
+    "name": "Onelife Capital Advisors Limited"
+   },
+   {
+    "isin": "INE924D01017",
+    "name": "The Investment Trust Of India Limited"
+   },
+   {
+    "isin": "INE966A01022",
+    "name": "Dolat Algotech Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

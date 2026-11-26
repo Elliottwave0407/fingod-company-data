@@ -3,7 +3,7 @@
  "sym": "KSOLVES",
  "name": "Ksolves India Limited",
  "scrip": "543599",
- "mcap_cr": 488.88,
+ "mcap_cr": 475.95,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 8.54,
    "pat": 5.86,
    "margin_pct": 25.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 9.94,
    "pat": 6.43,
    "margin_pct": 26.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 12.07,
    "pat": 8.41,
    "margin_pct": 30.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 13.71,
    "pat": 9.8,
    "margin_pct": 32.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 12.6,
    "pat": 9.69,
    "margin_pct": 29.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 81,
-    "profit": 88,
-    "quality": 100
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 12.57,
    "pat": 9.21,
    "margin_pct": 30.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 55,
-    "profit": 90,
-    "quality": 93
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -13.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,22 @@
    "ebitda": 9.73,
    "pat": 7.25,
    "margin_pct": 25.7,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 15,
-    "profit": 20,
-    "quality": 13
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -34.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -187,5 +207,6 @@
   ],
   "ledger": "claims/INE0D6I01023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

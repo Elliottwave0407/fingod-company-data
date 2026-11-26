@@ -3,7 +3,7 @@
  "sym": "MSTCLTD",
  "name": "Mstc Limited",
  "scrip": "542597",
- "mcap_cr": 4609.79,
+ "mcap_cr": 4366.56,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 44.1,
    "pat": 75.51,
    "margin_pct": 49.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 45.65,
    "pat": 42.34,
    "margin_pct": 59.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 51.53,
    "pat": 47.5,
    "margin_pct": 60.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 50.97,
    "pat": 51.37,
    "margin_pct": 57.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 75.97,
    "pat": 77.22,
    "margin_pct": 63.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 89,
-    "profit": 100,
-    "quality": 14
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "profit growth under 25% (Blockbuster needs profit up at least 25%)"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 57.74,
    "pat": 58.22,
    "margin_pct": 61.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 65,
-    "profit": 75,
-    "quality": 91
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -38.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -184,5 +195,6 @@
   ],
   "ledger": "claims/INE255X01014.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "IRMENERGY",
  "name": "IRM Energy Limited",
  "scrip": "544004",
- "mcap_cr": 1041.07,
+ "mcap_cr": 1019.92,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 17.33,
    "pat": 4.39,
    "margin_pct": 6.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 25.87,
    "pat": 13.92,
    "margin_pct": 9.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 26.7,
    "pat": 12.56,
    "margin_pct": 9.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 29.63,
    "pat": 13.98,
    "margin_pct": 10.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 30.05,
    "pat": 12.75,
    "margin_pct": 9.9,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 67,
-    "profit": 78,
-    "quality": 86
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,14 @@
    "ebitda": 61.77,
    "pat": 33.81,
    "margin_pct": 17.4,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 83,
-    "profit": 94,
-    "quality": 98
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 36.2
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +88,16 @@
    "ebitda": 47.33,
    "pat": 25.43,
    "margin_pct": 13.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 86,
-    "profit": 77,
-    "quality": 86
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -27.1
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -188,5 +199,6 @@
   ],
   "ledger": "claims/INE07U701015.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

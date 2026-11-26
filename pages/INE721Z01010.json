@@ -9,9 +9,10 @@
    "ebitda": 5.04,
    "pat": 2.75,
    "margin_pct": 20.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -19,9 +20,10 @@
    "ebitda": 3.66,
    "pat": 1.06,
    "margin_pct": 19.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -29,9 +31,10 @@
    "ebitda": 4.12,
    "pat": 1.39,
    "margin_pct": 18.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -39,9 +42,10 @@
    "ebitda": 4.84,
    "pat": 2.02,
    "margin_pct": 20.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -49,13 +53,19 @@
    "ebitda": 5.08,
    "pat": 2.32,
    "margin_pct": 18.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 37,
-    "profit": 22,
-    "quality": 7
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -63,13 +73,16 @@
    "ebitda": 4.93,
    "pat": 2.56,
    "margin_pct": 20.2,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 74,
-    "profit": 60,
-    "quality": 100
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 21.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "sequential momentum is flat"
+   ]
   },
   {
    "q": "Sep-26",
@@ -77,13 +90,16 @@
    "ebitda": 5.43,
    "pat": 2.88,
    "margin_pct": 20.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 69,
-    "profit": 63,
-    "quality": 96
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -2.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -169,5 +185,6 @@
   ],
   "ledger": "claims/INE721Z01010.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

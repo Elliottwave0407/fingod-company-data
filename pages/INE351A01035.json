@@ -3,7 +3,7 @@
  "sym": "UNICHEMLAB",
  "name": "Unichem Laboratories Limited",
  "scrip": "506690",
- "mcap_cr": 3281.61,
+ "mcap_cr": 3538.95,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 83.7,
    "pat": 52.97,
    "margin_pct": 14.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 22.49,
    "pat": -10.47,
    "margin_pct": 4.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 7.92,
    "pat": -11.89,
    "margin_pct": 1.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 320.3,
    "pat": 264.29,
    "margin_pct": 61.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 35.32,
    "pat": 10.91,
    "margin_pct": 6.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 12,
-    "profit": 5,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,14 @@
    "ebitda": 69.94,
    "pat": 41.47,
    "margin_pct": 11.1,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 80,
-    "profit": 89,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 124.2
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -131,5 +143,6 @@
   "dividend_per_share": 0
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "VADILALIND",
  "name": "Vadilal Industries Limited",
  "scrip": "519156",
- "mcap_cr": 4952.49,
+ "mcap_cr": 4953.53,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 38.77,
    "pat": 22.0,
    "margin_pct": 14.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 99.76,
    "pat": 66.98,
    "margin_pct": 19.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 51.27,
    "pat": 33.42,
    "margin_pct": 15.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 10.64,
    "pat": -0.15,
    "margin_pct": 4.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 89.93,
    "pat": 59.73,
    "margin_pct": 21.6,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 97,
-    "profit": 97,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,14 @@
    "ebitda": 166.18,
    "pat": 130.91,
    "margin_pct": 24.4,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 90,
-    "profit": 97,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Building",
+    "acceleration": -33.0
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +86,18 @@
    "ebitda": 83.81,
    "pat": 54.82,
    "margin_pct": 18.1,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 90,
-    "profit": 77,
-    "quality": 83
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": -3.1
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -152,5 +163,6 @@
   "latest_guidance": [],
   "ledger": "claims/INE694D01016.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "RADHIKAJWE",
  "name": "Radhika Jeweltech Limited",
  "scrip": "540125",
- "mcap_cr": 681.69,
+ "mcap_cr": 673.54,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 19.52,
    "pat": 11.13,
    "margin_pct": 12.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 25.31,
    "pat": 18.21,
    "margin_pct": 25.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 25.71,
    "pat": 18.41,
    "margin_pct": 19.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 41.77,
    "pat": 30.64,
    "margin_pct": 19.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": 11.09,
    "pat": 7.53,
    "margin_pct": 5.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 32,
-    "profit": 5,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,16 @@
    "ebitda": 30.69,
    "pat": 22.85,
    "margin_pct": 20.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 78,
-    "profit": 16,
-    "quality": 34
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 35.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   }
  ],
  "completeness": {
@@ -133,5 +148,30 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G35",
+  "group_name": "jewellery, gold, diamonds",
+  "subgroup": "G35.0",
+  "subgroup_name": "jewellery, gold, diamonds",
+  "terms": [
+   "jewellery",
+   "gold",
+   "diamonds",
+   "gold jewellery",
+   "gold silver",
+   "precious"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE123C01018",
+    "name": "Tainwala Chemical and Plastic (I) Limited"
+   },
+   {
+    "isin": "INE218C01016",
+    "name": "Ausom Enterprise Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

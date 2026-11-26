@@ -3,7 +3,7 @@
  "sym": "CENTRUM",
  "name": "Centrum Capital Limited",
  "scrip": "501150",
- "mcap_cr": 986.07,
+ "mcap_cr": 934.72,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 442.95,
    "pat": 24.21,
    "margin_pct": 39.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 205.04,
    "pat": -106.96,
    "margin_pct": 24.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 175.65,
    "pat": -8.5,
    "margin_pct": 21.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 247.23,
    "pat": -134.6,
    "margin_pct": 28.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 484.24,
    "pat": -31.27,
    "margin_pct": 47.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 30,
-    "profit": 100,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,19 @@
    "ebitda": 241.55,
    "pat": -148.8,
    "margin_pct": 26.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 47,
-    "profit": 74,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": null,
+    "acceleration": 0.8
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -151,5 +165,78 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G0",
+  "group_name": "financial, loans, investment",
+  "subgroup": "G0.0",
+  "subgroup_name": "broking, advisory, wealth",
+  "terms": [
+   "broking",
+   "advisory",
+   "wealth",
+   "brokerage",
+   "banking",
+   "wealth management"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE032B01021",
+    "name": "Prime Securities Limited"
+   },
+   {
+    "isin": "INE284H01025",
+    "name": "Dam Capital Advisors Limited"
+   },
+   {
+    "isin": "INE296H01011",
+    "name": "Emkay Global Financial Services Limited"
+   },
+   {
+    "isin": "INE323B01024",
+    "name": "Avonmore Capital & Management Services Limited"
+   },
+   {
+    "isin": "INE337M01021",
+    "name": "Indo Thai Securities Limited"
+   },
+   {
+    "isin": "INE420B01036",
+    "name": "Arihant Capital Markets Limited"
+   },
+   {
+    "isin": "INE538A01037",
+    "name": "GFL Limited"
+   },
+   {
+    "isin": "INE677D01037",
+    "name": "Master Trust Limited"
+   },
+   {
+    "isin": "INE709A01018",
+    "name": "VLS Finance Limited"
+   },
+   {
+    "isin": "INE859A01011",
+    "name": "PNB Gilts Limited"
+   },
+   {
+    "isin": "INE865C01022",
+    "name": "Aditya Birla Money Limited"
+   },
+   {
+    "isin": "INE912L01015",
+    "name": "Onelife Capital Advisors Limited"
+   },
+   {
+    "isin": "INE924D01017",
+    "name": "The Investment Trust Of India Limited"
+   },
+   {
+    "isin": "INE966A01022",
+    "name": "Dolat Algotech Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

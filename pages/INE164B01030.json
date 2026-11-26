@@ -3,7 +3,7 @@
  "sym": "KELLTONTEC",
  "name": "Kellton Tech Solutions Limited",
  "scrip": "519602",
- "mcap_cr": 600.11,
+ "mcap_cr": 593.73,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 29.25,
    "pat": 19.2,
    "margin_pct": 10.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 35.13,
    "pat": 22.65,
    "margin_pct": 11.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 36.61,
    "pat": 24.08,
    "margin_pct": 12.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 38.81,
    "pat": 25.41,
    "margin_pct": 12.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 25.0,
    "pat": 19.52,
    "margin_pct": 8.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 27,
-    "profit": 14,
-    "quality": 31
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,17 @@
    "ebitda": 34.42,
    "pat": 22.32,
    "margin_pct": 10.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 30,
-    "profit": 30,
-    "quality": 28
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 5.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit slightly down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +173,6 @@
   ],
   "ledger": "claims/INE164B01030.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

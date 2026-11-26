@@ -3,7 +3,7 @@
  "sym": "GINNIFILA",
  "name": "Ginni Filaments Limited",
  "scrip": "590025",
- "mcap_cr": 333.86,
+ "mcap_cr": 328.9,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 13.24,
    "pat": 4.79,
    "margin_pct": 12.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 17.15,
    "pat": 10.61,
    "margin_pct": 16.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 16.63,
    "pat": 10.26,
    "margin_pct": 17.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 14.63,
    "pat": 9.04,
    "margin_pct": 17.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 13.25,
    "pat": 7.13,
    "margin_pct": 14.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 20,
-    "profit": 63,
-    "quality": 86
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,19 @@
    "ebitda": 14.73,
    "pat": 9.05,
    "margin_pct": 14.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 20,
-    "profit": 16,
-    "quality": 15
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -6.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -136,5 +150,26 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G52",
+  "group_name": "pvc, leather, non-woven",
+  "subgroup": "G52.0",
+  "subgroup_name": "pvc, leather, non-woven",
+  "terms": [
+   "pvc",
+   "leather",
+   "non-woven",
+   "fabric",
+   "artificial",
+   "flooring"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE309M01020",
+    "name": "Premier Polyfilm Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

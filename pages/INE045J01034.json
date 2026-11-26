@@ -3,7 +3,7 @@
  "sym": "FCL",
  "name": "Fineotex Chemical Limited",
  "scrip": "533333",
- "mcap_cr": 4961.94,
+ "mcap_cr": 4836.17,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 21.28,
    "pat": 20.13,
    "margin_pct": 17.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 25.2,
    "pat": 25.03,
    "margin_pct": 18.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 31.02,
    "pat": 26.08,
    "margin_pct": 22.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 34.83,
    "pat": 30.12,
    "margin_pct": 19.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 43.69,
    "pat": 43.79,
    "margin_pct": 13.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 100,
-    "profit": 11,
-    "quality": 51
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,16 @@
    "ebitda": 59.14,
    "pat": 48.21,
    "margin_pct": 15.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 100,
-    "profit": 16,
-    "quality": 50
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 16.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +170,6 @@
   ],
   "ledger": "claims/INE045J01034.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

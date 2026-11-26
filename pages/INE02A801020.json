@@ -3,7 +3,7 @@
  "sym": "ROSSARI",
  "name": "Rossari Biotech Limited",
  "scrip": "543213",
- "mcap_cr": 2311.6,
+ "mcap_cr": 2292.49,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 69.49,
    "pat": 34.44,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 67.86,
    "pat": 33.6,
    "margin_pct": 12.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 71.92,
    "pat": 36.88,
    "margin_pct": 12.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 68.87,
    "pat": 32.77,
    "margin_pct": 11.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 77.25,
    "pat": 45.97,
    "margin_pct": 11.3,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 50,
-    "profit": 33,
-    "quality": 64
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,14 @@
    "ebitda": 80.62,
    "pat": 35.09,
    "margin_pct": 11.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 64,
-    "profit": 31,
-    "quality": 29
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 5.9
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +89,14 @@
    "ebitda": 86.98,
    "pat": 38.91,
    "margin_pct": 12.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 60,
-    "profit": 44,
-    "quality": 32
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -0.8
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -184,5 +194,6 @@
   ],
   "ledger": "claims/INE02A801020.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

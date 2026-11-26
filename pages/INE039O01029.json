@@ -3,7 +3,7 @@
  "sym": "JASH",
  "name": "Jash Engineering Limited",
  "scrip": "544402",
- "mcap_cr": 3338.52,
+ "mcap_cr": 3232.04,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 58.77,
    "pat": 35.75,
    "margin_pct": 19.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -3.93,
    "pat": -5.17,
    "margin_pct": -3.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 20.3,
    "pat": 10.97,
    "margin_pct": 12.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 16.96,
    "pat": 13.07,
    "margin_pct": 10.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 68.94,
    "pat": 56.65,
    "margin_pct": 23.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 39,
-    "profit": 91,
-    "quality": 99
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,20 @@
    "ebitda": 8.09,
    "pat": 5.09,
    "margin_pct": 5.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 55,
-    "profit": 84,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +171,6 @@
   ],
   "ledger": "claims/INE039O01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

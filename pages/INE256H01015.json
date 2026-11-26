@@ -3,7 +3,7 @@
  "sym": "DYNPRO",
  "name": "Dynemic Products Limited",
  "scrip": "532707",
- "mcap_cr": 269.07,
+ "mcap_cr": 270.38,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 12.46,
    "pat": 3.94,
    "margin_pct": 13.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 12.77,
    "pat": 4.81,
    "margin_pct": 13.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 12.29,
    "pat": 4.44,
    "margin_pct": 13.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 12.67,
    "pat": 4.61,
    "margin_pct": 14.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 14.97,
    "pat": 6.08,
    "margin_pct": 14.4,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 52,
-    "profit": 55,
-    "quality": 78
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,19 @@
    "ebitda": 12.32,
    "pat": 5.19,
    "margin_pct": 14.3,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 20,
-    "profit": 51,
-    "quality": 45
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -15.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,17 @@
    "ebitda": 17.08,
    "pat": 6.55,
    "margin_pct": 13.4,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 84,
-    "profit": 39,
-    "quality": 66
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 31.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -167,5 +182,58 @@
   ],
   "ledger": "claims/INE256H01015.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G6",
+  "group_name": "dyes, care, paints",
+  "subgroup": "G6.0",
+  "subgroup_name": "dyes, care, paints",
+  "terms": [
+   "dyes",
+   "care",
+   "paints",
+   "intermediates",
+   "chemicals",
+   "pigments"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE01NE01012",
+    "name": "Shankar Lal Rampal Dye-Chem Limited"
+   },
+   {
+    "isin": "INE09EO01013",
+    "name": "Aarti Surfactants Limited"
+   },
+   {
+    "isin": "INE138C01024",
+    "name": "Kanoria Chemicals & Industries Limited"
+   },
+   {
+    "isin": "INE338A01024",
+    "name": "Thirumalai Chemicals Limited"
+   },
+   {
+    "isin": "INE370D01013",
+    "name": "Mangalam Organics Limited"
+   },
+   {
+    "isin": "INE492A01029",
+    "name": "Sudarshan Colorants India Limited"
+   },
+   {
+    "isin": "INE542B01011",
+    "name": "AksharChem India Limited"
+   },
+   {
+    "isin": "INE565V01010",
+    "name": "Valiant Organics Limited"
+   },
+   {
+    "isin": "INE888C01040",
+    "name": "Sadhana Nitrochem Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

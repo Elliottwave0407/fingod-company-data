@@ -3,7 +3,7 @@
  "sym": "DEN",
  "name": "Den Networks Limited",
  "scrip": "533137",
- "mcap_cr": 1194.49,
+ "mcap_cr": 1174.93,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 28.42,
    "pat": 59.86,
    "margin_pct": 11.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 20.99,
    "pat": 53.64,
    "margin_pct": 8.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 18.98,
    "pat": 35.17,
    "margin_pct": 7.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 13.12,
    "pat": 40.38,
    "margin_pct": 5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 15.33,
    "pat": 36.43,
    "margin_pct": 6.4,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 11,
-    "profit": 5,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,19 @@
    "ebitda": 12.68,
    "pat": 34.59,
    "margin_pct": 5.2,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 13,
-    "profit": 4,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 6.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +95,18 @@
    "ebitda": 10.05,
    "pat": 36.77,
    "margin_pct": 4.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 11,
-    "profit": 3,
-    "quality": 35
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -4.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -145,5 +165,54 @@
   "latest_guidance": [],
   "ledger": "claims/INE947J01015.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G9",
+  "group_name": "television, media, digital",
+  "subgroup": "G9.0",
+  "subgroup_name": "television, media, digital",
+  "terms": [
+   "television",
+   "media",
+   "digital",
+   "news",
+   "advertisement",
+   "broadcasting"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE038F01029",
+    "name": "TV Today Network Limited"
+   },
+   {
+    "isin": "INE155G01029",
+    "name": "New Delhi Television Limited"
+   },
+   {
+    "isin": "INE199G01027",
+    "name": "Jagran Prakashan Limited"
+   },
+   {
+    "isin": "INE416A01051",
+    "name": "Aqylon Nexus Limited"
+   },
+   {
+    "isin": "INE583B01015",
+    "name": "The Sandesh Limited"
+   },
+   {
+    "isin": "INE836F01026",
+    "name": "Dish TV India Limited"
+   },
+   {
+    "isin": "INE966H01019",
+    "name": "Zee Media Corporation Limited"
+   },
+   {
+    "isin": "INE982F01036",
+    "name": "Hathway Cable & Datacom Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

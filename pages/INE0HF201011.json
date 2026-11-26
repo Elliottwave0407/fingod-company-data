@@ -3,7 +3,7 @@
  "sym": "FABTECH",
  "name": "Fabtech Technologies Limited",
  "scrip": "544558",
- "mcap_cr": 626.31,
+ "mcap_cr": 612.98,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -4.45,
    "pat": -6.13,
    "margin_pct": -6.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 30.46,
    "pat": 28.11,
    "margin_pct": 25.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": -11.46,
    "pat": -5.68,
    "margin_pct": -18.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 22.22,
    "pat": 22.06,
    "margin_pct": 14.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,21 @@
    "ebitda": 4.25,
    "pat": 4.21,
    "margin_pct": 5.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 42,
-    "profit": 85,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +78,17 @@
    "ebitda": 18.47,
    "pat": 15.02,
    "margin_pct": 20.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 2,
-    "profit": 16,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -137,5 +153,6 @@
   ],
   "ledger": "claims/INE0HF201011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

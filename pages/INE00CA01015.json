@@ -3,7 +3,7 @@
  "sym": "TREJHARA",
  "name": "TREJHARA SOLUTIONS LIMITED",
  "scrip": "542233",
- "mcap_cr": 279.39,
+ "mcap_cr": 279.15,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 1.7,
    "pat": 0.61,
    "margin_pct": 17.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 1.76,
    "pat": 0.67,
    "margin_pct": 20.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 2.19,
    "pat": 3.57,
    "margin_pct": 6.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 1.72,
    "pat": 1.21,
    "margin_pct": 5.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 1.4,
    "pat": 3.22,
    "margin_pct": 3.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 55,
-    "profit": 3,
-    "quality": 63
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,14 @@
    "ebitda": 6.65,
    "pat": 4.79,
    "margin_pct": 9.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 100,
-    "profit": 8,
-    "quality": 66
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 229.7
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -160,5 +169,30 @@
   ],
   "ledger": "claims/INE00CA01015.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G27",
+  "group_name": "warehousing, freight, logistics",
+  "subgroup": "G27.0",
+  "subgroup_name": "warehousing, freight, logistics",
+  "terms": [
+   "warehousing",
+   "freight",
+   "logistics",
+   "transportation",
+   "integrated logistics",
+   "supply chain"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE075B01020",
+    "name": "Sical Logistics Limited"
+   },
+   {
+    "isin": "INE553C01016",
+    "name": "North Eastern Carrying Corporation Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

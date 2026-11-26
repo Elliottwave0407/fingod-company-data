@@ -3,7 +3,7 @@
  "sym": "PATINTLOG",
  "name": "Patel Integrated Logistics Limited",
  "scrip": "526381",
- "mcap_cr": 76.7,
+ "mcap_cr": 78.37,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 2.1,
    "pat": 1.86,
    "margin_pct": 2.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 1.94,
    "pat": 1.64,
    "margin_pct": 2.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 2.57,
    "pat": 2.28,
    "margin_pct": 2.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 2.11,
    "pat": 2.69,
    "margin_pct": 2.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 3.69,
    "pat": 2.98,
    "margin_pct": 3.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 73,
-    "profit": 49,
-    "quality": 76
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,17 @@
    "ebitda": 2.51,
    "pat": 2.52,
    "margin_pct": 2.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 81,
-    "profit": 31,
-    "quality": 68
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -6.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -176,5 +185,6 @@
   ],
   "ledger": "claims/INE529D01014.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

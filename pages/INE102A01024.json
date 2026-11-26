@@ -3,7 +3,7 @@
  "sym": "HLVLTD",
  "name": "HLV LIMITED",
  "scrip": "500193",
- "mcap_cr": 417.97,
+ "mcap_cr": 423.9,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -1.71,
    "pat": -3.47,
    "margin_pct": -4.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": -7.33,
    "pat": -9.92,
    "margin_pct": -20.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 9.65,
    "pat": 6.87,
    "margin_pct": 15.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 10.65,
    "pat": 8.6,
    "margin_pct": 16.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,22 @@
    "ebitda": 1.16,
    "pat": -0.78,
    "margin_pct": 2.5,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 50,
-    "profit": 82,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +79,19 @@
    "ebitda": -3.62,
    "pat": -6.99,
    "margin_pct": -7.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 70,
-    "profit": 74,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -141,5 +160,58 @@
   "latest_guidance": [],
   "ledger": "claims/INE102A01024.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G7",
+  "group_name": "beverages, food, hotel",
+  "subgroup": "G7.0",
+  "subgroup_name": "beverages, food, hotel",
+  "terms": [
+   "beverages",
+   "food",
+   "hotel",
+   "food beverages",
+   "hospitality",
+   "leisure"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE199C01026",
+    "name": "Advani Hotels & Resorts (India) Limited"
+   },
+   {
+    "isin": "INE335K01011",
+    "name": "Coffee Day Enterprises Limited"
+   },
+   {
+    "isin": "INE363A01022",
+    "name": "Asian Hotels (North) Limited"
+   },
+   {
+    "isin": "INE508K01013",
+    "name": "Robust Hotels Limited"
+   },
+   {
+    "isin": "INE652F01027",
+    "name": "Country Club Hospitality & Holidays Limited"
+   },
+   {
+    "isin": "INE704H01022",
+    "name": "Cineline India Limited"
+   },
+   {
+    "isin": "INE915K01010",
+    "name": "Asian Hotels (West) Limited"
+   },
+   {
+    "isin": "INE926K01017",
+    "name": "Asian Hotels (East) Limited"
+   },
+   {
+    "isin": "INE985A01022",
+    "name": "Sinclairs Hotels Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

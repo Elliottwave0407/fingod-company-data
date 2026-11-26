@@ -3,7 +3,7 @@
  "sym": "63MOONS",
  "name": "63 moons technologies limited",
  "scrip": "526881",
- "mcap_cr": 4200.06,
+ "mcap_cr": 4028.65,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -38.35,
    "pat": 11.0,
    "margin_pct": -281.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -54.88,
    "pat": -2.6,
    "margin_pct": -180.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -85.53,
    "pat": -28.26,
    "margin_pct": -416.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -63.66,
    "pat": -31.73,
    "margin_pct": -237.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 18.38,
    "pat": 25.14,
    "margin_pct": 13.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 91,
-    "quality": 40
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,20 @@
    "ebitda": -71.73,
    "pat": -47.56,
    "margin_pct": -52.3,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 100,
-    "profit": 38,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -163,5 +178,6 @@
   "latest_guidance": [],
   "ledger": "claims/INE111B01023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

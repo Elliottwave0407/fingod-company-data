@@ -3,7 +3,7 @@
  "sym": "AMBIKCO",
  "name": "Ambika Cotton Mills Limited",
  "scrip": "531978",
- "mcap_cr": 830.7,
+ "mcap_cr": 828.06,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 23.61,
    "pat": 15.86,
    "margin_pct": 17.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 26.93,
    "pat": 15.92,
    "margin_pct": 14.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 26.69,
    "pat": 15.94,
    "margin_pct": 13.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 25.02,
    "pat": 15.17,
    "margin_pct": 14.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 35.55,
    "pat": 24.53,
    "margin_pct": 16.5,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 95,
-    "profit": 37,
-    "quality": 66
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 39.41,
    "pat": 25.7,
    "margin_pct": 15.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 84,
-    "profit": 57,
-    "quality": 80
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -6.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -152,5 +162,54 @@
   "latest_guidance": [],
   "ledger": "claims/INE540G01014.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G1",
+  "group_name": "yarn, cotton, textile",
+  "subgroup": "G1.0",
+  "subgroup_name": "bci, organic, recycled",
+  "terms": [
+   "bci",
+   "organic",
+   "recycled",
+   "international",
+   "garment",
+   "global"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE02EZ01022",
+    "name": "Axita Cotton Limited"
+   },
+   {
+    "isin": "INE08KP01019",
+    "name": "DCM Nouvelle Limited"
+   },
+   {
+    "isin": "INE08PH01015",
+    "name": "ABC Industries India Limited"
+   },
+   {
+    "isin": "INE290A01027",
+    "name": "Nahar Spinning Mills Limited"
+   },
+   {
+    "isin": "INE784W01015",
+    "name": "Manomay Tex India Limited"
+   },
+   {
+    "isin": "INE835A01029",
+    "name": "Vardhman Polytex Limited"
+   },
+   {
+    "isin": "INE875G01048",
+    "name": "Nandan Denim Limited"
+   },
+   {
+    "isin": "INE882A01013",
+    "name": "Maral Overseas Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

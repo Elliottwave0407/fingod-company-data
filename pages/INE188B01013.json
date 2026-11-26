@@ -3,7 +3,7 @@
  "sym": "IGARASHI",
  "name": "Igarashi Motors India Limited",
  "scrip": "517380",
- "mcap_cr": 1076.13,
+ "mcap_cr": 1043.4,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 19.71,
    "pat": 3.06,
    "margin_pct": 10.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 19.6,
    "pat": 2.51,
    "margin_pct": 9.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 23.48,
    "pat": 4.54,
    "margin_pct": 10.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 20.4,
    "pat": 3.5,
    "margin_pct": 9.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 19.26,
    "pat": 1.59,
    "margin_pct": 8.5,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 41,
-    "profit": 19,
-    "quality": 14
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,14 @@
    "ebitda": 24.52,
    "pat": 6.77,
    "margin_pct": 9.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 65,
-    "profit": 42,
-    "quality": 79
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 13.9
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -131,5 +142,66 @@
   "dividend_per_share": 2.5
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G3",
+  "group_name": "automotive, vehicles, passenger",
+  "subgroup": "G3.0",
+  "subgroup_name": "automotive, vehicles, passenger",
+  "terms": [
+   "automotive",
+   "vehicles",
+   "passenger",
+   "brake",
+   "components",
+   "passenger vehicles"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE073D01013",
+    "name": "Sundaram Brake Linings Limited"
+   },
+   {
+    "isin": "INE07S101038",
+    "name": "Pavna Industries Limited"
+   },
+   {
+    "isin": "INE090B01011",
+    "name": "Omax Autos Limited"
+   },
+   {
+    "isin": "INE139B01016",
+    "name": "UCAL LIMITED"
+   },
+   {
+    "isin": "INE310C01029",
+    "name": "Hindustan Composites Limited"
+   },
+   {
+    "isin": "INE415D01024",
+    "name": "Bharat Seats Limited"
+   },
+   {
+    "isin": "INE547E01014",
+    "name": "India Motor Parts and Accessories Limited"
+   },
+   {
+    "isin": "INE577A01027",
+    "name": "Munjal Showa Limited"
+   },
+   {
+    "isin": "INE672B01032",
+    "name": "Munjal Auto Industries Limited"
+   },
+   {
+    "isin": "INE718H01014",
+    "name": "Autoline Industries Limited"
+   },
+   {
+    "isin": "INE900C01027",
+    "name": "Automotive Stampings and Assemblies Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

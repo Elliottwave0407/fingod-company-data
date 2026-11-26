@@ -3,7 +3,7 @@
  "sym": "EASEMYTRIP",
  "name": "Easy Trip Planners Limited",
  "scrip": "543272",
- "mcap_cr": 2374.85,
+ "mcap_cr": 2414.7,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 13.52,
    "pat": 13.9,
    "margin_pct": 9.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 0.95,
    "pat": 0.44,
    "margin_pct": 0.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -46.99,
    "pat": -36.04,
    "margin_pct": -39.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 4.27,
    "pat": 3.41,
    "margin_pct": 2.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": -24.07,
    "pat": -15.41,
    "margin_pct": -15.8,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 20,
-    "profit": -13,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,16 @@
    "ebitda": -12.89,
    "pat": -11.69,
    "margin_pct": -9.6,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 29,
-    "profit": -8,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": null,
+    "acceleration": -386.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss"
+   ]
   }
  ],
  "completeness": {
@@ -208,5 +222,6 @@
   ],
   "ledger": "claims/INE07O001026.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

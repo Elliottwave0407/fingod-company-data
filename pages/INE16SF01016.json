@@ -3,7 +3,7 @@
  "sym": "BORANA",
  "name": "Borana Weaves Limited",
  "scrip": "544404",
- "mcap_cr": 683.98,
+ "mcap_cr": 662.27,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 17.11,
    "pat": 10.9,
    "margin_pct": 21.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 17.08,
    "pat": 12.13,
    "margin_pct": 21.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 21.67,
    "pat": 16.65,
    "margin_pct": 22.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 27.05,
    "pat": 18.55,
    "margin_pct": 24.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 25.62,
    "pat": 17.21,
    "margin_pct": 25.4,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 81,
-    "profit": 88,
-    "quality": 89
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 25.84,
    "pat": 16.48,
    "margin_pct": 25.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 80,
-    "profit": 96,
-    "quality": 69
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 0.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "sequential momentum is flat"
+   ]
   }
  ],
  "completeness": {
@@ -162,5 +172,6 @@
   ],
   "ledger": "claims/INE16SF01016.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "JISLJALEQS",
  "name": "Jain Irrigation Systems Limited",
  "scrip": "500219",
- "mcap_cr": 1780.09,
+ "mcap_cr": 1897.29,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 223.8,
    "pat": 28.18,
    "margin_pct": 12.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 202.02,
    "pat": 11.19,
    "margin_pct": 13.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 197.95,
    "pat": 15.34,
    "margin_pct": 13.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 127.11,
    "pat": -47.48,
    "margin_pct": 8.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 220.04,
    "pat": -19.04,
    "margin_pct": 12.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 28,
-    "profit": 34,
-    "quality": 2
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,20 @@
    "ebitda": 164.33,
    "pat": -17.8,
    "margin_pct": 10.9,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 16,
-    "profit": 18,
-    "quality": 7
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": null,
+    "acceleration": -10.5
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -207,5 +222,6 @@
   ],
   "ledger": "claims/INE175A01038.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

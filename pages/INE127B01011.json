@@ -3,7 +3,7 @@
  "sym": "HITECHGEAR",
  "name": "The Hi-Tech Gears Limited",
  "scrip": "522073",
- "mcap_cr": 914.65,
+ "mcap_cr": 931.4,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 33.22,
    "pat": 9.72,
    "margin_pct": 15.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 26.14,
    "pat": 6.0,
    "margin_pct": 12.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 27.8,
    "pat": 6.01,
    "margin_pct": 11.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 21.92,
    "pat": 0.85,
    "margin_pct": 9.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 25.23,
    "pat": 8.11,
    "margin_pct": 11.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 20,
-    "profit": 9,
-    "quality": 15
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,18 @@
    "ebitda": 26.35,
    "pat": 4.76,
    "margin_pct": 11.1,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 34,
-    "profit": 30,
-    "quality": 19
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 15.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -150,5 +163,38 @@
   ],
   "ledger": "claims/INE127B01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G19",
+  "group_name": "precision, defence, components",
+  "subgroup": "G19.0",
+  "subgroup_name": "precision, defence, components",
+  "terms": [
+   "precision",
+   "defence",
+   "components",
+   "aerospace",
+   "auto",
+   "gears"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE274C01019",
+    "name": "Wendt (India) Limited"
+   },
+   {
+    "isin": "INE397H01017",
+    "name": "Lokesh Machines Limited"
+   },
+   {
+    "isin": "INE637H01024",
+    "name": "Shivam Autotech Limited"
+   },
+   {
+    "isin": "INE711A01022",
+    "name": "Walchandnagar Industries Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

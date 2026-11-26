@@ -3,7 +3,7 @@
  "sym": "NAHARSPING",
  "name": "Nahar Spinning Mills Limited",
  "scrip": "500296",
- "mcap_cr": 882.16,
+ "mcap_cr": 872.96,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 64.91,
    "pat": 22.41,
    "margin_pct": 7.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 57.72,
    "pat": 15.96,
    "margin_pct": 7.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 25.57,
    "pat": -4.64,
    "margin_pct": 3.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 14.56,
    "pat": -12.92,
    "margin_pct": 2.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 58.74,
    "pat": 23.42,
    "margin_pct": 6.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 25,
-    "profit": 26,
-    "quality": 36
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,14 @@
    "ebitda": 127.09,
    "pat": 69.88,
    "margin_pct": 13.2,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 78,
-    "profit": 91,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 60.7
    },
-   "capped_by": "revenue growth under 20%"
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +88,16 @@
    "ebitda": 117.82,
    "pat": 71.05,
    "margin_pct": 13.2,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 75,
-    "profit": 91,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Flat",
+    "acceleration": 88.8
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -174,5 +185,54 @@
   ],
   "ledger": "claims/INE290A01027.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G1",
+  "group_name": "yarn, cotton, textile",
+  "subgroup": "G1.0",
+  "subgroup_name": "bci, organic, recycled",
+  "terms": [
+   "bci",
+   "organic",
+   "recycled",
+   "international",
+   "garment",
+   "global"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE02EZ01022",
+    "name": "Axita Cotton Limited"
+   },
+   {
+    "isin": "INE08KP01019",
+    "name": "DCM Nouvelle Limited"
+   },
+   {
+    "isin": "INE08PH01015",
+    "name": "ABC Industries India Limited"
+   },
+   {
+    "isin": "INE540G01014",
+    "name": "Ambika Cotton Mills Limited"
+   },
+   {
+    "isin": "INE784W01015",
+    "name": "Manomay Tex India Limited"
+   },
+   {
+    "isin": "INE835A01029",
+    "name": "Vardhman Polytex Limited"
+   },
+   {
+    "isin": "INE875G01048",
+    "name": "Nandan Denim Limited"
+   },
+   {
+    "isin": "INE882A01013",
+    "name": "Maral Overseas Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

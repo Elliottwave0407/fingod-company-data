@@ -3,7 +3,7 @@
  "sym": "ANDHRAPAP",
  "name": "ANDHRA PAPER LIMITED",
  "scrip": "502330",
- "mcap_cr": 1223.92,
+ "mcap_cr": 1211.99,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 20.28,
    "pat": 7.85,
    "margin_pct": 5.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 33.6,
    "pat": 21.31,
    "margin_pct": 8.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -6.82,
    "pat": -20.26,
    "margin_pct": -1.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 15.4,
    "pat": 9.85,
    "margin_pct": 3.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 25.11,
    "pat": 7.72,
    "margin_pct": 4.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 69,
-    "profit": 34,
-    "quality": 23
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit slightly down YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 48.79,
    "pat": 30.32,
    "margin_pct": 12.4,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 57,
-    "profit": 79,
-    "quality": 62
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 3.3
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,19 @@
    "ebitda": 28.84,
    "pat": 4.27,
    "margin_pct": 6.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 56,
-    "profit": 85,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -221,5 +238,62 @@
   ],
   "ledger": "claims/INE435A01051.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G4",
+  "group_name": "paper, papers, tissue",
+  "subgroup": "G4.0",
+  "subgroup_name": "paper, papers, tissue",
+  "terms": [
+   "paper",
+   "papers",
+   "tissue",
+   "kraft",
+   "packaging",
+   "writing"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE01EE01011",
+    "name": "B&B Triplewall Containers Limited"
+   },
+   {
+    "isin": "INE107A01015",
+    "name": "Tamil Nadu Newsprint & Papers Limited"
+   },
+   {
+    "isin": "INE196Y01018",
+    "name": "Worth Peripherals Limited"
+   },
+   {
+    "isin": "INE278B01020",
+    "name": "Shree Rama Newsprint Limited"
+   },
+   {
+    "isin": "INE592A01026",
+    "name": "Orient Paper & Industries Limited"
+   },
+   {
+    "isin": "INE630A01024",
+    "name": "Seshasayee Paper and Boards Limited"
+   },
+   {
+    "isin": "INE642C01025",
+    "name": "Rubfila International Limited"
+   },
+   {
+    "isin": "INE733A01018",
+    "name": "Star Paper Mills Limited"
+   },
+   {
+    "isin": "INE865T01018",
+    "name": "Pudumjee Paper Products Limited"
+   },
+   {
+    "isin": "INE949P01018",
+    "name": "Genus Paper & Boards Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

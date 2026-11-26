@@ -3,7 +3,7 @@
  "sym": "RTNPOWER",
  "name": "RattanIndia Power Limited",
  "scrip": "533122",
- "mcap_cr": 3383.17,
+ "mcap_cr": 3356.32,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 211.84,
    "pat": 125.94,
    "margin_pct": 22.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 96.67,
    "pat": -13.11,
    "margin_pct": 11.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 51.7,
    "pat": -31.55,
    "margin_pct": 7.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 127.48,
    "pat": 54.26,
    "margin_pct": 17.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 129.63,
    "pat": 42.84,
    "margin_pct": 16.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 6,
-    "profit": 13,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,17 @@
    "ebitda": 124.97,
    "pat": 45.85,
    "margin_pct": 15.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 47,
-    "profit": 82,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 43.5
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +94,17 @@
    "ebitda": 98.11,
    "pat": 38.37,
    "margin_pct": 14.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 69,
-    "profit": 91,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Fading",
+    "acceleration": 28.0
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -206,5 +224,6 @@
   ],
   "ledger": "claims/INE399K01017.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "KECL",
  "name": "Kirloskar Electric Company Limited",
  "scrip": "533193",
- "mcap_cr": 687.05,
+ "mcap_cr": 678.42,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 0.7,
    "pat": -3.85,
    "margin_pct": 0.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 6.88,
    "pat": 0.42,
    "margin_pct": 5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 6.41,
    "pat": 9.98,
    "margin_pct": 4.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 7.72,
    "pat": 4.1,
    "margin_pct": 5.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 6.44,
    "pat": -0.63,
    "margin_pct": 3.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 84,
-    "profit": 68,
-    "quality": 72
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,21 @@
    "ebitda": -0.37,
    "pat": -5.99,
    "margin_pct": -0.4,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 4,
-    "profit": 0,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": null,
+    "acceleration": -354.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -153,5 +170,30 @@
   "latest_guidance": [],
   "ledger": "claims/INE134B01017.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G36",
+  "group_name": "copper, rods, copper copper",
+  "subgroup": "G36.0",
+  "subgroup_name": "copper, rods, copper copper",
+  "terms": [
+   "copper",
+   "rods",
+   "copper copper",
+   "switchgear",
+   "electrical equipment",
+   "alloys"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE144D01012",
+    "name": "Cubex Tubings Limited"
+   },
+   {
+    "isin": "INE737D01021",
+    "name": "MODISON LIMITED"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

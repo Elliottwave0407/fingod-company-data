@@ -3,7 +3,7 @@
  "sym": "MBECL",
  "name": "Mcnally Bharat Engineering Company Limited",
  "scrip": "532629",
- "mcap_cr": 913.83,
+ "mcap_cr": 896.0,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -800.85,
    "pat": -998.97,
    "margin_pct": -2636.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -16.78,
    "pat": -230.26,
    "margin_pct": -112.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 3806.99,
    "pat": 3810.17,
    "margin_pct": 20634.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -60.1,
    "pat": -61.23,
    "margin_pct": -241.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": -59.04,
    "pat": -69.13,
    "margin_pct": -387.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": -230,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,18 @@
    "ebitda": -21.78,
    "pat": -25.27,
    "margin_pct": -144.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 26,
-    "profit": -116,
-    "quality": 100
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -128,5 +144,38 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G17",
+  "group_name": "mining, construction, handling",
+  "subgroup": "G17.0",
+  "subgroup_name": "mining, construction, handling",
+  "terms": [
+   "mining",
+   "construction",
+   "handling",
+   "equipment",
+   "material handling",
+   "spares"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE0DAB01012",
+    "name": "Revathi Equipment India Limited"
+   },
+   {
+    "isin": "INE158B01016",
+    "name": "Eimco Elecon (India) Limited"
+   },
+   {
+    "isin": "INE391D01019",
+    "name": "TRF Limited"
+   },
+   {
+    "isin": "INE826C01016",
+    "name": "Gujarat Apollo Industries Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

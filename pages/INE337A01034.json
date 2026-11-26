@@ -1,0 +1,190 @@
+{
+ "isin": "INE337A01034",
+ "sym": "LGBBROSLTD",
+ "name": "LG Balakrishnan & Bros Limited",
+ "scrip": "500250",
+ "mcap_cr": 4960.39,
+ "group": "A",
+ "quarters": [
+  {
+   "q": "Mar-25",
+   "revenue": 669.17,
+   "ebitda": 114.62,
+   "pat": 84.03,
+   "margin_pct": 17.1,
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
+  },
+  {
+   "q": "Jun-25",
+   "revenue": 657.05,
+   "ebitda": 105.48,
+   "pat": 66.97,
+   "margin_pct": 16.1,
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
+  },
+  {
+   "q": "Sep-25",
+   "revenue": 787.02,
+   "ebitda": 137.09,
+   "pat": 93.66,
+   "margin_pct": 17.4,
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
+  },
+  {
+   "q": "Dec-25",
+   "revenue": 816.56,
+   "ebitda": 127.26,
+   "pat": 88.45,
+   "margin_pct": 15.6,
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
+  },
+  {
+   "q": "Mar-26",
+   "revenue": 815.0,
+   "ebitda": 116.56,
+   "pat": 69.67,
+   "margin_pct": 14.3,
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
+  },
+  {
+   "q": "Jun-26",
+   "revenue": 798.76,
+   "ebitda": 110.48,
+   "pat": 67.01,
+   "margin_pct": 13.8,
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": 1.9
+   },
+   "verdict_notes": [
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
+  },
+  {
+   "q": "Sep-26",
+   "revenue": 948.32,
+   "ebitda": 148.86,
+   "pat": 93.94,
+   "margin_pct": 15.7,
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 1.7
+   },
+   "verdict_notes": []
+  }
+ ],
+ "completeness": {
+  "expected": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "held": [
+   "Jun-25",
+   "Sep-25",
+   "Dec-25",
+   "Mar-26",
+   "Jun-26",
+   "Sep-26"
+  ],
+  "missing": [],
+  "concalls_found": 0,
+  "concalls_read": 0,
+  "latest_concall": null,
+  "annual_report_fy": 2026
+ },
+ "annual_report": {
+  "fy": 2026,
+  "business": "L.G. Balakrishnan & Bros Limited manufactures transmission chains, sprockets, tensioners, belts, and metal formed parts for automotive and industrial applications under the brand ROLON.",
+  "segments": [
+   {
+    "name": "Transmission",
+    "share_of_revenue_pct": null
+   },
+   {
+    "name": "Metal Forming",
+    "share_of_revenue_pct": null
+   }
+  ],
+  "capacity_or_capex": [
+   {
+    "item": "Capital expenditure",
+    "amount_cr": 340.14,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Investment in subsidiary",
+    "amount_cr": 8.57,
+    "timeline": "FY 2025-26"
+   },
+   {
+    "item": "Investment in Others",
+    "amount_cr": 1.69,
+    "timeline": "FY 2025-26"
+   }
+  ],
+  "guidance_or_targets": [],
+  "order_book_cr": null,
+  "auditor": {
+   "name": "SURI & CO.",
+   "opinion": "unmodified",
+   "emphasis_or_qualification": ""
+  },
+  "promoter_holding_pct": null,
+  "promoter_pledge_pct": null,
+  "employees": null,
+  "subsidiaries_count": null,
+  "key_risks": [
+   "uncertainty related to the current global economic environment",
+   "fluctuations in raw material prices",
+   "evolving geopolitical landscape",
+   "trade and tariff wars leading to instability and volatile consumption"
+  ],
+  "dividend_per_share": null
+ },
+ "claims": {
+  "total": 3,
+  "by_category": {
+   "capex": 3
+  },
+  "latest_guidance": [],
+  "ledger": "claims/INE337A01034.json"
+ },
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
+}

@@ -3,7 +3,7 @@
  "sym": "AYMSYNTEX",
  "name": "AYM Syntex Limited",
  "scrip": "508933",
- "mcap_cr": 1574.05,
+ "mcap_cr": 1547.88,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 26.7,
    "pat": 2.01,
    "margin_pct": 7.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 16.66,
    "pat": -3.57,
    "margin_pct": 5.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 19.42,
    "pat": -0.39,
    "margin_pct": 5.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 23.42,
    "pat": 1.48,
    "margin_pct": 7.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 33.3,
    "pat": 9.01,
    "margin_pct": 9.1,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 47,
-    "profit": 56,
-    "quality": 82
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 31.44,
    "pat": 8.67,
    "margin_pct": 9.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 69,
-    "profit": 76,
-    "quality": 83
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Flat",
+    "acceleration": 27.8
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,14 @@
    "ebitda": 41.61,
    "pat": 14.98,
    "margin_pct": 9.2,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 86,
-    "profit": 75,
-    "quality": 82
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 16.3
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -167,5 +179,34 @@
   "latest_guidance": [],
   "ledger": "claims/INE193B01039.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G1",
+  "group_name": "yarn, cotton, textile",
+  "subgroup": "G1.1",
+  "subgroup_name": "nylon, poy, textured",
+  "terms": [
+   "nylon",
+   "poy",
+   "textured",
+   "chips",
+   "iso",
+   "yarn poy"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE453D01025",
+    "name": "Sarla Performance Fibers Limited"
+   },
+   {
+    "isin": "INE533D01032",
+    "name": "Raj Rayon Industries Limited"
+   },
+   {
+    "isin": "INE963C01033",
+    "name": "Faze Three Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

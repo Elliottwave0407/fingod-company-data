@@ -3,7 +3,7 @@
  "sym": "ALBERTDAVD",
  "name": "Albert David Limited",
  "scrip": "524075",
- "mcap_cr": 434.34,
+ "mcap_cr": 426.9,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -4.75,
    "pat": -10.33,
    "margin_pct": -6.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -10.66,
    "pat": 7.94,
    "margin_pct": -15.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 2.54,
    "pat": -3.3,
    "margin_pct": 2.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 10.82,
    "pat": 15.3,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": 2.76,
    "pat": -21.43,
    "margin_pct": 3.2,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 50,
-    "profit": 83,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,17 @@
    "ebitda": 10.64,
    "pat": 32.0,
    "margin_pct": 10.5,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 87,
-    "profit": 88,
-    "quality": 80
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -122,5 +138,62 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G5",
+  "group_name": "pharmaceutical, api, apis",
+  "subgroup": "G5.0",
+  "subgroup_name": "pharmaceutical, api, apis",
+  "terms": [
+   "pharmaceutical",
+   "api",
+   "apis",
+   "pharmaceuticals",
+   "drugs",
+   "formulations"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE083B01024",
+    "name": "Themis Medicare Limited"
+   },
+   {
+    "isin": "INE0JWS01017",
+    "name": "Valiant Laboratories Limited"
+   },
+   {
+    "isin": "INE107F01022",
+    "name": "Wanbury Limited"
+   },
+   {
+    "isin": "INE198H01019",
+    "name": "Aarey Drugs & Pharmaceuticals Limited"
+   },
+   {
+    "isin": "INE320X01016",
+    "name": "HALEOS LABS LIMITED"
+   },
+   {
+    "isin": "INE646B01010",
+    "name": "Medicamen Biotech Limited"
+   },
+   {
+    "isin": "INE650L01011",
+    "name": "Brooks Laboratories Limited"
+   },
+   {
+    "isin": "INE788J01021",
+    "name": "Shivalik Rasayan Limited"
+   },
+   {
+    "isin": "INE878I01022",
+    "name": "Bafna Pharmaceuticals Limited"
+   },
+   {
+    "isin": "INE933A01014",
+    "name": "Lyka Labs Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

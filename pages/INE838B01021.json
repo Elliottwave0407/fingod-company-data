@@ -3,7 +3,7 @@
  "sym": "BHARATRAS",
  "name": "Bharat Rasayan Limited",
  "scrip": "590021",
- "mcap_cr": 1503.13,
+ "mcap_cr": 1456.17,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 40.19,
    "pat": 25.13,
    "margin_pct": 13.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 58.39,
    "pat": 39.66,
    "margin_pct": 15.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 33.07,
    "pat": 24.44,
    "margin_pct": 11.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 44.26,
    "pat": 40.03,
    "margin_pct": 16.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 44.58,
    "pat": 38.15,
    "margin_pct": 14.5,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 35,
-    "profit": 57,
-    "quality": 92
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 50.77,
    "pat": 37.23,
    "margin_pct": 15.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 15,
-    "profit": 39,
-    "quality": 33
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -14.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -129,5 +140,38 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G14",
+  "group_name": "crop, insecticides, agricultural",
+  "subgroup": "G14.0",
+  "subgroup_name": "crop, insecticides, agricultural",
+  "terms": [
+   "crop",
+   "insecticides",
+   "agricultural",
+   "herbicides",
+   "fungicides",
+   "crop protection"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE02H701025",
+    "name": "Nova Agritech Limited"
+   },
+   {
+    "isin": "INE032Z01020",
+    "name": "Bombay Super Hybrid Seeds Limited"
+   },
+   {
+    "isin": "INE298I01015",
+    "name": "Aries Agro Limited"
+   },
+   {
+    "isin": "INE563J01010",
+    "name": "Astec LifeSciences Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

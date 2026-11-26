@@ -3,7 +3,7 @@
  "sym": "RAMRAT",
  "name": "Ram Ratna Wires Limited",
  "scrip": "522281",
- "mcap_cr": 4758.47,
+ "mcap_cr": 4701.06,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 45.34,
    "pat": 18.66,
    "margin_pct": 4.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 42.88,
    "pat": 15.92,
    "margin_pct": 4.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 55.5,
    "pat": 21.81,
    "margin_pct": 4.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 68.46,
    "pat": 31.63,
    "margin_pct": 5.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 93.21,
    "pat": 39.23,
    "margin_pct": 5.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 42,
-    "quality": 72
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 89.59,
    "pat": 35.16,
    "margin_pct": 4.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 41,
-    "quality": 72
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 2.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "sequential momentum is flat"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,17 @@
    "ebitda": 89.53,
    "pat": 35.7,
    "margin_pct": 4.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 33,
-    "quality": 70
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -24.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -179,5 +194,6 @@
   ],
   "ledger": "claims/INE207E01023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "BBL",
  "name": "Bharat Bijlee Limited",
  "scrip": "503960",
- "mcap_cr": 2799.1,
+ "mcap_cr": 2732.76,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 33.64,
    "pat": 27.88,
    "margin_pct": 7.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 34.81,
    "pat": 28.23,
    "margin_pct": 7.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 34.32,
    "pat": 24.68,
    "margin_pct": 6.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 55.21,
    "pat": 39.3,
    "margin_pct": 7.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,21 @@
    "ebitda": 28.82,
    "pat": 19.63,
    "margin_pct": 5.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 34,
-    "profit": 15,
-    "quality": 3
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +78,14 @@
    "ebitda": 58.74,
    "pat": 46.04,
    "margin_pct": 8.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 98,
-    "profit": 45,
-    "quality": 72
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 46.2
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -221,5 +234,6 @@
   ],
   "ledger": "claims/INE464A01036.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

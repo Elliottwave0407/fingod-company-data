@@ -3,7 +3,7 @@
  "sym": "MINDTECK",
  "name": "Mindteck (India) Limited",
  "scrip": "517344",
- "mcap_cr": 410.77,
+ "mcap_cr": 407.26,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 8.57,
    "pat": 6.8,
    "margin_pct": 8.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 9.62,
    "pat": 8.75,
    "margin_pct": 9.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 9.12,
    "pat": 7.56,
    "margin_pct": 9.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 5.15,
    "pat": 5.05,
    "margin_pct": 5.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 10.66,
    "pat": 10.16,
    "margin_pct": 10.3,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 45,
-    "profit": 60,
-    "quality": 86
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue growth under 15% YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,19 @@
    "ebitda": 8.13,
    "pat": 8.36,
    "margin_pct": 7.8,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 21,
-    "profit": 20,
-    "quality": 27
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -18.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit slightly down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -122,5 +135,54 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G8",
+  "group_name": "software, technology, cloud",
+  "subgroup": "G8.0",
+  "subgroup_name": "software, technology, cloud",
+  "terms": [
+   "software",
+   "technology",
+   "cloud",
+   "cmmi",
+   "information",
+   "analytics"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE020G01017",
+    "name": "Inspirisys Solutions Limited"
+   },
+   {
+    "isin": "INE214A01019",
+    "name": "Cybertech Systems And Software Limited"
+   },
+   {
+    "isin": "INE482B01010",
+    "name": "Tera Software Limited"
+   },
+   {
+    "isin": "INE512B01022",
+    "name": "FCS Software Solutions Limited"
+   },
+   {
+    "isin": "INE692G01013",
+    "name": "Xchanging Solutions Limited"
+   },
+   {
+    "isin": "INE727B01026",
+    "name": "Genesys International Corporation Limited"
+   },
+   {
+    "isin": "INE805A01014",
+    "name": "AION-TECH SOLUTIONS LIMITED"
+   },
+   {
+    "isin": "INE948A01012",
+    "name": "Trigyn Technologies Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

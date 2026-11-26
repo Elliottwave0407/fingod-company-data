@@ -3,7 +3,7 @@
  "sym": "BLKASHYAP",
  "name": "B. L. Kashyap and Sons Limited",
  "scrip": "532719",
- "mcap_cr": 1241.5,
+ "mcap_cr": 1229.32,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 18.96,
    "pat": -3.26,
    "margin_pct": 6.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 25.95,
    "pat": 10.85,
    "margin_pct": 7.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 20.48,
    "pat": -8.62,
    "margin_pct": 5.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 28.87,
    "pat": 11.83,
    "margin_pct": 8.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": -10.9,
    "pat": -12.52,
    "margin_pct": -3.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 32,
-    "profit": -2,
-    "quality": 9
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,18 @@
    "ebitda": 28.58,
    "pat": 10.0,
    "margin_pct": 8.3,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 36,
-    "profit": 44,
-    "quality": 27
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 66.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -172,5 +187,38 @@
   ],
   "ledger": "claims/INE350H01032.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G2",
+  "group_name": "real, real estate, estate",
+  "subgroup": "G2.1",
+  "subgroup_name": "infrastructure, industrial, epc",
+  "terms": [
+   "infrastructure",
+   "industrial",
+   "epc",
+   "government",
+   "civil",
+   "entities"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE00S901012",
+    "name": "Nila Spaces Limited"
+   },
+   {
+    "isin": "INE0JVO01026",
+    "name": "Garuda Construction and Engineering Limited"
+   },
+   {
+    "isin": "INE100D01014",
+    "name": "W S Industries (I) Limited"
+   },
+   {
+    "isin": "INE937C01029",
+    "name": "Nila Infrastructures Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

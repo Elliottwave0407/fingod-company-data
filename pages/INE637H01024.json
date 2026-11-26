@@ -3,7 +3,7 @@
  "sym": "SHIVAMAUTO",
  "name": "Shivam Autotech Limited",
  "scrip": "532776",
- "mcap_cr": 303.41,
+ "mcap_cr": 299.94,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 8.21,
    "pat": -14.76,
    "margin_pct": 7.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 5.32,
    "pat": -17.66,
    "margin_pct": 5.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 10.27,
    "pat": -12.42,
    "margin_pct": 9.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 3.93,
    "pat": -24.53,
    "margin_pct": 4.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 9.39,
    "pat": -26.72,
    "margin_pct": 8.6,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 39,
-    "profit": 49,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 7.93,
    "pat": -20.99,
    "margin_pct": 7.2,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 76,
-    "profit": 52,
-    "quality": 44
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": null,
+    "acceleration": 19.5
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -183,5 +195,38 @@
   ],
   "ledger": "claims/INE637H01024.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G19",
+  "group_name": "precision, defence, components",
+  "subgroup": "G19.0",
+  "subgroup_name": "precision, defence, components",
+  "terms": [
+   "precision",
+   "defence",
+   "components",
+   "aerospace",
+   "auto",
+   "gears"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE127B01011",
+    "name": "The Hi-Tech Gears Limited"
+   },
+   {
+    "isin": "INE274C01019",
+    "name": "Wendt (India) Limited"
+   },
+   {
+    "isin": "INE397H01017",
+    "name": "Lokesh Machines Limited"
+   },
+   {
+    "isin": "INE711A01022",
+    "name": "Walchandnagar Industries Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

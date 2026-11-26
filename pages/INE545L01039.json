@@ -3,7 +3,7 @@
  "sym": "MANCREDIT",
  "name": "Mangal Credit and Fincorp Limited",
  "scrip": "505850",
- "mcap_cr": 544.53,
+ "mcap_cr": 529.33,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 9.57,
    "pat": 2.62,
    "margin_pct": 71.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 10.81,
    "pat": 3.0,
    "margin_pct": 74.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 11.49,
    "pat": 2.99,
    "margin_pct": 72.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 14.2,
    "pat": 3.83,
    "margin_pct": 77.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 17.33,
    "pat": 5.48,
    "margin_pct": 81.4,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 18.18,
    "pat": 5.69,
    "margin_pct": 82.0,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 97,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -10.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "sequential momentum is flat"
+   ]
   }
  ],
  "completeness": {
@@ -127,5 +135,62 @@
   "dividend_per_share": 0.75
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G0",
+  "group_name": "financial, loans, investment",
+  "subgroup": "G0.1",
+  "subgroup_name": "loan, rbi, nbfc",
+  "terms": [
+   "loan",
+   "rbi",
+   "nbfc",
+   "msme",
+   "term",
+   "property"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE049I01012",
+    "name": "Nahar Capital and Financial Services Limited"
+   },
+   {
+    "isin": "INE152C01025",
+    "name": "U. Y. Fincorp Limited"
+   },
+   {
+    "isin": "INE159N01027",
+    "name": "Viji Finance Limited"
+   },
+   {
+    "isin": "INE289B01019",
+    "name": "GIC Housing Finance Limited"
+   },
+   {
+    "isin": "INE289C01025",
+    "name": "Team India Guaranty Limited"
+   },
+   {
+    "isin": "INE345H01024",
+    "name": "Capital India Finance Limited"
+   },
+   {
+    "isin": "INE521J01018",
+    "name": "CP Capital Limited"
+   },
+   {
+    "isin": "INE886A01014",
+    "name": "Industrial Investment Trust Limited"
+   },
+   {
+    "isin": "INE923A01015",
+    "name": "SIL Investments Limited"
+   },
+   {
+    "isin": "INE992I01013",
+    "name": "Starteck Finance Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

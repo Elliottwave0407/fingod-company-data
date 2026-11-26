@@ -3,7 +3,7 @@
  "sym": "AKSHARCHEM",
  "name": "AksharChem India Limited",
  "scrip": "524598",
- "mcap_cr": 273.13,
+ "mcap_cr": 271.24,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 6.27,
    "pat": 1.39,
    "margin_pct": 6.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 6.41,
    "pat": 0.71,
    "margin_pct": 6.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 4.06,
    "pat": -1.37,
    "margin_pct": 4.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 2.93,
    "pat": -4.62,
    "margin_pct": 3.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 5.3,
    "pat": 4.83,
    "margin_pct": 5.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 33,
-    "profit": 16,
-    "quality": 89
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,14 @@
    "ebitda": 22.62,
    "pat": 15.21,
    "margin_pct": 16.1,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 94,
-    "profit": 93,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 121.0
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +86,16 @@
    "ebitda": 20.98,
    "pat": 13.32,
    "margin_pct": 13.1,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 90,
-    "quality": 100
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 68.0
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -162,5 +171,58 @@
   "latest_guidance": [],
   "ledger": "claims/INE542B01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G6",
+  "group_name": "dyes, care, paints",
+  "subgroup": "G6.0",
+  "subgroup_name": "dyes, care, paints",
+  "terms": [
+   "dyes",
+   "care",
+   "paints",
+   "intermediates",
+   "chemicals",
+   "pigments"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE01NE01012",
+    "name": "Shankar Lal Rampal Dye-Chem Limited"
+   },
+   {
+    "isin": "INE09EO01013",
+    "name": "Aarti Surfactants Limited"
+   },
+   {
+    "isin": "INE138C01024",
+    "name": "Kanoria Chemicals & Industries Limited"
+   },
+   {
+    "isin": "INE256H01015",
+    "name": "Dynemic Products Limited"
+   },
+   {
+    "isin": "INE338A01024",
+    "name": "Thirumalai Chemicals Limited"
+   },
+   {
+    "isin": "INE370D01013",
+    "name": "Mangalam Organics Limited"
+   },
+   {
+    "isin": "INE492A01029",
+    "name": "Sudarshan Colorants India Limited"
+   },
+   {
+    "isin": "INE565V01010",
+    "name": "Valiant Organics Limited"
+   },
+   {
+    "isin": "INE888C01040",
+    "name": "Sadhana Nitrochem Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

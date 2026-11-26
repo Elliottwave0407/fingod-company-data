@@ -3,7 +3,7 @@
  "sym": "GAYAPROJ",
  "name": "Gayatri Projects Limited",
  "scrip": "532767",
- "mcap_cr": 827.85,
+ "mcap_cr": 825.06,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -27.99,
    "pat": 158.69,
    "margin_pct": -20.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 9.14,
    "pat": -0.58,
    "margin_pct": 11.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 0.64,
    "pat": -3.38,
    "margin_pct": 0.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 2099.62,
    "pat": 2157.08,
    "margin_pct": 415.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,22 @@
    "ebitda": -123.98,
    "pat": -111.0,
    "margin_pct": -64.8,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 84,
-    "profit": -52,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +79,14 @@
    "ebitda": 18.35,
    "pat": 37.12,
    "margin_pct": 8.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 100,
-    "profit": 6,
-    "quality": 80
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -128,5 +142,50 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G11",
+  "group_name": "roads, highways, water",
+  "subgroup": "G11.0",
+  "subgroup_name": "roads, highways, water",
+  "terms": [
+   "roads",
+   "highways",
+   "water",
+   "urban",
+   "construction",
+   "irrigation"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE050001010",
+    "name": "Prakash Pipes Limited"
+   },
+   {
+    "isin": "INE323C01030",
+    "name": "Indian Hume Pipe Company Limited"
+   },
+   {
+    "isin": "INE324L01013",
+    "name": "R.P.P. Infra Projects Limited"
+   },
+   {
+    "isin": "INE550H01011",
+    "name": "Supreme Infrastructure India Limited"
+   },
+   {
+    "isin": "INE863T01013",
+    "name": "JITF Infralogistics Limited"
+   },
+   {
+    "isin": "INE912H01013",
+    "name": "MBL Infrastructure Limited"
+   },
+   {
+    "isin": "INE964H01014",
+    "name": "SEPC Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

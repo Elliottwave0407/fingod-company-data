@@ -3,7 +3,7 @@
  "sym": "TVTODAY",
  "name": "TV Today Network Limited",
  "scrip": "532515",
- "mcap_cr": 598.42,
+ "mcap_cr": 596.69,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 4.26,
    "pat": 6.15,
    "margin_pct": 1.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 7.53,
    "pat": 7.35,
    "margin_pct": 3.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -4.12,
    "pat": -1.98,
    "margin_pct": -2.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 0.52,
    "pat": -0.14,
    "margin_pct": 0.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 7.28,
    "pat": 9.02,
    "margin_pct": 3.4,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 57,
-    "profit": 52,
-    "quality": 61
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue growth under 15% YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 15.79,
    "pat": 10.26,
    "margin_pct": 7.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 66,
-    "profit": 75,
-    "quality": 56
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 23.4
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -148,5 +158,54 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G9",
+  "group_name": "television, media, digital",
+  "subgroup": "G9.0",
+  "subgroup_name": "television, media, digital",
+  "terms": [
+   "television",
+   "media",
+   "digital",
+   "news",
+   "advertisement",
+   "broadcasting"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE155G01029",
+    "name": "New Delhi Television Limited"
+   },
+   {
+    "isin": "INE199G01027",
+    "name": "Jagran Prakashan Limited"
+   },
+   {
+    "isin": "INE416A01051",
+    "name": "Aqylon Nexus Limited"
+   },
+   {
+    "isin": "INE583B01015",
+    "name": "The Sandesh Limited"
+   },
+   {
+    "isin": "INE836F01026",
+    "name": "Dish TV India Limited"
+   },
+   {
+    "isin": "INE947J01015",
+    "name": "Den Networks Limited"
+   },
+   {
+    "isin": "INE966H01019",
+    "name": "Zee Media Corporation Limited"
+   },
+   {
+    "isin": "INE982F01036",
+    "name": "Hathway Cable & Datacom Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

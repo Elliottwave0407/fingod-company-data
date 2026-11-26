@@ -3,7 +3,7 @@
  "sym": "MANAKCOAT",
  "name": "Manaksia Coated Metals & Industries Limited",
  "scrip": "539046",
- "mcap_cr": 1845.94,
+ "mcap_cr": 1821.62,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 15.17,
    "pat": 5.03,
    "margin_pct": 7.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 24.48,
    "pat": 14.01,
    "margin_pct": 9.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 26.1,
    "pat": 13.96,
    "margin_pct": 11.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 15.49,
    "pat": 7.35,
    "margin_pct": 8.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 14.35,
    "pat": 5.37,
    "margin_pct": 6.3,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 31,
-    "profit": 27,
-    "quality": 38
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,16 @@
    "ebitda": 28.16,
    "pat": 14.1,
    "margin_pct": 10.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 42,
-    "profit": 50,
-    "quality": 32
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 8.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,17 @@
    "ebitda": 34.06,
    "pat": 18.73,
    "margin_pct": 10.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 81,
-    "profit": 28,
-    "quality": 56
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 16.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -188,5 +204,6 @@
   ],
   "ledger": "claims/INE830Q01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

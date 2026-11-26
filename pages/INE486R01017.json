@@ -3,7 +3,7 @@
  "sym": "GPTHEALTH",
  "name": "GPT Healthcare Limited",
  "scrip": "544131",
- "mcap_cr": 1083.53,
+ "mcap_cr": 1083.94,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 20.7,
    "pat": 12.89,
    "margin_pct": 20.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 17.36,
    "pat": 7.68,
    "margin_pct": 16.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 22.74,
    "pat": 10.6,
    "margin_pct": 19.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 20.71,
    "pat": 9.37,
    "margin_pct": 17.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 23.36,
    "pat": 14.57,
    "margin_pct": 18.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 57,
-    "profit": 26,
-    "quality": 36
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 24.17,
    "pat": 12.73,
    "margin_pct": 19.2,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 70,
-    "profit": 76,
-    "quality": 88
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 14.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "sequential momentum is flat"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +167,6 @@
   ],
   "ledger": "claims/INE486R01017.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

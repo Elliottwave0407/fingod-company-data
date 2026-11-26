@@ -3,7 +3,7 @@
  "sym": "MUNJALAU",
  "name": "Munjal Auto Industries Limited",
  "scrip": "520059",
- "mcap_cr": 916.2,
+ "mcap_cr": 926.4,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 34.71,
    "pat": 10.28,
    "margin_pct": 6.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 39.21,
    "pat": 19.31,
    "margin_pct": 8.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 26.4,
    "pat": 13.48,
    "margin_pct": 4.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 40.42,
    "pat": 14.64,
    "margin_pct": 6.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 15.23,
    "pat": -1.63,
    "margin_pct": 2.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 30,
-    "profit": 2,
-    "quality": 4
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,14 @@
    "ebitda": 44.03,
    "pat": 28.5,
    "margin_pct": 6.3,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 66,
-    "profit": 19,
-    "quality": 53
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 35.7
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -122,5 +133,66 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G3",
+  "group_name": "automotive, vehicles, passenger",
+  "subgroup": "G3.0",
+  "subgroup_name": "automotive, vehicles, passenger",
+  "terms": [
+   "automotive",
+   "vehicles",
+   "passenger",
+   "brake",
+   "components",
+   "passenger vehicles"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE073D01013",
+    "name": "Sundaram Brake Linings Limited"
+   },
+   {
+    "isin": "INE07S101038",
+    "name": "Pavna Industries Limited"
+   },
+   {
+    "isin": "INE090B01011",
+    "name": "Omax Autos Limited"
+   },
+   {
+    "isin": "INE139B01016",
+    "name": "UCAL LIMITED"
+   },
+   {
+    "isin": "INE188B01013",
+    "name": "Igarashi Motors India Limited"
+   },
+   {
+    "isin": "INE310C01029",
+    "name": "Hindustan Composites Limited"
+   },
+   {
+    "isin": "INE415D01024",
+    "name": "Bharat Seats Limited"
+   },
+   {
+    "isin": "INE547E01014",
+    "name": "India Motor Parts and Accessories Limited"
+   },
+   {
+    "isin": "INE577A01027",
+    "name": "Munjal Showa Limited"
+   },
+   {
+    "isin": "INE718H01014",
+    "name": "Autoline Industries Limited"
+   },
+   {
+    "isin": "INE900C01027",
+    "name": "Automotive Stampings and Assemblies Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

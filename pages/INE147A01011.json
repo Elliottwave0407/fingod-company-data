@@ -3,7 +3,7 @@
  "sym": "SPIC",
  "name": "Southern Petrochemicals Industries Corporation  Limited",
  "scrip": "590030",
- "mcap_cr": 1191.5,
+ "mcap_cr": 1187.02,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 36.8,
    "pat": 19.47,
    "margin_pct": 4.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 93.29,
    "pat": 66.71,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 76.87,
    "pat": 61.22,
    "margin_pct": 9.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 84.42,
    "pat": 54.07,
    "margin_pct": 10.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 44.94,
    "pat": 29.49,
    "margin_pct": 7.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 35,
-    "profit": 66,
-    "quality": 82
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,19 @@
    "ebitda": 58.79,
    "pat": 60.18,
    "margin_pct": 6.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 20,
-    "profit": 6,
-    "quality": 19
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Building",
+    "acceleration": -21.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -140,5 +156,38 @@
   "latest_guidance": [],
   "ledger": "claims/INE147A01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G20",
+  "group_name": "fertilizer, fertilizers, urea",
+  "subgroup": "G20.0",
+  "subgroup_name": "fertilizer, fertilizers, urea",
+  "terms": [
+   "fertilizer",
+   "fertilizers",
+   "urea",
+   "agriculture fertilizer",
+   "farmers",
+   "subsidy"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE414A01015",
+    "name": "Madras Fertilizers Limited"
+   },
+   {
+    "isin": "INE745B01028",
+    "name": "Khaitan Chemicals & Fertilizers Limited"
+   },
+   {
+    "isin": "INE809A01032",
+    "name": "Rama Phosphates Limited"
+   },
+   {
+    "isin": "INE840M01016",
+    "name": "Zuari Agro Chemicals Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

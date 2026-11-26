@@ -3,7 +3,7 @@
  "sym": "NITINSPIN",
  "name": "Nitin Spinners Limited",
  "scrip": "532698",
- "mcap_cr": 3928.65,
+ "mcap_cr": 3863.44,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 120.33,
    "pat": 46.37,
    "margin_pct": 14.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 111.25,
    "pat": 40.99,
    "margin_pct": 14.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 99.56,
    "pat": 34.79,
    "margin_pct": 13.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 111.54,
    "pat": 44.41,
    "margin_pct": 13.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 130.4,
    "pat": 57.36,
    "margin_pct": 15.2,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 34,
-    "profit": 53,
-    "quality": 60
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,14 @@
    "ebitda": 155.58,
    "pat": 75.27,
    "margin_pct": 17.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 63,
-    "profit": 83,
-    "quality": 91
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 18.2
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +88,14 @@
    "ebitda": 175.47,
    "pat": 88.66,
    "margin_pct": 17.8,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 86,
-    "profit": 92,
-    "quality": 97
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 20.9
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -171,5 +180,6 @@
   ],
   "ledger": "claims/INE229H01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

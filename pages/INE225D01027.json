@@ -3,7 +3,7 @@
  "sym": "SYMPHONY",
  "name": "Symphony Limited",
  "scrip": "517385",
- "mcap_cr": 3727.14,
+ "mcap_cr": 3615.89,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 31.0,
    "pat": 42.0,
    "margin_pct": 12.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 24.0,
    "pat": 19.0,
    "margin_pct": 14.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 31.0,
    "pat": 20.0,
    "margin_pct": 17.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": -159.0,
    "pat": -218.0,
    "margin_pct": -47.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,16 @@
    "ebitda": 46.0,
    "pat": 40.0,
    "margin_pct": 12.2,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 92,
-    "profit": 40,
-    "quality": 11
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit slightly down YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +73,17 @@
    "ebitda": 42.0,
    "pat": 24.0,
    "margin_pct": 15.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 50,
-    "quality": 35
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 16.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -184,5 +195,6 @@
   ],
   "ledger": "claims/INE225D01027.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

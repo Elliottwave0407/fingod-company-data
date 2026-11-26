@@ -3,7 +3,7 @@
  "sym": "DEEPINDS",
  "name": "Deep Industries Limited",
  "scrip": "543288",
- "mcap_cr": 4065.6,
+ "mcap_cr": 4009.92,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -194.4,
    "pat": -206.67,
    "margin_pct": -116.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 81.59,
    "pat": 61.7,
    "margin_pct": 40.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 91.6,
    "pat": 71.23,
    "margin_pct": 41.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 100.17,
    "pat": 71.35,
    "margin_pct": 45.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": -126.38,
    "pat": -7.22,
    "margin_pct": -50.8,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 91,
-    "profit": 39,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,14 @@
    "ebitda": 108.15,
    "pat": 89.14,
    "margin_pct": 38.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 80,
-    "profit": 29,
-    "quality": 70
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "margin down over 2 pts YoY"
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -172,5 +183,6 @@
   ],
   "ledger": "claims/INE0FHS01024.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

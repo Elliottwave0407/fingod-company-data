@@ -1,0 +1,3535 @@
+{
+ "version": "v0",
+ "built": "2026-11-26",
+ "n_companies": 312,
+ "groups": [
+  {
+   "id": "G0",
+   "size": 27,
+   "terms": [
+    "financial",
+    "loans",
+    "investment",
+    "securities",
+    "broking",
+    "lending"
+   ],
+   "subgroups": [
+    {
+     "id": "G0.0",
+     "size": 15,
+     "terms": [
+      "broking",
+      "advisory",
+      "wealth",
+      "brokerage",
+      "banking",
+      "wealth management"
+     ],
+     "name": "broking, advisory, wealth",
+     "members": [
+      {
+       "isin": "INE032B01021",
+       "name": "Prime Securities Limited"
+      },
+      {
+       "isin": "INE284H01025",
+       "name": "Dam Capital Advisors Limited"
+      },
+      {
+       "isin": "INE296H01011",
+       "name": "Emkay Global Financial Services Limited"
+      },
+      {
+       "isin": "INE323B01024",
+       "name": "Avonmore Capital & Management Services Limited"
+      },
+      {
+       "isin": "INE337M01021",
+       "name": "Indo Thai Securities Limited"
+      },
+      {
+       "isin": "INE420B01036",
+       "name": "Arihant Capital Markets Limited"
+      },
+      {
+       "isin": "INE538A01037",
+       "name": "GFL Limited"
+      },
+      {
+       "isin": "INE660C01027",
+       "name": "Centrum Capital Limited"
+      },
+      {
+       "isin": "INE677D01037",
+       "name": "Master Trust Limited"
+      },
+      {
+       "isin": "INE709A01018",
+       "name": "VLS Finance Limited"
+      },
+      {
+       "isin": "INE859A01011",
+       "name": "PNB Gilts Limited"
+      },
+      {
+       "isin": "INE865C01022",
+       "name": "Aditya Birla Money Limited"
+      },
+      {
+       "isin": "INE912L01015",
+       "name": "Onelife Capital Advisors Limited"
+      },
+      {
+       "isin": "INE924D01017",
+       "name": "The Investment Trust Of India Limited"
+      },
+      {
+       "isin": "INE966A01022",
+       "name": "Dolat Algotech Limited"
+      }
+     ]
+    },
+    {
+     "id": "G0.1",
+     "size": 11,
+     "terms": [
+      "loan",
+      "rbi",
+      "nbfc",
+      "msme",
+      "term",
+      "property"
+     ],
+     "name": "loan, rbi, nbfc",
+     "members": [
+      {
+       "isin": "INE049I01012",
+       "name": "Nahar Capital and Financial Services Limited"
+      },
+      {
+       "isin": "INE152C01025",
+       "name": "U. Y. Fincorp Limited"
+      },
+      {
+       "isin": "INE159N01027",
+       "name": "Viji Finance Limited"
+      },
+      {
+       "isin": "INE289B01019",
+       "name": "GIC Housing Finance Limited"
+      },
+      {
+       "isin": "INE289C01025",
+       "name": "Team India Guaranty Limited"
+      },
+      {
+       "isin": "INE345H01024",
+       "name": "Capital India Finance Limited"
+      },
+      {
+       "isin": "INE521J01018",
+       "name": "CP Capital Limited"
+      },
+      {
+       "isin": "INE545L01039",
+       "name": "Mangal Credit and Fincorp Limited"
+      },
+      {
+       "isin": "INE886A01014",
+       "name": "Industrial Investment Trust Limited"
+      },
+      {
+       "isin": "INE923A01015",
+       "name": "SIL Investments Limited"
+      },
+      {
+       "isin": "INE992I01013",
+       "name": "Starteck Finance Limited"
+      }
+     ]
+    },
+    {
+     "id": "G0.2",
+     "size": 1,
+     "terms": [
+      "measured",
+      "funds investment",
+      "financial activities",
+      "pension",
+      "assets",
+      "investment equity"
+     ],
+     "name": "measured, funds investment, financial activities",
+     "members": [
+      {
+       "isin": "INE519C01017",
+       "name": "Summit Securities Limited"
+      }
+     ]
+    }
+   ],
+   "name": "financial, loans, investment"
+  },
+  {
+   "id": "G1",
+   "size": 18,
+   "terms": [
+    "yarn",
+    "cotton",
+    "textile",
+    "fabrics",
+    "textiles",
+    "polyester"
+   ],
+   "subgroups": [
+    {
+     "id": "G1.0",
+     "size": 9,
+     "terms": [
+      "bci",
+      "organic",
+      "recycled",
+      "international",
+      "garment",
+      "global"
+     ],
+     "name": "bci, organic, recycled",
+     "members": [
+      {
+       "isin": "INE02EZ01022",
+       "name": "Axita Cotton Limited"
+      },
+      {
+       "isin": "INE08KP01019",
+       "name": "DCM Nouvelle Limited"
+      },
+      {
+       "isin": "INE08PH01015",
+       "name": "ABC Industries India Limited"
+      },
+      {
+       "isin": "INE290A01027",
+       "name": "Nahar Spinning Mills Limited"
+      },
+      {
+       "isin": "INE540G01014",
+       "name": "Ambika Cotton Mills Limited"
+      },
+      {
+       "isin": "INE784W01015",
+       "name": "Manomay Tex India Limited"
+      },
+      {
+       "isin": "INE835A01029",
+       "name": "Vardhman Polytex Limited"
+      },
+      {
+       "isin": "INE875G01048",
+       "name": "Nandan Denim Limited"
+      },
+      {
+       "isin": "INE882A01013",
+       "name": "Maral Overseas Limited"
+      }
+     ]
+    },
+    {
+     "id": "G1.1",
+     "size": 4,
+     "terms": [
+      "nylon",
+      "poy",
+      "textured",
+      "chips",
+      "iso",
+      "yarn poy"
+     ],
+     "name": "nylon, poy, textured",
+     "members": [
+      {
+       "isin": "INE193B01039",
+       "name": "AYM Syntex Limited"
+      },
+      {
+       "isin": "INE453D01025",
+       "name": "Sarla Performance Fibers Limited"
+      },
+      {
+       "isin": "INE533D01032",
+       "name": "Raj Rayon Industries Limited"
+      },
+      {
+       "isin": "INE963C01033",
+       "name": "Faze Three Limited"
+      }
+     ]
+    },
+    {
+     "id": "G1.2",
+     "size": 3,
+     "terms": [
+      "finished",
+      "nahar",
+      "home textiles",
+      "material",
+      "raw material",
+      "fabrics finished"
+     ],
+     "name": "finished, nahar, home textiles",
+     "members": [
+      {
+       "isin": "INE231G01010",
+       "name": "Orbit Exports Limited"
+      },
+      {
+       "isin": "INE289A01011",
+       "name": "Nahar Industrial Enterprises Limited"
+      },
+      {
+       "isin": "INE668D01028",
+       "name": "Donear Industries Limited"
+      }
+     ]
+    },
+    {
+     "id": "G1.3",
+     "size": 2,
+     "terms": [
+      "technical textile",
+      "digital",
+      "coated",
+      "clothing",
+      "coated fabrics",
+      "rubber"
+     ],
+     "name": "technical textile, digital, coated",
+     "members": [
+      {
+       "isin": "INE112D01035",
+       "name": "Mahalaxmi Rubtech Limited"
+      },
+      {
+       "isin": "INE705C01020",
+       "name": "Shiva Texyarn Limited"
+      }
+     ]
+    }
+   ],
+   "name": "yarn, cotton, textile"
+  },
+  {
+   "id": "G2",
+   "size": 17,
+   "terms": [
+    "real",
+    "real estate",
+    "estate",
+    "residential",
+    "commercial",
+    "development"
+   ],
+   "subgroups": [
+    {
+     "id": "G2.0",
+     "size": 7,
+     "terms": [
+      "properties",
+      "realty",
+      "leasing",
+      "retail",
+      "tenants",
+      "commercial property"
+     ],
+     "name": "properties, realty, leasing",
+     "members": [
+      {
+       "isin": "INE05ST01028",
+       "name": "Suratwwala Business Group Limited"
+      },
+      {
+       "isin": "INE138A01028",
+       "name": "Peninsula Land Limited"
+      },
+      {
+       "isin": "INE195N01013",
+       "name": "Prozone Realty Limited"
+      },
+      {
+       "isin": "INE559D01011",
+       "name": "Crest Ventures Limited"
+      },
+      {
+       "isin": "INE572G01025",
+       "name": "Lancor Holdings Limited"
+      },
+      {
+       "isin": "INE778K01012",
+       "name": "Emami Realty Limited"
+      },
+      {
+       "isin": "INE916G01016",
+       "name": "GeeCee Ventures Limited"
+      }
+     ]
+    },
+    {
+     "id": "G2.1",
+     "size": 5,
+     "terms": [
+      "infrastructure",
+      "industrial",
+      "epc",
+      "government",
+      "civil",
+      "entities"
+     ],
+     "name": "infrastructure, industrial, epc",
+     "members": [
+      {
+       "isin": "INE00S901012",
+       "name": "Nila Spaces Limited"
+      },
+      {
+       "isin": "INE0JVO01026",
+       "name": "Garuda Construction and Engineering Limited"
+      },
+      {
+       "isin": "INE100D01014",
+       "name": "W S Industries (I) Limited"
+      },
+      {
+       "isin": "INE350H01032",
+       "name": "B. L. Kashyap and Sons Limited"
+      },
+      {
+       "isin": "INE937C01029",
+       "name": "Nila Infrastructures Limited"
+      }
+     ]
+    },
+    {
+     "id": "G2.2",
+     "size": 3,
+     "terms": [
+      "estate real",
+      "division",
+      "rights real",
+      "estate buyers",
+      "rights",
+      "credit"
+     ],
+     "name": "estate real, division, rights real",
+     "members": [
+      {
+       "isin": "INE143A01010",
+       "name": "Oswal Greentech Limited"
+      },
+      {
+       "isin": "INE301D01026",
+       "name": "The Ruby Mills Limited"
+      },
+      {
+       "isin": "INE694A01020",
+       "name": "Unitech Limited"
+      }
+     ]
+    },
+    {
+     "id": "G2.3",
+     "size": 2,
+     "terms": [
+      "activity",
+      "colony",
+      "portfolio",
+      "plotted",
+      "companies",
+      "affordable"
+     ],
+     "name": "activity, colony, portfolio",
+     "members": [
+      {
+       "isin": "INE09E501017",
+       "name": "Ravinder Heights Limited"
+      },
+      {
+       "isin": "INE440A01010",
+       "name": "Ashima Limited"
+      }
+     ]
+    }
+   ],
+   "name": "real, real estate, estate"
+  },
+  {
+   "id": "G3",
+   "size": 12,
+   "terms": [
+    "automotive",
+    "vehicles",
+    "passenger",
+    "brake",
+    "components",
+    "passenger vehicles"
+   ],
+   "subgroups": [
+    {
+     "id": "G3.0",
+     "size": 12,
+     "terms": [
+      "automotive",
+      "vehicles",
+      "passenger",
+      "brake",
+      "components",
+      "passenger vehicles"
+     ],
+     "name": "automotive, vehicles, passenger",
+     "members": [
+      {
+       "isin": "INE073D01013",
+       "name": "Sundaram Brake Linings Limited"
+      },
+      {
+       "isin": "INE07S101038",
+       "name": "Pavna Industries Limited"
+      },
+      {
+       "isin": "INE090B01011",
+       "name": "Omax Autos Limited"
+      },
+      {
+       "isin": "INE139B01016",
+       "name": "UCAL LIMITED"
+      },
+      {
+       "isin": "INE188B01013",
+       "name": "Igarashi Motors India Limited"
+      },
+      {
+       "isin": "INE310C01029",
+       "name": "Hindustan Composites Limited"
+      },
+      {
+       "isin": "INE415D01024",
+       "name": "Bharat Seats Limited"
+      },
+      {
+       "isin": "INE547E01014",
+       "name": "India Motor Parts and Accessories Limited"
+      },
+      {
+       "isin": "INE577A01027",
+       "name": "Munjal Showa Limited"
+      },
+      {
+       "isin": "INE672B01032",
+       "name": "Munjal Auto Industries Limited"
+      },
+      {
+       "isin": "INE718H01014",
+       "name": "Autoline Industries Limited"
+      },
+      {
+       "isin": "INE900C01027",
+       "name": "Automotive Stampings and Assemblies Limited"
+      }
+     ]
+    }
+   ],
+   "name": "automotive, vehicles, passenger"
+  },
+  {
+   "id": "G4",
+   "size": 11,
+   "terms": [
+    "paper",
+    "papers",
+    "tissue",
+    "kraft",
+    "packaging",
+    "writing"
+   ],
+   "subgroups": [
+    {
+     "id": "G4.0",
+     "size": 11,
+     "terms": [
+      "paper",
+      "papers",
+      "tissue",
+      "kraft",
+      "packaging",
+      "writing"
+     ],
+     "name": "paper, papers, tissue",
+     "members": [
+      {
+       "isin": "INE01EE01011",
+       "name": "B&B Triplewall Containers Limited"
+      },
+      {
+       "isin": "INE107A01015",
+       "name": "Tamil Nadu Newsprint & Papers Limited"
+      },
+      {
+       "isin": "INE196Y01018",
+       "name": "Worth Peripherals Limited"
+      },
+      {
+       "isin": "INE278B01020",
+       "name": "Shree Rama Newsprint Limited"
+      },
+      {
+       "isin": "INE435A01051",
+       "name": "ANDHRA PAPER LIMITED"
+      },
+      {
+       "isin": "INE592A01026",
+       "name": "Orient Paper & Industries Limited"
+      },
+      {
+       "isin": "INE630A01024",
+       "name": "Seshasayee Paper and Boards Limited"
+      },
+      {
+       "isin": "INE642C01025",
+       "name": "Rubfila International Limited"
+      },
+      {
+       "isin": "INE733A01018",
+       "name": "Star Paper Mills Limited"
+      },
+      {
+       "isin": "INE865T01018",
+       "name": "Pudumjee Paper Products Limited"
+      },
+      {
+       "isin": "INE949P01018",
+       "name": "Genus Paper & Boards Limited"
+      }
+     ]
+    }
+   ],
+   "name": "paper, papers, tissue"
+  },
+  {
+   "id": "G5",
+   "size": 11,
+   "terms": [
+    "pharmaceutical",
+    "api",
+    "apis",
+    "pharmaceuticals",
+    "drugs",
+    "formulations"
+   ],
+   "subgroups": [
+    {
+     "id": "G5.0",
+     "size": 11,
+     "terms": [
+      "pharmaceutical",
+      "api",
+      "apis",
+      "pharmaceuticals",
+      "drugs",
+      "formulations"
+     ],
+     "name": "pharmaceutical, api, apis",
+     "members": [
+      {
+       "isin": "INE083B01024",
+       "name": "Themis Medicare Limited"
+      },
+      {
+       "isin": "INE0JWS01017",
+       "name": "Valiant Laboratories Limited"
+      },
+      {
+       "isin": "INE107F01022",
+       "name": "Wanbury Limited"
+      },
+      {
+       "isin": "INE155C01010",
+       "name": "Albert David Limited"
+      },
+      {
+       "isin": "INE198H01019",
+       "name": "Aarey Drugs & Pharmaceuticals Limited"
+      },
+      {
+       "isin": "INE320X01016",
+       "name": "HALEOS LABS LIMITED"
+      },
+      {
+       "isin": "INE646B01010",
+       "name": "Medicamen Biotech Limited"
+      },
+      {
+       "isin": "INE650L01011",
+       "name": "Brooks Laboratories Limited"
+      },
+      {
+       "isin": "INE788J01021",
+       "name": "Shivalik Rasayan Limited"
+      },
+      {
+       "isin": "INE878I01022",
+       "name": "Bafna Pharmaceuticals Limited"
+      },
+      {
+       "isin": "INE933A01014",
+       "name": "Lyka Labs Limited"
+      }
+     ]
+    }
+   ],
+   "name": "pharmaceutical, api, apis"
+  },
+  {
+   "id": "G6",
+   "size": 10,
+   "terms": [
+    "dyes",
+    "care",
+    "paints",
+    "intermediates",
+    "chemicals",
+    "pigments"
+   ],
+   "subgroups": [
+    {
+     "id": "G6.0",
+     "size": 10,
+     "terms": [
+      "dyes",
+      "care",
+      "paints",
+      "intermediates",
+      "chemicals",
+      "pigments"
+     ],
+     "name": "dyes, care, paints",
+     "members": [
+      {
+       "isin": "INE01NE01012",
+       "name": "Shankar Lal Rampal Dye-Chem Limited"
+      },
+      {
+       "isin": "INE09EO01013",
+       "name": "Aarti Surfactants Limited"
+      },
+      {
+       "isin": "INE138C01024",
+       "name": "Kanoria Chemicals & Industries Limited"
+      },
+      {
+       "isin": "INE256H01015",
+       "name": "Dynemic Products Limited"
+      },
+      {
+       "isin": "INE338A01024",
+       "name": "Thirumalai Chemicals Limited"
+      },
+      {
+       "isin": "INE370D01013",
+       "name": "Mangalam Organics Limited"
+      },
+      {
+       "isin": "INE492A01029",
+       "name": "Sudarshan Colorants India Limited"
+      },
+      {
+       "isin": "INE542B01011",
+       "name": "AksharChem India Limited"
+      },
+      {
+       "isin": "INE565V01010",
+       "name": "Valiant Organics Limited"
+      },
+      {
+       "isin": "INE888C01040",
+       "name": "Sadhana Nitrochem Limited"
+      }
+     ]
+    }
+   ],
+   "name": "dyes, care, paints"
+  },
+  {
+   "id": "G7",
+   "size": 10,
+   "terms": [
+    "beverages",
+    "food",
+    "hotel",
+    "food beverages",
+    "hospitality",
+    "leisure"
+   ],
+   "subgroups": [
+    {
+     "id": "G7.0",
+     "size": 10,
+     "terms": [
+      "beverages",
+      "food",
+      "hotel",
+      "food beverages",
+      "hospitality",
+      "leisure"
+     ],
+     "name": "beverages, food, hotel",
+     "members": [
+      {
+       "isin": "INE102A01024",
+       "name": "HLV LIMITED"
+      },
+      {
+       "isin": "INE199C01026",
+       "name": "Advani Hotels & Resorts (India) Limited"
+      },
+      {
+       "isin": "INE335K01011",
+       "name": "Coffee Day Enterprises Limited"
+      },
+      {
+       "isin": "INE363A01022",
+       "name": "Asian Hotels (North) Limited"
+      },
+      {
+       "isin": "INE508K01013",
+       "name": "Robust Hotels Limited"
+      },
+      {
+       "isin": "INE652F01027",
+       "name": "Country Club Hospitality & Holidays Limited"
+      },
+      {
+       "isin": "INE704H01022",
+       "name": "Cineline India Limited"
+      },
+      {
+       "isin": "INE915K01010",
+       "name": "Asian Hotels (West) Limited"
+      },
+      {
+       "isin": "INE926K01017",
+       "name": "Asian Hotels (East) Limited"
+      },
+      {
+       "isin": "INE985A01022",
+       "name": "Sinclairs Hotels Limited"
+      }
+     ]
+    }
+   ],
+   "name": "beverages, food, hotel"
+  },
+  {
+   "id": "G8",
+   "size": 9,
+   "terms": [
+    "software",
+    "technology",
+    "cloud",
+    "cmmi",
+    "information",
+    "analytics"
+   ],
+   "subgroups": [
+    {
+     "id": "G8.0",
+     "size": 9,
+     "terms": [
+      "software",
+      "technology",
+      "cloud",
+      "cmmi",
+      "information",
+      "analytics"
+     ],
+     "name": "software, technology, cloud",
+     "members": [
+      {
+       "isin": "INE020G01017",
+       "name": "Inspirisys Solutions Limited"
+      },
+      {
+       "isin": "INE110B01017",
+       "name": "Mindteck (India) Limited"
+      },
+      {
+       "isin": "INE214A01019",
+       "name": "Cybertech Systems And Software Limited"
+      },
+      {
+       "isin": "INE482B01010",
+       "name": "Tera Software Limited"
+      },
+      {
+       "isin": "INE512B01022",
+       "name": "FCS Software Solutions Limited"
+      },
+      {
+       "isin": "INE692G01013",
+       "name": "Xchanging Solutions Limited"
+      },
+      {
+       "isin": "INE727B01026",
+       "name": "Genesys International Corporation Limited"
+      },
+      {
+       "isin": "INE805A01014",
+       "name": "AION-TECH SOLUTIONS LIMITED"
+      },
+      {
+       "isin": "INE948A01012",
+       "name": "Trigyn Technologies Limited"
+      }
+     ]
+    }
+   ],
+   "name": "software, technology, cloud"
+  },
+  {
+   "id": "G9",
+   "size": 9,
+   "terms": [
+    "television",
+    "media",
+    "digital",
+    "news",
+    "advertisement",
+    "broadcasting"
+   ],
+   "subgroups": [
+    {
+     "id": "G9.0",
+     "size": 9,
+     "terms": [
+      "television",
+      "media",
+      "digital",
+      "news",
+      "advertisement",
+      "broadcasting"
+     ],
+     "name": "television, media, digital",
+     "members": [
+      {
+       "isin": "INE038F01029",
+       "name": "TV Today Network Limited"
+      },
+      {
+       "isin": "INE155G01029",
+       "name": "New Delhi Television Limited"
+      },
+      {
+       "isin": "INE199G01027",
+       "name": "Jagran Prakashan Limited"
+      },
+      {
+       "isin": "INE416A01051",
+       "name": "Aqylon Nexus Limited"
+      },
+      {
+       "isin": "INE583B01015",
+       "name": "The Sandesh Limited"
+      },
+      {
+       "isin": "INE836F01026",
+       "name": "Dish TV India Limited"
+      },
+      {
+       "isin": "INE947J01015",
+       "name": "Den Networks Limited"
+      },
+      {
+       "isin": "INE966H01019",
+       "name": "Zee Media Corporation Limited"
+      },
+      {
+       "isin": "INE982F01036",
+       "name": "Hathway Cable & Datacom Limited"
+      }
+     ]
+    }
+   ],
+   "name": "television, media, digital"
+  },
+  {
+   "id": "G10",
+   "size": 9,
+   "terms": [
+    "sugar",
+    "ethanol",
+    "molasses",
+    "bagasse",
+    "alcohol",
+    "co-generation"
+   ],
+   "subgroups": [
+    {
+     "id": "G10.0",
+     "size": 9,
+     "terms": [
+      "sugar",
+      "ethanol",
+      "molasses",
+      "bagasse",
+      "alcohol",
+      "co-generation"
+     ],
+     "name": "sugar, ethanol, molasses",
+     "members": [
+      {
+       "isin": "INE157H01023",
+       "name": "K.M.Sugar Mills Limited"
+      },
+      {
+       "isin": "INE179G01029",
+       "name": "Davangere Sugar Company Limited"
+      },
+      {
+       "isin": "INE190H01024",
+       "name": "Sakuma Exports Limited"
+      },
+      {
+       "isin": "INE623A01011",
+       "name": "Sakthi Sugars Limited"
+      },
+      {
+       "isin": "INE636A01039",
+       "name": "Mawana Sugars Limited"
+      },
+      {
+       "isin": "INE786F01031",
+       "name": "Uttam Sugar Mills Limited"
+      },
+      {
+       "isin": "INE790B01024",
+       "name": "KCP Sugar and Industries Corporation Limited"
+      },
+      {
+       "isin": "INE838E01017",
+       "name": "Ponni Sugars (Erode) Limited"
+      },
+      {
+       "isin": "INE843D01027",
+       "name": "DCM Shriram Industries Limited"
+      }
+     ]
+    }
+   ],
+   "name": "sugar, ethanol, molasses"
+  },
+  {
+   "id": "G11",
+   "size": 8,
+   "terms": [
+    "roads",
+    "highways",
+    "water",
+    "urban",
+    "construction",
+    "irrigation"
+   ],
+   "subgroups": [
+    {
+     "id": "G11.0",
+     "size": 8,
+     "terms": [
+      "roads",
+      "highways",
+      "water",
+      "urban",
+      "construction",
+      "irrigation"
+     ],
+     "name": "roads, highways, water",
+     "members": [
+      {
+       "isin": "INE050001010",
+       "name": "Prakash Pipes Limited"
+      },
+      {
+       "isin": "INE323C01030",
+       "name": "Indian Hume Pipe Company Limited"
+      },
+      {
+       "isin": "INE324L01013",
+       "name": "R.P.P. Infra Projects Limited"
+      },
+      {
+       "isin": "INE336H01023",
+       "name": "Gayatri Projects Limited"
+      },
+      {
+       "isin": "INE550H01011",
+       "name": "Supreme Infrastructure India Limited"
+      },
+      {
+       "isin": "INE863T01013",
+       "name": "JITF Infralogistics Limited"
+      },
+      {
+       "isin": "INE912H01013",
+       "name": "MBL Infrastructure Limited"
+      },
+      {
+       "isin": "INE964H01014",
+       "name": "SEPC Limited"
+      }
+     ]
+    }
+   ],
+   "name": "roads, highways, water"
+  },
+  {
+   "id": "G12",
+   "size": 6,
+   "terms": [
+    "wire",
+    "wires",
+    "cables",
+    "copper",
+    "steel",
+    "pvc"
+   ],
+   "subgroups": [
+    {
+     "id": "G12.0",
+     "size": 6,
+     "terms": [
+      "wire",
+      "wires",
+      "cables",
+      "copper",
+      "steel",
+      "pvc"
+     ],
+     "name": "wire, wires, cables",
+     "members": [
+      {
+       "isin": "INE0INJ01017",
+       "name": "Plaza Wires Limited"
+      },
+      {
+       "isin": "INE0O9T01021",
+       "name": "Indef Manufacturing Limited"
+      },
+      {
+       "isin": "INE792I01017",
+       "name": "Cords Cable Industries Limited"
+      },
+      {
+       "isin": "INE844K01012",
+       "name": "Bedmutha Industries Limited"
+      },
+      {
+       "isin": "INE864X01013",
+       "name": "D P Wires Limited"
+      },
+      {
+       "isin": "INE918N01018",
+       "name": "Veto Switchgears And Cables Limited"
+      }
+     ]
+    }
+   ],
+   "name": "wire, wires, cables"
+  },
+  {
+   "id": "G13",
+   "size": 6,
+   "terms": [
+    "telecom",
+    "networking",
+    "wireless",
+    "enterprise",
+    "telecommunications",
+    "data"
+   ],
+   "subgroups": [
+    {
+     "id": "G13.0",
+     "size": 6,
+     "terms": [
+      "telecom",
+      "networking",
+      "wireless",
+      "enterprise",
+      "telecommunications",
+      "data"
+     ],
+     "name": "telecom, networking, wireless",
+     "members": [
+      {
+       "isin": "INE153A01019",
+       "name": "Mahanagar Telephone Nigam Limited"
+      },
+      {
+       "isin": "INE178C01020",
+       "name": "Smartlink Holdings Limited"
+      },
+      {
+       "isin": "INE221H01019",
+       "name": "GTL Infrastructure Limited"
+      },
+      {
+       "isin": "INE250K01012",
+       "name": "D-Link (India) Limited"
+      },
+      {
+       "isin": "INE398B01018",
+       "name": "UMIYA BUILDCON LIMITED"
+      },
+      {
+       "isin": "INE800A01015",
+       "name": "Birla Cable Limited"
+      }
+     ]
+    }
+   ],
+   "name": "telecom, networking, wireless"
+  },
+  {
+   "id": "G14",
+   "size": 5,
+   "terms": [
+    "crop",
+    "insecticides",
+    "agricultural",
+    "herbicides",
+    "fungicides",
+    "crop protection"
+   ],
+   "subgroups": [
+    {
+     "id": "G14.0",
+     "size": 5,
+     "terms": [
+      "crop",
+      "insecticides",
+      "agricultural",
+      "herbicides",
+      "fungicides",
+      "crop protection"
+     ],
+     "name": "crop, insecticides, agricultural",
+     "members": [
+      {
+       "isin": "INE02H701025",
+       "name": "Nova Agritech Limited"
+      },
+      {
+       "isin": "INE032Z01020",
+       "name": "Bombay Super Hybrid Seeds Limited"
+      },
+      {
+       "isin": "INE298I01015",
+       "name": "Aries Agro Limited"
+      },
+      {
+       "isin": "INE563J01010",
+       "name": "Astec LifeSciences Limited"
+      },
+      {
+       "isin": "INE838B01021",
+       "name": "Bharat Rasayan Limited"
+      }
+     ]
+    }
+   ],
+   "name": "crop, insecticides, agricultural"
+  },
+  {
+   "id": "G15",
+   "size": 5,
+   "terms": [
+    "bags",
+    "jute",
+    "woven",
+    "packaging",
+    "hdpe",
+    "fibc"
+   ],
+   "subgroups": [
+    {
+     "id": "G15.0",
+     "size": 5,
+     "terms": [
+      "bags",
+      "jute",
+      "woven",
+      "packaging",
+      "hdpe",
+      "fibc"
+     ],
+     "name": "bags, jute, woven",
+     "members": [
+      {
+       "isin": "INE035801013",
+       "name": "Aeroflex Neu Limited"
+      },
+      {
+       "isin": "INE065D01027",
+       "name": "Aeroflex Enterprises Limited"
+      },
+      {
+       "isin": "INE073V01015",
+       "name": "Commercial Syn Bags Limited"
+      },
+      {
+       "isin": "INE350Z01018",
+       "name": "Gloster Limited"
+      },
+      {
+       "isin": "INE974B01016",
+       "name": "Cheviot Company Limited"
+      }
+     ]
+    }
+   ],
+   "name": "bags, jute, woven"
+  },
+  {
+   "id": "G16",
+   "size": 5,
+   "terms": [
+    "tea",
+    "tea market",
+    "leaves",
+    "leaf",
+    "tea leaves",
+    "market"
+   ],
+   "subgroups": [
+    {
+     "id": "G16.0",
+     "size": 5,
+     "terms": [
+      "tea",
+      "tea market",
+      "leaves",
+      "leaf",
+      "tea leaves",
+      "market"
+     ],
+     "name": "tea, tea market, leaves",
+     "members": [
+      {
+       "isin": "INE047B01011",
+       "name": "Gillanders Arbuthnot & Company Limited"
+      },
+      {
+       "isin": "INE364A01020",
+       "name": "Jayshree Tea & Industries Limited"
+      },
+      {
+       "isin": "INE544A01019",
+       "name": "Harrisons  Malayalam Limited"
+      },
+      {
+       "isin": "INE847C01020",
+       "name": "Rossell India Limited"
+      },
+      {
+       "isin": "INE942G01012",
+       "name": "Mcleod Russel India Limited"
+      }
+     ]
+    }
+   ],
+   "name": "tea, tea market, leaves"
+  },
+  {
+   "id": "G17",
+   "size": 5,
+   "terms": [
+    "mining",
+    "construction",
+    "handling",
+    "equipment",
+    "material handling",
+    "spares"
+   ],
+   "subgroups": [
+    {
+     "id": "G17.0",
+     "size": 5,
+     "terms": [
+      "mining",
+      "construction",
+      "handling",
+      "equipment",
+      "material handling",
+      "spares"
+     ],
+     "name": "mining, construction, handling",
+     "members": [
+      {
+       "isin": "INE0DAB01012",
+       "name": "Revathi Equipment India Limited"
+      },
+      {
+       "isin": "INE158B01016",
+       "name": "Eimco Elecon (India) Limited"
+      },
+      {
+       "isin": "INE391D01019",
+       "name": "TRF Limited"
+      },
+      {
+       "isin": "INE748A01024",
+       "name": "Mcnally Bharat Engineering Company Limited"
+      },
+      {
+       "isin": "INE826C01016",
+       "name": "Gujarat Apollo Industries Limited"
+      }
+     ]
+    }
+   ],
+   "name": "mining, construction, handling"
+  },
+  {
+   "id": "G18",
+   "size": 5,
+   "terms": [
+    "agrochemicals",
+    "chemicals",
+    "amines",
+    "pharmaceuticals",
+    "agrochemicals pharmaceuticals",
+    "specialty chemicals"
+   ],
+   "subgroups": [
+    {
+     "id": "G18.0",
+     "size": 5,
+     "terms": [
+      "agrochemicals",
+      "chemicals",
+      "amines",
+      "pharmaceuticals",
+      "agrochemicals pharmaceuticals",
+      "specialty chemicals"
+     ],
+     "name": "agrochemicals, chemicals, amines",
+     "members": [
+      {
+       "isin": "INE120D01012",
+       "name": "Hitech Corporation Limited"
+      },
+      {
+       "isin": "INE275D01022",
+       "name": "Amines & Plasticizers Limited"
+      },
+      {
+       "isin": "INE413G01022",
+       "name": "TPL Plastech Limited"
+      },
+      {
+       "isin": "INE591D01014",
+       "name": "Diamines & Chemicals Limited"
+      },
+      {
+       "isin": "INE760F01028",
+       "name": "Indo Amines Limited"
+      }
+     ]
+    }
+   ],
+   "name": "agrochemicals, chemicals, amines"
+  },
+  {
+   "id": "G19",
+   "size": 5,
+   "terms": [
+    "precision",
+    "defence",
+    "components",
+    "aerospace",
+    "auto",
+    "gears"
+   ],
+   "subgroups": [
+    {
+     "id": "G19.0",
+     "size": 5,
+     "terms": [
+      "precision",
+      "defence",
+      "components",
+      "aerospace",
+      "auto",
+      "gears"
+     ],
+     "name": "precision, defence, components",
+     "members": [
+      {
+       "isin": "INE127B01011",
+       "name": "The Hi-Tech Gears Limited"
+      },
+      {
+       "isin": "INE274C01019",
+       "name": "Wendt (India) Limited"
+      },
+      {
+       "isin": "INE397H01017",
+       "name": "Lokesh Machines Limited"
+      },
+      {
+       "isin": "INE637H01024",
+       "name": "Shivam Autotech Limited"
+      },
+      {
+       "isin": "INE711A01022",
+       "name": "Walchandnagar Industries Limited"
+      }
+     ]
+    }
+   ],
+   "name": "precision, defence, components"
+  },
+  {
+   "id": "G20",
+   "size": 5,
+   "terms": [
+    "fertilizer",
+    "fertilizers",
+    "urea",
+    "agriculture fertilizer",
+    "farmers",
+    "subsidy"
+   ],
+   "subgroups": [
+    {
+     "id": "G20.0",
+     "size": 5,
+     "terms": [
+      "fertilizer",
+      "fertilizers",
+      "urea",
+      "agriculture fertilizer",
+      "farmers",
+      "subsidy"
+     ],
+     "name": "fertilizer, fertilizers, urea",
+     "members": [
+      {
+       "isin": "INE147A01011",
+       "name": "Southern Petrochemicals Industries Corporation  Limited"
+      },
+      {
+       "isin": "INE414A01015",
+       "name": "Madras Fertilizers Limited"
+      },
+      {
+       "isin": "INE745B01028",
+       "name": "Khaitan Chemicals & Fertilizers Limited"
+      },
+      {
+       "isin": "INE809A01032",
+       "name": "Rama Phosphates Limited"
+      },
+      {
+       "isin": "INE840M01016",
+       "name": "Zuari Agro Chemicals Limited"
+      }
+     ]
+    }
+   ],
+   "name": "fertilizer, fertilizers, urea"
+  },
+  {
+   "id": "G21",
+   "size": 5,
+   "terms": [
+    "caustic",
+    "caustic soda",
+    "soda",
+    "chlor-alkali",
+    "chlorine",
+    "chloride"
+   ],
+   "subgroups": [
+    {
+     "id": "G21.0",
+     "size": 5,
+     "terms": [
+      "caustic",
+      "caustic soda",
+      "soda",
+      "chlor-alkali",
+      "chlorine",
+      "chloride"
+     ],
+     "name": "caustic, caustic soda, soda",
+     "members": [
+      {
+       "isin": "INE148A01019",
+       "name": "Tamilnadu PetroProducts Limited"
+      },
+      {
+       "isin": "INE244A01016",
+       "name": "De Nora India Limited"
+      },
+      {
+       "isin": "INE607A01022",
+       "name": "Primo Chemicals Limited"
+      },
+      {
+       "isin": "INE715B01021",
+       "name": "The Andhra Sugars Limited"
+      },
+      {
+       "isin": "INE783X01023",
+       "name": "Chemfab Alkalis Limited"
+      }
+     ]
+    }
+   ],
+   "name": "caustic, caustic soda, soda"
+  },
+  {
+   "id": "G22",
+   "size": 5,
+   "terms": [
+    "solar",
+    "batteries",
+    "rooftop",
+    "modules",
+    "energy",
+    "renewable energy"
+   ],
+   "subgroups": [
+    {
+     "id": "G22.0",
+     "size": 5,
+     "terms": [
+      "solar",
+      "batteries",
+      "rooftop",
+      "modules",
+      "energy",
+      "renewable energy"
+     ],
+     "name": "solar, batteries, rooftop",
+     "members": [
+      {
+       "isin": "INE403Y01018",
+       "name": "Innovana Thinklabs Limited"
+      },
+      {
+       "isin": "INE409B01013",
+       "name": "Swelect Energy Systems Limited"
+      },
+      {
+       "isin": "INE550C01020",
+       "name": "Urja Global Limited"
+      },
+      {
+       "isin": "INE567A01028",
+       "name": "Indo-National Limited"
+      },
+      {
+       "isin": "INE866K01023",
+       "name": "Indosolar Limited"
+      }
+     ]
+    }
+   ],
+   "name": "solar, batteries, rooftop"
+  },
+  {
+   "id": "G23",
+   "size": 4,
+   "terms": [
+    "sheets",
+    "coils",
+    "rolled",
+    "colour",
+    "coils sheets",
+    "colour coated"
+   ],
+   "subgroups": [
+    {
+     "id": "G23.0",
+     "size": 4,
+     "terms": [
+      "sheets",
+      "coils",
+      "rolled",
+      "colour",
+      "coils sheets",
+      "colour coated"
+     ],
+     "name": "sheets, coils, rolled",
+     "members": [
+      {
+       "isin": "INE015D01022",
+       "name": "Manaksia Limited"
+      },
+      {
+       "isin": "INE230R01035",
+       "name": "Rama Steel Tubes Limited"
+      },
+      {
+       "isin": "INE824Q01011",
+       "name": "Manaksia Steels Limited"
+      },
+      {
+       "isin": "INE859Q01017",
+       "name": "Manaksia Aluminium Company Limited"
+      }
+     ]
+    }
+   ],
+   "name": "sheets, coils, rolled"
+  },
+  {
+   "id": "G24",
+   "size": 4,
+   "terms": [
+    "castor",
+    "castor oil",
+    "edible",
+    "oil",
+    "mustard",
+    "edible oils"
+   ],
+   "subgroups": [
+    {
+     "id": "G24.0",
+     "size": 4,
+     "terms": [
+      "castor",
+      "castor oil",
+      "edible",
+      "oil",
+      "mustard",
+      "edible oils"
+     ],
+     "name": "castor, castor oil, edible",
+     "members": [
+      {
+       "isin": "INE020J01029",
+       "name": "Gokul Refoils and Solvent Limited"
+      },
+      {
+       "isin": "INE0APB01032",
+       "name": "Mangalam Global Enterprise Limited"
+      },
+      {
+       "isin": "INE785A01026",
+       "name": "Jayant Agro Organics Limited"
+      },
+      {
+       "isin": "INE798K01010",
+       "name": "Kriti Nutrients Limited"
+      }
+     ]
+    }
+   ],
+   "name": "castor, castor oil, edible"
+  },
+  {
+   "id": "G25",
+   "size": 4,
+   "terms": [
+    "cement",
+    "clinker",
+    "cement clinker",
+    "limestone",
+    "fuels",
+    "clinker cement"
+   ],
+   "subgroups": [
+    {
+     "id": "G25.0",
+     "size": 4,
+     "terms": [
+      "cement",
+      "clinker",
+      "cement clinker",
+      "limestone",
+      "fuels",
+      "clinker cement"
+     ],
+     "name": "cement, clinker, cement clinker",
+     "members": [
+      {
+       "isin": "INE071F01012",
+       "name": "Anjani Portland Cement Limited"
+      },
+      {
+       "isin": "INE583C01021",
+       "name": "Deccan Cements Limited"
+      },
+      {
+       "isin": "INE626A01014",
+       "name": "Saurashtra Cement Limited"
+      },
+      {
+       "isin": "INE666E01020",
+       "name": "Andhra Cements Limited"
+      }
+     ]
+    }
+   ],
+   "name": "cement, clinker, cement clinker"
+  },
+  {
+   "id": "G26",
+   "size": 4,
+   "terms": [
+    "footwear",
+    "leather",
+    "accessories",
+    "leather goods",
+    "footwear leather",
+    "footwear accessories"
+   ],
+   "subgroups": [
+    {
+     "id": "G26.0",
+     "size": 4,
+     "terms": [
+      "footwear",
+      "leather",
+      "accessories",
+      "leather goods",
+      "footwear leather",
+      "footwear accessories"
+     ],
+     "name": "footwear, leather, accessories",
+     "members": [
+      {
+       "isin": "INE099F01013",
+       "name": "Sreeleathers Limited"
+      },
+      {
+       "isin": "INE557B01019",
+       "name": "Liberty Shoes Limited"
+      },
+      {
+       "isin": "INE771A01026",
+       "name": "Mirza International Limited"
+      },
+      {
+       "isin": "INE828A01016",
+       "name": "Bhartiya International Limited"
+      }
+     ]
+    }
+   ],
+   "name": "footwear, leather, accessories"
+  },
+  {
+   "id": "G27",
+   "size": 3,
+   "terms": [
+    "warehousing",
+    "freight",
+    "logistics",
+    "transportation",
+    "integrated logistics",
+    "supply chain"
+   ],
+   "subgroups": [
+    {
+     "id": "G27.0",
+     "size": 3,
+     "terms": [
+      "warehousing",
+      "freight",
+      "logistics",
+      "transportation",
+      "integrated logistics",
+      "supply chain"
+     ],
+     "name": "warehousing, freight, logistics",
+     "members": [
+      {
+       "isin": "INE00CA01015",
+       "name": "TREJHARA SOLUTIONS LIMITED"
+      },
+      {
+       "isin": "INE075B01020",
+       "name": "Sical Logistics Limited"
+      },
+      {
+       "isin": "INE553C01016",
+       "name": "North Eastern Carrying Corporation Limited"
+      }
+     ]
+    }
+   ],
+   "name": "warehousing, freight, logistics"
+  },
+  {
+   "id": "G28",
+   "size": 3,
+   "terms": [
+    "fine",
+    "pharmaceutical",
+    "chemical",
+    "chemicals fine",
+    "chemicals",
+    "laboratory"
+   ],
+   "subgroups": [
+    {
+     "id": "G28.0",
+     "size": 3,
+     "terms": [
+      "fine",
+      "pharmaceutical",
+      "chemical",
+      "chemicals fine",
+      "chemicals",
+      "laboratory"
+     ],
+     "name": "fine, pharmaceutical, chemical",
+     "members": [
+      {
+       "isin": "INE02L001032",
+       "name": "Borosil Scientific Limited"
+      },
+      {
+       "isin": "INE03YM01018",
+       "name": "Chemcon Speciality Chemicals Limited"
+      },
+      {
+       "isin": "INE0ATZ01017",
+       "name": "Kronox Lab Sciences Limited"
+      }
+     ]
+    }
+   ],
+   "name": "fine, pharmaceutical, chemical"
+  },
+  {
+   "id": "G29",
+   "size": 3,
+   "terms": [
+    "petroleum",
+    "pipeline",
+    "support",
+    "reliance",
+    "reliance industries",
+    "infrastructure support"
+   ],
+   "subgroups": [
+    {
+     "id": "G29.0",
+     "size": 3,
+     "terms": [
+      "petroleum",
+      "pipeline",
+      "support",
+      "reliance",
+      "reliance industries",
+      "infrastructure support"
+     ],
+     "name": "petroleum, pipeline, support",
+     "members": [
+      {
+       "isin": "INE046A01015",
+       "name": "Reliance Industrial Infrastructure Limited"
+      },
+      {
+       "isin": "INE060901027",
+       "name": "Likhitha Infrastructure Limited"
+      },
+      {
+       "isin": "INE754X01016",
+       "name": "Aarvi Encon Limited"
+      }
+     ]
+    }
+   ],
+   "name": "petroleum, pipeline, support"
+  },
+  {
+   "id": "G30",
+   "size": 3,
+   "terms": [
+    "insurance",
+    "banking",
+    "financial",
+    "digitization",
+    "printing",
+    "scanning"
+   ],
+   "subgroups": [
+    {
+     "id": "G30.0",
+     "size": 3,
+     "terms": [
+      "insurance",
+      "banking",
+      "financial",
+      "digitization",
+      "printing",
+      "scanning"
+     ],
+     "name": "insurance, banking, financial",
+     "members": [
+      {
+       "isin": "INE051B01021",
+       "name": "Vakrangee Limited"
+      },
+      {
+       "isin": "INE0B1K01014",
+       "name": "DJ Mediaprint & Logistics Limited"
+      },
+      {
+       "isin": "INE914E01040",
+       "name": "Alankit Limited"
+      }
+     ]
+    }
+   ],
+   "name": "insurance, banking, financial"
+  },
+  {
+   "id": "G31",
+   "size": 3,
+   "terms": [
+    "defence",
+    "aerospace",
+    "defence aerospace",
+    "rocket",
+    "devices",
+    "technologies"
+   ],
+   "subgroups": [
+    {
+     "id": "G31.0",
+     "size": 3,
+     "terms": [
+      "defence",
+      "aerospace",
+      "defence aerospace",
+      "rocket",
+      "devices",
+      "technologies"
+     ],
+     "name": "defence, aerospace, defence aerospace",
+     "members": [
+      {
+       "isin": "INE077F01035",
+       "name": "GOCL Corporation Limited"
+      },
+      {
+       "isin": "INE149O01018",
+       "name": "NIBE Limited"
+      },
+      {
+       "isin": "INE641C01019",
+       "name": "Kavveri Defence & Wireless Technologies Limited"
+      }
+     ]
+    }
+   ],
+   "name": "defence, aerospace, defence aerospace"
+  },
+  {
+   "id": "G32",
+   "size": 3,
+   "terms": [
+    "masterbatches",
+    "packaging automotive",
+    "plastics",
+    "masterbatch",
+    "packaging",
+    "resins"
+   ],
+   "subgroups": [
+    {
+     "id": "G32.0",
+     "size": 3,
+     "terms": [
+      "masterbatches",
+      "packaging automotive",
+      "plastics",
+      "masterbatch",
+      "packaging",
+      "resins"
+     ],
+     "name": "masterbatches, packaging automotive, plastics",
+     "members": [
+      {
+       "isin": "INE083C01022",
+       "name": "Plastiblends India Limited"
+      },
+      {
+       "isin": "INE371C01013",
+       "name": "Poddar Pigments Limited"
+      },
+      {
+       "isin": "INE535F01024",
+       "name": "Rajoo Engineers Limited"
+      }
+     ]
+    }
+   ],
+   "name": "masterbatches, packaging automotive, plastics"
+  },
+  {
+   "id": "G33",
+   "size": 3,
+   "terms": [
+    "tubes",
+    "seamless",
+    "seamless pipes",
+    "pipes tubes",
+    "steel",
+    "pipes"
+   ],
+   "subgroups": [
+    {
+     "id": "G33.0",
+     "size": 3,
+     "terms": [
+      "tubes",
+      "seamless",
+      "seamless pipes",
+      "pipes tubes",
+      "steel",
+      "pipes"
+     ],
+     "name": "tubes, seamless, seamless pipes",
+     "members": [
+      {
+       "isin": "INE0JYY01029",
+       "name": "Mangalam Worldwide Limited"
+      },
+      {
+       "isin": "INE524B01027",
+       "name": "Gandhi Special Tubes Limited"
+      },
+      {
+       "isin": "INE713C01016",
+       "name": "Suraj Limited"
+      }
+     ]
+    }
+   ],
+   "name": "tubes, seamless, seamless pipes"
+  },
+  {
+   "id": "G34",
+   "size": 3,
+   "terms": [
+    "training",
+    "education",
+    "educational",
+    "course fees",
+    "course",
+    "institute"
+   ],
+   "subgroups": [
+    {
+     "id": "G34.0",
+     "size": 3,
+     "terms": [
+      "training",
+      "education",
+      "educational",
+      "course fees",
+      "course",
+      "institute"
+     ],
+     "name": "training, education, educational",
+     "members": [
+      {
+       "isin": "INE0PB301013",
+       "name": "Shipping Corporation of India Land and Assets Limited"
+      },
+      {
+       "isin": "INE266F01018",
+       "name": "Aptech Limited"
+      },
+      {
+       "isin": "INE565L01011",
+       "name": "Zee Learn Limited"
+      }
+     ]
+    }
+   ],
+   "name": "training, education, educational"
+  },
+  {
+   "id": "G35",
+   "size": 3,
+   "terms": [
+    "jewellery",
+    "gold",
+    "diamonds",
+    "gold jewellery",
+    "gold silver",
+    "precious"
+   ],
+   "subgroups": [
+    {
+     "id": "G35.0",
+     "size": 3,
+     "terms": [
+      "jewellery",
+      "gold",
+      "diamonds",
+      "gold jewellery",
+      "gold silver",
+      "precious"
+     ],
+     "name": "jewellery, gold, diamonds",
+     "members": [
+      {
+       "isin": "INE123C01018",
+       "name": "Tainwala Chemical and Plastic (I) Limited"
+      },
+      {
+       "isin": "INE218C01016",
+       "name": "Ausom Enterprise Limited"
+      },
+      {
+       "isin": "INE583V01021",
+       "name": "Radhika Jeweltech Ltd"
+      }
+     ]
+    }
+   ],
+   "name": "jewellery, gold, diamonds"
+  },
+  {
+   "id": "G36",
+   "size": 3,
+   "terms": [
+    "copper",
+    "rods",
+    "copper copper",
+    "switchgear",
+    "electrical equipment",
+    "alloys"
+   ],
+   "subgroups": [
+    {
+     "id": "G36.0",
+     "size": 3,
+     "terms": [
+      "copper",
+      "rods",
+      "copper copper",
+      "switchgear",
+      "electrical equipment",
+      "alloys"
+     ],
+     "name": "copper, rods, copper copper",
+     "members": [
+      {
+       "isin": "INE134B01017",
+       "name": "Kirloskar Electric Company Limited"
+      },
+      {
+       "isin": "INE144D01012",
+       "name": "Cubex Tubings Limited"
+      },
+      {
+       "isin": "INE737D01021",
+       "name": "MODISON LIMITED"
+      }
+     ]
+    }
+   ],
+   "name": "copper, rods, copper copper"
+  },
+  {
+   "id": "G37",
+   "size": 3,
+   "terms": [
+    "films",
+    "dhunseri",
+    "bopet",
+    "ventures",
+    "bakery",
+    "bopp"
+   ],
+   "subgroups": [
+    {
+     "id": "G37.0",
+     "size": 3,
+     "terms": [
+      "films",
+      "dhunseri",
+      "bopet",
+      "ventures",
+      "bakery",
+      "bopp"
+     ],
+     "name": "films, dhunseri, bopet",
+     "members": [
+      {
+       "isin": "INE308A01027",
+       "name": "Nahar Poly Films Limited"
+      },
+      {
+       "isin": "INE320L01011",
+       "name": "Dhunseri Investments Limited"
+      },
+      {
+       "isin": "INE477B01010",
+       "name": "Dhunseri Ventures Limited"
+      }
+     ]
+    }
+   ],
+   "name": "films, dhunseri, bopet"
+  },
+  {
+   "id": "G38",
+   "size": 3,
+   "terms": [
+    "oil gas",
+    "exploration",
+    "gas",
+    "oil",
+    "drilling",
+    "gas exploration"
+   ],
+   "subgroups": [
+    {
+     "id": "G38.0",
+     "size": 3,
+     "terms": [
+      "oil gas",
+      "exploration",
+      "gas",
+      "oil",
+      "drilling",
+      "gas exploration"
+     ],
+     "name": "oil gas, exploration, gas",
+     "members": [
+      {
+       "isin": "INE569C01020",
+       "name": "ORIENT CERATECH LIMITED"
+      },
+      {
+       "isin": "INE591A01010",
+       "name": "Oil Country Tubular Limited"
+      },
+      {
+       "isin": "INE961D01019",
+       "name": "United Drilling Tools Limited"
+      }
+     ]
+    }
+   ],
+   "name": "oil gas, exploration, gas"
+  },
+  {
+   "id": "G39",
+   "size": 2,
+   "terms": [
+    "films",
+    "tier",
+    "government procurement",
+    "last-mile",
+    "three-wheelers",
+    "tier iii"
+   ],
+   "subgroups": [
+    {
+     "id": "G39.0",
+     "size": 2,
+     "terms": [
+      "films",
+      "tier",
+      "government procurement",
+      "last-mile",
+      "three-wheelers",
+      "tier iii"
+     ],
+     "name": "films, tier, government procurement",
+     "members": [
+      {
+       "isin": "INE03V001013",
+       "name": "Universus Photo Imagings Limited"
+      },
+      {
+       "isin": "INE951D01028",
+       "name": "Atul Auto Limited"
+      }
+     ]
+    }
+   ],
+   "name": "films, tier, government procurement"
+  },
+  {
+   "id": "G40",
+   "size": 2,
+   "terms": [
+    "fund management",
+    "fund",
+    "venture",
+    "guest",
+    "sand",
+    "joint venture"
+   ],
+   "subgroups": [
+    {
+     "id": "G40.0",
+     "size": 2,
+     "terms": [
+      "fund management",
+      "fund",
+      "venture",
+      "guest",
+      "sand",
+      "joint venture"
+     ],
+     "name": "fund management, fund, venture",
+     "members": [
+      {
+       "isin": "INE050B01023",
+       "name": "IL&FS Investment Managers Limited"
+      },
+      {
+       "isin": "INE832A01018",
+       "name": "Modi Rubber Limited"
+      }
+     ]
+    }
+   ],
+   "name": "fund management, fund, venture"
+  },
+  {
+   "id": "G41",
+   "size": 2,
+   "terms": [
+    "fish",
+    "shrimp",
+    "marine",
+    "feed",
+    "seafood",
+    "frozen"
+   ],
+   "subgroups": [
+    {
+     "id": "G41.0",
+     "size": 2,
+     "terms": [
+      "fish",
+      "shrimp",
+      "marine",
+      "feed",
+      "seafood",
+      "frozen"
+     ],
+     "name": "fish, shrimp, marine",
+     "members": [
+      {
+       "isin": "INE076C01018",
+       "name": "IFB Agro Industries Limited"
+      },
+      {
+       "isin": "INE0CG401037",
+       "name": "Mukka Proteins Limited"
+      }
+     ]
+    }
+   ],
+   "name": "fish, shrimp, marine"
+  },
+  {
+   "id": "G42",
+   "size": 2,
+   "terms": [
+    "ethnic",
+    "wear",
+    "ethnic wear",
+    "rayon",
+    "viscose",
+    "paper chemicals"
+   ],
+   "subgroups": [
+    {
+     "id": "G42.0",
+     "size": 2,
+     "terms": [
+      "ethnic",
+      "wear",
+      "ethnic wear",
+      "rayon",
+      "viscose",
+      "paper chemicals"
+     ],
+     "name": "ethnic, wear, ethnic wear",
+     "members": [
+      {
+       "isin": "INE087A01019",
+       "name": "Kesoram Industries Limited"
+      },
+      {
+       "isin": "INE0PQ101010",
+       "name": "Saraswati Saree Depot Limited"
+      }
+     ]
+    }
+   ],
+   "name": "ethnic, wear, ethnic wear"
+  },
+  {
+   "id": "G43",
+   "size": 2,
+   "terms": [
+    "devices",
+    "healthcare",
+    "medical devices",
+    "protective",
+    "foods",
+    "million"
+   ],
+   "subgroups": [
+    {
+     "id": "G43.0",
+     "size": 2,
+     "terms": [
+      "devices",
+      "healthcare",
+      "medical devices",
+      "protective",
+      "foods",
+      "million"
+     ],
+     "name": "devices, healthcare, medical devices",
+     "members": [
+      {
+       "isin": "INE0DSF01015",
+       "name": "Nureca Limited"
+      },
+      {
+       "isin": "INE910C01018",
+       "name": "TTK Healthcare Limited"
+      }
+     ]
+    }
+   ],
+   "name": "devices, healthcare, medical devices"
+  },
+  {
+   "id": "G44",
+   "size": 2,
+   "terms": [
+    "tmt",
+    "iron",
+    "tmt bars",
+    "bars",
+    "billets",
+    "sponge"
+   ],
+   "subgroups": [
+    {
+     "id": "G44.0",
+     "size": 2,
+     "terms": [
+      "tmt",
+      "iron",
+      "tmt bars",
+      "bars",
+      "billets",
+      "sponge"
+     ],
+     "name": "tmt, iron, tmt bars",
+     "members": [
+      {
+       "isin": "INE0S2V01010",
+       "name": "Vraj Iron and Steel Limited"
+      },
+      {
+       "isin": "INE822G01016",
+       "name": "Electrotherm (India) Limited"
+      }
+     ]
+    }
+   ],
+   "name": "tmt, iron, tmt bars"
+  },
+  {
+   "id": "G45",
+   "size": 2,
+   "terms": [
+    "investment",
+    "investment financing",
+    "finance investment",
+    "finance",
+    "financing",
+    "financing investment"
+   ],
+   "subgroups": [
+    {
+     "id": "G45.0",
+     "size": 2,
+     "terms": [
+      "investment",
+      "investment financing",
+      "finance investment",
+      "finance",
+      "financing",
+      "financing investment"
+     ],
+     "name": "investment, investment financing, finance investment",
+     "members": [
+      {
+       "isin": "INE147P01019",
+       "name": "Jindal Poly Investment and Finance Company Limited"
+      },
+      {
+       "isin": "INE878K01010",
+       "name": "BF Investment Limited"
+      }
+     ]
+    }
+   ],
+   "name": "investment, investment financing, finance investment"
+  },
+  {
+   "id": "G46",
+   "size": 2,
+   "terms": [
+    "transmission",
+    "power transmission",
+    "transmission distribution",
+    "transmission lines",
+    "lines",
+    "facility management"
+   ],
+   "subgroups": [
+    {
+     "id": "G46.0",
+     "size": 2,
+     "terms": [
+      "transmission",
+      "power transmission",
+      "transmission distribution",
+      "transmission lines",
+      "lines",
+      "facility management"
+     ],
+     "name": "transmission, power transmission, transmission distribution",
+     "members": [
+      {
+       "isin": "INE197A01024",
+       "name": "Jyoti Structures Limited"
+      },
+      {
+       "isin": "INE619I01012",
+       "name": "A2Z Infra Engineering Limited"
+      }
+     ]
+    }
+   ],
+   "name": "transmission, power transmission, transmission distribution"
+  },
+  {
+   "id": "G47",
+   "size": 2,
+   "terms": [
+    "listed holding",
+    "holdings listed",
+    "holding",
+    "holdings",
+    "rendering",
+    "listed"
+   ],
+   "subgroups": [
+    {
+     "id": "G47.0",
+     "size": 2,
+     "terms": [
+      "listed holding",
+      "holdings listed",
+      "holding",
+      "holdings",
+      "rendering",
+      "listed"
+     ],
+     "name": "listed holding, holdings listed, holding",
+     "members": [
+      {
+       "isin": "INE236A01020",
+       "name": "HCL Infosystems Limited"
+      },
+      {
+       "isin": "INE577L01016",
+       "name": "Stel Holdings Limited"
+      }
+     ]
+    }
+   ],
+   "name": "listed holding, holdings listed, holding"
+  },
+  {
+   "id": "G48",
+   "size": 2,
+   "terms": [
+    "electricity",
+    "renewable energy",
+    "renewable",
+    "energy certificate",
+    "rec",
+    "toll"
+   ],
+   "subgroups": [
+    {
+     "id": "G48.0",
+     "size": 2,
+     "terms": [
+      "electricity",
+      "renewable energy",
+      "renewable",
+      "energy certificate",
+      "rec",
+      "toll"
+     ],
+     "name": "electricity, renewable energy, renewable",
+     "members": [
+      {
+       "isin": "INE243D01012",
+       "name": "BF Utilities Ltd-$"
+      },
+      {
+       "isin": "INE435C01024",
+       "name": "Texmaco Infrastructure & Holdings Limited"
+      }
+     ]
+    }
+   ],
+   "name": "electricity, renewable energy, renewable"
+  },
+  {
+   "id": "G49",
+   "size": 2,
+   "terms": [
+    "monomer",
+    "vinyl acetate",
+    "acetate monomer",
+    "pidilite",
+    "vinyl",
+    "acetate"
+   ],
+   "subgroups": [
+    {
+     "id": "G49.0",
+     "size": 2,
+     "terms": [
+      "monomer",
+      "vinyl acetate",
+      "acetate monomer",
+      "pidilite",
+      "vinyl",
+      "acetate"
+     ],
+     "name": "monomer, vinyl acetate, acetate monomer",
+     "members": [
+      {
+       "isin": "INE250B01029",
+       "name": "Vinyl Chemicals (India) Limited"
+      },
+      {
+       "isin": "INE818B01023",
+       "name": "Pasupati Acrylon Limited"
+      }
+     ]
+    }
+   ],
+   "name": "monomer, vinyl acetate, acetate monomer"
+  },
+  {
+   "id": "G50",
+   "size": 2,
+   "terms": [
+    "ferro",
+    "chrome",
+    "ferro chrome",
+    "ferro alloys",
+    "alloys",
+    "conversion"
+   ],
+   "subgroups": [
+    {
+     "id": "G50.0",
+     "size": 2,
+     "terms": [
+      "ferro",
+      "chrome",
+      "ferro chrome",
+      "ferro alloys",
+      "alloys",
+      "conversion"
+     ],
+     "name": "ferro, chrome, ferro chrome",
+     "members": [
+      {
+       "isin": "INE286H01012",
+       "name": "VISA Chrome Limited"
+      },
+      {
+       "isin": "INE658G01014",
+       "name": "S.A.L. Steel Limited"
+      }
+     ]
+    }
+   ],
+   "name": "ferro, chrome, ferro chrome"
+  },
+  {
+   "id": "G51",
+   "size": 2,
+   "terms": [
+    "kitchen",
+    "architectural",
+    "appliances",
+    "hardware",
+    "fittings",
+    "aluminium"
+   ],
+   "subgroups": [
+    {
+     "id": "G51.0",
+     "size": 2,
+     "terms": [
+      "kitchen",
+      "architectural",
+      "appliances",
+      "hardware",
+      "fittings",
+      "aluminium"
+     ],
+     "name": "kitchen, architectural, appliances",
+     "members": [
+      {
+       "isin": "INE295F01017",
+       "name": "Butterfly Gandhimathi Appliances Limited"
+      },
+      {
+       "isin": "INE626Z01029",
+       "name": "Hardwyn India Ltd"
+      }
+     ]
+    }
+   ],
+   "name": "kitchen, architectural, appliances"
+  },
+  {
+   "id": "G52",
+   "size": 2,
+   "terms": [
+    "pvc",
+    "leather",
+    "non-woven",
+    "fabric",
+    "artificial",
+    "flooring"
+   ],
+   "subgroups": [
+    {
+     "id": "G52.0",
+     "size": 2,
+     "terms": [
+      "pvc",
+      "leather",
+      "non-woven",
+      "fabric",
+      "artificial",
+      "flooring"
+     ],
+     "name": "pvc, leather, non-woven",
+     "members": [
+      {
+       "isin": "INE309M01020",
+       "name": "Premier Polyfilm Limited"
+      },
+      {
+       "isin": "INE424C01010",
+       "name": "Ginni Filaments Limited"
+      }
+     ]
+    }
+   ],
+   "name": "pvc, leather, non-woven"
+  },
+  {
+   "id": "G53",
+   "size": 2,
+   "terms": [
+    "patients",
+    "care",
+    "eye",
+    "eye care",
+    "care patients",
+    "diagnostics"
+   ],
+   "subgroups": [
+    {
+     "id": "G53.0",
+     "size": 2,
+     "terms": [
+      "patients",
+      "care",
+      "eye",
+      "eye care",
+      "care patients",
+      "diagnostics"
+     ],
+     "name": "patients, care, eye",
+     "members": [
+      {
+       "isin": "INE362A01016",
+       "name": "PVP Ventures Limited"
+      },
+      {
+       "isin": "INE947I01017",
+       "name": "Lotus Eye Hospital and Institute Limited"
+      }
+     ]
+    }
+   ],
+   "name": "patients, care, eye"
+  },
+  {
+   "id": "G54",
+   "size": 2,
+   "terms": [
+    "pumps",
+    "hydraulic",
+    "controls",
+    "valves",
+    "gear pumps",
+    "pumps gear"
+   ],
+   "subgroups": [
+    {
+     "id": "G54.0",
+     "size": 2,
+     "terms": [
+      "pumps",
+      "hydraulic",
+      "controls",
+      "valves",
+      "gear pumps",
+      "pumps gear"
+     ],
+     "name": "pumps, hydraulic, controls",
+     "members": [
+      {
+       "isin": "INE384C01016",
+       "name": "Yuken India Limited"
+      },
+      {
+       "isin": "INE535D01037",
+       "name": "Roto Pumps Limited"
+      }
+     ]
+    }
+   ],
+   "name": "pumps, hydraulic, controls"
+  },
+  {
+   "id": "G55",
+   "size": 2,
+   "terms": [
+    "e-commerce",
+    "online",
+    "inc",
+    "marketplace",
+    "vendors",
+    "internet"
+   ],
+   "subgroups": [
+    {
+     "id": "G55.0",
+     "size": 2,
+     "terms": [
+      "e-commerce",
+      "online",
+      "inc",
+      "marketplace",
+      "vendors",
+      "internet"
+     ],
+     "name": "e-commerce, online, inc",
+     "members": [
+      {
+       "isin": "INE461B01014",
+       "name": "Repro India Limited"
+      },
+      {
+       "isin": "INE566K01011",
+       "name": "Intrasoft Technologies Limited"
+      }
+     ]
+    }
+   ],
+   "name": "e-commerce, online, inc"
+  },
+  {
+   "id": "G56",
+   "size": 2,
+   "terms": [
+    "animal health",
+    "animal",
+    "nutrition",
+    "additives",
+    "health",
+    "feed additives"
+   ],
+   "subgroups": [
+    {
+     "id": "G56.0",
+     "size": 2,
+     "terms": [
+      "animal health",
+      "animal",
+      "nutrition",
+      "additives",
+      "health",
+      "feed additives"
+     ],
+     "name": "animal health, animal, nutrition",
+     "members": [
+      {
+       "isin": "INE488D01021",
+       "name": "AVT Natural Products Limited"
+      },
+      {
+       "isin": "INE995D01025",
+       "name": "Chembond Material Technologies Limited"
+      }
+     ]
+    }
+   ],
+   "name": "animal health, animal, nutrition"
+  },
+  {
+   "id": "G57",
+   "size": 2,
+   "terms": [
+    "closures",
+    "plastic",
+    "packaging",
+    "than total",
+    "than",
+    "more than"
+   ],
+   "subgroups": [
+    {
+     "id": "G57.0",
+     "size": 2,
+     "terms": [
+      "closures",
+      "plastic",
+      "packaging",
+      "than total",
+      "than",
+      "more than"
+     ],
+     "name": "closures, plastic, packaging",
+     "members": [
+      {
+       "isin": "INE730A01022",
+       "name": "Oricon Enterprises Limited"
+      },
+      {
+       "isin": "INE879A01019",
+       "name": "Shree Rama Multi-Tech Limited"
+      }
+     ]
+    }
+   ],
+   "name": "closures, plastic, packaging"
+  },
+  {
+   "id": "G58",
+   "size": 1,
+   "terms": [
+    "apollo",
+    "tyres",
+    "tyre",
+    "leases",
+    "form",
+    "kerala"
+   ],
+   "subgroups": [
+    {
+     "id": "G58.0",
+     "size": 1,
+     "terms": [
+      "apollo",
+      "tyres",
+      "tyre",
+      "leases",
+      "form",
+      "kerala"
+     ],
+     "name": "apollo, tyres, tyre",
+     "members": [
+      {
+       "isin": "INE034D01049",
+       "name": "PTL Enterprises Limited"
+      }
+     ]
+    }
+   ],
+   "name": "apollo, tyres, tyre"
+  },
+  {
+   "id": "G59",
+   "size": 1,
+   "terms": [
+    "biomass",
+    "pet",
+    "home furnishing",
+    "briquettes",
+    "furnishing",
+    "recycled"
+   ],
+   "subgroups": [
+    {
+     "id": "G59.0",
+     "size": 1,
+     "terms": [
+      "biomass",
+      "pet",
+      "home furnishing",
+      "briquettes",
+      "furnishing",
+      "recycled"
+     ],
+     "name": "biomass, pet, home furnishing",
+     "members": [
+      {
+       "isin": "INE084Q01012",
+       "name": "Race Eco Chain Limited"
+      }
+     ]
+    }
+   ],
+   "name": "biomass, pet, home furnishing"
+  },
+  {
+   "id": "G60",
+   "size": 1,
+   "terms": [
+    "flooring",
+    "not",
+    "institutional",
+    "explicitly stated",
+    "gas raw",
+    "stated"
+   ],
+   "subgroups": [
+    {
+     "id": "G60.0",
+     "size": 1,
+     "terms": [
+      "flooring",
+      "not",
+      "institutional",
+      "explicitly stated",
+      "gas raw",
+      "stated"
+     ],
+     "name": "flooring, not, institutional",
+     "members": [
+      {
+       "isin": "INE0GFE01026",
+       "name": "Exxaro Tiles Limited"
+      }
+     ]
+    }
+   ],
+   "name": "flooring, not, institutional"
+  },
+  {
+   "id": "G61",
+   "size": 1,
+   "terms": [
+    "adhesives",
+    "sealants",
+    "ball",
+    "tapes",
+    "solvent",
+    "valves"
+   ],
+   "subgroups": [
+    {
+     "id": "G61.0",
+     "size": 1,
+     "terms": [
+      "adhesives",
+      "sealants",
+      "ball",
+      "tapes",
+      "solvent",
+      "valves"
+     ],
+     "name": "adhesives, sealants, ball",
+     "members": [
+      {
+       "isin": "INE0GSL01024",
+       "name": "HP Adhesives Limited"
+      }
+     ]
+    }
+   ],
+   "name": "adhesives, sealants, ball"
+  },
+  {
+   "id": "G62",
+   "size": 1,
+   "terms": [
+    "printed circuit",
+    "pcbs",
+    "circuit boards",
+    "circuit",
+    "printed",
+    "electricals"
+   ],
+   "subgroups": [
+    {
+     "id": "G62.0",
+     "size": 1,
+     "terms": [
+      "printed circuit",
+      "pcbs",
+      "circuit boards",
+      "circuit",
+      "printed",
+      "electricals"
+     ],
+     "name": "printed circuit, pcbs, circuit boards",
+     "members": [
+      {
+       "isin": "INE110A01019",
+       "name": "BPL Limited"
+      }
+     ]
+    }
+   ],
+   "name": "printed circuit, pcbs, circuit boards"
+  },
+  {
+   "id": "G63",
+   "size": 1,
+   "terms": [
+    "ppp",
+    "impact",
+    "csr",
+    "social",
+    "tech",
+    "transformation"
+   ],
+   "subgroups": [
+    {
+     "id": "G63.0",
+     "size": 1,
+     "terms": [
+      "ppp",
+      "impact",
+      "csr",
+      "social",
+      "tech",
+      "transformation"
+     ],
+     "name": "ppp, impact, csr",
+     "members": [
+      {
+       "isin": "INE217G01035",
+       "name": "Equippp Social Impact Technologies Limited"
+      }
+     ]
+    }
+   ],
+   "name": "ppp, impact, csr"
+  },
+  {
+   "id": "G64",
+   "size": 1,
+   "terms": [
+    "roofing",
+    "pre-engineered",
+    "buildings",
+    "boards",
+    "building",
+    "roofing sheets"
+   ],
+   "subgroups": [
+    {
+     "id": "G64.0",
+     "size": 1,
+     "terms": [
+      "roofing",
+      "pre-engineered",
+      "buildings",
+      "boards",
+      "building",
+      "roofing sheets"
+     ],
+     "name": "roofing, pre-engineered, buildings",
+     "members": [
+      {
+       "isin": "INE295A01018",
+       "name": "Everest Industries Limited"
+      }
+     ]
+    }
+   ],
+   "name": "roofing, pre-engineered, buildings"
+  },
+  {
+   "id": "G65",
+   "size": 1,
+   "terms": [
+    "realty",
+    "convertible",
+    "holding wholly",
+    "infrastructure oil",
+    "steel infrastructure",
+    "pipes steel"
+   ],
+   "subgroups": [
+    {
+     "id": "G65.0",
+     "size": 1,
+     "terms": [
+      "realty",
+      "convertible",
+      "holding wholly",
+      "infrastructure oil",
+      "steel infrastructure",
+      "pipes steel"
+     ],
+     "name": "realty, convertible, holding wholly",
+     "members": [
+      {
+       "isin": "INE389K01018",
+       "name": "Welspun Investments and Commercials Limited"
+      }
+     ]
+    }
+   ],
+   "name": "realty, convertible, holding wholly"
+  },
+  {
+   "id": "G66",
+   "size": 1,
+   "terms": [
+    "water soluble",
+    "soluble",
+    "films",
+    "security",
+    "drug delivery",
+    "drug"
+   ],
+   "subgroups": [
+    {
+     "id": "G66.0",
+     "size": 1,
+     "terms": [
+      "water soluble",
+      "soluble",
+      "films",
+      "security",
+      "drug delivery",
+      "drug"
+     ],
+     "name": "water soluble, soluble, films",
+     "members": [
+      {
+       "isin": "INE570D01018",
+       "name": "Arrow Greentech Limited"
+      }
+     ]
+    }
+   ],
+   "name": "water soluble, soluble, films"
+  },
+  {
+   "id": "G67",
+   "size": 1,
+   "terms": [
+    "approximately",
+    "pvc",
+    "belts",
+    "resistant",
+    "pro",
+    "fire"
+   ],
+   "subgroups": [
+    {
+     "id": "G67.0",
+     "size": 1,
+     "terms": [
+      "approximately",
+      "pvc",
+      "belts",
+      "resistant",
+      "pro",
+      "fire"
+     ],
+     "name": "approximately, pvc, belts",
+     "members": [
+      {
+       "isin": "INE575C01027",
+       "name": "International Conveyors Limited"
+      }
+     ]
+    }
+   ],
+   "name": "approximately, pvc, belts"
+  },
+  {
+   "id": "G68",
+   "size": 1,
+   "terms": [
+    "bitumen",
+    "oils",
+    "grease",
+    "lubricants",
+    "fuel oil",
+    "base"
+   ],
+   "subgroups": [
+    {
+     "id": "G68.0",
+     "size": 1,
+     "terms": [
+      "bitumen",
+      "oils",
+      "grease",
+      "lubricants",
+      "fuel oil",
+      "base"
+     ],
+     "name": "bitumen, oils, grease",
+     "members": [
+      {
+       "isin": "INE586G01017",
+       "name": "GP Petroleums Limited"
+      }
+     ]
+    }
+   ],
+   "name": "bitumen, oils, grease"
+  },
+  {
+   "id": "G69",
+   "size": 1,
+   "terms": [
+    "vardhman",
+    "logo",
+    "trademark",
+    "owns",
+    "royalty income",
+    "royalty"
+   ],
+   "subgroups": [
+    {
+     "id": "G69.0",
+     "size": 1,
+     "terms": [
+      "vardhman",
+      "logo",
+      "trademark",
+      "owns",
+      "royalty income",
+      "royalty"
+     ],
+     "name": "vardhman, logo, trademark",
+     "members": [
+      {
+       "isin": "INE701A01023",
+       "name": "Vardhman Holdings Limited"
+      }
+     ]
+    }
+   ],
+   "name": "vardhman, logo, trademark"
+  },
+  {
+   "id": "G70",
+   "size": 1,
+   "terms": [
+    "stationery",
+    "art",
+    "creative",
+    "notebooks",
+    "fine",
+    "adhesives"
+   ],
+   "subgroups": [
+    {
+     "id": "G70.0",
+     "size": 1,
+     "terms": [
+      "stationery",
+      "art",
+      "creative",
+      "notebooks",
+      "fine",
+      "adhesives"
+     ],
+     "name": "stationery, art, creative",
+     "members": [
+      {
+       "isin": "INE760A01029",
+       "name": "Kokuyo Camlin Limited"
+      }
+     ]
+    }
+   ],
+   "name": "stationery, art, creative"
+  },
+  {
+   "id": "G71",
+   "size": 1,
+   "terms": [
+    "lakhs",
+    "after",
+    "investment shares",
+    "income mainly",
+    "income power",
+    "tax"
+   ],
+   "subgroups": [
+    {
+     "id": "G71.0",
+     "size": 1,
+     "terms": [
+      "lakhs",
+      "after",
+      "investment shares",
+      "income mainly",
+      "income power",
+      "tax"
+     ],
+     "name": "lakhs, after, investment shares",
+     "members": [
+      {
+       "isin": "INE796G01012",
+       "name": "Jindal Photo Limited"
+      }
+     ]
+    }
+   ],
+   "name": "lakhs, after, investment shares"
+  }
+ ]
+}

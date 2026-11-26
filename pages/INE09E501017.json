@@ -12,9 +12,10 @@
    "ebitda": -1.95,
    "pat": -0.91,
    "margin_pct": -1392.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -1.94,
    "pat": -0.52,
    "margin_pct": -1492.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 52.35,
    "pat": 39.87,
    "margin_pct": 95.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 16.24,
    "pat": 12.48,
    "margin_pct": 81.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,9 +56,22 @@
    "ebitda": -4.23,
    "pat": -2.94,
    "margin_pct": -42300.0,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -62,9 +79,18 @@
    "ebitda": -2.99,
    "pat": -1.69,
    "margin_pct": -29900.0,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -114,5 +140,86 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G2",
+  "group_name": "real, real estate, estate",
+  "subgroup": "G2.3",
+  "subgroup_name": "activity, colony, portfolio",
+  "terms": [
+   "activity",
+   "colony",
+   "portfolio",
+   "plotted",
+   "companies",
+   "affordable"
+  ],
+  "peer_basis": "group",
+  "peers": [
+   {
+    "isin": "INE05ST01028",
+    "name": "Suratwwala Business Group Limited"
+   },
+   {
+    "isin": "INE138A01028",
+    "name": "Peninsula Land Limited"
+   },
+   {
+    "isin": "INE195N01013",
+    "name": "Prozone Realty Limited"
+   },
+   {
+    "isin": "INE559D01011",
+    "name": "Crest Ventures Limited"
+   },
+   {
+    "isin": "INE572G01025",
+    "name": "Lancor Holdings Limited"
+   },
+   {
+    "isin": "INE778K01012",
+    "name": "Emami Realty Limited"
+   },
+   {
+    "isin": "INE916G01016",
+    "name": "GeeCee Ventures Limited"
+   },
+   {
+    "isin": "INE00S901012",
+    "name": "Nila Spaces Limited"
+   },
+   {
+    "isin": "INE0JVO01026",
+    "name": "Garuda Construction and Engineering Limited"
+   },
+   {
+    "isin": "INE100D01014",
+    "name": "W S Industries (I) Limited"
+   },
+   {
+    "isin": "INE350H01032",
+    "name": "B. L. Kashyap and Sons Limited"
+   },
+   {
+    "isin": "INE937C01029",
+    "name": "Nila Infrastructures Limited"
+   },
+   {
+    "isin": "INE143A01010",
+    "name": "Oswal Greentech Limited"
+   },
+   {
+    "isin": "INE301D01026",
+    "name": "The Ruby Mills Limited"
+   },
+   {
+    "isin": "INE694A01020",
+    "name": "Unitech Limited"
+   },
+   {
+    "isin": "INE440A01010",
+    "name": "Ashima Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

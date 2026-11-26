@@ -3,7 +3,7 @@
  "sym": "RALLIS",
  "name": "Rallis India Limited",
  "scrip": "500355",
- "mcap_cr": 3638.51,
+ "mcap_cr": 3687.13,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -19.0,
    "pat": -32.0,
    "margin_pct": -4.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 150.0,
    "pat": 95.0,
    "margin_pct": 15.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 160.0,
    "pat": 102.0,
    "margin_pct": 18.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 23.0,
    "pat": 2.0,
    "margin_pct": 3.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,22 @@
    "ebitda": 2.0,
    "pat": -15.0,
    "margin_pct": 0.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 35,
-    "profit": 79,
-    "quality": 90
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +79,16 @@
    "ebitda": 187.0,
    "pat": 125.0,
    "margin_pct": 18.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 51,
-    "profit": 72,
-    "quality": 72
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +96,22 @@
    "ebitda": 140.0,
    "pat": 85.0,
    "margin_pct": 16.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 20,
-    "profit": 21,
-    "quality": 13
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -22.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -187,5 +212,6 @@
   ],
   "ledger": "claims/INE613A01020.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

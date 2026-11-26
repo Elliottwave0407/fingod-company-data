@@ -3,7 +3,7 @@
  "sym": "VSSL",
  "name": "Vardhman Special Steels Limited",
  "scrip": "534392",
- "mcap_cr": 3674.19,
+ "mcap_cr": 3576.45,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 31.43,
    "pat": 19.73,
    "margin_pct": 7.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 31.83,
    "pat": 19.9,
    "margin_pct": 7.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 45.26,
    "pat": 34.56,
    "margin_pct": 10.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 43.3,
    "pat": 33.59,
    "margin_pct": 10.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 46.09,
    "pat": 33.98,
    "margin_pct": 10.1,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 63,
-    "profit": 67,
-    "quality": 87
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,14 @@
    "ebitda": 58.42,
    "pat": 41.19,
    "margin_pct": 12.0,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 73,
-    "profit": 87,
-    "quality": 94
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 17.6
    },
-   "capped_by": "revenue growth under 20%"
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +86,16 @@
    "ebitda": 69.12,
    "pat": 52.49,
    "margin_pct": 11.5,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 89,
-    "profit": 52,
-    "quality": 71
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -6.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -215,5 +224,6 @@
   ],
   "ledger": "claims/INE050M01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

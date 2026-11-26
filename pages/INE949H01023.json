@@ -3,7 +3,7 @@
  "sym": "MANINFRA",
  "name": "Man Infraconstruction Limited",
  "scrip": "533169",
- "mcap_cr": 4250.61,
+ "mcap_cr": 4309.14,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 106.47,
    "pat": 97.15,
    "margin_pct": 36.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 40.59,
    "pat": 58.32,
    "margin_pct": 22.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 36.58,
    "pat": 60.01,
    "margin_pct": 24.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 32.76,
    "pat": 51.62,
    "margin_pct": 21.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,22 @@
    "ebitda": 18.93,
    "pat": 41.04,
    "margin_pct": 13.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": 10,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +79,14 @@
    "ebitda": 71.51,
    "pat": 62.74,
    "margin_pct": 32.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 79,
-    "profit": 100,
-    "quality": 19
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 130.6
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +94,16 @@
    "ebitda": 80.57,
    "pat": 65.23,
    "margin_pct": 30.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 100,
-    "quality": 20
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 28.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -195,5 +212,6 @@
   ],
   "ledger": "claims/INE949H01023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

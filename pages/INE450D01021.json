@@ -3,7 +3,7 @@
  "sym": "PITTIENG",
  "name": "Pitti Engineering Limited",
  "scrip": "513519",
- "mcap_cr": 3224.65,
+ "mcap_cr": 3186.06,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 80.08,
    "pat": 36.14,
    "margin_pct": 17.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 75.35,
    "pat": 22.88,
    "margin_pct": 16.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 77.67,
    "pat": 40.09,
    "margin_pct": 16.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 80.91,
    "pat": 28.22,
    "margin_pct": 16.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 81.63,
    "pat": 26.61,
    "margin_pct": 16.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 33,
-    "profit": 37,
-    "quality": 6
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,14 @@
    "ebitda": 86.38,
    "pat": 29.5,
    "margin_pct": 16.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 51,
-    "profit": 43,
-    "quality": 59
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 8.5
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,18 @@
    "ebitda": 88.88,
    "pat": 33.89,
    "margin_pct": 15.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 56,
-    "profit": 35,
-    "quality": 9
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 0.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -169,5 +185,6 @@
   ],
   "ledger": "claims/INE450D01021.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

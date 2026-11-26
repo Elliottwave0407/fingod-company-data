@@ -3,7 +3,7 @@
  "sym": "DENORA",
  "name": "De Nora India Limited",
  "scrip": "590031",
- "mcap_cr": 350.16,
+ "mcap_cr": 341.85,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 3.84,
    "pat": 3.34,
    "margin_pct": 19.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 2.44,
    "pat": 3.25,
    "margin_pct": 5.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 4.03,
    "pat": 3.87,
    "margin_pct": 18.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 2.47,
    "pat": 2.57,
    "margin_pct": 6.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,22 @@
    "ebitda": -2.27,
    "pat": -0.64,
    "margin_pct": -10.3,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 20,
-    "profit": -8,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +79,14 @@
    "ebitda": 5.69,
    "pat": 6.39,
    "margin_pct": 16.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 56,
-    "profit": 93,
-    "quality": 80
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 153.1
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -126,5 +140,38 @@
   "dividend_per_share": 4
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G21",
+  "group_name": "caustic, caustic soda, soda",
+  "subgroup": "G21.0",
+  "subgroup_name": "caustic, caustic soda, soda",
+  "terms": [
+   "caustic",
+   "caustic soda",
+   "soda",
+   "chlor-alkali",
+   "chlorine",
+   "chloride"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE148A01019",
+    "name": "Tamilnadu PetroProducts Limited"
+   },
+   {
+    "isin": "INE607A01022",
+    "name": "Primo Chemicals Limited"
+   },
+   {
+    "isin": "INE715B01021",
+    "name": "The Andhra Sugars Limited"
+   },
+   {
+    "isin": "INE783X01023",
+    "name": "Chemfab Alkalis Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

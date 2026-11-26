@@ -3,7 +3,7 @@
  "sym": "ZEEMEDIA",
  "name": "Zee Media Corporation Limited",
  "scrip": "532794",
- "mcap_cr": 453.56,
+ "mcap_cr": 454.21,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -19.33,
    "pat": -36.75,
    "margin_pct": -12.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 19.78,
    "pat": -8.82,
    "margin_pct": 10.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 17.1,
    "pat": -15.53,
    "margin_pct": 9.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 78.18,
    "pat": 52.77,
    "margin_pct": 32.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": -14.14,
    "pat": -26.53,
    "margin_pct": -9.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 27,
-    "profit": 58,
-    "quality": 100
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,17 @@
    "ebitda": 16.26,
    "pat": -12.12,
    "margin_pct": 8.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 22,
-    "profit": 14,
-    "quality": 20
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -157,5 +173,54 @@
   "latest_guidance": [],
   "ledger": "claims/INE966H01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G9",
+  "group_name": "television, media, digital",
+  "subgroup": "G9.0",
+  "subgroup_name": "television, media, digital",
+  "terms": [
+   "television",
+   "media",
+   "digital",
+   "news",
+   "advertisement",
+   "broadcasting"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE038F01029",
+    "name": "TV Today Network Limited"
+   },
+   {
+    "isin": "INE155G01029",
+    "name": "New Delhi Television Limited"
+   },
+   {
+    "isin": "INE199G01027",
+    "name": "Jagran Prakashan Limited"
+   },
+   {
+    "isin": "INE416A01051",
+    "name": "Aqylon Nexus Limited"
+   },
+   {
+    "isin": "INE583B01015",
+    "name": "The Sandesh Limited"
+   },
+   {
+    "isin": "INE836F01026",
+    "name": "Dish TV India Limited"
+   },
+   {
+    "isin": "INE947J01015",
+    "name": "Den Networks Limited"
+   },
+   {
+    "isin": "INE982F01036",
+    "name": "Hathway Cable & Datacom Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

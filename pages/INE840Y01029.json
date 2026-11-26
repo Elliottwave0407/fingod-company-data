@@ -3,7 +3,7 @@
  "sym": "ONEPOINT",
  "name": "One Point One Solutions Limited",
  "scrip": "544748",
- "mcap_cr": 1790.07,
+ "mcap_cr": 1786.92,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 12.27,
    "pat": 8.74,
    "margin_pct": 18.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 15.08,
    "pat": 9.44,
    "margin_pct": 21.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 17.03,
    "pat": 9.85,
    "margin_pct": 24.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 17.38,
    "pat": 8.64,
    "margin_pct": 22.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 21.72,
    "pat": 10.28,
    "margin_pct": 22.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 93,
-    "profit": 91,
-    "quality": 32
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "profit growth under 25% (Blockbuster needs profit up at least 25%)"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,14 @@
    "ebitda": 35.79,
    "pat": 16.31,
    "margin_pct": 22.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 58,
-    "quality": 50
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 45.9
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -161,5 +169,6 @@
   ],
   "ledger": "claims/INE840Y01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

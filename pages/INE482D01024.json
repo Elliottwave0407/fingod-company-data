@@ -3,7 +3,7 @@
  "sym": "CARYSIL",
  "name": "CARYSIL LIMITED",
  "scrip": "524091",
- "mcap_cr": 2605.91,
+ "mcap_cr": 2572.35,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 34.93,
    "pat": 18.82,
    "margin_pct": 17.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 43.85,
    "pat": 22.91,
    "margin_pct": 19.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 46.11,
    "pat": 27.42,
    "margin_pct": 19.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 41.05,
    "pat": 21.26,
    "margin_pct": 18.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 45.03,
    "pat": 27.38,
    "margin_pct": 19.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 61,
-    "profit": 69,
-    "quality": 80
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,14 @@
    "ebitda": 53.4,
    "pat": 32.05,
    "margin_pct": 20.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 57,
-    "profit": 59,
-    "quality": 75
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -3.8
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -168,5 +176,6 @@
   ],
   "ledger": "claims/INE482D01024.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

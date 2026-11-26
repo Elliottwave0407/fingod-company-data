@@ -3,7 +3,7 @@
  "sym": "GENUSPAPER",
  "name": "Genus Paper & Boards Limited",
  "scrip": "538961",
- "mcap_cr": 254.04,
+ "mcap_cr": 258.15,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 17.38,
    "pat": -0.01,
    "margin_pct": 7.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 20.17,
    "pat": 2.74,
    "margin_pct": 7.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 22.24,
    "pat": 3.82,
    "margin_pct": 9.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 18.28,
    "pat": 2.88,
    "margin_pct": 7.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 19.01,
    "pat": 3.8,
    "margin_pct": 8.4,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 33,
-    "profit": 47,
-    "quality": 61
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 18.96,
    "pat": 3.52,
    "margin_pct": 8.7,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 17,
-    "profit": 47,
-    "quality": 59
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -10.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,14 @@
    "ebitda": 22.49,
    "pat": 7.12,
    "margin_pct": 9.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 28,
-    "profit": 38,
-    "quality": 78
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 7.0
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -142,5 +154,62 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G4",
+  "group_name": "paper, papers, tissue",
+  "subgroup": "G4.0",
+  "subgroup_name": "paper, papers, tissue",
+  "terms": [
+   "paper",
+   "papers",
+   "tissue",
+   "kraft",
+   "packaging",
+   "writing"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE01EE01011",
+    "name": "B&B Triplewall Containers Limited"
+   },
+   {
+    "isin": "INE107A01015",
+    "name": "Tamil Nadu Newsprint & Papers Limited"
+   },
+   {
+    "isin": "INE196Y01018",
+    "name": "Worth Peripherals Limited"
+   },
+   {
+    "isin": "INE278B01020",
+    "name": "Shree Rama Newsprint Limited"
+   },
+   {
+    "isin": "INE435A01051",
+    "name": "ANDHRA PAPER LIMITED"
+   },
+   {
+    "isin": "INE592A01026",
+    "name": "Orient Paper & Industries Limited"
+   },
+   {
+    "isin": "INE630A01024",
+    "name": "Seshasayee Paper and Boards Limited"
+   },
+   {
+    "isin": "INE642C01025",
+    "name": "Rubfila International Limited"
+   },
+   {
+    "isin": "INE733A01018",
+    "name": "Star Paper Mills Limited"
+   },
+   {
+    "isin": "INE865T01018",
+    "name": "Pudumjee Paper Products Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

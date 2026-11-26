@@ -3,7 +3,7 @@
  "sym": "ARIES",
  "name": "Aries Agro Limited",
  "scrip": "532935",
- "mcap_cr": 682.66,
+ "mcap_cr": 673.88,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 0.21,
    "pat": -3.91,
    "margin_pct": 0.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 20.43,
    "pat": 9.93,
    "margin_pct": 12.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 33.7,
    "pat": 19.92,
    "margin_pct": 16.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 27.02,
    "pat": 17.31,
    "margin_pct": 13.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": -5.28,
    "pat": -4.79,
    "margin_pct": -2.9,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 42,
-    "profit": -2,
-    "quality": 45
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,16 @@
    "ebitda": 25.38,
    "pat": 14.85,
    "margin_pct": 13.7,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 60,
-    "profit": 52,
-    "quality": 77
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 920.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   }
  ],
  "completeness": {
@@ -148,5 +162,38 @@
   "latest_guidance": [],
   "ledger": "claims/INE298I01015.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G14",
+  "group_name": "crop, insecticides, agricultural",
+  "subgroup": "G14.0",
+  "subgroup_name": "crop, insecticides, agricultural",
+  "terms": [
+   "crop",
+   "insecticides",
+   "agricultural",
+   "herbicides",
+   "fungicides",
+   "crop protection"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE02H701025",
+    "name": "Nova Agritech Limited"
+   },
+   {
+    "isin": "INE032Z01020",
+    "name": "Bombay Super Hybrid Seeds Limited"
+   },
+   {
+    "isin": "INE563J01010",
+    "name": "Astec LifeSciences Limited"
+   },
+   {
+    "isin": "INE838B01021",
+    "name": "Bharat Rasayan Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

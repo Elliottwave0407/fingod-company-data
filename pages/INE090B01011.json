@@ -3,7 +3,7 @@
  "sym": "OMAXAUTO",
  "name": "Omax Autos Limited",
  "scrip": "520021",
- "mcap_cr": 413.65,
+ "mcap_cr": 405.73,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 9.73,
    "pat": 0.49,
    "margin_pct": 8.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 6.34,
    "pat": 7.14,
    "margin_pct": 6.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 5.19,
    "pat": 0.33,
    "margin_pct": 5.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 14.33,
    "pat": 12.22,
    "margin_pct": 11.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 21.73,
    "pat": 17.34,
    "margin_pct": 12.5,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 97,
-    "profit": 80,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,18 @@
    "ebitda": 13.48,
    "pat": 10.6,
    "margin_pct": 11.1,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 82,
-    "profit": 86,
-    "quality": 60
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -13.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,17 @@
    "ebitda": 15.58,
    "pat": 11.7,
    "margin_pct": 9.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 74,
-    "quality": 80
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 51.5
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   }
  ],
  "completeness": {
@@ -135,5 +149,66 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G3",
+  "group_name": "automotive, vehicles, passenger",
+  "subgroup": "G3.0",
+  "subgroup_name": "automotive, vehicles, passenger",
+  "terms": [
+   "automotive",
+   "vehicles",
+   "passenger",
+   "brake",
+   "components",
+   "passenger vehicles"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE073D01013",
+    "name": "Sundaram Brake Linings Limited"
+   },
+   {
+    "isin": "INE07S101038",
+    "name": "Pavna Industries Limited"
+   },
+   {
+    "isin": "INE139B01016",
+    "name": "UCAL LIMITED"
+   },
+   {
+    "isin": "INE188B01013",
+    "name": "Igarashi Motors India Limited"
+   },
+   {
+    "isin": "INE310C01029",
+    "name": "Hindustan Composites Limited"
+   },
+   {
+    "isin": "INE415D01024",
+    "name": "Bharat Seats Limited"
+   },
+   {
+    "isin": "INE547E01014",
+    "name": "India Motor Parts and Accessories Limited"
+   },
+   {
+    "isin": "INE577A01027",
+    "name": "Munjal Showa Limited"
+   },
+   {
+    "isin": "INE672B01032",
+    "name": "Munjal Auto Industries Limited"
+   },
+   {
+    "isin": "INE718H01014",
+    "name": "Autoline Industries Limited"
+   },
+   {
+    "isin": "INE900C01027",
+    "name": "Automotive Stampings and Assemblies Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

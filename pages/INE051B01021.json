@@ -3,7 +3,7 @@
  "sym": "VAKRANGEE",
  "name": "Vakrangee Limited",
  "scrip": "511431",
- "mcap_cr": 556.97,
+ "mcap_cr": 555.89,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 6.83,
    "pat": 2.52,
    "margin_pct": 10.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 7.82,
    "pat": 3.32,
    "margin_pct": 11.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 7.41,
    "pat": 3.03,
    "margin_pct": 10.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 7.79,
    "pat": 3.15,
    "margin_pct": 13.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,22 @@
    "ebitda": 4.68,
    "pat": 1.62,
    "margin_pct": 8.2,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 8,
-    "profit": 11,
-    "quality": 10
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +79,18 @@
    "ebitda": 6.62,
    "pat": 2.26,
    "margin_pct": 11.8,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 11,
-    "profit": 46,
-    "quality": 12
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 7.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +98,18 @@
    "ebitda": 7.03,
    "pat": 2.73,
    "margin_pct": 11.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 18,
-    "profit": 48,
-    "quality": 23
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 6.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -167,5 +190,30 @@
   ],
   "ledger": "claims/INE051B01021.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G30",
+  "group_name": "insurance, banking, financial",
+  "subgroup": "G30.0",
+  "subgroup_name": "insurance, banking, financial",
+  "terms": [
+   "insurance",
+   "banking",
+   "financial",
+   "digitization",
+   "printing",
+   "scanning"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE0B1K01014",
+    "name": "DJ Mediaprint & Logistics Limited"
+   },
+   {
+    "isin": "INE914E01040",
+    "name": "Alankit Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "MANAKALUCO",
  "name": "Manaksia Aluminium Company Limited",
  "scrip": "539045",
- "mcap_cr": 179.17,
+ "mcap_cr": 181.73,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 11.43,
    "pat": 2.0,
    "margin_pct": 8.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 11.26,
    "pat": 1.56,
    "margin_pct": 8.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 10.81,
    "pat": 1.11,
    "margin_pct": 8.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 11.87,
    "pat": 1.65,
    "margin_pct": 8.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 13.43,
    "pat": 3.24,
    "margin_pct": 8.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 52,
-    "profit": 42,
-    "quality": 74
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 13.39,
    "pat": 2.85,
    "margin_pct": 9.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 45,
-    "profit": 52,
-    "quality": 76
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -1.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -146,5 +157,34 @@
   "latest_guidance": [],
   "ledger": "claims/INE859Q01017.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G23",
+  "group_name": "sheets, coils, rolled",
+  "subgroup": "G23.0",
+  "subgroup_name": "sheets, coils, rolled",
+  "terms": [
+   "sheets",
+   "coils",
+   "rolled",
+   "colour",
+   "coils sheets",
+   "colour coated"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE015D01022",
+    "name": "Manaksia Limited"
+   },
+   {
+    "isin": "INE230R01035",
+    "name": "Rama Steel Tubes Limited"
+   },
+   {
+    "isin": "INE824Q01011",
+    "name": "Manaksia Steels Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

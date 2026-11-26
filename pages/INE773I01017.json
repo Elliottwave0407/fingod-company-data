@@ -3,7 +3,7 @@
  "sym": "ALKALI",
  "name": "Alkali Metals Limited",
  "scrip": "533029",
- "mcap_cr": 80.75,
+ "mcap_cr": 79.12,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 3.22,
    "pat": 4.35,
    "margin_pct": 12.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 1.54,
    "pat": -1.15,
    "margin_pct": 7.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 0.18,
    "pat": -0.91,
    "margin_pct": 1.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -0.26,
    "pat": -1.39,
    "margin_pct": -1.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 6.08,
    "pat": 4.02,
    "margin_pct": 21.2,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 76,
-    "profit": 97,
-    "quality": 9
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,21 @@
    "ebitda": -0.34,
    "pat": -0.64,
    "margin_pct": -1.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 6,
-    "profit": -2,
-    "quality": 64
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -110.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +95,16 @@
    "ebitda": 1.29,
    "pat": 0.58,
    "margin_pct": 4.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 94,
-    "profit": 72,
-    "quality": 80
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 299.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -134,5 +152,6 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

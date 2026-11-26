@@ -3,7 +3,7 @@
  "sym": "SSDL",
  "name": "Saraswati Saree Depot Limited",
  "scrip": "544230",
- "mcap_cr": 255.81,
+ "mcap_cr": 249.32,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 9.25,
    "pat": 7.03,
    "margin_pct": 6.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 9.23,
    "pat": 6.35,
    "margin_pct": 6.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 14.4,
    "pat": 10.51,
    "margin_pct": 6.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 5.02,
    "pat": 3.21,
    "margin_pct": 3.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 4.34,
    "pat": 3.33,
    "margin_pct": 3.3,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 12,
-    "profit": 3,
-    "quality": 2
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,16 @@
    "ebitda": 8.04,
    "pat": 6.61,
    "margin_pct": 5.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 21,
-    "profit": 26,
-    "quality": 37
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 19.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -167,5 +181,26 @@
   ],
   "ledger": "claims/INE0PQ101010.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G42",
+  "group_name": "ethnic, wear, ethnic wear",
+  "subgroup": "G42.0",
+  "subgroup_name": "ethnic, wear, ethnic wear",
+  "terms": [
+   "ethnic",
+   "wear",
+   "ethnic wear",
+   "rayon",
+   "viscose",
+   "paper chemicals"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE087A01019",
+    "name": "Kesoram Industries Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

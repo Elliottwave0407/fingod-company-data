@@ -3,7 +3,7 @@
  "sym": "SRD",
  "name": "Shankar Lal Rampal Dye-Chem Limited",
  "scrip": "542232",
- "mcap_cr": 289.71,
+ "mcap_cr": 288.36,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 3.8,
    "pat": 2.52,
    "margin_pct": 3.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 6.19,
    "pat": 4.24,
    "margin_pct": 5.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 3.79,
    "pat": 2.37,
    "margin_pct": 3.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 2.66,
    "pat": 2.08,
    "margin_pct": 2.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 6.76,
    "pat": 4.8,
    "margin_pct": 4.9,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 87,
-    "profit": 49,
-    "quality": 77
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,17 @@
    "ebitda": 12.72,
    "pat": 9.19,
    "margin_pct": 9.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 72,
-    "profit": 81,
-    "quality": 90
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 7.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -146,5 +155,58 @@
   "latest_guidance": [],
   "ledger": "claims/INE01NE01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G6",
+  "group_name": "dyes, care, paints",
+  "subgroup": "G6.0",
+  "subgroup_name": "dyes, care, paints",
+  "terms": [
+   "dyes",
+   "care",
+   "paints",
+   "intermediates",
+   "chemicals",
+   "pigments"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE09EO01013",
+    "name": "Aarti Surfactants Limited"
+   },
+   {
+    "isin": "INE138C01024",
+    "name": "Kanoria Chemicals & Industries Limited"
+   },
+   {
+    "isin": "INE256H01015",
+    "name": "Dynemic Products Limited"
+   },
+   {
+    "isin": "INE338A01024",
+    "name": "Thirumalai Chemicals Limited"
+   },
+   {
+    "isin": "INE370D01013",
+    "name": "Mangalam Organics Limited"
+   },
+   {
+    "isin": "INE492A01029",
+    "name": "Sudarshan Colorants India Limited"
+   },
+   {
+    "isin": "INE542B01011",
+    "name": "AksharChem India Limited"
+   },
+   {
+    "isin": "INE565V01010",
+    "name": "Valiant Organics Limited"
+   },
+   {
+    "isin": "INE888C01040",
+    "name": "Sadhana Nitrochem Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

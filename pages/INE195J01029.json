@@ -3,7 +3,7 @@
  "sym": "PNCINFRA",
  "name": "PNC Infratech Limited",
  "scrip": "539150",
- "mcap_cr": 3299.09,
+ "mcap_cr": 3272.16,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 362.34,
    "pat": 75.44,
    "margin_pct": 21.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 689.13,
    "pat": 431.32,
    "margin_pct": 48.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 415.9,
    "pat": 215.7,
    "margin_pct": 36.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 238.41,
    "pat": 76.73,
    "margin_pct": 19.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 285.58,
    "pat": 107.76,
    "margin_pct": 17.7,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 14,
-    "profit": 14,
-    "quality": 77
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,16 @@
    "ebitda": 523.52,
    "pat": 331.93,
    "margin_pct": 31.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 31,
-    "profit": 20,
-    "quality": 3
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Building",
+    "acceleration": -13.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,21 @@
    "ebitda": 278.84,
    "pat": 114.68,
    "margin_pct": 21.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 28,
-    "profit": 17,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": -1.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -202,5 +222,6 @@
   ],
   "ledger": "claims/INE195J01029.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

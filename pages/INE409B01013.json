@@ -3,7 +3,7 @@
  "sym": "SWELECTES",
  "name": "Swelect Energy Systems Limited",
  "scrip": "532051",
- "mcap_cr": 871.78,
+ "mcap_cr": 853.67,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 28.66,
    "pat": 8.98,
    "margin_pct": 13.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 41.72,
    "pat": 21.14,
    "margin_pct": 23.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 40.76,
    "pat": 15.84,
    "margin_pct": 29.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 31.61,
    "pat": 9.52,
    "margin_pct": 22.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 35.41,
    "pat": 11.09,
    "margin_pct": 17.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 42,
-    "profit": 88,
-    "quality": 49
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,20 @@
    "ebitda": 28.42,
    "pat": 7.65,
    "margin_pct": 21.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 2,
-    "profit": 30,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -35.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -139,5 +154,38 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G22",
+  "group_name": "solar, batteries, rooftop",
+  "subgroup": "G22.0",
+  "subgroup_name": "solar, batteries, rooftop",
+  "terms": [
+   "solar",
+   "batteries",
+   "rooftop",
+   "modules",
+   "energy",
+   "renewable energy"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE403Y01018",
+    "name": "Innovana Thinklabs Limited"
+   },
+   {
+    "isin": "INE550C01020",
+    "name": "Urja Global Limited"
+   },
+   {
+    "isin": "INE567A01028",
+    "name": "Indo-National Limited"
+   },
+   {
+    "isin": "INE866K01023",
+    "name": "Indosolar Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "RAYMONDREL",
  "name": "Raymond Realty Limited",
  "scrip": "544420",
- "mcap_cr": 4076.02,
+ "mcap_cr": 4020.68,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 23.68,
    "pat": 16.5,
    "margin_pct": 6.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 91.77,
    "pat": 60.18,
    "margin_pct": 13.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 91.45,
    "pat": 66.79,
    "margin_pct": 12.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 234.28,
    "pat": 161.12,
    "margin_pct": 20.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,20 @@
    "ebitda": 61.17,
    "pat": 13.43,
    "margin_pct": 11.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 92,
-    "profit": 89,
-    "quality": 10
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +77,17 @@
    "ebitda": 106.27,
    "pat": 53.06,
    "margin_pct": 14.2,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 45,
-    "profit": 54,
-    "quality": 17
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Building",
+    "acceleration": -67.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -160,5 +175,6 @@
   ],
   "ledger": "claims/INE1SY401010.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

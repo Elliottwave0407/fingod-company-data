@@ -12,9 +12,10 @@
    "ebitda": 37.62,
    "pat": -0.95,
    "margin_pct": 32.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 33.95,
    "pat": 8.08,
    "margin_pct": 38.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 55.22,
    "pat": 24.4,
    "margin_pct": 48.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 48.72,
    "pat": 21.65,
    "margin_pct": 44.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 33.38,
    "pat": 10.84,
    "margin_pct": 27.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 25,
-    "profit": 20,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,17 @@
    "ebitda": 39.4,
    "pat": 14.28,
    "margin_pct": 40.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 47,
-    "profit": 75,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 22.2
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -129,5 +143,58 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G7",
+  "group_name": "beverages, food, hotel",
+  "subgroup": "G7.0",
+  "subgroup_name": "beverages, food, hotel",
+  "terms": [
+   "beverages",
+   "food",
+   "hotel",
+   "food beverages",
+   "hospitality",
+   "leisure"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE102A01024",
+    "name": "HLV LIMITED"
+   },
+   {
+    "isin": "INE199C01026",
+    "name": "Advani Hotels & Resorts (India) Limited"
+   },
+   {
+    "isin": "INE335K01011",
+    "name": "Coffee Day Enterprises Limited"
+   },
+   {
+    "isin": "INE363A01022",
+    "name": "Asian Hotels (North) Limited"
+   },
+   {
+    "isin": "INE508K01013",
+    "name": "Robust Hotels Limited"
+   },
+   {
+    "isin": "INE652F01027",
+    "name": "Country Club Hospitality & Holidays Limited"
+   },
+   {
+    "isin": "INE704H01022",
+    "name": "Cineline India Limited"
+   },
+   {
+    "isin": "INE926K01017",
+    "name": "Asian Hotels (East) Limited"
+   },
+   {
+    "isin": "INE985A01022",
+    "name": "Sinclairs Hotels Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

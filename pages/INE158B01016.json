@@ -3,7 +3,7 @@
  "sym": "EIMCOELECO",
  "name": "Eimco Elecon (India) Limited",
  "scrip": "523708",
- "mcap_cr": 1389.49,
+ "mcap_cr": 1457.38,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 18.15,
    "pat": 14.87,
    "margin_pct": 28.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 12.31,
    "pat": 14.48,
    "margin_pct": 18.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 5.22,
    "pat": 5.35,
    "margin_pct": 15.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 12.51,
    "pat": 12.52,
    "margin_pct": 19.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 12.93,
    "pat": 6.36,
    "margin_pct": 19.3,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 16,
-    "profit": 15,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,17 @@
    "ebitda": 14.25,
    "pat": 15.38,
    "margin_pct": 18.4,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 51,
-    "profit": 48,
-    "quality": 27
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 32.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +95,17 @@
    "ebitda": 10.74,
    "pat": 7.83,
    "margin_pct": 18.9,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 78,
-    "quality": 49
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Fading",
+    "acceleration": 55.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -147,5 +166,38 @@
   ],
   "ledger": "claims/INE158B01016.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G17",
+  "group_name": "mining, construction, handling",
+  "subgroup": "G17.0",
+  "subgroup_name": "mining, construction, handling",
+  "terms": [
+   "mining",
+   "construction",
+   "handling",
+   "equipment",
+   "material handling",
+   "spares"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE0DAB01012",
+    "name": "Revathi Equipment India Limited"
+   },
+   {
+    "isin": "INE391D01019",
+    "name": "TRF Limited"
+   },
+   {
+    "isin": "INE748A01024",
+    "name": "Mcnally Bharat Engineering Company Limited"
+   },
+   {
+    "isin": "INE826C01016",
+    "name": "Gujarat Apollo Industries Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

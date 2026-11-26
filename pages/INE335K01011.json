@@ -3,7 +3,7 @@
  "sym": "COFFEEDAY",
  "name": "Coffee Day Enterprises Limited",
  "scrip": "539436",
- "mcap_cr": 597.63,
+ "mcap_cr": 583.69,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 75.97,
    "pat": -114.16,
    "margin_pct": 28.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 67.19,
    "pat": 20.68,
    "margin_pct": 24.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 31.72,
    "pat": -15.7,
    "margin_pct": 11.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 97.44,
    "pat": 70.49,
    "margin_pct": 34.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 191.63,
    "pat": 132.07,
    "margin_pct": 68.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 66,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,20 @@
    "ebitda": 47.4,
    "pat": 4.52,
    "margin_pct": 16.4,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 19,
-    "profit": 13,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -135.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -152,5 +166,58 @@
   "latest_guidance": [],
   "ledger": "claims/INE335K01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G7",
+  "group_name": "beverages, food, hotel",
+  "subgroup": "G7.0",
+  "subgroup_name": "beverages, food, hotel",
+  "terms": [
+   "beverages",
+   "food",
+   "hotel",
+   "food beverages",
+   "hospitality",
+   "leisure"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE102A01024",
+    "name": "HLV LIMITED"
+   },
+   {
+    "isin": "INE199C01026",
+    "name": "Advani Hotels & Resorts (India) Limited"
+   },
+   {
+    "isin": "INE363A01022",
+    "name": "Asian Hotels (North) Limited"
+   },
+   {
+    "isin": "INE508K01013",
+    "name": "Robust Hotels Limited"
+   },
+   {
+    "isin": "INE652F01027",
+    "name": "Country Club Hospitality & Holidays Limited"
+   },
+   {
+    "isin": "INE704H01022",
+    "name": "Cineline India Limited"
+   },
+   {
+    "isin": "INE915K01010",
+    "name": "Asian Hotels (West) Limited"
+   },
+   {
+    "isin": "INE926K01017",
+    "name": "Asian Hotels (East) Limited"
+   },
+   {
+    "isin": "INE985A01022",
+    "name": "Sinclairs Hotels Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

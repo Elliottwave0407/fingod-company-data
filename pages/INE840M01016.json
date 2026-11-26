@@ -3,7 +3,7 @@
  "sym": "ZUARI",
  "name": "Zuari Agro Chemicals Limited",
  "scrip": "534742",
- "mcap_cr": 762.51,
+ "mcap_cr": 762.3,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 32.47,
    "pat": 27.2,
    "margin_pct": 3.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 140.74,
    "pat": 127.38,
    "margin_pct": 11.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 991.25,
    "pat": 840.36,
    "margin_pct": 69.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 6.37,
    "pat": 39.7,
    "margin_pct": 1.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,22 @@
    "ebitda": -17.22,
    "pat": -25.1,
    "margin_pct": -9.2,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": -7,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +79,17 @@
    "ebitda": 59.15,
    "pat": 118.7,
    "margin_pct": 9.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 0,
-    "profit": 22,
-    "quality": 60
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 60.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -126,5 +143,38 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G20",
+  "group_name": "fertilizer, fertilizers, urea",
+  "subgroup": "G20.0",
+  "subgroup_name": "fertilizer, fertilizers, urea",
+  "terms": [
+   "fertilizer",
+   "fertilizers",
+   "urea",
+   "agriculture fertilizer",
+   "farmers",
+   "subsidy"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE147A01011",
+    "name": "Southern Petrochemicals Industries Corporation  Limited"
+   },
+   {
+    "isin": "INE414A01015",
+    "name": "Madras Fertilizers Limited"
+   },
+   {
+    "isin": "INE745B01028",
+    "name": "Khaitan Chemicals & Fertilizers Limited"
+   },
+   {
+    "isin": "INE809A01032",
+    "name": "Rama Phosphates Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

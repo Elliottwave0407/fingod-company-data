@@ -3,7 +3,7 @@
  "sym": "URJA",
  "name": "Urja Global Limited",
  "scrip": "526987",
- "mcap_cr": 372.55,
+ "mcap_cr": 372.02,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 0.72,
    "pat": 0.81,
    "margin_pct": 4.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 0.63,
    "pat": 0.97,
    "margin_pct": 3.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 0.67,
    "pat": 0.41,
    "margin_pct": 4.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 0.37,
    "pat": 0.25,
    "margin_pct": 2.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 0.47,
    "pat": 0.36,
    "margin_pct": 2.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 14,
-    "profit": 18,
-    "quality": 2
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,18 @@
    "ebitda": 0.55,
    "pat": 0.43,
    "margin_pct": 3.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 9,
-    "profit": 41,
-    "quality": 7
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 0.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -141,5 +154,38 @@
   "latest_guidance": [],
   "ledger": "claims/INE550C01020.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G22",
+  "group_name": "solar, batteries, rooftop",
+  "subgroup": "G22.0",
+  "subgroup_name": "solar, batteries, rooftop",
+  "terms": [
+   "solar",
+   "batteries",
+   "rooftop",
+   "modules",
+   "energy",
+   "renewable energy"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE403Y01018",
+    "name": "Innovana Thinklabs Limited"
+   },
+   {
+    "isin": "INE409B01013",
+    "name": "Swelect Energy Systems Limited"
+   },
+   {
+    "isin": "INE567A01028",
+    "name": "Indo-National Limited"
+   },
+   {
+    "isin": "INE866K01023",
+    "name": "Indosolar Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

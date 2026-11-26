@@ -3,7 +3,7 @@
  "sym": "BEDMUTHA",
  "name": "Bedmutha Industries Limited",
  "scrip": "533270",
- "mcap_cr": 332.96,
+ "mcap_cr": 340.38,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 10.1,
    "pat": 2.07,
    "margin_pct": 3.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 10.52,
    "pat": -3.3,
    "margin_pct": 3.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 14.27,
    "pat": -0.93,
    "margin_pct": 3.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 11.17,
    "pat": -3.9,
    "margin_pct": 3.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 23.25,
    "pat": 14.63,
    "margin_pct": 5.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 98,
-    "profit": 54,
-    "quality": 69
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,18 @@
    "ebitda": 17.75,
    "pat": 6.92,
    "margin_pct": 3.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 33,
-    "quality": 55
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -17.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -130,5 +140,42 @@
   "latest_guidance": [],
   "ledger": "claims/INE844K01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G12",
+  "group_name": "wire, wires, cables",
+  "subgroup": "G12.0",
+  "subgroup_name": "wire, wires, cables",
+  "terms": [
+   "wire",
+   "wires",
+   "cables",
+   "copper",
+   "steel",
+   "pvc"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE0INJ01017",
+    "name": "Plaza Wires Limited"
+   },
+   {
+    "isin": "INE0O9T01021",
+    "name": "Indef Manufacturing Limited"
+   },
+   {
+    "isin": "INE792I01017",
+    "name": "Cords Cable Industries Limited"
+   },
+   {
+    "isin": "INE864X01013",
+    "name": "D P Wires Limited"
+   },
+   {
+    "isin": "INE918N01018",
+    "name": "Veto Switchgears And Cables Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

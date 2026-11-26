@@ -3,7 +3,7 @@
  "sym": "MEDICAMEQ",
  "name": "Medicamen Biotech Limited",
  "scrip": "531146",
- "mcap_cr": 382.74,
+ "mcap_cr": 377.59,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -1.61,
    "pat": 1.86,
    "margin_pct": -5.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 4.61,
    "pat": 1.6,
    "margin_pct": 10.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 5.16,
    "pat": 2.11,
    "margin_pct": 10.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 4.38,
    "pat": 1.63,
    "margin_pct": 9.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 5.43,
    "pat": 4.45,
    "margin_pct": 9.0,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 87,
-    "quality": 77
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "margin fell QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,18 @@
    "ebitda": 4.33,
    "pat": 1.85,
    "margin_pct": 9.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 32,
-    "profit": 21,
-    "quality": 47
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -136,5 +150,62 @@
   "dividend_per_share": 1
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G5",
+  "group_name": "pharmaceutical, api, apis",
+  "subgroup": "G5.0",
+  "subgroup_name": "pharmaceutical, api, apis",
+  "terms": [
+   "pharmaceutical",
+   "api",
+   "apis",
+   "pharmaceuticals",
+   "drugs",
+   "formulations"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE083B01024",
+    "name": "Themis Medicare Limited"
+   },
+   {
+    "isin": "INE0JWS01017",
+    "name": "Valiant Laboratories Limited"
+   },
+   {
+    "isin": "INE107F01022",
+    "name": "Wanbury Limited"
+   },
+   {
+    "isin": "INE155C01010",
+    "name": "Albert David Limited"
+   },
+   {
+    "isin": "INE198H01019",
+    "name": "Aarey Drugs & Pharmaceuticals Limited"
+   },
+   {
+    "isin": "INE320X01016",
+    "name": "HALEOS LABS LIMITED"
+   },
+   {
+    "isin": "INE650L01011",
+    "name": "Brooks Laboratories Limited"
+   },
+   {
+    "isin": "INE788J01021",
+    "name": "Shivalik Rasayan Limited"
+   },
+   {
+    "isin": "INE878I01022",
+    "name": "Bafna Pharmaceuticals Limited"
+   },
+   {
+    "isin": "INE933A01014",
+    "name": "Lyka Labs Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -1113,13 +1113,6 @@
   "concalls": 0
  },
  {
-  "isin": "INE083A01026",
-  "sym": "MOREPENLAB",
-  "name": "Morepen Laboratories Limited",
-  "held": 6,
-  "concalls": 5
- },
- {
   "isin": "INE083B01024",
   "sym": "THEMISMED",
   "name": "Themis Medicare Limited",
@@ -1943,7 +1936,7 @@
   "sym": "VSTL",
   "name": "Vibhor Steel Tubes Limited",
   "held": 5,
-  "concalls": 8
+  "concalls": 9
  },
  {
   "isin": "INE0R4L01018",
@@ -3920,6 +3913,13 @@
   "concalls": 3
  },
  {
+  "isin": "INE337A01034",
+  "sym": "LGBBROSLTD",
+  "name": "LG Balakrishnan & Bros Limited",
+  "held": 6,
+  "concalls": 0
+ },
+ {
   "isin": "INE337M01021",
   "sym": "INDOTHAI",
   "name": "Indo Thai Securities Limited",
@@ -4827,7 +4827,7 @@
   "sym": "BHAGYANGR",
   "name": "Bhagyanagar India Limited",
   "held": 5,
-  "concalls": 4
+  "concalls": 5
  },
  {
   "isin": "INE458F01011",
@@ -4960,7 +4960,7 @@
   "sym": "PRECAM",
   "name": "Precision Camshafts Limited",
   "held": 5,
-  "concalls": 10
+  "concalls": 11
  },
  {
   "isin": "INE485A01015",
@@ -5513,7 +5513,7 @@
   "sym": "CONFIPET",
   "name": "Confidence Petroleum India Limited",
   "held": 5,
-  "concalls": 1
+  "concalls": 2
  },
  {
   "isin": "INE553C01016",

@@ -3,7 +3,7 @@
  "sym": "QUESS",
  "name": "Quess Corp Limited",
  "scrip": "539978",
- "mcap_cr": 4954.38,
+ "mcap_cr": 4869.23,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -90.63,
    "pat": -95.45,
    "margin_pct": -2.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 67.89,
    "pat": 50.99,
    "margin_pct": 1.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 76.69,
    "pat": 51.77,
    "margin_pct": 2.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 72.82,
    "pat": 55.09,
    "margin_pct": 1.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 86.96,
    "pat": 64.35,
    "margin_pct": 2.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 36,
-    "profit": 79,
-    "quality": 91
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,17 @@
    "ebitda": 84.53,
    "pat": 82.12,
    "margin_pct": 2.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 58,
-    "profit": 35,
-    "quality": 74
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +93,18 @@
    "ebitda": 85.72,
    "pat": 74.66,
    "margin_pct": 1.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 48,
-    "profit": 33,
-    "quality": 66
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -4.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -204,5 +222,6 @@
   ],
   "ledger": "claims/INE615P01015.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

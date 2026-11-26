@@ -3,7 +3,7 @@
  "sym": "WENDT",
  "name": "Wendt (India) Limited",
  "scrip": "505412",
- "mcap_cr": 1395.63,
+ "mcap_cr": 1378.01,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 18.35,
    "pat": 12.89,
    "margin_pct": 24.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 7.28,
    "pat": 3.78,
    "margin_pct": 14.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 6.68,
    "pat": 2.7,
    "margin_pct": 11.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 7.32,
    "pat": 2.98,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 10.76,
    "pat": 5.09,
    "margin_pct": 16.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 8,
-    "profit": 13,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,16 @@
    "ebitda": 11.0,
    "pat": 6.18,
    "margin_pct": 15.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 87,
-    "profit": 59,
-    "quality": 79
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 63.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,16 @@
    "ebitda": 10.59,
    "pat": 5.49,
    "margin_pct": 14.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 85,
-    "profit": 71,
-    "quality": 87
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 1.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -178,5 +192,38 @@
   ],
   "ledger": "claims/INE274C01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G19",
+  "group_name": "precision, defence, components",
+  "subgroup": "G19.0",
+  "subgroup_name": "precision, defence, components",
+  "terms": [
+   "precision",
+   "defence",
+   "components",
+   "aerospace",
+   "auto",
+   "gears"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE127B01011",
+    "name": "The Hi-Tech Gears Limited"
+   },
+   {
+    "isin": "INE397H01017",
+    "name": "Lokesh Machines Limited"
+   },
+   {
+    "isin": "INE637H01024",
+    "name": "Shivam Autotech Limited"
+   },
+   {
+    "isin": "INE711A01022",
+    "name": "Walchandnagar Industries Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

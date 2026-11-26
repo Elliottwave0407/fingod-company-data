@@ -3,7 +3,7 @@
  "sym": "AHCL",
  "name": "Anlon Healthcare Limited",
  "scrip": "544497",
- "mcap_cr": 1309.12,
+ "mcap_cr": 1287.33,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 6.24,
    "pat": 3.55,
    "margin_pct": 18.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 13.74,
    "pat": 9.32,
    "margin_pct": 26.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 12.34,
    "pat": 5.15,
    "margin_pct": 34.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 15.29,
    "pat": 11.07,
    "margin_pct": 30.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,18 @@
    "ebitda": 15.59,
    "pat": 8.28,
    "margin_pct": 17.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 36,
-    "quality": 62
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +75,16 @@
    "ebitda": 25.23,
    "pat": 17.18,
    "margin_pct": 23.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 100,
-    "profit": 25,
-    "quality": 59
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -46.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin not holding (Blockbuster needs margin flat or up)"
+   ]
   }
  ],
  "completeness": {
@@ -137,5 +149,6 @@
   ],
   "ledger": "claims/INE0Y8W01025.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

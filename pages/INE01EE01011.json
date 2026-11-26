@@ -3,7 +3,7 @@
  "sym": "BBTCL",
  "name": "B&B Triplewall Containers Limited",
  "scrip": "543668",
- "mcap_cr": 440.68,
+ "mcap_cr": 461.2,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 15.81,
    "pat": -1.99,
    "margin_pct": 11.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 18.25,
    "pat": 1.74,
    "margin_pct": 12.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 21.5,
    "pat": 4.36,
    "margin_pct": 14.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 22.52,
    "pat": 4.7,
    "margin_pct": 14.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 28.29,
    "pat": 8.9,
    "margin_pct": 17.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 75,
-    "profit": 94,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,14 @@
    "ebitda": 33.74,
    "pat": 14.39,
    "margin_pct": 18.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 79,
-    "profit": 95,
-    "quality": 100
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 4.1
    },
-   "capped_by": "revenue growth under 20%"
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -155,5 +163,62 @@
   "latest_guidance": [],
   "ledger": "claims/INE01EE01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G4",
+  "group_name": "paper, papers, tissue",
+  "subgroup": "G4.0",
+  "subgroup_name": "paper, papers, tissue",
+  "terms": [
+   "paper",
+   "papers",
+   "tissue",
+   "kraft",
+   "packaging",
+   "writing"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE107A01015",
+    "name": "Tamil Nadu Newsprint & Papers Limited"
+   },
+   {
+    "isin": "INE196Y01018",
+    "name": "Worth Peripherals Limited"
+   },
+   {
+    "isin": "INE278B01020",
+    "name": "Shree Rama Newsprint Limited"
+   },
+   {
+    "isin": "INE435A01051",
+    "name": "ANDHRA PAPER LIMITED"
+   },
+   {
+    "isin": "INE592A01026",
+    "name": "Orient Paper & Industries Limited"
+   },
+   {
+    "isin": "INE630A01024",
+    "name": "Seshasayee Paper and Boards Limited"
+   },
+   {
+    "isin": "INE642C01025",
+    "name": "Rubfila International Limited"
+   },
+   {
+    "isin": "INE733A01018",
+    "name": "Star Paper Mills Limited"
+   },
+   {
+    "isin": "INE865T01018",
+    "name": "Pudumjee Paper Products Limited"
+   },
+   {
+    "isin": "INE949P01018",
+    "name": "Genus Paper & Boards Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

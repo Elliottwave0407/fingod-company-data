@@ -3,7 +3,7 @@
  "sym": "WANBURY",
  "name": "Wanbury Limited",
  "scrip": "524212",
- "mcap_cr": 635.35,
+ "mcap_cr": 636.4,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 29.62,
    "pat": 20.26,
    "margin_pct": 17.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 24.44,
    "pat": 13.49,
    "margin_pct": 15.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 25.78,
    "pat": 15.18,
    "margin_pct": 16.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 26.69,
    "pat": 15.76,
    "margin_pct": 16.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 26.25,
    "pat": 21.7,
    "margin_pct": 15.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 18,
-    "profit": 31,
-    "quality": 47
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,20 @@
    "ebitda": 16.24,
    "pat": 3.24,
    "margin_pct": 9.8,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 14,
-    "profit": 8,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -11.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -178,5 +194,62 @@
   ],
   "ledger": "claims/INE107F01022.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G5",
+  "group_name": "pharmaceutical, api, apis",
+  "subgroup": "G5.0",
+  "subgroup_name": "pharmaceutical, api, apis",
+  "terms": [
+   "pharmaceutical",
+   "api",
+   "apis",
+   "pharmaceuticals",
+   "drugs",
+   "formulations"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE083B01024",
+    "name": "Themis Medicare Limited"
+   },
+   {
+    "isin": "INE0JWS01017",
+    "name": "Valiant Laboratories Limited"
+   },
+   {
+    "isin": "INE155C01010",
+    "name": "Albert David Limited"
+   },
+   {
+    "isin": "INE198H01019",
+    "name": "Aarey Drugs & Pharmaceuticals Limited"
+   },
+   {
+    "isin": "INE320X01016",
+    "name": "HALEOS LABS LIMITED"
+   },
+   {
+    "isin": "INE646B01010",
+    "name": "Medicamen Biotech Limited"
+   },
+   {
+    "isin": "INE650L01011",
+    "name": "Brooks Laboratories Limited"
+   },
+   {
+    "isin": "INE788J01021",
+    "name": "Shivalik Rasayan Limited"
+   },
+   {
+    "isin": "INE878I01022",
+    "name": "Bafna Pharmaceuticals Limited"
+   },
+   {
+    "isin": "INE933A01014",
+    "name": "Lyka Labs Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

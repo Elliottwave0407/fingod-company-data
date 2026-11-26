@@ -3,7 +3,7 @@
  "sym": "MCLEODRUSS",
  "name": "Mcleod Russel India Limited",
  "scrip": "532654",
- "mcap_cr": 447.28,
+ "mcap_cr": 434.85,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -122.32,
    "pat": -169.44,
    "margin_pct": -95.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 7.17,
    "pat": -43.48,
    "margin_pct": 3.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 98.47,
    "pat": 29.06,
    "margin_pct": 27.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 7.74,
    "pat": -36.41,
    "margin_pct": 1.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,22 @@
    "ebitda": -286.23,
    "pat": -72.67,
    "margin_pct": -219.6,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 28,
-    "profit": -176,
-    "quality": 100
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +79,16 @@
    "ebitda": 29.13,
    "pat": -13.38,
    "margin_pct": 11.2,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 81,
-    "profit": 89,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss"
+   ]
   }
  ],
  "completeness": {
@@ -160,5 +176,38 @@
   ],
   "ledger": "claims/INE942G01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G16",
+  "group_name": "tea, tea market, leaves",
+  "subgroup": "G16.0",
+  "subgroup_name": "tea, tea market, leaves",
+  "terms": [
+   "tea",
+   "tea market",
+   "leaves",
+   "leaf",
+   "tea leaves",
+   "market"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE047B01011",
+    "name": "Gillanders Arbuthnot & Company Limited"
+   },
+   {
+    "isin": "INE364A01020",
+    "name": "Jayshree Tea & Industries Limited"
+   },
+   {
+    "isin": "INE544A01019",
+    "name": "Harrisons  Malayalam Limited"
+   },
+   {
+    "isin": "INE847C01020",
+    "name": "Rossell India Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

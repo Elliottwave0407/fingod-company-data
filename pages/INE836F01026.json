@@ -3,7 +3,7 @@
  "sym": "DISHTV",
  "name": "Dish TV India Limited",
  "scrip": "532839",
- "mcap_cr": 364.57,
+ "mcap_cr": 360.89,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -238.06,
    "pat": -402.19,
    "margin_pct": -69.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 72.84,
    "pat": -94.53,
    "margin_pct": 22.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 31.85,
    "pat": -132.66,
    "margin_pct": 10.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -111.54,
    "pat": -276.23,
    "margin_pct": -37.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": -143.52,
    "pat": -303.95,
    "margin_pct": -59.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 1,
-    "profit": 33,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,17 @@
    "ebitda": -108.72,
    "pat": -286.31,
    "margin_pct": -40.9,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 4,
-    "profit": -33,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -150,5 +165,54 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G9",
+  "group_name": "television, media, digital",
+  "subgroup": "G9.0",
+  "subgroup_name": "television, media, digital",
+  "terms": [
+   "television",
+   "media",
+   "digital",
+   "news",
+   "advertisement",
+   "broadcasting"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE038F01029",
+    "name": "TV Today Network Limited"
+   },
+   {
+    "isin": "INE155G01029",
+    "name": "New Delhi Television Limited"
+   },
+   {
+    "isin": "INE199G01027",
+    "name": "Jagran Prakashan Limited"
+   },
+   {
+    "isin": "INE416A01051",
+    "name": "Aqylon Nexus Limited"
+   },
+   {
+    "isin": "INE583B01015",
+    "name": "The Sandesh Limited"
+   },
+   {
+    "isin": "INE947J01015",
+    "name": "Den Networks Limited"
+   },
+   {
+    "isin": "INE966H01019",
+    "name": "Zee Media Corporation Limited"
+   },
+   {
+    "isin": "INE982F01036",
+    "name": "Hathway Cable & Datacom Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

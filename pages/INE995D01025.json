@@ -3,7 +3,7 @@
  "sym": "CHEMBOND",
  "name": "Chembond Material Technologies Limited",
  "scrip": "530871",
- "mcap_cr": 285.64,
+ "mcap_cr": 281.74,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 3.6,
    "pat": 3.36,
    "margin_pct": 6.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 3.47,
    "pat": 3.99,
    "margin_pct": 6.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 4.02,
    "pat": 3.83,
    "margin_pct": 7.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 2.34,
    "pat": 1.59,
    "margin_pct": 3.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 6.92,
    "pat": 3.48,
    "margin_pct": 9.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 91,
-    "profit": 67,
-    "quality": 25
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,18 @@
    "ebitda": 2.97,
    "pat": 5.73,
    "margin_pct": 4.1,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 40,
-    "profit": 15,
-    "quality": 56
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -48.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,14 @@
    "ebitda": 8.73,
    "pat": 4.3,
    "margin_pct": 9.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 98,
-    "profit": 68,
-    "quality": 31
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 63.3
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -161,5 +172,26 @@
   "latest_guidance": [],
   "ledger": "claims/INE995D01025.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G56",
+  "group_name": "animal health, animal, nutrition",
+  "subgroup": "G56.0",
+  "subgroup_name": "animal health, animal, nutrition",
+  "terms": [
+   "animal health",
+   "animal",
+   "nutrition",
+   "additives",
+   "health",
+   "feed additives"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE488D01021",
+    "name": "AVT Natural Products Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

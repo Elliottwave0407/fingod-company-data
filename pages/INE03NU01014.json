@@ -3,7 +3,7 @@
  "sym": "BRIGHOTEL",
  "name": "Brigade Hotel Ventures Limited",
  "scrip": "544457",
- "mcap_cr": 2132.82,
+ "mcap_cr": 2175.36,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 40.95,
    "pat": 7.16,
    "margin_pct": 33.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 37.15,
    "pat": 10.6,
    "margin_pct": 29.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 47.27,
    "pat": 21.72,
    "margin_pct": 34.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 48.53,
    "pat": 25.11,
    "margin_pct": 35.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,20 @@
    "ebitda": 41.7,
    "pat": 17.34,
    "margin_pct": 32.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 29,
-    "profit": 50,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +77,14 @@
    "ebitda": 48.11,
    "pat": 21.95,
    "margin_pct": 34.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 57,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 20.5
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -155,5 +167,6 @@
   ],
   "ledger": "claims/INE03NU01014.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

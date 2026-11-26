@@ -3,7 +3,7 @@
  "sym": "CINELINE",
  "name": "Cineline India Limited",
  "scrip": "532807",
- "mcap_cr": 322.07,
+ "mcap_cr": 312.2,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -17.36,
    "pat": -12.47,
    "margin_pct": -31.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 5.68,
    "pat": -2.06,
    "margin_pct": 12.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 12.83,
    "pat": 4.05,
    "margin_pct": 20.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 16.58,
    "pat": 6.21,
    "margin_pct": 24.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": 13.77,
    "pat": 3.32,
    "margin_pct": 22.1,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 48,
-    "profit": 98,
-    "quality": 100
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,18 @@
    "ebitda": 10.05,
    "pat": -1.21,
    "margin_pct": 17.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 87,
-    "profit": 88,
-    "quality": 71
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -163,5 +180,58 @@
   ],
   "ledger": "claims/INE704H01022.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G7",
+  "group_name": "beverages, food, hotel",
+  "subgroup": "G7.0",
+  "subgroup_name": "beverages, food, hotel",
+  "terms": [
+   "beverages",
+   "food",
+   "hotel",
+   "food beverages",
+   "hospitality",
+   "leisure"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE102A01024",
+    "name": "HLV LIMITED"
+   },
+   {
+    "isin": "INE199C01026",
+    "name": "Advani Hotels & Resorts (India) Limited"
+   },
+   {
+    "isin": "INE335K01011",
+    "name": "Coffee Day Enterprises Limited"
+   },
+   {
+    "isin": "INE363A01022",
+    "name": "Asian Hotels (North) Limited"
+   },
+   {
+    "isin": "INE508K01013",
+    "name": "Robust Hotels Limited"
+   },
+   {
+    "isin": "INE652F01027",
+    "name": "Country Club Hospitality & Holidays Limited"
+   },
+   {
+    "isin": "INE915K01010",
+    "name": "Asian Hotels (West) Limited"
+   },
+   {
+    "isin": "INE926K01017",
+    "name": "Asian Hotels (East) Limited"
+   },
+   {
+    "isin": "INE985A01022",
+    "name": "Sinclairs Hotels Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

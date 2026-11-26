@@ -3,7 +3,7 @@
  "sym": "AUSOMENT",
  "name": "Ausom Enterprise Limited",
  "scrip": "509009",
- "mcap_cr": 182.49,
+ "mcap_cr": 174.86,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 4.5,
    "pat": 11.04,
    "margin_pct": 0.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 12.42,
    "pat": 14.78,
    "margin_pct": 2.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -0.13,
    "pat": 1.81,
    "margin_pct": -0.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 0.58,
    "pat": 2.06,
    "margin_pct": 1.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 0.86,
    "pat": 0.83,
    "margin_pct": 0.1,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 10,
-    "profit": 30,
-    "quality": 12
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,14 @@
    "ebitda": 26.95,
    "pat": 20.13,
    "margin_pct": 1.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 100,
-    "profit": 15,
-    "quality": 44
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 240.9
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -125,5 +137,30 @@
   "dividend_per_share": 1.0
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G35",
+  "group_name": "jewellery, gold, diamonds",
+  "subgroup": "G35.0",
+  "subgroup_name": "jewellery, gold, diamonds",
+  "terms": [
+   "jewellery",
+   "gold",
+   "diamonds",
+   "gold jewellery",
+   "gold silver",
+   "precious"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE123C01018",
+    "name": "Tainwala Chemical and Plastic (I) Limited"
+   },
+   {
+    "isin": "INE583V01021",
+    "name": "Radhika Jeweltech Ltd"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

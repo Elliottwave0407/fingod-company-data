@@ -3,7 +3,7 @@
  "sym": "GNA",
  "name": "GNA Axles Limited",
  "scrip": "540124",
- "mcap_cr": 2259.23,
+ "mcap_cr": 2243.35,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 50.08,
    "pat": 22.99,
    "margin_pct": 14.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 61.13,
    "pat": 31.19,
    "margin_pct": 17.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 69.42,
    "pat": 31.95,
    "margin_pct": 18.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 57.31,
    "pat": 30.82,
    "margin_pct": 13.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,14 @@
    "ebitda": 72.25,
    "pat": 38.27,
    "margin_pct": 15.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 84,
-    "profit": 52,
-    "quality": 79
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -66,13 +71,14 @@
    "ebitda": 81.51,
    "pat": 44.07,
    "margin_pct": 15.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 85,
-    "profit": 24,
-    "quality": 59
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -3.3
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -131,5 +137,6 @@
   "dividend_per_share": 3
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

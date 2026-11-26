@@ -3,7 +3,7 @@
  "sym": "GANDHITUBE",
  "name": "Gandhi Special Tubes Limited",
  "scrip": "513108",
- "mcap_cr": 1068.16,
+ "mcap_cr": 1065.85,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 16.02,
    "pat": 11.95,
    "margin_pct": 37.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 20.77,
    "pat": 21.61,
    "margin_pct": 43.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 21.03,
    "pat": 17.69,
    "margin_pct": 43.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 21.12,
    "pat": 19.7,
    "margin_pct": 43.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 19.75,
    "pat": 9.36,
    "margin_pct": 41.8,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 52,
-    "profit": 99,
-    "quality": 3
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,14 @@
    "ebitda": 26.65,
    "pat": 27.94,
    "margin_pct": 46.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 65,
-    "profit": 85,
-    "quality": 80
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": 3.1
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -122,5 +134,30 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G33",
+  "group_name": "tubes, seamless, seamless pipes",
+  "subgroup": "G33.0",
+  "subgroup_name": "tubes, seamless, seamless pipes",
+  "terms": [
+   "tubes",
+   "seamless",
+   "seamless pipes",
+   "pipes tubes",
+   "steel",
+   "pipes"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE0JYY01029",
+    "name": "Mangalam Worldwide Limited"
+   },
+   {
+    "isin": "INE713C01016",
+    "name": "Suraj Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

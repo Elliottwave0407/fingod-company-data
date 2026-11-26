@@ -3,7 +3,7 @@
  "sym": "GIPCL",
  "name": "Gujarat Industries Power Company Limited",
  "scrip": "517300",
- "mcap_cr": 2386.45,
+ "mcap_cr": 2376.36,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 119.28,
    "pat": 69.73,
    "margin_pct": 35.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 112.67,
    "pat": 57.47,
    "margin_pct": 30.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 107.76,
    "pat": 21.3,
    "margin_pct": 33.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 122.33,
    "pat": -3.2,
    "margin_pct": 33.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 194.99,
    "pat": 326.85,
    "margin_pct": 45.5,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 84,
-    "profit": 100,
-    "quality": 80
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 241.64,
    "pat": 157.9,
    "margin_pct": 48.4,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 90,
-    "profit": 100,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 32.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -222,5 +230,6 @@
   ],
   "ledger": "claims/INE162A01010.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

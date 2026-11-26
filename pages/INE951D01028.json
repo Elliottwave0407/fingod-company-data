@@ -3,7 +3,7 @@
  "sym": "ATULAUTO",
  "name": "Atul Auto Limited",
  "scrip": "531795",
- "mcap_cr": 1087.43,
+ "mcap_cr": 1081.47,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 15.11,
    "pat": 5.89,
    "margin_pct": 7.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 10.01,
    "pat": 2.06,
    "margin_pct": 6.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 18.51,
    "pat": 8.27,
    "margin_pct": 9.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 26.89,
    "pat": 14.58,
    "margin_pct": 11.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 27.31,
    "pat": 18.32,
    "margin_pct": 11.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 75,
-    "profit": 82,
-    "quality": 99
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "revenue growth under 20%"
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 16.87,
    "pat": 8.04,
    "margin_pct": 7.7,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 93,
-    "profit": 50,
-    "quality": 84
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 1.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,19 @@
    "ebitda": 13.96,
    "pat": 6.84,
    "margin_pct": 5.2,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 42,
-    "profit": 4,
-    "quality": 15
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Flat",
+    "acceleration": -43.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -132,5 +149,26 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G39",
+  "group_name": "films, tier, government procurement",
+  "subgroup": "G39.0",
+  "subgroup_name": "films, tier, government procurement",
+  "terms": [
+   "films",
+   "tier",
+   "government procurement",
+   "last-mile",
+   "three-wheelers",
+   "tier iii"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE03V001013",
+    "name": "Universus Photo Imagings Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "BAJAJINDEF",
  "name": "Indef Manufacturing Limited",
  "scrip": "544364",
- "mcap_cr": 694.4,
+ "mcap_cr": 697.44,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 10.68,
    "pat": 10.13,
    "margin_pct": 20.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 3.71,
    "pat": 5.65,
    "margin_pct": 9.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 6.28,
    "pat": 6.22,
    "margin_pct": 12.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 3.71,
    "pat": 4.82,
    "margin_pct": 7.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 8.93,
    "pat": 6.7,
    "margin_pct": 13.1,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 41,
-    "profit": 10,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,22 @@
    "ebitda": -0.98,
    "pat": 5.48,
    "margin_pct": -2.8,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 7,
-    "profit": -2,
-    "quality": 33
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -60.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit slightly down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -122,5 +138,42 @@
   "dividend_per_share": 2
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G12",
+  "group_name": "wire, wires, cables",
+  "subgroup": "G12.0",
+  "subgroup_name": "wire, wires, cables",
+  "terms": [
+   "wire",
+   "wires",
+   "cables",
+   "copper",
+   "steel",
+   "pvc"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE0INJ01017",
+    "name": "Plaza Wires Limited"
+   },
+   {
+    "isin": "INE792I01017",
+    "name": "Cords Cable Industries Limited"
+   },
+   {
+    "isin": "INE844K01012",
+    "name": "Bedmutha Industries Limited"
+   },
+   {
+    "isin": "INE864X01013",
+    "name": "D P Wires Limited"
+   },
+   {
+    "isin": "INE918N01018",
+    "name": "Veto Switchgears And Cables Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

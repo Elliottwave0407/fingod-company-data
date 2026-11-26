@@ -3,7 +3,7 @@
  "sym": "DONEAR",
  "name": "Donear Industries Limited",
  "scrip": "512519",
- "mcap_cr": 457.6,
+ "mcap_cr": 457.13,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 13.32,
    "pat": 1.61,
    "margin_pct": 5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 21.19,
    "pat": 8.81,
    "margin_pct": 10.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 30.37,
    "pat": 12.4,
    "margin_pct": 12.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 27.99,
    "pat": 17.1,
    "margin_pct": 11.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 8.15,
    "pat": 5.14,
    "margin_pct": 3.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 9,
-    "profit": 16,
-    "quality": 64
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,16 @@
    "ebitda": 23.23,
    "pat": 11.26,
    "margin_pct": 11.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 40,
-    "profit": 42,
-    "quality": 60
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 25.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -122,5 +135,30 @@
   "dividend_per_share": 0.2
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G1",
+  "group_name": "yarn, cotton, textile",
+  "subgroup": "G1.2",
+  "subgroup_name": "finished, nahar, home textiles",
+  "terms": [
+   "finished",
+   "nahar",
+   "home textiles",
+   "material",
+   "raw material",
+   "fabrics finished"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE231G01010",
+    "name": "Orbit Exports Limited"
+   },
+   {
+    "isin": "INE289A01011",
+    "name": "Nahar Industrial Enterprises Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "AMJLAND",
  "name": "Amj Land Holdings Limited",
  "scrip": "500343",
- "mcap_cr": 138.17,
+ "mcap_cr": 138.25,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 15.54,
    "pat": 10.98,
    "margin_pct": 61.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 3.98,
    "pat": 3.62,
    "margin_pct": 27.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 2.97,
    "pat": 4.93,
    "margin_pct": 26.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 0.57,
    "pat": 1.36,
    "margin_pct": 4.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 6.86,
    "pat": 5.42,
    "margin_pct": 44.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": 20,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,21 @@
    "ebitda": 3.05,
    "pat": 3.37,
    "margin_pct": 21.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 15,
-    "profit": 17,
-    "quality": 14
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Flat",
+    "acceleration": 40.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +96,16 @@
    "ebitda": 5.04,
    "pat": 5.14,
    "margin_pct": 29.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 99,
-    "profit": 74,
-    "quality": 16
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 65.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "profit growth under 25% (Blockbuster needs profit up at least 25%)"
+   ]
   }
  ],
  "completeness": {
@@ -114,5 +133,6 @@
  },
  "annual_report": null,
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

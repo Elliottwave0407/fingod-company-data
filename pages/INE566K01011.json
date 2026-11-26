@@ -3,7 +3,7 @@
  "sym": "ISFT",
  "name": "Intrasoft Technologies Limited",
  "scrip": "533181",
- "mcap_cr": 198.51,
+ "mcap_cr": 194.11,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 3.65,
    "pat": 2.35,
    "margin_pct": 2.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 4.82,
    "pat": 4.1,
    "margin_pct": 3.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 4.06,
    "pat": 3.41,
    "margin_pct": 3.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 3.9,
    "pat": 2.62,
    "margin_pct": 2.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 4.0,
    "pat": 3.15,
    "margin_pct": 2.9,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 37,
-    "profit": 36,
-    "quality": 63
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 4.89,
    "pat": 4.55,
    "margin_pct": 3.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 33,
-    "profit": 32,
-    "quality": 42
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": -2.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -159,5 +169,26 @@
   ],
   "ledger": "claims/INE566K01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G55",
+  "group_name": "e-commerce, online, inc",
+  "subgroup": "G55.0",
+  "subgroup_name": "e-commerce, online, inc",
+  "terms": [
+   "e-commerce",
+   "online",
+   "inc",
+   "marketplace",
+   "vendors",
+   "internet"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE461B01014",
+    "name": "Repro India Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

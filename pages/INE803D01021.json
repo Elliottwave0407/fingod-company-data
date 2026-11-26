@@ -3,7 +3,7 @@
  "sym": "INDOBORAX",
  "name": "Indo Borax & Chemicals Limited",
  "scrip": "524342",
- "mcap_cr": 1111.44,
+ "mcap_cr": 1041.16,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 10.2,
    "pat": 10.24,
    "margin_pct": 20.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 12.21,
    "pat": 10.2,
    "margin_pct": 22.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 19.84,
    "pat": 16.26,
    "margin_pct": 34.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 8.63,
    "pat": 9.27,
    "margin_pct": 21.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 13.61,
    "pat": 14.53,
    "margin_pct": 21.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 73,
-    "profit": 62,
-    "quality": 79
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,14 @@
    "ebitda": 19.8,
    "pat": 16.25,
    "margin_pct": 28.1,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 88,
-    "profit": 100,
-    "quality": 94
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 18.2
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -161,5 +167,6 @@
   ],
   "ledger": "claims/INE803D01021.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

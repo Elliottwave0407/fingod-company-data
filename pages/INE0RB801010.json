@@ -3,7 +3,7 @@
  "sym": "SENORES",
  "name": "Senores Pharmaceuticals Limited",
  "scrip": "544319",
- "mcap_cr": 4920.83,
+ "mcap_cr": 4929.58,
  "group": "A",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 19.44,
    "pat": 17.97,
    "margin_pct": 17.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 34.17,
    "pat": 21.18,
    "margin_pct": 24.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 49.51,
    "pat": 30.12,
    "margin_pct": 30.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 54.0,
    "pat": 33.58,
    "margin_pct": 30.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 47.49,
    "pat": 36.67,
    "margin_pct": 27.1,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 97,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin not holding (Blockbuster needs margin flat or up)",
+    "sequential momentum is flat"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,16 @@
    "ebitda": 53.76,
    "pat": 30.45,
    "margin_pct": 29.8,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 86,
-    "profit": 100,
-    "quality": 73
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -45.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,14 @@
    "ebitda": 57.66,
    "pat": 36.6,
    "margin_pct": 30.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 56,
-    "profit": 45,
-    "quality": 54
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -26.9
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -195,5 +208,6 @@
   ],
   "ledger": "claims/INE0RB801010.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

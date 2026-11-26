@@ -3,7 +3,7 @@
  "sym": "SOLARA",
  "name": "Solara Active Pharma Sciences Limited",
  "scrip": "541540",
- "mcap_cr": 2927.75,
+ "mcap_cr": 2931.83,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 45.37,
    "pat": -2.1,
    "margin_pct": 16.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 57.02,
    "pat": 10.52,
    "margin_pct": 17.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 34.73,
    "pat": -10.1,
    "margin_pct": 11.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 30.59,
    "pat": -17.43,
    "margin_pct": 8.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 58.52,
    "pat": 9.6,
    "margin_pct": 15.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 79,
-    "profit": 28,
-    "quality": 64
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 61.97,
    "pat": 16.31,
    "margin_pct": 16.2,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 49,
-    "profit": 28,
-    "quality": 74
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -15.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +88,14 @@
    "ebitda": 72.34,
    "pat": 28.46,
    "margin_pct": 17.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 89,
-    "profit": 94,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 51.4
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -181,5 +190,6 @@
   ],
   "ledger": "claims/INE624Z01016.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

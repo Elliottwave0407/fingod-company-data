@@ -3,7 +3,7 @@
  "sym": "JAYSREETEA",
  "name": "Jayshree Tea & Industries Limited",
  "scrip": "509715",
- "mcap_cr": 228.83,
+ "mcap_cr": 233.33,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 16.75,
    "pat": 31.46,
    "margin_pct": 10.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -0.43,
    "pat": -8.98,
    "margin_pct": -0.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 33.81,
    "pat": 19.58,
    "margin_pct": 12.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 11.54,
    "pat": -1.5,
    "margin_pct": 3.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,21 @@
    "ebitda": -26.65,
    "pat": -34.16,
    "margin_pct": -15.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 21,
-    "profit": -12,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +78,19 @@
    "ebitda": 5.53,
    "pat": -5.94,
    "margin_pct": 2.7,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 40,
-    "profit": 63,
-    "quality": 63
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -160,5 +178,38 @@
   "latest_guidance": [],
   "ledger": "claims/INE364A01020.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G16",
+  "group_name": "tea, tea market, leaves",
+  "subgroup": "G16.0",
+  "subgroup_name": "tea, tea market, leaves",
+  "terms": [
+   "tea",
+   "tea market",
+   "leaves",
+   "leaf",
+   "tea leaves",
+   "market"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE047B01011",
+    "name": "Gillanders Arbuthnot & Company Limited"
+   },
+   {
+    "isin": "INE544A01019",
+    "name": "Harrisons  Malayalam Limited"
+   },
+   {
+    "isin": "INE847C01020",
+    "name": "Rossell India Limited"
+   },
+   {
+    "isin": "INE942G01012",
+    "name": "Mcleod Russel India Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

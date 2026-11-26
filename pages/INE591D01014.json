@@ -3,7 +3,7 @@
  "sym": "DIAMINESQ",
  "name": "Diamines & Chemicals Limited",
  "scrip": "500120",
- "mcap_cr": 229.77,
+ "mcap_cr": 216.8,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 1.69,
    "pat": 1.26,
    "margin_pct": 9.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -3.95,
    "pat": -2.81,
    "margin_pct": -32.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -3.89,
    "pat": -4.15,
    "margin_pct": -41.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -2.85,
    "pat": -3.4,
    "margin_pct": -37.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": -3.11,
    "pat": -2.41,
    "margin_pct": -33.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 0,
-    "profit": -27,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,18 @@
    "ebitda": 0.38,
    "pat": -0.1,
    "margin_pct": 2.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 55,
-    "profit": 82,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -156,5 +169,38 @@
   "latest_guidance": [],
   "ledger": "claims/INE591D01014.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G18",
+  "group_name": "agrochemicals, chemicals, amines",
+  "subgroup": "G18.0",
+  "subgroup_name": "agrochemicals, chemicals, amines",
+  "terms": [
+   "agrochemicals",
+   "chemicals",
+   "amines",
+   "pharmaceuticals",
+   "agrochemicals pharmaceuticals",
+   "specialty chemicals"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE120D01012",
+    "name": "Hitech Corporation Limited"
+   },
+   {
+    "isin": "INE275D01022",
+    "name": "Amines & Plasticizers Limited"
+   },
+   {
+    "isin": "INE413G01022",
+    "name": "TPL Plastech Limited"
+   },
+   {
+    "isin": "INE760F01028",
+    "name": "Indo Amines Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

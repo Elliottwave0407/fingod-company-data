@@ -3,7 +3,7 @@
  "sym": "AMNPLST",
  "name": "Amines & Plasticizers Limited",
  "scrip": "506248",
- "mcap_cr": 786.79,
+ "mcap_cr": 808.24,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 20.97,
    "pat": 12.81,
    "margin_pct": 12.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 12.99,
    "pat": 7.43,
    "margin_pct": 9.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 10.79,
    "pat": 6.17,
    "margin_pct": 8.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 12.54,
    "pat": 7.58,
    "margin_pct": 8.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 23.45,
    "pat": 15.35,
    "margin_pct": 15.1,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 32,
-    "profit": 68,
-    "quality": 63
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,18 @@
    "ebitda": 14.94,
    "pat": 9.47,
    "margin_pct": 9.9,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 44,
-    "profit": 47,
-    "quality": 61
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 3.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -149,5 +161,38 @@
   ],
   "ledger": "claims/INE275D01022.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G18",
+  "group_name": "agrochemicals, chemicals, amines",
+  "subgroup": "G18.0",
+  "subgroup_name": "agrochemicals, chemicals, amines",
+  "terms": [
+   "agrochemicals",
+   "chemicals",
+   "amines",
+   "pharmaceuticals",
+   "agrochemicals pharmaceuticals",
+   "specialty chemicals"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE120D01012",
+    "name": "Hitech Corporation Limited"
+   },
+   {
+    "isin": "INE413G01022",
+    "name": "TPL Plastech Limited"
+   },
+   {
+    "isin": "INE591D01014",
+    "name": "Diamines & Chemicals Limited"
+   },
+   {
+    "isin": "INE760F01028",
+    "name": "Indo Amines Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

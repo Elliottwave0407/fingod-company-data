@@ -3,7 +3,7 @@
  "sym": "MGEL",
  "name": "Mangalam Global Enterprise Limited",
  "scrip": "544273",
- "mcap_cr": 592.87,
+ "mcap_cr": 603.75,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 8.38,
    "pat": 5.19,
    "margin_pct": 1.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 12.55,
    "pat": 6.43,
    "margin_pct": 1.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 22.11,
    "pat": 17.8,
    "margin_pct": 3.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 12.8,
    "pat": 8.51,
    "margin_pct": 1.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 24.19,
    "pat": 12.48,
    "margin_pct": 2.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 100,
-    "profit": 41,
-    "quality": 71
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,19 @@
    "ebitda": 18.95,
    "pat": 8.43,
    "margin_pct": 2.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 68,
-    "profit": 39,
-    "quality": 58
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -79.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,16 @@
    "ebitda": 22.53,
    "pat": 9.25,
    "margin_pct": 2.3,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 56,
-    "profit": 25,
-    "quality": 9
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -9.3
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY"
+   ]
   }
  ],
  "completeness": {
@@ -146,5 +160,34 @@
   "dividend_per_share": 0.01
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G24",
+  "group_name": "castor, castor oil, edible",
+  "subgroup": "G24.0",
+  "subgroup_name": "castor, castor oil, edible",
+  "terms": [
+   "castor",
+   "castor oil",
+   "edible",
+   "oil",
+   "mustard",
+   "edible oils"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE020J01029",
+    "name": "Gokul Refoils and Solvent Limited"
+   },
+   {
+    "isin": "INE785A01026",
+    "name": "Jayant Agro Organics Limited"
+   },
+   {
+    "isin": "INE798K01010",
+    "name": "Kriti Nutrients Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

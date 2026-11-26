@@ -3,7 +3,7 @@
  "sym": "NILAINFRA",
  "name": "Nila Infrastructures Limited",
  "scrip": "530377",
- "mcap_cr": 264.69,
+ "mcap_cr": 261.94,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 7.09,
    "pat": 5.36,
    "margin_pct": 6.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 8.81,
    "pat": 6.71,
    "margin_pct": 9.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 8.11,
    "pat": 6.08,
    "margin_pct": 11.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 6.97,
    "pat": 4.65,
    "margin_pct": 9.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 8.48,
    "pat": 5.85,
    "margin_pct": 10.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 30,
-    "profit": 81,
-    "quality": 56
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 7.48,
    "pat": 8.44,
    "margin_pct": 10.1,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 10,
-    "profit": 46,
-    "quality": 79
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -14.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,14 @@
    "ebitda": 15.18,
    "pat": 10.85,
    "margin_pct": 12.8,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 100,
-    "profit": 61,
-    "quality": 76
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 65.7
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -135,5 +147,38 @@
   "dividend_per_share": 0
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G2",
+  "group_name": "real, real estate, estate",
+  "subgroup": "G2.1",
+  "subgroup_name": "infrastructure, industrial, epc",
+  "terms": [
+   "infrastructure",
+   "industrial",
+   "epc",
+   "government",
+   "civil",
+   "entities"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE00S901012",
+    "name": "Nila Spaces Limited"
+   },
+   {
+    "isin": "INE0JVO01026",
+    "name": "Garuda Construction and Engineering Limited"
+   },
+   {
+    "isin": "INE100D01014",
+    "name": "W S Industries (I) Limited"
+   },
+   {
+    "isin": "INE350H01032",
+    "name": "B. L. Kashyap and Sons Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "SHIVATEX",
  "name": "Shiva Texyarn Limited",
  "scrip": "511108",
- "mcap_cr": 198.59,
+ "mcap_cr": 203.51,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 8.97,
    "pat": 6.17,
    "margin_pct": 9.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 9.02,
    "pat": 2.46,
    "margin_pct": 11.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 13.36,
    "pat": 5.82,
    "margin_pct": 12.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 9.23,
    "pat": 1.63,
    "margin_pct": 12.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,20 @@
    "ebitda": 2.46,
    "pat": 0.31,
    "margin_pct": 3.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 9,
-    "profit": 2,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +77,17 @@
    "ebitda": 7.24,
    "pat": 1.86,
    "margin_pct": 9.8,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 15,
-    "profit": 18,
-    "quality": 18
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 27.9
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -122,5 +137,90 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G1",
+  "group_name": "yarn, cotton, textile",
+  "subgroup": "G1.3",
+  "subgroup_name": "technical textile, digital, coated",
+  "terms": [
+   "technical textile",
+   "digital",
+   "coated",
+   "clothing",
+   "coated fabrics",
+   "rubber"
+  ],
+  "peer_basis": "group",
+  "peers": [
+   {
+    "isin": "INE02EZ01022",
+    "name": "Axita Cotton Limited"
+   },
+   {
+    "isin": "INE08KP01019",
+    "name": "DCM Nouvelle Limited"
+   },
+   {
+    "isin": "INE08PH01015",
+    "name": "ABC Industries India Limited"
+   },
+   {
+    "isin": "INE290A01027",
+    "name": "Nahar Spinning Mills Limited"
+   },
+   {
+    "isin": "INE540G01014",
+    "name": "Ambika Cotton Mills Limited"
+   },
+   {
+    "isin": "INE784W01015",
+    "name": "Manomay Tex India Limited"
+   },
+   {
+    "isin": "INE835A01029",
+    "name": "Vardhman Polytex Limited"
+   },
+   {
+    "isin": "INE875G01048",
+    "name": "Nandan Denim Limited"
+   },
+   {
+    "isin": "INE882A01013",
+    "name": "Maral Overseas Limited"
+   },
+   {
+    "isin": "INE193B01039",
+    "name": "AYM Syntex Limited"
+   },
+   {
+    "isin": "INE453D01025",
+    "name": "Sarla Performance Fibers Limited"
+   },
+   {
+    "isin": "INE533D01032",
+    "name": "Raj Rayon Industries Limited"
+   },
+   {
+    "isin": "INE963C01033",
+    "name": "Faze Three Limited"
+   },
+   {
+    "isin": "INE231G01010",
+    "name": "Orbit Exports Limited"
+   },
+   {
+    "isin": "INE289A01011",
+    "name": "Nahar Industrial Enterprises Limited"
+   },
+   {
+    "isin": "INE668D01028",
+    "name": "Donear Industries Limited"
+   },
+   {
+    "isin": "INE112D01035",
+    "name": "Mahalaxmi Rubtech Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

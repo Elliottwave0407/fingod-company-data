@@ -3,7 +3,7 @@
  "sym": "CYBERTECH",
  "name": "Cybertech Systems And Software Limited",
  "scrip": "532173",
- "mcap_cr": 374.29,
+ "mcap_cr": 362.44,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 7.82,
    "pat": 9.6,
    "margin_pct": 12.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 4.93,
    "pat": 8.17,
    "margin_pct": 8.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 4.62,
    "pat": 8.66,
    "margin_pct": 7.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 3.49,
    "pat": 6.53,
    "margin_pct": 6.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 5.72,
    "pat": 7.07,
    "margin_pct": 9.2,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 15,
-    "profit": 7,
-    "quality": 1
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 5.72,
    "pat": 9.48,
    "margin_pct": 8.4,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 54,
-    "profit": 37,
-    "quality": 36
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 25.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,14 @@
    "ebitda": 8.08,
    "pat": 8.68,
    "margin_pct": 11.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 83,
-    "profit": 72,
-    "quality": 11
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Mixed",
+    "acceleration": 28.0
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -155,5 +168,54 @@
   ],
   "ledger": "claims/INE214A01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G8",
+  "group_name": "software, technology, cloud",
+  "subgroup": "G8.0",
+  "subgroup_name": "software, technology, cloud",
+  "terms": [
+   "software",
+   "technology",
+   "cloud",
+   "cmmi",
+   "information",
+   "analytics"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE020G01017",
+    "name": "Inspirisys Solutions Limited"
+   },
+   {
+    "isin": "INE110B01017",
+    "name": "Mindteck (India) Limited"
+   },
+   {
+    "isin": "INE482B01010",
+    "name": "Tera Software Limited"
+   },
+   {
+    "isin": "INE512B01022",
+    "name": "FCS Software Solutions Limited"
+   },
+   {
+    "isin": "INE692G01013",
+    "name": "Xchanging Solutions Limited"
+   },
+   {
+    "isin": "INE727B01026",
+    "name": "Genesys International Corporation Limited"
+   },
+   {
+    "isin": "INE805A01014",
+    "name": "AION-TECH SOLUTIONS LIMITED"
+   },
+   {
+    "isin": "INE948A01012",
+    "name": "Trigyn Technologies Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

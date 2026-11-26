@@ -3,7 +3,7 @@
  "sym": "TRIGYN",
  "name": "Trigyn Technologies Limited",
  "scrip": "517562",
- "mcap_cr": 180.77,
+ "mcap_cr": 180.25,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 5.22,
    "pat": 2.56,
    "margin_pct": 2.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -2.4,
    "pat": -4.61,
    "margin_pct": -1.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 2.19,
    "pat": 5.27,
    "margin_pct": 0.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -1.64,
    "pat": 0.69,
    "margin_pct": -0.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 3.44,
    "pat": 0.63,
    "margin_pct": 1.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 17,
-    "profit": 25,
-    "quality": 12
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,18 @@
    "ebitda": 3.46,
    "pat": 3.49,
    "margin_pct": 1.4,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 47,
-    "profit": 57,
-    "quality": 65
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -129,5 +143,54 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G8",
+  "group_name": "software, technology, cloud",
+  "subgroup": "G8.0",
+  "subgroup_name": "software, technology, cloud",
+  "terms": [
+   "software",
+   "technology",
+   "cloud",
+   "cmmi",
+   "information",
+   "analytics"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE020G01017",
+    "name": "Inspirisys Solutions Limited"
+   },
+   {
+    "isin": "INE110B01017",
+    "name": "Mindteck (India) Limited"
+   },
+   {
+    "isin": "INE214A01019",
+    "name": "Cybertech Systems And Software Limited"
+   },
+   {
+    "isin": "INE482B01010",
+    "name": "Tera Software Limited"
+   },
+   {
+    "isin": "INE512B01022",
+    "name": "FCS Software Solutions Limited"
+   },
+   {
+    "isin": "INE692G01013",
+    "name": "Xchanging Solutions Limited"
+   },
+   {
+    "isin": "INE727B01026",
+    "name": "Genesys International Corporation Limited"
+   },
+   {
+    "isin": "INE805A01014",
+    "name": "AION-TECH SOLUTIONS LIMITED"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

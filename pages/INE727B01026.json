@@ -3,7 +3,7 @@
  "sym": "GENESYS",
  "name": "Genesys International Corporation Limited",
  "scrip": "506109",
- "mcap_cr": 1109.28,
+ "mcap_cr": 1087.55,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 49.78,
    "pat": 19.0,
    "margin_pct": 52.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 29.5,
    "pat": 6.98,
    "margin_pct": 41.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 29.99,
    "pat": 12.05,
    "margin_pct": 39.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 10.65,
    "pat": 1.05,
    "margin_pct": 14.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 34.1,
    "pat": 12.72,
    "margin_pct": 32.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 22,
-    "profit": 20,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,20 @@
    "ebitda": 28.13,
    "pat": 5.28,
    "margin_pct": 34.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 36,
-    "profit": 20,
-    "quality": 2
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Flat",
+    "acceleration": 30.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -122,5 +137,54 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G8",
+  "group_name": "software, technology, cloud",
+  "subgroup": "G8.0",
+  "subgroup_name": "software, technology, cloud",
+  "terms": [
+   "software",
+   "technology",
+   "cloud",
+   "cmmi",
+   "information",
+   "analytics"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE020G01017",
+    "name": "Inspirisys Solutions Limited"
+   },
+   {
+    "isin": "INE110B01017",
+    "name": "Mindteck (India) Limited"
+   },
+   {
+    "isin": "INE214A01019",
+    "name": "Cybertech Systems And Software Limited"
+   },
+   {
+    "isin": "INE482B01010",
+    "name": "Tera Software Limited"
+   },
+   {
+    "isin": "INE512B01022",
+    "name": "FCS Software Solutions Limited"
+   },
+   {
+    "isin": "INE692G01013",
+    "name": "Xchanging Solutions Limited"
+   },
+   {
+    "isin": "INE805A01014",
+    "name": "AION-TECH SOLUTIONS LIMITED"
+   },
+   {
+    "isin": "INE948A01012",
+    "name": "Trigyn Technologies Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

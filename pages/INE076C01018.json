@@ -3,7 +3,7 @@
  "sym": "IFBAGRO",
  "name": "IFB Agro Industries Limited",
  "scrip": "507438",
- "mcap_cr": 838.17,
+ "mcap_cr": 830.39,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 8.8,
    "pat": 0.63,
    "margin_pct": 2.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 21.82,
    "pat": 17.18,
    "margin_pct": 5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 37.31,
    "pat": 22.7,
    "margin_pct": 7.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 18.21,
    "pat": 7.3,
    "margin_pct": 3.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 22.8,
    "pat": 9.3,
    "margin_pct": 4.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 92,
-    "profit": 57,
-    "quality": 81
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,14 @@
    "ebitda": 31.45,
    "pat": 20.35,
    "margin_pct": 6.0,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 77,
-    "profit": 45,
-    "quality": 47
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -47.0
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -173,5 +179,26 @@
   ],
   "ledger": "claims/INE076C01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G41",
+  "group_name": "fish, shrimp, marine",
+  "subgroup": "G41.0",
+  "subgroup_name": "fish, shrimp, marine",
+  "terms": [
+   "fish",
+   "shrimp",
+   "marine",
+   "feed",
+   "seafood",
+   "frozen"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE0CG401037",
+    "name": "Mukka Proteins Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "EMAMIREAL",
  "name": "Emami Realty Limited",
  "scrip": "533218",
- "mcap_cr": 345.09,
+ "mcap_cr": 343.42,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -69.54,
    "pat": -79.68,
    "margin_pct": -509.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -40.71,
    "pat": -50.8,
    "margin_pct": -677.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -24.1,
    "pat": -35.54,
    "margin_pct": -262.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -26.5,
    "pat": -37.28,
    "margin_pct": -541.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": -55.51,
    "pat": -65.85,
    "margin_pct": -75.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 100,
-    "profit": 19,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,19 @@
    "ebitda": -4.29,
    "pat": -16.82,
    "margin_pct": -75.7,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 20,
-    "profit": 19,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -156,5 +170,46 @@
   ],
   "ledger": "claims/INE778K01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G2",
+  "group_name": "real, real estate, estate",
+  "subgroup": "G2.0",
+  "subgroup_name": "properties, realty, leasing",
+  "terms": [
+   "properties",
+   "realty",
+   "leasing",
+   "retail",
+   "tenants",
+   "commercial property"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE05ST01028",
+    "name": "Suratwwala Business Group Limited"
+   },
+   {
+    "isin": "INE138A01028",
+    "name": "Peninsula Land Limited"
+   },
+   {
+    "isin": "INE195N01013",
+    "name": "Prozone Realty Limited"
+   },
+   {
+    "isin": "INE559D01011",
+    "name": "Crest Ventures Limited"
+   },
+   {
+    "isin": "INE572G01025",
+    "name": "Lancor Holdings Limited"
+   },
+   {
+    "isin": "INE916G01016",
+    "name": "GeeCee Ventures Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

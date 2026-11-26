@@ -3,7 +3,7 @@
  "sym": "ARSSBL",
  "name": "Anand Rathi Share and Stock Brokers Limited",
  "scrip": "544530",
- "mcap_cr": 3064.03,
+ "mcap_cr": 3097.79,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 74.75,
    "pat": 22.81,
    "margin_pct": 37.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 92.64,
    "pat": 27.9,
    "margin_pct": 40.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 101.15,
    "pat": 37.0,
    "margin_pct": 40.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 110.32,
    "pat": 41.55,
    "margin_pct": 43.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,19 @@
    "ebitda": 76.31,
    "pat": 23.35,
    "margin_pct": 31.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 46,
-    "profit": 20,
-    "quality": 22
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +76,14 @@
    "ebitda": 99.85,
    "pat": 41.94,
    "margin_pct": 36.5,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 49,
-    "profit": 20,
-    "quality": 85
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 4.2
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -184,5 +195,6 @@
   ],
   "ledger": "claims/INE549H01021.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

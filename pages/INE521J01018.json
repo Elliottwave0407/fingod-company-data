@@ -3,7 +3,7 @@
  "sym": "CPCAP",
  "name": "CP Capital Limited",
  "scrip": "533260",
- "mcap_cr": 267.71,
+ "mcap_cr": 265.07,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 11.95,
    "pat": 8.6,
    "margin_pct": 86.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 11.18,
    "pat": 10.78,
    "margin_pct": 75.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 12.7,
    "pat": 10.16,
    "margin_pct": 85.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 13.43,
    "pat": 12.5,
    "margin_pct": 79.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 14.96,
    "pat": 9.14,
    "margin_pct": 81.0,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 72,
-    "profit": 20,
-    "quality": 18
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 20.16,
    "pat": 13.31,
    "margin_pct": 91.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 95,
-    "profit": 100,
-    "quality": 32
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 57.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "profit growth under 25% (Blockbuster needs profit up at least 25%)"
+   ]
   }
  ],
  "completeness": {
@@ -178,5 +186,62 @@
   ],
   "ledger": "claims/INE521J01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G0",
+  "group_name": "financial, loans, investment",
+  "subgroup": "G0.1",
+  "subgroup_name": "loan, rbi, nbfc",
+  "terms": [
+   "loan",
+   "rbi",
+   "nbfc",
+   "msme",
+   "term",
+   "property"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE049I01012",
+    "name": "Nahar Capital and Financial Services Limited"
+   },
+   {
+    "isin": "INE152C01025",
+    "name": "U. Y. Fincorp Limited"
+   },
+   {
+    "isin": "INE159N01027",
+    "name": "Viji Finance Limited"
+   },
+   {
+    "isin": "INE289B01019",
+    "name": "GIC Housing Finance Limited"
+   },
+   {
+    "isin": "INE289C01025",
+    "name": "Team India Guaranty Limited"
+   },
+   {
+    "isin": "INE345H01024",
+    "name": "Capital India Finance Limited"
+   },
+   {
+    "isin": "INE545L01039",
+    "name": "Mangal Credit and Fincorp Limited"
+   },
+   {
+    "isin": "INE886A01014",
+    "name": "Industrial Investment Trust Limited"
+   },
+   {
+    "isin": "INE923A01015",
+    "name": "SIL Investments Limited"
+   },
+   {
+    "isin": "INE992I01013",
+    "name": "Starteck Finance Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

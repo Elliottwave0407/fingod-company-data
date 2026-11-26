@@ -3,7 +3,7 @@
  "sym": "ALLDIGI",
  "name": "Alldigi Tech Limited",
  "scrip": "532633",
- "mcap_cr": 1263.26,
+ "mcap_cr": 1267.52,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 34.36,
    "pat": 19.3,
    "margin_pct": 23.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 36.55,
    "pat": 14.89,
    "margin_pct": 25.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 36.03,
    "pat": 17.62,
    "margin_pct": 24.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 41.86,
    "pat": 20.84,
    "margin_pct": 27.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 39.87,
    "pat": 28.88,
    "margin_pct": 25.8,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 44,
-    "profit": 74,
-    "quality": 96
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY",
+    "margin fell QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 41.35,
    "pat": 18.12,
    "margin_pct": 27.5,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 40,
-    "profit": 73,
-    "quality": 62
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": -1.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +92,14 @@
    "ebitda": 46.3,
    "pat": 26.58,
    "margin_pct": 30.2,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 52,
-    "profit": 100,
-    "quality": 96
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 10.7
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -194,5 +207,6 @@
   ],
   "ledger": "claims/INE835G01018.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

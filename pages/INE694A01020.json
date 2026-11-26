@@ -12,9 +12,10 @@
    "ebitda": 774.68,
    "pat": -488.69,
    "margin_pct": 768.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -9.66,
    "pat": -738.66,
    "margin_pct": -9.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 3.07,
    "pat": -738.72,
    "margin_pct": 2.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -556.61,
    "pat": -975.1,
    "margin_pct": -394.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 239.59,
    "pat": -565.67,
    "margin_pct": 184.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 36,
-    "profit": 20,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,22 @@
    "ebitda": 6.14,
    "pat": -702.84,
    "margin_pct": 5.8,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 27,
-    "profit": 85,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -146,5 +163,30 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G2",
+  "group_name": "real, real estate, estate",
+  "subgroup": "G2.2",
+  "subgroup_name": "estate real, division, rights real",
+  "terms": [
+   "estate real",
+   "division",
+   "rights real",
+   "estate buyers",
+   "rights",
+   "credit"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE143A01010",
+    "name": "Oswal Greentech Limited"
+   },
+   {
+    "isin": "INE301D01026",
+    "name": "The Ruby Mills Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

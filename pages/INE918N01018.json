@@ -3,7 +3,7 @@
  "sym": "VETO",
  "name": "Veto Switchgears And Cables Limited",
  "scrip": "539331",
- "mcap_cr": 253.66,
+ "mcap_cr": 248.69,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 10.84,
    "pat": 7.34,
    "margin_pct": 12.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 6.3,
    "pat": 3.43,
    "margin_pct": 9.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 8.37,
    "pat": 6.08,
    "margin_pct": 9.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 9.81,
    "pat": 6.27,
    "margin_pct": 10.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 13.26,
    "pat": 8.8,
    "margin_pct": 9.5,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 80,
-    "profit": 12,
-    "quality": 37
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,17 @@
    "ebitda": 9.44,
    "pat": 5.85,
    "margin_pct": 10.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 87,
-    "profit": 49,
-    "quality": 78
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": 8.5
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -122,5 +134,42 @@
   "dividend_per_share": 1
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G12",
+  "group_name": "wire, wires, cables",
+  "subgroup": "G12.0",
+  "subgroup_name": "wire, wires, cables",
+  "terms": [
+   "wire",
+   "wires",
+   "cables",
+   "copper",
+   "steel",
+   "pvc"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE0INJ01017",
+    "name": "Plaza Wires Limited"
+   },
+   {
+    "isin": "INE0O9T01021",
+    "name": "Indef Manufacturing Limited"
+   },
+   {
+    "isin": "INE792I01017",
+    "name": "Cords Cable Industries Limited"
+   },
+   {
+    "isin": "INE844K01012",
+    "name": "Bedmutha Industries Limited"
+   },
+   {
+    "isin": "INE864X01013",
+    "name": "D P Wires Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

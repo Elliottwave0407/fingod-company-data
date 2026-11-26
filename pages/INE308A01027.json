@@ -3,7 +3,7 @@
  "sym": "NAHARPOLY",
  "name": "Nahar Poly Films Limited",
  "scrip": "523391",
- "mcap_cr": 567.49,
+ "mcap_cr": 561.22,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 23.48,
    "pat": 14.14,
    "margin_pct": 15.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 27.78,
    "pat": 18.24,
    "margin_pct": 14.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 27.78,
    "pat": 20.78,
    "margin_pct": 16.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 20.37,
    "pat": 19.32,
    "margin_pct": 12.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 31.21,
    "pat": 20.5,
    "margin_pct": 18.6,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 57,
-    "profit": 82,
-    "quality": 83
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "revenue growth under 15% YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,22 @@
    "ebitda": 15.17,
    "pat": 11.68,
    "margin_pct": 9.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 5,
-    "profit": 8,
-    "quality": 6
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Fading",
+    "acceleration": -48.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +96,14 @@
    "ebitda": 39.7,
    "pat": 32.88,
    "margin_pct": 15.3,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 89,
-    "profit": 36,
-    "quality": 73
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 60.8
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -132,5 +149,30 @@
   "dividend_per_share": 1.5
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G37",
+  "group_name": "films, dhunseri, bopet",
+  "subgroup": "G37.0",
+  "subgroup_name": "films, dhunseri, bopet",
+  "terms": [
+   "films",
+   "dhunseri",
+   "bopet",
+   "ventures",
+   "bakery",
+   "bopp"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE320L01011",
+    "name": "Dhunseri Investments Limited"
+   },
+   {
+    "isin": "INE477B01010",
+    "name": "Dhunseri Ventures Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

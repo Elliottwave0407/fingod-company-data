@@ -3,7 +3,7 @@
  "sym": "VSTL",
  "name": "Vibhor Steel Tubes Limited",
  "scrip": "544124",
- "mcap_cr": 187.27,
+ "mcap_cr": 189.62,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 11.11,
    "pat": 4.44,
    "margin_pct": 3.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 10.17,
    "pat": 3.14,
    "margin_pct": 4.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 9.04,
    "pat": 1.42,
    "margin_pct": 3.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 8.9,
    "pat": 1.66,
    "margin_pct": 3.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 14.06,
    "pat": 2.57,
    "margin_pct": 4.2,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 61,
-    "profit": 39,
-    "quality": 15
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,19 @@
    "ebitda": 12.07,
    "pat": 1.93,
    "margin_pct": 4.1,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 64,
-    "profit": 32,
-    "quality": 15
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": 0.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -97,9 +110,9 @@
     "reason": "not in results store (not filed, not fetched, or filer is half-yearly)"
    }
   ],
-  "concalls_found": 8,
-  "concalls_read": 8,
-  "latest_concall": "2026-08-21",
+  "concalls_found": 9,
+  "concalls_read": 9,
+  "latest_concall": "2026-11-25",
   "annual_report_fy": 2026
  },
  "annual_report": {
@@ -165,5 +178,6 @@
   ],
   "ledger": "claims/INE0QTF01015.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

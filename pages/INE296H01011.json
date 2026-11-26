@@ -3,7 +3,7 @@
  "sym": "EMKAY",
  "name": "Emkay Global Financial Services Limited",
  "scrip": "532737",
- "mcap_cr": 700.31,
+ "mcap_cr": 698.93,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 0.11,
    "pat": 8.48,
    "margin_pct": 0.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 5.82,
    "pat": 4.78,
    "margin_pct": 8.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 1.41,
    "pat": 0.46,
    "margin_pct": 2.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 8.25,
    "pat": 4.3,
    "margin_pct": 9.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 12.75,
    "pat": 5.66,
    "margin_pct": 8.6,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 100,
-    "profit": 87,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "margin fell QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,17 @@
    "ebitda": 11.42,
    "pat": 9.11,
    "margin_pct": 12.4,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 84,
-    "profit": 85,
-    "quality": 72
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -4023.1
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +93,14 @@
    "ebitda": 44.73,
    "pat": 30.99,
    "margin_pct": 29.6,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 1105.8
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -175,5 +189,78 @@
   ],
   "ledger": "claims/INE296H01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G0",
+  "group_name": "financial, loans, investment",
+  "subgroup": "G0.0",
+  "subgroup_name": "broking, advisory, wealth",
+  "terms": [
+   "broking",
+   "advisory",
+   "wealth",
+   "brokerage",
+   "banking",
+   "wealth management"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE032B01021",
+    "name": "Prime Securities Limited"
+   },
+   {
+    "isin": "INE284H01025",
+    "name": "Dam Capital Advisors Limited"
+   },
+   {
+    "isin": "INE323B01024",
+    "name": "Avonmore Capital & Management Services Limited"
+   },
+   {
+    "isin": "INE337M01021",
+    "name": "Indo Thai Securities Limited"
+   },
+   {
+    "isin": "INE420B01036",
+    "name": "Arihant Capital Markets Limited"
+   },
+   {
+    "isin": "INE538A01037",
+    "name": "GFL Limited"
+   },
+   {
+    "isin": "INE660C01027",
+    "name": "Centrum Capital Limited"
+   },
+   {
+    "isin": "INE677D01037",
+    "name": "Master Trust Limited"
+   },
+   {
+    "isin": "INE709A01018",
+    "name": "VLS Finance Limited"
+   },
+   {
+    "isin": "INE859A01011",
+    "name": "PNB Gilts Limited"
+   },
+   {
+    "isin": "INE865C01022",
+    "name": "Aditya Birla Money Limited"
+   },
+   {
+    "isin": "INE912L01015",
+    "name": "Onelife Capital Advisors Limited"
+   },
+   {
+    "isin": "INE924D01017",
+    "name": "The Investment Trust Of India Limited"
+   },
+   {
+    "isin": "INE966A01022",
+    "name": "Dolat Algotech Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

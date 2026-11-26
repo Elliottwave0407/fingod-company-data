@@ -3,7 +3,7 @@
  "sym": "GEECEE",
  "name": "GeeCee Ventures Limited",
  "scrip": "532764",
- "mcap_cr": 750.73,
+ "mcap_cr": 746.76,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 4.49,
    "pat": 3.89,
    "margin_pct": 28.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 4.09,
    "pat": 3.33,
    "margin_pct": 53.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 12.24,
    "pat": 10.23,
    "margin_pct": 69.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 6.89,
    "pat": 4.93,
    "margin_pct": 42.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 28.96,
    "pat": 22.03,
    "margin_pct": 87.3,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,18 @@
    "ebitda": 11.82,
    "pat": 8.41,
    "margin_pct": 32.0,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 100,
-    "profit": 20,
-    "quality": 50
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -149.4
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -158,5 +168,46 @@
   "latest_guidance": [],
   "ledger": "claims/INE916G01016.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G2",
+  "group_name": "real, real estate, estate",
+  "subgroup": "G2.0",
+  "subgroup_name": "properties, realty, leasing",
+  "terms": [
+   "properties",
+   "realty",
+   "leasing",
+   "retail",
+   "tenants",
+   "commercial property"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE05ST01028",
+    "name": "Suratwwala Business Group Limited"
+   },
+   {
+    "isin": "INE138A01028",
+    "name": "Peninsula Land Limited"
+   },
+   {
+    "isin": "INE195N01013",
+    "name": "Prozone Realty Limited"
+   },
+   {
+    "isin": "INE559D01011",
+    "name": "Crest Ventures Limited"
+   },
+   {
+    "isin": "INE572G01025",
+    "name": "Lancor Holdings Limited"
+   },
+   {
+    "isin": "INE778K01012",
+    "name": "Emami Realty Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

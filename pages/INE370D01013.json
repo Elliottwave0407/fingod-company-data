@@ -3,7 +3,7 @@
  "sym": "MANORG",
  "name": "Mangalam Organics Limited",
  "scrip": "514418",
- "mcap_cr": 369.38,
+ "mcap_cr": 373.41,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 19.66,
    "pat": 5.14,
    "margin_pct": 13.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 21.61,
    "pat": 12.23,
    "margin_pct": 14.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -3.23,
    "pat": 3.21,
    "margin_pct": -2.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 19.3,
    "pat": 4.33,
    "margin_pct": 11.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 46.64,
    "pat": 5.98,
    "margin_pct": 30.4,
-   "verdict_v3": "Strong",
-   "pillars": {
-    "growth": 65,
-    "profit": 100,
-    "quality": 50
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "revenue growth under 10%"
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,19 @@
    "ebitda": 22.2,
    "pat": 7.27,
    "margin_pct": 12.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 46,
-    "profit": 17,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -69.6
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -146,5 +160,58 @@
   ],
   "ledger": "claims/INE370D01013.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G6",
+  "group_name": "dyes, care, paints",
+  "subgroup": "G6.0",
+  "subgroup_name": "dyes, care, paints",
+  "terms": [
+   "dyes",
+   "care",
+   "paints",
+   "intermediates",
+   "chemicals",
+   "pigments"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE01NE01012",
+    "name": "Shankar Lal Rampal Dye-Chem Limited"
+   },
+   {
+    "isin": "INE09EO01013",
+    "name": "Aarti Surfactants Limited"
+   },
+   {
+    "isin": "INE138C01024",
+    "name": "Kanoria Chemicals & Industries Limited"
+   },
+   {
+    "isin": "INE256H01015",
+    "name": "Dynemic Products Limited"
+   },
+   {
+    "isin": "INE338A01024",
+    "name": "Thirumalai Chemicals Limited"
+   },
+   {
+    "isin": "INE492A01029",
+    "name": "Sudarshan Colorants India Limited"
+   },
+   {
+    "isin": "INE542B01011",
+    "name": "AksharChem India Limited"
+   },
+   {
+    "isin": "INE565V01010",
+    "name": "Valiant Organics Limited"
+   },
+   {
+    "isin": "INE888C01040",
+    "name": "Sadhana Nitrochem Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

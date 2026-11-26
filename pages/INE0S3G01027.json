@@ -3,7 +3,7 @@
  "sym": "PACEDIGITK",
  "name": "Pace Digitek Limited",
  "scrip": "544550",
- "mcap_cr": 3604.72,
+ "mcap_cr": 3510.82,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 80.05,
    "pat": 54.7,
    "margin_pct": 21.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -22,9 +23,10 @@
    "ebitda": 94.08,
    "pat": 67.86,
    "margin_pct": 17.6,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -32,9 +34,10 @@
    "ebitda": 117.94,
    "pat": 78.78,
    "margin_pct": 18.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -42,9 +45,10 @@
    "ebitda": 163.18,
    "pat": 105.92,
    "margin_pct": 14.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-26",
@@ -52,13 +56,17 @@
    "ebitda": 86.07,
    "pat": 62.51,
    "margin_pct": 15.5,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 65,
-    "profit": 12,
-    "quality": 25
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Sep-26",
@@ -66,13 +74,14 @@
    "ebitda": 158.57,
    "pat": 97.28,
    "margin_pct": 19.6,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 97,
-    "profit": 68,
-    "quality": 59
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Building",
+    "acceleration": 33.9
    },
-   "capped_by": null
+   "verdict_notes": []
   }
  ],
  "completeness": {
@@ -176,5 +185,6 @@
   ],
   "ledger": "claims/INE0S3G01027.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": null,
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "MANAKSTEEL",
  "name": "Manaksia Steels Limited",
  "scrip": "539044",
- "mcap_cr": 834.58,
+ "mcap_cr": 802.79,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 8.96,
    "pat": 4.71,
    "margin_pct": 4.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 10.75,
    "pat": 6.49,
    "margin_pct": 4.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 12.43,
    "pat": 4.5,
    "margin_pct": 4.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 15.41,
    "pat": 9.61,
    "margin_pct": 4.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,14 @@
    "ebitda": 37.97,
    "pat": 19.32,
    "margin_pct": 11.4,
-   "verdict_v3": "Blockbuster",
-   "pillars": {
-    "growth": 100,
-    "profit": 89,
-    "quality": 91
+   "verdict": "Blockbuster",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": []
   },
   {
    "q": "Jun-26",
@@ -66,13 +71,16 @@
    "ebitda": 33.54,
    "pat": 22.65,
    "margin_pct": 10.2,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 96,
-    "profit": 88,
-    "quality": 94
+   "verdict": "Strong",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -46.1
    },
-   "capped_by": "margin down over 1 pt QoQ"
+   "verdict_notes": [
+    "margin fell QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -145,5 +153,34 @@
   "latest_guidance": [],
   "ledger": "claims/INE824Q01011.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G23",
+  "group_name": "sheets, coils, rolled",
+  "subgroup": "G23.0",
+  "subgroup_name": "sheets, coils, rolled",
+  "terms": [
+   "sheets",
+   "coils",
+   "rolled",
+   "colour",
+   "coils sheets",
+   "colour coated"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE015D01022",
+    "name": "Manaksia Limited"
+   },
+   {
+    "isin": "INE230R01035",
+    "name": "Rama Steel Tubes Limited"
+   },
+   {
+    "isin": "INE859Q01017",
+    "name": "Manaksia Aluminium Company Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

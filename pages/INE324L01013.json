@@ -3,7 +3,7 @@
  "sym": "RPPINFRA",
  "name": "R.P.P. Infra Projects Limited",
  "scrip": "533284",
- "mcap_cr": 236.05,
+ "mcap_cr": 239.23,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 12.74,
    "pat": 11.67,
    "margin_pct": 3.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 19.12,
    "pat": 10.84,
    "margin_pct": 5.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 19.95,
    "pat": 13.82,
    "margin_pct": 6.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 3.77,
    "pat": 0.67,
    "margin_pct": 1.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": -25.81,
    "pat": -13.12,
    "margin_pct": -5.7,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 37,
-    "profit": -5,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net loss",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,18 @@
    "ebitda": 6.16,
    "pat": 2.77,
    "margin_pct": 1.8,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 13,
-    "profit": 1,
-    "quality": 4
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 80.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -162,5 +177,50 @@
   ],
   "ledger": "claims/INE324L01013.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G11",
+  "group_name": "roads, highways, water",
+  "subgroup": "G11.0",
+  "subgroup_name": "roads, highways, water",
+  "terms": [
+   "roads",
+   "highways",
+   "water",
+   "urban",
+   "construction",
+   "irrigation"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE050001010",
+    "name": "Prakash Pipes Limited"
+   },
+   {
+    "isin": "INE323C01030",
+    "name": "Indian Hume Pipe Company Limited"
+   },
+   {
+    "isin": "INE336H01023",
+    "name": "Gayatri Projects Limited"
+   },
+   {
+    "isin": "INE550H01011",
+    "name": "Supreme Infrastructure India Limited"
+   },
+   {
+    "isin": "INE863T01013",
+    "name": "JITF Infralogistics Limited"
+   },
+   {
+    "isin": "INE912H01013",
+    "name": "MBL Infrastructure Limited"
+   },
+   {
+    "isin": "INE964H01014",
+    "name": "SEPC Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

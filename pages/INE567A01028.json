@@ -3,7 +3,7 @@
  "sym": "NIPPOBATRY",
  "name": "Indo-National Limited",
  "scrip": "504058",
- "mcap_cr": 232.16,
+ "mcap_cr": 224.66,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -1.94,
    "pat": 0.08,
    "margin_pct": -2.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 2.8,
    "pat": 1.02,
    "margin_pct": 2.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 3.96,
    "pat": 1.13,
    "margin_pct": 3.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -6.82,
    "pat": -7.85,
    "margin_pct": -6.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,9 +56,20 @@
    "ebitda": -18.11,
    "pat": -21.0,
    "margin_pct": -16.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -62,13 +77,16 @@
    "ebitda": 0.12,
    "pat": 2.01,
    "margin_pct": 0.1,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 11,
-    "profit": 8,
-    "quality": 75
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -121,5 +139,38 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G22",
+  "group_name": "solar, batteries, rooftop",
+  "subgroup": "G22.0",
+  "subgroup_name": "solar, batteries, rooftop",
+  "terms": [
+   "solar",
+   "batteries",
+   "rooftop",
+   "modules",
+   "energy",
+   "renewable energy"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE403Y01018",
+    "name": "Innovana Thinklabs Limited"
+   },
+   {
+    "isin": "INE409B01013",
+    "name": "Swelect Energy Systems Limited"
+   },
+   {
+    "isin": "INE550C01020",
+    "name": "Urja Global Limited"
+   },
+   {
+    "isin": "INE866K01023",
+    "name": "Indosolar Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

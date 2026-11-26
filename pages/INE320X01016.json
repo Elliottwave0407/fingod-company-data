@@ -3,7 +3,7 @@
  "sym": "HALEOSLABS",
  "name": "HALEOS LABS LIMITED",
  "scrip": "540679",
- "mcap_cr": 461.63,
+ "mcap_cr": 479.66,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 7.42,
    "pat": 3.48,
    "margin_pct": 8.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 11.71,
    "pat": 4.38,
    "margin_pct": 14.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 13.58,
    "pat": 6.43,
    "margin_pct": 16.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 14.05,
    "pat": 6.65,
    "margin_pct": 14.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,22 @@
    "ebitda": 4.17,
    "pat": 0.34,
    "margin_pct": 5.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 6,
-    "profit": 7,
-    "quality": 0
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +79,17 @@
    "ebitda": 9.12,
    "pat": 1.84,
    "margin_pct": 12.5,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 11,
-    "profit": 24,
-    "quality": 1
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Mixed",
+    "acceleration": 10.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   }
  ],
  "completeness": {
@@ -137,5 +154,62 @@
   ],
   "ledger": "claims/INE320X01016.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G5",
+  "group_name": "pharmaceutical, api, apis",
+  "subgroup": "G5.0",
+  "subgroup_name": "pharmaceutical, api, apis",
+  "terms": [
+   "pharmaceutical",
+   "api",
+   "apis",
+   "pharmaceuticals",
+   "drugs",
+   "formulations"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE083B01024",
+    "name": "Themis Medicare Limited"
+   },
+   {
+    "isin": "INE0JWS01017",
+    "name": "Valiant Laboratories Limited"
+   },
+   {
+    "isin": "INE107F01022",
+    "name": "Wanbury Limited"
+   },
+   {
+    "isin": "INE155C01010",
+    "name": "Albert David Limited"
+   },
+   {
+    "isin": "INE198H01019",
+    "name": "Aarey Drugs & Pharmaceuticals Limited"
+   },
+   {
+    "isin": "INE646B01010",
+    "name": "Medicamen Biotech Limited"
+   },
+   {
+    "isin": "INE650L01011",
+    "name": "Brooks Laboratories Limited"
+   },
+   {
+    "isin": "INE788J01021",
+    "name": "Shivalik Rasayan Limited"
+   },
+   {
+    "isin": "INE878I01022",
+    "name": "Bafna Pharmaceuticals Limited"
+   },
+   {
+    "isin": "INE933A01014",
+    "name": "Lyka Labs Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

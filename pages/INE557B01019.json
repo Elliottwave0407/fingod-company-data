@@ -3,7 +3,7 @@
  "sym": "LIBERTSHOE",
  "name": "Liberty Shoes Limited",
  "scrip": "526596",
- "mcap_cr": 393.2,
+ "mcap_cr": 372.84,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 24.84,
    "pat": 5.61,
    "margin_pct": 13.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 16.01,
    "pat": 3.33,
    "margin_pct": 9.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 15.15,
    "pat": 1.97,
    "margin_pct": 8.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 13.19,
    "pat": 0.59,
    "margin_pct": 7.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,17 @@
    "ebitda": 20.11,
    "pat": 5.3,
    "margin_pct": 9.5,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 28,
-    "profit": 8,
-    "quality": 27
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Building",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +74,22 @@
    "ebitda": 13.36,
    "pat": 0.68,
    "margin_pct": 7.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 17,
-    "profit": 23,
-    "quality": 10
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Fading",
+    "acceleration": -0.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -150,5 +167,34 @@
   "latest_guidance": [],
   "ledger": "claims/INE557B01019.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G26",
+  "group_name": "footwear, leather, accessories",
+  "subgroup": "G26.0",
+  "subgroup_name": "footwear, leather, accessories",
+  "terms": [
+   "footwear",
+   "leather",
+   "accessories",
+   "leather goods",
+   "footwear leather",
+   "footwear accessories"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE099F01013",
+    "name": "Sreeleathers Limited"
+   },
+   {
+    "isin": "INE771A01026",
+    "name": "Mirza International Limited"
+   },
+   {
+    "isin": "INE828A01016",
+    "name": "Bhartiya International Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

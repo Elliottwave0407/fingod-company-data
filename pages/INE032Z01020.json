@@ -3,7 +3,7 @@
  "sym": "BSHSL",
  "name": "Bombay Super Hybrid Seeds Limited",
  "scrip": "544757",
- "mcap_cr": 854.61,
+ "mcap_cr": 835.3,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 6.13,
    "pat": 4.22,
    "margin_pct": 13.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 15.36,
    "pat": 12.27,
    "margin_pct": 10.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 4.15,
    "pat": 2.24,
    "margin_pct": 15.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 9.59,
    "pat": 7.74,
    "margin_pct": 8.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,18 @@
    "ebitda": 6.55,
    "pat": 4.41,
    "margin_pct": 9.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 62,
-    "profit": 8,
-    "quality": 19
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Fading",
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +75,17 @@
    "ebitda": 17.13,
    "pat": 14.3,
    "margin_pct": 9.4,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 52,
-    "profit": 32,
-    "quality": 46
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Building",
+    "acceleration": -3.0
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +93,20 @@
    "ebitda": 4.25,
    "pat": 2.36,
    "margin_pct": 4.9,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 65,
-    "profit": 4,
-    "quality": 17
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": "Fading",
+    "acceleration": 52.2
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue and profit both fell QoQ with profit barely up YoY",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -135,5 +155,38 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G14",
+  "group_name": "crop, insecticides, agricultural",
+  "subgroup": "G14.0",
+  "subgroup_name": "crop, insecticides, agricultural",
+  "terms": [
+   "crop",
+   "insecticides",
+   "agricultural",
+   "herbicides",
+   "fungicides",
+   "crop protection"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE02H701025",
+    "name": "Nova Agritech Limited"
+   },
+   {
+    "isin": "INE298I01015",
+    "name": "Aries Agro Limited"
+   },
+   {
+    "isin": "INE563J01010",
+    "name": "Astec LifeSciences Limited"
+   },
+   {
+    "isin": "INE838B01021",
+    "name": "Bharat Rasayan Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

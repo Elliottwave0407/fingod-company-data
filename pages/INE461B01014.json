@@ -3,7 +3,7 @@
  "sym": "REPRO",
  "name": "Repro India Limited",
  "scrip": "532687",
- "mcap_cr": 437.46,
+ "mcap_cr": 426.49,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 8.41,
    "pat": 1.13,
    "margin_pct": 6.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 6.91,
    "pat": -2.73,
    "margin_pct": 5.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -10.51,
    "pat": -20.06,
    "margin_pct": -9.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 10.44,
    "pat": 0.75,
    "margin_pct": 8.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 10.83,
    "pat": -11.27,
    "margin_pct": 7.8,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 60,
-    "profit": 48,
-    "quality": 0
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Flat",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,14 @@
    "ebitda": 171.11,
    "pat": 128.56,
    "margin_pct": 122.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 80,
-    "profit": 100,
-    "quality": 100
+   "verdict": "Excellent",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Ahead",
+    "momentum": null,
+    "acceleration": 997.2
    },
-   "capped_by": "turnaround from a loss base"
+   "verdict_notes": []
   },
   {
    "q": "Sep-26",
@@ -80,13 +91,20 @@
    "ebitda": 4.66,
    "pat": -4.75,
    "margin_pct": 2.6,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 100,
-    "profit": 82,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": "Mixed",
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -189,5 +207,26 @@
   ],
   "ledger": "claims/INE461B01014.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G55",
+  "group_name": "e-commerce, online, inc",
+  "subgroup": "G55.0",
+  "subgroup_name": "e-commerce, online, inc",
+  "terms": [
+   "e-commerce",
+   "online",
+   "inc",
+   "marketplace",
+   "vendors",
+   "internet"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE566K01011",
+    "name": "Intrasoft Technologies Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

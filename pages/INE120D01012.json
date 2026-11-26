@@ -3,7 +3,7 @@
  "sym": "HITECHCORP",
  "name": "Hitech Corporation Limited",
  "scrip": "526217",
- "mcap_cr": 706.01,
+ "mcap_cr": 704.38,
  "group": "T",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 14.22,
    "pat": 1.01,
    "margin_pct": 9.5,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 20.48,
    "pat": 4.75,
    "margin_pct": 12.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 19.93,
    "pat": 4.17,
    "margin_pct": 12.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 10.79,
    "pat": -2.62,
    "margin_pct": 7.4,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 22.01,
    "pat": 8.89,
    "margin_pct": 13.3,
-   "verdict_v3": "Excellent",
-   "pillars": {
-    "growth": 70,
-    "profit": 79,
-    "quality": 98
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,17 @@
    "ebitda": 23.01,
    "pat": 7.11,
    "margin_pct": 10.2,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 64,
-    "profit": 16,
-    "quality": 68
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -14.8
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY"
+   ]
   }
  ],
  "completeness": {
@@ -169,5 +180,38 @@
   "latest_guidance": [],
   "ledger": "claims/INE120D01012.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G18",
+  "group_name": "agrochemicals, chemicals, amines",
+  "subgroup": "G18.0",
+  "subgroup_name": "agrochemicals, chemicals, amines",
+  "terms": [
+   "agrochemicals",
+   "chemicals",
+   "amines",
+   "pharmaceuticals",
+   "agrochemicals pharmaceuticals",
+   "specialty chemicals"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE275D01022",
+    "name": "Amines & Plasticizers Limited"
+   },
+   {
+    "isin": "INE413G01022",
+    "name": "TPL Plastech Limited"
+   },
+   {
+    "isin": "INE591D01014",
+    "name": "Diamines & Chemicals Limited"
+   },
+   {
+    "isin": "INE760F01028",
+    "name": "Indo Amines Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

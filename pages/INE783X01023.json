@@ -3,7 +3,7 @@
  "sym": "CHEMFAB",
  "name": "Chemfab Alkalis Limited",
  "scrip": "541269",
- "mcap_cr": 456.58,
+ "mcap_cr": 485.9,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": 3.45,
    "pat": -9.19,
    "margin_pct": 3.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 11.3,
    "pat": 2.55,
    "margin_pct": 12.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 5.46,
    "pat": -2.01,
    "margin_pct": 7.1,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 1.94,
    "pat": -4.45,
    "margin_pct": 2.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,16 @@
    "ebitda": 8.52,
    "pat": 0.48,
    "margin_pct": 11.4,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 55,
-    "profit": 89,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "revenue down YoY"
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +73,16 @@
    "ebitda": 10.13,
    "pat": 5.73,
    "margin_pct": 13.8,
-   "verdict_v3": "Steady",
-   "pillars": {
-    "growth": 12,
-    "profit": 58,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "Behind",
+    "momentum": "Mixed",
+    "acceleration": -64.7
    },
-   "capped_by": null
+   "verdict_notes": [
+    "revenue growth under 15% YoY without 30%+ profit growth"
+   ]
   },
   {
    "q": "Sep-26",
@@ -80,13 +90,19 @@
    "ebitda": 7.04,
    "pat": -2.11,
    "margin_pct": 9.3,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 48,
-    "profit": 61,
-    "quality": 38
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": "In line",
+    "momentum": "Flat",
+    "acceleration": 21.4
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "net loss",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -195,5 +211,38 @@
   ],
   "ledger": "claims/INE783X01023.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G21",
+  "group_name": "caustic, caustic soda, soda",
+  "subgroup": "G21.0",
+  "subgroup_name": "caustic, caustic soda, soda",
+  "terms": [
+   "caustic",
+   "caustic soda",
+   "soda",
+   "chlor-alkali",
+   "chlorine",
+   "chloride"
+  ],
+  "peer_basis": "sub-group",
+  "peers": [
+   {
+    "isin": "INE148A01019",
+    "name": "Tamilnadu PetroProducts Limited"
+   },
+   {
+    "isin": "INE244A01016",
+    "name": "De Nora India Limited"
+   },
+   {
+    "isin": "INE607A01022",
+    "name": "Primo Chemicals Limited"
+   },
+   {
+    "isin": "INE715B01021",
+    "name": "The Andhra Sugars Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

@@ -3,7 +3,7 @@
  "sym": "TEXINFRA",
  "name": "Texmaco Infrastructure & Holdings Limited",
  "scrip": "505400",
- "mcap_cr": 1514.47,
+ "mcap_cr": 1533.58,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -4.02,
    "pat": 1.35,
    "margin_pct": -120.7,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": -0.44,
    "pat": 3.4,
    "margin_pct": -10.9,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": -0.27,
    "pat": 6.01,
    "margin_pct": -5.2,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": -1.95,
    "pat": 1.07,
    "margin_pct": -51.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,9 +56,17 @@
    "ebitda": -1.83,
    "pat": 0.69,
    "margin_pct": -41.9,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -62,9 +74,21 @@
    "ebitda": -1.76,
    "pat": 1.62,
    "margin_pct": -48.8,
-   "verdict_v3": "Provisional",
-   "pillars": {},
-   "capped_by": "tiny base"
+   "verdict": "Poor",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
+   },
+   "verdict_notes": [
+    "net profit down 30%+ YoY",
+    "revenue fell more than 5% QoQ (seasonally adjusted)",
+    "revenue growth under 15% YoY without 30%+ profit growth",
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "small base"
+   ]
   }
  ],
  "completeness": {
@@ -150,5 +174,26 @@
   "latest_guidance": [],
   "ledger": "claims/INE435C01024.json"
  },
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G48",
+  "group_name": "electricity, renewable energy, renewable",
+  "subgroup": "G48.0",
+  "subgroup_name": "electricity, renewable energy, renewable",
+  "terms": [
+   "electricity",
+   "renewable energy",
+   "renewable",
+   "energy certificate",
+   "rec",
+   "toll"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE243D01012",
+    "name": "BF Utilities Ltd-$"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }

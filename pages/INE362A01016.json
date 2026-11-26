@@ -3,7 +3,7 @@
  "sym": "PVP",
  "name": "PVP Ventures Limited",
  "scrip": "517556",
- "mcap_cr": 1217.65,
+ "mcap_cr": 1207.23,
  "group": "B",
  "quarters": [
   {
@@ -12,9 +12,10 @@
    "ebitda": -1.49,
    "pat": -2.57,
    "margin_pct": -7.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Jun-25",
@@ -22,9 +23,10 @@
    "ebitda": 5.04,
    "pat": -0.11,
    "margin_pct": 29.3,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Sep-25",
@@ -32,9 +34,10 @@
    "ebitda": 2.4,
    "pat": -2.6,
    "margin_pct": 14.0,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Dec-25",
@@ -42,9 +45,10 @@
    "ebitda": 5.0,
    "pat": -4.06,
    "margin_pct": 35.8,
-   "verdict_v3": null,
-   "pillars": {},
-   "capped_by": null
+   "verdict": null,
+   "verdict_version": null,
+   "tags": null,
+   "verdict_notes": null
   },
   {
    "q": "Mar-26",
@@ -52,13 +56,19 @@
    "ebitda": 4.15,
    "pat": -3.19,
    "margin_pct": 10.0,
-   "verdict_v3": "Poor",
-   "pillars": {
-    "growth": 100,
-    "profit": 88,
-    "quality": 100
+   "verdict": "Weak",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": "net loss"
+   "verdict_notes": [
+    "turnaround from a loss/zero EBITDA base",
+    "net loss",
+    "margin fell QoQ",
+    "small base"
+   ]
   },
   {
    "q": "Jun-26",
@@ -66,13 +76,18 @@
    "ebitda": 2.45,
    "pat": 11.06,
    "margin_pct": 5.4,
-   "verdict_v3": "Weak",
-   "pillars": {
-    "growth": 50,
-    "profit": 4,
-    "quality": 80
+   "verdict": "Steady",
+   "verdict_version": "v2.1",
+   "tags": {
+    "vs_expectation": null,
+    "momentum": null,
+    "acceleration": null
    },
-   "capped_by": null
+   "verdict_notes": [
+    "margin fell QoQ",
+    "margin fell QoQ and is not up YoY",
+    "EBITDA or profit fell 30%+ QoQ"
+   ]
   }
  ],
  "completeness": {
@@ -128,5 +143,26 @@
   "dividend_per_share": null
  },
  "claims": null,
- "note": "Verdict v3 is a prototype; peer-relative; not investment advice"
+ "business_group": {
+  "group": "G53",
+  "group_name": "patients, care, eye",
+  "subgroup": "G53.0",
+  "subgroup_name": "patients, care, eye",
+  "terms": [
+   "patients",
+   "care",
+   "eye",
+   "eye care",
+   "care patients",
+   "diagnostics"
+  ],
+  "peer_basis": "no true peers",
+  "peers": [
+   {
+    "isin": "INE947I01017",
+    "name": "Lotus Eye Hospital and Institute Limited"
+   }
+  ]
+ },
+ "note": "Verdict v2.1 (tier + tags); business groups are v0 (machine-grouped from annual reports); not investment advice"
 }
